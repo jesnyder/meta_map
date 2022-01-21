@@ -1,0 +1,1212 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03841110",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "FT500-101"
+      },
+      "Organization": {
+        "OrgFullName": "Fate Therapeutics",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "FT500 as Monotherapy and in Combination With Immune Checkpoint Inhibitors in Subjects With Advanced Solid Tumors",
+      "OfficialTitle": "FT500 as Monotherapy and in Combination With Immune Checkpoint Inhibitors in Subjects With Advanced Solid Tumors (Phase 1)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 15, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "February 12, 2019",
+      "StudyFirstSubmitQCDate": "February 12, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "February 15, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 15, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 25, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Fate Therapeutics",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "FT500 is an off-the-shelf, iPSC-derived NK cell product that can bridge innate and adaptive immunity, and has the potential to overcome multiple mechanisms of immune checkpoint inhibitor (ICI) resistance. The preclinical data provide compelling evidence supporting the clinical investigation of FT500 as monotherapy and in combination with ICI in subjects with advanced solid tumors."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Advanced Solid Tumors",
+          "Lymphoma",
+          "Gastric Cancer",
+          "Colorectal Cancer",
+          "Head and Neck Cancer",
+          "Squamous Cell Carcinoma",
+          "EGFR Positive Solid Tumor",
+          "HER2-positive Breast Cancer",
+          "Hepatocellular Carcinoma",
+          "Small Cell Lung Cancer",
+          "Renal Cell Carcinoma",
+          "Pancreas Cancer",
+          "Melanoma",
+          "NSCLC",
+          "Urothelial Carcinoma",
+          "Cervical Cancer",
+          "Microsatellite Instability",
+          "Merkel Cell Carcinoma"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Advanced Solid Tumor",
+          "Lymphoma",
+          "Breast Cancer",
+          "Head and Neck Cancer",
+          "Head and Neck",
+          "Squamous Cell Carcinoma",
+          "Gastric Cancer",
+          "Colorectal Cancer",
+          "Immunotherapy",
+          "NK cell therapy",
+          "Melanoma",
+          "Checkpoint Inhibitor",
+          "Immune Checkpoint Inhibitor",
+          "Monoclonal Antibody",
+          "Cell therapy",
+          "Cellular therapy",
+          "nivolumab",
+          "pembrolizumab",
+          "atezolizumab"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "37",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "FT500 Monotherapy",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "FT500 administered once weekly for 3 weeks as a monotherapy",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: FT500",
+                "Drug: Cyclophosphamide",
+                "Drug: Fludarabine"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "FT500 in Combination with Immune Checkpoint Inhibitor",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "FT500 administered once weekly for 3 weeks in combination with one of the following immune checkpoint inhibitors: nivolumab, pembrolizumab or atezolizumab.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: FT500",
+                "Drug: Nivolumab",
+                "Drug: Pembrolizumab",
+                "Drug: Atezolizumab",
+                "Drug: Cyclophosphamide",
+                "Drug: Fludarabine"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "FT500 +IL-2 in Combination with Immune Checkpoint Inhibitor",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "FT500 + IL-2 administered once weekly for 3 weeks in combination with one of the following immune checkpoint inhibitors: nivolumab, pembrolizumab or atezolizumab.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: FT500",
+                "Drug: Nivolumab",
+                "Drug: Pembrolizumab",
+                "Drug: Atezolizumab",
+                "Drug: Cyclophosphamide",
+                "Drug: Fludarabine",
+                "Drug: IL-2"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "FT500",
+            "InterventionDescription": "FT500 is an allogeneic, iPSC-derived Natural Killer (NK) cell cancer immunotherapy",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "FT500 +IL-2 in Combination with Immune Checkpoint Inhibitor",
+                "FT500 Monotherapy",
+                "FT500 in Combination with Immune Checkpoint Inhibitor"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Nivolumab",
+            "InterventionDescription": "Immune Checkpoint Inhibitor",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "FT500 +IL-2 in Combination with Immune Checkpoint Inhibitor",
+                "FT500 in Combination with Immune Checkpoint Inhibitor"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "OPDIVO"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Pembrolizumab",
+            "InterventionDescription": "Immune Checkpoint Inhibitor",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "FT500 +IL-2 in Combination with Immune Checkpoint Inhibitor",
+                "FT500 in Combination with Immune Checkpoint Inhibitor"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "KEYTRUDA"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Atezolizumab",
+            "InterventionDescription": "Immune Checkpoint Inhibitor",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "FT500 +IL-2 in Combination with Immune Checkpoint Inhibitor",
+                "FT500 in Combination with Immune Checkpoint Inhibitor"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "TECENTRIQ"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cyclophosphamide",
+            "InterventionDescription": "Lympho-conditioning agent",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "FT500 +IL-2 in Combination with Immune Checkpoint Inhibitor",
+                "FT500 Monotherapy",
+                "FT500 in Combination with Immune Checkpoint Inhibitor"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Fludarabine",
+            "InterventionDescription": "Lympho-conditioning agent",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "FT500 +IL-2 in Combination with Immune Checkpoint Inhibitor",
+                "FT500 Monotherapy",
+                "FT500 in Combination with Immune Checkpoint Inhibitor"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "IL-2",
+            "InterventionDescription": "Biologic response modifier",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "FT500 +IL-2 in Combination with Immune Checkpoint Inhibitor"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Proleukin",
+                "Aldesleukin"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "The incidence of subjects with Dose Limiting Toxicities within each dose level cohort.",
+            "PrimaryOutcomeDescription": "The incidence of subjects with DLTs within each assessed dose level cohort to determine the MTD or MAD.",
+            "PrimaryOutcomeTimeFrame": "Day 29"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Objective-response rate (ORR)",
+            "SecondaryOutcomeDescription": "defined as the proportion of subjects who achieve iPR/PR or iCR/CR. Tumor response will be assessed using iRECIST or RECIL, as applicable.\n\nProtocol FT500-101 FT500 Monotherapy and in Combination with Immune Checkpoint Inhibitors Page 16 of 121 Protocol Version 5.0 Fate Therapeutics, Inc.⎯Confidential and Proprietary The \"i\" prefix will be used throughout this protocol to denote iRECIST responses of iCR, iPR, iSD, iUPD, and iCPD.",
+            "SecondaryOutcomeTimeFrame": "Day 29 and every 8 weeks thereafter through Day 366"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of FT500 persistence",
+            "SecondaryOutcomeDescription": "defined as duration from Day 1 to undetectable levels of FT500 cells per uL blood.",
+            "SecondaryOutcomeTimeFrame": "Day 1 through Day 366"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\n1. Diagnosis of the following, as per Regimen Cohort:\n\n1A. Regimen A: FT500 Monotherapy (Dose Escalation): An advanced solid tumor malignancy, including lymphoma, in a subject who has failed or refused available FDA-approved therapies and is now a candidate for salvage therapy.\n\n1B. Regimen B and BB (Dose Escalation): FT500 (+ IL-2, Regimen BB only) + ICI: An advanced solid tumor malignancy, including lymphomas, that has progressed on treatment with at least one ICI (ie, nivolumab, pembrolizumab or atezolizumab), in a subject who has also failed or refused other available approved therapies and is now a candidate for salvage therapy.\n\n1C. Regimen B(Dose Expansion): FT500 (+ IL-2, Regimen BB only) + ICI An advanced solid tumor malignancy or lymphoma in a subject with disease relapse or progression on an ICI (nivolumab, pembrolizumab, or atezolizumab) in an approved indication per the respective USPI.\n\n2. Willingness to provide informed consent as described in the protocol, which includes compliance with the requirements and restrictions listed in the ICF and in this protoco 3. Age >18 years old at the time of signing the ICF 4. Presence of measurable disease by iRECIST or RECIL criteria, assessed before the start of lympho-conditioning and within 28 days prior to Day 1 5. Contraceptive use by women or men should be consistent with local regulations regarding the methods of contraception for those participating in clinical studies\n\nFemale subjects: Women of childbearing potential (WOCBP) must use a highly effective form of contraception from the screening visit until at least 12 months after the final dose of CY, at least 4 months after the final dose of FT500, at least 4 months after the final dose of pembrolizumab, and at least 5 months after the final dose of nivolumab or atezolizumab, whichever is latest.\n\nMale subjects: Males must be sterile (biologically or surgically) or use a highly effective method of contraception from the screening visit until at least 14 months after the final dose of CY, at least 6 months after the final dose of FT500, at least 6 months after the final dose of pembrolizumab, and at least 7 months after the final dose of nivolumab or atezolizumab, whichever is latest 6. Willingness to comply with study procedures through the planned study duration. For patients with >1 measurable lesion, agreement to undergo a biopsy from a safely accessible site per Investigator assessment for exploratory biomarker assessments.\n\n7. Provision of signed and dated ICF to agree to participate, at time of withdrawal or completion of this study, in Fate Therapeutics' long-term, non-interventional, observational study, FT-003\n\nExclusion Criteria:\n\nAll Subjects:\n\nFemales who are pregnant or breastfeeding\nECOG performance status ≥ 2.\n\nEvidence of insufficient organ function as determined by any one of the following:\n\nNeutrophils <1000/µL or platelets <75,000/µL.\nEstimated creatinine clearance <50 mL/minute (Cockcroft-gault).\nTotal bilirubin >2 x upper limit normal (ULN) with the exception of subjects with Gilbert's Syndrome or known liver metastases.\nAspartate aminotransferase (AST) >3 x ULN, or alanine aminotransferase (ALT) >3 x ULN. For subjects with known liver metastases, AST or ALT >5 x ULN.\nOxygen saturation <90% on room air\nLeft ventricular ejection fraction (LVEF) <40% (eg by echocardiogram (ECHO) or ] multi-gated acquisition (MUGA) scan).\nReceipt of any biological therapy, chemotherapy, or radiation (except palliative radiation) within 2 weeks prior to Day 1. Subjects in Regimen B currently taking an ICI must interrupt ICI dosing at least 2 weeks prior to Day 1.\nCNS metastases that have not been treated; or treated CNS metastases that have not been stable for at least 4 weeks.\nClinically significant cardiovascular disease, including stroke or myocardial infarction within 6 months prior to first study medication; or the presence of unstable angina or congestive heart failure of New York Heart Association grade 2 or higher.\nCurrently receiving or likely to require systemic immunosuppressive therapy (eg, prednisone >5 mg daily) for any reason from Day -7 to Day 29.\nUncontrolled infections.\nKnown allergy to the following FT500 components: Albumin (Human) or DMSO.\nPresence of any medical or social issues that are likely to interfere with study conduct, or may cause increased risk to subject.\nAny medical condition or clinical laboratory abnormality that, per Investigator or Medical Monitor judgement, precludes safe participation in and completion of the study, or that could affect compliance with protocol conduct or interpretation of results Subjects who have had prior receipt of a Fate Therapeutics investigational human iPSC product may be eligible for the study with approval from the Medical Monitor.\n\nAdditional Exclusion Criteria for Regimen B: FT500 + ICI:\n\n11. Subjects who experienced an ICI-related adverse reaction that resulted in discontinuation of the ICI.\n\n12. Presence or history of autoimmune disease (eg, lupus erythematosus, rheumatoid arthritis, Addison's disease, autoimmune disease associated with lymphoma, Crohn's disease, ulcerative colitis), except for subjects with isolated vitiligo, atopic dermatitis, controlled hypoadrenalism or hypopituitarism, and controlled thyroid disease.\n\n13. Subjects who have received an allograft organ transplant.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Kimberly Musni",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "858-875-1800",
+            "CentralContactEMail": "clinical@fatetherapeutics.com"
+          },
+          {
+            "CentralContactName": "Karen Albers",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "858-875-1800"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jeff Chou, MD",
+            "OverallOfficialAffiliation": "Fate Therapeutics",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "UCSD Moores Cancer Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "San Diego",
+            "LocationState": "California",
+            "LocationZip": "92093",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Minnesota Masonic Cancer Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Minneapolis",
+            "LocationState": "Minnesota",
+            "LocationZip": "55455",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Hackensack University Medical Center/John Theurer Cancer Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Hackensack",
+            "LocationState": "New Jersey",
+            "LocationZip": "07601",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "MD Anderson Cancer Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77030",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000015266",
+            "ConditionMeshTerm": "Carcinoma, Merkel Cell"
+          },
+          {
+            "ConditionMeshId": "D000002277",
+            "ConditionMeshTerm": "Carcinoma"
+          },
+          {
+            "ConditionMeshId": "D000009369",
+            "ConditionMeshTerm": "Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000015179",
+            "ConditionMeshTerm": "Colorectal Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000008545",
+            "ConditionMeshTerm": "Melanoma"
+          },
+          {
+            "ConditionMeshId": "D000002294",
+            "ConditionMeshTerm": "Carcinoma, Squamous Cell"
+          },
+          {
+            "ConditionMeshId": "D000013274",
+            "ConditionMeshTerm": "Stomach Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000006258",
+            "ConditionMeshTerm": "Head and Neck Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000055752",
+            "ConditionMeshTerm": "Small Cell Lung Carcinoma"
+          },
+          {
+            "ConditionMeshId": "D000010190",
+            "ConditionMeshTerm": "Pancreatic Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000053842",
+            "ConditionMeshTerm": "Microsatellite Instability"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009375",
+            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000007414",
+            "ConditionAncestorTerm": "Intestinal Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000005770",
+            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004067",
+            "ConditionAncestorTerm": "Digestive System Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003108",
+            "ConditionAncestorTerm": "Colonic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007410",
+            "ConditionAncestorTerm": "Intestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012002",
+            "ConditionAncestorTerm": "Rectal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018358",
+            "ConditionAncestorTerm": "Neuroendocrine Tumors"
+          },
+          {
+            "ConditionAncestorId": "D000017599",
+            "ConditionAncestorTerm": "Neuroectodermal Tumors"
+          },
+          {
+            "ConditionAncestorId": "D000009373",
+            "ConditionAncestorTerm": "Neoplasms, Germ Cell and Embryonal"
+          },
+          {
+            "ConditionAncestorId": "D000009380",
+            "ConditionAncestorTerm": "Neoplasms, Nerve Tissue"
+          },
+          {
+            "ConditionAncestorId": "D000018326",
+            "ConditionAncestorTerm": "Nevi and Melanomas"
+          },
+          {
+            "ConditionAncestorId": "D000018307",
+            "ConditionAncestorTerm": "Neoplasms, Squamous Cell"
+          },
+          {
+            "ConditionAncestorId": "D000000230",
+            "ConditionAncestorTerm": "Adenocarcinoma"
+          },
+          {
+            "ConditionAncestorId": "D000013272",
+            "ConditionAncestorTerm": "Stomach Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002283",
+            "ConditionAncestorTerm": "Carcinoma, Bronchogenic"
+          },
+          {
+            "ConditionAncestorId": "D000001984",
+            "ConditionAncestorTerm": "Bronchial Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008175",
+            "ConditionAncestorTerm": "Lung Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000012142",
+            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000013899",
+            "ConditionAncestorTerm": "Thoracic Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004701",
+            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000010182",
+            "ConditionAncestorTerm": "Pancreatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000027601",
+            "ConditionAncestorTerm": "Polyomavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000004266",
+            "ConditionAncestorTerm": "DNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000014412",
+            "ConditionAncestorTerm": "Tumor Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000018278",
+            "ConditionAncestorTerm": "Carcinoma, Neuroendocrine"
+          },
+          {
+            "ConditionAncestorId": "D000042822",
+            "ConditionAncestorTerm": "Genomic Instability"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10324",
+            "ConditionBrowseLeafName": "Lung Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4686",
+            "ConditionBrowseLeafName": "Carcinoma",
+            "ConditionBrowseLeafAsFound": "Carcinoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10372",
+            "ConditionBrowseLeafName": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8765",
+            "ConditionBrowseLeafName": "Carcinoma, Hepatocellular",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10680",
+            "ConditionBrowseLeafName": "Melanoma",
+            "ConditionBrowseLeafAsFound": "Melanoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4372",
+            "ConditionBrowseLeafName": "Breast Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4702",
+            "ConditionBrowseLeafName": "Carcinoma, Squamous Cell",
+            "ConditionBrowseLeafAsFound": "Squamous Cell Carcinoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M15216",
+            "ConditionBrowseLeafName": "Stomach Neoplasms",
+            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4982",
+            "ConditionBrowseLeafName": "Uterine Cervical Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12262",
+            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+            "ConditionBrowseLeafAsFound": "Pancreas Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8500",
+            "ConditionBrowseLeafName": "Head and Neck Neoplasms",
+            "ConditionBrowseLeafAsFound": "Head and Neck Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27476",
+            "ConditionBrowseLeafName": "Small Cell Lung Carcinoma",
+            "ConditionBrowseLeafAsFound": "Small Cell Lung Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4700",
+            "ConditionBrowseLeafName": "Carcinoma, Renal Cell",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M26663",
+            "ConditionBrowseLeafName": "Microsatellite Instability",
+            "ConditionBrowseLeafAsFound": "Microsatellite Instability",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4703",
+            "ConditionBrowseLeafName": "Carcinoma, Transitional Cell",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17119",
+            "ConditionBrowseLeafName": "Carcinoma, Merkel Cell",
+            "ConditionBrowseLeafAsFound": "Merkel Cell Carcinoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17042",
+            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11472",
+            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9600",
+            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8038",
+            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6408",
+            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5488",
+            "ConditionBrowseLeafName": "Colonic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9596",
+            "ConditionBrowseLeafName": "Intestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13996",
+            "ConditionBrowseLeafName": "Rectal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19648",
+            "ConditionBrowseLeafName": "Neuroendocrine Tumors",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18997",
+            "ConditionBrowseLeafName": "Neuroectodermal Tumors",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19540",
+            "ConditionBrowseLeafName": "Neuroectodermal Tumors, Primitive",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11470",
+            "ConditionBrowseLeafName": "Neoplasms, Germ Cell and Embryonal",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11477",
+            "ConditionBrowseLeafName": "Neoplasms, Nerve Tissue",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11598",
+            "ConditionBrowseLeafName": "Nevus",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11600",
+            "ConditionBrowseLeafName": "Nevus, Pigmented",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19623",
+            "ConditionBrowseLeafName": "Nevi and Melanomas",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19604",
+            "ConditionBrowseLeafName": "Neoplasms, Squamous Cell",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2737",
+            "ConditionBrowseLeafName": "Adenocarcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15214",
+            "ConditionBrowseLeafName": "Stomach Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4692",
+            "ConditionBrowseLeafName": "Carcinoma, Bronchogenic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4412",
+            "ConditionBrowseLeafName": "Bronchial Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14131",
+            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15810",
+            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7015",
+            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12254",
+            "ConditionBrowseLeafName": "Pancreatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22389",
+            "ConditionBrowseLeafName": "Polyomavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6594",
+            "ConditionBrowseLeafName": "DNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16314",
+            "ConditionBrowseLeafName": "Tumor Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19575",
+            "ConditionBrowseLeafName": "Carcinoma, Neuroendocrine",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24241",
+            "ConditionBrowseLeafName": "Genomic Instability",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3543",
+            "ConditionBrowseLeafName": "Lymphosarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T5486",
+            "ConditionBrowseLeafName": "Stomach Cancer",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4387",
+            "ConditionBrowseLeafName": "Pancreatic Cancer",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T5271",
+            "ConditionBrowseLeafName": "Small Cell Lung Cancer",
+            "ConditionBrowseLeafAsFound": "Small Cell Lung Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T4906",
+            "ConditionBrowseLeafName": "Renal Cell Carcinoma",
+            "ConditionBrowseLeafAsFound": "Renal Cell Carcinoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T1341",
+            "ConditionBrowseLeafName": "Clear Cell Renal Cell Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T5693",
+            "ConditionBrowseLeafName": "Transitional Cell Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3716",
+            "ConditionBrowseLeafName": "Merkel Cell Carcinoma",
+            "ConditionBrowseLeafAsFound": "Merkel Cell Carcinoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T4091",
+            "ConditionBrowseLeafName": "Neuroendocrine Tumor",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4092",
+            "ConditionBrowseLeafName": "Neuroepithelioma",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "C000082598",
+            "InterventionMeshTerm": "Aldesleukin"
+          },
+          {
+            "InterventionMeshId": "D000003520",
+            "InterventionMeshTerm": "Cyclophosphamide"
+          },
+          {
+            "InterventionMeshId": "C000582435",
+            "InterventionMeshTerm": "Pembrolizumab"
+          },
+          {
+            "InterventionMeshId": "D000077594",
+            "InterventionMeshTerm": "Nivolumab"
+          },
+          {
+            "InterventionMeshId": "C000024352",
+            "InterventionMeshTerm": "Fludarabine"
+          },
+          {
+            "InterventionMeshId": "C000594389",
+            "InterventionMeshTerm": "Atezolizumab"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000007166",
+            "InterventionAncestorTerm": "Immunosuppressive Agents"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018906",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+          },
+          {
+            "InterventionAncestorId": "D000000477",
+            "InterventionAncestorTerm": "Alkylating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000019653",
+            "InterventionAncestorTerm": "Myeloablative Agonists"
+          },
+          {
+            "InterventionAncestorId": "D000074322",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Immunological"
+          },
+          {
+            "InterventionAncestorId": "D000082082",
+            "InterventionAncestorTerm": "Immune Checkpoint Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000019380",
+            "InterventionAncestorTerm": "Anti-HIV Agents"
+          },
+          {
+            "InterventionAncestorId": "D000044966",
+            "InterventionAncestorTerm": "Anti-Retroviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000998",
+            "InterventionAncestorTerm": "Antiviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M289070",
+            "InterventionBrowseLeafName": "Pembrolizumab",
+            "InterventionBrowseLeafAsFound": "200",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M5879",
+            "InterventionBrowseLeafName": "Cyclophosphamide",
+            "InterventionBrowseLeafAsFound": "Months",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M1854",
+            "InterventionBrowseLeafName": "Nivolumab",
+            "InterventionBrowseLeafAsFound": "Multiple",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3382",
+            "InterventionBrowseLeafName": "Antibodies, Monoclonal",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M287417",
+            "InterventionBrowseLeafName": "Atezolizumab",
+            "InterventionBrowseLeafAsFound": "Healthy Subjects",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M2343",
+            "InterventionBrowseLeafName": "Immune Checkpoint Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M283219",
+            "InterventionBrowseLeafName": "Fludarabine",
+            "InterventionBrowseLeafAsFound": "Medical",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M225462",
+            "InterventionBrowseLeafName": "Aldesleukin",
+            "InterventionBrowseLeafAsFound": "Molecular",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M225481",
+            "InterventionBrowseLeafName": "Fludarabine phosphate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9364",
+            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20095",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2972",
+            "InterventionBrowseLeafName": "Alkylating Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M1346",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Immunological",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20503",
+            "InterventionBrowseLeafName": "Anti-HIV Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M24581",
+            "InterventionBrowseLeafName": "Anti-Retroviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3466",
+            "InterventionBrowseLeafName": "Antiviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          }
+        ]
+      }
+    }
+  }
+}

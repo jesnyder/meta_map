@@ -1,0 +1,321 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01351610",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MSC_Apceth_001"
+      },
+      "Organization": {
+        "OrgFullName": "Apceth GmbH & Co. KG",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Tolerability and Efficacy of Intravenous Infusion of Autologous MSC_Apceth for the Treatment of Critical Limb Ischemia",
+      "OfficialTitle": "Open, Randomized, Mono-Centre, Two-Parallel Group Clinical Phase I/II Trial on the Evaluation of Tolerability and Efficacy of an Intravenous Infusion of Human Bone Marrow Derived Autologous, CD34-Negative Mesenchymal Stem Cells for the Treatment of Critical Limb Ischemia in Patients With Advanced Peripheral Arterial Occlusive Disease Subsequent to Percutaneous Transluminal Angioplasty"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2015",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 2011"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 2014",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 2015",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "May 10, 2011",
+      "StudyFirstSubmitQCDate": "May 10, 2011",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 11, 2011",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "December 14, 2015",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 15, 2015",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Apceth GmbH & Co. KG",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "MSC_Apceth are GMP-manufactured, autologous ex-vivo expanded non-hemapoietic bone-marrow derived stem cells for the treatment of Critical Limb Ischemia"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Critical Limb Ischemia",
+          "Peripheral Artery Disease"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Critical Limb Ischemia",
+          "Peripheral Arterial Occlusive Disease",
+          "Peripheral Artery Disease",
+          "Peripheral Vascular Disease",
+          "Stem Cell Therapy",
+          "Mesenchymal Stem Cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "25",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Group B",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: PTA"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group A",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: PTA + Infusion of MSC_Apceth"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "PTA + Infusion of MSC_Apceth",
+            "InterventionDescription": "percutaneous transluminal angioplasty followed by infusion of MSC_Apceth",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group A"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "PTA",
+            "InterventionDescription": "percutaneous transluminal angioplasty only",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group B"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Collection of adverse events",
+            "PrimaryOutcomeTimeFrame": "one year"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Safety laboratory values",
+            "PrimaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "PrimaryOutcomeMeasure": "ECG findings",
+            "PrimaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Analysis of inflammation markers",
+            "PrimaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Comparison of course of haemodynamic and vascular processes",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with peripheral arterial occlusive disease (symptomatic PAOD), diagnosis of CLI defined as persistent, recurring ischemic rest pain for at least 2 weeks, and/or ulceration or gangrene of the foot or toe, with an ABPI </= 0.5,\nPatients with staging of ≥III according to Fontaine and ≥4 according to Rutherford categories,\nPatients fulfilling the criteria for an invasive re-vascularisation procedure (PTA) at the discretion of the investigator,\nPatients without major amputation of the lower extremities within the period of 6 months after inclusion in the opinion of the investigator,\n\nExclusion Criteria:\n\nPatients with wounds of a severity of greater than grade 2 on the Wagner Scale,\nPatients with life-threatening ventricular arrhythmia,\nPatients with unstable angina pectoris,\nPatients with severe congestive heart failure (i.e. NYHA Stage IV),\nPatients with uncontrolled hypertension (defined as diastolic blood pressure >110 mmHg or systolic blood pressure >180 mmHg during screening),\nPatients with an uncontrolled diabetes mellitus (HbA1c > 9%),\nPatients having any history of malignant tumour in the anamnesis or are currently on tumour treatment,\nPatients who are unsuitable for a MSC stem cell therapy in the opinion of the investigator,",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "40 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Peter Heider, MD, PhD",
+            "OverallOfficialAffiliation": "Isar Medizin Zentrum, München",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Isar Medizin Zentrum",
+            "LocationCity": "Munich",
+            "LocationState": "Bavaria",
+            "LocationZip": "80331",
+            "LocationCountry": "Germany"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000058729",
+            "ConditionMeshTerm": "Peripheral Arterial Disease"
+          },
+          {
+            "ConditionMeshId": "D000001157",
+            "ConditionMeshTerm": "Arterial Occlusive Diseases"
+          },
+          {
+            "ConditionMeshId": "D000007511",
+            "ConditionMeshTerm": "Ischemia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000050197",
+            "ConditionAncestorTerm": "Atherosclerosis"
+          },
+          {
+            "ConditionAncestorId": "D000001161",
+            "ConditionAncestorTerm": "Arteriosclerosis"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000016491",
+            "ConditionAncestorTerm": "Peripheral Vascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafAsFound": "Ischemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M28366",
+            "ConditionBrowseLeafName": "Peripheral Arterial Disease",
+            "ConditionBrowseLeafAsFound": "Peripheral Artery Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18046",
+            "ConditionBrowseLeafName": "Peripheral Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3617",
+            "ConditionBrowseLeafName": "Arterial Occlusive Diseases",
+            "ConditionBrowseLeafAsFound": "Arterial Occlusive Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M25341",
+            "ConditionBrowseLeafName": "Atherosclerosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3621",
+            "ConditionBrowseLeafName": "Arteriosclerosis",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

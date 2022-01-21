@@ -1,0 +1,312 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04695522",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CVSR0006"
+      },
+      "Organization": {
+        "OrgFullName": "Osaka University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "ADR-002K for Patients With Ischemic Cardiomyopathy Who Undergo Coronary Artery Bypass Surgery",
+      "OfficialTitle": "Phase I Trial of ADR-002K for Patients With Ischemic Cardiomyopathy Who Undergo Coronary Artery Bypass Surgery"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 27, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 30, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 31, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 9, 2020",
+      "StudyFirstSubmitQCDate": "January 2, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 5, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 2, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 5, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Daisuke Mori",
+        "ResponsiblePartyInvestigatorTitle": "Assistant professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Osaka University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Osaka University",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Rohto Pharmaceutical Co., Ltd.",
+            "CollaboratorClass": "INDUSTRY"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Ischemic cardiomyopathy undergoing coronary artery bypass surgery"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "D017202"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Coronary artery bypass",
+          "Ischemic cardiomyopathy",
+          "Adipose-derived mesenchymal stem cells",
+          "Regenerative medicine",
+          "Spray method"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "6",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Group of subjects undergoing cell transplantation",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: ADR-002K administration"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group of subjects undergoing sham operation",
+            "ArmGroupType": "Sham Comparator",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: ADR-002K administration"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "ADR-002K administration",
+            "InterventionDescription": "ADR-002K administration",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group of subjects undergoing cell transplantation",
+                "Group of subjects undergoing sham operation"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of participants with Adverse event",
+            "PrimaryOutcomeDescription": "Safety assessment related to adverse events and this product",
+            "PrimaryOutcomeTimeFrame": "26 weeks"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Amount of change in late gadolinium contrast-enhanced area at the time of screening and 6 months after surgery",
+            "PrimaryOutcomeDescription": "Efficacy (Exploratory)",
+            "PrimaryOutcomeTimeFrame": "26 weeks"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of complication associated with drug administration method",
+            "PrimaryOutcomeDescription": "Feasibility of drug administration method",
+            "PrimaryOutcomeTimeFrame": "26 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients who are clinically diagnosed with ischemic cardiomyopathy and receive CABG\nPatients with a left ventricular ejection fraction of 40% or less by cardiac ultrasonography within 4 weeks before obtaining consent\nOthers\n\nExclusion Criteria:\n\nPatients who have a combination of cardiovascular disease such as severe organic valvular disease or aortic aneurysm determined by investigator or co-investigator to affect clinical trial procedure\nPatients whose participation in a clinical trial is considered inappropriate at the discretion of the investigator or co-investigator\nOthers",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Daisuke Mori, Ph.D",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+81-6-6879-3154",
+            "CentralContactEMail": "daimolion@gmail.com"
+          },
+          {
+            "CentralContactName": "Masao Sasai, Ph.D",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+81-6-6879-3154",
+            "CentralContactEMail": "sasai-masao@tissue.med.osaka-u.ac.jp"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Daisuke Mori, Ph.D",
+            "OverallOfficialAffiliation": "Osaka University Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Osaka University Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Suita",
+            "LocationState": "Osaka",
+            "LocationZip": "5650871",
+            "LocationCountry": "Japan",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Daisuke Mori, Ph.D",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+81-6-6879-3154",
+                  "LocationContactEMail": "daimolion@gmail.com"
+                },
+                {
+                  "LocationContactName": "Masao Sasai, Ph.D",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+81-6-6105-5240",
+                  "LocationContactEMail": "sasai-masao@tissue.med.osaka-u.ac.jp"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009202",
+            "ConditionMeshTerm": "Cardiomyopathies"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11306",
+            "ConditionBrowseLeafName": "Cardiomyopathies",
+            "ConditionBrowseLeafAsFound": "Cardiomyopathy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

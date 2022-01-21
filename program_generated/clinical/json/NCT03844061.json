@@ -1,0 +1,693 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03844061",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2018-2011"
+      },
+      "Organization": {
+        "OrgFullName": "Hospital for Special Surgery, New York",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Belimumab and Rituximab Combination Therapy for the Treatment of Diffuse Cutaneous Systemic Sclerosis",
+      "OfficialTitle": "A Randomized, Double-Blind, Placebo-Controlled Study of Belimumab and Rituximab Combination Therapy for the Treatment of Diffuse Cutaneous Systemic Sclerosis"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 29, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "February 28, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "February 28, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 31, 2019",
+      "StudyFirstSubmitQCDate": "February 15, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "February 18, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 4, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 5, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Hospital for Special Surgery, New York",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "GlaxoSmithKline",
+            "CollaboratorClass": "INDUSTRY"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a 52 week, single center, randomized, double-blind, placebo-controlled study.\n\nAfter patients maintain a stable dose of Mycophenolate Mofetil (MMF) for at least 1 month, they will be randomized to treatment with either Belimumab & Rituximab or placebo.Patients in both groups will be on background MMF for the entirety of the study. Belimumab will be administered subcutaneously and Rituximab intravenously. Placebo injections and infusions will be of normal saline. Randomization will be done in a 2:1 manner to favor the treatment group. It is hypothesized that that Rituximab and Belimumab combination therapy with Mycophenolate Mofetil background therapy will improve fibrosis in SSc skin when compared to treatment with placebo and Mycophenolate Mofetil in a group of patients with early dcSSc.",
+      "DetailedDescription": "The specific objectives of this study are to:\n\nDetermine whether rituximab/belimumab/mmf is safe and tolerable in the treatment of patients with early diffuse cutaneous (dc)SSc when compared to patients treated with placebo/placebo/mmf, as assessed by comparison of adverse and serious adverse effects. In this study stand of care will be protocolized as mycophenolate mofetil.\nDetermine whether rituximab/belimumab/mmf is more effective than placebo/placebo/mmf, as measured by change in CRISS, which is a composite outcome measure provisionally endorsed by the ACR for scleroderma clinical trials. It incorporates change in the mRSS, FVC percent predicted, physician and patient global assessments, and HAQ-DI. Additionally, hemoglobin corrected diffusion capacity (DLCO), Medsger Severity Scale (MSS), and by other physician and patient derived outcome measures will be used.\nDetermine the biological activity of rituximab/belimumab/mmf vs placebo/placebo/mmf as assessed by effect on histology of skin, gene expression of skin and blood, change in B-Cell profiles including assessment of B regulatory cells, and effect on serological and cutaneous biomarkers of disease activity."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Systemic Sclerosis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Systemic Sclerosis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "MMF + Rituximab + Belimumab",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Two infusions of 1000 mg of Rituximab, two weeks apart, weekly subcutaneous injections of 200 mg of Belimumab, and background MMF, 1000 -1500 mg twice daily for 48 weeks.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Belimumab",
+                "Drug: Rituximab",
+                "Drug: MMF"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "MMF + Placebo + Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Two placebo infusions of normal saline, two weeks apart, weekly saline placebo subcutaneous injections, and background MMF, 1000 -1500 mg twice daily for 48 weeks.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo Subcutaneous Injection",
+                "Other: Placebo Infusion",
+                "Drug: MMF"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Belimumab",
+            "InterventionDescription": "Belimumab decreases B-Cell survival and has been FDA approved for the treatment of systemic lupus erythematosus, another rheumatic autoimmune disease. Belimumab is a recombinant, fully human monoclonal antibody; it binds to the soluble human B lymphocyte stimulator (BLyS) with high affinity and inhibits its biologic activity. The background above provides a robust rationale for the investigation of belimumab in the treatment of dcSSc.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MMF + Rituximab + Belimumab"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Benlysta"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Rituximab",
+            "InterventionDescription": "Rituxan® (rituximab) is a genetically engineered IgG1 kappa chimeric murine/human monoclonal antibody containing murine light- and heavy-chain variable region sequences and human constant region sequences. The antibody reacts specifically with the CD20 antigen found on the surface of malignant and normal B cells, and established B cell lines. Studies have shown that rituximab binds via its Fc domain to human complement and lyses lymphoid B cell lines by complement dependent cytotoxicity through the induction of apoptosis and via antibody-dependent cell mediated cytotoxicity. Rituximab is approved by the U.S. Food and Drug Administration (FDA) to treat some types of cancer, rheumatoid arthritis and vasculitis.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MMF + Rituximab + Belimumab"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Rituxan"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo Subcutaneous Injection",
+            "InterventionDescription": "Normal Saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MMF + Placebo + Placebo"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo Infusion",
+            "InterventionDescription": "Normal Saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MMF + Placebo + Placebo"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "MMF",
+            "InterventionDescription": "MMF belongs to a group of medicines known as immunosuppressive agents. It is used with other medicines to lower the body's natural immunity.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MMF + Placebo + Placebo",
+                "MMF + Rituximab + Belimumab"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Cellcept",
+                "Mycophenolate Mofetil"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Primary Efficacy Outcome: Change in the ACR CRISS at 12 months",
+            "PrimaryOutcomeDescription": "The American College of Rheumatology Composite Response Index in Diffuse Cutaneous Systemic Sclerosis (ACR CRISS) was developed using expert consensus and data driven approaches for use in clinical trials (Khanna et al, 2016). The exponential algorithm determines the predicted probability of improvement from baseline, incorporating change in the mRSS, FVC percent predicted, physician and patient global assessments, and HAQ-DI. The outcome is a continuous variable between 0.0 and 1.0 (0 - 100%). A higher score indicates greater improvement. Subjects are not considered improved (ACR CRISS score = 0) if they develop new: 1) renal crisis; 2) decline in FVC% predicted by 15% (relative) from baseline and confirmed after 1 month; or 3) left ventricular failure (systolic ejection fraction < 45%); or 4) new pulmonary artery hypertension on right heart catheterization requiring treatment.",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Primary Safety Outcome: The proportion of participants who experience at least one Grade 3 or higher adverse event at or before 12 months",
+            "PrimaryOutcomeDescription": "An adverse event is defined as any untoward medical occurrence in a patient or clinical investigation subject, temporally associated with the use of a medicinal product, whether or not considered related to the medicinal product.Grade 3 = Severe and undesirable adverse event",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Proportion of patients who experience at least one grade 2 or higher adverse event",
+            "SecondaryOutcomeDescription": "Grade 2 = Moderate adverse event",
+            "SecondaryOutcomeTimeFrame": "Baseline 1 through month 15"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number Infectious Adverse Events Across all Participants",
+            "SecondaryOutcomeDescription": "infectious adverse events",
+            "SecondaryOutcomeTimeFrame": "Baseline 1 through month 15"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number Adverse Infusion Reactions Across all Participants",
+            "SecondaryOutcomeDescription": "infusion reactions",
+            "SecondaryOutcomeTimeFrame": "Baseline 1 through month 15"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number Injection Site Reactions Across all Participants",
+            "SecondaryOutcomeDescription": "injection site reactions",
+            "SecondaryOutcomeTimeFrame": "Baseline 1 through month 15"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number Adverse Events Across all Participants",
+            "SecondaryOutcomeDescription": "An adverse event is defined as any untoward medical occurrence in a patient or clinical investigation subject, temporally associated with the use of a medicinal product, whether or not considered related to the medicinal product.",
+            "SecondaryOutcomeTimeFrame": "Baseline 1 through month 15"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in the CRISS at 6 months",
+            "SecondaryOutcomeDescription": "The American College of Rheumatology Composite Response Index in Diffuse Cutaneous Systemic Sclerosis (ACR CRISS) was developed using expert consensus and data driven approaches for use in clinical trials (Khanna et al, 2016). The exponential algorithm determines the predicted probability of improvement from baseline, incorporating change in the mRSS, FVC percent predicted, physician and patient global assessments, and HAQ-DI. The outcome is a continuous variable between 0.0 and 1.0 (0 - 100%). A higher score indicates greater improvement. Subjects are not considered improved (ACR CRISS score = 0) if they develop new: 1) renal crisis; 2) decline in FVC% predicted by 15% (relative) from baseline and confirmed after 1 month; or 3) left ventricular failure (systolic ejection fraction < 45%); or 4) new pulmonary artery hypertension on right heart catheterization requiring treatment.",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in the MRSS at 6 and 12 months",
+            "SecondaryOutcomeDescription": "The MRSS is a validated physical examination method for estimating skin induration. It is correlated with biopsy measures of skin thickness and reflects prognosis and visceral involvement, especially in early disease2, 4. It is scored on a 0 (normal) to 3+ (severe induration) ordinal scales over 17 body areas, with a maximum score of 51 and is used to categorize severity of SSc. Minimally clinically significant difference in MRSS is 3-5 points (Amjadi et al., American College of Rheumatology; Aug 2009; 2493-2494) It has been extensively used as primary/ secondary outcome in RCT with Scleroderma. This will be collected at every study visit.",
+            "SecondaryOutcomeTimeFrame": "6 months and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in FVC and DLCO",
+            "SecondaryOutcomeDescription": "Forced expiratory maneuvers will be performed at least in triplicate with the minimal requirement that three maneuvers are \"acceptable\" and that two of these maneuvers meet end-of-test and repeatability criteria for FVC and FEV1. DLCO is a measure of lung disease severity.",
+            "SecondaryOutcomeTimeFrame": "Baseline and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Forced Vital Capacity (FVC)",
+            "SecondaryOutcomeDescription": "Forced expiratory maneuvers will be performed at least in triplicate with the minimal requirement that three maneuvers are \"acceptable\" and that two of these maneuvers meet end-of-test and repeatability criteria for FVC and FEV1.",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in the Short Form-36 (SF-36) Health Survey",
+            "SecondaryOutcomeDescription": "The SF-36 was developed during the Medical Outcomes Study (MOS) to measure generic health concepts relevant across age, disease, and treatment groups. It assesses physical functioning, role limitations due to physical health, role limitations due to emotional problems, energy/fatigue, emotional well-being, social functioning, pain, general health, and health change. For each, the minimum score is 0% and the maximum score is 100%. The 0% score is the poorest and the 100% score is the best score. On Short Form-36 (SF-36) forms, individuals with SSc score significantly lower than healthy controls in domains of physical component score, mental component score, physical functioning, role-physical, bodily pain, general health, and mental health (Iudici et al, 2013).",
+            "SecondaryOutcomeTimeFrame": "through study completion, an average of 1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in the scleroderma health assessment questionnaire-disability index (sHAQ-DI)",
+            "SecondaryOutcomeDescription": "The SHAQ-DI is a disease-targeted, musculoskeletal-targeted measure intended for assessing functional ability in scleroderma. It is a self-administered 20-question instrument that assesses a patient's level of functional ability and includes questions that involve both upper and lower extremities. The SHAQ-DI score ranges from 0 (no disability) to 3 (severe disability). It has a 7 day recall period and has been extensively used in SSc65, 67. 5 visual analog scales are included in the scleroderma-HAQ assessing burden of digital ulcers, Raynaud's, gastrointestinal involvement, breathing, and overall disease 68.",
+            "SecondaryOutcomeTimeFrame": "through study completion, an average of 1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in PROMIS-29",
+            "SecondaryOutcomeDescription": "The PROMIS network developed item (question) banks and short forms in more than 20 health domains as well as a set of global health items and 29-, 43-, and 57-item profile measures. To create a brief, practical-yet-inclusive short profile, a consensus-building process was used to identify 7 of these 20 domains to produce the PROMIS-29.",
+            "SecondaryOutcomeTimeFrame": "through study completion, an average of 1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in gastrointestinal tract (GIT) in scleroderma score",
+            "SecondaryOutcomeDescription": "The UCLA SCTC GIT 2.0 is a standardized set of outcome measures developed through literature review, patient focus groups and cognitive debriefing among patients with a variety of gastrointestinal disorders including irritable bowel syndrome, inflammatory bowel disease, other common gastrointestinal disorders, SSc, and a census-based US general population control sample (Khanna et al, 2009). The scale consists of eight domains relating to gastroesophageal reflux (13 items), disrupted swallowing (7 items), diarrhea (5 items), bowel incontinence/soilage (4 items), nausea and vomiting (4 items), constipation (9 items), belly pain (6 items), and gas/bloat/flatulence (12 items). The scales correlated significantly with both generic and disease-targeted legacy instruments, and demonstrate evidence of reliability.",
+            "SecondaryOutcomeTimeFrame": "through study completion, an average of 1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Scleroderma Skin Patient Reported Outcome (SSPRO)",
+            "SecondaryOutcomeDescription": "The SSPRO includes patient-reported answers to 18 questions about how scleroderma affects the skin and how those skin problems affect how the person feels and does things. Each question is followed by 7 boxes with numbers 0-6, spaced equidistant in between. The boxes are anchored by 2 verbal descriptors, \"Not at all\" (box labeled 0) and \"Very Much\" (box labeled 6). The subject selects a box labeled by an integer in response to the question. The recall period is 1 week. The sum of the numbers associated with the answers to each question is the score. A higher score indicates worse skin symptoms.",
+            "SecondaryOutcomeTimeFrame": "through study completion, an average of 1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Disease Activity Score 28 (DAS-28)",
+            "SecondaryOutcomeDescription": "The DAS28 (Disease Activity Score 28) is a system developed and validated by the EULAR (European League Against Rheumatism) to measure the progress and improvement of Rheumatoid Arthritis. DAS28 values range from 2.0 to 10.0 while higher values mean a higher disease activity. A DAS 28 below the value of 2.6 is interpreted as Remission. A value between 2.6 and 3.2 corresponds to a low disease activity. A value between 3.2 and 5.1 corresponds to moderate disease activity. A value greater than 5.1 corresponds to greater disease activity. \"28\" describes the number of different joints being assessed.",
+            "SecondaryOutcomeTimeFrame": "Baseline 1, 6 months and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in joint count",
+            "SecondaryOutcomeDescription": "A joint count is the most specific clinical method to quantify abnormalities in patients with rheumatoid arthritis (RA). The swollen joint count reflects the amount of inflamed synovial tissue and the tender joint count is associated more with the level of pain.",
+            "SecondaryOutcomeTimeFrame": "Baseline 1, 6 months and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Clinical Disease Activity Index (CDAI): Measures joint tenderness and swelling",
+            "SecondaryOutcomeDescription": "The Clinical Disease Activity Index is calculated by adding the swollen joint count, tender joint count, patient global assessment, and the evaluator global assessment. The total minimum score is 0 and the maximum score is 76. A value of 0-2.8 indicates remission; 2.9-10.0 is low activity; 10.1-22.0 is moderate activity; 22.1-76 is high activity.",
+            "SecondaryOutcomeTimeFrame": "Baseline 1, 6 months and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Global Combined Response Index",
+            "SecondaryOutcomeDescription": "The global rank composite score is an analytic tool that accounts for multiple disease manifestations simultaneously but does not measure disease activity or severity. It reflects how participants compare with one another on the basis of a hierarchy of ordered outcomes: death, event-free survival (survival without respiratory, renal, or cardiac failure), FVC, the score on the Disability Index of the Health Assessment Questionnaire (HAQ-DI; range, 0 to 3, with higher scores indicating more disability), and the modified Rodnan skin score.",
+            "SecondaryOutcomeTimeFrame": "Baseline 1 through month 15"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge greater than or equal to eighteen years and less than or equal to 80.\nClassification of systemic sclerosis (SSc), as defined using the 2013 American College of Rheumatology/European Union League Against Rheumatism classification of SSc.\nDiagnosis of dcSSc, as defined by LeRoy and Medsger.\nDisease duration of less than or equal to 3 years as defined by the date of onset of the first non-Raynaud's symptom.\nA modified Rodnan Skin Score (mRSS) of > 14\n\nExclusion Criteria:\n\nInability to render informed consent in accordance with institutional guidelines.\nDisease duration of greater than 3 years.\nPatients with mixed connective tissue disease or \"overlap\" unless the dominant features of the illness are diffuse systemic sclerosis.\nLimited scleroderma.\nSystemic sclerosis-like illness associated with environmental or ingested agents such as toxic rapeseed oil, vinyl chloride, or bleomycin.\nThe use of other anti-fibrotic agents including colchicine, D-penicillamine, or tyrosine kinase inhibitors (nilotinib, imatinib, dasatinib) in the month prior to enrollment.\nUse in the prior month of corticosteroids at doses exceeding the equivalent of prednisone 10 mg daily. Use of corticosteroid at < 10 mg of prednisone can continue during the course of the study.\nConcurrent serious medical condition which in the opinion of the investigator makes the patient inappropriate for this study such as uncontrollable CHF, arrhythmia, severe pulmonary or systemic hypertension, severe GI involvement, hepatic impairment, serum creatinine of greater than 2.0, active infection, severe diabetes, unstable atherosclerotic cardiovascular disease, malignancy, HIV, or severe peripheral vascular disease.\nA positive pregnancy test at entry into this study. Men and women with reproductive potential will be required to use effective means of contraception through the course of the study, such as (1) surgical sterilization (such as a tubal ligation or hysterectomy), (2) double-barrier methods (such as a condom and occlusive cap (diaphragm or cervical/vault caps) plus spermicidal agent (foam/gel/film/cream/suppository)(3) an intrauterine device (IUD) or intrauterine system (IUS) (4) estrogenic vaginal ring (5) percutaneous contraceptive patches, or (6) implants of levonorgestrel or etonogestrel. Approved hormonal contraceptives (such as birth control pills, patches, implants or injections) may interact with and reduce the effectiveness of MMF so women receiving MMF who are using oral contraceptives for birth control should employ an additional method (e.g. barrier method). Contraceptive measures such as Plan B (TM), sold for emergency use after unprotected sex, are not acceptable methods for routine use.\nWomen not willing to use effective birth control for the duration of the study\nBreastfeeding.\nParticipation in another clinical research study involving the evaluation of another investigational drug within ninety days of entry into this study.\nThe presence of severe lung disease as defined by a diffusion capacity of less than 30% of predicted or requiring supplemental oxygen and forced vital capacity (FVC) of less than 45% of predicted.\nGrade 3 hypogammaglobulinemia\nHave a significant IgG deficiency (IgG level < 400 mg/dL)\nHave an IgA deficiency (IgA level < 10 mg/dL)\nHave a historically positive HIV test or test positive at screening for HIV\nNeutrophils <1.5X10E9/L\n\nHepatitis status:\n\nSerologic evidence of current or past Hepatitis B (HB) infection based on the results of testing for HBsAg and HBcAb as follows:\n\n1. Patients positive for HBsAg or HBcAb are excluded b) Positive test for Hepatitis C antibody 20. Known active bacterial, viral, fungal, mycobacterial, or other infection or any major episode of infection requiring hospitalization or treatment with IV antibiotics within 4 weeks of screening, or oral antibiotics within 2 weeks prior to screening 21. Infection history:\n\nCurrently on any suppressive therapy for a chronic infection (such as tuberculosis, pneumocystis, cytomegalovirus, herpes simplex virus, herpes zoster and atypical mycobacteria)\nHospitalization for treatment of infection within 60 days of Day 0.\n\nUse of parenteral (IV or IM) antibiotics (antibacterials, antivirals, anti-fungals, or anti-parasitic agents) within 60 days of Day 0 22. Suppressive therapy for a chronic infection (such as tuberculosis, pneumocystis, cytomegalovirus, herpes zoster and atypical mycobacteria) 23. Any other disease, metabolic dysfunction, physical examination finding, or clinical laboratory finding giving reasonable suspicion of a disease or condition that contraindicates the use of an investigational drug or that may affect the interpretation of the results or render the patient at high risk from treatment complications 24. Prior use of Belimumab, Rituximab, or other B-Cell depleting therapies ever 25. The use of other biologics including TNF inhibitors, abatacept, or tocilizumab within the washout period below for each particular drug:\n\nTocilizumab - 1 month for patients on 2mg/kg or 4 mg/kg. 2 months for patients on 8mg/kg.\n\nCyclophosphamide (oral or IV) - 3 months. Abatacept - 2.5 months. TNF Inhibitors : Etanercept - 1 mo, Infliximab - 2 mo, Adalimumab - 2.5 mo. Any biologic investigational agent (e.g., abetimus sodium, anti CD40L antibody, BG9588/ IDEC 131) - 365 days prior to belimumab.\n\nAny non-biologic investigational agent - 30 days prior to belimumab.\n\n26. Have evidence of serious suicide risk including any history of suicidal behavior in the last 6 months and/or any suicidal ideation in the last 2 months or who in the investigator's judgment, pose a significant suicide risk.\n\n27. Current drug or alcohol abuse or dependence, or a history of drug or alcohol abuse or dependence within 364 days prior to Day 0.\n\n28. History of an anaphylactic reaction to parenteral administration of contrast agents, human or murine proteins or monoclonal antibodies 29. Live vaccines within 30 days prior to baseline 30. Have a history of malignant neoplasm within the last 5 years with the exception of basal cell or squamous cell carcinoma of the skin treated with local resection only or carcinoma in situ of the uterine cervix treated locally and with no evidence of metastatic disease for 3 years 31. Have a history of a primary immunodeficiency 32. Have any other clinically significant abnormal laboratory value in the opinion of the investigator 33. Have any intercurrent significant medical or psychiatric illness that the investigator considers would make the candidate unsuitable for the study 34. Non English speakers",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Elizabeth Soto-Cardona, MPH",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "212-774-2048",
+            "CentralContactEMail": "sotoe@hss.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Robert Spiera, MD",
+            "OverallOfficialAffiliation": "Hospital for Special Surgery, New York",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Hospital for Special Surgery",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10021",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Elizabeth Soto-Cardona, MPH",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "212-774-2048",
+                  "LocationContactEMail": "sotoe@hss.edu"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DocumentSection": {
+    "LargeDocumentModule": {
+      "LargeDocList": {
+        "LargeDoc": [
+          {
+            "LargeDocTypeAbbrev": "Prot_SAP",
+            "LargeDocHasProtocol": "Yes",
+            "LargeDocHasSAP": "Yes",
+            "LargeDocHasICF": "No",
+            "LargeDocLabel": "Study Protocol and Statistical Analysis Plan",
+            "LargeDocDate": "January 10, 2019",
+            "LargeDocUploadDate": "02/07/2019 08:48",
+            "LargeDocFilename": "Prot_SAP_000.pdf"
+          },
+          {
+            "LargeDocTypeAbbrev": "ICF",
+            "LargeDocHasProtocol": "No",
+            "LargeDocHasSAP": "No",
+            "LargeDocHasICF": "Yes",
+            "LargeDocLabel": "Informed Consent Form",
+            "LargeDocDate": "January 14, 2019",
+            "LargeDocUploadDate": "02/07/2019 08:52",
+            "LargeDocFilename": "ICF_001.pdf"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012595",
+            "ConditionMeshTerm": "Scleroderma, Systemic"
+          },
+          {
+            "ConditionMeshId": "D000045743",
+            "ConditionMeshTerm": "Scleroderma, Diffuse"
+          },
+          {
+            "ConditionMeshId": "D000012598",
+            "ConditionMeshTerm": "Sclerosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000003240",
+            "ConditionAncestorTerm": "Connective Tissue Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012871",
+            "ConditionAncestorTerm": "Skin Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M14567",
+            "ConditionBrowseLeafName": "Sclerosis",
+            "ConditionBrowseLeafAsFound": "Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14564",
+            "ConditionBrowseLeafName": "Scleroderma, Systemic",
+            "ConditionBrowseLeafAsFound": "Systemic Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M24713",
+            "ConditionBrowseLeafName": "Scleroderma, Diffuse",
+            "ConditionBrowseLeafAsFound": "Systemic Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5616",
+            "ConditionBrowseLeafName": "Connective Tissue Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14826",
+            "ConditionBrowseLeafName": "Skin Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T5565",
+            "ConditionBrowseLeafName": "Systemic Scleroderma",
+            "ConditionBrowseLeafAsFound": "Systemic Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T1861",
+            "ConditionBrowseLeafName": "Diffuse Cutaneous Systemic Sclerosis",
+            "ConditionBrowseLeafAsFound": "Diffuse Cutaneous Systemic Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000009173",
+            "InterventionMeshTerm": "Mycophenolic Acid"
+          },
+          {
+            "InterventionMeshId": "D000069283",
+            "InterventionMeshTerm": "Rituximab"
+          },
+          {
+            "InterventionMeshId": "C000511911",
+            "InterventionMeshTerm": "Belimumab"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000074322",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Immunological"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000903",
+            "InterventionAncestorTerm": "Antibiotics, Antineoplastic"
+          },
+          {
+            "InterventionAncestorId": "D000000904",
+            "InterventionAncestorTerm": "Antibiotics, Antitubercular"
+          },
+          {
+            "InterventionAncestorId": "D000000995",
+            "InterventionAncestorTerm": "Antitubercular Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000900",
+            "InterventionAncestorTerm": "Anti-Bacterial Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000007166",
+            "InterventionAncestorTerm": "Immunosuppressive Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M373",
+            "InterventionBrowseLeafName": "Rituximab",
+            "InterventionBrowseLeafAsFound": "Test",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3382",
+            "InterventionBrowseLeafName": "Antibodies, Monoclonal",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M11280",
+            "InterventionBrowseLeafName": "Mycophenolic Acid",
+            "InterventionBrowseLeafAsFound": "Plasma",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M287427",
+            "InterventionBrowseLeafName": "Belimumab",
+            "InterventionBrowseLeafAsFound": "Ergometer",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M9364",
+            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M1804",
+            "InterventionBrowseLeafName": "Carbamide Peroxide",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M5544",
+            "InterventionBrowseLeafName": "Complement System Proteins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M1346",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Immunological",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3374",
+            "InterventionBrowseLeafName": "Anti-Bacterial Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3376",
+            "InterventionBrowseLeafName": "Antibiotics, Antitubercular",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3463",
+            "InterventionBrowseLeafName": "Antitubercular Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          }
+        ]
+      }
+    }
+  }
+}

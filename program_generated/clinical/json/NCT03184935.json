@@ -1,0 +1,398 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03184935",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "SCLnow-IMIMH-03"
+      },
+      "Organization": {
+        "OrgFullName": "Sclnow Biotechnology Co., Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Research for Human Umbilical Cord Mesenchymal Stem Cells in the Treatment of Myelodysplastic Syndrome (MDS)",
+      "OfficialTitle": "Research for Human Umbilical Cord Mesenchymal Stem Cells in the Treatment of Myelodysplastic Syndrome (MDS)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2020",
+      "OverallStatus": "Suspended",
+      "WhyStopped": "Others",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 6, 2017",
+      "StudyFirstSubmitQCDate": "June 11, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 14, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 21, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 23, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Sclnow Biotechnology Co., Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purposes of the study is to determine the safety and efficacy of human umbilical cord mesenchymal stem cells (hUC-MSC) in treating Myelodysplastic Syndrome patients.",
+      "DetailedDescription": "This is a randomized, double-blind, paralleled study. 40 patients will be separated into two groups, and receive basic treatment (Decitabine). Patients in experimental group will receive hUC-MSC, while control group receive placebo (normal saline), four weeks as a course of treatment. All of the patients accept examination before treatment, including\n\ndiagnostic projects: bone marrow test, peripheral blood classification, chromosome, and MDS fusion gene test, etc.;\nroutine examination: blood, urine, and stool routine test, X-ray film in chest, electrocardiogram, etc.;\nstem cell-based medicinal products usage, dosage, time, and course of treatment.\n\nThen, patients will accept routine examination everyday, and after treatment, investigator will follow-up for 6 months, to evaluate the security and efficacy of hUC-MSC."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Myelodysplastic Syndromes"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Myelodysplastic Syndromes",
+          "mesenchymal stem cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Experimental group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Basic medication: Decitabine; Allogeneic umbilical cord mesenchymal stem cells.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Allogeneic umbilical cord mesenchymal stem cells",
+                "Drug: Decitabine"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Basic medication: Decitabine; placebo: saline.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Decitabine"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Allogeneic umbilical cord mesenchymal stem cells",
+            "InterventionDescription": "Experimental group receive Allogeneic umbilical cord mesenchymal stem cell，i.v (SCLnow 19#)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Experimental group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Decitabine",
+            "InterventionDescription": "Decitabine，20mg/m^2/d",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group",
+                "Experimental group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Treatment related-adverse events counting",
+            "PrimaryOutcomeDescription": "patients will be monitored for any adverse events resulting from the treatment of Human Umbilical Cord Mesenchymal Stem Cells",
+            "PrimaryOutcomeTimeFrame": "16 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Improvement in clinical function",
+            "SecondaryOutcomeDescription": "According to 'Diagnostic and Curative Criteria of Hematological Diseases' 3rd edition edited by Zhang Zhinan and Shen Di, evaluate the hUC-MSCs efficacy. The result as follow:\n\ncomplete remission (CR);\npartial remission (PR);\nstable disease (SD);\nprogressive disease (PD)",
+            "SecondaryOutcomeTimeFrame": "16 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMDS patients with international prostate symptom score is moderate or severe symptoms\n\nExclusion Criteria:\n\nwith serious renal function impaired\nwith other organ function abnormal: acute hepatitis B, ejection fraction < 40%, serum bilirubin > 3mg/dl, liver function tests abnormal, central nervous system disease, mental disease\nbad physical condition (Karmofsky < 60%)\nwithout signing informed consent form\nunder other therapy that possibly influence MSC security or efficacy\nHIV or other serious disease infection\nDonor: HIV, active hepatitis B/C infection, Syphilitic antibody positive\nDonor/ participants: alcoholism, drug addicted, mental disease",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "60 Years",
+      "MaximumAge": "85 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Shana Chen",
+            "OverallOfficialAffiliation": "Inner Mongolia International Mongolian Hospital",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Lei Guo",
+            "OverallOfficialAffiliation": "China-Japan Union Hospital, Jilin University",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Inner Mongolia International Mongolian Hospital",
+            "LocationCity": "Hohhot",
+            "LocationState": "Inner Mongolia",
+            "LocationZip": "010065",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000011289",
+            "ConditionMeshTerm": "Preleukemia"
+          },
+          {
+            "ConditionMeshId": "D000009190",
+            "ConditionMeshTerm": "Myelodysplastic Syndromes"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000001855",
+            "ConditionAncestorTerm": "Bone Marrow Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006402",
+            "ConditionAncestorTerm": "Hematologic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000011230",
+            "ConditionAncestorTerm": "Precancerous Conditions"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11297",
+            "ConditionBrowseLeafName": "Myelodysplastic Syndromes",
+            "ConditionBrowseLeafAsFound": "Myelodysplastic Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13316",
+            "ConditionBrowseLeafName": "Preleukemia",
+            "ConditionBrowseLeafAsFound": "Myelodysplastic Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4286",
+            "ConditionBrowseLeafName": "Bone Marrow Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8642",
+            "ConditionBrowseLeafName": "Hematologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13263",
+            "ConditionBrowseLeafName": "Precancerous Conditions",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3993",
+            "ConditionBrowseLeafName": "Myelodysplastic Syndromes",
+            "ConditionBrowseLeafAsFound": "Myelodysplastic Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000077209",
+            "InterventionMeshTerm": "Decitabine"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000964",
+            "InterventionAncestorTerm": "Antimetabolites, Antineoplastic"
+          },
+          {
+            "InterventionAncestorId": "D000000963",
+            "InterventionAncestorTerm": "Antimetabolites"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M1697",
+            "InterventionBrowseLeafName": "Decitabine",
+            "InterventionBrowseLeafAsFound": "Text",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3433",
+            "InterventionBrowseLeafName": "Antimetabolites",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

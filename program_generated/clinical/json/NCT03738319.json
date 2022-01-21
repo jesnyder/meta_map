@@ -1,0 +1,444 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03738319",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "EOC-EXOSOME"
+      },
+      "Organization": {
+        "OrgFullName": "Peking Union Medical College Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Non-coding RNA in the Exosome of the Epithelia Ovarian Cancer",
+      "OfficialTitle": "Non-coding RNA in the Exosome of the Epithelia Ovarian Cancer"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2018",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 10, 2018",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 23, 2019",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 23, 2019",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 8, 2018",
+      "StudyFirstSubmitQCDate": "November 9, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 13, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 9, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 14, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Lei Li",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Peking Union Medical College Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Lei Li",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study aims to analyze the expression of micro-RNA (miRNA) and long non-coding RNA (lncRNA) by next-generation sequencing in patients with high grade serous ovarian cancer (HGSOC) and benign gynecologic diseases. The candidate miRNA/lncRNA will be validated as biomarker for the detection and prognosis of HGSOC."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "High Grade Serous Carcinoma",
+          "Ovarian Cancer",
+          "Exosomes",
+          "Prognosis",
+          "Early Diagnosis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Control"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "An 8 ml peripheral venous blood will be collected from the participants before and after interventions (i.e. surgery and/or chemotherapy)"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "160",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "HGSOC group",
+            "ArmGroupDescription": "This group includes patients of high grade serous ovarian cancer (HGSOC).",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Genetic: Sequencing of miRNA/lncRNA"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupDescription": "This group includes patients of benign gynecologic diseases as control.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Genetic: Sequencing of miRNA/lncRNA"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Genetic",
+            "InterventionName": "Sequencing of miRNA/lncRNA",
+            "InterventionDescription": "Next generation sequencing of micro-RNA (miRNA) and long non-coding RNA (lncRNA)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group",
+                "HGSOC group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Differential expression of miRNA/lncRNA",
+            "PrimaryOutcomeDescription": "Differential expression of micro-RNA (miRNA) and long non-coding RNA (lncRNA) will be compared between HGSOC group and control group, hence candidate miRNA/lncRNA will be validated as biomarker for the detection and prognosis of HGSOC.",
+            "PrimaryOutcomeTimeFrame": "One year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Progression-free survival",
+            "SecondaryOutcomeDescription": "The progression-free survival of HGSOC patients will be compared between differential expressed candidate miRNA/lncRNA after they have completed debulking surgeries and adjuvant chemotherapy.",
+            "SecondaryOutcomeTimeFrame": "Five years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nConfirmed primary high grade serous ovarian cancer\nWilling to accepted debulking surgeries and adjuvant chemotherapy\nGood performance status\nAged 18 years or older\nSigned an approved informed consents\n\nExclusion Criteria:\n\nNot meeting all of the inclusion criteria",
+      "HealthyVolunteers": "No",
+      "Gender": "Female",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "There will be 20 patients of high grade serous ovarian cancer (HGSOC) and 20 patients with benign gynecologic diseases, whose data will be applied for construction of diagnostic model of miRNA/lncRNA from exosome. There will be 120 patients suspected of HGSOC, whose data will be applied for validation of such diagnosis model.",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Lei Li, M.D.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "13911988831",
+            "CentralContactPhoneExt": "86",
+            "CentralContactEMail": "lileigh@163.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Lei Li, M.D.",
+            "OverallOfficialAffiliation": "Peking Union Medical College Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Lei Li",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Beijing",
+            "LocationState": "Beijing",
+            "LocationZip": "100730",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Lei Li, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "008613911988831",
+                  "LocationContactEMail": "lileigh@163.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "All data will be available to all researchers.",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Clinical Study Report (CSR)"
+        ]
+      },
+      "IPDSharingTimeFrame": "All data will be available to all researchers once related papers have been accepted publicly, and will be available for ever."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010051",
+            "ConditionMeshTerm": "Ovarian Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000077216",
+            "ConditionMeshTerm": "Carcinoma, Ovarian Epithelial"
+          },
+          {
+            "ConditionMeshId": "D000018284",
+            "ConditionMeshTerm": "Cystadenocarcinoma, Serous"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004701",
+            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000010049",
+            "ConditionAncestorTerm": "Ovarian Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000000291",
+            "ConditionAncestorTerm": "Adnexal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005833",
+            "ConditionAncestorTerm": "Genital Neoplasms, Female"
+          },
+          {
+            "ConditionAncestorId": "D000014565",
+            "ConditionAncestorTerm": "Urogenital Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006058",
+            "ConditionAncestorTerm": "Gonadal Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000002277",
+            "ConditionAncestorTerm": "Carcinoma"
+          },
+          {
+            "ConditionAncestorId": "D000009375",
+            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000003536",
+            "ConditionAncestorTerm": "Cystadenocarcinoma"
+          },
+          {
+            "ConditionAncestorId": "D000000230",
+            "ConditionAncestorTerm": "Adenocarcinoma"
+          },
+          {
+            "ConditionAncestorId": "D000018297",
+            "ConditionAncestorTerm": "Neoplasms, Cystic, Mucinous, and Serous"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M1704",
+            "ConditionBrowseLeafName": "Carcinoma, Ovarian Epithelial",
+            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4686",
+            "ConditionBrowseLeafName": "Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12126",
+            "ConditionBrowseLeafName": "Ovarian Neoplasms",
+            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19581",
+            "ConditionBrowseLeafName": "Cystadenocarcinoma, Serous",
+            "ConditionBrowseLeafAsFound": "Serous Carcinoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5893",
+            "ConditionBrowseLeafName": "Cystadenocarcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7015",
+            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12124",
+            "ConditionBrowseLeafName": "Ovarian Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2795",
+            "ConditionBrowseLeafName": "Adnexal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8097",
+            "ConditionBrowseLeafName": "Genital Neoplasms, Female",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16467",
+            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8315",
+            "ConditionBrowseLeafName": "Gonadal Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11472",
+            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2737",
+            "ConditionBrowseLeafName": "Adenocarcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19594",
+            "ConditionBrowseLeafName": "Neoplasms, Cystic, Mucinous, and Serous",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4352",
+            "ConditionBrowseLeafName": "Ovarian Cancer",
+            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T4354",
+            "ConditionBrowseLeafName": "Ovarian Epithelial Cancer",
+            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T200",
+            "ConditionBrowseLeafName": "Adenocarcinoma of the Appendix",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

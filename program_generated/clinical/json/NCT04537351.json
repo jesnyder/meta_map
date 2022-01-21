@@ -1,0 +1,573 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04537351",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CYP-COVID-19-01"
+      },
+      "Organization": {
+        "OrgFullName": "Cynata Therapeutics Limited",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "The MEseNchymal coviD-19 Trial: MSCs in Adults With Respiratory Failure Due to COVID-19 or Another Underlying Cause",
+      "OfficialTitle": "A Pilot, Open-label, Randomised Controlled Clinical Trial to Investigate Early Efficacy of CYP-001 in Adults Admitted to Intensive Care With Respiratory Failure",
+      "Acronym": "MEND"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 24, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 31, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "August 25, 2020",
+      "StudyFirstSubmitQCDate": "September 1, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "September 3, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "May 18, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 20, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Cynata Therapeutics Limited",
+        "LeadSponsorClass": "INDUSTRY"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Cerebral Palsy Alliance",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a pilot, multi-centre, open-label randomised controlled study to assess the early efficacy of intravenous (IV) administration of CYP-001 in adults admitted to an intensive care unit (ICU) with respiratory failure",
+      "DetailedDescription": "After enrolment upon meeting eligibility criteria (D0), participants baseline data will be collected and participants will be randomised to receive either standard of care treatment only, or standard of care plus CYP-001. On D1 and D3, each participant randomised to receive CYP-001 will receive an IV infusion of 2 million Cymerus mesenchymal stem cells (MSCs)/kg of body weight (up to a maximum of 200 million cells). Participants will have further data collection throughout their ICU and hospital stay and follow up to 28 days."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Covid19",
+          "Acute Respiratory Distress Syndrome"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Mesenchymal stem cells",
+          "MSC",
+          "Induced pluripotent stem cells",
+          "iPSC",
+          "Cellular therapy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "24",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "CYP-001",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "The investigational medicinal product used in this study is known as CYP-001. The active agent in CYP-001 is Cymerus™ MSCs. CYP-001 is supplied as 100 million Cymerus MSCs formulated in 20 mL cryoprotectant medium. On D1 and D3, each participant randomised to receive CYP-001 will receive an IV infusion of 2 million Cymerus MSCs/kg of body weight (up to a maximum of 200 million cells per infusion).",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: CYP-001"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Standard of care",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "Control participants will be randomised to received standard of care treatment."
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "CYP-001",
+            "InterventionDescription": "The active agent in CYP-001 is Cymerus mesenchymal stem cells (MSCs), which are derived through a proprietary induced pluripotent stem cell (iPSC) and mesenchymoangioblast (MCA)-derived production process.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "CYP-001"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Cymerus MSCs"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Trend in trajectory of PaO2/FiO2 ratio (P/F ratio) between groups",
+            "PrimaryOutcomeDescription": "Assessment of respiratory dysfunction",
+            "PrimaryOutcomeTimeFrame": "7 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Incidence and severity of treatment-emergent adverse events",
+            "SecondaryOutcomeDescription": "Assessment of safety",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in C-reactive protein (CRP) levels",
+            "SecondaryOutcomeDescription": "Circulating biomarker of inflammation",
+            "SecondaryOutcomeTimeFrame": "7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Proportional differences between groups on the Clinical Improvement Scale",
+            "SecondaryOutcomeDescription": "Not hospitalised, with resumption of normal activities = 1; Not hospitalised, but unable to resume normal activities = 2; Hospitalised, not requiring supplemental oxygen = 3; Hospitalised, requiring supplemental oxygen = 4; Hospitalised, requiring humidified nasal high-flow oxygen therapy, non-invasive mechanical ventilation, or both = 5; Hospitalised, requiring invasive mechanical ventilation, extracorporeal membrane oxygenation or both = 6; Death = 7",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in P/F ratio",
+            "SecondaryOutcomeDescription": "Assessment of respiratory dysfunction",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in respiratory rate",
+            "SecondaryOutcomeDescription": "Assessment of respiratory dysfunction",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in oxygenation index",
+            "SecondaryOutcomeDescription": "Assessment of respiratory dysfunction",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in respiratory compliance (the change in lung volume per unit change in transmural pressure gradient)",
+            "SecondaryOutcomeDescription": "Assessment of respiratory dysfunction",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in positive end-expiratory pressure",
+            "SecondaryOutcomeDescription": "Assessment of respiratory dysfunction",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Ventilator-free days",
+            "SecondaryOutcomeDescription": "Number of days from the time of initiating unassisted breathing to D28, assuming survival for at least 48 hours after initiating unassisted breathing and continued unassisted breathing to D28",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Proportional differences between groups on the SF-36",
+            "SecondaryOutcomeDescription": "Quality of life assessment",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Proportional differences between groups on the mini mental state examination",
+            "SecondaryOutcomeDescription": "Disability assessment",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female, 18 years of age or older\n\nRespiratory failure with the following signs and symptoms:\n\nP/F ratio <300 mmHg\nOnset within one week of a known insult or new or worsening respiratory symptoms.\nChest imaging shows bilateral opacities, which are not fully explained by effusions, lobar/lung collapse, or nodules.\nRespiratory failure which is not fully explained by cardiac failure or fluid overload.\nOnset of respiratory failure within the past 48 hours (as defined in inclusion criterion 2\n\nExclusion Criteria:\n\n<18 years of age\nPatient is known to be pregnant\nKnown active malignancy that required treatment in the last year\nWHO Class III or IV pulmonary hypertension\nVenous thromboembolism currently receiving anti-coagulation or within the past 3 months\nCurrently receiving extracorporeal life support\nSevere chronic liver disease (Child-Pugh score >12)\n\"Do Not Attempt Resuscitation\" order in place\nTreatment withdrawal imminent within 24 hours\nBMI > 45 kg/m2.\nReceived any investigational research agent within 60 days or within five half-lives of the last treatment (if the half-life of the investigational agent is known to be longer than 12 days) prior to the planned administration of study treatment.\nKnown positive test for human immunodeficiency virus 1 (HIV 1), HIV 2, hepatitis B virus, Hepatitis C virus or any other infection which the opinion of the Investigator is likely to impact on the ability of the patient to participate in the study.\nKnown sensitivity to dimethylsulfoxide (DMSO) or any other component of the study treatment.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Cynata Project Manager",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+ 613 9824 5254",
+            "CentralContactEMail": "clinical@cynata.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Kilian Kelly, PhD",
+            "OverallOfficialAffiliation": "Cynata Therapeutics Limited",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Nepean Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Kingswood",
+            "LocationState": "New South Wales",
+            "LocationZip": "2747",
+            "LocationCountry": "Australia"
+          },
+          {
+            "LocationFacility": "Westmead Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Westmead",
+            "LocationState": "New South Wales",
+            "LocationZip": "2145",
+            "LocationCountry": "Australia"
+          },
+          {
+            "LocationFacility": "Footscray Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Footscray",
+            "LocationState": "Victoria",
+            "LocationZip": "3011",
+            "LocationCountry": "Australia"
+          },
+          {
+            "LocationFacility": "Sunshine Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Saint Albans",
+            "LocationState": "Victoria",
+            "LocationZip": "3021",
+            "LocationCountry": "Australia"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "IPD relating to efficacy of MSCs in COVID-19 may be shared, subject to permission from Sponsor and ethics approval if required. All de-identified data collected during this study may be shared confidentially to contribute to meta-analysis of mesenchymal stem cell treatments for COVID-19. Request for IPD from this trial for other purposes will be considered by the Sponsor.",
+      "IPDSharingTimeFrame": "Data requests will be considered after the completion of the study. There is no specified end date.",
+      "IPDSharingAccessCriteria": "All reasonable requests for raw and analysed data that are not included in primary publications from this study may be available upon request and discretion from the Sponsor from the beginning to the trial. Data may be made available to active collaborators in the COVID-19 Stem Cell Treatment (CSCT) Group, subject to permission from the Sponsor and ethics approval if required. All other reasonable requests for raw and analysed data will be considered by the Sponsor. Data may be obtained upon permission from the Sponsor."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000012128",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000012127",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome, Newborn"
+          },
+          {
+            "ConditionMeshId": "D000012131",
+            "ConditionMeshTerm": "Respiratory Insufficiency"
+          },
+          {
+            "ConditionMeshId": "D000055371",
+            "ConditionMeshTerm": "Acute Lung Injury"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007235",
+            "ConditionAncestorTerm": "Infant, Premature, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007232",
+            "ConditionAncestorTerm": "Infant, Newborn, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000055370",
+            "ConditionAncestorTerm": "Lung Injury"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M14120",
+            "ConditionBrowseLeafName": "Respiratory Insufficiency",
+            "ConditionBrowseLeafAsFound": "Respiratory Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13671",
+            "ConditionBrowseLeafName": "Pulmonary Valve Insufficiency",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27296",
+            "ConditionBrowseLeafName": "Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9431",
+            "ConditionBrowseLeafName": "Infant, Premature, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9428",
+            "ConditionBrowseLeafName": "Infant, Newborn, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04674501",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "4-2020-1093"
+      },
+      "Organization": {
+        "OrgFullName": "Yonsei University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Radiotherapy for Thoracic and Breast Cancer and the Related Cardiotoxicity Following Treatment (RACCOON)",
+      "OfficialTitle": "A Prospective Cohort Study of Patients Receiving Radiotherapy for Thoracic and Breast Cancer and the Related Cardiotoxicity Following Treatment (RACCOON)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 22, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 4, 2020",
+      "StudyFirstSubmitQCDate": "December 17, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 19, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 22, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 24, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Yonsei University",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to investigate the risk factors and mechanisms of cardiotoxicity following thoracic radiotherapy and to provide insights in preventing radiation-related cardiotoxicity.\n\n-Condition or disease : Thoracic irradiation -Intervention/treatment : Cardiac evaluation, Blood sampling",
+      "DetailedDescription": "Cancer patients who undergo thoracic irradiation receive a certain amount of dose to the heart. Cardiotoxicity may occur in some patients several years after radiotherapy due to the late effect of radiation. Considering that cardiotoxicity is often lethal, screening and preventing radiation-induced cardiotoxicity is crucial in patients receiving thoracic irradiation.\n\nPatients in this cohort will undergo cardiac evaluation before and after thoracic irradiation. The dose-volume parameters for each cardiac substructures will be estimated using artificial intelligence-based auto-segmentation of the heart in CT images. Dose-volume parameters that predict cardiotoxicity will be analyzed. Among the patients who developed cardiotoxicity, blood sampling will be performed to establish cardiomyocytes derived from induced pluripotent stem cells, which will be used for identifying the mechanisms of radiation-induced cardiotoxicity and therapeutic targets."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Patients Who Receive Thoracic Irradiation"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "Whole blood"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "200",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Thoracic irradiation",
+            "ArmGroupDescription": "A cohort of cancer patients who receive thoracic irradiation. Patients with any type of malignancy, such as lung cancer, breast cancer, esophageal cancer, or thymoma, are eligible as long as the patients undergo thoracic irradiation.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Cardiac evaluation and blood sampling"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Cardiac evaluation and blood sampling",
+            "InterventionDescription": "Patients in this cohort will undergo cardiac evaluation before and after thoracic irradiation.\n\nThe dose-volume parameters for each cardiac substructures will be estimated using artificial intelligence-based auto-segmentation of the heart in CT images. Dose-volume parameters that predict cardiotoxicity will be analyzed.\n\nThe patients who developed cardiotoxicity will undergo blood sampling to establish cardiomyocytes derived from induced pluripotent stem cells, which will be used for identifying the mechanisms of radiation-induced cardiotoxicity and therapeutic targets.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Thoracic irradiation"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Cardiotoxicity rate",
+            "PrimaryOutcomeTimeFrame": "2 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Overall survival",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cancer-specific survival",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Progression-free survival",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Other toxicity rates",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with solid cancer who are subject to thoracic irradiation.\nPatients who are 20 years old or older\nEastern Cooperative Oncology Group Performance Status Scale 0-2\nPatients with cognitive abilities to receive virtual reality information\n\nExclusion Criteria:\n\nPatients with a history of previous thoracic irradiation\nPatients who refused consent\nPatients with a history of heart failure before radiotherapy",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Patients with solid tumors who receive thoracic irradiation",
+      "SamplingMethod": "Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Hong In Yoon",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "82-2-2228-8110",
+            "CentralContactEMail": "yhi0225@yuhs.ac"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Hong In Yoon",
+            "OverallOfficialAffiliation": "Severance Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Yonsei Cancer Center, Yonsei University College of Medicine, Yonsei University Health System",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Hong In Yoon",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "82-2-2228-8110",
+                  "LocationContactEMail": "yhi0225@yuhs.ac"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000066126",
+            "ConditionMeshTerm": "Cardiotoxicity"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000064420",
+            "ConditionAncestorTerm": "Drug-Related Side Effects and Adverse Reactions"
+          },
+          {
+            "ConditionAncestorId": "D000064419",
+            "ConditionAncestorTerm": "Chemically-Induced Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000011832",
+            "ConditionAncestorTerm": "Radiation Injuries"
+          },
+          {
+            "ConditionAncestorId": "D000014947",
+            "ConditionAncestorTerm": "Wounds and Injuries"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M4372",
+            "ConditionBrowseLeafName": "Breast Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M29823",
+            "ConditionBrowseLeafName": "Cardiotoxicity",
+            "ConditionBrowseLeafAsFound": "Cardiotoxicity",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M29456",
+            "ConditionBrowseLeafName": "Drug-Related Side Effects and Adverse Reactions",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M29455",
+            "ConditionBrowseLeafName": "Chemically-Induced Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13831",
+            "ConditionBrowseLeafName": "Radiation Injuries",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC25",
+            "ConditionBrowseBranchName": "Substance Related Disorders"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          }
+        ]
+      }
+    }
+  }
+}

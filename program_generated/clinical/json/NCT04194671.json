@@ -1,0 +1,314 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04194671",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MSC-001"
+      },
+      "Organization": {
+        "OrgFullName": "Chinese PLA General Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Clinical Trial of Mesenchymal Stem Cells in the Treatment of Severe Acute Kidney Injury",
+      "OfficialTitle": "A Single-center, Randomized, Placebo-controlled, Patient-blinded Study of Mesenchymal Stem Cells Therapy in Subjects With Severe Acute Kidney Injury Receiving Routine Therapy"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 31, 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 31, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 9, 2019",
+      "StudyFirstSubmitQCDate": "December 9, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 11, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 19, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 25, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Chen Xiangmei",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Chinese PLA General Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Chinese PLA General Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Acute kidney injury(AKI) is a common, severe emergency case in clinics,especially severe AKI ,which is associated with higher morbidity and mortality. Effect of routine therapy is limited and mesenchymal stem cells (MSC)are considered a new therapy for treating severe acute kidney injury. Patients will be randomized to receive intravenous infusion of MSC, or placebo control. This trial is to investigate whether MSC can improve renal recovery and mortality of patients with AKI."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Acute Kidney Injury",
+          "Mesenchymal Stem Cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "80",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Mesenchymal stem cells cohort",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Saline cohort",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Saline"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Mesenchymal stem cells",
+            "InterventionDescription": "In experimental group, patients receive standard treatment and allogeneic human umbilical cord derived-mesenchymal stem cells (MSCs) is administered via intravenous infusion on day 0 and day 7",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Mesenchymal stem cells cohort"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Saline",
+            "InterventionDescription": "In placebo control group, patients receive standard treatment and saline is administered via intravenous infusion on day 0 and day 7",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Saline cohort"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "The difference in the renal function between the two groups (MSC treatment group vs placebo control group) within 28 days after receiving MSC/ placebo treatment",
+            "PrimaryOutcomeDescription": "Compare the creatinine concentration between the two groups (MSC treatment group vs placebo control group) at 28 days after receiving MSC/ placebo treatment.",
+            "PrimaryOutcomeTimeFrame": "within 28 days after receiving MSC/ placebo treatment"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Overall survival within 28 days after receiving MSC/ placebo treatment",
+            "SecondaryOutcomeDescription": "Compare the overall survival rate between the two groups (MSC treatment group vs placebo control group) at 28 days after receiving MSC/ placebo treatment.",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Overall survival within 3 months after receiving MSC/ placebo treatment",
+            "SecondaryOutcomeDescription": "Compare the overall survival rate between the two groups (MSC treatment group vs placebo control group) at month 3 after receiving MSC/ placebo treatment.",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Renal replacement therapy (RRT) dependent within 3 months after receiving MSC/ placebo treatment",
+            "SecondaryOutcomeDescription": "Compare the rate of renal replacement therapy (RRT) dependence between the two groups (MSC treatment group vs placebo control group) at month 3 after receiving MSC/ placebo treatment.",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Complete renal recovery within 3 months after receiving MSC/ placebo treatment",
+            "SecondaryOutcomeDescription": "Compare the rate of complete renal recovery between the two groups (MSC treatment group vs placebo control group) at month 3 after receiving MSC/placebo treatment. We considered complete recovery as alive, free of RRT, and the SCR decreased to no more than 1.5 times of the baseline level.",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Partial renal recovery within 3 months after receiving MSC/ placebo treatment",
+            "SecondaryOutcomeDescription": "Compare the rate of partial renal recovery between the two groups (MSC treatment group vs placebo control group) at month 3 after receiving MSC/placebo treatment. Partial recovery refers to survival, free of RRT, and the SCR 1.5 times higher than the baseline level of creatinine.",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "ICU and hospitalization duration of stay among all AKI patients within 3 months after receiving MSC/ placebo treatment",
+            "SecondaryOutcomeDescription": "Compare the days in ICU and hospital between the two groups (MSC treatment group vs placebo control group) at month 3 after receiving MSC/placebo treatment.",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Adverse events within 3 months after receiving MSC/ placebo treatment",
+            "SecondaryOutcomeDescription": "Compare the rate of adverse events between the two groups (MSC treatment group vs placebo control group) at month 3 after receiving MSC/placebo treatment.",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nHave severe AKI defined as more than two-fold increase serum creatinine level compared with baseline within 48 hours and/or urinary output consistently<0.5 ml/kg/h over 12 hours\nAge between 18 and 65 years\nWilling or having a legally acceptable representative to give a written informed consent\nAble to comply with visit schedule and study procedures including post-hospitalization discharge follow-up\n\nExclusion Criteria:\n\nAKI due to post-renal outflow obstruction,glomerulonephritis,lupus nephritis, antineutrophil cytoplasmic antibody (ANCA) related nephritis, antiglomerular basement membrane disease, cryoglobulinemia, thrombotic microangiopathy, and AKI caused by purpura nephritis\nPregnant or lactating woman\nAllergic person\nOrgan transplant or hematopoietic stem cell transplant\nPatients with malignant tumors or those with a history of cancer\nLife expectancy is less than 3 months\nKnown end-stage liver disease\nUncontrollable infection\nPatients younger than 65 years old ,whose estimated glomerular filtration rate (eGFR) were less than 60\nSevere pulmonary dysfunction\nSevere cardiac dysfunction,left ventricular ejection fraction is less than 40%, or severe arrhythmia patients\nHemodynamically unstable patients\nOrgan failure affecting more than 2 non-renal organs\nAcute or chronic vasculitis of any cause\nHistory of chronic systemic infection of any cause\nThe investigators believe that subjects may need to gradually increase the dose of vasopressor to achieve and / or maintain hemodynamic stability\nSystemic immunosuppressive therapy that has not been stabilized for greater than 4 months, or in the case of chronic corticosteroid therapy, a dose of >15 mg/day of prednisone or the equivalent within the past 30 days\nPlatelet count <25,000/uL or other severe hematologic abnormalities, causing the subject to be at risk of death\nPatients need mechanical ventilation\nParticipate in other clinical trials",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Chinese PLA General Hospital",
+            "LocationCity": "Beijing",
+            "LocationState": "Beijing",
+            "LocationZip": "100853",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Study Protocol"
+        ]
+      },
+      "IPDSharingTimeFrame": "Data will be available beginning immediately following publication and ending 36 months following article publication."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000058186",
+            "ConditionMeshTerm": "Acute Kidney Injury"
+          },
+          {
+            "ConditionMeshId": "D000014947",
+            "ConditionMeshTerm": "Wounds and Injuries"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000051437",
+            "ConditionAncestorTerm": "Renal Insufficiency"
+          },
+          {
+            "ConditionAncestorId": "D000007674",
+            "ConditionAncestorTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M28151",
+            "ConditionBrowseLeafName": "Acute Kidney Injury",
+            "ConditionBrowseLeafAsFound": "Acute Kidney Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafAsFound": "Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M25871",
+            "ConditionBrowseLeafName": "Renal Insufficiency",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          }
+        ]
+      }
+    }
+  }
+}

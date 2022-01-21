@@ -1,0 +1,394 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02883803",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "PHRCI 2012/CHOCMSC-GIBOT/SKJ"
+      },
+      "Organization": {
+        "OrgFullName": "Central Hospital, Nancy, France",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Treatment of Severe Infections With Mesenchymal Stem Cells",
+      "OfficialTitle": "Effects of Mesenchymal Stem Cells Administration on Organ Failure During Septic Shock: Phase II Randomized Comparator-controlled Study",
+      "Acronym": "CHOCMSC"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2019",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 2019",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "August 25, 2016",
+      "StudyFirstSubmitQCDate": "August 25, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 30, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "October 24, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 25, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Central Hospital, Nancy, France",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The main purpose at the early phase of septic shock on the evolution of organ failure judged by the SOFA (Sepsis Organ Failure Assessment score) score on Day 7 (or the day of death or the day of discharge from the intensive care unit if before Day 7) compared to SOFA score observed in patients in the control group. The secondary purpose is to assess the role of heterologous mesenchymal stem cells on the occurrence and duration of failure of each organ and on the mortality at day 28 and day 90. The safety of administration will be also assessed.",
+      "DetailedDescription": "Patients hospitalized in recovery unit and having a very severe septic shock with community origin (≥ 2 organ failures other than hemodynamic) since less than 12 hours, will receive 10^6/kg heterologous mesenchymal stem cells in 250 ml albumin 4%, infused for 30 minutes in central venous line or 250 ml albumin 4% alone."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Septic Shock"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "66",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "MSC",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients hospitalized in recovery unit and having a very severe septic shock with community origin (≥ 2 organ failures other than hemodynamic) since less than 12 hours, will receive 10^6/kg heterologous mesenchymal stem cells in 250 ml albumin 4%, infused for 30 minutes in central venous line.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Injection of mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Sham Comparator",
+            "ArmGroupDescription": "Patients hospitalized in recovery unit and having a very severe septic shock with community origin (≥ 2 organ failures other than hemodynamic) since less than 12 hours, will receive 250 ml albumin 4%, infused for 30 minutes in central venous line.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Injection of albumin alone"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Injection of mesenchymal stem cells",
+            "InterventionDescription": "Injection of mesenchymal stem cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Injection of albumin alone",
+            "InterventionDescription": "Injection of albumin alone",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "SOFA score",
+            "PrimaryOutcomeDescription": "To assess the efficacy of a recovery treatment",
+            "PrimaryOutcomeTimeFrame": "Day 7 (or death day or day of recovery unit exit if before day 7)"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Number of living days without catecholamines",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of living days without mechanical ventilation",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of living days without dialysis",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of residence time in recovery unit",
+            "SecondaryOutcomeTimeFrame": "Day of exit from recovery unit, up to 90 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Mortality, across all causes",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Mortality, across all causes",
+            "SecondaryOutcomeTimeFrame": "Day 90"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Administration safety (i.e. side effects)",
+            "SecondaryOutcomeTimeFrame": "up to 90 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSeptic shock of community origin since less than 12 hours. The onset time of septic shock is the time of catecholamine introduction( adrenaline, noradrenaline, or dopamine > 8μg/kg/min)\nAt least 2 organ failure other than hemodynamic\nOccurrence between Monday 8am and Friday 8am (for availability reasons of staff)\nSignature of informed consent (patient/close relative or reliable person)\nAffiliation to social security plan\n\nExclusion Criteria:\n\nNon-septic shock\nNosocomial septic shock\nPaO2/FiO2 <100\nPregnant or breast-feeding woman\nBrain death\nDying person\nTherapeutic limitations\nParticipation to another current interventional clinical trial or since less than 30 days",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Sébastien GIBOT",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+33383852970",
+            "CentralContactEMail": "s.gibot@chu-nancy.fr"
+          },
+          {
+            "CentralContactName": "Daniele BENSOUSSAN",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+33383153779",
+            "CentralContactEMail": "d.bensoussan@chru-nancy.fr"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Sébastien GIBOT",
+            "OverallOfficialAffiliation": "Service de Réanimation Médicale, Hôpital Central, 54035, Nancy Cedex",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Service de Réanimation Médicale, Hôpital Bocage",
+            "LocationCity": "Dijon",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Pierre-Emmanuel Charles",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Service de Réanimation Médicale, Hôpital Central",
+            "LocationCity": "Nancy",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Sébastien GIBOT",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hôpital Hautepierre, Service de réanimation médicale",
+            "LocationCity": "Strasbourg",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "UTCT, Hôpital Brabois",
+            "LocationCity": "Vandoeuvre-les-Nancy",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Danièle Bensoussan",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Véronique Decot",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012772",
+            "ConditionMeshTerm": "Shock, Septic"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012769",
+            "ConditionAncestorTerm": "Shock"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000018805",
+            "ConditionAncestorTerm": "Sepsis"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000018746",
+            "ConditionAncestorTerm": "Systemic Inflammatory Response Syndrome"
+          },
+          {
+            "ConditionAncestorId": "D000007249",
+            "ConditionAncestorTerm": "Inflammation"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14732",
+            "ConditionBrowseLeafName": "Shock, Septic",
+            "ConditionBrowseLeafAsFound": "Septic Shock",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14729",
+            "ConditionBrowseLeafName": "Shock",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20017",
+            "ConditionBrowseLeafName": "Sepsis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16021",
+            "ConditionBrowseLeafName": "Toxemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19971",
+            "ConditionBrowseLeafName": "Systemic Inflammatory Response Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9445",
+            "ConditionBrowseLeafName": "Inflammation",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

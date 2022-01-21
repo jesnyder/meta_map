@@ -1,0 +1,306 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04388761",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "20-000264"
+      },
+      "Organization": {
+        "OrgFullName": "Mayo Clinic",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Feasibility and Safety of Allogeneic Adipose Mesenchymal Stem Cells (aMSCs) Delivery Into Kidney Allografts Procured From Deceased Donors With High Kidney Donor Profile Index (KDPI)",
+      "OfficialTitle": "Feasibility and Safety of Allogeneic Adipose Mesenchymal Stem Cells (aMSCs) Delivery Into Kidney Allografts Procured From Deceased Donors With High Kidney Donor Profile Index (KDPI)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 28, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "February 1, 2024",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "February 1, 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 12, 2020",
+      "StudyFirstSubmitQCDate": "May 12, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 14, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 7, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 14, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Tambi Jarmi",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Mayo Clinic"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Tambi Jarmi",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this research is to test an investigational drug called Adipose Mesenchymal Stem Cells (aMSCs) for the treatment of ischemia re-perfusion injury (IRI) in patients that have had a kidney transplant."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Ischemia Reperfusion Injury"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "15",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Intra parenchymal injection",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "5 subjects will receive AMSCs via direct injection into the kidney parenchyma only",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Allogeneic adipose derived mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Intra-arterial infusion",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "5 subjects will receive AMSCs via intra-arterial infusion only",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Allogeneic adipose derived mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Intra parenchymal injection & Intra-arterial infusion",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "5 subjects will receive AMSCs via direct injection into the kidney parenchyma and intra-arterial infusion",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Allogeneic adipose derived mesenchymal stem cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Allogeneic adipose derived mesenchymal stem cells",
+            "InterventionDescription": "Injection of Allogeneic adipose derived mesenchymal stem cells into the Kidney allograft",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Intra parenchymal injection",
+                "Intra parenchymal injection & Intra-arterial infusion",
+                "Intra-arterial infusion"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Serious Adverse Events (SAEs)",
+            "PrimaryOutcomeDescription": "Number of serious adverse events reported. SAEs will include delayed graft function (30 days post-transplant), difficult to control bleeding (intraoperative), sub-scapular kidney hematoma or arteriovenous fistula formation (24 hours postop), and development of stroke, myocardial infarction, or pulmonary embolism (1 year post-transplant).",
+            "PrimaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female kidney transplant candidates age 18 and above.\nPatient is receiving kidney allograft from deceased donor with KDPI>85%.\nAbility of subject to give appropriate consent.\nFemales of childbearing potential with agreement to use birth control for six months post-transplant.\nApproved by the Mayo Clinic Transplant Selection Committee.\nSigned Authorization for Donation of Anatomical Gifts on file.\n\nExclusion Criteria:\n\nPositive pregnancy test at the time of the kidney offer is called for the potential recipient.\nKidney transplant potential recipients with active malignancy (except none melanoma skin malignancies).\nPatients with previous history of solid organ transplant (Heart, Lung, Intestine, Kidney and/or Pancreas).\nPatients with previous history of bone marrow transplant.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Tambi Jarmi, MD",
+            "OverallOfficialAffiliation": "Mayo Clinic",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mayo Clinic in Florida",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Jacksonville",
+            "LocationState": "Florida",
+            "LocationZip": "32224",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Elizabeth M. Starck",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "904-953-7971",
+                  "LocationContactEMail": "Starck.Elizabeth@mayo.edu"
+                },
+                {
+                  "LocationContactName": "Mauricia Buchanan, R.N.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "904-953-9455",
+                  "LocationContactEMail": "Buchanan.Mauricia@mayo.edu"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Mayo Clinic Clinical Trials",
+            "SeeAlsoLinkURL": "https://www.mayo.edu/research/clinical-trials"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000015427",
+            "ConditionMeshTerm": "Reperfusion Injury"
+          },
+          {
+            "ConditionMeshId": "D000007511",
+            "ConditionMeshTerm": "Ischemia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000011183",
+            "ConditionAncestorTerm": "Postoperative Complications"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafAsFound": "Ischemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17251",
+            "ConditionBrowseLeafName": "Reperfusion Injury",
+            "ConditionBrowseLeafAsFound": "Reperfusion Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5997",
+            "ConditionBrowseLeafName": "Death",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13217",
+            "ConditionBrowseLeafName": "Postoperative Complications",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

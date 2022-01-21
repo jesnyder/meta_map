@@ -1,0 +1,1400 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03744910",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CSL300_3001"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2018-003682-34",
+            "SecondaryIdType": "EudraCT Number"
+          },
+          {
+            "SecondaryId": "VKTX01",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "Vitaeris"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "CSL Behring",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Clazakizumab for the Treatment of Chronic Active Antibody Mediated Rejection in Kidney Transplant Recipients",
+      "OfficialTitle": "A Pivotal Phase 3 Trial to Evaluate the Safety and Efficacy of Clazakizumab for the Treatment of Chronic Active Antibody-mediated Rejection in Kidney Transplant Recipients",
+      "Acronym": "IMAGINE"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "February 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 14, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2028",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 2028",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 6, 2018",
+      "StudyFirstSubmitQCDate": "November 13, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 19, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "February 18, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "February 21, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "CSL Behring",
+        "LeadSponsorClass": "INDUSTRY"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "ICON Clinical Research",
+            "CollaboratorClass": "INDUSTRY"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This trial investigates the efficacy and safety of clazakizumab [an anti-interleukin (IL)-6 monoclonal antibody (mAb)] for the treatment of CABMR in recipients of a kidney transplant."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Antibody-mediated Rejection"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Chronic Active",
+          "Antibody-mediated Rejection (AMR)"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "350",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Clazakizumab",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Clazakizumab is a genetically engineered humanized immunoglobulin G1 (IgG1) mAb that binds to human IL-6 that is administered subcutaneously.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Clazakizumab"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Physiologic saline solution that is administered subcutaneously.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Physiologic saline solution"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Clazakizumab",
+            "InterventionDescription": "Clazakizumab is a genetically engineered humanized immunoglobulin G1 (IgG1) mAb that binds to human IL-6",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Clazakizumab"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Physiologic saline solution",
+            "InterventionDescription": "Normal saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Time to all-cause composite allograft loss",
+            "PrimaryOutcomeDescription": "Defined as return to dialysis, allograft nephrectomy, re-transplantation, eGFR < 15 mL/min/1.73 m2 or death from any cause [including death with functioning allograft]). An eGFR < 15 mL/min/1.73 m2 must be confirmed by a repeat measurement taken between 14 to 30 days later. Temporary return to dialysis due to AKI and temporary eGFR decline to < 15 mL/min/1.73 m2 due to AKI are both excluded.",
+            "PrimaryOutcomeTimeFrame": "Up to 5.5 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Incidence and time to death-censored allograft loss",
+            "SecondaryOutcomeTimeFrame": "Up to 5.5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in mean estimated glomerular filtration rate (eGFR) from Baseline to End of Treatment (EOT)",
+            "SecondaryOutcomeTimeFrame": "Baseline and Up to 5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in spot urine albumin creatinine ratio (UACR) from Baseline to EOT",
+            "SecondaryOutcomeTimeFrame": "Baseline and Up to 5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in (Donor-specific antibodies) DSA titers and Mean fluorescence intensity (MFI) scores from Baseline to EOT",
+            "SecondaryOutcomeTimeFrame": "Baseline and Up to 5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of acute rejection episodes of T cell-mediated rejection(TCMR) and Antibody-mediated rejection (ABMR) from Baseline to EOT",
+            "SecondaryOutcomeTimeFrame": "Baseline and Up to 5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Banff lesion grading score (2015 criteria) of pre-treatment to post-treatment (Week 52) kidney biopsies",
+            "SecondaryOutcomeTimeFrame": "Up to 52 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Overall patient survival",
+            "SecondaryOutcomeTimeFrame": "Up to 5.5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Maximum serum concentration (Cmax, Cmax ss) of CSL300",
+            "SecondaryOutcomeTimeFrame": "Up to 21 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Trough serum concentrations (Ctrough, Ctrough ss) of CSL300",
+            "SecondaryOutcomeTimeFrame": "Up to 21 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Area under the concentration-time curve (AUC0-tau) at steady state of CSL300",
+            "SecondaryOutcomeTimeFrame": "Up to 21 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time of maximum serum concentration (Tmax, Tmax ss) of CSL300",
+            "SecondaryOutcomeTimeFrame": "Up to 21 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion criteria:\n\nAge 18-70 years.\nLiving donor/deceased donor kidney transplant recipients ≥6 months from time of transplant.\n\nDiagnosis of CABMR determined by kidney biopsy and the presence of HLA DSA using single-antigen bead-based assays.\n\nNOTE: If conducted within 6 months (+3 weeks) of the start of the screening period, the biopsy and DSA analysis do not need to be repeated at screening. To be considered for determination of study eligibility, the biopsy and DSA analysis must be performed at least 2 months ± 2 weeks after the end of any prior treatment for ABMR (including CABMR) or TCMR, in order to show continuing CABMR and presence of HLA DSA. In addition, treatments for ABMR or TCMR are not allowed within 3 months of the start of screening.\n\nThe following histopathologic and serologic diagnostic criteria (based on Banff 2015 criteria [Loupy et al, 2017]) must be met for inclusion:\n\nMorphologic evidence of chronic tissue injury, as demonstrated by TG (cg>0). Biopsies without evidence of chronic tissue injury on light microscopy, but with glomerular basement membrane double contours on electron microscopy (cg1a) are eligible.\nEvidence of current/recent antibody interaction with vascular endothelium, including 1 or more of the following.\nLinear C4d staining in peritubular capillaries or medullary vasa recta (C4d2 or C4d3 by immunofluorescence on frozen sections, or C4d > 0 by immunohistochemistry on paraffin sections).\nAt least moderate microvascular inflammation ([g + ptc] ≥ 2) in the absence of recurrent or de novo glomerulonephritis, although in the presence of acute TCMR, borderline infiltrate, or infection, ptc ≥ 2 alone is not sufficient and g must be ≥ 1.\n\nNOTE: The local pathologist's diagnosis must be reviewed by a central pathologist to confirm eligibility for entry into the study. Biopsies with other histopathologic changes (eg, BKV nephropathy or recurrent glomerulonephritis) may be eligible if concurrent CABMR changes (as detailed above) are present and determined to be the predominant cause of renal dysfunction.\n\nSerologic evidence of circulating DSA to HLA. NOTE: The local laboratory DSA results must be reviewed and confirmed by the central HLA reviewer during the screening period.\n\nExclusion criteria:\n\nMulti-organ transplant recipient (except for simultaneous kidney-pancreas or previous multiple kidney transplants) or cell transplant (islet, bone marrow, stem cell) recipient.\nTreatment for ABMR (including CABMR) or TCMR within 3 months of the start of screening.\nReceived T cell depleting agents (e.g., alemtuzumab, anti-thymocyte globulin) within 3 months of the start of screening.\nPregnant, breastfeeding, or unwillingness to practice adequate contraception.\nHistory of active tuberculosis (TB).\nHistory of human immunodeficiency virus (HIV) infection or positive for HIV.\nSeropositive for hepatitis B surface antigen (HBsAg)\nHepatitis C virus (HCV) RNA positive.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Trial Registration Coordinator",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "610-878-4000",
+            "CentralContactEMail": "clinicaltrials@cslbehring.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Study Director",
+            "OverallOfficialAffiliation": "CSL Behring",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mayo Clinic Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Phoenix",
+            "LocationState": "Arizona",
+            "LocationZip": "85054",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "480-342-2536"
+                },
+                {
+                  "LocationContactName": "Hasan Khamash, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "California Institute of Renal Research",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "San Diego",
+            "LocationState": "California",
+            "LocationZip": "92123",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Eva Gripp",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "858-637-4600"
+                },
+                {
+                  "LocationContactName": "Arman Faravardeh, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "NU Comprehensive Transplant Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Chicago",
+            "LocationState": "Illinois",
+            "LocationZip": "60611",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "312-964-0234"
+                },
+                {
+                  "LocationContactName": "John Friedewald, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Maine Medical Center/ Maine Medical Center Research Institute",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Scarborough",
+            "LocationState": "Maine",
+            "LocationZip": "04074",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "207-396-8184"
+                },
+                {
+                  "LocationContactName": "John Vella, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "University of Maryland Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Baltimore",
+            "LocationState": "Maryland",
+            "LocationZip": "21201",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "410-328-0303"
+                },
+                {
+                  "LocationContactName": "Matthew Weir, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Henry Ford Health System",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Detroit",
+            "LocationState": "Michigan",
+            "LocationZip": "48202",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "313-916-4596"
+                },
+                {
+                  "LocationContactName": "Milagros Samaniego-Picota, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Mayo Clinic",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Rochester",
+            "LocationState": "Minnesota",
+            "LocationZip": "55095",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "507-538-9617"
+                },
+                {
+                  "LocationContactName": "Carrie Schinstock, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "University of Nebraska Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Omaha",
+            "LocationState": "Nebraska",
+            "LocationZip": "68105",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Research Assistant",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "402-552-2285"
+                },
+                {
+                  "LocationContactName": "Eric Langewisch, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Montefiore Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Bronx",
+            "LocationState": "New York",
+            "LocationZip": "10467",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "347-671-8217"
+                },
+                {
+                  "LocationContactName": "Enver Akalin, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "NYU Langone Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10016",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "212-263-3620"
+                },
+                {
+                  "LocationContactName": "Infana Soomro, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Columbia University Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10032",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "212-305-6842"
+                },
+                {
+                  "LocationContactName": "David Cohen, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Wake Forest University Health Sciences",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Winston-Salem",
+            "LocationState": "North Carolina",
+            "LocationZip": "27157",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "336-716-9353"
+                },
+                {
+                  "LocationContactName": "Colleen Jay, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "University of Cincinnati",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Cincinnati",
+            "LocationState": "Ohio",
+            "LocationZip": "45267",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "513-558-9965"
+                },
+                {
+                  "LocationContactName": "Ervin Woodle, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Central Pennsylvania Transplant Foundation",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Harrisburg",
+            "LocationState": "Pennsylvania",
+            "LocationZip": "17104",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "717-251-8765"
+                },
+                {
+                  "LocationContactName": "Manpreet Singh, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Medical University of South Carolina",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Charleston",
+            "LocationState": "South Carolina",
+            "LocationZip": "29425",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "843-792-7558"
+                },
+                {
+                  "LocationContactName": "Vinaya Rao, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Vanderbilt Nephrology Clinical Trials",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Nashville",
+            "LocationState": "Tennessee",
+            "LocationZip": "37232",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "615-936-1179"
+                },
+                {
+                  "LocationContactName": "Harold Helderman, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Renal Disease Research Institute",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Dallas",
+            "LocationState": "Texas",
+            "LocationZip": "75204",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "214-366-6133"
+                },
+                {
+                  "LocationContactName": "Bernard Fischbach, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "VCU Health",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Richmond",
+            "LocationState": "Virginia",
+            "LocationZip": "23298",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "804-382-2243"
+                },
+                {
+                  "LocationContactName": "Guarav Gupta, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "University of Washington",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seattle",
+            "LocationState": "Washington",
+            "LocationZip": "98195",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "206-598-1562"
+                },
+                {
+                  "LocationContactName": "Nicolae Leca, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Providence Medical Research Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Spokane",
+            "LocationState": "Washington",
+            "LocationZip": "99204",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "509-474-4302"
+                },
+                {
+                  "LocationContactName": "Samer Bani Hani, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "University of Wisconsin School of Medicine and Public Health (UWSMPH)",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Madison",
+            "LocationState": "Wisconsin",
+            "LocationZip": "53705",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Clinical Research Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "608-265-6544"
+                },
+                {
+                  "LocationContactName": "Arjang Djamali, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Royal Prince Alfred Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Camperdown",
+            "LocationState": "New South Wales",
+            "LocationZip": "2050",
+            "LocationCountry": "Australia",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact"
+                },
+                {
+                  "LocationContactName": "Steven Chadban, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "WSLHD, Westmead Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Westmead",
+            "LocationState": "New South Wales",
+            "LocationZip": "2145",
+            "LocationCountry": "Australia",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Clinical Trial Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "61288906848"
+                },
+                {
+                  "LocationContactName": "Philip O'Connell, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Princess Alexandra Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Woolloongabba",
+            "LocationState": "Queensland",
+            "LocationZip": "4102",
+            "LocationCountry": "Australia",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Trial Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "3176 6325"
+                },
+                {
+                  "LocationContactName": "Scott Campbell, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Royal Adelaide Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Adelaide",
+            "LocationState": "South Australia",
+            "LocationZip": "5000",
+            "LocationCountry": "Australia",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "61 8 7074 3077"
+                },
+                {
+                  "LocationContactName": "Toby Coates, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Monash Health Monash Medical Centre",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Clayton",
+            "LocationState": "Victoria",
+            "LocationZip": "3168",
+            "LocationCountry": "Australia",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "03 9594 3521"
+                },
+                {
+                  "LocationContactName": "William Mulley, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "The Royal Melbourne Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Parkville",
+            "LocationState": "Victoria",
+            "LocationZip": "3064",
+            "LocationCountry": "Australia",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Trial Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "61393424744"
+                },
+                {
+                  "LocationContactName": "Peter Hughes, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Vancouver General Hospital - Gordon & Leslie Diamond Centre",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Vancouver",
+            "LocationState": "British Columbia",
+            "LocationZip": "V5Z 1M9",
+            "LocationCountry": "Canada",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "604 682 2344",
+                  "LocationContactPhoneExt": "64706"
+                },
+                {
+                  "LocationContactName": "Olwyn Johnston, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "St. Paul's Hospital, Providence Health Care, Univ. Of British Columbia",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Vancouver",
+            "LocationState": "British Columbia",
+            "LocationZip": "V6Z 1Y6",
+            "LocationCountry": "Canada",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "604 682 2344"
+                },
+                {
+                  "LocationContactName": "John Gill, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Shared Health Inc. operating as the Health Sciences Centre",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Winnipeg",
+            "LocationState": "Manitoba",
+            "LocationZip": "R3A 1R9",
+            "LocationCountry": "Canada",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact"
+                },
+                {
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "204-787-8662"
+                },
+                {
+                  "LocationContactName": "Peter Nickerson, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Queen Elizabeth II Health Sciences Centre",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Halifax",
+            "LocationState": "Nova Scotia",
+            "LocationZip": "B3H 1V7",
+            "LocationCountry": "Canada",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "902-473-7625"
+                },
+                {
+                  "LocationContactName": "Amanda Vinson, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "London Health Sciences Centre",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "London",
+            "LocationState": "Ontario",
+            "LocationZip": "N6A 5A5",
+            "LocationCountry": "Canada",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "519-685-8500 x 34769"
+                },
+                {
+                  "LocationContactName": "Anthony Jevnikar, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Royal Victoria Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Montréal",
+            "LocationState": "Quebec",
+            "LocationZip": "H4A 3J1",
+            "LocationCountry": "Canada",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "514-934-1934 ext 36569"
+                },
+                {
+                  "LocationContactName": "Marcelo Cantarovich, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "St Paul's Hospital Foundation",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Saskatoon",
+            "LocationState": "Saskatchewan",
+            "LocationZip": "S7M 0Z9",
+            "LocationCountry": "Canada",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "306 655 5990"
+                },
+                {
+                  "LocationContactName": "Ahmed Shoker, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "IKEM",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Prague",
+            "LocationZip": "14000",
+            "LocationCountry": "Czechia",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "420261362144"
+                },
+                {
+                  "LocationContactName": "Ondrej Viklicky, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "CHU GRENOBLE ALPES - Consultation Néphrologie Bureau des ARC (Côté Chartreuse, Rez-de-Chaussée Haut)",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Grenoble",
+            "LocationState": "Grenoble Cédex 09",
+            "LocationZip": "38043",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "04 76 76 72 62"
+                },
+                {
+                  "LocationContactName": "Lionel Rostaing",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Néphrologie - Pavillon Sainte Venise - CHU de Rouen - Hôpital de Bois Guillaume",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Bois-Guillaume",
+            "LocationZip": "76230",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "02 32 88 9152"
+                },
+                {
+                  "LocationContactName": "Dominique Bertrand, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hopital Edouard Herriot",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Lyon",
+            "LocationZip": "69003",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "33 4 72 11 62 20"
+                },
+                {
+                  "LocationContactName": "Emmanuel Morelon, Med",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hopital Necker Enfants Malades",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Paris",
+            "LocationZip": "75015",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact"
+                },
+                {
+                  "LocationContactName": "Olivier Aubert, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "CHU Rangueil",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Toulouse",
+            "LocationZip": "31059",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "33 5 61 32 28 94"
+                },
+                {
+                  "LocationContactName": "Nassim Kamar, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Charite - Universitaetsmedizin Berlin - Campus Charite Mitte (CCM)",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Berlin",
+            "LocationZip": "10117",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Lead Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "004930 450614183"
+                },
+                {
+                  "LocationContactName": "Klemens Budde, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Debreceni Egyetem, Klinikai Központ, Auguszta",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Debrecen",
+            "LocationZip": "4032",
+            "LocationCountry": "Hungary",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "36 30 670 7453"
+                },
+                {
+                  "LocationContactName": "Balazs Nemes, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "University of Szeged",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Szeged",
+            "LocationZip": "6720",
+            "LocationCountry": "Hungary",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "36306599227"
+                },
+                {
+                  "LocationContactName": "Gyorgy Lazar, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Radboudumc",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Nijmegen",
+            "LocationState": "Gelderland",
+            "LocationZip": "6525 GA",
+            "LocationCountry": "Netherlands",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Nurse",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "31243614761"
+                },
+                {
+                  "LocationContactName": "Luuk Hilbrands, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Amsterdam UMC location AMC",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Amsterdam",
+            "LocationZip": "1105AZ",
+            "LocationCountry": "Netherlands",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Co-ordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "0031-205661168"
+                },
+                {
+                  "LocationContactName": "Frederike Bemelman, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Erasmus Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Rotterdam",
+            "LocationZip": "3015 GD",
+            "LocationCountry": "Netherlands",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+31-10-703 46 07"
+                },
+                {
+                  "LocationContactName": "Michiel Betjes, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "UMCUtrecht",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Utrecht",
+            "LocationZip": "3508GA",
+            "LocationCountry": "Netherlands",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "00318875 59768"
+                },
+                {
+                  "LocationContactName": "Arjan Van Zuilen, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hospital Del Mar",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Barcelona",
+            "LocationZip": "8003",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "34932483689"
+                },
+                {
+                  "LocationContactName": "Marta Crespo Barrio, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hospital Vall d'Hebron",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Barcelona",
+            "LocationZip": "8035",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "93 274 60 00 ext. 4872"
+                },
+                {
+                  "LocationContactName": "Daniel Seron Micas, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hospital Clinic Barcelona",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Barcelona",
+            "LocationZip": "8036",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "34932275400",
+                  "LocationContactPhoneExt": "4408"
+                },
+                {
+                  "LocationContactName": "Fritz Diekmann, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hospital Universitari de Bellvitge",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Barcelona",
+            "LocationZip": "8907",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "34932607385"
+                },
+                {
+                  "LocationContactName": "Jose Maria Cruzado Garrit, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hospital Universitario Miguel Servet",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Zaragoza",
+            "LocationZip": "50009",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Study Coordinator",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "976765624"
+                },
+                {
+                  "LocationContactName": "Alex Gutierrez Dalmau, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9274",
+            "InterventionBrowseLeafName": "Immunoglobulin G",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M18269",
+            "InterventionBrowseLeafName": "Immunoglobulins, Intravenous",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02940418",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "T1DM.UJCTC"
+      },
+      "Organization": {
+        "OrgFullName": "University of Jordan",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Use of Stem Cells in Diabetes Mellitus Type 1",
+      "OfficialTitle": "The Use of Mesenchymal Stromal Cells (MSC) in Type 1 Diabetes Mellitus in Adult Humans: Phase I Clinical Trial"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2019",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 19, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 2019",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 19, 2016",
+      "StudyFirstSubmitQCDate": "October 19, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 20, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "July 23, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 24, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Sophia Al-Adwan",
+        "ResponsiblePartyInvestigatorTitle": "Biologist, PhD",
+        "ResponsiblePartyInvestigatorAffiliation": "University of Jordan"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Sophia Al-Adwan",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Allogenic adipose derived mesenchymal stem cells will be injected into patients newly diagnosed with type 1 Diabetes Mellitus",
+      "DetailedDescription": "Adipose derived mesenchymal stem cells (ASCs) are to be collected from blood group O donor, cells will be passaged to passage 5.\n\nBefore release the sample will be subject to our release criteria which include: testing for any bacterial or fungal growth as well as endotoxin and mycoplasma. All these tests must be negative. In addition the cell count and viability (must be more than 80%) are done before release. Surface markers documentation is done on the cells before release using flow cytometry.\n\nThe cells should be infused within 2 hours of release. The dose to is to be repeated after 6 months of a total of two doses in patients. Tests and follow up are to be one at week 12, 24 and 36 when the study is stopped.\n\nThese cells will be injected intravenously into patients newly diagnosed with type 1 Diabetes Mellitus."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Diabetes Mellitus Type 1"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Diabetes Mellitus",
+          "Type 1",
+          "Adipose derived mesenchymal stem cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "20",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Dose 1 mil/kg",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Adipose mesenchymal cells with bone marrow mononuclear cells.\n\nTwo doses with a 6 month interval of allogenic Adipose mesenchymal cells +1 mil/kg of autologous bone marrow mononuclear cells will be injected intravenously.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Adipose mesenchymal cells with bone marrow mononuclear cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Dose 10 mil/kg",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Adipose mesenchymal cells with bone marrow mononuclear cells.\n\nTwo doses with a 6 month interval of allogenic Adipose mesenchymal cells +10 mil/kg of autologous bone marrow mononuclear cells will be injected intravenously.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Adipose mesenchymal cells with bone marrow mononuclear cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Adipose mesenchymal cells with bone marrow mononuclear cells",
+            "InterventionDescription": "Allogenic adipose-derived mesenchymal cells with autologous bone marrow mononuclear cells will be injected.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Dose 1 mil/kg",
+                "Dose 10 mil/kg"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety of using allogenic ASC assessed by any adverse events",
+            "PrimaryOutcomeDescription": "Patients will be assessed for any adverse events as a result of the injection.",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAdult Patients with Type 1 Diabetes Mellitus.\nAge from 18 years to 35 years either gender.\nDuration of disease: not exceeding 3 years unless C-peptide is not less than 0.5 ng/ml\nC-Peptide at inclusion base line should not be less than 0.5 ng/ml\nNo clinical evidence of renal, retinal, vascular or skin complications\nBody Mass Index not exceeding 30\nAny HbA1c\nAt least one positive antibody either anti-Glutamic Acid Decarboxylase-65 or Insulinoma-Associated-2 Autoantibodies (anti-1A2)\nInformed Consent by patient\n\nExclusion Criteria:\n\nAge less than 18 years and more than 35 years\nPregnancy\nMarried women or women expected to be married within the study period\nHistory of allergy, Cancer, bronchial asthma, liver disease or hepatitis\nDiabetic coma or pre-coma current or recent within the last 2 months\nC-Peptide less than 0.5 ng/ml\nDisease duration more than 3 yrs.\nComplication mentioned in 5 above in inclusion\nNon-consenting patient or withdrawal of consent.\nBleeding disorders",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "35 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Hanan D. Jafar, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "00962798871087",
+            "CentralContactEMail": "hanan.jafar@gmail.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Abdallah Awidi, MD",
+            "OverallOfficialAffiliation": "Cell Therapy Center",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Cell Therapy Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Amman",
+            "LocationZip": "11942",
+            "LocationCountry": "Jordan",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Abdalla Awidi, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "0096265355000",
+                  "LocationContactPhoneExt": "23960",
+                  "LocationContactEMail": "abdalla.awidi@gmail.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003920",
+            "ConditionMeshTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionMeshId": "D000003922",
+            "ConditionMeshTerm": "Diabetes Mellitus, Type 1"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000044882",
+            "ConditionAncestorTerm": "Glucose Metabolism Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafAsFound": "Diabetes Mellitus",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6269",
+            "ConditionBrowseLeafName": "Diabetes Mellitus, Type 1",
+            "ConditionBrowseLeafAsFound": "Diabetes Mellitus Type 1",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24556",
+            "ConditionBrowseLeafName": "Glucose Metabolism Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

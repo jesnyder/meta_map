@@ -1,0 +1,557 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04629105",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "00-006"
+      },
+      "Organization": {
+        "OrgFullName": "Longeveron Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Regenerative Medicine for COVID-19 and Flu-Elicited ARDS Using Lomecel-B (RECOVER)",
+      "OfficialTitle": "A Phase 1 Double-blinded, Randomized, Placebo-controlled Study for COVID-19 and Influenza Virus-Elicited Acute Respiratory Distress Syndrome (ARDS) Using Lomecel-B",
+      "Acronym": "RECOVER"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2021",
+      "OverallStatus": "Recruiting",
+      "StartDateStruct": {
+        "StartDate": "July 24, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 2025",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 29, 2020",
+      "StudyFirstSubmitQCDate": "November 12, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 16, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 24, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 30, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Longeveron Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "A Phase I, double- blinded, randomized, placebo- controlled study to test the safety of Lomecel-B in Adults suffering from mild to severe acute respiratory distress syndrome (ARDS) due to COVID-19 resultant from 2019-nCoV coronavirus infection, or resultant from influenza virus infection.",
+      "DetailedDescription": "Double-blinded, randomized, placebo-controlled study with 2 cohorts.\n\nCohort 1: Subjects with ARDS and acutely infected with SARS-CoV-2. Arm 1: 25 subjects treated with up to 3 doses of 100 million Lomecel-B Arm 2: 10 subjects treated with up to 3 doses of Placebo.\n\nCohort 2: Subjects with ARDS and acutely infected with influenza virus. Arm 3: 25 subjects treated with up to 3 doses of 100 million Lomecel-B Arm 4: 10 subjects treated with up to 3 doses of Placebo.\n\nEach subject will be intravenously infused with 100 million Lomecel-B (formerly LMSCs) or placebo on Day 0. If no treatment-related AEs are seen after the infusion, a second infusion will be given on Day 3. If no treatment-related AEs are seen after the second infusion, a third infusion will be given Day 6.\n\nFollow-up visits will be conducted: daily until hospital discharge; at Week 4 after treatment (with LMSCs or placebo) for patients already discharged; and at Month 6 after treatment (with LMSCs or placebo)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "ARDS, Human",
+          "Covid19"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "Double-blinded, randomized, placebo-controlled study with 2 cohorts.\n\nCohort 1: Subjects with ARDS and acutely infected with SARS-CoV-2. Arm 1: 25 subjects treated with up to 3 doses of 100 million LMSCs. Arm 2: 10 subjects treated with up to 3 doses of Placebo.\n\nCohort 2: Subjects with ARDS and acutely infected with influenza virus. Arm 3: 25 subjects treated with up to 3 doses of 100 million LMSCs. Arm 4: 10 subjects treated with up to 3 doses of Placebo.\n\nEach subject will be intravenously infused with 100 million LMSCs or placebo on Day 0. If no treatment-related AEs are seen after the infusion, a second infusion will be given on Day 3. If no treatment-related AEs are seen after the second infusion, a third infusion will be given Day 6.\n\nFollow-up visits will be conducted: daily until hospital discharge; at Week 4 after treatment (with LMSCs or placebo) for patients already discharged; and at Month 6 after treatment (with LMSCs or placebo).",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "70",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Cohort 1 (SARS-CoV-2): Arm 1 (LMSCs)",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Cohort 1: Subjects with ARDS and acutely infected with SARS-CoV-2. Arm 1: 25 subjects treated with up to 3 doses of 100 million LMSCs.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Longeveron Mesenchymal Stem Cells (LMSCs)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort (SARS-CoV-2): Arm 2 (Placebo)",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Cohort 1: Subjects with ARDS and acutely infected with SARS-CoV-2. Arm 2: 10 subjects treated with up to 3 doses of Placebo.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort 2 (Flu): Arm 3 (LMSCs)",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Cohort 2: Subjects with ARDS and acutely infected with influenza virus. Arm 3: 25 subjects treated with up to 3 doses of 100 million LMSCs.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Longeveron Mesenchymal Stem Cells (LMSCs)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort 2 (Flu): Arm 4 (Placebo)",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Cohort 2: Subjects with ARDS and acutely infected with influenza virus. Arm 4: 10 subjects treated with up to 3 doses of Placebo.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Longeveron Mesenchymal Stem Cells (LMSCs)",
+            "InterventionDescription": "Longeveron Mesenchymal Stem Cells (LMSCs)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cohort 1 (SARS-CoV-2): Arm 1 (LMSCs)",
+                "Cohort 2 (Flu): Arm 3 (LMSCs)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Placebo",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cohort (SARS-CoV-2): Arm 2 (Placebo)",
+                "Cohort 2 (Flu): Arm 4 (Placebo)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Incidence of Treatment-Emergent Serious Adverse Events",
+            "PrimaryOutcomeDescription": "Incidence of treatment-emergent serious adverse events (TE-SAEs) within 4 weeks after treatment, defined as one or more of the following untoward medical occurrences happening within the first 4 weeks after treatment.\n\ni. Life-threatening event (e.g., stroke or non-fatal pulmonary embolism). ii. Event requiring inpatient hospitalization or prolongation of existing hospitalization (e.g., for worsening dyspnea).\n\niii. Event resulting in persistent or significant disability/incapacity. iv. Event resulting in death. v. Event leading to other clinically significant untoward laboratory test result(s) or medical condition(s), as determined by the Investigator.",
+            "PrimaryOutcomeTimeFrame": "Within 4 weeks after treatment"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of Participants with Abnormal Clinical Significant Laboratory Values in Hematology.",
+            "PrimaryOutcomeDescription": "Number of Participants with Abnormal Clinical Significant Lab Values in the Hematology testing will be assessed at Baseline and 6 Months.",
+            "PrimaryOutcomeTimeFrame": "Baseline to 6 Months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of Participants with Changes in Echocardiography Overall Assessment",
+            "PrimaryOutcomeDescription": "Overall Assessment Normal vs Abnormal will be collected at Baseline and 6 months, this change in overall assessment will be the outcome in numbers of particants with a change.",
+            "PrimaryOutcomeTimeFrame": "Baseline to 6 Months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of Participants with Changes to overall assessment of Electrocardiogram",
+            "PrimaryOutcomeDescription": "Number of Participants with changes to Overall Assessment Normal vs Abnormal will be collected at Baseline and 6 Months",
+            "PrimaryOutcomeTimeFrame": "Baseline to 6 Months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Time to recovery of Sp02",
+            "PrimaryOutcomeDescription": "Time to recovery of Sp02 to 90% or higher on room air (or the oxygen concentration the patient had before acute illness) after 10 minutes of spontaneous breathing.",
+            "PrimaryOutcomeTimeFrame": "Baseline to 6 Months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of Participants with Abnormal Clinical Significant Lab Values in the Blood Chemistry testing.",
+            "PrimaryOutcomeDescription": "Number of Participants with Abnormal Clinical Significant Lab Values in Blood Chemistry testing will be assessed at Baseline and 6 Months.",
+            "PrimaryOutcomeTimeFrame": "Baseline to 6 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of Participants with Abnormal Clinical Significant Lab Values in the Coagulation.",
+            "PrimaryOutcomeDescription": "Number of Participants with Abnormal Clinical Significant Lab Values in the Coagulation testing will be assessed at Baseline and 6 Months.",
+            "PrimaryOutcomeTimeFrame": "Baseline to 6 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of Participants with Abnormal Clinical Significant Lab Values in the Urinalysis",
+            "PrimaryOutcomeDescription": "Number of Participants with Abnormal Clinical Significant Lab Values in the Hematology testing will be assessed at Baseline and 6 Months.",
+            "PrimaryOutcomeTimeFrame": "Baseline to 6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Immunity",
+            "SecondaryOutcomeDescription": "Geometric mean titer",
+            "SecondaryOutcomeTimeFrame": "Baseline to 6 Months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Imaging via X-ray",
+            "SecondaryOutcomeDescription": "Change in overall assessment via Lung imaging via chest X-ray will be assessed and compared between baseline and 6 months",
+            "SecondaryOutcomeTimeFrame": "Baseline to 6 Months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Imaging via Computerized Tomography",
+            "SecondaryOutcomeDescription": "Change in overall assessment via Lung imaging via computerized tomography will be assessed and compared between baseline and 6 months",
+            "SecondaryOutcomeTimeFrame": "Baseline to 6 Months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female or any race or ethnicity.\nAt least 18 years of age.\nProvide written informed consent. For subjects who are incapable of providing informed consent, written informed consent can be provided on behalf of the subject by a legally authorized representative (LAR).\n\nDiagnosis of mild to severe ARDS per the Berlin Definition of ARDS. More specifically, the following 3 conditions must be present.\n\nA need for positive pressure ventilation by an endotracheal or tracheal tube with a PaO2/FiO2 ratio < 200 with at least 8 cm H2O positive end-expiratory airway pressure (PEEP). A patient may be included if the PaO2/FiO2 ratio < 200 with < 8 cm H2O PEEP if there is a contraindication to increased PEEP (evidence of barotrauma).\nBilateral infiltrates consistent with pulmonary edema on frontal chest radiograph.\nNo clinical evidence of left atrial hypertension for bilateral pulmonary infiltrates.\nConfirmed diagnosis of infection with coronavirus or influenza virus.\nWilling to perform all assessments required for the study.\nMust agree to the collection of all blood samples per protocol.\nMust agree to have samples stored and used for secondary research.\n\nExclusion Criteria:\n\nPatient receiving Extracorporeal Membrane Oxygenation (ECMO).\nHistory of malignancy within previous 2.5 years, except for curatively-treated basal cell carcinoma, squamous cell carcinoma, melanoma in situ, or cervical carcinoma.\n\nPrior positive test for any of the following without demonstration of resolution.\n\ni. Hepatitis B virus (HBV) surface antigen (HBsAg). ii. Viremic hepatitis C virus (HCV). iii. Human immunodeficiency virus-1 or -2 (HIV1 or 2 HIV2). iv. Human T-cell leukemia virus-I or -II (HTLV-I or HTLV-II). v. Syphilis.\n\nFemale who is pregnant, nursing, or of childbearing potential while not practicing effective contraception.\nKnown hypersensitivity to dimethyl sulfoxide (DMSO).\nBe an organ transplant recipient, other than for corneal, bone, skin, ligament, or tendon transplant.\nActively listing (or expected listing) for transplant of any organ, other than for corneal, bone, skin, ligament, or tendon transplant.\nContinuous use of any medication at immunosuppressive dosing for greater than 14 consecutive days over the past 3 months.\nCurrently participating in an investigational therapeutic or device trial, or have participated in an investigational therapeutic or device trial within the previous 30 days, or participate in any other clinical trial for the duration of the time that the subject actively participates in this trial. However, use of hydroxychloroquine, remdesivir, lopinavir/ritonavir and ivermectin are allowed as well as convalescent plasma.. Exceptions for other experimental interventions related to treating the patient's acute illness may be made with prior approval of Longeveron.\nAny serious comorbid illness or any other condition that, in the opinion of the Investigator, may compromise the safety or compliance of the patient or preclude successful completion of the study, or that may compromise the validity of the study.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Kevin N Ramdas, MD, MPH",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "786-769-4935",
+            "CentralContactEMail": "kramdas@longeveron.com"
+          },
+          {
+            "CentralContactName": "Anthony Oliva, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "305-909-0838",
+            "CentralContactEMail": "aoliva@longeveron.com"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Miami VA Healthcare System",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Miami",
+            "LocationState": "Florida",
+            "LocationZip": "33125",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Gisel Urdaneta, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "305-575-7000",
+                  "LocationContactPhoneExt": "12970",
+                  "LocationContactEMail": "gisel.urdaneta@va.edu"
+                },
+                {
+                  "LocationContactName": "Andrew Quartin, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Roland Schein, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "University of Maryland Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Baltimore",
+            "LocationState": "Maryland",
+            "LocationZip": "21201",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Freshta Akbari, MS",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "410-328-4562",
+                  "LocationContactEMail": "fakbari@som.maryland.edu"
+                },
+                {
+                  "LocationContactName": "Sunjay Kaushal, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Carl Shanholtz, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Kristopher Deatrick, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Wake Forest Baptist Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Winston-Salem",
+            "LocationState": "North Carolina",
+            "LocationZip": "27157",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Mary- Clare Day, RN, BSN, CCRC",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "336-713-1343",
+                  "LocationContactEMail": "mday@wakehealth.edu"
+                },
+                {
+                  "LocationContactName": "John P Galliard, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000012128",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9447",
+            "ConditionBrowseLeafName": "Influenza, Human",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "ARDS, Human",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

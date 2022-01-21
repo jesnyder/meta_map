@@ -1,0 +1,524 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04227886",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "FDRT-011"
+      },
+      "Organization": {
+        "OrgFullName": "Fudan University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Study on Predictive Biomarkers of Neoadjuvant Chemoradiotherapy for Rectal Cancer",
+      "OfficialTitle": "A Prospective, Observational, Multicenter Study on Biomarkers for Predicting the Efficacy and Toxicities of Neoadjuvant Chemoradiotherapy for Locally Advanced Rectal Cancer Based on Tissue and Plasma Exosome RNA"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2020",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 1, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 31, 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 30, 2019",
+      "StudyFirstSubmitQCDate": "January 11, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 14, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 11, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 14, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Zhu Ji",
+        "ResponsiblePartyInvestigatorTitle": "Clinical Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Fudan University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Fudan University",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Liaoning Tumor Hospital & Institute",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Harbin Medical University",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Backgrounds: A multicenter randomized phase III trial (NCT02605265) proved that adding irinotecan guided by UGT1A1 to capecitabine-based neoadjuvant chemoradiotherapy significantly increases complete tumor response. The treatment toxicities were increased but tolerable.\n\nPurposes: This study aims to identify the predictive biomarkers (from patients' tumor biopsy samples and peripheral blood samples before neoadjuvant therapy) for predicting the response and toxicities to neoadjuvant therapy to stratify patients and optimize treatment strategy.",
+      "DetailedDescription": "OBJECTIVES:\n\nPrimary:\n\nEstablish a predictive model for response based on tissue RNA and plasma exosome RNA\nEstablish a predictive model for toxicities based on tissue RNA and plasma exosome RNA\n\nSecondary:\n\nInternal validation of the established predictive models\nExternal validation of the established predictive models\n\nOUTLINE:\n\n-Treatment: Patients receive neoadjuvant therapy and surgery per the protocol. Samples collection Tumor tissue and peripheral blood will be collected prior to neoadjuvant therapy.\n\n-Grouping: Response: Patients will be dichotomized into two groups based on the TRG. TRG of 0-1 is defined as good response. TRG of 2-3 is defined as poor response.\n\nToxicities: Patients will be dichotomized into two groups based on the grade of AEs. No grade 3-4 toxicities occurs during neoadjuvant therapy is defined as light toxicities. Grade 3-4 toxicities occur during neoadjuvant therapy is defined as heavy toxicities.\n\n-Predictive Model Construction: Using RNA sequencing method to obtain the whole genome transcription profiles of the tumor tissue and plasm exosome RNA. Compare the gene expression differences between the two response groups and the two toxicity groups. Predictive models of response and toxicities are constructed.\n\n-Internal Validation: Patients treated at Fudan University Shanghai Cancer Center (N=50) per the protocol will be enrolled as the internal validation cohort. Samples of tissue and plasm will be collected and analyzed. The performance of the model will be evaluated by the correlation of the predicted response/toxicities and the actual response/toxicities.\n\n-External Validation: Patients treated at Liao'ning Cancer Hospital & Institute (N=50) and Harbin Medical University Cancer Hospital (N=50) per the protocol will be enrolled as two external validation cohorts. Samples of tissue and plasm will be collected and analyzed. The performance of the model will be evaluated by the correlation of the predicted response/toxicities and the actual response/toxicities."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Rectal Neoplasm Malignant Carcinoma",
+          "Chemoradiotherapy",
+          "Neoadjuvant Therapy",
+          "Predictive Biomarkers",
+          "Adenocarcinoma"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Neoadjuvant Chemoradiation",
+          "Prediction Model",
+          "Treatment Response",
+          "Toxicities",
+          "Irinotecan",
+          "Tissue RNA",
+          "Plasma exosome"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "Tumor biopsy samples and peripheral blood samples are collected before neoadjuvant therapy."
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "250",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Good response",
+            "ArmGroupDescription": "TRG of 0-1 is defined as good response.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Radiation: Radiation",
+                "Drug: Capecitabine-Irinotecan Combination"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Poor response",
+            "ArmGroupDescription": "TRG of 2-3 is defined as poor response.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Radiation: Radiation",
+                "Drug: Capecitabine-Irinotecan Combination"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Light toxicity",
+            "ArmGroupDescription": "No grade 3-4 toxicities occur during neoadjuvant therapy.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Radiation: Radiation",
+                "Drug: Capecitabine-Irinotecan Combination"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Heavy toxicity",
+            "ArmGroupDescription": "Grade 3-4 toxicities occur during neoadjuvant therapy.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Radiation: Radiation",
+                "Drug: Capecitabine-Irinotecan Combination"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Radiation",
+            "InterventionName": "Radiation",
+            "InterventionDescription": "Neoadjuvant radiotherapy consisted of 50 Gy in 25 fractions using intensity-modulated radiotherapy to the primary tumor and to mesorectal, presacral, and internal iliac lymph nodes.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Good response",
+                "Heavy toxicity",
+                "Light toxicity",
+                "Poor response"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Capecitabine-Irinotecan Combination",
+            "InterventionDescription": "The concurrent chemotherapy consists of capecitabine 625 mg/m2 twice daily 5 days per week and combined with weekly irinotecan. The irinotecan dose was used based on UGT1A1 genotype of 80mg/m2 for UGT1A1*1*1 or 65mg/m2 for UGT1A1*1*28 weekly, followed by a cycle of XELIRI.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Good response",
+                "Heavy toxicity",
+                "Light toxicity",
+                "Poor response"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "TRG",
+            "PrimaryOutcomeDescription": "Tumor regression grade",
+            "PrimaryOutcomeTimeFrame": "Surgery scheduled 6-8 weeks after the end of neoadjuvant therapy"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Toxicities",
+            "PrimaryOutcomeDescription": "Number of participants with chemoradiation-related adverse events as assessed by CTCAE v4.0",
+            "PrimaryOutcomeTimeFrame": "Up to 2 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Overall Survival",
+            "SecondaryOutcomeDescription": "The total survival time of the participants from joining the group to the death",
+            "SecondaryOutcomeTimeFrame": "3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Progression-free Survival",
+            "SecondaryOutcomeDescription": "The time period that from participants joining the groups to the progression of disease (recurrence or metastasis) or death of any cause.",
+            "SecondaryOutcomeTimeFrame": "3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Local Control rate",
+            "SecondaryOutcomeDescription": "The time period that from participants joining the groups to the date of first documented pelvic failure.",
+            "SecondaryOutcomeTimeFrame": "3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "pCR",
+            "SecondaryOutcomeDescription": "Pathologic Complete Response",
+            "SecondaryOutcomeTimeFrame": "Surgery scheduled 6-8 weeks after the end of neoadjuvant therapy"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPathological confirmed adenocarcinoma\nClinical stage T3-4 andor N+\nThe distance from anal verge less than 12 cm\nNo suspicious metastatic disease (M1)\nECOG PS 0-1\nUGT1A1*28 6/6 or 6/7\nNo previous anti-cancer therapy\n\nExclusion Criteria:\n\nPregnancy or breast-feeding women\nSerious medical illness\nBaseline blood and biochemical indicators do not meet the following criteria: neutrophils≥1.5×10^9/L, Hb≥90g/L, PLT≥100×10^9/L, ALT/AST ≤2.5 ULN, Cr≤ 1 ULN\nDPD deficiency\nUGT1A1*28 7/7",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Stage T3 or T4 and/or N+ rectal adenocarcinoma cancer eligible for neoadjuvant chemoradiation",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Ji Zhu, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86-2164175590",
+            "CentralContactPhoneExt": "81607",
+            "CentralContactEMail": "leo.zhu@126.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Ji Zhu, MD",
+            "OverallOfficialAffiliation": "Fudan University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Fudan University Shanghai Cancer Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Shanghai",
+            "LocationState": "Shanghai",
+            "LocationZip": "200032",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Ji Zhu, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+86-2164175590",
+                  "LocationContactPhoneExt": "81607",
+                  "LocationContactEMail": "leo.zhu@126.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012004",
+            "ConditionMeshTerm": "Rectal Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000009369",
+            "ConditionMeshTerm": "Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000015179",
+            "ConditionAncestorTerm": "Colorectal Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000007414",
+            "ConditionAncestorTerm": "Intestinal Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000005770",
+            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004067",
+            "ConditionAncestorTerm": "Digestive System Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007410",
+            "ConditionAncestorTerm": "Intestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012002",
+            "ConditionAncestorTerm": "Rectal Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2737",
+            "ConditionBrowseLeafName": "Adenocarcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4686",
+            "ConditionBrowseLeafName": "Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13998",
+            "ConditionBrowseLeafName": "Rectal Neoplasms",
+            "ConditionBrowseLeafAsFound": "Rectal Neoplasms",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17042",
+            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9600",
+            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8038",
+            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6408",
+            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9596",
+            "ConditionBrowseLeafName": "Intestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13996",
+            "ConditionBrowseLeafName": "Rectal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000069287",
+            "InterventionMeshTerm": "Capecitabine"
+          },
+          {
+            "InterventionMeshId": "D000077146",
+            "InterventionMeshTerm": "Irinotecan"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000964",
+            "InterventionAncestorTerm": "Antimetabolites, Antineoplastic"
+          },
+          {
+            "InterventionAncestorId": "D000000963",
+            "InterventionAncestorTerm": "Antimetabolites"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000059004",
+            "InterventionAncestorTerm": "Topoisomerase I Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000059003",
+            "InterventionAncestorTerm": "Topoisomerase Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M377",
+            "InterventionBrowseLeafName": "Capecitabine",
+            "InterventionBrowseLeafAsFound": "Saline",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M1671",
+            "InterventionBrowseLeafName": "Irinotecan",
+            "InterventionBrowseLeafAsFound": "Human",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3433",
+            "InterventionBrowseLeafName": "Antimetabolites",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M28502",
+            "InterventionBrowseLeafName": "Topoisomerase I Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

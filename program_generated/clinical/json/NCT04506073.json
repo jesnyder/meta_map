@@ -1,0 +1,547 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04506073",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "HSC-MS-20-0150"
+      },
+      "Organization": {
+        "OrgFullName": "The University of Texas Health Science Center, Houston",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Phase IIa Randomized Placebo Controlled Trial: Mesenchymal Stem Cells as a Disease-modifying Therapy for iPD",
+      "OfficialTitle": "Allogeneic Bone Marrow-derived Mesenchymal Stem Cells as a Disease-modifying Therapy for Idiopathic Parkinson's Disease: Phase IIa Double-blind Randomized Placebo Controlled Trial"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 9, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "May 1, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "May 1, 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 16, 2020",
+      "StudyFirstSubmitQCDate": "August 6, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 10, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 3, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 5, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Mya Schiess",
+        "ResponsiblePartyInvestigatorTitle": "Professor and Adriana Blood Chair in Neurology",
+        "ResponsiblePartyInvestigatorAffiliation": "The University of Texas Health Science Center, Houston"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "The University of Texas Health Science Center, Houston",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Michael J. Fox Foundation for Parkinson's Research",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to select the safest and most effective number of repeat doses of allogeneic bone marrow-derived mesenchymal stem cell (MSC) infusions to slow the progression of Parkinson's disease (PD).",
+      "DetailedDescription": "Single site phase IIa study of allogeneic MSC in a double blind randomized control trial as disease modifying therapy for PD. The design includes three treatment arms with 45 patients."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Parkinson's Disease"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Stem Cells",
+          "Mesenchymal stem cells",
+          "Inflammatory markers"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "45",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "MSC+placebo",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "2 treatment doses + 1 placebo 3 months apart",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: MSC+placebo"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "MSC",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "3 treatment doses 3 months apart",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: MSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "3 placebo doses 3 months apart",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "MSC+placebo",
+            "InterventionDescription": "2 infusions of 10 X 10^6 MSC/kg and 1 placebo every 3 months.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC+placebo"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "allogeneic mesenchymal stem cell or similar placebo"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "MSC",
+            "InterventionDescription": "3 infusions of 10 X 10^6 MSC/kg every 3 months.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "allogeneic mesenchymal stem cell"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "3 infusions of placebo every 3 months. Placebo will be identical to the investigational product but will not contain MSCs.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Similar placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safest number of effective doses of MSC as measured by the Part III of the Movement Disorder Society Unified Parkinson's disease Rating Scale (MDS-UPDRS) scale",
+            "PrimaryOutcomeTimeFrame": "Screening"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Safest number of effective doses of MSC as measured by the Part III of the Movement Disorder Society Unified Parkinson's disease Rating Scale (MDS-UPDRS) scale",
+            "PrimaryOutcomeTimeFrame": "Week 7, post infusion #1"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Safest number of effective doses of MSC as measured by the Part III of the Movement Disorder Society Unified Parkinson's disease Rating Scale (MDS-UPDRS) scale",
+            "PrimaryOutcomeTimeFrame": "Week 20, post infusion #2"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Safest number of effective doses of MSC as measured by the Part III of the Movement Disorder Society Unified Parkinson's disease Rating Scale (MDS-UPDRS) scale",
+            "PrimaryOutcomeTimeFrame": "Week 29, post-infusion #3"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Safest number of effective doses of MSC as measured by the Part III of the Movement Disorder Society Unified Parkinson's disease Rating Scale (MDS-UPDRS) scale",
+            "PrimaryOutcomeTimeFrame": "Week 39 follow-up"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Safest number of effective doses of MSC as measured by the Part III of the Movement Disorder Society Unified Parkinson's disease Rating Scale (MDS-UPDRS) scale",
+            "PrimaryOutcomeTimeFrame": "Week 52 follow-up"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Safest number of effective doses of MSC as measured by the Part III of the Movement Disorder Society Unified Parkinson's disease Rating Scale (MDS-UPDRS) scale",
+            "PrimaryOutcomeTimeFrame": "Week 78 follow-up"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Safety and tolerability as measured by serious adverse reactions.",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 7,week 20,week 29,week 39,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Safety and tolerability as measured by immunologic responses.",
+            "SecondaryOutcomeDescription": "Donor specific antibodies (DSA) in serum of patients will be measured and compared to baseline to determine if there is a development of antibody response to donor HLA (human leukocyte antigen). This will determine if there is a possibility of anti-donor alloimmune response after the first or second infusion of MSC, which might lead to a subsequent antibody-mediated rejection (AMR) with the following infusion. Testing will be done at the these time points to determine if 2nd or 3rd infusions will continue.",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 7,week 20,week 29,week 39,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Motor function as measured by the Timed-Up-and-Go (TUG) scale",
+            "SecondaryOutcomeDescription": "This test uses the time that a person takes to rise from a chair, walk three meters, turn around, walk back to the chair, and sit down. A longer duration of time indicates a worse outcome",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 7,week 20,week 29,week 39,week 52,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Global measurement of disability as measured by the change in the screening \"Off\" modified Hoehn and Yahr (H&Y)",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 7,week 20,week 29,week 39,week 52,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of life as measured by the modified Schwab and England activities of daily living scale (ADL)",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 7,week 20,week 29,week 39,week 52,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of life as measured by the Parkinson's Disease Questionnaire 39 (PDQ-39)",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 7,week 20,week 29,week 39,week 52,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of life as measured by the EuroQol- 5 Dimension (EQ-5D)",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 7,week 20,week 29,week 39,week 52,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Non-motor symtoms as measured by the The University of Pennsylvania Smell Identification Test (UPSIT- 40 odor test booklet).",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 29,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cognitive function as measured by the the change in Montreal Cognitive Assessment (MoCA)",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 29,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Behavioral changes as measured by the Columbia Suicide Severity Rating Scale (C-SSRS)",
+            "SecondaryOutcomeDescription": "The Columbia-Suicide Severity Rating Scale (C-SSRS) is an assessment tool that evaluates suicidal ideation and behavior. It rates an individual's degree of suicidal ideation on a scale, ranging from \"wish to be dead\" to \"active suicidal ideation with specific plan and intent\". Exclusionary criteria views 1 or more positive answers in the last month as not eligible for participation. In follow up, one positive response requires further investigation.",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 7,week 20,week 29,week 39,week 52,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Behavioral changes as measured by the Geriatric Depression Scale-Short Form (GDS-SF)",
+            "SecondaryOutcomeDescription": "The Geriatric Depression Scale Short form (GDS-SF) is a 15-item screening tool that is used to identify depression in older adults. Answers indicating depression are in bold and italicized; score one point for each bold one selected. A score of 0 to 5 is normal. A score greater than 5 suggests depression and requires evaluation, whereas a score of 10 or greater would require evaluation for treatment .",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 7,week 20,week 29,week 39,week 52,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Behavioral changes as measured by the Parkinson Anxiety Scale (PAS)",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 7,week 20,week 29,week 39,week 52,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Measurement of putative paracrine mechanism of MSCs using neuroimaging",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 29,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Measurement of putative paracrine mechanism of MSCs as measured by concentration of cytokines in patient blood sample.",
+            "SecondaryOutcomeDescription": "Examples of these are IL-1beta, IL-6, TNF-alpha, COX-2 and PGE-2. These are measured by Magnetic Bead Panel - Multiplex Assay or ELISA, allowing for specificity in the blood.",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 7,week 20,week 29,week 39,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Measurement of putative paracrine mechanism of MSCs as measured by concentration of chemokines in patient blood sample.",
+            "SecondaryOutcomeDescription": "Examples of these are CCL2 (MCP-1), CCL7 (MCP-3), CCL11 (Eotaxin) CCL2 (MDC), CXCL10 (IP-10), CX3CL1 (Fractalkine). These will be measured by Magnetic Bead Panel - Multiplex Assay or ELISA, allowing for specificity in the blood.",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 7,week 20,week 29,week 39,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Measurement of putative paracrine mechanism of MSCs as measured by concentration of growth factors",
+            "SecondaryOutcomeDescription": "Examples of these are Glial Derived Neurotrophic Factor, Brain Derived Neurotrophic Factor and Vascular Epidermal Growth Factor . These will be measured by ELISA specific to blood and CSF.",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 7,week 20,week 29,week 39,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Measurement of putative paracrine mechanism of MSCs as measured by concentration of neurotransmitters",
+            "SecondaryOutcomeDescription": "Examples of these are homovanillic acid and 5-hydroxytryptamine. These will be measured in CSF and blood by ELISA.",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 7,week 20,week 29,week 39,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Measurement of putative paracrine mechanism of MSCs as measured by alpha-synuclein oligomers in the blood (serum or plasma)",
+            "SecondaryOutcomeTimeFrame": "Basleline,week 29,week 39,week 78"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Measurement of putative paracrine mechanism of MSCs as measured by alpha-synuclein oligomers in the cerebral spinal fluid",
+            "SecondaryOutcomeTimeFrame": "Baseline,week 39"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnosis of Parkinson's disease by the UK brain bank criteria including the presence of 2 cardinal signs of PD plus bradykinesia.\nMild microsomia to anosmia.\nA modified Hoehn and Yahr stage of 3 or less.\nDate of diagnosis of PD between 3 to 10 years\nRobust response to dopaminergic therapy.\n\nExclusion Criteria:\n\nAtypical, vascular, or drug-induced Parkinsonism.\nAn atypical DAT scan or MRI supporting an alternative explanation for PD symptoms.\nPatient not on levodopa containing medications.\nClinical features of psychosis or refractory hallucinations.\nA Montreal Cognitive Assessment (MoCA) score of less than 25.\nUncontrolled seizure disorder.\nAbnormal Kidney and liver function.\nPresence of clinically refractory orthostatic hypotension at the screening or baseline visit.\nBody mass index of greater than or equal to 35.\nCardiac disease: History of congestive heart failure, clinically significant bradycardia, presence of 2nd, or 3rd-degree atrioventricular block.\nPulmonary disease: COPD with oxygen-requirement at rest or with ambulation; or moderate to severe asthma.\nActive malignancy or diagnosis of malignancy within 5 years prior to the start of screening\nAny current suicidal ideation or behaviors.\nAny diagnosis of autoimmune disease or immunocompromised state\nHistory of medium or large size vessel cerebrovascular accidents.\nHistory of traumatic brain injury with loss of consciousness and residual neurologic symptoms.\nMajor surgery within the previous 3 months or planned in the ensuing 6 months.\nHistory of use of an investigational drug within 90 days prior to the screening visit.\nHistory of brain surgery for PD.\nSubstance abuse disorder.\nActive anticoagulation treatment and/or abnormal INR.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "50 Years",
+      "MaximumAge": "79 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Mya C Schiess, MD",
+            "OverallOfficialAffiliation": "The University of Texas Health Science Center, Houston",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "The University of Texas Health Science Center at Houston",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77030",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "30584159",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Dorsey ER, Sherer T, Okun MS, Bloem BR. The Emerging Evidence of the Parkinson Pandemic. J Parkinsons Dis. 2018;8(s1):S3-S8. doi: 10.3233/JPD-181474. Review."
+          },
+          {
+            "ReferencePMID": "12498954",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Braak H, Del Tredici K, Rüb U, de Vos RA, Jansen Steur EN, Braak E. Staging of brain pathology related to sporadic Parkinson's disease. Neurobiol Aging. 2003 Mar-Apr;24(2):197-211."
+          },
+          {
+            "ReferencePMID": "24756517",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Connolly BS, Lang AE. Pharmacological treatment of Parkinson disease: a review. JAMA. 2014 Apr 23-30;311(16):1670-83. doi: 10.1001/jama.2014.3654. Review."
+          },
+          {
+            "ReferencePMID": "20070435",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Jellinger KA. Basic mechanisms of neurodegeneration: a critical update. J Cell Mol Med. 2010 Mar;14(3):457-87. doi: 10.1111/j.1582-4934.2010.01010.x. Epub 2010 Jan 11. Review."
+          },
+          {
+            "ReferencePMID": "15668963",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Kortekaas R, Leenders KL, van Oostrom JC, Vaalburg W, Bart J, Willemsen AT, Hendrikse NH. Blood-brain barrier dysfunction in parkinsonian midbrain in vivo. Ann Neurol. 2005 Feb;57(2):176-9."
+          },
+          {
+            "ReferencePMID": "25757748",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Gray MT, Woulfe JM. Striatal blood-brain barrier permeability in Parkinson's disease. J Cereb Blood Flow Metab. 2015 May;35(5):747-50. doi: 10.1038/jcbfm.2015.32. Epub 2015 Mar 11."
+          },
+          {
+            "ReferencePMID": "12531233",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Orr CF, Rowe DB, Halliday GM. An inflammatory review of Parkinson's disease. Prog Neurobiol. 2002 Dec;68(5):325-40. Review."
+          },
+          {
+            "ReferencePMID": "11128604",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Nagatsu T, Mogi M, Ichinose H, Togari A. Cytokines in Parkinson's disease. J Neural Transm Suppl. 2000;(58):143-51. Review."
+          },
+          {
+            "ReferencePMID": "8945728",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Stypuła G, Kunert-Radek J, Stepień H, Zylińska K, Pawlikowski M. Evaluation of interleukins, ACTH, cortisol and prolactin concentrations in the blood of patients with parkinson's disease. Neuroimmunomodulation. 1996 Mar-Jun;3(2-3):131-4."
+          },
+          {
+            "ReferencePMID": "21082892",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Joyce N, Annett G, Wirthlin L, Olson S, Bauer G, Nolta JA. Mesenchymal stem cells for the treatment of neurodegenerative disease. Regen Med. 2010 Nov;5(6):933-46. doi: 10.2217/rme.10.72. Review."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010300",
+            "ConditionMeshTerm": "Parkinson Disease"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000020734",
+            "ConditionAncestorTerm": "Parkinsonian Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001480",
+            "ConditionAncestorTerm": "Basal Ganglia Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009069",
+            "ConditionAncestorTerm": "Movement Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000080874",
+            "ConditionAncestorTerm": "Synucleinopathies"
+          },
+          {
+            "ConditionAncestorId": "D000019636",
+            "ConditionAncestorTerm": "Neurodegenerative Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12365",
+            "ConditionBrowseLeafName": "Parkinson Disease",
+            "ConditionBrowseLeafAsFound": "Parkinson's Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21647",
+            "ConditionBrowseLeafName": "Parkinsonian Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24756",
+            "ConditionBrowseLeafName": "Ganglion Cysts",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15510",
+            "ConditionBrowseLeafName": "Synovial Cyst",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3926",
+            "ConditionBrowseLeafName": "Basal Ganglia Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11181",
+            "ConditionBrowseLeafName": "Movement Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2217",
+            "ConditionBrowseLeafName": "Synucleinopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20711",
+            "ConditionBrowseLeafName": "Neurodegenerative Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

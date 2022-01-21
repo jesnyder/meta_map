@@ -1,0 +1,432 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02848131",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "15-005843"
+      },
+      "Organization": {
+        "OrgFullName": "Mayo Clinic",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Senescence in Chronic Kidney Disease",
+      "OfficialTitle": "Senescence, Frailty, and Mesenchymal Stem Cell Functionality in Chronic Kidney Disease: Effect of Senolytic Agents"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Enrolling by invitation",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 2016",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 2, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 2, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "March 22, 2016",
+      "StudyFirstSubmitQCDate": "July 27, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 28, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "August 5, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 12, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "LaTonya J. Hickson",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Mayo Clinic"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Mayo Clinic",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The study goal is to assess the effect of senescent cell clearance on senescence burden, physical ability or frailty, and adipose tissue-derived mesenchymal stem cell (MSC) functionality in patients with chronic kidney disease (CKD).",
+      "DetailedDescription": "The proposed studies will examine cellular senescence and the effect of senolytic therapy on senescent cell burden, frailty, and adipose-derived mesenchymal stem cell function in individuals with diabetic chronic kidney disease."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Chronic Kidney Disease"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Group 1: Observational",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "Observational Only"
+          },
+          {
+            "ArmGroupLabel": "Group 2: Dasatinib & Quercetin",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "The drugs dasatinib and quercetin will be used in this arm",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Group 2: Dasatinib",
+                "Drug: Group 2: Quercetin"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Group 2: Dasatinib",
+            "InterventionDescription": "Dasatinib - take one 100 mg tablet by mouth once daily for 3 consecutive days.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group 2: Dasatinib & Quercetin"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Sprycel"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Group 2: Quercetin",
+            "InterventionDescription": "Quercetin - take four 250 mg capsules daily (total 1000 mg daily) for 3 consecutive days.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group 2: Dasatinib & Quercetin"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change in proportion of senescent cells (representing the total senescent cell burden) present",
+            "PrimaryOutcomeDescription": "Assessment of senescence markers in skin, fat, and/or blood at baseline and day 14.",
+            "PrimaryOutcomeTimeFrame": "Baseline, Day 14"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change in proportion of senescent mesenchymal stem cells present",
+            "SecondaryOutcomeDescription": "Assessment of senescence markers in mesenchymal stem cells at baseline and day 14.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Day 14"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in mesenchymal stem cell function",
+            "SecondaryOutcomeDescription": "Assessment of functional studies in mesenchymal stem cells at baseline and day 14. Number of subjects with change in stem cell function related to treatment.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Day 14"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Frailty index score",
+            "SecondaryOutcomeDescription": "Assessment by Fried and other frailty criteria at baseline and day 14.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Day 14"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in kidney function",
+            "SecondaryOutcomeDescription": "Assessment by estimated and measured glomerular filtration rate at baseline, day 14, month 4, and month 12.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Day 14, Month 4, Month 12"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge 40-80 years\nChronic kidney disease estimated glomerular filtration rate (eGFR) 15-45 ml/min/1.73m2\nDiabetes mellitus and taking diabetes medications\n\nExclusion Criteria:\n\nConcomitant glomerulonephritis,\nNephrotic syndrome,\nSolid organ transplantation,\nAutosomal dominant or recessive polycystic kidney disease,\nKnown renovascular disease,\nPregnancy,\nActive immunosuppression therapy,\nHemoglobin A1c≥10% at screening,\nHistory of active substance abuse (including alcohol) within the past 2 years,\nCurrent alcohol abuse (>3 alcoholic beverages/day or >21 per week),\nBody weight >150 kg or body mass index>50\nHuman immunodeficiency virus infection\nActive hepatitis B or C infection\nTyrosine kinase inhibitor therapy\nKnown hypersensitivity or allergy to dasatinib or quercetin\nInability to give informed consent\nUncontrolled systemic lupus erythematosus\nUncontrolled pleural/pericardial effusions or ascites\nNew invasive cancer except non-melanoma skin cancers\nInvasive fungal or viral infection\nInability to tolerate oral medications\nTotal bilirubin>2x upper limit of normal\nSubjects taking medications that are sensitive to substrates or substrates with a narrow therapeutic range for CYP3A4, CYP2C8, CYP2C9, or CYP2D6 or strong inhibitors or inducers of CYP3A4 (e.g. cyclosporine, tacrolimus or sirolimus). If antifungals are absolutely necessary from an infectious disease perspective, then they will be allowed only if the levels are therapeutic.\nSubjects on strong inhibitors of CYP3A4.\nSubjects on therapeutic doses of anticoagulants (Warfarin (Coumadin);Rivaroxaban (Xarleto); Apixaban (Eliquis); Dabigatran (Pradaxa, Prazaxa) or Other).\nSubjects on antiplatelet agents ((Clopidogrel (Plavix); Dipyridamole + Asprin (Aggrenox); Ticagrelor (Brilinta); Prasugrel (Effient); Ticlopidine (Ticlid) or Other) who are unable or unwilling to reduce or hold therapy prior to and during the 3-day drug dosing. Subjects may continue their previous regimen on day 4.\nSubjects on quinolone antibiotic therapy for treatment or for prevention of infections within 10 days\nSubjects taking H2-antagonists or proton pump inhibitors and unwilling to discontinue therapy 1 week prior and 2 weeks following enrollment.\nCorrected QT interval (QTc)>450 msec\nPresence of any condition that the Investigator believes would put the subject at risk or would preclude the patient from successfully completing all aspects of the trial.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "40 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "LaTonya J Hickson, MD",
+            "OverallOfficialAffiliation": "Mayo Clinic",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mayo Clinic in Rochester",
+            "LocationCity": "Rochester",
+            "LocationState": "Minnesota",
+            "LocationZip": "55905",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "31542391",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Hickson LJ, Langhi Prata LGP, Bobart SA, Evans TK, Giorgadze N, Hashmi SK, Herrmann SM, Jensen MD, Jia Q, Jordan KL, Kellogg TA, Khosla S, Koerber DM, Lagnado AB, Lawson DK, LeBrasseur NK, Lerman LO, McDonald KM, McKenzie TJ, Passos JF, Pignolo RJ, Pirtskhalava T, Saadiq IM, Schaefer KK, Textor SC, Victorelli SG, Volkman TL, Xue A, Wentworth MA, Wissler Gerdes EO, Zhu Y, Tchkonia T, Kirkland JL. Senolytics decrease senescent cells in humans: Preliminary report from a clinical trial of Dasatinib plus Quercetin in individuals with diabetic kidney disease. EBioMedicine. 2019 Sep;47:446-456. doi: 10.1016/j.ebiom.2019.08.069. Epub 2019 Sep 18. Erratum in: EBioMedicine. 2020 Feb;52:102595."
+          }
+        ]
+      },
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Mayo Clinic Clinical Trials",
+            "SeeAlsoLinkURL": "https://www.mayo.edu/research/clinical-trials"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DocumentSection": {
+    "LargeDocumentModule": {
+      "LargeDocList": {
+        "LargeDoc": [
+          {
+            "LargeDocTypeAbbrev": "Prot_SAP",
+            "LargeDocHasProtocol": "Yes",
+            "LargeDocHasSAP": "Yes",
+            "LargeDocHasICF": "No",
+            "LargeDocLabel": "Study Protocol and Statistical Analysis Plan",
+            "LargeDocDate": "April 19, 2019",
+            "LargeDocUploadDate": "11/06/2019 15:08",
+            "LargeDocFilename": "Prot_SAP_001.pdf"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007674",
+            "ConditionMeshTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionMeshId": "D000051436",
+            "ConditionMeshTerm": "Renal Insufficiency, Chronic"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000051437",
+            "ConditionAncestorTerm": "Renal Insufficiency"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M1175",
+            "ConditionBrowseLeafName": "Frailty",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafAsFound": "Kidney Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M25871",
+            "ConditionBrowseLeafName": "Renal Insufficiency",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25870",
+            "ConditionBrowseLeafName": "Renal Insufficiency, Chronic",
+            "ConditionBrowseLeafAsFound": "Chronic Kidney Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000069439",
+            "InterventionMeshTerm": "Dasatinib"
+          },
+          {
+            "InterventionMeshId": "D000011794",
+            "InterventionMeshTerm": "Quercetin"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000047428",
+            "InterventionAncestorTerm": "Protein Kinase Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000975",
+            "InterventionAncestorTerm": "Antioxidants"
+          },
+          {
+            "InterventionAncestorId": "D000020011",
+            "InterventionAncestorTerm": "Protective Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M410",
+            "InterventionBrowseLeafName": "Dasatinib",
+            "InterventionBrowseLeafAsFound": "Ascending",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M13796",
+            "InterventionBrowseLeafName": "Quercetin",
+            "InterventionBrowseLeafAsFound": "Endogenous",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M24973",
+            "InterventionBrowseLeafName": "Protein Kinase Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3444",
+            "InterventionBrowseLeafName": "Antioxidants",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21022",
+            "InterventionBrowseLeafName": "Protective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "T41",
+            "InterventionBrowseLeafName": "Quercetin",
+            "InterventionBrowseLeafAsFound": "Endogenous",
+            "InterventionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Fl",
+            "InterventionBrowseBranchName": "Flavonoid"
+          }
+        ]
+      }
+    }
+  }
+}

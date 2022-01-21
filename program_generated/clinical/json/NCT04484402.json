@@ -1,0 +1,408 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04484402",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "IBCE_LSC"
+      },
+      "Organization": {
+        "OrgFullName": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Treatment of Patients With Inflammatory-dystrophic Diseases of the Cornea Using Autologous Stem Cells",
+      "OfficialTitle": "Treatment of Patients With Inflammatory-dystrophic Diseases of the Cornea Using Autologous Limbal Stem Cells (Corneal Epithelial Stem Cells) or Adipose-derived Mesenchymal Stem Cells"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2020",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 3, 2016",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 30, 2019",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 30, 2019",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "July 20, 2020",
+      "StudyFirstSubmitQCDate": "July 20, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 23, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "July 28, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 30, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus",
+        "LeadSponsorClass": "OTHER_GOV"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Belarusian State Medical University",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Treatment of patients with inflammatory-dystrophic diseases of the cornea using autologous limbal stem cells (corneal epithelial stem cells) or adipose-derived mesenchymal stem cells",
+      "DetailedDescription": "In order to treat inflammatory and dystrophic diseases of the cornea perilimbal injections of cultured autologous stem cells are performed. Corneal (limbal) epithelial stem cells (LSC) or mesenchymal stem cells derived from adipose tissue (ADSC) are mixed with sodium hyaluronate 1%"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Corneal Ulcer",
+          "Corneal Disease",
+          "Corneal Dystrophy"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Corneal Disease"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "25",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "mesenchymal stem cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients with inflammatory-dystrophic diseases of the cornea receiving standard treatment plus adipose-derived mesenchymal stem cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: mesenchymal stem cells",
+                "Other: standard treatment"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "limbal stem cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients with inflammatory-dystrophic diseases of the cornea receiving standard treatment plus adipose-derived limbal stem cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: limbal stem cells",
+                "Other: standard treatment"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "control",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patients with inflammatory-dystrophic diseases of the cornea receiving standard treatment",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: standard treatment"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "mesenchymal stem cells",
+            "InterventionDescription": "Autologous adipose-derived mesenchymal stem cells mixed with sodium hyaluronate 1% solution",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "limbal stem cells",
+            "InterventionDescription": "Autologous adipose-derived limbal stem cells mixed with sodium hyaluronate 1% solution",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "limbal stem cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "standard treatment",
+            "InterventionDescription": "Standard treatment according to the Clinical protocols",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "control",
+                "limbal stem cells",
+                "mesenchymal stem cells"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of cured patients",
+            "PrimaryOutcomeDescription": "Number of patients cured",
+            "PrimaryOutcomeTimeFrame": "2 month"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of patients with treatment-related adverse events",
+            "PrimaryOutcomeDescription": "MSC/LSC application related adverse events assessed by blood count, liver and function tests",
+            "PrimaryOutcomeTimeFrame": "4 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\ninflammatory-dystrophic diseases of the cornea:\n\nEpithelial defects of the cornea, ulcerative keratitis of various etiology, resistant to standard methods of treatment\nDystrophic diseases of the cornea, accompanied by edema\nBurns of the cornea\nNeurotrophic forms of keratitis\nPersistent post-traumatic, postoperative, contusion keratitis and keratopathy\n\nExclusion Criteria:\n\nPregnancy.\nViral hepatitis B and C, HIV, tubeculosis and other chronic viral and bacterial infections.\nCancer or leukemia\nAny diseases in the stage of decompensation.\nMental disorders.\nAnomalies of eye refraction",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Igor Volotovski, Prof",
+            "OverallOfficialAffiliation": "Head of the Lab of Institute of Biophysics and Cell Engineering",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Liudmila Marchenko, Prof",
+            "OverallOfficialAffiliation": "Head of the Department of eyes diseases of Belarusian State Medical University",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Zinaida Kvacheva",
+            "OverallOfficialAffiliation": "Leading researcher, Institute of Biophysics and Cell Engineering",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus",
+            "LocationCity": "Minsk",
+            "LocationZip": "220072",
+            "LocationCountry": "Belarus"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003320",
+            "ConditionMeshTerm": "Corneal Ulcer"
+          },
+          {
+            "ConditionMeshId": "D000003317",
+            "ConditionMeshTerm": "Corneal Dystrophies, Hereditary"
+          },
+          {
+            "ConditionMeshId": "D000003316",
+            "ConditionMeshTerm": "Corneal Diseases"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000015817",
+            "ConditionAncestorTerm": "Eye Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007634",
+            "ConditionAncestorTerm": "Keratitis"
+          },
+          {
+            "ConditionAncestorId": "D000005128",
+            "ConditionAncestorTerm": "Eye Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000015785",
+            "ConditionAncestorTerm": "Eye Diseases, Hereditary"
+          },
+          {
+            "ConditionAncestorId": "D000030342",
+            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M5695",
+            "ConditionBrowseLeafName": "Corneal Ulcer",
+            "ConditionBrowseLeafAsFound": "Corneal Ulcer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16358",
+            "ConditionBrowseLeafName": "Ulcer",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5691",
+            "ConditionBrowseLeafName": "Corneal Diseases",
+            "ConditionBrowseLeafAsFound": "Corneal Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5692",
+            "ConditionBrowseLeafName": "Corneal Dystrophies, Hereditary",
+            "ConditionBrowseLeafAsFound": "Corneal Dystrophy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17523",
+            "ConditionBrowseLeafName": "Eye Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9812",
+            "ConditionBrowseLeafName": "Keratitis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7423",
+            "ConditionBrowseLeafName": "Eye Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17491",
+            "ConditionBrowseLeafName": "Eye Diseases, Hereditary",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22839",
+            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC11",
+            "ConditionBrowseBranchName": "Eye Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9030",
+            "InterventionBrowseLeafName": "Hyaluronic Acid",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03608293",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "RC-P0014"
+      },
+      "Organization": {
+        "OrgFullName": "Lille Catholic University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Smoker Extracellular Vesicles Influence on Human Bronchial Epithelial Cells",
+      "OfficialTitle": "Particulate Air Pollution : Smoker Extracellular Vesicles Influence on Human Bronchial Epithelial Cells",
+      "Acronym": "Aerotox-1"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2018",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 1, 2012",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 31, 2013",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2013",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "July 24, 2018",
+      "StudyFirstSubmitQCDate": "July 24, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 31, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "July 24, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 31, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Lille Catholic University",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Universite du Littoral Cote d'Opale",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Cigarette smoking is a habit that has spread all over the world and is a significant risk factor for many diseases including cardiovascular disease, chronic obstructive pulmonary disease(COPD),asthma and lung cancer.\n\nEvaluation and understanding of tobacco health effects are of major interest worldwide and answer to important societal concerns.\n\nIdentification of new biomarkers of exposure to tobacco smoke potentially implicated in COPD or lung carcinogenesis would allow a better observation of tobacco exposed population, thanks to screening establishment at reversible stages of pathological processes.\n\nIn this study, we question whether cigarettes smoking alters miRNA profiles of extracellular vesicles (EVs) present in human broncho alveolar lavages (BALs), which could affect surrounding normal bronchial epithelial cells status.",
+      "DetailedDescription": "Extracellular vesicles (EVs) include a variety of nanoscale membranous vesicles (exosomes, microvesicles, microparticles). EVs are released into the interstitial fluid from a wide variety of normal or diseased cells.\n\nAnalysis of EVs and their content maybe useful as disease biomarkers as they reflect the contents of cells of origin, differ between normal and diseased tissue and can be reliably detected.\n\nEVs may thus act as biomarkers of diverse pathologies like cancer, and detection of these biomarkers maybe applied to early diagnosis or assessment of prognosis in patients with cancer. EVs indeed contain both mRNAs and non-coding RNAs, such as small regulatory microRNAs (miRNAs)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Smokers",
+          "Human Bronchial Epithelial Cells",
+          "Lung Pathogenesis",
+          "Biomarkers"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Basic Science",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "20",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Smokers",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Smokers outpatients at the Pneumology service from the HôpitalSaint-Philibert (Lomme, France) to whom a bronchoalveolar lavage will be performed",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Broncho Alveolar Lavages (BAL)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Non smokers",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Non smokers outpatients at the Pneumology service from the HôpitalSaint-Philibert (Lomme, France) to whom a bronchoalveolar lavage will be performed",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Broncho Alveolar Lavages (BAL)"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "Broncho Alveolar Lavages (BAL)",
+            "InterventionDescription": "BEAS-2 B cells are exposed to EVs isolated from BAL of smokers and non-smokers.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Non smokers",
+                "Smokers"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Quantification of target mRNA expression in human bronchial epithelial cells (BEAS-2 B) exposed to EVs isolated from LBA of patients",
+            "PrimaryOutcomeDescription": "Quantitative polymerase chain reaction (RT-qPCR) for determination of mRNA expression",
+            "PrimaryOutcomeTimeFrame": "Through the study completion, an average of 48 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\n>18 year-old\n\nExclusion Criteria:\n\nLack of informed consent\nDrug treatment\nProfessional exposure\nEvolutive pregnancy\nBradycardia\nRespiratory assistance required,\nDiagnosed respiratory distress (e.g. COPD, asthma)\nInfectious pneumopathy\nBronchial cancer",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Pierre Gosset, MD",
+            "OverallOfficialAffiliation": "GHICL",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    }
+  }
+}

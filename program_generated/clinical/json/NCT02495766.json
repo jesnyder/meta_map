@@ -1,0 +1,404 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02495766",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "XCEL-MS-02"
+      },
+      "Organization": {
+        "OrgFullName": "Banc de Sang i Teixits",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Autologous Mesenchymal Stromal Cells for Multiple Sclerosis",
+      "OfficialTitle": "Treatment of Autologous Mesenchymal Stem Cells Derived From Bone Marrow as a Potential Therapeutic Strategy for the Treatment of Multiple Sclerosis",
+      "Acronym": "EMMES"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2020",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 11, 2015",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 27, 2017",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 15, 2018",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "June 3, 2015",
+      "StudyFirstSubmitQCDate": "July 8, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 13, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "January 15, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 21, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Banc de Sang i Teixits",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Vall d'Hebron Research Institute (VHIR)",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study evaluates the effect of cryopreserved autologous adult bone-marrow mesenchymal stromal cells (BM-MSC) in patients with active multiple sclerosis, compared to placebo.\n\nPatients will be allocated to one of the 2 treatment arms (BM-MSC or placebo)and at month 6, the treatment will be crossed to receive the other product. The objective is to assess the safety of a single infusion BM-MSC, and to explore its efficacy in these patients.\n\nPatients will be evaluated at month 12 and will be followed-up for a total of 3 years.",
+      "DetailedDescription": "To date, there is no effective therapy to cure multiple sclerosis (MS). Immunomodulatory therapies are useful in reducing the frequency of inflammatory processes (relapses) but don't delay significantly the progression of the disease, prevent long term disability or induce the repair of damaged tissue. This proposal contemplates the use of adult autologous bone marrow mesenchymal stromal cells (BM-MSC) as an alternative therapeutic strategy to treat patients with active MS. This is a randomized, double blind, crossover clinical trial in which 8 patients with active forms of MS and moderate disability will enter the trial with the primary objective of assessing the safety and tolerability of a single intravenous infusion of BM-MSC. Secondary objectives are to assess the efficacy by gadolinium enhancing lesions though magnetic resonance imaging, neurophysiological effects and immunological effects. Once randomized, patients will undergo BM extraction and once confirmed the availability of the needed dose, they will be randomized to one of the 2 treatment arms (BM-MSC named XCEL-MC-ALPHA, or placebo). XCEL-MC-ALPHA will be cryopreserved for all patients regardless the allocated arm. At month 6, the treatment will be crossed. Patients will be evaluated at month 12 and will be followed-up for a total of 3 years."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Relapsing-Remitting Multiple Sclerosis",
+          "Secondary Progressive Multiple Sclerosis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Multiple sclerosis",
+          "Bone marrow mesenchymal stromal cells",
+          "Stem cells",
+          "Nervous System Diseases",
+          "Demyelinating Diseases",
+          "Autoimmune Diseases"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Crossover Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "8",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Treatment A: XCEL-MC-ALPHA/Placebo",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Single infusion of cryopreserved bone-marrow adult mesenchymal stromal cells followed by placebo infusion at month 6.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: XCEL-MC-ALPHA",
+                "Drug: Placebo"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Treatment B: Placebo/XCEL-MC-ALPHA",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Single infusion of placebo followed by cryopreserved bone-marrow adult mesenchymal stromal cells infusion at month 6.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: XCEL-MC-ALPHA",
+                "Drug: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "XCEL-MC-ALPHA",
+            "InterventionDescription": "Single infusion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment A: XCEL-MC-ALPHA/Placebo",
+                "Treatment B: Placebo/XCEL-MC-ALPHA"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Bone-marrow mesenchymal stromal cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Single infusion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment A: XCEL-MC-ALPHA/Placebo",
+                "Treatment B: Placebo/XCEL-MC-ALPHA"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Adverse events",
+            "PrimaryOutcomeDescription": "Safety profile",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Cumulative number of MRI Gd-enhancing lesions",
+            "SecondaryOutcomeDescription": "Imaging procedure",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Multiple Sclerosis Outbreaks",
+            "SecondaryOutcomeDescription": "Medical assessment",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Expanded Disability Status Scale (EDDS) score",
+            "SecondaryOutcomeDescription": "Quantification of disability",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cumulative number of lesions visualized on T2 sequence",
+            "SecondaryOutcomeDescription": "Imaging procedure",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients between 18 and 60 years of age\nPatients with MS\nRelapsing-remitting or secondary progressive MS\nPatients to whom are not indicated or are not in a position to initiate treatment with disease-modifying drugs\nExpanded Disability Status Scale (EDDS) score <6.5\nNine T2 lesions at least\nActive multiple sclerosis as defined either by 1 outbreak in the last year or at least one Gadolinium-enhancing lesion in the last 6 months\nSigned informed consent form\n\nExclusion Criteria:\n\nInterferon beta or glatiramer acetate 3 months prior the screening\nNatalizumab or fingolimod in the 6 months prior the screening\nMitoxantrone, cyclophosphamide or other immunosuppressive therapy at any time\nHas received an experimental treatment within 3 months prior the screening\nMS outbreak within the 4 weeks prior the randomization\nSerum creatinine> 2.0 mg/dl\nInfectious disease active or uncontrolled\nFertile patients who are not using a suitable method of contraception\nPregnant or lactating woman\nImmunodeficiency\nPositive serology to HIV, Hepatitis B, Hepatitis C or syphilis",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "60 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Xavier Montalban, MD, PhD",
+            "OverallOfficialAffiliation": "Hospital Vall d'Hebron",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Hospital Vall Hebron",
+            "LocationCity": "Barcelona",
+            "LocationZip": "08005",
+            "LocationCountry": "Spain"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Blood and Tissue Bank of Catalonia",
+            "SeeAlsoLinkURL": "http://www.bancsang.net"
+          },
+          {
+            "SeeAlsoLinkLabel": "Multiple Sclerosis center of Catalonia",
+            "SeeAlsoLinkURL": "http://www.cem-cat.org/"
+          },
+          {
+            "SeeAlsoLinkLabel": "Vall d'Hebron Research Institute",
+            "SeeAlsoLinkURL": "http://www.vhir.org"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009103",
+            "ConditionMeshTerm": "Multiple Sclerosis"
+          },
+          {
+            "ConditionMeshId": "D000020529",
+            "ConditionMeshTerm": "Multiple Sclerosis, Relapsing-Remitting"
+          },
+          {
+            "ConditionMeshId": "D000020528",
+            "ConditionMeshTerm": "Multiple Sclerosis, Chronic Progressive"
+          },
+          {
+            "ConditionMeshId": "D000012598",
+            "ConditionMeshTerm": "Sclerosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000020278",
+            "ConditionAncestorTerm": "Demyelinating Autoimmune Diseases, CNS"
+          },
+          {
+            "ConditionAncestorId": "D000020274",
+            "ConditionAncestorTerm": "Autoimmune Diseases of the Nervous System"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003711",
+            "ConditionAncestorTerm": "Demyelinating Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11212",
+            "ConditionBrowseLeafName": "Multiple Sclerosis",
+            "ConditionBrowseLeafAsFound": "Multiple Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14567",
+            "ConditionBrowseLeafName": "Sclerosis",
+            "ConditionBrowseLeafAsFound": "Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6061",
+            "ConditionBrowseLeafName": "Demyelinating Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11459",
+            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21467",
+            "ConditionBrowseLeafName": "Multiple Sclerosis, Relapsing-Remitting",
+            "ConditionBrowseLeafAsFound": "Relapsing Remitting Multiple Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21466",
+            "ConditionBrowseLeafName": "Multiple Sclerosis, Chronic Progressive",
+            "ConditionBrowseLeafAsFound": "Secondary Progressive Multiple Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21251",
+            "ConditionBrowseLeafName": "Demyelinating Autoimmune Diseases, CNS",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21247",
+            "ConditionBrowseLeafName": "Autoimmune Diseases of the Nervous System",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          }
+        ]
+      }
+    }
+  }
+}

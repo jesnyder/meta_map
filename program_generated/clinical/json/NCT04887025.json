@@ -1,0 +1,438 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04887025",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "IR2021002042"
+      },
+      "Organization": {
+        "OrgFullName": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Exploratory Study of a Novel Oncolytic Vaccinia Virus RGV004 in the Treatment of Refractory/Relapsed B-cell Lymphoma",
+      "OfficialTitle": "Exploratory Study of a Novel Oncolytic Vaccinia Virus Expressing Bispecific Antibody in the Treatment of Refractory/Relapsed B-cell Lymphoma"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 15, 2022",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 15, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 15, 2025",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 6, 2021",
+      "StudyFirstSubmitQCDate": "May 13, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 14, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 30, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 1, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Hangzhou Rongu Biotechnology Co., Ltd.",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a dose-escalation, single-arm, single-center open study which aims to evaluate the maximum tolerated dose (MTD) and dose-dependent toxicity (DLT) of a novel oncolytic vaccinia virus expressing bispecific antibody RGV004 in patients with relapsed/refractory B-cell lymphoma,",
+      "DetailedDescription": "Oncolytic vaccinia virus administered by intratumoral injection"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Relapsed or Refractory B-cell Lymphoma"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "25",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Dose Escalation",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects will be treated with RGV004 as a single injection, one time.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: RGV004"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "RGV004",
+            "InterventionDescription": "a genetically-engineered vaccinia virus (encoding CD19/CD3 bispecific antibody)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Dose Escalation"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "To define the Max tolerated dose (MTD) of RGV004",
+            "PrimaryOutcomeDescription": "According to the principle of '3+3' dose escalation, if one patient experiences a Dose limiting Toxicity (DLT), up to three additional patients will be treated at the same dose level. If DLT is observed in only one of six patients treated at a given dose level, the next cohort of three patients will be treated at the next higher dose level. If two or more patients experience DLT at a particular dose level, then the dose escalation will cease and any subsequent patients will be treated at a lower dose level. Thus finding the Max tolerated dose (MTD)",
+            "PrimaryOutcomeTimeFrame": "Up to 28 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of participants with treatment-related adverse events as assessed by CTCAE v5.0",
+            "PrimaryOutcomeDescription": "To evaluate the number of Grade III and above side effects assessed by CTCAE v5.0 for patients who received intratumoral administration of RGV004 injection in patients with R/R B-cell lymphoma.",
+            "PrimaryOutcomeTimeFrame": "Up to 2 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Objective remission rate (ORR)",
+            "SecondaryOutcomeDescription": "The percentage of participants who achieved complete remission (CR) and partial remission (PR) over all participants",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "RGV004 viral DNA in blood",
+            "SecondaryOutcomeDescription": "Viral DNA load will be summarized by cohort",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "RGV004 viral shedding in saliva",
+            "SecondaryOutcomeDescription": "Viral DNA will be analyzed by qPCR",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "RGV004 viral shedding in urine",
+            "SecondaryOutcomeDescription": "Viral DNA will be analyzed by qPCR",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge ≥ 18 years old, the upper limit is 75 years old, there is no restriction on men and women;\nECOG score 0-1;\nHistological diagnosis of non-Hodgkin B-cell lymphoma (NHL) [diagnostic criteria according to WHO2008], including diffuse large B-cell lymphoma (DLBCL) non-specific, primary mediastinal large B-cell lymphoma (PMBCL) , Mantle cell lymphoma (MCL), transformed follicles Cell lymphoma (TFL) and other indolent B-cell NHL transformants;\nCD19 positive (immunohistochemistry or flow cytometry);\nDLBCL refractory (refractory) or relapse is defined as: complete remission is not achieved after 2-line treatment; disease appears during any treatment Disease progression, or disease stable time equal to or less than 6 months; or disease progression or recurrence within 12 months after autologous hematopoietic stem cell transplantation;\nMCL: Complete remission has not been achieved after 2-line treatment (including BTK inhibitors); disease progression during any treatment, or disease stable time equal to or less than 6 months; or within 12 months after autologous hematopoietic stem cell transplantation Disease progression or recurrence;\nThere is at least one measurable superficial lesion, and any long diameter of the lymph node lesion is greater than 1.5 cm or any long diameter of the extranodal lesion is greater than 1.0 cm, and the PET-CT scan lesion is ingested (SUV is greater than the liver blood pool);\nPeripheral blood neutrophil absolute value ≥ 2000/mm3, platelet ≥ 50,000/mm3;\nHeart, liver and kidney functions: creatinine <1.5mg/dL; ALT (alanine aminotransferase) / AST (aspartate aminotransferase) below 2.5 times the upper limit of normal; total bilirubin <1.5mg/dL; cardiac ejection fraction ( EF) ≥50%;\nHave sufficient understanding and voluntarily sign the informed consent form;\nWomen with fertility must undergo a negative serum pregnancy test and agree to implement effective birth control measures during the treatment phase and within 60 days after the last application of the oncolytic virus;\nMale patients must agree to implement effective birth control measures during the study period and within 60 days after the last viral treatment.\n\nExclusion Criteria:\n\nThere is a history of other tumors;\nInoculate vaccinia vaccine 3 months before the study treatment and during the study treatment period;\nHave received gene therapy or any type of oncolytic virus therapy within 3 months before the study treatment;\nOther open wounds;\nActive autoimmune diseases;\nActive infection that cannot be controlled;\nHIV infection, uncontrolled HBV, HCV, and syphilis infection;\nKnown lymphoma of the central nervous system;\nClinically important heart disease;\nAllergic to albumin or egg products;\nHave undergone similar operations such as organ transplantation;\nSystemic treatment of skin diseases is required;\nA history of severe systemic reactions or side effects after vaccinia vaccine injection;\nKnown dependence on alcohol or viruses;\nPregnant or lactating female patients",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Wenbin Qian",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+8613605801032",
+            "CentralContactEMail": "qianwb@zju.edu.cn"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Wenbin Qian",
+            "OverallOfficialAffiliation": "2nd Affiliated Hospital, School of Medicine, Zhejiang University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "2nd Affiliated Hospital, School of Medicine, Zhejiang University",
+            "LocationCity": "Hangzhou",
+            "LocationState": "Zhejiang",
+            "LocationZip": "310009",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000014615",
+            "ConditionMeshTerm": "Vaccinia"
+          },
+          {
+            "ConditionMeshId": "D000008223",
+            "ConditionMeshTerm": "Lymphoma"
+          },
+          {
+            "ConditionMeshId": "D000016393",
+            "ConditionMeshTerm": "Lymphoma, B-Cell"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008232",
+            "ConditionAncestorTerm": "Lymphoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008206",
+            "ConditionAncestorTerm": "Lymphatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007160",
+            "ConditionAncestorTerm": "Immunoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000008228",
+            "ConditionAncestorTerm": "Lymphoma, Non-Hodgkin"
+          },
+          {
+            "ConditionAncestorId": "D000011213",
+            "ConditionAncestorTerm": "Poxviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000004266",
+            "ConditionAncestorTerm": "DNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10372",
+            "ConditionBrowseLeafName": "Lymphoma",
+            "ConditionBrowseLeafAsFound": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17980",
+            "ConditionBrowseLeafName": "Lymphoma, B-Cell",
+            "ConditionBrowseLeafAsFound": "B-cell Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16515",
+            "ConditionBrowseLeafName": "Vaccinia",
+            "ConditionBrowseLeafAsFound": "Vaccinia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10377",
+            "ConditionBrowseLeafName": "Lymphoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10355",
+            "ConditionBrowseLeafName": "Lymphatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9358",
+            "ConditionBrowseLeafName": "Immunoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10374",
+            "ConditionBrowseLeafName": "Lymphoma, Non-Hodgkin",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13246",
+            "ConditionBrowseLeafName": "Poxviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6594",
+            "ConditionBrowseLeafName": "DNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3543",
+            "ConditionBrowseLeafName": "Lymphosarcoma",
+            "ConditionBrowseLeafAsFound": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T640",
+            "ConditionBrowseLeafName": "B-cell Lymphoma",
+            "ConditionBrowseLeafAsFound": "B-cell Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19346",
+            "InterventionBrowseLeafName": "Antibodies, Bispecific",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

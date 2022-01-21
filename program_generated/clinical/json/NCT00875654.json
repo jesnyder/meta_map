@@ -1,0 +1,391 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT00875654",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "DCIC 06 25"
+      },
+      "Organization": {
+        "OrgFullName": "University Hospital, Grenoble",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Intravenous Stem Cells After Ischemic Stroke",
+      "OfficialTitle": "Cell Therapy by Intravenous Injection of Mesenchymal Stem Cells After Stroke",
+      "Acronym": "ISIS"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2017",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 2010"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 20, 2017",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 20, 2017",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "April 2, 2009",
+      "StudyFirstSubmitQCDate": "April 2, 2009",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 3, 2009",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "October 30, 2017",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 1, 2017",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "AdministrateurCIC",
+        "ResponsiblePartyInvestigatorTitle": "Dr Olivier DETANTE",
+        "ResponsiblePartyInvestigatorAffiliation": "University Hospital, Grenoble"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Hospital, Grenoble",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Commissariat A L'energie Atomique",
+            "CollaboratorClass": "OTHER_GOV"
+          },
+          {
+            "CollaboratorName": "Institut National de la Santé Et de la Recherche Médicale, France",
+            "CollaboratorClass": "OTHER_GOV"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The main objective of the study is to evaluate feasibility and tolerance of the intravenous injection of autologous mesenchymal stem cells for patients presenting an ischemic stroke (less than 6 weeks).",
+      "DetailedDescription": "Stroke is the leading cause of acquired adult disability. Except the hospitalization in stroke units, only thrombolysis has been shown to be efficient to treat acute ischemic stroke in the first three hours after the onset. Increasing brain plasticity after stroke represents an important alternative strategy. Cell therapy provides a functional improvement after cerebral ischemia in rodent models. This \"restorative\" therapy aims to replace destroyed cerebral tissue with a stem cells graft. Despite these encouraging experiments, we do not know yet the best way of administration of the stem cells, the best dose and the optimal delay of the graft. The pioneer clinical studies failed to reproduce this benefit for patients probably because of the limited number of studied patients. Therefore, more translational studies are needed to improve our knowledge in this promising field. Among different cell sources, mesenchymal (or stromal) stem cells (MSC) derived from bone marrow offer the advantage of arising from a non tumoral and no modified source and are not sources of immunological or ethical problems.\n\nOur research project involves a development of cell therapy in a phase IIa clinical trial of feasibility and safety in patients (randomised, controlled, open, with 3 parallel groups)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Ischemia",
+          "Stroke"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Cell therapy",
+          "Stroke",
+          "Neuronal Plasticity",
+          "Recovery",
+          "Mesenchymal Stem Cells",
+          "Transplantation"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "31",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "1",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "Control group without intervention nor placebo"
+          },
+          {
+            "ArmGroupLabel": "2",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "First dose of stem cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Genetic: Autologous mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "3",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Second dose of stem cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Genetic: Autologous mesenchymal stem cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Genetic",
+            "InterventionName": "Autologous mesenchymal stem cells",
+            "InterventionDescription": "Intravenous injection of Mesenchymal Stem Cells in a mixing of physiological salt solution/albumin 4% (volume<100ml) less than 6 weeks after stroke",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "2",
+                "3"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "feasibility and tolerance of the intravenous injection of autologous mesenchymal stem cells in patients with carotid ischemic stroke",
+            "PrimaryOutcomeTimeFrame": "2 weeks, 1, 2, 4, 6 months and 1, 2 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Clinical and functional effects of the intravenous injection of autologous mesenchymal stem cells in patients with carotid ischemic stroke",
+            "SecondaryOutcomeTimeFrame": "2 weeks, 1, 2, 4, 6 months and 1, 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Determination of the most effective dose of stem cells",
+            "SecondaryOutcomeTimeFrame": "2 weeks, 1, 2, 4, 6 months and 1, 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "To define the best criteria for a future trial (phase III)",
+            "SecondaryOutcomeTimeFrame": "2 weeks, 1, 2, 4, 6 months and 1, 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "To define the best target population for a future study",
+            "SecondaryOutcomeTimeFrame": "2 weeks, 1, 2, 4, 6 months and 1, 2 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nright or left carotid ischemic stroke in the 14 previous days, confirmed by MRI.\nPersistent neurological deficit (NIHSS >=7).\nOptimal medical treatment(antithrombotics, antihypertensive, statins).\nGeneral state compatible with a program of functional rehabilitation.\n\nExclusion Criteria:\n\nSevere extensive stroke implying vital prognosis.\nSevere persistent neurological deficit (NIHSS > 24).\nMedical history of neurological pathology with a deficit as consequence (Rankin < 3 before stroke).\nSerious psychiatric disease.\nMyocardial infarction less than 3 month old.\nRecurring thromboembolic disease or less than 6 month old.\nPatient with organ transplantation.\nMedical history of infection (HIV,HTLV, HBV, HCV).\nCurrent immunosuppressive/immunomodulating treatment.\nMedical history of cancer.\nMedical history of chemotherapy.\nKnown chronic kidney failure(clearance of creatinin < 90 ml/min/1,73m2).\nKnown hepatic failure(diminution of prothrombin level (TP) not corrigiable with vitamin K).\nObesity hinding the bone-marrow sampling in the iliac crest.\nPathology implying vital prognosis in the 3 month following stroke.\nRefusal to participate.\nPatient unable to give personally his/her consent.\nPregnant, parturient and feeding women.\nWoman in age to procreate who could not receive an effective method of contraception during the study.\nParticipation to another therapeutic clinical trial or in period of exclusion of a therapeutic clinical study.\nPrivation of liberty with a decision of justice or administration, legal protection.\nNon affiliation to social security.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Olivier Detante, MD",
+            "OverallOfficialAffiliation": "University Hospital, Grenoble",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Neuroradiology/MRI, University Hospital of Grenoble",
+            "LocationCity": "Grenoble",
+            "LocationZip": "38000",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Stroke Unit, University Hospital of Grenoble",
+            "LocationCity": "Grenoble",
+            "LocationZip": "38000",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Tissular and cell therapy unit, UniversityHospitalof Grenoble",
+            "LocationCity": "Grenoble",
+            "LocationZip": "38000",
+            "LocationCountry": "France"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "32462427",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Jaillard A, Hommel M, Moisan A, Zeffiro TA, Favre-Wiki IM, Barbieux-Guillot M, Vadot W, Marcel S, Lamalle L, Grand S, Detante O; (for the ISIS-HERMES Study Group). Autologous Mesenchymal Stem Cells Improve Motor Recovery in Subacute Ischemic Stroke: a Randomized Clinical Trial. Transl Stroke Res. 2020 Oct;11(5):910-923. doi: 10.1007/s12975-020-00787-z. Epub 2020 May 27."
+          },
+          {
+            "ReferencePMID": "32438012",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Hannanu FF, Goundous I, Detante O, Naegele B, Jaillard A. Spatiotemporal patterns of sensorimotor fMRI activity influence hand motor recovery in subacute stroke: A longitudinal task-related fMRI study. Cortex. 2020 Aug;129:80-98. doi: 10.1016/j.cortex.2020.03.024. Epub 2020 Apr 17."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000020521",
+            "ConditionMeshTerm": "Stroke"
+          },
+          {
+            "ConditionMeshId": "D000007511",
+            "ConditionMeshTerm": "Ischemia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000002561",
+            "ConditionAncestorTerm": "Cerebrovascular Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M21459",
+            "ConditionBrowseLeafName": "Stroke",
+            "ConditionBrowseLeafAsFound": "Stroke",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2401",
+            "ConditionBrowseLeafName": "Ischemic Stroke",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafAsFound": "Ischemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4962",
+            "ConditionBrowseLeafName": "Cerebrovascular Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

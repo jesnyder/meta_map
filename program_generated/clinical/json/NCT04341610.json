@@ -1,0 +1,267 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04341610",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "EudraCT number: 2020-001330-36"
+      },
+      "Organization": {
+        "OrgFullName": "Rigshospitalet, Denmark",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "ASC Therapy for Patients With Severe Respiratory COVID-19",
+      "OfficialTitle": "Allogeneic Adipose Tissue Derived Mesenchymal Stromal Cell Therapy for Treating Patients With Severe Respiratory COVID-19. A Danish, Double-blind, Randomized Placebo-controlled Study",
+      "Acronym": "ASC COVID-19"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2020",
+      "OverallStatus": "Withdrawn",
+      "WhyStopped": "Not approved by ethical committee",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 20, 2020",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 30, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 30, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 7, 2020",
+      "StudyFirstSubmitQCDate": "April 9, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 10, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "May 25, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 27, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "JKastrup",
+        "ResponsiblePartyInvestigatorTitle": "Professor MD",
+        "ResponsiblePartyInvestigatorAffiliation": "Rigshospitalet, Denmark"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Rigshospitalet, Denmark",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The emerging field of stem cell therapy holds promise of treating a variety of diseases. Especially the mesenchymal stromal cells from bone marrow or adipose tissue (ASCs) have proven their potential for regenerative therapy in patients with ischemic heart disease. Both of these cell types have putative immunomodulatory properties, as they have demonstrated their ability to evade recognition and actively suppress the immune system.\n\nThis knowledge is transferred into studies with COVID-19 patients having severe pulmonary dysfunction, to modify the virus induced immunological and inflammatory activity involved in the progression of disease often leading to prolonged ICU stay and in some occasion's death.\n\nWe will conduct a clinical trial in which patients with COVID-19 and severe pulmonary symptoms will be randomized to either placebo or treatment with allogeneic CSCC_ASCs from adipose tissue. The aim is to assess the impact of CSCC_ASCs on the activated immune system and clinical efficacy on pulmonary function.\n\nThe perspective is that this new information can be of pivotal importance and potentially be a paradigm shift for the clinical problems and severe outcome seen in some patients with severe COVID-19 and other severe diseases with Acute Respiratory Distress Syndrome."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Respiratory Tract Diseases"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "Double-blind placebo-controlled",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignMaskingDescription": "Double-blind placebo-controlled",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "0",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "ASC",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "100 million allogeneic adipose-derived mesenchymal stromal cell",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Stem Cell Product"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Saline",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Stem Cell Product"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Stem Cell Product",
+            "InterventionDescription": "100 million allogeneic adipose-derived mesenchymal stromal cells diluted in 100 ml saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "ASC",
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Changes in clinical critical treatment index",
+            "PrimaryOutcomeTimeFrame": "day 7 from randomization"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Days of respirator treatment",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Improvement of clinical symptoms including duration of fever and respiratory need",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Mortality",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Marker of Immunological function -CD4+ and CD8+ T cell count",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "C-reactive protein and leucocyte",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cytokine profile",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Glomerular Filtration Rate",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of hospitalization",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients between 18-80 years\nConfirmed HCoV-19 infection\nTemperature above 38.0o C\n\nPulmonary symptoms and signs, at least one of the following before clinical decision for intubation and respirator treatment:\n\nRespiratory distress, RR ≥ 30/min;\nOxygen saturation ≤ 93% at rest state;\nArterial partial pressure of oxygen (PaO2) / Fraction of inspiration O2 (FiO2) ≤ 300mmHg, 1mmHg=0.133kPa\nPneumonia that is judged by chest radiograph or computed tomography\nIn respirator and possible for treatment within the first 24 hours\n\nExclusion Criteria:\n\nPatients that have need for additional immunosuppressive treatment\nPatients with any past (within the past 3-5 years) or present malignancy (other than excised basal cell carcinoma).\nCo-Infection with other infectious agent.\nFemales capable of becoming pregnant must have a negative pregnancy test prior to treatment. After inclusion, they must use contraceptives for 2 months following the given stem cell treatment. The pill, spiral, depot injection of progesterone, sub-dermal implantation, hormonal vaginal ring and transdermal patch regarded as safe contraceptives.\nPatients who are participating in other clinical trials.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "2014 Department of Cardiology, The Heart Centre, University Hospital Rigshospitalet",
+            "LocationCity": "Copenhagen",
+            "LocationZip": "2100",
+            "LocationCountry": "Denmark"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012140",
+            "ConditionMeshTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafAsFound": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

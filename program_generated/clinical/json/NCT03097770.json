@@ -1,0 +1,474 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03097770",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CHN-PLAGH-BT-020"
+      },
+      "Organization": {
+        "OrgFullName": "Chinese PLA General Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Treatment of Relapsed and/or Chemotherapy Refractory B-cell Malignancy by Tandem CAR T Cells Targeting CD19 and CD20",
+      "OfficialTitle": "Clinical Study of CD19/CD20 tanCAR T Cells in Relapsed and/or Chemotherapy Refractory B-cell Leukemias and Lymphomas"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2019",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 1, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "May 10, 2019",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 31, 2020",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "March 26, 2017",
+      "StudyFirstSubmitQCDate": "March 26, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 31, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 31, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 2, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Han weidong",
+        "ResponsiblePartyInvestigatorTitle": "PI",
+        "ResponsiblePartyInvestigatorAffiliation": "Chinese PLA General Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Chinese PLA General Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "RATIONALE: Placing a tumor antigen chimeric receptor that has been created in the laboratory into patient autologous or donor-derived T cells may make the body build immune response to kill cancer cells.\n\nPURPOSE: This clinical trial is studying genetically engineered lymphocyte therapy in treating patients with B-cell leukemia or lymphoma that is relapsed (after stem cell transplantation or intensive chemotherapy) or refractory to chemotherapy.",
+      "DetailedDescription": "PRIMARY OBJECTIVES:\n\nTo assess the efficacy of TanCAR19/20 T cells in relapsed or refractory NHL, defined as overall response rate (ORR).\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the safety and tolerability of TanCAR19/20 T cells. II. To evaluate time to response (TTR), duration of overall response (DOR), progression free survival (PFS) and overall survival (OS).\n\nIII. To determine in vivo expansion and persistence of TanCAR19/20 T cells.\n\nOUTLINE: Patients are assigned to 1 group according to order of enrollment. Patients receive anti-CD19/20-CAR (coupled with CD137 and CD3 zeta signalling domains)vector-transduced autologous T cells on day1 in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed intensively for 6 months, every 3 months for 2 years, and annually thereafter for 3 years."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Hematopoietic/Lymphoid Cancer",
+          "Adult Acute Lymphoblastic Leukemia in Remission",
+          "B-cell Adult Acute Lymphoblastic Leukemia",
+          "B-cell Chronic Lymphocytic Leukemia",
+          "Prolymphocytic Leukemia",
+          "Recurrent Adult Diffuse Large Cell Lymphoma",
+          "Recurrent Grade 1 Follicular Lymphoma",
+          "Recurrent Grade 2 Follicular Lymphoma",
+          "Recurrent Grade 3 Follicular Lymphoma",
+          "Recurrent Mantle Cell Lymphoma",
+          "Refractory Chronic Lymphocytic Leukemia",
+          "Stage III Adult Diffuse Large Cell Lymphoma",
+          "Stage III Chronic Lymphocytic Leukemia",
+          "Stage III Grade 1 Follicular Lymphoma",
+          "Stage III Grade 2 Follicular Lymphoma",
+          "Stage III Grade 3 Follicular Lymphoma",
+          "Stage III Mantle Cell Lymphoma",
+          "Stage IV Adult Diffuse Large Cell Lymphoma",
+          "Stage IV Chronic Lymphocytic Leukemia",
+          "Stage IV Grade 1 Follicular Lymphoma",
+          "Stage IV Grade 2 Follicular Lymphoma",
+          "Stage IV Grade 3 Follicular Lymphoma",
+          "Stage IV Mantle Cell Lymphoma"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "100",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "anti-CD19/20 CAR T cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients receive anti-CD19/20-CAR retroviral vector-transduced autologous or donor-derived T cells on day 1 in the absence of disease progression or unacceptable toxicity.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: anti-CD19/20-CAR vector-transduced T cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "anti-CD19/20-CAR vector-transduced T cells",
+            "InterventionDescription": "genetically engineered lymphocyte therapy",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "anti-CD19/20 CAR T cells"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "genetically engineered lymphocyte therapy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Occurrence of study related adverse events",
+            "PrimaryOutcomeDescription": "defined as >= Grade 3 signs/symptoms, laboratory toxicities, and clinical events) that are possibly, likely, or definitely related to study treatment",
+            "PrimaryOutcomeTimeFrame": "Until week 24"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Anti-tumor responses to tanCART19/20 cell infusions",
+            "SecondaryOutcomeTimeFrame": "up to 96 weeks"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "In vivo existence of TanCART19/20",
+            "OtherOutcomeTimeFrame": "2 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria\n\nPatients eligible for inclusion in this study have to meet all of the following criteria:\n\nAge ≥18 and ≤70 years.\nPerformance status (ECOG) between 0 and 2.\n\nHistologically confirmed CD20+ and/or CD19+ B-cell non-Hodgkin lymphoma (NHL), including the following types defined by WHO 2008:\n\nDLBCL not otherwise specified, DLBCL associated with chronic inflammation, and Epstein-Barr virus (EBV)+ DLBCL in the elderly.\nPrimary mediastinal (thymic) large B-cell lymphoma (PMBCL). The mediastinal mass had to have an axial diameter <5 cm or extranodal lesion size <3 cm. Patients with large lesions (≥5 cm) were enrolled in our other clinical trial (NCT0334662).\nTransformed FL (tFL) .\nFL.\nSome indolent lymphomas including MCL and chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL).\n\nRefractory disease or relapsed after treatment with ≥2 lines of chemotherapy including rituximab and anthracycline and either having failed autologous HSCT or being ineligible for or not consenting to autologous HSCT.\n\nWe defined chemotherapy-refractory disease as meeting one or more of the following criteria:\n\nNo response to first-line therapy (primary refractory disease).\nNo response to second-line or later therapy.\nPD as the best response to the most recent therapy regimen.\nStable disease (SD) as the best response after at least 2 cycles of the most recent line of therapy with a SD duration of no longer than 6 months from the last dose of therapy.\n\nFailure following autologous HSCT was defined as follows:\n\nPD or relapsed disease ≤12 months after ASCT (requires biopsy-proven recurrence in relapsed subjects).\nNo response or relapse after salvage therapy is given post-ASCT.\nPD or relapse ≥3 months after treatment with a targeted CD19 therapy, including CD19-CAR T cells or anti-CD19/anti-CD3.\nSuccessful leukapheresis assessment and pre-culture of T cells.\nLife expectancy > 3 months.\n\nAdequate organ function:\n\nCreatinine < 1.6 mg/dL (140 µmol/L) or creatinine clearance ≥60 mL/min.\nALT/AST < 3× upper limit of the normal range.\nBilirubin <2.0 mg/dL unless the subject had Gilbert's Syndrome (<3.0 mg/dL).\nA minimum level of pulmonary reserve defined as ≤ Grade 1 dyspnoea and pulse oxygenation > 91% with room air. No clinically significant pleural effusion.\nCardiac ejection fraction ≥50%, no evidence of pericardial effusion as determined by an echocardiogram (ECHO), and no clinically significant electrocardiogram (ECG) findings.\n\nAn adequate bone marrow reserve defined as:\n\nAbsolute neutrophil count (ANC)>1,000/mm3.\nAbsolute lymphocyte count (ALC)≥300/mm3.\nPlatelet count ≥ 50,000/mm3.\nHaemoglobin > 7.0 mg/dL.\nMeasurable or assessable disease according to the \"IWG Response Criteria for Malignant Lymphoma\" (Cheson 2007). Patients in CR with no evidence of disease were not eligible.\nInformed consent/assent requiring that all patients have the ability to understand and the willingness to provide written informed consent.\n\nExclusion Criteria:\n\nPatients eligible for this study must not meet any of the following criteria:\n\nPatients with definite involvement of gastrointestinal tract. Endoscopy should be performed to conform gastrointestinal involvement for patients suspected. However, patients with central nervous system (CNS) involvement were cautiously enrolled in this clinical study.\nCD19 CAR T cell treatment failure or recurrence, detection of a clear HAMA effect, or negative tumour puncture detection of CD19 and CD20.\nPregnant or lactating women.\nUncontrolled active bacterial or viral infection. (active hepatitis B or hepatitis C infection, HIV infection) or treponema pallidum infection.\nClass III/IV cardiovascular disability according to the New York Heart Association Classification and a cardiac ejection fraction ≥50%.\nHistory of allogeneic stem cell transplantation.\nAny autoimmune disease or primary immunodeficiency.\nRequirement for urgent therapy due to tumour mass effects such as respiratory obstruction or blood vessel compression.\nCurrent or expected need for systemic corticosteroid therapy.\nAny organ failure.\nThe patients with the second tumour requiring for therapy or intervention.\nSubjects considered unlikely to complete all protocol-required study visits or procedures, including follow-up visits, or comply with the study requirements for participation according to the investigator's judgement.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "16 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Biotherapeutic Department and Pediatrics Department of Chinese PLA General Hospital",
+            "LocationCity": "Beijing",
+            "LocationState": "Beijing",
+            "LocationZip": "100853",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "34515338",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Ernst M, Oeser A, Besiroglu B, Caro-Valenzuela J, Abd El Aziz M, Monsef I, Borchmann P, Estcourt LJ, Skoetz N, Goldkuhle M. Chimeric antigen receptor (CAR) T-cell therapy for people with relapsed or refractory diffuse large B-cell lymphoma. Cochrane Database Syst Rev. 2021 Sep 13;9:CD013365. doi: 10.1002/14651858.CD013365.pub2. Review."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008223",
+            "ConditionMeshTerm": "Lymphoma"
+          },
+          {
+            "ConditionMeshId": "D000007938",
+            "ConditionMeshTerm": "Leukemia"
+          },
+          {
+            "ConditionMeshId": "D000008224",
+            "ConditionMeshTerm": "Lymphoma, Follicular"
+          },
+          {
+            "ConditionMeshId": "D000007945",
+            "ConditionMeshTerm": "Leukemia, Lymphoid"
+          },
+          {
+            "ConditionMeshId": "D000054198",
+            "ConditionMeshTerm": "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+          },
+          {
+            "ConditionMeshId": "D000008228",
+            "ConditionMeshTerm": "Lymphoma, Non-Hodgkin"
+          },
+          {
+            "ConditionMeshId": "D000015451",
+            "ConditionMeshTerm": "Leukemia, Lymphocytic, Chronic, B-Cell"
+          },
+          {
+            "ConditionMeshId": "D000020522",
+            "ConditionMeshTerm": "Lymphoma, Mantle-Cell"
+          },
+          {
+            "ConditionMeshId": "D000016403",
+            "ConditionMeshTerm": "Lymphoma, Large B-Cell, Diffuse"
+          },
+          {
+            "ConditionMeshId": "D000015463",
+            "ConditionMeshTerm": "Leukemia, Prolymphocytic"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008232",
+            "ConditionAncestorTerm": "Lymphoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008206",
+            "ConditionAncestorTerm": "Lymphatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007160",
+            "ConditionAncestorTerm": "Immunoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000015448",
+            "ConditionAncestorTerm": "Leukemia, B-Cell"
+          },
+          {
+            "ConditionAncestorId": "D000016393",
+            "ConditionAncestorTerm": "Lymphoma, B-Cell"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10372",
+            "ConditionBrowseLeafName": "Lymphoma",
+            "ConditionBrowseLeafAsFound": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17983",
+            "ConditionBrowseLeafName": "Lymphoma, Large B-Cell, Diffuse",
+            "ConditionBrowseLeafAsFound": "Diffuse large cell lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10097",
+            "ConditionBrowseLeafName": "Leukemia",
+            "ConditionBrowseLeafAsFound": "Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10103",
+            "ConditionBrowseLeafName": "Leukemia, Lymphoid",
+            "ConditionBrowseLeafAsFound": "Lymphocytic Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17268",
+            "ConditionBrowseLeafName": "Leukemia, Lymphocytic, Chronic, B-Cell",
+            "ConditionBrowseLeafAsFound": "Chronic Lymphocytic Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M26738",
+            "ConditionBrowseLeafName": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+            "ConditionBrowseLeafAsFound": "Acute Lymphoblastic Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10373",
+            "ConditionBrowseLeafName": "Lymphoma, Follicular",
+            "ConditionBrowseLeafAsFound": "Follicular lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21460",
+            "ConditionBrowseLeafName": "Lymphoma, Mantle-Cell",
+            "ConditionBrowseLeafAsFound": "Mantle cell lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17267",
+            "ConditionBrowseLeafName": "Leukemia, B-Cell",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17274",
+            "ConditionBrowseLeafName": "Leukemia, Prolymphocytic",
+            "ConditionBrowseLeafAsFound": "Prolymphocytic Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10374",
+            "ConditionBrowseLeafName": "Lymphoma, Non-Hodgkin",
+            "ConditionBrowseLeafAsFound": "Large cell lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10377",
+            "ConditionBrowseLeafName": "Lymphoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10355",
+            "ConditionBrowseLeafName": "Lymphatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9358",
+            "ConditionBrowseLeafName": "Immunoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17980",
+            "ConditionBrowseLeafName": "Lymphoma, B-Cell",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3543",
+            "ConditionBrowseLeafName": "Lymphosarcoma",
+            "ConditionBrowseLeafAsFound": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T1866",
+            "ConditionBrowseLeafName": "Diffuse Large B-Cell Lymphoma",
+            "ConditionBrowseLeafAsFound": "Diffuse large cell lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T1308",
+            "ConditionBrowseLeafName": "Chronic Lymphocytic Leukemia",
+            "ConditionBrowseLeafAsFound": "Chronic Lymphocytic Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T175",
+            "ConditionBrowseLeafName": "Acute Lymphoblastic Leukemia",
+            "ConditionBrowseLeafAsFound": "Acute Lymphoblastic Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T3533",
+            "ConditionBrowseLeafName": "Lymphoblastic Lymphoma",
+            "ConditionBrowseLeafAsFound": "Acute Lymphoblastic Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T2361",
+            "ConditionBrowseLeafName": "Follicular Lymphoma",
+            "ConditionBrowseLeafAsFound": "Follicular lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T3601",
+            "ConditionBrowseLeafName": "Mantle Cell Lymphoma",
+            "ConditionBrowseLeafAsFound": "Mantle cell lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T640",
+            "ConditionBrowseLeafName": "B-cell Lymphoma",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

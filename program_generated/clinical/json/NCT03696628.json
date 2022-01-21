@@ -1,0 +1,311 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03696628",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "9806"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2017-A01589-44",
+            "SecondaryIdType": "Registry Identifier",
+            "SecondaryIdDomain": "ID-RCB"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "University Hospital, Montpellier",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Modeling and Pharmacological Targeting of Genetic Cardiomyopathy in Children Via Cardiomyocytes Derived From Induced Pluripotent Stem Cells (DMDstem)",
+      "OfficialTitle": "Modeling and Pharmacological Targeting of Genetic Cardiomyopathy in Children Via Cardiomyocytes Derived From Induced Pluripotent Stem Cells",
+      "Acronym": "DMDstem"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 25, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "August 7, 2018",
+      "StudyFirstSubmitQCDate": "October 3, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 4, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 1, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 3, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Hospital, Montpellier",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Interventional, cross-sectional biomedical study of children with genetic cardiomyopathy and healthy children. The aim is to generate, via induced human pluripotent stem cells (hiPSC), \"patient-specific\" cardiomyocytes (CMs) (hiPSC-CMs) to study the molecular mechanisms of cardiomyopathies of genetic origin.",
+      "DetailedDescription": "Interventional, cross-sectional biomedical study of children with genetic cardiomyopathy and healthy children. The aim is to generate, via induced human pluripotent stem cells (hiPSC), \"patient-specific\" cardiomyocytes (CMs) (hiPSC-CMs) to study the molecular mechanisms of cardiomyopathies of genetic origin.\n\nThe study will be proposed to the parents or legal guardians of the children from 0 to 17 included sent in pediatric cardiology consultation to the University Hospital of Montpellier as part of their usual follow-up or a health check (control) .\n\nThe only direct intervention performed on the patient is a venous blood sample. The volume of blood collected will be lower than the thresholds defined in the Decree of December 2nd, 2016 on minimal risks in biomedical research (3 ml)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Cardiomyopathy, Familial"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Cardiomyocytes",
+          "Induced pluripotent stem cells",
+          "Genetic cardiomyopathy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "All participants receive the same intervention throughout the protocol, no matter if they are \"healthy children\" or \"cardiomyopathic children\".",
+        "DesignPrimaryPurpose": "Basic Science",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)",
+          "DesignMaskingDescription": "Open : no masking us used. All involved know the identity of the intervention assignment."
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "24",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Healthy children",
+            "ArmGroupType": "Other",
+            "ArmGroupDescription": "Blood test with generated hiPSC-cardiomyocytes Physical Examination. Electrocardiogram. Echocardiography.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Electrocardiogram",
+                "Other: physical examination",
+                "Other: echocardiography",
+                "Biological: blood test"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cardiomyopathic children",
+            "ArmGroupType": "Other",
+            "ArmGroupDescription": "Blood test with generated hiPSC-cardiomyocytes Physical Examination. Electrocardiogram. Echocardiography.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Electrocardiogram",
+                "Other: physical examination",
+                "Other: echocardiography",
+                "Biological: blood test"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Electrocardiogram",
+            "InterventionDescription": "heart testing",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cardiomyopathic children",
+                "Healthy children"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "physical examination",
+            "InterventionDescription": "done by the investigator",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cardiomyopathic children",
+                "Healthy children"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "echocardiography",
+            "InterventionDescription": "heart testing",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cardiomyopathic children",
+                "Healthy children"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "blood test",
+            "InterventionDescription": "A sample of blood will be taken to each patient or healthy children in order to generate hiPSC-cardiomyocytes",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cardiomyopathic children",
+                "Healthy children"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "hiPSC-cardiomyocytes culture",
+            "PrimaryOutcomeDescription": "Blood test with generated hiPSC-cardiomyocytes",
+            "PrimaryOutcomeTimeFrame": "Inclusion visit"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Group 1 : Child with genetic cardiomyopathy\n\nInclusion criteria\n\nChild from 0 to 17 years old included\nBearer or at risk of cardiomyopathy of genetic origin. Written and informed consent of parents or guardians of legal guardians\nAffiliation or beneficiary of a social security scheme\n\nCriterion of non-inclusion\n\n. Cardiomyopathy of non-genetic origin (metabolic, toxic, malformative, etc.)\n\nGroup 2 : Healthy child\n\nInclusion criteria\n\nChildren aged 0 to 17 years old\nNormal assessment: clinical examination, ECG, echocardiography\nWritten and informed consent\nAffiliation or beneficiary of a social security scheme\n\nCriterion of non-inclusion\n\nHeart, muscle or respiratory disease\nTreatment with cardiac resonance\nOther chronic diseases (diabetes, neuropathy, kidney failure, tumor)",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MaximumAge": "17 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Pascal AMEDRO, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+33 (0) 4 67 33 66 39",
+            "CentralContactEMail": "p-amedro@chu-montpellier.fr"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "CHU Arnaud de Villeneuve",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Montpellier",
+            "LocationState": "Occitanie",
+            "LocationZip": "34090",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Pascal AMEDRO, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+33 (0) 4 67 33 66 39",
+                  "LocationContactEMail": "p-amedro@chu-montpellier.fr"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "33246213",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Souidi M, Amédro P, Meyer P, Desprat R, Lemaître JM, Rivier F, Lacampagne A, Meli AC. Generation of three Duchenne Muscular Dystrophy patient-specific induced pluripotent stem cell lines DMD_YoTaz_PhyMedEXp, DMD_RaPer_PhyMedEXp, DMD_OuMen_PhyMedEXp (INSRMi008-A, INSRMi009-A and INSRMi010-A). Stem Cell Res. 2020 Dec;49:102094. doi: 10.1016/j.scr.2020.102094. Epub 2020 Nov 19."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009202",
+            "ConditionMeshTerm": "Cardiomyopathies"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11306",
+            "ConditionBrowseLeafName": "Cardiomyopathies",
+            "ConditionBrowseLeafAsFound": "Cardiomyopathy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04961658",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CT-GEM-001"
+      },
+      "Organization": {
+        "OrgFullName": "Northern Therapeutics",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Advanced Mesenchymal Enhanced Cell THerapY for SepTic Patients",
+      "OfficialTitle": "Advanced Mesenchymal Enhanced Cell THerapY for SepTic Patients",
+      "Acronym": "AMETHYST"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 11, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 24, 2021",
+      "StudyFirstSubmitQCDate": "July 5, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 14, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 24, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 28, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Northern Therapeutics",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Bacterial sepsis occurs in patients with severe infections. The condition is caused by toxic substances (toxins) released from bacteria and the patient's elevated inflammatory response to those toxins. In preclinical studies, human mesenchymal stromal cells (MSCs) have been proven to modulate host inflammation in infections, including sepsis. The purpose of this Phase I, open label, dose escalation safety trial is to determine whether escalating doses of enhanced MSCs (GEM00220) are safe and well tolerated in patients with septic shock."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Septic Shock"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Sepsis",
+          "Bacteria",
+          "Septic Shock",
+          "Mesenchymal Stromal Cells",
+          "Inflammation",
+          "Mesenchymal Stem Cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignInterventionModelDescription": "A dose-escalation study evaluating GEM00220 cell therapy in 3 cohorts with 3 subjects per cohort. Study will proceed from lower dose to next higher dose if no safety concerns are observed in each cohort.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "9",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Treatment Arm - Low Dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Cohort of 3 subjects who receive a single dose of GEM00220 at 15 million cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: GEM00220"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Treatment arm - Mid dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Cohort of 3 subjects who receive a single dose of GEM00220 at 60 million cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: GEM00220"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Treatment arm - High dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Cohort of 3 subjects who receive a single dose of GEM00220 at 150 million cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: GEM00220"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "GEM00220",
+            "InterventionDescription": "Cryopreserved allogeneic, enhanced MSCs administered as a single intravenous infusion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment Arm - Low Dose",
+                "Treatment arm - High dose",
+                "Treatment arm - Mid dose"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "The safety of GEM00220 will be assessed by monitoring adverse events",
+            "PrimaryOutcomeTimeFrame": "Baseline to 28 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Maximum Feasible Tolerated Dose",
+            "PrimaryOutcomeDescription": "The highest dose which does not meet any of the pre-defined stopping criteria",
+            "PrimaryOutcomeTimeFrame": "Baseline to 28 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAdult patients age 18 years and older\nReceipt of appropriate antibiotics for the suspected/confirmed bacterial sepsis as the main diagnosis according to the opinion of the treating critical care staff physician.\nRefractory hypotension documented within 48 hours prior to enrolment that requires the institution and ongoing use of vasopressor agents (phenylephrine, norepinephrine, vasopressin, epinephrine, or dopamine >5 mcg/kg/min) for at least 3 hours at the time of enrolment, despite adequate fluid resuscitation in the opinion of the qualified investigator.\n\nAt least 1 other new organ dysfunction defined by the following:\n\nRenal: Acute kidney injury with creatinine ≥ 150 µmol/L, or ≥ 1.5x the upper limit of normal or the known baseline creatinine, or < 0.5 ml/kg/hr urine output for 6 hours despite adequate fluid resuscitation (patients on chronic hemodialysis or peritoneal dialysis must meet one of the other organ dysfunction criteria)\nRespiratory: Need for invasive mechanical ventilation or a P/F ratio < 250\nHematological: Platelets < 100 x10^9/L, or a drop of 50 x10^9/L in the 3 days prior to enrollment\nMetabolic Acidosis: Arterial pH < 7.30 or base deficit > 5 mmol/L in association with a lactate >/= to 3.0 mmol/L\n\nExclusion Criteria:\n\nPregnant or lactating\nCurrently receiving extracorporeal life support\nDocumented COVID-19 (SARS-CoV2) or influenza infection (confirmed by laboratory testing)\nPresence of any active malignancy (other than non-melanoma skin cancer) that required treatment within the past year\nHistory of severe heart failure with a New York Heart Association Functional Class of III or IV, or severe ischemic heart disease with a Canadian Cardiovascular Society angina class score of III or IV\nModerate to severe chronic liver disease (Childs-Pugh Score > 12)\nSevere chronic respiratory disease with a baseline PaCO2 > 50 mm Hg or the use of home oxygen\nDocumented deep venous thrombosis or pulmonary embolism within the past 3 months\nChronic immunosuppression (any chronic immunotherapy including daily oral steroid use >6months)\nUncontrolled HIV infection or end stage HIV/AIDS with CD4+ T-cell counts <50 cells/mm^3, history of hepatitis B, untreated hepatitis C, or active tuberculosis\nConcurrent use of immunomodulatory biologic drugs or TNF-α inhibitors\nParticipation in another interventional study involving an investigational new drug within 30 days prior to enrolment\nMoribund patient not expected to survive 24 hours\nPatient, surrogate, or physician not committed to full support (exception: a patient will not be excluded if he/she would receive all supportive care except for attempts at resuscitation from cardiac arrest)",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Michael Callahan, MD, DTM&H (UK), MSPH",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "343-291-1197",
+            "CentralContactEMail": "mvcallahan@mgh.harvard.edu"
+          },
+          {
+            "CentralContactName": "Kristin Bowden, PhD, MSc, CCRP",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "343-291-1197",
+            "CentralContactEMail": "kbowden@northernther.com"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Lakeridge Health",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Oshawa",
+            "LocationState": "Ontario",
+            "LocationZip": "L1G 2B9",
+            "LocationCountry": "Canada",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Karim Soliman, MD, FRCP",
+                  "LocationContactRole": "Contact"
+                },
+                {
+                  "LocationContactName": "Karim Soliman, MD, FRCP",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "St. Michael's Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Toronto",
+            "LocationState": "Ontario",
+            "LocationZip": "M5B 1W8",
+            "LocationCountry": "Canada",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Claudia dos Santos, MD, MSc, BSc",
+                  "LocationContactRole": "Contact"
+                },
+                {
+                  "LocationContactName": "Claudia dos Santos, MD, MSc, BSc",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "John Marshall, MD, FRCSC, FACS, FCAHS",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012772",
+            "ConditionMeshTerm": "Shock, Septic"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012769",
+            "ConditionAncestorTerm": "Shock"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000018805",
+            "ConditionAncestorTerm": "Sepsis"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000018746",
+            "ConditionAncestorTerm": "Systemic Inflammatory Response Syndrome"
+          },
+          {
+            "ConditionAncestorId": "D000007249",
+            "ConditionAncestorTerm": "Inflammation"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9445",
+            "ConditionBrowseLeafName": "Inflammation",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20017",
+            "ConditionBrowseLeafName": "Sepsis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16021",
+            "ConditionBrowseLeafName": "Toxemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14732",
+            "ConditionBrowseLeafName": "Shock, Septic",
+            "ConditionBrowseLeafAsFound": "Septic Shock",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14729",
+            "ConditionBrowseLeafName": "Shock",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19971",
+            "ConditionBrowseLeafName": "Systemic Inflammatory Response Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          }
+        ]
+      }
+    }
+  }
+}

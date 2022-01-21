@@ -1,0 +1,544 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02315027",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "12-005950"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "R01FD004789",
+            "SecondaryIdType": "U.S. FDA Grant/Contract",
+            "SecondaryIdLink": "https://projectreporter.nih.gov/reporterapi.cfm?PROJECTNUM=R01FD004789&Fy=all"
+          },
+          {
+            "SecondaryId": "R01NS092625",
+            "SecondaryIdType": "U.S. NIH Grant/Contract",
+            "SecondaryIdLink": "https://projectreporter.nih.gov/reporterapi.cfm?PROJECTNUM=R01NS092625&Fy=all"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Mayo Clinic",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cell Therapy in Multiple System Atrophy",
+      "OfficialTitle": "Intrathecal Autologous Mesenchymal Stem Cell Therapy in Multiple System Atrophy (MSA) - Effect of Dose and Natural History"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 2012"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 2024",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 31, 2014",
+      "StudyFirstSubmitQCDate": "December 9, 2014",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 11, 2014",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "September 7, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 14, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Wolfgang Singer",
+        "ResponsiblePartyInvestigatorTitle": "Associate Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Mayo Clinic"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Mayo Clinic",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Food and Drug Administration (FDA)",
+            "CollaboratorClass": "FED"
+          },
+          {
+            "CollaboratorName": "National Institute of Neurological Disorders and Stroke (NINDS)",
+            "CollaboratorClass": "NIH"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to determine whether mesenchymal stem cells (MSCs) can be safely delivered to the cerebrospinal fluid (CSF) of patients with multiple system atrophy (MSA). Funding Source - FDA OOPD.",
+      "DetailedDescription": "The primary aim is to evaluate the safety and tolerability of intrathecal injection of autologous MSCs in a dose escalation study in patients with MSA. Safety secondary goals include to monitor changes in peripheral blood and in components of CSF, and monitor for any changes of nervous system structures using MRI. Efficacy secondary goals include evaluating potential efficacy by providing a number of studies and instruments that will detect changes in the course of the disease in terms of autonomic and neurologic symptoms and deficits."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "MSA"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "1 dose of 1 × 10(7) MSCs",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Group 1: Participants will receive a single intrathecal dose of 1 × 10(7) mesenchymal stem cells (MSCs)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "2 doses of 5 × 10(7) MSCs",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Group 2: Participants will receive one intrathecal dose of 5 × 10(7) mesenchymal stem cells (MSCs), followed by a second intrathecal dose of 5 × 10(7) MSCs approximately one month later",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "2 doses of 1 × 10(8) MSCs",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Group 3: Participants will receive one intrathecal dose of 1 × 10(8) mesenchymal stem cells (MSCs), followed by a second intrathecal dose of 1 × 10(8) MSCs approximately one month later",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "10 doses of 5 x 10(7) (±20%) MSCs",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Group 4: Participants will receive up to 10 doses of 5 x 10(7) (±20%) mesenchymal stem cells (MSCs) approximately 6 months apart.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "10 doses of 2.5 x 10(7) (±20%) MSCs",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Group 5: Participants will receive up to 10 doses of 2.5 x 10(7) (±20%) mesenchymal stem cells (MSCs) approximately 6 months apart.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous Mesenchymal Stem Cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Autologous Mesenchymal Stem Cells",
+            "InterventionDescription": "single dose of 1 × 10(7) cells intrathecally",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "1 dose of 1 × 10(7) MSCs"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Autologous Mesenchymal Stem Cells",
+            "InterventionDescription": "2 doses of 5 × 10(7) cells intrathecally each 1 month (±4 days) apart",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "2 doses of 5 × 10(7) MSCs"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Autologous Mesenchymal Stem Cells",
+            "InterventionDescription": "2 doses of 1 × 10(8) cells intrathecally each 1 month apart",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "2 doses of 1 × 10(8) MSCs"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Autologous Mesenchymal Stem Cells",
+            "InterventionDescription": "Ten doses of 5 x 10(7) (±20%) cells intrathecally six months (±1 month) apart",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "10 doses of 5 x 10(7) (±20%) MSCs"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Autologous Mesenchymal Stem Cells",
+            "InterventionDescription": "Ten doses of 2.5 x 10(7) (±20%) cells intrathecally six months (±1 month) apart",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "10 doses of 2.5 x 10(7) (±20%) MSCs"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Adverse event frequency (by severity, type, attribution, and intervention dose).",
+            "PrimaryOutcomeTimeFrame": "14 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Rate of change of Unified Multiple System Atrophy Rating Scale (UMSARS) I score from baseline to 12 months (or last available date), compared with placebo limb of Rifampicin trial (historical control cohort).",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Rate of change from baseline to 12 months (or last available date) in UMSARS II score.",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Rate of change from baseline to 12 months (or last available date) in UMSARS total score.",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Rate of change in COMPASS-select score from baseline to 12 months.",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in CASS score and thermoregulatory sweat test (TST) % from baseline to 12 months.",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "MRI morphometric changes using dedicated algorithms to evaluate rate of atrophy of defined areas of brain from baseline to 12 months.",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in CSF biomarkers from baseline to 2 months.",
+            "SecondaryOutcomeTimeFrame": "2 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria\n\nParticipants aged 30-80 years old with a diagnosis of MSA based on clinical criteria and standardized autonomic testing. This approach allows for identification of patients with MSA with very high specificity and is yet sensitive enough to allow for enrollment of patients at a disease stage at which an intervention on the natural disease course has a meaningful impact on patient outcome. Patients therefore have to fulfill Gilman Criteria (2000) for probable MSA of the parkinsonian subtype (MSA-P) or cerebellar subtype (MSA-C) and have findings on autonomic function testing suggestive of MSA (CASS ≥5 or a TST% ≥25%).\nParticipants who are less than 4 years from the time of documented MSA diagnosis.\nParticipants with an anticipated survival of at least 3 years in the opinion of the investigator.\nParticipants who are willing and able to give informed consent.\n\"Normal\" cognition as assessed by Mini-Mental State Examination (MMSE). We will require a value >24.\n\nExclusion Criteria\n\nAny of the following conditions will exclude the participant from entering the study:\n\nWomen of childbearing potential who do not practice an acceptable method of birth control. Acceptable methods of birth control in this study are: surgical sterilization, intrauterine devices, partner's vasectomy, a double-protection method (condom or diaphragm with spermicide), hormonal contraceptive drug (i.e., oral contraceptive, contraceptive patch, long-acting injectable contraceptive) with a required second mode of contraception.\nParticipants with a clinically significant or unstable medical or surgical condition that, in the opinion of the investigator, might preclude safe completion of the study or might affect the results of the study. These include conditions causing significant central nervous system (CNS) or autonomic dysfunction, including congestive heart failure, recent (<6 months) myocardial infarct, cardiopulmonary disease, severe, uncontrolled hypertension, thrombocytopenia (<50 x 10(9)/L), severe anemia (<8g/dl), immunocompromised state, liver or kidney disease (creatinine >2.3mg/dl), uncontrolled diabetes mellitus (HbA1c >10g%), alcoholism, amyloidosis, uncontrolled hypothyroidism, sympathectomy, unstable peripheral neuropathies, concurrent infections, orthopedic problems that compromise mobility and activity of daily living, cerebrovascular accidents, neurotoxin or neuroactive drug exposure, parkinsonism due to drugs (including neuroleptics, alpha-methyldopa, reserpine, metoclopramide).\nParticipants with malignant neoplasms.\nParticipants who have taken any investigational products within 60 days prior to baseline.\nMedications that could affect autonomic function. If patients are taking those medications, those will be suspended prior to autonomic testing. Therapy with midodrine, anticholinergic, alpha and beta adrenergic antagonists or other medications that affect autonomic function will be withdrawn 48 hours prior to autonomic evaluations. Fludrocortisone doses up to 0.2 mg per day will be permitted.\nDiseases with features of Parkinsons Disease; e.g., diffuse Lewy body disease, progressive supranuclear palsy, essential tremor, hereditary olivopontocerebellar atrophy, or postencephalitic parkinsonism.\nDementia (DSM-IV criteria - American Psychiatric Association 1994). The score on the Mini-Mental State Examination must be >24.\nHistory of electroconvulsive therapy.\nHistory of brain surgery for Parkinsons disease.\nPatients with contraindication for MRI scanning, including those with MRI-incompatible pacemakers\nPatients with active systemic infection or local infection, which is close to the spinal injection site",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "30 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Wolfgang Singer, MD",
+            "OverallOfficialAffiliation": "Mayo Clinic",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Phillip Low, MD",
+            "OverallOfficialAffiliation": "Mayo Clinic",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mayo Clinic in Rochester",
+            "LocationCity": "Rochester",
+            "LocationState": "Minnesota",
+            "LocationZip": "55905",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "27515308",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Camilleri ET, Gustafson MP, Dudakovic A, Riester SM, Garces CG, Paradise CR, Takai H, Karperien M, Cool S, Sampen HJ, Larson AN, Qu W, Smith J, Dietz AB, van Wijnen AJ. Identification and validation of multiple cell surface markers of clinical-grade adipose-derived mesenchymal stromal cells as novel release criteria for good manufacturing practice-compliant production. Stem Cell Res Ther. 2016 Aug 11;7(1):107. doi: 10.1186/s13287-016-0370-8."
+          }
+        ]
+      },
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Mayo Clinic Clinical Trials",
+            "SeeAlsoLinkURL": "https://www.mayo.edu/research/clinical-trials"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000019578",
+            "ConditionMeshTerm": "Multiple System Atrophy"
+          },
+          {
+            "ConditionMeshId": "D000012791",
+            "ConditionMeshTerm": "Shy-Drager Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000001284",
+            "ConditionMeshTerm": "Atrophy"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000020763",
+            "ConditionAncestorTerm": "Pathological Conditions, Anatomical"
+          },
+          {
+            "ConditionAncestorId": "D000054969",
+            "ConditionAncestorTerm": "Primary Dysautonomias"
+          },
+          {
+            "ConditionAncestorId": "D000001342",
+            "ConditionAncestorTerm": "Autonomic Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001480",
+            "ConditionAncestorTerm": "Basal Ganglia Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009069",
+            "ConditionAncestorTerm": "Movement Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000080874",
+            "ConditionAncestorTerm": "Synucleinopathies"
+          },
+          {
+            "ConditionAncestorId": "D000019636",
+            "ConditionAncestorTerm": "Neurodegenerative Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007022",
+            "ConditionAncestorTerm": "Hypotension"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M3741",
+            "ConditionBrowseLeafName": "Atrophy",
+            "ConditionBrowseLeafAsFound": "Atrophy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M20667",
+            "ConditionBrowseLeafName": "Multiple System Atrophy",
+            "ConditionBrowseLeafAsFound": "Multiple System Atrophy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14749",
+            "ConditionBrowseLeafName": "Shy-Drager Syndrome",
+            "ConditionBrowseLeafAsFound": "Multiple System Atrophy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21672",
+            "ConditionBrowseLeafName": "Pathological Conditions, Anatomical",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3795",
+            "ConditionBrowseLeafName": "Autonomic Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27132",
+            "ConditionBrowseLeafName": "Primary Dysautonomias",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24756",
+            "ConditionBrowseLeafName": "Ganglion Cysts",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15510",
+            "ConditionBrowseLeafName": "Synovial Cyst",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3926",
+            "ConditionBrowseLeafName": "Basal Ganglia Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11181",
+            "ConditionBrowseLeafName": "Movement Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2217",
+            "ConditionBrowseLeafName": "Synucleinopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20711",
+            "ConditionBrowseLeafName": "Neurodegenerative Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9224",
+            "ConditionBrowseLeafName": "Hypotension",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3956",
+            "ConditionBrowseLeafName": "Multiple System Atrophy",
+            "ConditionBrowseLeafAsFound": "Multiple System Atrophy",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

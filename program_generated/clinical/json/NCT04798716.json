@@ -1,0 +1,653 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04798716",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "020582"
+      },
+      "Organization": {
+        "OrgFullName": "AVEM HealthCare",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "The Use of Exosomes for the Treatment of Acute Respiratory Distress Syndrome or Novel Coronavirus Pneumonia Caused by COVID-19",
+      "OfficialTitle": "Mesenchymal Stem Cell Exosomes for the Treatment of COVID-19 Positive Patients With Acute Respiratory Distress Syndrome and/or Novel Coronavirus Pneumonia",
+      "Acronym": "ARDOXSO"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "March 12, 2021",
+      "StudyFirstSubmitQCDate": "March 12, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 15, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "July 19, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 21, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "AVEM HealthCare",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Novel coronavirus pneumonia (NCP) and acute respiratory distress syndrome (ARDS) are both associated with the prevailing upper respiratory tract infections caused by the RNA-containing SARS-CoV2 virus of the genius Betacoronavirus of the Coronaviridae family. As both the viral infiltration and infection progress, the host immune system response can be one of a rapidly developing fatal cytokine storm. In the ARDS or NCP ensuing progression, the patient often succumbs to the effects of the hyper pro-inflammatory response, hence contributing to the associated increased mortality as a result of the cytokine storm and associated pathogenesis.",
+      "DetailedDescription": "In December of 2019, in Wuhan, China, a novel coronavirus outbreak began. Globally this disease referred to as COVID-19, is the result of a novel SARS-CoV2 virus which predominantly targets Type II lung alveolar cells (AT2). The hyper response of the host immune system can rapidly evolve into a life-threatening cytokine-release syndrome or cytokine storm. The cytokine storm can predispose the patient to ARDS and/or NCP., or both. Left unchecked, the ARDS pathogenesis rapidly culminates in disruption of cell cytotoxicity mechanisms, excessive activation of cytotoxic lymphocytes, and a predominance of type I (M1) macrophage; resulting in the massive release of a host of proinflammatory cytokines (FNO-α, IL-1, IL-2, IL-6, IL-8, IL-10), granulocytic colony-stimulating factor, monocytic chemoattractive protein 1. The result systemically is a rise in surrogate inflammatory markers (C Reactive Protein, serum ferritin), with a corresponding infiltration of internal organs and tissues by activated macrophage, T-lymphocytes and a predominance of cellular apoptosis. The resulting hyperinflammatory pathogenic reaction may result in severe aveolar lesions leading to death, scarring, or severe lung damage, persisting well after discharge.\n\nExperimental studies have demonstrated that mesenchymal stem cells (MSCs) and MSC-culutre media (MSC-CM) may significantly reduce the pro-inflammatory bias and associated pathologic impairment resulting. The MSC-CM, known to contain exosomes, has been shown to have an anti-inflammatory effect. Further exosomes associated with the amniotic membrane, long used in the treatment of burn and wounds, have been show to have a regenerative effect.\n\nThe purpose of this protocol is to explore the safety and efficacy of an intravenous injection of MSC derived exosomes in the treatment of severe patients (moderate to severe Berlin score) with ARDS or NCP."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Covid19",
+          "Novel Coronavirus Pneumonia",
+          "Acute Respiratory Distress Syndrome"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Novel Corona Virus Pneumonia",
+          "Exosomes",
+          "MSC",
+          "Acute Respiratory Distress Syndrome"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignInterventionModelDescription": "Nested Cohort with Escalating Dose. The trial has three cohorts of 5 patients each. The subsequent cohort will receive an escalating dose of exosomes via intravenous infusion. The final group of 40 participants will be randomized 1:3 (placebo:intervention).",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignMaskingDescription": "Open-label for the first 15 patients treated in dose escalation.\n\nThe final 40 participants are included in RCT. Double; participant and physician are masked.",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "55",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Escalating Dose First Cohort",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "First Cohort:\n\nFive patients will receive an escalating dose every other day for a period of 5 days, with a minimum of 24 hours between doses recorded. Dose escalation will begin at 2 x 10^9 exosomes",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: MSC-exosomes delivered intravenously every other day on an escalating dose: (2:4:8)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Escalating Dose Second Cohort",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Second Cohort:\n\nFive patients will receive an escalating dose every other day for a period of 5 days, with a minimum of 24 hours between doses recorded. Dose escalation will begin at 4 x 10^9 exosomes.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: MSC-exosomes delivered intravenously every other day on an escalating dose (8:4:8)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Escalating Dose Third Cohort",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Five patients will receive a treatment dose of 8 X 10^9 exosomes every other day for a period of 5 days, with a minimum of 24 hours between doses recorded.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: MSC-exosomes delivered intravenously every other day (8:8:8)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Treatment Dose Fourth Cohort Randomized control ratio 1:3",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Fourth Cohort:\n\nRandomized Cohort Up to 40 patients may be enrolled in this phase of the trial. For those receiving the placebo (~25%), 3 doses will be given over the 5 day period, dispensed from identical vials with physician and patient blinded. The full dose of 8 X 10^9 exosomes will be given to 75% of the patients in 3 doses over the course of 5 days, with one dose occurring every other day.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: MSC-exosomes delivered intravenously every other day (8:8:8)"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "MSC-exosomes delivered intravenously every other day on an escalating dose: (2:4:8)",
+            "InterventionDescription": "Escalating dose 2 X 10^9, 4 X 10^9, 8 X 10^9/mL",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Escalating Dose First Cohort"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Ardoxso"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "MSC-exosomes delivered intravenously every other day on an escalating dose (8:4:8)",
+            "InterventionDescription": "Escalating dose 8 X 10^9, 4 X 10^9, 8 X 10^9 mL",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Escalating Dose Second Cohort"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Ardoxso"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "MSC-exosomes delivered intravenously every other day (8:8:8)",
+            "InterventionDescription": "Dosed 8 X 10^9, 8 X 10^9, 8 X 10^9 mL",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Escalating Dose Third Cohort",
+                "Treatment Dose Fourth Cohort Randomized control ratio 1:3"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Ardoxso"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Measure and report the number of participants with treatment-related-adverse events as assessed by CTCAE v4.0; for patients receiving ARDOXSO™, perinatal MSC-derived exosome therapy.",
+            "PrimaryOutcomeDescription": "Quantify safety of ARDOXSO™, an interventional exosome therapy in COVID-19 in participants confirmed with SARS-CoV-2 infection who receive ARDOXSO™ as an intervention.",
+            "PrimaryOutcomeTimeFrame": "90 Days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Tabulate and report the number of IMV days for patients receiving ARDOXSO™ perinatal MSC-derived exosome therapy.",
+            "PrimaryOutcomeDescription": "Quantify efficacy of ARDOXSO™, an interventional exosome therapy in COVID-19 in participants confirmed with SARS-CoV-2 infection who receive ARDOXSO™ as an intervention.",
+            "PrimaryOutcomeTimeFrame": "90 Days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Analyze and report organ failure, associated with ICU mortality in participants confirmed with SARS-CoV2 infection, receiving ARDOXSO™ as an interventional exosome therapy.",
+            "SecondaryOutcomeDescription": "Correlate and analyze the Sequential Organ Failure Assessment (SOFA) score in participants confirmed with SARS-CoV2 infection, receiving ARDOXSO™, an interventional exosome therapy in COVID-19 patients. An increased SOFA score is predictive of increased mortality.",
+            "SecondaryOutcomeTimeFrame": "90 Days from last dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Record and analyze respiratory measures (Berlin Score/PEEP) following treatment regime.",
+            "SecondaryOutcomeDescription": "Berlin Score is a validated measure of Acute Respiratory Distress Syndrome diagnosis, which is common in COVID-19 patients, before and after receiving the interventional exosome therapy, ARDOXSO™.",
+            "SecondaryOutcomeTimeFrame": "90 Days from last dose"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nInformed Consent given\nMale and female patients age 18 years or older\nPatients with coronavirus (SARS-CoV-2) infection confirmed prior to enrollment by any test with local regulatory approval\n\nPatients who require intensive care as determined by the following objective criteria:\n\nRespiratory rate>25/minute\nOxygen saturation <93% on room air; or the\nUse of high flow oxygen by nasal cannula at a rate ≥ 4L/minute.\nPatients with lung imaging demonstrating bilateral or diffuse pulmonary infiltrates on chest X-ray or CT scan.\nPatients with moderate to severe ARDS as defined by Berlin Criteria\nPatients who require invasive mechanical ventilation (IMV)\n\nExclusion Criteria:\n\nPatients will be excluded from the study if ONE of the following applies:\n\nHistory of hypersensitivity to any drugs of similar classes to exosomes\nSuspected active uncontrolled bacterial, fungal, or viral (besides SARS-CoV-2) infection\nCurrently receiving ECMO, nitric oxide therapy, or high-frequency oscillatory ventilation\nIn the option of the investigator, the patient is unlikely to survive for more than 24 hours post-enrollment\nPatients who are on long-term use of select oral or injectable anti-rejection or immunomodulatory drugs\nPregnant or nursing (lacking) women",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Tammy C Luttrell, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "833-957-0079",
+            "CentralContactEMail": "tammy.luttrell@avemhealthcare.com"
+          },
+          {
+            "CentralContactName": "Sant P Chawla, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactEMail": "santchawla@gmail.com"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mission Community Hospital",
+            "LocationCity": "Panorama City",
+            "LocationState": "California",
+            "LocationZip": "91402",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Sant P Chawla, MD",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "27252357",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Liang X, Zhang L, Wang S, Han Q, Zhao RC. Exosomes secreted by mesenchymal stem cells promote endothelial cell angiogenesis by transferring miR-125a. J Cell Sci. 2016 Jun 1;129(11):2182-9. doi: 10.1242/jcs.170373."
+          },
+          {
+            "ReferencePMID": "27706825",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Leong DJ, Sun HB. Mesenchymal stem cells in tendon repair and regeneration: basic understanding and translational challenges. Ann N Y Acad Sci. 2016 Nov;1383(1):88-96. doi: 10.1111/nyas.13262. Epub 2016 Oct 5. Review."
+          },
+          {
+            "ReferencePMID": "24367916",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Zhang B, Yin Y, Lai RC, Tan SS, Choo AB, Lim SK. Mesenchymal stem cells secrete immunologically active exosomes. Stem Cells Dev. 2014 Jun 1;23(11):1233-44. doi: 10.1089/scd.2013.0479. Epub 2014 Feb 10."
+          },
+          {
+            "ReferencePMID": "32423578",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Yang Y, Peng F, Wang R, Yang M, Guan K, Jiang T, Xu G, Sun J, Chang C. Corrigendum to \"The deadly coronaviruses: The 2003 SARS pandemic and the 2020 novel coronavirus epidemic in China\" [J. Autoimmun. 109C (2020) 102434]. J Autoimmun. 2020 Jul;111:102487. doi: 10.1016/j.jaut.2020.102487. Epub 2020 May 15."
+          },
+          {
+            "ReferencePMID": "32143990",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Yang Y, Peng F, Wang R, Yange M, Guan K, Jiang T, Xu G, Sun J, Chang C. The deadly coronaviruses: The 2003 SARS pandemic and the 2020 novel coronavirus epidemic in China. J Autoimmun. 2020 May;109:102434. doi: 10.1016/j.jaut.2020.102434. Epub 2020 Mar 3. Review. Erratum in: J Autoimmun. 2020 Jul;111:102487."
+          },
+          {
+            "ReferencePMID": "17052299",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Chien JY, Hsueh PR, Cheng WC, Yu CJ, Yang PC. Temporal changes in cytokine/chemokine profiles and pulmonary involvement in severe acute respiratory syndrome. Respirology. 2006 Nov;11(6):715-22."
+          },
+          {
+            "ReferencePMID": "15888207",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Wang CH, Liu CY, Wan YL, Chou CL, Huang KH, Lin HC, Lin SM, Lin TY, Chung KF, Kuo HP. Persistence of lung inflammation and lung cytokines with high-resolution CT abnormalities during recovery from SARS. Respir Res. 2005 May 11;6:42."
+          },
+          {
+            "ReferencePMID": "32292848",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Atri D, Siddiqi HK, Lang JP, Nauffal V, Morrow DA, Bohula EA. COVID-19 for the Cardiologist: Basic Virology, Epidemiology, Cardiac Manifestations, and Potential Therapeutic Strategies. JACC Basic Transl Sci. 2020 Apr 10;5(5):518-536. doi: 10.1016/j.jacbts.2020.04.002. eCollection 2020 May. Review."
+          },
+          {
+            "ReferencePMID": "32246149",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Ruan L, Wen M, Zeng Q, Chen C, Huang S, Yang S, Yang J, Wang J, Hu Y, Ding S, Zhang Y, Zhang H, Feng Y, Jin K, Zhuge Q. New Measures for the Coronavirus Disease 2019 Response: A Lesson From the Wenzhou Experience. Clin Infect Dis. 2020 Jul 28;71(15):866-869. doi: 10.1093/cid/ciaa386."
+          },
+          {
+            "ReferencePMID": "32253449",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Ruan Q, Yang K, Wang W, Jiang L, Song J. Correction to: Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 Jun;46(6):1294-1297. doi: 10.1007/s00134-020-06028-z."
+          },
+          {
+            "ReferencePMID": "32125452",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 May;46(5):846-848. doi: 10.1007/s00134-020-05991-x. Epub 2020 Mar 3. Erratum in: Intensive Care Med. 2020 Apr 6;:."
+          },
+          {
+            "ReferencePMID": "11179099",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Munford RS, Pugin J. Normal responses to injury prevent systemic inflammation and can be immunosuppressive. Am J Respir Crit Care Med. 2001 Feb;163(2):316-21. Review."
+          },
+          {
+            "ReferencePMID": "31701782",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Liu A, Zhang X, He H, Zhou L, Naito Y, Sugita S, Lee JW. Therapeutic potential of mesenchymal stem/stromal cell-derived secretome and vesicles for lung injury and disease. Expert Opin Biol Ther. 2020 Feb;20(2):125-140. doi: 10.1080/14712598.2020.1689954. Epub 2019 Nov 18. Review."
+          },
+          {
+            "ReferencePMID": "32290293",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Tu YF, Chien CS, Yarmishyn AA, Lin YY, Luo YH, Lin YT, Lai WY, Yang DM, Chou SJ, Yang YP, Wang ML, Chiou SH. A Review of SARS-CoV-2 and the Ongoing Clinical Trials. Int J Mol Sci. 2020 Apr 10;21(7). pii: E2657. doi: 10.3390/ijms21072657. Review."
+          },
+          {
+            "ReferencePMID": "32308263",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Chiappelli F, Khakshooy A, Greenberg G. CoViD-19 Immunopathology and Immunotherapy. Bioinformation. 2020 Mar 31;16(3):219-222. doi: 10.6026/97320630016219. eCollection 2020."
+          },
+          {
+            "ReferencePMID": "21396594",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Ringden O, Le Blanc K. Mesenchymal stem cells for treatment of acute and chronic graft-versus-host disease, tissue toxicity and hemorrhages. Best Pract Res Clin Haematol. 2011 Mar;24(1):65-72. doi: 10.1016/j.beha.2011.01.003. Epub 2011 Feb 25. Review."
+          },
+          {
+            "ReferencePMID": "23349686",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Chang YS, Choi SJ, Ahn SY, Sung DK, Sung SI, Yoo HS, Oh WI, Park WS. Timing of umbilical cord blood derived mesenchymal stem cells transplantation determines therapeutic efficacy in the neonatal hyperoxic lung injury. PLoS One. 2013;8(1):e52419. doi: 10.1371/journal.pone.0052419. Epub 2013 Jan 21."
+          },
+          {
+            "ReferencePMID": "32304204",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Gao Y, Sun J, Dong C, Zhao M, Hu Y, Jin F. Extracellular Vesicles Derived from Adipose Mesenchymal Stem Cells Alleviate PM2.5-Induced Lung Injury and Pulmonary Fibrosis. Med Sci Monit. 2020 Apr 18;26:e922782. doi: 10.12659/MSM.922782."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000011014",
+            "ConditionMeshTerm": "Pneumonia"
+          },
+          {
+            "ConditionMeshId": "D000018352",
+            "ConditionMeshTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionMeshId": "D000012128",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000012127",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome, Newborn"
+          },
+          {
+            "ConditionMeshId": "D000055371",
+            "ConditionMeshTerm": "Acute Lung Injury"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007235",
+            "ConditionAncestorTerm": "Infant, Premature, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007232",
+            "ConditionAncestorTerm": "Infant, Newborn, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000055370",
+            "ConditionAncestorTerm": "Lung Injury"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "Novel Coronavirus",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafAsFound": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafAsFound": "Coronavirus",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27296",
+            "ConditionBrowseLeafName": "Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9431",
+            "ConditionBrowseLeafName": "Infant, Premature, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9428",
+            "ConditionBrowseLeafName": "Infant, Newborn, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

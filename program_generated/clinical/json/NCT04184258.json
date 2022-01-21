@@ -1,0 +1,288 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04184258",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "IBCE_MSC1(SLE)"
+      },
+      "Organization": {
+        "OrgFullName": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Treatment of Systemic Lupus Erythematosus With Pooled Allogenic Mesenchymal Stem Cells",
+      "OfficialTitle": "Treatment of Systemic Lupus Erythematosus With Pooled Allogenic Olfactory Mucosa Derived Mesenchymal Stem Cells"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 1, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 31, 2020",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2020",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "December 1, 2019",
+      "StudyFirstSubmitQCDate": "December 1, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 3, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 20, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 22, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus",
+        "LeadSponsorClass": "OTHER_GOV"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Belarusian State Medical University",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Treatment of systemic lupus erythematosus with pooled allogenic mesenchymal stem cells"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Systemic Lupus Erythematosus"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Systemic Lupus Erythematosus",
+          "mesenchymal stem cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "7",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "SLE patients MSC treatment",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients with SLE, who receive pooled mesenchymal stem cells in addition to the standard treatment according to the Clinical protocols",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Pooled mesenchymal stem cell",
+                "Other: Standard treatment according to the Clinical protocols"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "SLE patients standard treatment",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patients with SLE, who receive standard treatment according to the Clinical protocols",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Standard treatment according to the Clinical protocols"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Pooled mesenchymal stem cell",
+            "InterventionDescription": "Pooled allogenic mesenchymal stem cell derived from olfactory mucosa",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "SLE patients MSC treatment"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Standard treatment according to the Clinical protocols",
+            "InterventionDescription": "Standard SLE treatment according to the Clinical protocols approved by the Ministry of healthcare of Republic of Belarus",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "SLE patients MSC treatment",
+                "SLE patients standard treatment"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Efficacy evaluation",
+            "PrimaryOutcomeDescription": "Efficacy evaluation (SELENA-SLEDAI)",
+            "PrimaryOutcomeTimeFrame": "6 month"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Safety eveluation",
+            "SecondaryOutcomeDescription": "Absence of adverse reactions",
+            "SecondaryOutcomeTimeFrame": "1 month"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSLE diagnosis (4 of 11 criteria by ACR);\npositive dsDNA;\nSELENA-SLEDAI index ≥6;\nactive lupus nephritis;\npatient can read, understand and follow the procedures.\n\nExclusion Criteria:\n\nneed for dialysis;\nplanned renal transplantation;\nany medical condition which can be associated with the high risk for the patient;\npregnancy/lactation;\nchronic infections, including hepatitis B/C, tuberculosis, HIV;\nany malignant tumor in the last 5 years.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Andrei Hancharou, Dr",
+            "OverallOfficialAffiliation": "Director, the Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Konstantin A Chizh, Dr",
+            "OverallOfficialAffiliation": "Associate professor, Belarusian State Medical University",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus",
+            "LocationCity": "Minsk",
+            "LocationZip": "220072",
+            "LocationCountry": "Belarus"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008180",
+            "ConditionMeshTerm": "Lupus Erythematosus, Systemic"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000003240",
+            "ConditionAncestorTerm": "Connective Tissue Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10329",
+            "ConditionBrowseLeafName": "Lupus Erythematosus, Systemic",
+            "ConditionBrowseLeafAsFound": "Systemic Lupus Erythematosus",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5616",
+            "ConditionBrowseLeafName": "Connective Tissue Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

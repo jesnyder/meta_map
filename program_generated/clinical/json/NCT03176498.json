@@ -1,0 +1,629 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03176498",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "SCLnow-IMIMH-01"
+      },
+      "Organization": {
+        "OrgFullName": "Sclnow Biotechnology Co., Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Human Umbilical Cord Mesenchymal Stem Cell Therapy for Cerebral Infarction Patients in Convalescent Period.",
+      "OfficialTitle": "The Effects of Human Umbilical Cord Mesenchymal Stem Cell Therapy on Neurological Function for Cerebral Infarction Patients in Convalescent Period."
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2020",
+      "OverallStatus": "Suspended",
+      "WhyStopped": "Others",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 23, 2017",
+      "StudyFirstSubmitQCDate": "May 31, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 5, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 21, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 23, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Sclnow Biotechnology Co., Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a randomized, double-blind study. Human umbilical cord mesenchymal stem cells (hUC-MSC) will be treated on cerebral infarction patients, and evaluates their neurological function of convalescent period.",
+      "DetailedDescription": "40 participants will be selected based on eligibility criteria and collected information, then, randomly separated into two groups. All participants will sign informed consent form, monitor vital signs, laboratory examination (CT/MRI, blood routine examination, urine routine examination, liver function, renal function, etc.), NIHSS, Fugl-Meyer analysis (FMA) 0-3 days before treatment. All of them will receive basic treatment with Aspirin Enteric-coated Tablets and Atorvastatin Calcium. And experimental group will treat with hUC-MSC, control group with placebo (normal saline) on the 7th and 14th day. After the treatment, investigator will follow-up, monitor vital signs, laboratory examination, NIHSS, FMA analysis on 2 weeks, 1 month, and 6 months after the treatment."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Cerebral Infarction"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "cerebral Infarction",
+          "umbilical cord mesenchymal stem cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Experimental group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Basic medication：Aspirin Enteric-coated Tablets & Atorvastatin Calcium； Allogeneic umbilical cord mesenchymal stem cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Allogeneic umbilical cord mesenchymal stem cell",
+                "Drug: Aspirin Enteric-coated Tablets & Atorvastatin Calcium"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Basic medication：Aspirin Enteric-coated Tablets & Atorvastatin Calcium; Placebo：saline",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Aspirin Enteric-coated Tablets & Atorvastatin Calcium"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Allogeneic umbilical cord mesenchymal stem cell",
+            "InterventionDescription": "Experimental group receive Allogeneic umbilical cord mesenchymal stem cell，i.v (SCLnow 19#)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Experimental group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Aspirin Enteric-coated Tablets & Atorvastatin Calcium",
+            "InterventionDescription": "Aspirin Enteric-coated Tablets, 0.1g/d by mouth; Atorvastatin Calcium, 20mg/d by mouth.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group",
+                "Experimental group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Motor function analysis",
+            "PrimaryOutcomeDescription": "Based on Activity of Daily Living Scale (ADL) to analysis efficacy of cell treatment.The score of patient with upper limb >60, and total score >90 is considered good recovery.",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Neurological deficits analysis",
+            "SecondaryOutcomeDescription": "According to Chinese scale of clinical neurologic deficit to analysis, the result as follow:\n\nExcellent: after treatment, patient with consciousness, and clinical symptoms improved;\nEffective: vital signs and main symptoms in remission;\nInefficient: no obvious improvement or condition worsened.",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Limb motor function analysis",
+            "SecondaryOutcomeDescription": "Using fugl-meyer assessment evaluate motor function. Mild movement disorder: 96 - 99; Moderate movement disorder: 85 - 95; Obvious movement disorder: 50 - 84; Serious movement disorder: < 50",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Barthel Index analysis",
+            "SecondaryOutcomeDescription": "Obvious effective: Barthel Index score between 96 - 99, patient with self care ability.\n\nEffective:Barthel Index score between 70 - 89, patient with condition improved. Invalid: The effect do not meet above standards.",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nproved cerebral infarction by CT or MRI.\nno cerebrovascular disease before\nsigned informed consent form\n\nExclusion Criteria:\n\nserious body and intracranial lesions (tumor, infection, etc.)\npatients repeated cerebral infarction attacks\nmulti-foci of cerebral infarction\nhistory of drug dependence and mental disease\ndisturbance of consciousness and non-compliance patients\nsubjects who are HIV positive\npregnant or lactation\ndonor: HIV infected, Active hepatitis B/C infected, Syphilis antibody positive\nsubjects/ donor: alcoholism, drug addicts or mental disease",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Wulan",
+            "OverallOfficialAffiliation": "Inner Mongolia International Mongolian Hospital",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Lei Guo, Dr",
+            "OverallOfficialAffiliation": "China-Japan Union Hospital, Jilin University",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Inner Mongolia International Mongolian Hospital",
+            "LocationCity": "Hohhot",
+            "LocationState": "Inner Mongolia",
+            "LocationZip": "010065",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000002544",
+            "ConditionMeshTerm": "Cerebral Infarction"
+          },
+          {
+            "ConditionMeshId": "D000007238",
+            "ConditionMeshTerm": "Infarction"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007511",
+            "ConditionAncestorTerm": "Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000009336",
+            "ConditionAncestorTerm": "Necrosis"
+          },
+          {
+            "ConditionAncestorId": "D000020520",
+            "ConditionAncestorTerm": "Brain Infarction"
+          },
+          {
+            "ConditionAncestorId": "D000002545",
+            "ConditionAncestorTerm": "Brain Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000002561",
+            "ConditionAncestorTerm": "Cerebrovascular Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000020521",
+            "ConditionAncestorTerm": "Stroke"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9434",
+            "ConditionBrowseLeafName": "Infarction",
+            "ConditionBrowseLeafAsFound": "Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4945",
+            "ConditionBrowseLeafName": "Cerebral Infarction",
+            "ConditionBrowseLeafAsFound": "Cerebral Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11436",
+            "ConditionBrowseLeafName": "Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21458",
+            "ConditionBrowseLeafName": "Brain Infarction",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4946",
+            "ConditionBrowseLeafName": "Brain Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4962",
+            "ConditionBrowseLeafName": "Cerebrovascular Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21459",
+            "ConditionBrowseLeafName": "Stroke",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000001241",
+            "InterventionMeshTerm": "Aspirin"
+          },
+          {
+            "InterventionMeshId": "D000069059",
+            "InterventionMeshTerm": "Atorvastatin"
+          },
+          {
+            "InterventionMeshId": "D000002118",
+            "InterventionMeshTerm": "Calcium"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000077264",
+            "InterventionAncestorTerm": "Calcium-Regulating Hormones and Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000000894",
+            "InterventionAncestorTerm": "Anti-Inflammatory Agents, Non-Steroidal"
+          },
+          {
+            "InterventionAncestorId": "D000018712",
+            "InterventionAncestorTerm": "Analgesics, Non-Narcotic"
+          },
+          {
+            "InterventionAncestorId": "D000000700",
+            "InterventionAncestorTerm": "Analgesics"
+          },
+          {
+            "InterventionAncestorId": "D000018689",
+            "InterventionAncestorTerm": "Sensory System Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018373",
+            "InterventionAncestorTerm": "Peripheral Nervous System Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000893",
+            "InterventionAncestorTerm": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000005343",
+            "InterventionAncestorTerm": "Fibrinolytic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000050299",
+            "InterventionAncestorTerm": "Fibrin Modulating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000010975",
+            "InterventionAncestorTerm": "Platelet Aggregation Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000016861",
+            "InterventionAncestorTerm": "Cyclooxygenase Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000058633",
+            "InterventionAncestorTerm": "Antipyretics"
+          },
+          {
+            "InterventionAncestorId": "D000000924",
+            "InterventionAncestorTerm": "Anticholesteremic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000960",
+            "InterventionAncestorTerm": "Hypolipidemic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000963",
+            "InterventionAncestorTerm": "Antimetabolites"
+          },
+          {
+            "InterventionAncestorId": "D000057847",
+            "InterventionAncestorTerm": "Lipid Regulating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000019161",
+            "InterventionAncestorTerm": "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3700",
+            "InterventionBrowseLeafName": "Aspirin",
+            "InterventionBrowseLeafAsFound": "Symptoms",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M4533",
+            "InterventionBrowseLeafName": "Calcium",
+            "InterventionBrowseLeafAsFound": "Radiation",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M351",
+            "InterventionBrowseLeafName": "Atorvastatin",
+            "InterventionBrowseLeafAsFound": "DOPA",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M4550",
+            "InterventionBrowseLeafName": "Calcium, Dietary",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8941",
+            "InterventionBrowseLeafName": "Hormones",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3369",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3370",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents, Non-Steroidal",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3184",
+            "InterventionBrowseLeafName": "Analgesics",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19939",
+            "InterventionBrowseLeafName": "Analgesics, Non-Narcotic",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M7625",
+            "InterventionBrowseLeafName": "Fibrinolytic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M13017",
+            "InterventionBrowseLeafName": "Platelet Aggregation Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M18361",
+            "InterventionBrowseLeafName": "Cyclooxygenase Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M28329",
+            "InterventionBrowseLeafName": "Antipyretics",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3395",
+            "InterventionBrowseLeafName": "Anticholesteremic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3430",
+            "InterventionBrowseLeafName": "Hypolipidemic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3433",
+            "InterventionBrowseLeafName": "Antimetabolites",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M28036",
+            "InterventionBrowseLeafName": "Lipid Regulating Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20308",
+            "InterventionBrowseLeafName": "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Antipy",
+            "InterventionBrowseBranchName": "Antipyretics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infl",
+            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "FiAg",
+            "InterventionBrowseBranchName": "Fibrinolytic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Analg",
+            "InterventionBrowseBranchName": "Analgesics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "PlAggInh",
+            "InterventionBrowseBranchName": "Platelet Aggregation Inhibitors"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Lipd",
+            "InterventionBrowseBranchName": "Lipid Regulating Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "BDCA",
+            "InterventionBrowseBranchName": "Bone Density Conservation Agents"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03185702",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "HSC-MS-15-0120"
+      },
+      "Organization": {
+        "OrgFullName": "The University of Texas Health Science Center, Houston",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "UTHealth Turner Syndrome Research Registry",
+      "OfficialTitle": "UTHealth Turner Syndrome Research Registry"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 28, 2015",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 1, 2025",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 1, 2030",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 9, 2017",
+      "StudyFirstSubmitQCDate": "June 9, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 14, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 4, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 6, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Siddharth Prakash",
+        "ResponsiblePartyInvestigatorTitle": "Associate Professor, Internal Medicine",
+        "ResponsiblePartyInvestigatorAffiliation": "The University of Texas Health Science Center, Houston"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "The University of Texas Health Science Center, Houston",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "American Heart Association",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The investigators will conduct genetic comparisons between Turner Syndrome (TS) patients with and without Bicuspid Aortic Valve (BAV) to identify causative agents of BAV in people with TS.\n\nThe investigators will correlate the patterns and prevalence of structural heart defects in TS women with emerging molecular data to identify patients who are at high risk for cardiovascular complications",
+      "DetailedDescription": "Turner syndrome (TS) is a common chromosomal disorder that affects approximately 1 in 2500 live female births. Complete or partial monosomy of one of the X chromosomes in a female is associated with various congenital heart defects (CHDs), which include aortic dilatation, coarctation of aorta and BAV. Congenital cardiovascular defects related to CHD are the leading cause of death in women with TS. The Turner Syndrome Network Registry (TRN Registry) and genetic sample repository can address gaps in knowledge of CHD in TS by facilitating the recognition of demographic and genetic patterns. TRN Registry-based research can improve surveillance of TS patients who are at risk for CHD and provide valuable insight into genetic components of CHD.\n\nThe investigators will recruit TS patients into the TRN Registry and obtain blood and/or saliva samples after informed consent. The genetic diagnosis of TS will be confirmed using chromosomal microarrays. The array data will be also be used to identify genomic copy number variants, and rare variants in protein coding genes will be determined by exome sequencing. The investigators will derive induced pluripotent stem cells from some participants to determine why CHD is so prevalent in TS. CHD risk genes will be identified in comparisons between TS cases with and without congenital heart defects. To facilitate these comparisons, the investigators will abstract the demographic and medical data of registry participants from questionnaires and medical records. Imaging will be used to confirm the diagnosis of CHD and to determine the prevalence and severity of additional cardiovascular defects."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Turner Syndrome"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "Yes",
+      "TargetDuration": "10 Years",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "Saliva, blood, and tissue samples"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "200",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Patients with Turner Syndrome",
+            "ArmGroupDescription": "Chromosomal diagnosis and typical features",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Genetic: Research genetic tests"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Unaffected controls",
+            "ArmGroupDescription": "Normal females and unaffected family members",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Genetic: Research genetic tests"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Genetic",
+            "InterventionName": "Research genetic tests",
+            "InterventionDescription": "DNA and tissue-based tests: karyotype, copy number variants, genome-wide association studies and induced pluripotent stem cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Patients with Turner Syndrome",
+                "Unaffected controls"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Bicuspid aortic valve and thoracic aortic aneurysm",
+            "PrimaryOutcomeDescription": "Imaging data",
+            "PrimaryOutcomeTimeFrame": "10 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Health-related quality of life",
+            "SecondaryOutcomeDescription": "Access to care and guideline-recommended care",
+            "SecondaryOutcomeTimeFrame": "10 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnosis of Turner Syndrome\n\nExclusion Criteria:\n\nDiagnosis excluding Turner Syndrome",
+      "Gender": "Female",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "The study population consists of females diagnosed with Turner Syndrome. This diagnosis can be based on physical symptoms (e.g. short stature, developmental delay, pubertal delay, etc.) or karyotype (e.g. 45X/46XX mosaic, 45X, etc.).",
+      "SamplingMethod": "Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Siddharth Prakash, MD, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "7135007003",
+            "CentralContactEMail": "Siddharth.K.Prakash@uth.tmc.edu"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Texas Health Science Center Houston",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77030",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Jacqueline Jennings",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "TSRegistry@uth.tmc.edu"
+                },
+                {
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "713-500-6704"
+                },
+                {
+                  "LocationContactName": "Siddharth Prakash, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Michelle Rivera-Davila, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "De-identified genetic and clinical IPD data will be shared with approved researchers with local IRB approval after authorization from the UTHouston study team. Aggregate data will be made available to the general research community through NIH databases."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000014424",
+            "ConditionMeshTerm": "Turner Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000006059",
+            "ConditionMeshTerm": "Gonadal Dysgenesis"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000012734",
+            "ConditionAncestorTerm": "Disorders of Sex Development"
+          },
+          {
+            "ConditionAncestorId": "D000014564",
+            "ConditionAncestorTerm": "Urogenital Abnormalities"
+          },
+          {
+            "ConditionAncestorId": "D000058533",
+            "ConditionAncestorTerm": "Sex Chromosome Disorders of Sex Development"
+          },
+          {
+            "ConditionAncestorId": "D000006330",
+            "ConditionAncestorTerm": "Heart Defects, Congenital"
+          },
+          {
+            "ConditionAncestorId": "D000018376",
+            "ConditionAncestorTerm": "Cardiovascular Abnormalities"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000000013",
+            "ConditionAncestorTerm": "Congenital Abnormalities"
+          },
+          {
+            "ConditionAncestorId": "D000025064",
+            "ConditionAncestorTerm": "Sex Chromosome Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000025063",
+            "ConditionAncestorTerm": "Chromosome Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000030342",
+            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+          },
+          {
+            "ConditionAncestorId": "D000006058",
+            "ConditionAncestorTerm": "Gonadal Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16326",
+            "ConditionBrowseLeafName": "Turner Syndrome",
+            "ConditionBrowseLeafAsFound": "Turner Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8316",
+            "ConditionBrowseLeafName": "Gonadal Dysgenesis",
+            "ConditionBrowseLeafAsFound": "Turner Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M12",
+            "ConditionBrowseLeafName": "Congenital Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14697",
+            "ConditionBrowseLeafName": "Disorders of Sex Development",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16466",
+            "ConditionBrowseLeafName": "Urogenital Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22176",
+            "ConditionBrowseLeafName": "Chromosome Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22177",
+            "ConditionBrowseLeafName": "Sex Chromosome Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8570",
+            "ConditionBrowseLeafName": "Heart Defects, Congenital",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19656",
+            "ConditionBrowseLeafName": "Cardiovascular Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22839",
+            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8315",
+            "ConditionBrowseLeafName": "Gonadal Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T5765",
+            "ConditionBrowseLeafName": "Turner Syndrome",
+            "ConditionBrowseLeafAsFound": "Turner Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T2589",
+            "ConditionBrowseLeafName": "Gonadal Dysgenesis",
+            "ConditionBrowseLeafAsFound": "Turner Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

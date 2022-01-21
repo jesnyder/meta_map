@@ -1,0 +1,676 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05052957",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CASE5320"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "1U01CA236215-01",
+            "SecondaryIdType": "U.S. NIH Grant/Contract",
+            "SecondaryIdLink": "https://projectreporter.nih.gov/reporterapi.cfm?PROJECTNUM=1U01CA236215-01&Fy=all"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Case Comprehensive Cancer Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "hSTAR GBM (Hematopoetic Stem Cell (HPC) Rescue for GBM)",
+      "OfficialTitle": "Multicenter Phase II Trial O6-benzylguanine(BG) and Temozolomide(TMZ) Therapy of Glioblastoma Multiforme (GBM) With Infusion of Autologous P140K MGMT+Hematopoietic Progenitors to Protect Hematopoiesis",
+      "Acronym": "hSTAR GBM"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2021",
+      "OverallStatus": "Not yet recruiting",
+      "StartDateStruct": {
+        "StartDate": "October 15, 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 1, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 1, 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 13, 2021",
+      "StudyFirstSubmitQCDate": "September 13, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "September 22, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 30, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 7, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Andrew Sloan, MD",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Case Comprehensive Cancer Center"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Andrew Sloan, MD",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "National Cancer Institute (NCI)",
+            "CollaboratorClass": "NIH"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This phase II trial studies the effect of P140K MGMT hematopoietic stem cells, O6-benzylguanine, temozolomide, and carmustine in treating participants with supratentorial glioblastoma or gliosarcoma who have recently had surgery to remove most or all of the brain tumor (resected). Chemotherapy drugs, such as 6-benzylguanine, temozolomide, and carmustine, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing. Placing P140K MGMT, a gene that has been created in the laboratory into bone marrow making the bone more resistant to chemotherapy, allowing intra-patient dose escalation which kills more tumor cells while allowing bone marrow to survive."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Glioblastoma Multiforme",
+          "Glioblastoma Multiforme, Adult",
+          "Supratentorial Glioblastoma",
+          "Supratentorial Gliosarcoma"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "16",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "stem cell mobilization after radiation therapy",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Participants at University Hospitals-Seidman Cancer Center (UH-SCC) will receive stem cell mobilization after 6 weeks of standard of care (SOC) radiotherapy. Followed by SOC chemotherapy.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: P140K-MGMT",
+                "Drug: O6-benzylguanine",
+                "Radiation: Photon Based Radiotherapy",
+                "Drug: temozolomide",
+                "Drug: Filgrastim",
+                "Drug: carmustine"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "stem cell mobilization after surgery",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Participants at the NIH Cancer Center (NIH-CC) will receive stem cell mobilization following SOC surgery prior to SOC radiotherapy. Followed by SOC chemotherapy.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: P140K-MGMT",
+                "Drug: O6-benzylguanine",
+                "Radiation: Photon Based Radiotherapy",
+                "Drug: temozolomide",
+                "Drug: Filgrastim",
+                "Drug: carmustine"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "P140K-MGMT",
+            "InterventionDescription": "Ex Vivo Cultured P140K MGMT CD34+ Cells. The transduced cells are a biological product and production is detailed in the Cellular Therapy Lab standard operating procedures and IND 14099",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "stem cell mobilization after radiation therapy",
+                "stem cell mobilization after surgery"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "O6-benzylguanine",
+            "InterventionDescription": "O6BG is a low molecular-weight purine analog which selectively and irreversibly inactivates the DNA-repair enzyme, O6- alkylguanine DNA-alkyltransferase.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "stem cell mobilization after radiation therapy",
+                "stem cell mobilization after surgery"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "BG"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Radiation",
+            "InterventionName": "Photon Based Radiotherapy",
+            "InterventionDescription": "Standard of care, photon-based radiotherapy (60Gy in 30 fractions) will be performed in both arms without concomitant TMZ between to 6 weeks post-operatively. Radiotherapy will be performed at both UH-SCC or NIH-CC.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "stem cell mobilization after radiation therapy",
+                "stem cell mobilization after surgery"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "temozolomide",
+            "InterventionDescription": "Temozolomide is not directly active but undergoes rapid non-enzymatic conversion at physiologic pHto the reactive compoundMTIC. The cytotoxicity of MTIC is thought to be primarily due to alkylationof DNA. Alkylation (methylation) occurs mainly at the O6 and N7 positions of guanine",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "stem cell mobilization after radiation therapy",
+                "stem cell mobilization after surgery"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "TMZ"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Filgrastim",
+            "InterventionDescription": "Filgrastim is a 175 amino acid protein manufactured by recombinant DNA technology. Endogenous filgrastim is a glycoprotein produced by monocytes, fibroblasts, and endothelial cells, which regulates the production of neutrophils within the bone marrow.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "stem cell mobilization after radiation therapy",
+                "stem cell mobilization after surgery"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "G-CSF,Granulocyte-Colony Stimulating Factor"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "carmustine",
+            "InterventionDescription": "BCNU is a lipid soluble agent which has alkylating properties, plus an isocyanate metabolite which interferes with DNA and RNA synthesis.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "stem cell mobilization after radiation therapy",
+                "stem cell mobilization after surgery"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "BCNU,bis-chloronitrosourea"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Percent of participants able to complete treatment",
+            "PrimaryOutcomeDescription": "To evaluate and compare the feasibility of introducing and expressing P140K MGMT cDNA using a lentiviral-based provirus in autologous hematopoietic stem cells harvested from newly diagnosed IDH-1 WT GBM with unmethylated MGMT promoter using two different sequences of stem cell mobilization in a multi-center trial.\n\n1. What percent of patients who enter trial can complete treatment.",
+            "PrimaryOutcomeTimeFrame": "10 years after start of study"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of adverse events",
+            "PrimaryOutcomeDescription": "proportion of participants experiencing a grade 3 or higher AE/SAE",
+            "PrimaryOutcomeTimeFrame": "Up to 30 days post-treatment"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Overall Survival",
+            "PrimaryOutcomeDescription": "Median overall survival in months.",
+            "PrimaryOutcomeTimeFrame": "Up to 15 years post-treatment"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Myelosuppression",
+            "SecondaryOutcomeDescription": "To determine what proportion of patients who receive P140K MGMT transduced CD34 cells tolerate BG and dose escalated TMZ without myelosuppression.\n\nWe will report % of patients who suffer grade I-5 SAES related to myelosuppression.",
+            "SecondaryOutcomeTimeFrame": "5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Detection of P140K transduced BG and TMZ resistant cells",
+            "SecondaryOutcomeDescription": "% of patients with detectable P-140K-MGMT",
+            "SecondaryOutcomeTimeFrame": "5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Enrichment of P140K-MGMT",
+            "SecondaryOutcomeDescription": "What % of patients have enrichment of P140K-MGMT.",
+            "SecondaryOutcomeTimeFrame": "5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Tumor Response using imaging",
+            "SecondaryOutcomeDescription": "Tumor response assessed via iRANO criteria",
+            "SecondaryOutcomeTimeFrame": "5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "PFS using imaging",
+            "SecondaryOutcomeDescription": "PFS measured from the date of initial histological diagnosis to progression (as defined above), death, last contact, or last tumor assessment before the start of further anti-tumor therapy",
+            "SecondaryOutcomeTimeFrame": "5 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with histologically confirmed, newly diagnosed, supratentorial glioblastoma or gliosarcoma who have undergone gross total tumor resection or near gross total resection (resection of >85% of enhancing tumor demonstrated by MRI) are eligible up to their sixth postoperative week. Patients with primarily infratentorial disease, or with multifocal,or leptomeningeal dissemination of disease will be excluded. In general, patients will not have > 1 cm residual measurable or evaluable disease after surgical tumor resection.\nPatient must have unmethylated MGMT\nAbsence Of IDH1 or IDH2mutation on tumor tissue by a CLIA-approved immunohistochemistry or DNA sequencing test on local testing\nPatients aged 18-70years. (Patients >70 years will be excluded due to difficulties in mobilizationand collection of adequate numbers of peripheral progenitors.)\nECOG performance status 0-1or Karnofsky ≥ 70.\nNo myelosuppressive chemotherapy or hematopoietic cell transplantation prior to the diagnosis of GBM and no prior chemotherapy (including Gliadel BCNU wafers) for GBM\nLife expectancy of at least 12 weeks.\nNo plan for hypofractionated radiation therapy\nAdequate hematologic (absolute neutrophil count (ANC)≥ 1000/mm3, platelets ≥ 100,000/mm3, Hgb ≥ 9.5, hepatic (Bilirubin ≤ 2.0 mg/dl, AST and ALT less than or equal to 3 times institutional upper limit of normal, prothrombin time <1.2 times normal), and renal (serum creatinine ≤ 2.0 mg/dl or Creatinine Clearance ≥ 60mL/min/1.73 m2for subjects with serum creatinine levels above institutional normal). These tests will be repeated within 2 weeks of treatment with BG and TMZ, and must meet the same criteria. -Post-operative steroids are i) tapered to ≤ 8mg dexamethasone/day(or equivalent)and ii) patient has been on a stable or decreasing steroid dose for the 7 days prior to enrollment\nPatients of child-bearing potential must agree to using single barrier contraception.\nMust be willing and able to understand provide informed consent.\nPatient must have all sutures removed prior to registration\nPatient must be considered to be clinically stable.\nNo evidence of active infection.\nAvailability of 10unstained slides or FFPE sample of tumor for molecular or histopathological studies.\nNegative HIV screening\n\nExclusion Criteria:\n\nAny known medical or hereditary condition associated with immunosuppression;orothermedical illness which may jeopardize patient safety.\nKnown history of HIV seropositivity. This exclusion is included for two reasons. First, there is evidence of decreased marrow reserve in HIV+ patients and antiviral treatment is associated with myelosuppression. Thus, drug treatment designed to be myelosuppressive may bemore toxic in this patient population. Second, extensive laboratory culturing of the bone marrow and peripheral blood progenitor cells is required. No preclinical samples which are HIV+ have been evaluated with the gene transfer modality proposed and thus the feasibility and safety of gene transfer and selection in HIV+ samples cannot yet be advocated. Such studies are planned so as to not preclude HIV+ patients in later studies.\nPregnant or lactating women. There is data to indicate that BCNU and TMZ is teratogenic and carcinogenic. Thus, its use in pregnant women would confer unnecessary risk to the fetus.\nPatients with symptomatic pulmonary disease and other severe co-morbid respiratory conditions, including patients with active pulmonary infection and/or pulse oximetry < 90% and a corrected DLCO < 50% of predicted. However, subjects with a corrected DLCO in the range of 50-70% should have Pulmonologyclearance prior to intervention.\nPatients with known diagnosis heart failure or cardiac insufficiency and an LVEF of < 40%. History of acute coronary event including MI within 6 months prior to study enrollment.\nKnown history of cardiac arrhythmias including atrial fibrillation, tachyarrhythmiaor bradycardia.Inability to undergo repeated MRI evaluation; or allergy or intolerance of Gadolinium-containing contrast agent.\nActive illicit drug use or diagnosis of alcoholism.\nPrior diagnosis of any malignant disease with the exception of non-melanomatous skin cancer, or carcinoma in situof the cervix, bladder, prostate, or breast, unless patient has been disease-free/in remission for ≥2 years prior to date of study enrollment.\nMental incapacity or psychiatric illness preventing informed consent.\nHistory of Hepatitis B or C or Hepatitis grade ≥3 are excluded due to the potential for additional hepatotixicity",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Christopher Murphy, RN",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "1-800-641-2422",
+            "CentralContactEMail": "CTUreferral@uhhospitals.org"
+          },
+          {
+            "CentralContactName": "Ellen Perme, RN",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "1-800-641-2422",
+            "CentralContactEMail": "CTUreferral@uhhospitals.org"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Andrew Sloan, MD",
+            "OverallOfficialAffiliation": "University Hospitals Cleveland Medical Center, Case Comprehensive Cancer Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "NIH-Clinical Center",
+            "LocationCity": "Bethesda",
+            "LocationState": "Maryland",
+            "LocationZip": "20892",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Mark Gilbert, MD",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "University Hospitals Cleveland Medical Center",
+            "LocationCity": "Cleveland",
+            "LocationState": "Ohio",
+            "LocationZip": "44106",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Andrew Sloan, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "800-641-2422",
+                  "LocationContactEMail": "CTUreferral@uhhospitals.org"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "Individual participant data that underlie or influence the results observed from the study.",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Study Protocol",
+          "Statistical Analysis Plan (SAP)",
+          "Clinical Study Report (CSR)"
+        ]
+      },
+      "IPDSharingTimeFrame": "Beginning 3 months and ending 5 years following article publication.",
+      "IPDSharingAccessCriteria": "Investigators who provide a methodologically sound proposal for use of requested data."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000005909",
+            "ConditionMeshTerm": "Glioblastoma"
+          },
+          {
+            "ConditionMeshId": "D000018316",
+            "ConditionMeshTerm": "Gliosarcoma"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001254",
+            "ConditionAncestorTerm": "Astrocytoma"
+          },
+          {
+            "ConditionAncestorId": "D000005910",
+            "ConditionAncestorTerm": "Glioma"
+          },
+          {
+            "ConditionAncestorId": "D000018302",
+            "ConditionAncestorTerm": "Neoplasms, Neuroepithelial"
+          },
+          {
+            "ConditionAncestorId": "D000017599",
+            "ConditionAncestorTerm": "Neuroectodermal Tumors"
+          },
+          {
+            "ConditionAncestorId": "D000009373",
+            "ConditionAncestorTerm": "Neoplasms, Germ Cell and Embryonal"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009375",
+            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "ConditionAncestorId": "D000009380",
+            "ConditionAncestorTerm": "Neoplasms, Nerve Tissue"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M8171",
+            "ConditionBrowseLeafName": "Glioblastoma",
+            "ConditionBrowseLeafAsFound": "Glioblastoma Multiforme",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19613",
+            "ConditionBrowseLeafName": "Gliosarcoma",
+            "ConditionBrowseLeafAsFound": "Gliosarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3713",
+            "ConditionBrowseLeafName": "Astrocytoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8172",
+            "ConditionBrowseLeafName": "Glioma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19599",
+            "ConditionBrowseLeafName": "Neoplasms, Neuroepithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18997",
+            "ConditionBrowseLeafName": "Neuroectodermal Tumors",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19540",
+            "ConditionBrowseLeafName": "Neuroectodermal Tumors, Primitive",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11470",
+            "ConditionBrowseLeafName": "Neoplasms, Germ Cell and Embryonal",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11472",
+            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11477",
+            "ConditionBrowseLeafName": "Neoplasms, Nerve Tissue",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2518",
+            "ConditionBrowseLeafName": "Glioblastoma",
+            "ConditionBrowseLeafAsFound": "Glioblastoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T2522",
+            "ConditionBrowseLeafName": "Gliosarcoma",
+            "ConditionBrowseLeafAsFound": "Gliosarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T2519",
+            "ConditionBrowseLeafName": "Glioma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4092",
+            "ConditionBrowseLeafName": "Neuroepithelioma",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000077204",
+            "InterventionMeshTerm": "Temozolomide"
+          },
+          {
+            "InterventionMeshId": "D000002330",
+            "InterventionMeshTerm": "Carmustine"
+          },
+          {
+            "InterventionMeshId": "C000064976",
+            "InterventionMeshTerm": "O(6)-benzylguanine"
+          },
+          {
+            "InterventionMeshId": "D000078224",
+            "InterventionMeshTerm": "Lenograstim"
+          },
+          {
+            "InterventionMeshId": "C000081222",
+            "InterventionMeshTerm": "Sargramostim"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000276",
+            "InterventionAncestorTerm": "Adjuvants, Immunologic"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018906",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+          },
+          {
+            "InterventionAncestorId": "D000000477",
+            "InterventionAncestorTerm": "Alkylating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M1692",
+            "InterventionBrowseLeafName": "Temozolomide",
+            "InterventionBrowseLeafAsFound": "Cisplatin",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M244297",
+            "InterventionBrowseLeafName": "Sargramostim",
+            "InterventionBrowseLeafAsFound": "Day 2",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M1945",
+            "InterventionBrowseLeafName": "Lenograstim",
+            "InterventionBrowseLeafAsFound": "Red",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M4737",
+            "InterventionBrowseLeafName": "Carmustine",
+            "InterventionBrowseLeafAsFound": "Thigh",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M244383",
+            "InterventionBrowseLeafName": "O(6)-benzylguanine",
+            "InterventionBrowseLeafAsFound": "/40",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M273811",
+            "InterventionBrowseLeafName": "polysaccharide-K",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M257523",
+            "InterventionBrowseLeafName": "Molgramostim",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2780",
+            "InterventionBrowseLeafName": "Adjuvants, Immunologic",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20095",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2972",
+            "InterventionBrowseLeafName": "Alkylating Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          }
+        ]
+      }
+    }
+  }
+}

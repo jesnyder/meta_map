@@ -1,0 +1,838 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04371393",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "GCO 08-1078-0014"
+      },
+      "Organization": {
+        "OrgFullName": "Icahn School of Medicine at Mount Sinai",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "MSCs in COVID-19 ARDS",
+      "OfficialTitle": "Mesenchymal Stromal Cells for the Treatment of Moderate to Severe COVID-19 Acute Respiratory Distress Syndrome"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 30, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 14, 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "February 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 28, 2020",
+      "StudyFirstSubmitQCDate": "April 28, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 1, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "April 1, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 5, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Annetine Gelijns",
+        "ResponsiblePartyInvestigatorTitle": "Chair, Department of Population Health Science & Policy",
+        "ResponsiblePartyInvestigatorAffiliation": "Icahn School of Medicine at Mount Sinai"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Icahn School of Medicine at Mount Sinai",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Mesoblast, Inc.",
+            "CollaboratorClass": "INDUSTRY"
+          },
+          {
+            "CollaboratorName": "National Heart, Lung, and Blood Institute (NHLBI)",
+            "CollaboratorClass": "NIH"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The mortality rate in SARS-CoV-2-related severe ARDS is high despite treatment with antivirals, glucocorticoids, immunoglobulins, and ventilation. Preclinical and clinical evidence indicate that MSCs migrate to the lung and respond to the pro-inflammatory lung environment by releasing anti-inflammatory factors reducing the proliferation of pro-inflammatory cytokines while modulating regulatory T cells and macrophages to promote resolution of inflammation. Therefore, MSCs may have the potential to increase survival in management of COVID-19 induced ARDS.\n\nThe primary objective of this phase 3 trial is to evaluate the efficacy and safety of the addition of the mesenchymal stromal cell (MSC) remestemcel-L plus standard of care compared to placebo plus standard of care in patients with acute respiratory distress syndrome (ARDS) due to SARS-CoV-2. The secondary objective is to assess the impact of MSCs on inflammatory biomarkers.",
+      "DetailedDescription": "This will be a randomized (1:1 ratio), double blind, parallel design, placebo controlled trial. Randomization will be stratified by clinical center and by moderate versus severe ARDS. The study is designed to have three interim analyses for stopping accrual early for efficacy and futility when 30%, 45% and 60% of the 300 patients have reached the primary endpoint using Bayesian predictive probabilities.\n\nPatients will be randomized in a 1:1 allocation to intravenous infusion of MSCs (remestemcel-L) plus standard of care versus placebo plus standard of care for the treatment of COVID-19 related ARDS:\n\nGroup 1: 2x10^6 MSC/kg of body weight plus standard of care, administered twice during the first week, with the second infusion at 4 days following the first infusion (± 1 day)\nGroup 2: Placebo (Plasma-Lyte) plus standard of care, administered twice during the first week, with the second infusion at 4 days following the first infusion (± 1 day) (control)\n\nMSCs and placebo will initially be administered intravenously in the dose defined above at randomization. The rate of infusion may be tailored to the patient's respiratory status and fluid status, but the duration of infusion should not exceed 60 minutes.\n\nPatients will be followed for 90 days post randomization, with assessment of pulmonary symptoms at 6 and 12 months."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Mesenchymal Stromal Cells",
+          "Remestemcel-L",
+          "Acute Respiratory Distress Syndrome",
+          "COVID"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "mesenchymal stem cells",
+          "SARS-CoV-2",
+          "cytokine storm"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "This will be a randomized (1:1 ratio), double blind, parallel design, placebo controlled trial.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignMaskingDescription": "This is a randomized clinical trial, in which the patients and investigators are masked to treatment assignment.",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "223",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Remestemcel-L Plus Standard of Care",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Intravenous infusion of remestemcel-L 2x10^6 MSC/kg of body weight plus standard of care",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Remestemcel-L"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo Plus Standard of Care",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Placebo (Plasma-Lyte) plus standard of care",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Remestemcel-L",
+            "InterventionDescription": "administered twice during the first week, with the second infusion at 4 days following the first injection (± 1 day)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Remestemcel-L Plus Standard of Care"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "administered twice during the first week, with second infusion at 4 days following the first injection (± 1 day)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo Plus Standard of Care"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of all-cause mortality",
+            "PrimaryOutcomeDescription": "Number of all-cause mortality within 30 days of randomization.",
+            "PrimaryOutcomeTimeFrame": "30 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Number of days alive off mechanical ventilatory support",
+            "SecondaryOutcomeDescription": "Number of days alive off mechanical ventilatory support calculated as the number of days, within the 60 days window, that patients were alive and free of mechanical ventilatory support.",
+            "SecondaryOutcomeTimeFrame": "60 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of adverse events",
+            "SecondaryOutcomeDescription": "Safety analyses will be assessed by adverse event rates calculated as the ratio of the total number of events over 30 days divided by total patient-time at risk for the specific event from randomization.",
+            "SecondaryOutcomeTimeFrame": "30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants alive at day 7",
+            "SecondaryOutcomeTimeFrame": "7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants alive at day 14",
+            "SecondaryOutcomeTimeFrame": "14 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants alive at day 60",
+            "SecondaryOutcomeTimeFrame": "60 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants alive at day 90",
+            "SecondaryOutcomeTimeFrame": "90 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants alive at 12 Months",
+            "SecondaryOutcomeTimeFrame": "12 Months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants with resolution and/or improvement of ARDS",
+            "SecondaryOutcomeDescription": "The number and percent of patients with resolution and/or improvement of ARDS at day 7",
+            "SecondaryOutcomeTimeFrame": "7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants with resolution and/or improvement of ARDS",
+            "SecondaryOutcomeDescription": "The number and percent of patients with resolution and/or improvement of ARDS at day 14",
+            "SecondaryOutcomeTimeFrame": "14 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants with resolution and/or improvement of ARDS",
+            "SecondaryOutcomeDescription": "The number and percent of patients with resolution and/or improvement of ARDS at day 21",
+            "SecondaryOutcomeTimeFrame": "21 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants with resolution and/or improvement of ARDS",
+            "SecondaryOutcomeDescription": "The number and percent of patients with resolution and/or improvement of ARDS at day 30",
+            "SecondaryOutcomeTimeFrame": "30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Severity of ARDS",
+            "SecondaryOutcomeDescription": "severity of ARDS according to Berlin Criteria at days 7 post-randomization Change from baseline of the severity of ARDS according to Berlin Criteria at days 7, 14, 21 and 30 post-randomization will be compared between treatment groups using a Cochran-Mantel-Haenszel test stratified by baseline severity.",
+            "SecondaryOutcomeTimeFrame": "baseline and 7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Severity of ARDS",
+            "SecondaryOutcomeDescription": "severity of ARDS according to Berlin Criteria at days 14 post-randomization Change from baseline of the severity of ARDS according to Berlin Criteria at days 7, 14, 21 and 30 post-randomization will be compared between treatment groups using a Cochran-Mantel-Haenszel test stratified by baseline severity.",
+            "SecondaryOutcomeTimeFrame": "baseline and 14 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Severity of ARDS",
+            "SecondaryOutcomeDescription": "severity of ARDS according to Berlin Criteria at days 21 post-randomization Change from baseline of the severity of ARDS according to Berlin Criteria at days 7, 14, 21 and 30 post-randomization will be compared between treatment groups using a Cochran-Mantel-Haenszel test stratified by baseline severity.",
+            "SecondaryOutcomeTimeFrame": "baseline and 21 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Severity of ARDS",
+            "SecondaryOutcomeDescription": "severity of ARDS according to Berlin Criteria at days 30 post-randomization Change from baseline of the severity of ARDS according to Berlin Criteria at days 7, 14, 21 and 30 post-randomization will be compared between treatment groups using a Cochran-Mantel-Haenszel test stratified by baseline severity.",
+            "SecondaryOutcomeTimeFrame": "baseline and 30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Length of stay",
+            "SecondaryOutcomeDescription": "Hospital length of stay",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Readmissions",
+            "SecondaryOutcomeDescription": "number of readmission",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Length of Stay in Intensive Care Unit",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinical Improvement Scale",
+            "SecondaryOutcomeDescription": "Change from baseline in Clinical Improvement Scale at day 7. Clinical Improvement Scale full scale from 1 to 7, with higher score indicating more clinical improvement.",
+            "SecondaryOutcomeTimeFrame": "7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinical Improvement Scale",
+            "SecondaryOutcomeDescription": "Change from baseline in Clinical Improvement Scale at day 14. Full scale from 1 to 7, with higher score indicating more clinical improvement.",
+            "SecondaryOutcomeTimeFrame": "14 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinical Improvement Scale",
+            "SecondaryOutcomeDescription": "Change from baseline in Clinical Improvement Scale at day 21. Clinical Improvement Scale full scale from 1 to 7, with higher score indicating more clinical improvement.",
+            "SecondaryOutcomeTimeFrame": "21 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinical Improvement Scale",
+            "SecondaryOutcomeDescription": "Change from baseline in Clinical Improvement Scale at day 30. Clinical Improvement Scale full scale from 1 to 7, with higher score indicating more clinical improvement.",
+            "SecondaryOutcomeTimeFrame": "30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in plasma hs-CRP concentration",
+            "SecondaryOutcomeDescription": "Changes from baseline in plasma hs-CRP concentration at days 7",
+            "SecondaryOutcomeTimeFrame": "baseline and 7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in plasma hs-CRP concentration",
+            "SecondaryOutcomeDescription": "Changes from baseline in plasma hs-CRP concentration at days 14",
+            "SecondaryOutcomeTimeFrame": "baseline and 14 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in plasma hs-CRP concentration",
+            "SecondaryOutcomeDescription": "Changes from baseline in plasma hs-CRP concentration at days 21",
+            "SecondaryOutcomeTimeFrame": "baseline and 21 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in serum hs-CRP concentration",
+            "SecondaryOutcomeDescription": "Changes from baseline in serum hs-CRP concentration at days 30",
+            "SecondaryOutcomeTimeFrame": "baseline and 30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in IL-6 inflammatory marker level",
+            "SecondaryOutcomeDescription": "Changes from baseline in IL-6 inflammatory marker level at 7 days",
+            "SecondaryOutcomeTimeFrame": "baseline and 7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in IL-6 inflammatory marker level",
+            "SecondaryOutcomeDescription": "Changes from baseline in IL-6 inflammatory marker level at 14 days",
+            "SecondaryOutcomeTimeFrame": "baseline and 14 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in IL-6 inflammatory marker level",
+            "SecondaryOutcomeDescription": "Changes from baseline in IL-6 inflammatory marker level at 21 days",
+            "SecondaryOutcomeTimeFrame": "baseline and 21 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in IL-6 inflammatory marker level",
+            "SecondaryOutcomeDescription": "Changes from baseline in IL-6 inflammatory marker level at 30 days",
+            "SecondaryOutcomeTimeFrame": "baseline and 30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in IL-8 inflammatory marker level",
+            "SecondaryOutcomeDescription": "Changes from baseline in IL-6 inflammatory marker level at 7 days",
+            "SecondaryOutcomeTimeFrame": "baseline and 7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in IL-8 inflammatory marker level",
+            "SecondaryOutcomeDescription": "Changes from baseline in IL-6 inflammatory marker level at 21 days",
+            "SecondaryOutcomeTimeFrame": "baseline and 21 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in IL-8 inflammatory marker level",
+            "SecondaryOutcomeDescription": "Changes from baseline in IL-6 inflammatory marker level at 14 days",
+            "SecondaryOutcomeTimeFrame": "baseline and 14 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in IL-8 inflammatory marker level",
+            "SecondaryOutcomeDescription": "Changes from baseline in IL-6 inflammatory marker level at 30 days",
+            "SecondaryOutcomeTimeFrame": "baseline and 30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in TNF-alpha inflammatory marker level",
+            "SecondaryOutcomeDescription": "Changes from baseline in TNF-alpha inflammatory marker level at 7 days",
+            "SecondaryOutcomeTimeFrame": "baseline and 7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in TNF-alpha inflammatory marker level",
+            "SecondaryOutcomeDescription": "Changes from baseline in TNF-alpha inflammatory marker level at 14 days",
+            "SecondaryOutcomeTimeFrame": "baseline and 14 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in TNF-alpha inflammatory marker level",
+            "SecondaryOutcomeDescription": "Changes from baseline in TNF-alpha inflammatory marker level at 21 days",
+            "SecondaryOutcomeTimeFrame": "baseline and 21 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in TNF-alpha inflammatory marker level",
+            "SecondaryOutcomeDescription": "Changes from baseline in TNF-alpha inflammatory marker level at 30 days",
+            "SecondaryOutcomeTimeFrame": "baseline and 30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Pulmonary symptoms",
+            "SecondaryOutcomeDescription": "including the presence of emphysema, COPD, asthma, pulmonary fibrosis, other pulmonary disease, and the need for respiratory support will be reported by randomization",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Pulmonary symptoms",
+            "SecondaryOutcomeDescription": "including the presence of emphysema, COPD, asthma, pulmonary fibrosis, other pulmonary disease, and the need for respiratory support will be reported by randomization",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria\n\n18 years or older\nPatient has SARS-CoV-2 (COVID-19) confirmed by real-time reverse transcription polymerase chain reaction (RT-PCR) assay or other diagnostic test\n\nPatient requiring mechanical ventilatory support with moderate to severe ARDS as determined by the following criteria (adapted from the Berlin criteria)\n\nBilateral opacities must be present on a chest radiograph or computerized tomographic (CT) scan. These opacities are not fully explained by pleural effusions, lobar collapse, lung collapse, or pulmonary nodules.\nRespiratory failure not fully explained by cardiac failure or fluid overload.\nModerate to severe impairment of oxygenation must be present, as defined by the ratio of arterial oxygen tension to fraction of inspired oxygen (PaO2/FiO2). The severity of the hypoxemia defines the severity of the ARDS:\nModerate ARDS: PaO2/FiO2 >100 mmHg and ≤200 mmHg, on ventilator settings that include PEEP ≥5 cm H2O OR\nSevere ARDS: PaO2/FiO2 ≤100 mmHg on ventilator settings that include PEEP ≥5 cm H2O\nHigh sensitivity C-Reactive Protein (hs-CRP) or CRP serum level >4.0 mg/dL\nAcute Physiologic and Chronic Health Evaluation (APACHE IV) score >5\nCreatinine clearance of ≥ 30 mL/minute OR a creatinine clearance of 20-29 mL/minute with urine output of ≥0.3 mLs/kg/hour over the last 8 hours or ≥500 mLs over the last 24 hours\nThe patient or his/her legally authorized representative (LAR) is able to provide informed consent\n\nExclusion Criteria\n\nCurrently receiving extracorporeal membrane oxygenation (ECMO) or high frequency oscillatory ventilation (HFOV)\nFemales who are pregnant or lactating\nPatients with established positive bacterial blood cultures prior to enrollment or suspicion of superimposed bacterial pneumonia\nPatients with BMI >55\nPatients with untreated HIV infection\nPatients with malignancy who are within 12 months of active treatment with any chemotherapy, radiation or immunotherapy.\nPatients who have been intubated for more than 72 hours in total at the time of randomization\nCreatinine clearance less than 20 mL/minute or receiving renal replacement therapy\nLFTs (isolated ALT or AST) > 8x upper limit of normal or > 5x upper limit of normal in the setting of other liver function abnormalities (i.e., total bilirubin ≥ 2x upper limit of normal)\nKnown hypersensitivity to DMSO or to porcine or bovine proteins\nHistory of prior respiratory disease with requirement for supplemental oxygen\nAny end-stage organ disease which in the opinion of the investigator may possibly affect the safety of remestemcel-L treatment\nReceiving an investigational cellular therapy agent",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Annetine C Gelijns, PhD",
+            "OverallOfficialAffiliation": "Icahn School of Medicine at Mount Sinai",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Michael Mack, MD",
+            "OverallOfficialAffiliation": "Baylor Research Institute",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Peter Smith, MD",
+            "OverallOfficialAffiliation": "Duke University",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Dignity Health",
+            "LocationCity": "Gilbert",
+            "LocationState": "Arizona",
+            "LocationZip": "85297",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Southern California",
+            "LocationCity": "Los Angeles",
+            "LocationState": "California",
+            "LocationZip": "90033",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Stanford University",
+            "LocationCity": "Stanford",
+            "LocationState": "California",
+            "LocationZip": "94305",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Emory University",
+            "LocationCity": "Atlanta",
+            "LocationState": "Georgia",
+            "LocationZip": "30308",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Lutheran Hospital",
+            "LocationCity": "Fort Wayne",
+            "LocationState": "Indiana",
+            "LocationZip": "46825",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Ochsner Clinic",
+            "LocationCity": "New Orleans",
+            "LocationState": "Louisiana",
+            "LocationZip": "70121",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Maine Medical Center",
+            "LocationCity": "Portland",
+            "LocationState": "Maine",
+            "LocationZip": "04102",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Maryland",
+            "LocationCity": "Baltimore",
+            "LocationState": "Maryland",
+            "LocationZip": "21201",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Brigham and Women's Hospital",
+            "LocationCity": "Boston",
+            "LocationState": "Massachusetts",
+            "LocationZip": "02115",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Michigan",
+            "LocationCity": "Ann Arbor",
+            "LocationState": "Michigan",
+            "LocationZip": "48109",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Dartmouth-Hitchcock",
+            "LocationCity": "Lebanon",
+            "LocationState": "New Hampshire",
+            "LocationZip": "03766",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "New York University Langone Health",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10016",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Mount Sinai Health",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10029",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Northwell Health",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10075",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Duke University Medical Center",
+            "LocationCity": "Durham",
+            "LocationState": "North Carolina",
+            "LocationZip": "27710",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "WakeMed",
+            "LocationCity": "Raleigh",
+            "LocationState": "North Carolina",
+            "LocationZip": "27610",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Cleveland Clinic Foundation",
+            "LocationCity": "Cleveland",
+            "LocationState": "Ohio",
+            "LocationZip": "44195",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Pennsylvania Health System",
+            "LocationCity": "Philadelphia",
+            "LocationState": "Pennsylvania",
+            "LocationZip": "19104",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Houston Methodist Hospital",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77030",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Baylor, Smith & White",
+            "LocationCity": "Plano",
+            "LocationState": "Texas",
+            "LocationZip": "75093",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Virginia",
+            "LocationCity": "Charlottesville",
+            "LocationState": "Virginia",
+            "LocationZip": "22908",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "All of the individual participant data collected during the trial, after deidentification.",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Study Protocol",
+          "Statistical Analysis Plan (SAP)",
+          "Informed Consent Form (ICF)",
+          "Clinical Study Report (CSR)",
+          "Analytic Code"
+        ]
+      },
+      "IPDSharingTimeFrame": "De-identified study data sets must be submitted to the designated NHLBI Program Official no later than 3 years after the end of the clinical activity (final patient follow-up, etc.) or 2 years after the main paper of the trial has been published, whichever comes first. Data are prepared by the study coordinating center and sent to the designated PO for review prior to release.",
+      "IPDSharingAccessCriteria": "Anyone who wishes to access the data."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012128",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000012127",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome, Newborn"
+          },
+          {
+            "ConditionMeshId": "D000055371",
+            "ConditionMeshTerm": "Acute Lung Injury"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007235",
+            "ConditionAncestorTerm": "Infant, Premature, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007232",
+            "ConditionAncestorTerm": "Infant, Newborn, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000055370",
+            "ConditionAncestorTerm": "Lung Injury"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27296",
+            "ConditionBrowseLeafName": "Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9431",
+            "ConditionBrowseLeafName": "Infant, Premature, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9428",
+            "ConditionBrowseLeafName": "Infant, Newborn, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "C000711674",
+            "InterventionMeshTerm": "Remestemcel-l"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000893",
+            "InterventionAncestorTerm": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000998",
+            "InterventionAncestorTerm": "Antiviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M85407",
+            "InterventionBrowseLeafName": "Plasma-lyte 148",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M186752",
+            "InterventionBrowseLeafName": "Remestemcel-l",
+            "InterventionBrowseLeafAsFound": "Leukodystrophy",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3369",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3466",
+            "InterventionBrowseLeafName": "Antiviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infl",
+            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+          }
+        ]
+      }
+    }
+  }
+}

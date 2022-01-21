@@ -1,0 +1,392 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03404063",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CardioCell evaluation in AMI"
+      },
+      "Organization": {
+        "OrgFullName": "John Paul II Hospital, Krakow",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Cardiovascular Clinical Project to Evaluate the Regenerative Capacity of CardioCell in Patients With Acute Myocardial Infarction (AMI)",
+      "OfficialTitle": "Regeneration of Ischemic Damages in Cardiovascular System Using Wharton's Jelly as an Unlimited Source of Mesenchymal Stem Cells for Regenerative Medicine. Project of the National Centre for Research and Development (Poland) 'STRATEGMED II'. Cardiovascular Clinical Project to Evaluate the Regenerative Capacity of CardioCell in Patients With Acute Myocardial Infarction (AMI)."
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 20, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 2, 2020",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 31, 2021",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "January 10, 2018",
+      "StudyFirstSubmitQCDate": "January 18, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 19, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "April 8, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 9, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "John Paul II Hospital, Krakow",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "KCRI",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "National Center for Research and Development, Poland",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The main objective of the CIRCULATE project is to compare the clinical outcomes of CardioCell administration in treatment of ischemic damages of cardiovascular system with control group, who will be treated by the administration of placebo during the sham procedure.",
+      "DetailedDescription": "It is planned to enroll 105 patients into AMI trial with randomization into active (CardioCell) therapy and sham procedure/placebo administration with 2:1 ratio.\n\nAdditional 5-10 subjects meeting inclusion/exclusion criteria will receive, in a non-blinded fashion, labelled CardioCell to determine the early uptake and retention of IMP in the target ischemic tissues.\n\nThe primary research question of this project is to check if the administration of CardioCell could improve the clinical outcomes in patients with AMI. There are several secondary questions, defined by secondary endpoints, e.g.: if the investigated treatment is possible to administered, if the investigated treatment is safe and way of CardioCell administration, if it is possible to define any selected subgroup in which the treatment results are significantly different than in whole group."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Myocardial Infarction"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2",
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "The AMI trial will enroll 105 patients with randomization into active vs. sham therapy with 2:1 ratio.\n\nAdditional 5-10 subjects meeting inclusion/exclusion criteria will receive, in a non-blinded fashion, labelled CardioCell to determine the early uptake and retention of IMP in the target ischemic tissues.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignMaskingDescription": "The Data and Safety Monitoring Board (DSMB) will be blinded at project start, but may request unblinding if necessary to accommodate effective review of data.\n\nOther than the DSMB (if necessary), the only other \"un-blinded parties\", meaning that they will have knowledge as to the patient's treatment assignment, will be the PBTiK UJ CM employee who participates in randomization utilizing randomization lists and investigational medication preparation.",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "105",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Active Group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients randomized to the active treatment group will receive 30 000 000 WJMSCs suspended in 20mL 0.9% NaCl and 5% albumin administered via the IRA.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Cardiac Drug"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control Group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Patients randomized to the control group will receive 0.9% NaCl and 5% albumin injections (in the same volume as CardioCell) in the same manner.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebos"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cardiac Drug",
+            "InterventionDescription": "Patients in the AMI trial will receive one dose of IMP during the index procedure. The IMP administration will be performed by dedicated catheter into infarct related artery.\n\nActive IMP consist of 30 000 000 of Wharton's jelly mesenchymal stem cells (WJMSCs) in each IMP dose prepared for patients randomized into active treatment group.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Active Group"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "CardioCell administration"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebos",
+            "InterventionDescription": "Patients randomized to the control group will receive 0.9% NaCl and 5% albumin injections (in the same volume as CardioCell) in the same manner.\n\nControl group will receive the same amount of fluid used for WJMSCs preparation, without cells.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control Group"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Placebo administration"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Reduction of infarct size",
+            "PrimaryOutcomeDescription": "Reduction of infarct size assessed in cardiac MRI during index hospitalization and in 6 month FU between two groups (active vs sham).",
+            "PrimaryOutcomeTimeFrame": "Index hospitalization and in 6 month FU"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Infarct size reduction",
+            "SecondaryOutcomeDescription": "Infarct size reduction in SPECT.",
+            "SecondaryOutcomeTimeFrame": "6 month FU"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Myocardial perfusion improvement",
+            "SecondaryOutcomeDescription": "Myocardial perfusion improvement assessed in SPECT.",
+            "SecondaryOutcomeTimeFrame": "6 month FU"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Myocardial perfusion improvement",
+            "SecondaryOutcomeDescription": "Myocardial perfusion improvement assessed in cardiac MRI.",
+            "SecondaryOutcomeTimeFrame": "6 month FU"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Increase of left ventricle ejection fraction (LVEF)",
+            "SecondaryOutcomeDescription": "Increase of left ventricle ejection fraction (LVEF) assessed in cardiac MRI.",
+            "SecondaryOutcomeTimeFrame": "6 month FU"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Increase of left ventricle ejection fraction (LVEF)",
+            "SecondaryOutcomeDescription": "Increase of left ventricle ejection fraction (LVEF) assessed in SPECT.",
+            "SecondaryOutcomeTimeFrame": "6 month FU"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Left ventricle ejection fraction (LVEF) change against baseline.",
+            "SecondaryOutcomeDescription": "Left ventricle ejection fraction (LVEF) change (in %) against baseline, assessed in echocardiography.",
+            "SecondaryOutcomeTimeFrame": "6 month FU"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Left ventricle end-systolic volume (ESV) change against baseline.",
+            "SecondaryOutcomeDescription": "Left ventricle end-systolic volume (ESV, in ml) change against baseline, assessed in echocardiography",
+            "SecondaryOutcomeTimeFrame": "6 month FU"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Left ventricle end-diastolic volume (EDV) change against baseline.",
+            "SecondaryOutcomeDescription": "Left ventricle end-diastolic volume (EDV, in ml) change against baseline, assessed in echocardiography.",
+            "SecondaryOutcomeTimeFrame": "6 month FU"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The occurrence of major adverse cardiovascular events",
+            "SecondaryOutcomeDescription": "The occurrence of major adverse cardiovascular events (MACE including death, myocardial infarction, and hospitalization for heart failure).",
+            "SecondaryOutcomeTimeFrame": "1 year FU"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of life improvement",
+            "SecondaryOutcomeDescription": "Quality of life improvement, assessed by SF-36 questionnaire or other dedicated for investigated population.",
+            "SecondaryOutcomeTimeFrame": "6 month and 1 year FU."
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAcute myocardial infarction successfully treated by infarct related artery (IRA) successful revascularization\nMale and female patients, aged 18-80 years\nLarge myocardial injury as demonstrated by LVEF ≤45% and/or infarct size (IS) ≥10% of the LV muscle on cMRI 2-5 days after pPCI\nSigned informed consent\n\nExclusion Criteria:\n\nPacemaker or other contraindications to cardiac MRI\nMalignancy\nModerate or severe immunodeficiency\nAcute or chronic bacterial or viral infectious disease\nSoft tissue disease or local infection in a place of required artery puncture\nPregnancy or breastfeeding\nAny objective or subjective reason for inability to attend follow-up visits\nFemales of childbearing potential, who does not want to use a highly effective method of contraception\nFemales of childbearing potential who does not have a menstrual period confirmed and a negative highly sensitive urine or serum pregnancy test\nParticipation in any other clinical research study that has not reached the primary efficacy endpoint or otherwise would interfere with the patient's participation in this project\nLife expectancy < 1 year\nAny concurrent disease or condition that, in the opinion of the investigator, would make the patient unsuitable for participation in the project",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Piotr Musiałek, MD, PhD",
+            "OverallOfficialAffiliation": "John Paul II Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "The John Paul II Hospital",
+            "LocationCity": "Cracovia",
+            "LocationZip": "31-202",
+            "LocationCountry": "Poland"
+          },
+          {
+            "LocationFacility": "Central Clinical Hospital of the MSWiA in Warsaw",
+            "LocationCity": "Warsaw",
+            "LocationZip": "02-507",
+            "LocationCountry": "Poland"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009203",
+            "ConditionMeshTerm": "Myocardial Infarction"
+          },
+          {
+            "ConditionMeshId": "D000007238",
+            "ConditionMeshTerm": "Infarction"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007511",
+            "ConditionAncestorTerm": "Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000009336",
+            "ConditionAncestorTerm": "Necrosis"
+          },
+          {
+            "ConditionAncestorId": "D000017202",
+            "ConditionAncestorTerm": "Myocardial Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11307",
+            "ConditionBrowseLeafName": "Myocardial Infarction",
+            "ConditionBrowseLeafAsFound": "Myocardial Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9434",
+            "ConditionBrowseLeafName": "Infarction",
+            "ConditionBrowseLeafAsFound": "Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11436",
+            "ConditionBrowseLeafName": "Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5698",
+            "ConditionBrowseLeafName": "Coronary Artery Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18658",
+            "ConditionBrowseLeafName": "Myocardial Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

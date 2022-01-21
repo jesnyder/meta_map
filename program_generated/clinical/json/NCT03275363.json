@@ -1,0 +1,615 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03275363",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "HKUNCDC"
+      },
+      "Organization": {
+        "OrgFullName": "The University of Hong Kong",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "The University of Hong Kong Neurocognitive Disorder Cohort",
+      "OfficialTitle": "The University of Hong Kong Neurocognitive Disorder Cohort"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2017",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 1, 2014",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 1, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 4, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 4, 2017",
+      "StudyFirstSubmitQCDate": "September 5, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "September 7, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 5, 2017",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 7, 2017",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Dr Joseph SK Kwan",
+        "ResponsiblePartyInvestigatorTitle": "Clinical Associate Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "The University of Hong Kong"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "The University of Hong Kong",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Dementias Platform UK",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The HKU Neurocognitive Disorder (NCD) Cohort is a hospital-based, prospective, observational study of older HK Chinese adults with cognitive impairment, with a special focus on studying patients with subjective cognitive decline and mild cognitive impairment.",
+      "DetailedDescription": "The HKU Neurocognitive Disorder (NCD) Cohort is a hospital-based, prospective, observational study of older HK Chinese adults with cognitive impairment, with a special focus on studying patients with subjective cognitive decline and mild cognitive impairment, and in particular the biomarkers that predict cognitive and functional decline.\n\nComprehensive profiling of each subject is performed through a multi-domain assessment protocol including detailed demographics, lifestyle factors, neuropsychological battery, mood, MRI, genetics, blood biomarkers, and other patient-centred parameters including level of disability, quality of life and societal engagement. Ongoing annual follow up captures the essential clinical events and changes in neurocognitive function (conversion to MCI or dementia), mood, level of disability and quality of life; as well as repeat blood tests.\n\nThe HKU NCD Cohort is the first-ever Asian dementia cohort to be formally included into the Dementia Platforms UK, achieving an international collaborative status with other UK-based cohorts. The study neuropsychological battery is aligned with the NACC UDS3 battery."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Neurocognitive Disorder",
+          "Mild Cognitive Impairment",
+          "Alzheimer Dementia",
+          "Vascular Dementia",
+          "Age-related Cognitive Decline"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Subjective cognitive decline",
+          "Mild Cognitive Impairment",
+          "Dementia",
+          "Cerebral aging"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "Yes",
+      "TargetDuration": "5 Years",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "Venous blood at baseline and at yearly follow up"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "500",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Cognitively normal controls (CNC)",
+            "ArmGroupDescription": "No subjective memory complaints Normal HK-MoCA Normal instrumental ADL All interventions as described",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Neurocognitive battery",
+                "Diagnostic Test: MRI",
+                "Biological: Blood tests",
+                "Diagnostic Test: EEG with event-related potential (ERP)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Subjective cognitive decline (SCD)",
+            "ArmGroupDescription": "Subjective memory complaints Normal HK-MoCA Normal instrumental ADL All interventions as described",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Neurocognitive battery",
+                "Diagnostic Test: MRI",
+                "Biological: Blood tests",
+                "Diagnostic Test: EEG with event-related potential (ERP)",
+                "Diagnostic Test: Amyloid PET CT"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Mild cognitive impairment (MCI)",
+            "ArmGroupDescription": "Subjective memory complaints Low HK-MoCA Normal instrumental ADL All interventions as described",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Neurocognitive battery",
+                "Diagnostic Test: MRI",
+                "Biological: Blood tests",
+                "Diagnostic Test: EEG with event-related potential (ERP)",
+                "Diagnostic Test: Amyloid PET CT"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Alzheimer's dementia",
+            "ArmGroupDescription": "Subjective memory complaints Low HK-MoCA Poor instrumental ADL Probable Alzheimer's disease All interventions as described except EEG with ERP",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Neurocognitive battery",
+                "Diagnostic Test: MRI",
+                "Biological: Blood tests",
+                "Diagnostic Test: Amyloid PET CT"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Vascular dementia",
+            "ArmGroupDescription": "Subjective memory complaints Low HK-MoCA Poor instrumental ADL Related to stroke / cerebrovascular disease All interventions as described except EEG with ERP",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Neurocognitive battery",
+                "Diagnostic Test: MRI",
+                "Biological: Blood tests",
+                "Diagnostic Test: Amyloid PET CT"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "Neurocognitive battery",
+            "InterventionDescription": "Cognitive impairment status (SCD, MCI, dementia), HK-MoCA, Clinical Dementia Rating (CDR sum of squares), Geriatric Depression Scale (GDS-15), Neuropsychiatric Index (NPI), Barthel Index, Lawton's IADL, Life-Space Assessment, Mini-Nutrition Assessment (MNA), Quality of Life for Alzheimer's Disease (QoL-AD, patient and carer parts), frailty status (FRAIL scale), handgrip strength, walking speed, exercise status, sleep quality, Charlson comorbidity index (CCI, age-adjusted).\n\nNACC: Story recall, Benson's complex figure copy, colour trail test (black & white), verbal fluency, digit forward and backward span.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Alzheimer's dementia",
+                "Cognitively normal controls (CNC)",
+                "Mild cognitive impairment (MCI)",
+                "Subjective cognitive decline (SCD)",
+                "Vascular dementia"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "MRI",
+            "InterventionDescription": "MRI: T1, T2, FLAIR, SWI, DTI, fMRI, ASL, MRS, for selected patients",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Alzheimer's dementia",
+                "Cognitively normal controls (CNC)",
+                "Mild cognitive impairment (MCI)",
+                "Subjective cognitive decline (SCD)",
+                "Vascular dementia"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Blood tests",
+            "InterventionDescription": "Stored samples (unanalysed): serum, plasma, buffy coat (PBMC); also processed for microvesicles and exosome analysis",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Alzheimer's dementia",
+                "Cognitively normal controls (CNC)",
+                "Mild cognitive impairment (MCI)",
+                "Subjective cognitive decline (SCD)",
+                "Vascular dementia"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "EEG with event-related potential (ERP)",
+            "InterventionDescription": "128-channel EEG with ERP for Go/NoGo and Prospective Memory (PM) tasks for selected patients",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cognitively normal controls (CNC)",
+                "Mild cognitive impairment (MCI)",
+                "Subjective cognitive decline (SCD)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "Amyloid PET CT",
+            "InterventionDescription": "F18 Flutametamol PET CT for selected patients",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Alzheimer's dementia",
+                "Mild cognitive impairment (MCI)",
+                "Subjective cognitive decline (SCD)",
+                "Vascular dementia"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Cognitive decline",
+            "PrimaryOutcomeDescription": "Change in total HK-MoCA score between baseline and follow-up",
+            "PrimaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Functional decline",
+            "SecondaryOutcomeDescription": "Change in Lawton's IADL score between baseline and follow-up",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Neuropsychiatric decline",
+            "SecondaryOutcomeDescription": "Change in Neuropsychiatric Index (NPI) between baseline and follow-up",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of life decline",
+            "SecondaryOutcomeDescription": "Change in QoL-AD score between baseline and follow-up",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in cognitive impairment status",
+            "SecondaryOutcomeDescription": "Progression to mild cognitive impairment (MCI) or dementia status",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nOlder adults with or without neurocognitive disoder. HKU NCD Cohort focuses primarily on people with Subjective Cognitive Decline (SCD) and Mild Cognitive Impairment (MCI).\n\nExclusion Criteria:\n\nSevere Parkinson's disease, major depressive disorder or severe psychiatric conditions, significant communication difficulties (e.g. aphasia, deafness), terminal cancer or likely end-of-life in the next 12 months.",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Older adults with or without neurocognitive disoder. HKU NCD Cohort focuses primarily on people with Subjective Cognitive Decline (SCD) and Mild Cognitive Impairment (MCI).",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Joseph SK Kwan, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+85222554769",
+            "CentralContactEMail": "jskkwan@hku.hk"
+          },
+          {
+            "CentralContactName": "Charlene Cheng, BA",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+85222554769",
+            "CentralContactEMail": "cychar@hku.hk"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Joseph SK Kwan, MD",
+            "OverallOfficialAffiliation": "The University of Hong Kong",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Department of Medicine, Queen Mary Hospital, The University of Hong Kong",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Hong Kong",
+            "LocationCountry": "Hong Kong",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Joseph SK Kwan, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+85222554769",
+                  "LocationContactEMail": "jskkwan@hku.hk"
+                },
+                {
+                  "LocationContactName": "Charlene Cheng, BA",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+85222554769",
+                  "LocationContactEMail": "cychar@hku.hk"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Profile of PI",
+            "SeeAlsoLinkURL": "http://hub.hku.hk/cris/rp/rp01868"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "Share with Dementias Platform UK (www.dementiasplatform.uk)",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Study Protocol",
+          "Statistical Analysis Plan (SAP)",
+          "Informed Consent Form (ICF)",
+          "Clinical Study Report (CSR)",
+          "Analytic Code"
+        ]
+      },
+      "IPDSharingTimeFrame": "Due to be shared from 2017, indefinitely.",
+      "IPDSharingAccessCriteria": "Via Dementias Platform UK (www.dementiasplatform.uk)",
+      "IPDSharingURL": "http://www.dementiasplatform.uk"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003704",
+            "ConditionMeshTerm": "Dementia"
+          },
+          {
+            "ConditionMeshId": "D000000544",
+            "ConditionMeshTerm": "Alzheimer Disease"
+          },
+          {
+            "ConditionMeshId": "D000015140",
+            "ConditionMeshTerm": "Dementia, Vascular"
+          },
+          {
+            "ConditionMeshId": "D000060825",
+            "ConditionMeshTerm": "Cognitive Dysfunction"
+          },
+          {
+            "ConditionMeshId": "D000019965",
+            "ConditionMeshTerm": "Neurocognitive Disorders"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001523",
+            "ConditionAncestorTerm": "Mental Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000024801",
+            "ConditionAncestorTerm": "Tauopathies"
+          },
+          {
+            "ConditionAncestorId": "D000019636",
+            "ConditionAncestorTerm": "Neurodegenerative Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003072",
+            "ConditionAncestorTerm": "Cognition Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000002561",
+            "ConditionAncestorTerm": "Cerebrovascular Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000002537",
+            "ConditionAncestorTerm": "Intracranial Arteriosclerosis"
+          },
+          {
+            "ConditionAncestorId": "D000020765",
+            "ConditionAncestorTerm": "Intracranial Arterial Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000056784",
+            "ConditionAncestorTerm": "Leukoencephalopathies"
+          },
+          {
+            "ConditionAncestorId": "D000001161",
+            "ConditionAncestorTerm": "Arteriosclerosis"
+          },
+          {
+            "ConditionAncestorId": "D000001157",
+            "ConditionAncestorTerm": "Arterial Occlusive Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M28858",
+            "ConditionBrowseLeafName": "Cognitive Dysfunction",
+            "ConditionBrowseLeafAsFound": "Mild Cognitive Impairment",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3037",
+            "ConditionBrowseLeafName": "Alzheimer Disease",
+            "ConditionBrowseLeafAsFound": "Alzheimer's Dementia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6056",
+            "ConditionBrowseLeafName": "Dementia",
+            "ConditionBrowseLeafAsFound": "Dementia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17013",
+            "ConditionBrowseLeafName": "Dementia, Vascular",
+            "ConditionBrowseLeafAsFound": "Vascular Dementia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M20989",
+            "ConditionBrowseLeafName": "Neurocognitive Disorders",
+            "ConditionBrowseLeafAsFound": "Neurocognitive Disorders",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3967",
+            "ConditionBrowseLeafName": "Mental Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13625",
+            "ConditionBrowseLeafName": "Psychotic Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22155",
+            "ConditionBrowseLeafName": "Tauopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20711",
+            "ConditionBrowseLeafName": "Neurodegenerative Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5453",
+            "ConditionBrowseLeafName": "Cognition Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4962",
+            "ConditionBrowseLeafName": "Cerebrovascular Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3621",
+            "ConditionBrowseLeafName": "Arteriosclerosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4938",
+            "ConditionBrowseLeafName": "Intracranial Arteriosclerosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21674",
+            "ConditionBrowseLeafName": "Intracranial Arterial Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27744",
+            "ConditionBrowseLeafName": "Leukoencephalopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3617",
+            "ConditionBrowseLeafName": "Arterial Occlusive Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2192",
+            "ConditionBrowseLeafName": "Familial Alzheimer Disease",
+            "ConditionBrowseLeafAsFound": "Alzheimer's Dementia",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BXM",
+            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

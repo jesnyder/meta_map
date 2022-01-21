@@ -1,0 +1,379 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01967186",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "SIK01"
+      },
+      "Organization": {
+        "OrgFullName": "The Nordic Network For Clinical Islet Transplantation",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Intraportal or Intramuscular Site for Islets in Simultaneous Islet and Kidney Transplantation",
+      "OfficialTitle": "Open Multi-Center Randomized Study to Compare Safety and Efficacy of Islet Transplantation Using The Intraportal or Intramuscular Site in Simultaneous Islet and Kidney Transplantation"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2015",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 2007"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2016",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 2016",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 16, 2013",
+      "StudyFirstSubmitQCDate": "October 17, 2013",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 22, 2013",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "October 5, 2015",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 6, 2015",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "The Nordic Network For Clinical Islet Transplantation",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Islet transplantation is a promising treatment of type 1 diabetes in selected cases. Results are however hampered by a relatively low number of islets surviving the transplantation into the liver, which currently is the site for transplantation. In the present study we compare a new transplantation site (intramuscular in the arm) to the golden standard (the liver) in patients undergoing kidney transplantation from the same donor. In half of the intramuscular transplanted patients, the islets will be mixed with mesenchymal stemcells from the recipient to, possibly, improve the immunological aspects of the transplantation."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Type 1 Diabetes",
+          "End Stage Renal Disease"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Type 1 diabetes",
+          "islets",
+          "transplantation",
+          "nephropathy",
+          "intramuscular"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "36",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Intraportal islet transplantation",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subject randomized to the protocol with intraportal islet transplantation and kidney transplantation",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Intraportal islet transplantation",
+                "Procedure: Kidney transplantation"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Intramuscular islet transplantation",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subject randomized to the protocol with intramuscular islet transplantation and kidney transplantation",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Intramuscular islet transplantation",
+                "Procedure: Kidney transplantation"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Intramuscular transpl with stemcells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subject randomized to the protocol with intramuscular islet transplantation and where islets have been incubated autologous mesenchymal stemcells. Will also receive kidney transplant",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Intramuscular transpl with stemcells",
+                "Procedure: Kidney transplantation"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Kidney transplantation only",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Subject that only undergoes kidney transplantation",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Kidney transplantation"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Intraportal islet transplantation",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Intraportal islet transplantation"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Intramuscular islet transplantation",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Intramuscular islet transplantation"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Intramuscular transpl with stemcells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Intramuscular transpl with stemcells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Kidney transplantation",
+            "InterventionDescription": "All patients will undergo kidney transplantation regardless of arm",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Intramuscular islet transplantation",
+                "Intramuscular transpl with stemcells",
+                "Intraportal islet transplantation",
+                "Kidney transplantation only"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "C-peptide derived from the Mixed Meal Tolerance Test (MMTT)",
+            "PrimaryOutcomeDescription": "Percentage of patients in each study group reaching a systemic C-peptide derived from the MMTT above 0.1 nmol/L basal (fasting) and 90-min 0.3 nmol/L 75 (+/-5) and 365 days (+/-14) after kidney transplantation",
+            "PrimaryOutcomeTimeFrame": "365 days (+/-14) after kidney transplantation"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale and female patients age 18 to 65 years of age.\nAbility to provide written informed consent.\nMentally stable and able to comply with the procedures of the study protocol.\nClinical history compatible with type 1 diabetes with onset of disease at < 40 years of age and insulin-dependence for > 5 years at the time of enrolment.\nAbsence of stimulated C-peptide <0.1 nmol/L in response to a MMTT.\nAll subjects must have received adequate medical treatment of their diabetes under the guidance from an experienced diabetologist.\nAll subjects must have renal failure and be eligible for renal transplantation according to local criteria.\n\nExclusion Criteria:\n\nPatients with prior organ transplants\nPatients that qualify for local simultaneous pancreas-kidney transplantation program and who prefer that option\nPatients with body mass index BMI > 28.\nInsulin requirement > 1 Unit/kg/day. If the patient is on peritoneal dialysis the same limit is set when the extra carbohydrates in the dialysis fluids have been accounted for.\nConsistently abnormal liver function tests ( > 1.5 x the upper limit of normal on two consecutive measurements > 2 weeks apart)\nUnstable diabetic retinopathy\nHypercoagulability disorder or coagulopathy or International normalized ratio (INR)>1.5\nAny history of malignancy except for completely resected squamous or basal cell carcinoma of the skin\nPatients with unstable cardiovascular status\nPatients with active infections, unless treatment is not judged necessary by the investigators\nPatients with serological evidence of infection with HIV, hepatitis B (patients with serology consistent with previous vaccination and a history of vaccination are acceptable) or hepatitis C.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Kaija Salmela, MD PhD",
+            "OverallOfficialAffiliation": "Kidney Transplant Unit, Helsinki University Hospital, Helsinki, Finland",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007676",
+            "ConditionMeshTerm": "Kidney Failure, Chronic"
+          },
+          {
+            "ConditionMeshId": "D000003922",
+            "ConditionMeshTerm": "Diabetes Mellitus, Type 1"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000003920",
+            "ConditionAncestorTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionAncestorId": "D000044882",
+            "ConditionAncestorTerm": "Glucose Metabolism Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007674",
+            "ConditionAncestorTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000051436",
+            "ConditionAncestorTerm": "Renal Insufficiency, Chronic"
+          },
+          {
+            "ConditionAncestorId": "D000051437",
+            "ConditionAncestorTerm": "Renal Insufficiency"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6269",
+            "ConditionBrowseLeafName": "Diabetes Mellitus, Type 1",
+            "ConditionBrowseLeafAsFound": "Type 1 Diabetes",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9851",
+            "ConditionBrowseLeafName": "Kidney Failure, Chronic",
+            "ConditionBrowseLeafAsFound": "End Stage Renal Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M25871",
+            "ConditionBrowseLeafName": "Renal Insufficiency",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24556",
+            "ConditionBrowseLeafName": "Glucose Metabolism Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25870",
+            "ConditionBrowseLeafName": "Renal Insufficiency, Chronic",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

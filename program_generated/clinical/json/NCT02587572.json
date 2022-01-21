@@ -1,0 +1,313 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02587572",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "00-0000-02"
+      },
+      "Organization": {
+        "OrgFullName": "Longeveron Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Safety and Efficacy Trial Using Allogeneic Human Mesenchymal Stem Cells: The SIRONA Trial",
+      "OfficialTitle": "A Randomized, Blinded and Placebo-controlled Trial to Evaluate the Safety and Efficacy of Allogeneic Human Mesenchymal Stem Cells in Patients With Metabolic Syndrome.",
+      "Acronym": "SIRONA"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 23, 2015",
+      "StudyFirstSubmitQCDate": "October 23, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 27, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "August 12, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 16, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Longeveron Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a phase 2b, randomized, placebo-controlled clinical trial designed to evaluate the safety and efficacy of Longeveron Mesenchymal Stem Cells (LMSCs) in subjects with metabolic syndrome and to assess the effects of LMSCs on endothelial function using several different doses.",
+      "DetailedDescription": "This is a randomized, placebo-controlled clinical trial designed to evaluate the safety and efficacy of Longeveron Mesenchymal Stem Cells (LMSCs) in subjects with metabolic syndrome and to assess the effects of LMSCs on endothelial function using several different doses. Following a successful run-in phase, a total of forty (40) subjects will be randomized (1:1:1:1) to receive one of three different doses of LMSCs or placebo. After randomization, baseline imaging, testing and study product infusion, subjects will be followed up at 24 hours, month 1, month 3, month 6, month 9 and month 12 post study product infusion. All endpoints will be assessed at the 3, 6 and 12 month visits which will occur 90±30 days, 180±30 days, and 365±30 days respectively from the day of the study product infusion (Day 1). For the purposes of the endpoint analysis and safety evaluations, an \"intent-to-treat\" study population will be utilized."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Metabolic Disease",
+          "Endothelial Dysfunction"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "LMSCs 10 million IV",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "A total of 10 subjects will receive: A single peripheral intravenous (IV) infusion of 10 x10^6 (10 million) of LMSCs to be administered on day 1.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Peripheral Intravenous (IV) infusion of LMSCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo (Plasmalyte A,HSA) IV",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "10 subjects will receive: A single peripheral intravenous (IV) infusion of Plasmalyte A containing human serum albumin (HSA) to be administered on day 1.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Peripheral Intravenous (IV) infusion of LMSCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "LMSCs 20 million IV",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "10 subjects will receive: A single peripheral intravenous (IV) infusion of 20x10^6 (20 million) LMSCs to be administered on day 1.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Peripheral Intravenous (IV) infusion of LMSCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "LMSCs100 million IV",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "10 subjects will receive: A single peripheral intravenous (IV) infusion of 100x10^6 (100 million) LMSCs to be administered on day 1.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Peripheral Intravenous (IV) infusion of LMSCs"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Peripheral Intravenous (IV) infusion of LMSCs",
+            "InterventionDescription": "Peripheral Intravenous (IV) infusion of LMSCs",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "LMSCs 10 million IV",
+                "LMSCs 20 million IV",
+                "LMSCs100 million IV",
+                "Placebo (Plasmalyte A,HSA) IV"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "LMSCs",
+                "Biological"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Endothelial function: Changes in endothelial function as assessed by the following:",
+            "PrimaryOutcomeDescription": "Flow-mediated vasodilation (FMD). Endothelial progenitor cell (EPC) function.",
+            "PrimaryOutcomeTimeFrame": "1 month post infusion"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Difference in rate of change in the metabolic syndrome as defined by the following:",
+            "SecondaryOutcomeDescription": "Endothelial function (FMD, EPC function) Inflammatory markers (CBC with differential, TNFα, CRP, IL-1, IL-6, D-dimer, Fibrinogen) Heart function and structure (Dobutamine Stress Echocardiography) Blood pressure Lipid profile (HDL; LDL; triglycerides; cholesterol) Physical activity (6 minute walk test and CHAMPS questionnaire) Lung function (spirometry) Glycemia (hemoglobin A1c;fasting glucose; urine glucose) Weight Subject quality of life (QOL) (QOL assessments).",
+            "SecondaryOutcomeTimeFrame": "Baseline, 3 month, 6 month and 12 months."
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nEach subject must provide written informed consent.\nEach subject must be ≥45 and ≤ 85 years of age at the time of signing the Informed Consent Form.\nEach subject must have endothelial dysfunction.\n\nAt the time of enrollment, each subject must meet at least 3 out of the 5 criteria under the harmonized definition of the metabolic syndrome, consisting of the following\n\nHypertension.\nElevated triglycerides.\nReduced high-density lipoprotein (HDL) levels.\nElevated fasting glucose. --Central obesity.\n\nExclusion Criteria:\n\nBe unable and/or unwilling to perform any of the assessments required for endpoint analysis.\nHave diabetic retinopathy.\nSitting or resting systolic blood pressure >180 mm Hg or diastolic blood pressure >110 mm Hg at Screening.\nHave a resting blood oxygen saturation of <93% (measured by pulse oximetry).\nBe hypersensitive to dimethyl sulfoxide (DMSO).\nHave a history of alcohol or drug abuse within the past 24 months.\nHave been diagnosed with malignancy within the past 5 years, with the exception of curatively-treated basal cell carcinoma, melanoma in situ or cervical carcinoma.\nBe an organ transplant recipient.\nBe actively listed (or expected to be listed) for transplant of any organ.\nHave a condition that limits life expectancy to < 1 year.\nBe serum positive for HIV, hepatitis B sAG or viremic hepatitis C.\nBe a female who is pregnant, nursing, or of childbearing potential while not practicing effective contraception (female patients must undergo a blood or urine pregnancy test at screening and within 36 hours prior to injection).\nHave any serious comorbid illness or other condition that, in the opinion of the Investigator, may compromise the safety or compliance of the subject or preclude successful completion of the study.\nBe currently participating in an investigational therapeutic or device trial.\nBe currently participating in an investigational therapeutic or device trial, or have participated in an investigational therapeutic or device trial within the previous 30 days, or participate in any other clinical trial for the duration of the time that he or she is actively participating in this trial.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "45 Years",
+      "MaximumAge": "85 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Anthony Oliva, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "(305) 909-0840",
+            "CentralContactEMail": "aoliva@longeveron.com"
+          },
+          {
+            "CentralContactName": "Geoff Green",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "(305) 909-0840",
+            "CentralContactEMail": "ggreen@longeveron.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Anthony Oliva, PhD",
+            "OverallOfficialAffiliation": "Longeveron Inc.",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008659",
+            "ConditionMeshTerm": "Metabolic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22158",
+            "ConditionBrowseLeafName": "Metabolic Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafAsFound": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M85407",
+            "InterventionBrowseLeafName": "Plasma-lyte 148",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8814",
+            "InterventionBrowseLeafName": "Altretamine",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          }
+        ]
+      }
+    }
+  }
+}

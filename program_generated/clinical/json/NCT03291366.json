@@ -1,0 +1,240 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03291366",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MSC-CNS2017"
+      },
+      "Organization": {
+        "OrgFullName": "Fuzhou General Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cells in Central Nervous System injury2017",
+      "OfficialTitle": "Intrathecal Injection of Mesenchymal Stem Cells in Central Nervous System injury2017"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2017",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 20, 2017",
+      "StudyFirstSubmitQCDate": "September 20, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "September 25, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 20, 2017",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 25, 2017",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Jianming Tan",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Fuzhou General Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Fuzhou General Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Central nervous system (CNS) injury leads to morbidity in patients, which has few good rehabilitation measures. Mesenchymal stem cells seem to have regenerative and tissue-repairing capabilities. The investigators design this study to infuse mesenchymal stem cells (MSCs) intrathecally to CNS injury patients, and observe the safety and efficacy by recording the change of nervous system scores, trying to prove the effect of MSC in rehabilitate CNS injury."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Central Nervous System Injury"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "MSC",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "infusion of aUCMSC and conventional therapy",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: UCMSCC",
+                "Drug: conventional treatment"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "conventional",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "conventional therapy",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: conventional treatment"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "UCMSCC",
+            "InterventionDescription": "infusion of aUCMSC and conventional therapy",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "conventional treatment",
+            "InterventionDescription": "conventional treatment",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC",
+                "conventional"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "life quality score",
+            "PrimaryOutcomeTimeFrame": "1y"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "adverse events",
+            "SecondaryOutcomeTimeFrame": "1y"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nCNS injury > 3 months\nage > 18 years\nwilling to give consent\nstable vital signs\nabsence of active infectcion\n\nExclusion Criteria:\n\nany contradiction to intrathecal infusion\nage < 18 years\nCNS injury < 3 months\nCNS injury > 3 years",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000020196",
+            "ConditionMeshTerm": "Trauma, Nervous System"
+          },
+          {
+            "ConditionMeshId": "D000014947",
+            "ConditionMeshTerm": "Wounds and Injuries"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M21176",
+            "ConditionBrowseLeafName": "Trauma, Nervous System",
+            "ConditionBrowseLeafAsFound": "Nervous System Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafAsFound": "Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02706119",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "FPS-INSUPAR-2015-01"
+      },
+      "Organization": {
+        "OrgFullName": "Andalusian Network for Design and Translation of Advanced Therapies",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Insulin in Total Parenteral Nutrition",
+      "OfficialTitle": "Subcutaneous Versus Intravenous Basal Insulin in Non-critical Hospitalized Diabetic Patients That Receive Total Parenteral Nutrition",
+      "Acronym": "INSUPAR"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2018",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 1, 2016",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 31, 2018",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 4, 2018",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "February 16, 2016",
+      "StudyFirstSubmitQCDate": "March 7, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 11, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "May 22, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 24, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Fundación Pública Andaluza Progreso y Salud",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Analyze the level of metabolic control achieved with a routine of regular insulin in the parenteral nutrition (PN) reservoir in addition to subcutaneous glargine insulin, versus only regular insulin in the PN reservoir.",
+      "DetailedDescription": "A pattern of basal insulin (using subcutaneous insulin glargine and regulating the stock as prandial), plus regular subcutaneous insulin as rescue, applied to total parenteral nutrition (TPN) should be as effective (glycemic control, variability) and safe (hypoglycemia) as the usual (regular insulin inside the TPN reservoir and subcutaneous insulin as rescue) in patients with type 2 diabetes critics."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Diabetes Mellitus"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "total parenteral nutrition",
+          "glargine insulin",
+          "insulin"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 4"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Screening",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "163",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Glargine insulin",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Single dose glargine insulin (basal component) + regular insulin within total parenteral nutrition (TPN) reservoir (prandial component). 50% of the total calculated dose of insulin is administered subcutaneously as single dose subcutaneous glargine insulin; remaining 50% of the total calculated dose of insulin is administered as regular insulin in the TPN reservoir. Interventions used: Intravenous glargine insulin, and regular insulin added to TPN bag",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Subcutaneous glargine insulin",
+                "Drug: Regular insulin added to TPN bag"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Regular insulin",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Regular insulin added to TPN bag (basal + prandial component). The calculated total dose of insulin is administered as regular insulin in the TPN reservoir. Interventions used: Regular insulin added to TPN bag",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Regular insulin added to TPN bag"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Subcutaneous glargine insulin",
+            "InterventionDescription": "Glargine insuline is an insulin analogue which has a prolonged duration of action. Insulin glargine is obtained by recombinant DNA technology in Escherichia coli.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Glargine insulin"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "ATC code A10AE0",
+                "Lantus®",
+                "Abasaglar®"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Regular insulin added to TPN bag",
+            "InterventionDescription": "Regular insulin is human insulin produced in Saccharomyces cerevisiae by recombinant DNA technology.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Glargine insulin",
+                "Regular insulin"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "ATC code A10AB01",
+                "Actrapid®"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Basal blood glucose value before starting TPN",
+            "PrimaryOutcomeDescription": "Basal glucose value before starting TPN (in mg/dL).",
+            "PrimaryOutcomeTimeFrame": "Before starting total parenteral nutrition"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Periodical blood glucose",
+            "PrimaryOutcomeDescription": "All blood glucose values (in mg/dL) every 6 hours during 15 days of TPN infusion.",
+            "PrimaryOutcomeTimeFrame": "Every 6h during 15 days of treatment"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Variation of average blood glucose compared with total dose of insulin",
+            "PrimaryOutcomeDescription": "Variation of average glucose (in mg/dL) compared with total dose of insulin (in mL), in days 1, 5 and 15 of treatment.",
+            "PrimaryOutcomeTimeFrame": "In days 1, 5 and 15 of treatment"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of hypoglycaemia",
+            "PrimaryOutcomeDescription": "Number of symptomatic and asymptomatic hypoglycaemia with blood glucose below 70 mg/dL during TPN treatment up to 15 days.",
+            "PrimaryOutcomeTimeFrame": "During TPN treatment up to 15 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of severe hypoglycaemia",
+            "PrimaryOutcomeDescription": "Number of symptomatic and asymptomatic hypoglycaemia with blood glucose below 40 mg/dL during TPN treatment up to 15 days.",
+            "PrimaryOutcomeTimeFrame": "During TPN treatment up to 15 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Hypoglycemia blood glucose values",
+            "PrimaryOutcomeDescription": "If the patient refers typical symptoms of hypoglycemia, a measure of blood glucose (in mg/mL) is immediately taken to check the level",
+            "PrimaryOutcomeTimeFrame": "Through study completion, an average of 15 days."
+          },
+          {
+            "PrimaryOutcomeMeasure": "Hypoglycemia symptoms",
+            "PrimaryOutcomeDescription": "If blood glucose <70 mg / dL, it is recorded whether or not the patient has symptoms consistent with hypoglycemia and how the episode terminates",
+            "PrimaryOutcomeTimeFrame": "Through study completion, an average of 15 days."
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Standard deviation of blood glucose",
+            "SecondaryOutcomeDescription": "Standard deviation of blood glucose (SD): Expressed in milligrams per deciliter (in mg/dL).",
+            "SecondaryOutcomeTimeFrame": "At day 15 of treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Blood glucose coefficient of variation (CV)",
+            "SecondaryOutcomeDescription": "Coefficient of variation (CV): Expressed as a percentage (%). The ratio of the standard deviation of the blood glucoses values (in mg/dL) and the average blood glucose (in mg/dL), multiplied by 100.",
+            "SecondaryOutcomeTimeFrame": "At day 15 of treatment"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Infections related with catheter used in parenteral nutrition",
+            "OtherOutcomeDescription": "Investigator asses the occurrence of infectious complications in parenteral nutrition catheter. For the evaluation of the infections, temperature is collected daily and patient will perform a blood test weekly. It will be suspected infectious complication for any sudden onset of fever (usually \"peaks\"), with no other apparent source of infection.",
+            "OtherOutcomeTimeFrame": "At day 15 of treatment"
+          },
+          {
+            "OtherOutcomeMeasure": "Hypertriglyceridemia",
+            "OtherOutcomeDescription": "A determination above this value will be considered a complication: Hypertriglyceridemia ≥500 mg/dL",
+            "OtherOutcomeTimeFrame": "Every 6h during 15 days of treatment."
+          },
+          {
+            "OtherOutcomeMeasure": "Hypernatremia",
+            "OtherOutcomeDescription": "A determination above this value will be considered a complication: Hypernatremia >150 mEq/L",
+            "OtherOutcomeTimeFrame": "Every 6h during 15 days of treatment."
+          },
+          {
+            "OtherOutcomeMeasure": "Hyponatremia",
+            "OtherOutcomeDescription": "A determination below this value will be considered a complication: Hyponatremia <135 mEq/L",
+            "OtherOutcomeTimeFrame": "Every 6h during 15 days of treatment."
+          },
+          {
+            "OtherOutcomeMeasure": "Hypokalemia",
+            "OtherOutcomeDescription": "A determination below this value will be considered a complication: Hypokalemia <3 mEq/L",
+            "OtherOutcomeTimeFrame": "Every 6h during 15 days of treatment."
+          },
+          {
+            "OtherOutcomeMeasure": "Hypomagnesemia",
+            "OtherOutcomeDescription": "A determination below this value will be considered a complication: Hypomagnesemia <1.2 mg/dL",
+            "OtherOutcomeTimeFrame": "Every 6h during 15 days of treatment."
+          },
+          {
+            "OtherOutcomeMeasure": "Hypophosphatemia",
+            "OtherOutcomeDescription": "A determination below this value will be considered a complication: Hypophosphatemia <2 mg/dL",
+            "OtherOutcomeTimeFrame": "Every 6h during 15 days of treatment."
+          },
+          {
+            "OtherOutcomeMeasure": "Hyperchloremia",
+            "OtherOutcomeDescription": "A determination above this value will be considered a complication: Hyperchloremia >120 mEq/L",
+            "OtherOutcomeTimeFrame": "Every 6h during 15 days of treatment."
+          },
+          {
+            "OtherOutcomeMeasure": "Hypocalcemia corrected calcium",
+            "OtherOutcomeDescription": "A determination below this value will be considered a complication: Hypocalcemia corrected calcium <8 mg/dL",
+            "OtherOutcomeTimeFrame": "Every 6h during 15 days of treatment."
+          },
+          {
+            "OtherOutcomeMeasure": "Alteration of liver function markers",
+            "OtherOutcomeDescription": "Alteration of liver function markers is defined as an elevation twice higher than normal limits, according to each laboratory, of two of some of the following parameters (when previously normal): GGT, GOT, GPT, FA or total bilirubin, at least 7 days after initiating TPN.",
+            "OtherOutcomeTimeFrame": "At day 7 and 15 of treatment"
+          },
+          {
+            "OtherOutcomeMeasure": "Adverse events",
+            "OtherOutcomeDescription": "All adverse events (AEs) are recorded in the case report data since the moment when the patient signs the informed consent. These events will be defined following the organ classification database of MedDRA system.",
+            "OtherOutcomeTimeFrame": "At day 15 of treatment"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAdults (>18 years)\nPreviously diagnosed with diabetes mellitus.\nHospitalized but without intensive cares.\nHave indication of total parenteral nutritional support (TPN, meaning the covering over 70% of the estimated daily requirements intravenously) for a minimum of 5 days.\nSignature of informed consent.\n\nExclusion Criteria:\n\nDiabetes mellitus type 1, diabetes secondary to total pancreatectomy.\nPatients with intensive cares.\nPatients who have been prescribed TPN in intensive cares unity more than 48 hours before admission to hospitalization.\nIntradialytic parenteral nutrition.\nPatients under 18 or pregnant women.\nPatients with renal insufficiency stage 3 B (glomerular filtration rate < 45 mL / min).",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Gabriel Olveira Fuster, PhD",
+            "OverallOfficialAffiliation": "Hospital Regional de Malaga",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Hospital Arquitecto Marcide-Naval",
+            "LocationCity": "Ferrol",
+            "LocationState": "A Coruña",
+            "LocationZip": "15405",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital de Cabueñes",
+            "LocationCity": "Gijón",
+            "LocationState": "Asturias",
+            "LocationZip": "33394",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital de Mérida",
+            "LocationCity": "Mérida",
+            "LocationState": "Badajoz",
+            "LocationZip": "06800",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Son Llátzer",
+            "LocationCity": "Palma de Mallorca",
+            "LocationState": "Baleares",
+            "LocationZip": "07198",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital General Mancha Centro",
+            "LocationCity": "Alcázar de San Juan",
+            "LocationState": "Ciudad Real",
+            "LocationZip": "13600",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario Principe de Asturias",
+            "LocationCity": "Alcalá de Henares",
+            "LocationState": "Madrid",
+            "LocationZip": "28805",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario de Fuenlabrada",
+            "LocationCity": "Fuenlabrada",
+            "LocationState": "Madrid",
+            "LocationZip": "28942",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario Severo Ochoa",
+            "LocationCity": "Leganés",
+            "LocationState": "Madrid",
+            "LocationZip": "28911",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario Puerta de Hierro",
+            "LocationCity": "Majadahonda",
+            "LocationState": "Madrid",
+            "LocationZip": "28222",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Clínico Universitario Virgen de la Arrixaca",
+            "LocationCity": "El Palmar",
+            "LocationState": "Murcia",
+            "LocationZip": "30150",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Complejo Hospitalario de Navarra",
+            "LocationCity": "Pamplona",
+            "LocationState": "Navarra",
+            "LocationZip": "31008",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Complejo Hospitalario Universitario de Albacete",
+            "LocationCity": "Albacete",
+            "LocationZip": "02008",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital General Universitario de Alicante",
+            "LocationCity": "Alicante",
+            "LocationZip": "03010",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario Infanta Cristina",
+            "LocationCity": "Badajoz",
+            "LocationZip": "06080",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital del Mar",
+            "LocationCity": "Barcelona",
+            "LocationZip": "08003",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario Bellvitge",
+            "LocationCity": "Barcelona",
+            "LocationZip": "08907",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital de Sant Joan Despi Moisès Broggi (Consorci Sanitari Integral)",
+            "LocationCity": "Barcelona",
+            "LocationZip": "08970",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario Reina Sofía",
+            "LocationCity": "Córdoba",
+            "LocationZip": "14006",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario de Guadalajara",
+            "LocationCity": "Guadalajara",
+            "LocationZip": "19002",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Complejo Hospitalario de Jaén",
+            "LocationCity": "Jaén",
+            "LocationZip": "23008",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Complejo Asistencial Universitario de León",
+            "LocationCity": "León",
+            "LocationZip": "24008",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario Gregorio Marañón",
+            "LocationCity": "Madrid",
+            "LocationZip": "28007",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Fundación Jiménez Díaz",
+            "LocationCity": "Madrid",
+            "LocationZip": "28040",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Clínico San Carlos",
+            "LocationCity": "Madrid",
+            "LocationZip": "28040",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Regional Universitario de Málaga",
+            "LocationCity": "Málaga",
+            "LocationZip": "29009",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario Virgen de la Victoria",
+            "LocationCity": "Málaga",
+            "LocationZip": "29010",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario Virgen del Rocío",
+            "LocationCity": "Sevilla",
+            "LocationZip": "41013",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario Nuestra Señora de la Candelaria",
+            "LocationCity": "Tenerife",
+            "LocationZip": "38010",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario y Politécnico La Fe",
+            "LocationCity": "Valencia",
+            "LocationZip": "46026",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Clínico Universitario de Valladolid",
+            "LocationCity": "Valladolid",
+            "LocationZip": "47003",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Clínico Universitario Lozano Blesa",
+            "LocationCity": "Zaragoza",
+            "LocationZip": "50009",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario Miguel Servet",
+            "LocationCity": "Zaragoza",
+            "LocationZip": "50009",
+            "LocationCountry": "Spain"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "30930133",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Olveira G, Abuín J, López R, Herranz S, García-Almeida JM, García-Malpartida K, Ferrer M, Cancer E, Luengo-Pérez LM, Álvarez J, Aragón C, Ocón MJ, García-Manzanares Á, Bretón I, Serrano-Aguayo P, Pérez-Ferre N, López-Gómez JJ, Olivares J, Arraiza C, Tejera C, Martín JD, García S, Abad ÁL, Alhambra MR, Zugasti A, Parra J, Torrejón S, Tapia MJ. Regular insulin added to total parenteral nutrition vs subcutaneous glargine in non-critically ill diabetic inpatients, a multicenter randomized clinical trial: INSUPAR trial. Clin Nutr. 2020 Feb;39(2):388-394. doi: 10.1016/j.clnu.2019.02.036. Epub 2019 Mar 20."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000007328",
+            "InterventionMeshTerm": "Insulin"
+          },
+          {
+            "InterventionMeshId": "C000557859",
+            "InterventionMeshTerm": "Insulin, Globin Zinc"
+          },
+          {
+            "InterventionMeshId": "D000069036",
+            "InterventionMeshTerm": "Insulin Glargine"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000007004",
+            "InterventionAncestorTerm": "Hypoglycemic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9517",
+            "InterventionBrowseLeafName": "Insulin",
+            "InterventionBrowseLeafAsFound": "Cycle",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M172956",
+            "InterventionBrowseLeafName": "Insulin, Globin Zinc",
+            "InterventionBrowseLeafAsFound": "Cycle",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M347",
+            "InterventionBrowseLeafName": "Insulin Glargine",
+            "InterventionBrowseLeafAsFound": "Nasal irrigation",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M16920",
+            "InterventionBrowseLeafName": "Zinc",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9206",
+            "InterventionBrowseLeafName": "Hypoglycemic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "T368",
+            "InterventionBrowseLeafName": "Brewer's Yeast",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Hypo",
+            "InterventionBrowseBranchName": "Hypoglycemic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Micro",
+            "InterventionBrowseBranchName": "Micronutrients"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Ot",
+            "InterventionBrowseBranchName": "Other Dietary Supplements"
+          }
+        ]
+      }
+    }
+  }
+}

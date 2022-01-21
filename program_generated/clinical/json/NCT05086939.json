@@ -1,0 +1,500 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05086939",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "ARTROCELL"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2019-002446-21",
+            "SecondaryIdType": "EudraCT Number"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Multicenter Clinical Trial Comparing Treatment With Allogeneic Mesenchymal Cells Versus Autologous Mesenchymal Cells and Versus Active Control With Hyaluronic Acid in Patients With Knee Osteoarthritis (ARTROCELL)",
+      "OfficialTitle": "Phase III, Multicenter, Randomized, Open-label, Multicenter Clinical Trial Comparing Treatment With Allogeneic Mesenchymal Cells Versus Autologous Mesenchymal Cells and Versus Active Control With Hyaluronic Acid in Patients With Knee Osteoarthritis",
+      "Acronym": "ARTROCELL"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 26, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2025",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2025",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 5, 2021",
+      "StudyFirstSubmitQCDate": "October 8, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 21, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 21, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 28, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Spanish Clinical Research Network - SCReN",
+            "CollaboratorClass": "NETWORK"
+          },
+          {
+            "CollaboratorName": "Hospital Universitari de Bellvitge",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Institut d'Investigacions Biomèdiques August Pi i Sunyer",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Instituto de Investigación Biomédica de Salamanca",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Phase III, multicenter, randomized, open-label, multicenter clinical trial comparing treatment with allogeneic mesenchymal cells versus autologous mesenchymal cells and versus active control with hyaluronic acid in patients with knee osteoarthritis."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Knee Osteoarthritis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "Randomized, Open-label, Clinical Trial comparing 3 active treatments.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "120",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Autologous Mesenchymal Stromal Cells (MSC)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Treatment with 40 millions of autologous autologous adult mesenchymal stem cells from expanded bone marrow administered intra-articularly.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Autologous MSCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Allogenic Mesenchymal Stromal Cells (MSC)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Treatment with 40 millions of adult allogeneic expanded bone marrow mesenchymal stem cells administered intra-articularly.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Allogenic MSCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Active Control",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Hyaluronic Acid 60mg/3ml administered intra-articularly.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Hyaluronic Acid"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Autologous MSCs",
+            "InterventionDescription": "Intra-articular injection 40 million/4 ml.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Autologous Mesenchymal Stromal Cells (MSC)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Allogenic MSCs",
+            "InterventionDescription": "Intra-articular injection 40 million/4 ml.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Allogenic Mesenchymal Stromal Cells (MSC)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Hyaluronic Acid",
+            "InterventionDescription": "Intra-articular injection 60mg / 3 ml .",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Active Control"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Hyaluronic Acid 20 mg/ml"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Range of motion.",
+            "PrimaryOutcomeDescription": "Evaluation of clinical-functional response using Joint range-of-motion evaluation (Flexion score 0º-140º / Extension score -140º-0º /Hiperextension: positive degrees from 0).",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Pain self-assessment.",
+            "PrimaryOutcomeDescription": "Evaluation of pain using Visual Analogue Scale (VAS) (Pain self-assessment score range from 0 -no pain- to 10 -maximum-).",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Knee Osteoarthritis.",
+            "PrimaryOutcomeDescription": "Evaluation of Knee Osteoarthritis using Western Ontario McMaster Universities Osteoarthritis Index (WOMAC) [measures five items for pain (score range from 0 -no pain- to 20 -maximum-), two for stiffness (score range from 0-no stiffness- to 8 -maximum-), and 17 for functional limitation (score range from 0 -no limitation- to 68 -maximum-)]",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Functional response.",
+            "PrimaryOutcomeDescription": "Evaluation of functional response using Lequesne Algofunctional Index (score range from 0 to 24). It includes measures of pain (5 questions), walking distance (1 question) and activities of daily living (4 questions) with separate versions for the hip and knee. The scores for each question are summed to obtain a combined score of disease severity. Scores 1 to 4 are classified as mild osteoarthrosis; 5 to 7, moderate; 8 to 10, severe; 11 to 13, very severe; and 14 and above, extremely severe.",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "X-ray changes of osteoarthritis.",
+            "PrimaryOutcomeDescription": "Radiological response using Kellgren and Lawrence classification system (grade from 0 to 4):\n\ngrade 0 (none): definite absence of x-ray changes of osteoarthritis.\ngrade 1 (doubtful): doubtful joint space narrowing and possible osteophytic lipping.\ngrade 2 (minimal): definite osteophytes and possible joint space narrowing.\ngrade 3 (moderate): moderate multiple osteophytes, definite narrowing of joint space and some sclerosis and possible deformity of bone ends.\ngrade 4 (severe): large osteophytes, marked narrowing of joint space, severe sclerosis and definite deformity of bone ends.",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Radiological response using nuclear magnetic resonance imaging.",
+            "PrimaryOutcomeDescription": "Evaluation of radiological response using T2 mapping nuclear magnetic resonance imaging (screening visit global mean of T2 values versus 12 months visit global mean of T2 values).",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Perceived general well-being.",
+            "SecondaryOutcomeDescription": "Evaluation of quality of life using Short Form-12 Health Survey questionnaire (SF12) [score range from 0 (the worst health status for that dimension) to 100 (the best health status)]",
+            "SecondaryOutcomeTimeFrame": "6, 12 and 24 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Feasibility assessment of a multicentre strategy production of both cell types with several Cell Production Units",
+            "SecondaryOutcomeDescription": "Rate of products not conforming to the validation criteria in each arm of experimental treatment.",
+            "SecondaryOutcomeTimeFrame": "24 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Evaluation of presence of adverse events related with investigational medical product (IMP).",
+            "SecondaryOutcomeDescription": "Rate of adverse events and other pharmacovigilance parameters in the three treatment arms.",
+            "SecondaryOutcomeTimeFrame": "24 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nKnee osteoarthritis Kellgren-Lawrence grade 2, 3 or 4 .\nChronic painful knee of mechanical characteristics.\nAbsence of local or systemic septic process.\nHemacytometric and biochemical analysis without significant alterations that contraindicate treatment.\nWritten informed consent of the patient.\nThe patient is able to understand the nature of the study.\nNEGATIVE serologies: Syphilis, HTLVI-II, HIV, Hepatitis B virus (HBV), Hepatitis C virus (HCV) and HCV PCR (must be repeated if more than 30 days elapse between its completion and the extraction of bone marrow in patients to whom autologous cells correspond).\nBody Mass Index 20-35 Kg/m2.\n\nExclusion Criteria:\n\nPatient < 18 years old, or legally dependent.\nPatient > 75 years old.\nCongenital or evolutive diseases that result in malformation and/or significant deformities of the knee (varus<10º; valgus<20º) that cause difficulties in the application and evaluation of the results.\nPregnant or breastfeeding women.\nNeoplastic disease.\nIntra-articular infiltration of any drug in the 3 months prior to inclusion in the study.\nConcurrent participation in another clinical trial or treatment with another investigational product in the 30 days prior to inclusion in the study.\nAllergy to gentamicin (antibiotic used in the cell culture process).\nOther diseases or circumstances that may compromise the participation in the study according to medical criteria.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Fermín Sánchez-Guijo",
+            "OverallOfficialAffiliation": "IBSAL - University Hospital of Salamanca",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Centro Médico Teknon",
+            "LocationCity": "Barcelona",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Clinic",
+            "LocationCity": "Barcelona",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Clínico Universitario San Carlos",
+            "LocationCity": "Madrid",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Fundación Jiménez Díaz",
+            "LocationCity": "Madrid",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Gregorio Marañón",
+            "LocationCity": "Madrid",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario Virgen de la Arrixaca",
+            "LocationCity": "Murcia",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario Virgen de la Victoria",
+            "LocationCity": "Málaga",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Clínica Universidad de Navarra",
+            "LocationCity": "Pamplona",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Complejo Asistencial Universitario de Salamanca",
+            "LocationCity": "Salamanca",
+            "LocationZip": "37007",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Clínico Universitario de Valladolid",
+            "LocationCity": "Valladolid",
+            "LocationCountry": "Spain"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010003",
+            "ConditionMeshTerm": "Osteoarthritis"
+          },
+          {
+            "ConditionMeshId": "D000020370",
+            "ConditionMeshTerm": "Osteoarthritis, Knee"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001168",
+            "ConditionAncestorTerm": "Arthritis"
+          },
+          {
+            "ConditionAncestorId": "D000007592",
+            "ConditionAncestorTerm": "Joint Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012216",
+            "ConditionAncestorTerm": "Rheumatic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12078",
+            "ConditionBrowseLeafName": "Osteoarthritis",
+            "ConditionBrowseLeafAsFound": "Osteoarthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21321",
+            "ConditionBrowseLeafName": "Osteoarthritis, Knee",
+            "ConditionBrowseLeafAsFound": "Knee Osteoarthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3628",
+            "ConditionBrowseLeafName": "Arthritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9773",
+            "ConditionBrowseLeafName": "Joint Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14197",
+            "ConditionBrowseLeafName": "Rheumatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5475",
+            "ConditionBrowseLeafName": "Collagen Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000006820",
+            "InterventionMeshTerm": "Hyaluronic Acid"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000276",
+            "InterventionAncestorTerm": "Adjuvants, Immunologic"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000055675",
+            "InterventionAncestorTerm": "Viscosupplements"
+          },
+          {
+            "InterventionAncestorId": "D000020011",
+            "InterventionAncestorTerm": "Protective Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9030",
+            "InterventionBrowseLeafName": "Hyaluronic Acid",
+            "InterventionBrowseLeafAsFound": "Stretching",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M2780",
+            "InterventionBrowseLeafName": "Adjuvants, Immunologic",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M27448",
+            "InterventionBrowseLeafName": "Viscosupplements",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21022",
+            "InterventionBrowseLeafName": "Protective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

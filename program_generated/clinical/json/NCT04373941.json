@@ -1,0 +1,515 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04373941",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "HoltermanA"
+      },
+      "Organization": {
+        "OrgFullName": "Holterman, Ai-Xuan, M.D.",
+        "OrgClass": "INDIV"
+      },
+      "BriefTitle": "Part II: Granulocyte-Colony Stimulating Factor Adjunct Therapy for Biliary Atresia",
+      "OfficialTitle": "Granulocyte-Colony Stimulating Factor Adjunct Therapy for Biliary Atresia: Part II of a Prospective, Randomized Controlled, Multi-Institutional Trial",
+      "Acronym": "BA_GCSF2b"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 1, 2020",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 30, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 31, 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "August 13, 2019",
+      "StudyFirstSubmitQCDate": "May 1, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 5, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "May 1, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 5, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Holterman, Ai-Xuan, M.D.",
+        "LeadSponsorClass": "INDIV"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "T Rose Clinical, Inc.",
+            "CollaboratorClass": "UNKNOWN"
+          },
+          {
+            "CollaboratorName": "Big Leap Research",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The Investigators propose to test the hypothesis that GCSF enhances the clinical outcome of biliary atresia in a multi-institutional Phase 2 trial to prospectively evaluate the safety and efficacy of GCSF in each of the 2 groups of newly diagnosed BA patients: KBA (i.e., Kasai-operated) or NoK (i.e., patients who did not undergo Kasai surgery). Subjects who participate in the trial will be followed for 2 years.",
+      "DetailedDescription": "This is a prospective, randomized, multi-institutional trial in KBA and NoK subjects to be conducted under a Food and Drug Administration approved Investigational New Drug application.\n\nThe KBA group is composed of just operated Kasai patients with intraoperative liver biopsy-confirmed BA. Their clinical characteristics have been described in the previously completed Phase 1 study under CR00005169 (ie. inclusion and exclusion criteria as described below)\n\nThe NoK group will be composed of newly diagnosed BA patients, including the following:\n\nsurgical patients in whom the Kasai was not performed for intraoperative technical reasons or due to advanced liver disease, who also have no option for rescue liver transplantation.\nUnoperated patients whose family refuses surgery or who are not operative candidates\n\nHaving met the same inclusion and exclusion criteria as the Kasai KBS group,\n\neligible KBA subjects will be randomized to GCSF vs. no-GCSF at the 10 ug/kg/d dose to be given subcutaneously for 3 consecutive daily doses on the third day following the Kasai procedure.\neligible NoK subjects will be randomized to GCSF vs. no-GCSF at the 10 ug/kg/d dose to be given subcutaneously for 3 consecutive daily doses on the third day following diagnostic liver biopsy."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Biliary Atresia"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "GCSF or No-GCSF",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "400",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Kasai GCSF",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "The Kasai GCSF group will receive the standard of care PLUS 3 consecutive daily doses of 10 ug/kg of GCSF to be administered subcutaneously by day 3 post Kasai surgery",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Filgrastim"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Kasai no GCSF",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "The no GCSF group will not receive GCSF and receives the standard of care"
+          },
+          {
+            "ArmGroupLabel": "No Kasai GCSF",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "The No Kasai GCSF group will receive the standard of care PLUS 3 consecutive daily doses of 10 ug/kg of GCSF to be administered subcutaneously once the diagnosis of BA is established",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Filgrastim"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "No Kasai No GCSF",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "The No Kasai No GCSF group will receive the standard of care and will not receive GCSF"
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Filgrastim",
+            "InterventionDescription": "G-CSF is a glycoprotein produced by monocytes, fibroblasts, and endothelial cells. Filgrastim is a human granulocyte colony stimulating factor (G-CSF) produced by recombinant DNA technology with NEUPOGEN® as the Amgen Inc. trademark for filgrastim. G-CSF regulates the production, proliferation and differentiation of neutrophils and hematopoietic stem cell precursors within the bone marrow leading to dose-dependent increase in circulating neutrophils and hematopoietic stem cells in the blood. It is indicated to reduce the incidence of infection in patients with severe neutropenia, for neutrophil recovery in neutropenic patients with bone marrow depletion, to mobilize hematopoietic progenitor stem cell for collection by leukapheresis in hematopoietic stem cell transplantation.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Kasai GCSF",
+                "No Kasai GCSF"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Neupogen, granulocyte colony stimulating factor"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "GCSF Response on Bile flow (KBA)",
+            "PrimaryOutcomeDescription": "For KBA subjects: Bile flow as measured by the percentage of subjects with total bilirubin< 2 mg/dL at 3 months post-Kasai.",
+            "PrimaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "GCSF Response on transplant-free survival (NoK)",
+            "PrimaryOutcomeDescription": "For NoK subjects: Changes at 6, 12, 18 and 24 months-transplant free survival",
+            "PrimaryOutcomeTimeFrame": "24 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "GCSF response on liver function and outcome (KBA)",
+            "SecondaryOutcomeDescription": "KBA subjects: Pediatric end-stage liver disease (PELD) score at 6, 12, 18, and 24 months after GCSF treatment.",
+            "SecondaryOutcomeTimeFrame": "24 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "GCSF response on liver function and outcome (KBA)",
+            "SecondaryOutcomeDescription": "KBA subjects: Percentage of patients with transplant-free survival at 6, 12, 18 and 24 months",
+            "SecondaryOutcomeTimeFrame": "24 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "GCSF response on liver function and outcome (KBA)",
+            "SecondaryOutcomeDescription": "KBA subjects: Percentage of patients with cholangitis-free transplant-free survival at 6, 12, 18 and 24 months",
+            "SecondaryOutcomeTimeFrame": "24 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "GCSF response on liver function (NoK)",
+            "SecondaryOutcomeDescription": "NoK subjects: Changes in Pediatric end-stage liver disease (PELD) score at 6, 12, 18, and 24 months after GCSF treatment.",
+            "SecondaryOutcomeTimeFrame": "24 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion criteria\n\npreliminary work up for cholestasis suspected or inconclusive diagnosis of BA.\nSerum Direct bilirubin > 2 mg/dl,GGT> 100 U/L\nMale or female infants with a gestational age> 36 weeks\nAdmission weight > 2 kg\nAge > 14 days - 180 days at diagnosis\nFor Kasai operated subjects, Type 3 or 4 anatomy of BA\nFor Kasai operated subjects, cholangiogram (if performed) diagnostic of BA\nLiver biopsy supporting BA diagnosis\n\nExclusion criteria\n\nPatients having access to liver transplantation for immediate liver failure\nPrior Kasai patients\nMajor cardiac, renal, central nervous system (CNS) malformations\nIntracranial hemorrhage\nHistory of recent total parenteral nutrition (TPN) use within the last 2 weeks\n\nGl tract obstruction\n\nFor Kasai-operated subjects: Type 1 or 2 biliary atresia anatomy\n\nCurrent systemic infection\nWBC > 20,000 cells/uL\nPlatelet count < 20,000 cells/uL or >1 million cells/uL\nConcurrent respiratory, metabolic, neurological, cardiovascular, metabolic, and renal illness\nElevated serum creatinine > 1 mg/dL\nPurpura fulminans or unexplained vascular thrombosis",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MaximumAge": "180 Days",
+      "StdAgeList": {
+        "StdAge": [
+          "Child"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "AiXuan Holterman, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "8473340230",
+            "CentralContactEMail": "Aithanh@uic.edu"
+          },
+          {
+            "CentralContactName": "Sherri J Boykin",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "9195596061",
+            "CentralContactEMail": "Sboykin@trclinical.com"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Aga Khan University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Karachi",
+            "LocationCountry": "Pakistan",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Saqib Qazi, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+923018233059",
+                  "LocationContactEMail": "saqib.qazi@aku.edu"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Nation Children's Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Hanoi",
+            "LocationState": "Dong Da District",
+            "LocationCountry": "Vietnam",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Pham Anh Hoa Nguyen, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+84 462738842",
+                  "LocationContactEMail": "drhoanph@yahoo.com"
+                },
+                {
+                  "LocationContactName": "Thuy Trinh, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+84 984078256",
+                  "LocationContactEMail": "bsthuya7@gmail.com"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Children Hospital 1",
+            "LocationStatus": "Enrolling by invitation",
+            "LocationCity": "Ho Chi Minh City",
+            "LocationCountry": "Vietnam"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "29604222",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Bezerra JA, Wells RG, Mack CL, Karpen SJ, Hoofnagle JH, Doo E, Sokol RJ. Biliary Atresia: Clinical and Research Challenges for the Twenty-First Century. Hepatology. 2018 Sep;68(3):1163-1173. doi: 10.1002/hep.29905. Review."
+          },
+          {
+            "ReferencePMID": "24027727",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Chaudhuri J, Mitra S, Mukhopadhyay D, Chakraborty S, Chatterjee S. Granulocyte Colony-stimulating Factor for Preterms with Sepsis and Neutropenia: A Randomized Controlled Trial. J Clin Neonatol. 2012 Oct;1(4):202-6. doi: 10.4103/2249-4847.105993."
+          },
+          {
+            "ReferencePMID": "26725209",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Shneider BL, Magee JC, Karpen SJ, Rand EB, Narkewicz MR, Bass LM, Schwarz K, Whitington PF, Bezerra JA, Kerkar N, Haber B, Rosenthal P, Turmelle YP, Molleston JP, Murray KF, Ng VL, Wang KS, Romero R, Squires RH, Arnon R, Sherker AH, Moore J, Ye W, Sokol RJ; Childhood Liver Disease Research Network (ChiLDReN). Total Serum Bilirubin within 3 Months of Hepatoportoenterostomy Predicts Short-Term Outcomes in Biliary Atresia. J Pediatr. 2016 Mar;170:211-7.e1-2. doi: 10.1016/j.jpeds.2015.11.058. Epub 2015 Dec 24."
+          },
+          {
+            "ReferencePMID": "25749502",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Kedarisetty CK, Anand L, Bhardwaj A, Bhadoria AS, Kumar G, Vyas AK, David P, Trehanpati N, Rastogi A, Bihari C, Maiwall R, Garg HK, Vashishtha C, Kumar M, Bhatia V, Sarin SK. Combination of granulocyte colony-stimulating factor and erythropoietin improves outcomes of patients with decompensated cirrhosis. Gastroenterology. 2015 Jun;148(7):1362-70.e7. doi: 10.1053/j.gastro.2015.02.054. Epub 2015 Mar 4."
+          },
+          {
+            "ReferencePMID": "31335841",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Fanna M, Masson G, Capito C, Girard M, Guerin F, Hermeziu B, Lachaux A, Roquelaure B, Gottrand F, Broue P, Dabadie A, Lamireau T, Jacquemin E, Chardot C. Management of Biliary Atresia in France 1986 to 2015: Long-term Results. J Pediatr Gastroenterol Nutr. 2019 Oct;69(4):416-424. doi: 10.1097/MPG.0000000000002446."
+          },
+          {
+            "ReferencePMID": "29278428",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Verma N, Kaur A, Sharma R, Bhalla A, Sharma N, De A, Singh V. Outcomes after multiple courses of granulocyte colony-stimulating factor and growth hormone in decompensated cirrhosis: A randomized trial. Hepatology. 2018 Oct;68(4):1559-1573. doi: 10.1002/hep.29763. Epub 2018 Jul 25."
+          },
+          {
+            "ReferencePMID": "18537187",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Spahr L, Lambert JF, Rubbia-Brandt L, Chalandon Y, Frossard JL, Giostra E, Hadengue A. Granulocyte-colony stimulating factor induces proliferation of hepatic progenitors in alcoholic steatohepatitis: a randomized trial. Hepatology. 2008 Jul;48(1):221-9. doi: 10.1002/hep.22317."
+          },
+          {
+            "ReferencePMID": "21460243",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Körbling M, Freireich EJ. Twenty-five years of peripheral blood stem cell transplantation. Blood. 2011 Jun 16;117(24):6411-6. doi: 10.1182/blood-2010-12-322214. Epub 2011 Apr 1. Review."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000001656",
+            "ConditionMeshTerm": "Biliary Atresia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001649",
+            "ConditionAncestorTerm": "Bile Duct Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001660",
+            "ConditionAncestorTerm": "Biliary Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004065",
+            "ConditionAncestorTerm": "Digestive System Abnormalities"
+          },
+          {
+            "ConditionAncestorId": "D000000013",
+            "ConditionAncestorTerm": "Congenital Abnormalities"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M4094",
+            "ConditionBrowseLeafName": "Biliary Atresia",
+            "ConditionBrowseLeafAsFound": "Biliary Atresia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4087",
+            "ConditionBrowseLeafName": "Bile Duct Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4098",
+            "ConditionBrowseLeafName": "Biliary Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12",
+            "ConditionBrowseLeafName": "Congenital Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6406",
+            "ConditionBrowseLeafName": "Digestive System Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T757",
+            "ConditionBrowseLeafName": "Biliary Atresia",
+            "ConditionBrowseLeafAsFound": "Biliary Atresia",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000078224",
+            "InterventionMeshTerm": "Lenograstim"
+          },
+          {
+            "InterventionMeshId": "C000081222",
+            "InterventionMeshTerm": "Sargramostim"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000276",
+            "InterventionAncestorTerm": "Adjuvants, Immunologic"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M244297",
+            "InterventionBrowseLeafName": "Sargramostim",
+            "InterventionBrowseLeafAsFound": "Electrodes",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M1945",
+            "InterventionBrowseLeafName": "Lenograstim",
+            "InterventionBrowseLeafAsFound": "Tip",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M273811",
+            "InterventionBrowseLeafName": "polysaccharide-K",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M257523",
+            "InterventionBrowseLeafName": "Molgramostim",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2780",
+            "InterventionBrowseLeafName": "Adjuvants, Immunologic",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          }
+        ]
+      }
+    }
+  }
+}

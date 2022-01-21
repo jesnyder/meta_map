@@ -1,0 +1,515 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01709656",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "[2012]2-31"
+      },
+      "Organization": {
+        "OrgFullName": "Sun Yat-sen University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "A Molecule Basic Study of Early Warning for New Pathogenic Risk of Ankylosing Spondylitis",
+      "OfficialTitle": "A Molecule Basic Study of Early Warning for New Pathogenic Risk of Ankylosing Spondylitis"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "February 2015",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 2012"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2014",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2014",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "October 10, 2012",
+      "StudyFirstSubmitQCDate": "October 16, 2012",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 18, 2012",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "February 10, 2015",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "February 11, 2015",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Gu Jieruo",
+        "ResponsiblePartyInvestigatorTitle": "Department of Rheumatology, Third Affiliated Hospital of Sun Yat-sen University",
+        "ResponsiblePartyInvestigatorAffiliation": "Sun Yat-sen University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Sun Yat-sen University",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The investigators will recruit active ankylosing spondylitis patients for injection treatment of Human Mesenchymal Stem Cells (a prospective, open-label, masculine medicine controlled(NSAIDs), clinical trial), and collect their Peripheral Blood Lymphocyte (PBMCs) and sera before and after the treatment of 24 weeks to test the gene expression profiles and study related pathogenesis of AS"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Ankylosing Spondylitis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "120",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "MSC plus NSAID",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "human mesenchymal stem cells:1*10^4-6 cells /Kg , IV (in the vein) on day 1 of each 14-60 day cycle,1-6 times treatment, plus non-steroid anti-inflammatory drugs (NSAID: \"celecoxib\", \"Celebrex®\" 0.2g Bid(twice a day),PO (Per Os).\n\nDuration of treatment:24 weeks for follow up. collect peripheral blood (PBMCs and serums)of those patients at baseline and every 4 weeks for basic study after they signed informed consent.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: MSC",
+                "Drug: \"celecoxib\", \"Celebrex®\""
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "NSAID",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "non-steroid anti-inflammatory drugs (NSAID: \"celecoxib\", \"Celebrex®\" 0.2g Bid(twice a day),PO (Per Os);a total of 24 weeks for follow up;collect peripheral blood (PBMCs and serums)of those patients at baseline and every 4 weeks for basic study after they signed informed consent.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: \"celecoxib\", \"Celebrex®\""
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "MSC",
+            "InterventionDescription": "human mesenchymal stem cells,1*10^4-6 cells /Kg , IV (in the vein) on day 1 of each 14-60 day cycle,1-6 times treatment.\n\na total of 24 weeks for follow up.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC plus NSAID"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "\"celecoxib\", \"Celebrex®\"",
+            "InterventionDescription": "non-steroid anti-inflammatory drugs (NSAID):\"celecoxib\", \"Celebrex®\" 0.2g Bid(twice a day),PO (Per Os);a total of 24 weeks for follow up",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC plus NSAID",
+                "NSAID"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "the proportion of patients which disease activity reaches ASAS(assessment in ankylosing Spondylitis)20 remission criteria",
+            "PrimaryOutcomeTimeFrame": "24 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "BASDAI score comparing to baseline",
+            "SecondaryOutcomeTimeFrame": "24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "BASFI score comparing to baseline",
+            "SecondaryOutcomeTimeFrame": "24 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAged from 16-65 years, sign the Informed Consent\nFulfill 1984 modified NewYork classification criteria for AS\nHave an active refractory disease defined by a score ≥40 on the Bath AS Disease Activity Index (BASDAI) (0-100) despite optimal non-steroidal anti-inflammatory drug (NSAID) treatment.\nCommitment to contraceptive for woman\n\nExclusion Criteria:\n\nCompletely stiff spine\nReceived spinal or joint surgery within 2 months\nReceived anti-TNF therapy within 3 months\nHistory of the listed diseases: heart failure, Multiple sclerosis, severe chronic obstructive pulmonary disease, frequent infections, lymphoma or other cancers, tuberculosis\nFemale of pregnancy or breast feeding\nHb≤ 9g/dl for male or Hb ≤ 8.5 g/dl for male, ALT/AST≥2folds of upper level normal range, Creatine≥120mol/L(≤1.4mg/dl)",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "16 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jieruo Gu, M.D.",
+            "OverallOfficialAffiliation": "Department of Rheumatology , Third Affiliated Hospital of Sun Yat-sen University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Department of Rheumatology, the Third Affiliated Hospital of Sun Yat-sen University",
+            "LocationCity": "Guangzhou",
+            "LocationState": "Guangdong",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000013166",
+            "ConditionMeshTerm": "Spondylitis"
+          },
+          {
+            "ConditionMeshId": "D000013167",
+            "ConditionMeshTerm": "Spondylitis, Ankylosing"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001850",
+            "ConditionAncestorTerm": "Bone Diseases, Infectious"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000001847",
+            "ConditionAncestorTerm": "Bone Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000013122",
+            "ConditionAncestorTerm": "Spinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000025242",
+            "ConditionAncestorTerm": "Spondylarthropathies"
+          },
+          {
+            "ConditionAncestorId": "D000025241",
+            "ConditionAncestorTerm": "Spondylarthritis"
+          },
+          {
+            "ConditionAncestorId": "D000000844",
+            "ConditionAncestorTerm": "Ankylosis"
+          },
+          {
+            "ConditionAncestorId": "D000007592",
+            "ConditionAncestorTerm": "Joint Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001168",
+            "ConditionAncestorTerm": "Arthritis"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15113",
+            "ConditionBrowseLeafName": "Spondylitis",
+            "ConditionBrowseLeafAsFound": "Spondylitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M15114",
+            "ConditionBrowseLeafName": "Spondylitis, Ankylosing",
+            "ConditionBrowseLeafAsFound": "Ankylosing Spondylitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4278",
+            "ConditionBrowseLeafName": "Bone Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4281",
+            "ConditionBrowseLeafName": "Bone Diseases, Infectious",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15071",
+            "ConditionBrowseLeafName": "Spinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22189",
+            "ConditionBrowseLeafName": "Spondylarthropathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22188",
+            "ConditionBrowseLeafName": "Spondylarthritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3322",
+            "ConditionBrowseLeafName": "Ankylosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9773",
+            "ConditionBrowseLeafName": "Joint Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3628",
+            "ConditionBrowseLeafName": "Arthritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T5412",
+            "ConditionBrowseLeafName": "Spondylarthropathy",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000068579",
+            "InterventionMeshTerm": "Celecoxib"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000894",
+            "InterventionAncestorTerm": "Anti-Inflammatory Agents, Non-Steroidal"
+          },
+          {
+            "InterventionAncestorId": "D000018712",
+            "InterventionAncestorTerm": "Analgesics, Non-Narcotic"
+          },
+          {
+            "InterventionAncestorId": "D000000700",
+            "InterventionAncestorTerm": "Analgesics"
+          },
+          {
+            "InterventionAncestorId": "D000018689",
+            "InterventionAncestorTerm": "Sensory System Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018373",
+            "InterventionAncestorTerm": "Peripheral Nervous System Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000000893",
+            "InterventionAncestorTerm": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000052246",
+            "InterventionAncestorTerm": "Cyclooxygenase 2 Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000016861",
+            "InterventionAncestorTerm": "Cyclooxygenase Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M277",
+            "InterventionBrowseLeafName": "Celecoxib",
+            "InterventionBrowseLeafAsFound": "Aid",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3369",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M12722",
+            "InterventionBrowseLeafName": "Phenylpropanolamine",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8390",
+            "InterventionBrowseLeafName": "Guaifenesin",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M186171",
+            "InterventionBrowseLeafName": "Chlorpheniramine, phenylpropanolamine drug combination",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3370",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents, Non-Steroidal",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3184",
+            "InterventionBrowseLeafName": "Analgesics",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19939",
+            "InterventionBrowseLeafName": "Analgesics, Non-Narcotic",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M26162",
+            "InterventionBrowseLeafName": "Cyclooxygenase 2 Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M18361",
+            "InterventionBrowseLeafName": "Cyclooxygenase Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Infl",
+            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Analg",
+            "InterventionBrowseBranchName": "Analgesics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "AnObAg",
+            "InterventionBrowseBranchName": "Anti-Obesity Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "VaCoAg",
+            "InterventionBrowseBranchName": "Vasoconstrictor Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Resp",
+            "InterventionBrowseBranchName": "Respiratory System Agents"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04189419",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "APT2001"
+      },
+      "Organization": {
+        "OrgFullName": "SCM Lifescience Co., LTD.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Safety and Efficacy of SCM-AGH in Patients With Moderate to Severe Acute Pancreatitis",
+      "OfficialTitle": "A Phase 1/2a Clinical Trial to Evaluate the Efficacy and Safety of SCM-AGH in Patients With Moderate to Severe Acute Pancreatitis"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2022",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 12, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 30, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 30, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 4, 2019",
+      "StudyFirstSubmitQCDate": "December 4, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 6, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 5, 2022",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 6, 2022",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "SCM Lifescience Co., LTD.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study consists of two phases (Phase I and Phase IIa). Phase IIa will be conducted sequentially after the safety of SCM-AGH is secured in Phase I.\n\nPhase I: Multicenter in Korea, Non-Randomized, Open-label, Single Arm, 3+3 design) for Severe Acute Pancreatitis\nPhase II: Multicenter in Korea, Randomized, Double-blind, 2-arm, Placebo-controlled, Parallel arm for Moderate to Severe Acute Pancreatitis",
+      "DetailedDescription": "Phase I (Multicenter in Korea, Non-Randomized, Open-label, Single Arm, 3+3 design): Three and up to six patients with severe Acute Pancreatitis are planned to recruit from 12 sites in Korea, but additional three patients can be enrolled by an assessment of Adverse Drug Reaction(ADR) from first three subjects .\n\nSubjects will be administered with SCM-AGH as an intravenous (IV) infusion once a day for 3 days. Efficacy and safety are assessed daily for the first week, and then weekly on 3 occasions (Day 14, 21, and 28). Survival is followed up until Day 90.\n\nPhase II (Multicenter in Korea, Randomized, Double-blind, 2-arm, Placebo-controlled, Parallel arm): Eligible patients will be randomized to the SCM-AGH group or placebo group at 1:1 ratio. Total 36 patients with Moderate to Severe Acute Pancreatitis are planned to be enrolled from 12 sites in Korea. Subjects will receive SCM-AGH on Day 0, 1, and 2. Existing standard of care is permitted. Efficacy and safety are assessed daily for the first week, and then weekly on 3 occasions (Day 14, 21, and 28). Survival is followed up until Day 90."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Pancreatitis, Acute"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "Phase I: Multicenter in Korea, Non-Randomized, Open-label, Single arm, 3+3 design Phase II: Multicenter in Korea, Randomized, Double-blind, Placebo-controlled, 2-arm, Parallel Group",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "36",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "SCM-AGH",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Ingredient: Allogeneic human bone marrow derived mesenchymal stem cells\nDose: 1x10^6 cells/Kg",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: SCM-AGH"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "IV infusion.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "SCM-AGH",
+            "InterventionDescription": "SCM-AGH will be administrated once a day for 3 days(D0, D1 and D2).",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "SCM-AGH"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Placebo will be administrated once a day for 3 days(D0, D1 and D2).",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "The change from baseline in modified Marshall score on Day 7 for organ failure subject",
+            "PrimaryOutcomeDescription": "The modified Marshall score is the scoring system to define the organ failure. The score is based on three different scores, one each for the respiratory, cardiovascular and renal. the modified Marshall score is >2 through the respiratory, renal or cardiovascular system, it is called organ failure.",
+            "PrimaryOutcomeTimeFrame": "Day 7"
+          },
+          {
+            "PrimaryOutcomeMeasure": "The change from baseline in CTSI Score on Day 28",
+            "PrimaryOutcomeDescription": "CTSI is scoring system to define the severity of acute pancreatitis. (4-6: Moderate, 7-10: Severe)",
+            "PrimaryOutcomeTimeFrame": "Day 28 for CTSI Subject"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Percentage of subjects whose organ failure was resolved at 3 days, 7 days, 14 days and 28 days",
+            "SecondaryOutcomeTimeFrame": "Day 3, Day 7, Day 14 and Day 28 or the day of discharge"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The change from baseline in modified Marshall score at each assessment point up to Day 28",
+            "SecondaryOutcomeTimeFrame": "Day 1, Day 2, Day 3, Day 4, Day 5, Day 6, Day 7, Day 14, Day 21, Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The change from baseline in sequential organ failure assessment (SOFA) at each assessment point up to Day 28",
+            "SecondaryOutcomeDescription": "SOFA score is used to track a person's status during the stay in an intensive care unit (ICU) to determine the extent of a person's organ function or rate of failure. The score is based on six different scores, one each for the respiratory, cardiovascular, hepatic, coagulation, renal and neurological systems.",
+            "SecondaryOutcomeTimeFrame": "Day 1, Day 2, Day 3, Day 4, Day 5, Day 6, Day 7, Day 14, Day 21, Day 28 or the day of discharge"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of Systemic inflammatory response syndrome (SIRS)",
+            "SecondaryOutcomeTimeFrame": "Day 0, Day 1, Day 2, Day 3, Day 4, Day 5, Day 6, Day 7, Day 14, Day 21, Day 28 or the day of discharge"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to resolution of organ failure",
+            "SecondaryOutcomeDescription": "The modified marshall score is 0 or 1 for all organ in respiratory, cardiovascular and renal.",
+            "SecondaryOutcomeTimeFrame": "Day 1, Day 2, Day 3, Day 4, Day 5, Day 6, Day 7, Day 14, Day 21, Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The change from baseline value of C-Reactive Protein(CRP) which is inflammatory marker on Day 1, 2, 3, 5, 7, and 14",
+            "SecondaryOutcomeTimeFrame": "Day 1, Day 2, Day 3, Day 5, Day 7, Day 14"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The change from baseline value of Tumor Necrosis Factor(TNF)-α which is inflammatory marker on Day 1, 2, 3, 5, 7, and 14",
+            "SecondaryOutcomeTimeFrame": "Day 1, Day 2, Day 3, Day 5, Day 7, Day 14"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The change from baseline value of interleukin(IL)-6 which is inflammatory marker on Day 1, 2, 3, 5, 7, and 14",
+            "SecondaryOutcomeTimeFrame": "Day 1, Day 2, Day 3, Day 5, Day 7, Day 14"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The change from baseline value of interleukin(IL)-8 which is inflammatory marker on Day 1, 2, 3, 5, 7, and 14",
+            "SecondaryOutcomeTimeFrame": "Day 1, Day 2, Day 3, Day 5, Day 7, Day 14"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The change from baseline value of lymphocyte count ratio which is inflammatory marker on Day 1, 2, 3, 5, 7, and 14",
+            "SecondaryOutcomeTimeFrame": "Day 1, Day 2, Day 3, Day 5, Day 7, Day 14"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of intensive care unit (ICU) stay",
+            "SecondaryOutcomeDescription": "Number of days for stay duration at ICU. The duration is from the day of hospitalization to day of discharge.",
+            "SecondaryOutcomeTimeFrame": "Day 28 or the day of discharge"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The change from baseline in Computed Tomography Severity Index(CTSI) on Day 28",
+            "SecondaryOutcomeDescription": "CTSI is the sum of Balthazar grade and necrosis score. The scoring is defined by evaluation of abdominal Computed Tomography(CT).",
+            "SecondaryOutcomeTimeFrame": "Day 28 or the day of discharge"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of pancreatic complication",
+            "SecondaryOutcomeDescription": "Pancreatic complication will be evaluated by abdominal CT.",
+            "SecondaryOutcomeTimeFrame": "Day 28 or the day of discharge"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Requirement of drainage or surgery",
+            "SecondaryOutcomeDescription": "Requirement of drainage due to intra-abdominal catastrophe or necrosis and surgery due to hemorrhage, perforation or abdominal compartment syndrome will be evaluated until Day 28.",
+            "SecondaryOutcomeTimeFrame": "Day 28 or the day of discharge"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Rate of infection",
+            "SecondaryOutcomeDescription": "The even of infection such as infected pancreatic necrosis, bacteremia and pneumonia. The several tests for diagnosis can be conducted per investigator's decision.",
+            "SecondaryOutcomeTimeFrame": "Day 28 or the day of discharge"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Mortality on Day 28 and 90",
+            "SecondaryOutcomeTimeFrame": "Day 28 or the day of discharge and Day 90"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\n>=19 years of age\n\n[Phase I]\n\nPatient with acute pancreatitis with organ failure which has been determined as severe acute pancreatitis prior to assignment(randomization) (1) Organ failure: 2 points of Modified Marshall Score in one or more of the respiratory system, renal system and cardiovascular system (2) Acute pancreatitis: at least 2 of the following 3 conditions are met\n\nTypical abdominal pain indicating acute pancreatitis\nIncreased blood level of pancreatic enzyme (amylase or lipase >= three times of upper limit of normal)\n\nFinding acute pancreatitis in imaging test (contrast enhanced computerized tomography, abdominal magnetic resonance imaging, or abdominal sonography) (3) Severe: at least 1 of following organ failures lasting for > 48 hours according to the 2012 Atlanta Classification\n\n- Respiratory system: PaO2/FiO2 =< 300\n\n- Renal system: Creatinine >= 1.9 mg/dL\n\nCardiovascular system: low systolic blood pressure persists despite fluid replacement (SBP < 90 mmHg. off inotropic support)\nPatient who or whose representative voluntarily agrees to participate in this study and has given a written informed consent\n\n[Phase II] 2) Patient with acute pancreatitis with organ failure or CTSI score >= 4 which has been determined as moderate to severe acute pancreatitis prior to assignment(randomization)\n\nOrgan failure: 2 points of Modified Marshall Score in one or more of the respiratory system, renal system and cardiovascular system\nCTSI: Sum of Balthazar grade and Necrosis score. CTSI 1-3: Mild / CTSI 4-6: Moderate / CTSI 7-10: Severe\n\nAcute pancreatitis: at least 2 of the following 3 conditions are met\n\na.Typical abdominal pain indicating acute pancreatitis b. Increased blood level of pancreatic enzyme (amylase or lipase >= three times of upper limit of normal) c. Finding acute pancreatitis in imaging test (contrast enhanced computerized tomography, abdominal magnetic resonance imaging, or abdominal sonography)\n\nModerate to Severe at least 1 of following organ failures lasting according to the 2012 Atlanta Classification - Respiratory system: PaO2/FiO2 =< 300 - Renal system: Creatinine >= 1.9 mg/dL\n\nCardiovascular system: low systolic blood pressure persists despite fluid replacement (SBP < 90 mmHg. off inotropic support)\n\n[Moderately Severe]\n\norgan failures lasting for < 48 hours according to the 2012 Atlanta Classification or CTSI 4-8,\n\n[Severe]\n\norgan failures lasting for >= 48 hours according to the 2012 Atlanta Classification\n\n3) Patient who or whose representative voluntarily agrees to participate in this study and has given a written informed consent\n\nExclusion Criteria:\n\nPatient with allergic or hypersensitivity reaction to investigational product, drug of similar class or ingredients (bovine serum, dimethyl sulfoxide)\nPatient who cannot undergo contrast-enhanced computerized tomography due to allergic reaction to contrast medium\nPatient past >72 hours after the onset of organ failure at assignment (randomization)\nPatient with condition that may develop acute abdominal pain\nPatient with pancreatitis resulting from trauma, surgery, or neoplasm\nPatient with unstable ventilation due to underlying disease other than pancreatitis\nPatient with active infection such as non-pancreatic infection, septicemia, or pneumonia resulting from other disease\nPatient requiring urgent surgery within 7 days\nPatient with severe comorbidity (chronic renal disease, hepatic cirrhosis, chronic obstructive lung disease, bronchial asthma, congestive heart failure)\nPatient with evidence of chronic pancreatitis (recurrent, obstructive and chronic; autoimmune and chronic; marked pancreatic insufficiency such as steatorrhea)\nPregnant woman, breastfeeding woman, or woman and man of reproductive potential not willing to use contraceptive measures during the study period\nPatient who received other investigational product/device within 30 days prior to screening\nPatient not eligible for study participation in the opinion of the investigator\nPatient with current or past malignancy",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "19 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jong-Ho Moon",
+            "OverallOfficialAffiliation": "Soon Chun Hyang University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Soonchunhyang University Hosptial Bucheon",
+            "LocationCity": "Bucheon",
+            "LocationState": "Gyenggi-do",
+            "LocationZip": "14584",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Inha University Hospital",
+            "LocationCity": "Incheon",
+            "LocationZip": "22332",
+            "LocationCountry": "Korea, Republic of"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010195",
+            "ConditionMeshTerm": "Pancreatitis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010182",
+            "ConditionAncestorTerm": "Pancreatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12267",
+            "ConditionBrowseLeafName": "Pancreatitis",
+            "ConditionBrowseLeafAsFound": "Pancreatitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M12254",
+            "ConditionBrowseLeafName": "Pancreatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

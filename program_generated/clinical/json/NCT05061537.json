@@ -1,0 +1,631 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05061537",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "C4651001"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "OBIR-2",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "Alias Study Number"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Pfizer",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Study of PF-07263689 in Participants With Selected Advanced Solid Tumors",
+      "OfficialTitle": "A PHASE 1, OPEN-LABEL, DOSE ESCALATION AND EXPANSION STUDY EVALUATING THE SAFETY AND PHARMACODYNAMICS OF PF-07263689, EITHER ALONE OR IN COMBINATION WITH AN ANTI-PD-1 ANTIBODY, IN PREVIOUSLY TREATED PARTICIPANTS WITH SELECTED LOCALLY ADVANCED OR METASTATIC SOLID TUMORS"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 20, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 6, 2024",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 6, 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 22, 2021",
+      "StudyFirstSubmitQCDate": "September 22, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "September 29, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 1, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 8, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Pfizer",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a first-in-human, Phase 1, open label, multicenter, multiple dose, dose escalation and expansion study intended to evaluate the safety, viral load kinetics and shedding, pharmacodynamic, and anti-tumor activity of PF-07263689, either alone or in combination with sasanlimab (an investigational anti-programmed cell death protein 1 [PD-1] antibody), in patients with selected locally advanced or metastatic solid tumors who have exhausted all available standard of care therapies available to them.\n\nThe study consists of 2 parts: Part 1 dose escalation for PF-07263689 monotherapy (Part 1A) and in combination with sasanlimab (Part 1B), followed by Part 2 dose expansion for the combination therapy."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Renal Cell Cancer",
+          "Melanoma",
+          "Non-Small-Cell Lung Cancer",
+          "Hepatocellular Cancer",
+          "Bladder Cancer",
+          "Sarcoma",
+          "Head and Neck Cancer",
+          "Colorectal Cancer",
+          "Ovarian Cancer",
+          "Squamous Cell Carcinoma"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Advanced malignancies"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "120",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Monotherapy dose escalation (Part 1A)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Participants will receive PF-07263689 once a week for 4 doses",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: PF-07263689"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Combination dose escalation (Part 1B)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Participants will receive PF-07263689 intravenous (IV) once week for 4 doses in combination with sasanlimab subcutaneous (SC) once every 4 weeks",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: PF-07263689",
+                "Biological: Sasanlimab"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Dose expansion (Part 2) - Tumor specific Arm A",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Participants will receive PF-07263689 IV once week for 4 doses in combination with sasanlimab SC once every 4 weeks",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: PF-07263689",
+                "Biological: Sasanlimab"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Dose expansion (Part 2) - Tumor specific Arm B",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Participants will receive PF-07263689 IV once week for 4 doses in combination with sasanlimab SC once every 4 weeks",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: PF-07263689",
+                "Biological: Sasanlimab"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Dose expansion (Part 2) - Tumor specific Arm C",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Participants will receive PF-07263689 IV once week for 4 doses in combination with sasanlimab SC once every 4 weeks",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: PF-07263689",
+                "Biological: Sasanlimab"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "PF-07263689",
+            "InterventionDescription": "Genetically engineered oncolytic vaccinia virus",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Combination dose escalation (Part 1B)",
+                "Dose expansion (Part 2) - Tumor specific Arm A",
+                "Dose expansion (Part 2) - Tumor specific Arm B",
+                "Dose expansion (Part 2) - Tumor specific Arm C",
+                "Monotherapy dose escalation (Part 1A)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Sasanlimab",
+            "InterventionDescription": "A monoclonal antibody that blocks the interaction between PD-1 and PD-L1/ PD-L2",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Combination dose escalation (Part 1B)",
+                "Dose expansion (Part 2) - Tumor specific Arm A",
+                "Dose expansion (Part 2) - Tumor specific Arm B",
+                "Dose expansion (Part 2) - Tumor specific Arm C"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of participants with dose limiting toxicities (DLTs) in Dose escalation (Part 1A and 1B)",
+            "PrimaryOutcomeDescription": "DLTs will be evaluated in Part 1A and Part 1B. The number of DLTs will be used to determine the dose escalation decision and recommended dose for PF-07263689",
+            "PrimaryOutcomeTimeFrame": "Baseline through 28 days after first dose"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of participants with adverse events",
+            "PrimaryOutcomeTimeFrame": "Baseline through up to 2 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of participants with clinically significant laboratory abnormalities",
+            "PrimaryOutcomeTimeFrame": "Baseline through 90 days after first dose"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Objective response rate in the dose expansion (Part 2) arms",
+            "PrimaryOutcomeDescription": "Tumor response as assessed using RECIST 1.1",
+            "PrimaryOutcomeTimeFrame": "Baseline through up to 2 years or until disease progression"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Objective response rate in dose escalation (Part 1A and 1B)",
+            "SecondaryOutcomeDescription": "Tumor response as assessed using RECIST 1.1",
+            "SecondaryOutcomeTimeFrame": "Baseline through 2 years or disease progression"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Maximum concentration (Cmax) of viral load titer of PF-07263689",
+            "SecondaryOutcomeTimeFrame": "Day 1 and Day 8 (days of dosing): Pre-dose, 0.5, 1, 4, 8, 25, 48, 72 hours post-dose; Day 15 and Day 22 (days of dosing): Pre-dose and 4 hours post-dose; and at 28 days after first dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to maximal plasma concentration (Tmax) of viral load titer after PF-07263689 dosing",
+            "SecondaryOutcomeTimeFrame": "Day 1 and Day 8 (days of dosing): Pre-dose, 0.5, 1, 4, 8, 25, 48, 72 hours post-dose; Day 15 and Day 22 (days of dosing): Pre-dose and 4 hours post-dose; and at 28 days after first dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Area under the Curve from time 0 to the last measurable timepoint (AUClast) of viral load titer after PF-07263689 dosing",
+            "SecondaryOutcomeTimeFrame": "Day 1 and Day 8 (days of dosing): Pre-dose, 0.5, 1, 4, 8, 25, 48, 72 hours post-dose; Day 15 and Day 22 (days of dosing): Pre-dose and 4 hours post-dose; and at 28 days after first dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Viral titers for vector shedding of PF-07263689 in saliva, urine, injection site swab, and swab from any spontaneous skin pox lesion",
+            "SecondaryOutcomeTimeFrame": "Baseline and during 30, 45, and 60 days after the last dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Sasanlimab trough concentration (Part 1B and 2)",
+            "SecondaryOutcomeTimeFrame": "Day 1 (pre-dose), 8, 15, and 22 of Cycle 1; and on Day 1 (pre-dose) of each subsequent cycle"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence and titers of anti-IL2 antibodies and anti-drug antibody (ADA) against PF-07263689 and sasanlimab as applicable",
+            "SecondaryOutcomeTimeFrame": "Baseline through End of Treatment and up to about 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Anti-tumor activity (Part 2)",
+            "SecondaryOutcomeDescription": "Disease control rate, duration of response, progression free survival, and time to progression as assessed by RECIST 1.1",
+            "SecondaryOutcomeTimeFrame": "Baseline through up to 2 years or until disease progression"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Overall survival (Part 2)",
+            "SecondaryOutcomeDescription": "Proportion of participants alive",
+            "SecondaryOutcomeTimeFrame": "Baseline through up to 2 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nHistological or cytological diagnosis of locally advanced or metastatic solid tumors known to have approved therapies using immune checkpoint inhibitors or anti-vascular endothelial growth factor agents\nHave exhausted (or refuse) all available standard of care therapy (e.g., including anti-PD1/programmed death ligand 1 [PDL1] if applicable) or for whom no standard therapy is available for their tumor type\nPatients with prior anti-PD1/PDL1 must have documentation of primary or secondary resistance to last prior anti-PD1/PDL1 therapy according to Immunotherapy Resistance Committee (SITC) (Kluger et al, 2020)\nHave at least 1 measurable lesion by RECIST 1.1 that has not been previously irradiated (for Part 2 only)\nHave recently obtained archival tumor tissue sample available, or undergo de novo tumor biopsy\nEastern Cooperative Oncology Group (ECOG) PS 0-1\nAdequate hematologic, renal, and liver functions\nDose Escalation (Part 1A and 1B): Any advanced or metastatic solid tumor fulfilling other relevant eligibility criteria.\nDose Expansion (Part 2): Tumor specific cohorts (NSCLC, RCC, melanoma, MSS CRC) must have received prior approved therapies (Part 2)\n\nExclusion Criteria:\n\nOther active malignancy\nRecent major surgery\nSystemic anticancer therapy and chemotherapy within protocol-defined washout period\nKnown or suspected hypersensitivity to prior treatment with any vaccinia oncolytic, pox virus, or antiviral agents within the past 10 years\nCurrent or history of myocarditis or congestive heart failure (New York Heart Association [NYHA] III-IV); unstable angina; or serious uncontrolled arrhythmia or recent myocardial infarction\nActive or history of interstitial lung disease (ILD)/pneumonitis\nPatients requiring chronic systemic immunosuppressants\nHistory of severe immune mediated side effect that was considered related to prior immune modulatory therapy and requiring immunosuppressive therapy\nKnown symptomatic brain metastases requiring steroids\nHistory of or ongoing severe inflammatory skin conditions or severe eczema having required medical treatment\nAny prior or planned organ transplant\nPresence of any open, active wound requiring treatment",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Pfizer CT.gov Call Center",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "1-800-718-1021",
+            "CentralContactEMail": "ClinicalTrials.gov_Inquiries@pfizer.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Pfizer CT.gov Call Center",
+            "OverallOfficialAffiliation": "Pfizer",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "City of Hope",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Duarte",
+            "LocationState": "California",
+            "LocationZip": "91010",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "To obtain contact information for a study center near you, click here.",
+            "SeeAlsoLinkURL": "https://pmiform.com/clinical-trial-info-request?StudyID=C4651001"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No",
+      "IPDSharingDescription": "Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000002292",
+            "ConditionMeshTerm": "Carcinoma, Renal Cell"
+          },
+          {
+            "ConditionMeshId": "D000008113",
+            "ConditionMeshTerm": "Liver Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000006528",
+            "ConditionMeshTerm": "Carcinoma, Hepatocellular"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004067",
+            "ConditionAncestorTerm": "Digestive System Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000002277",
+            "ConditionAncestorTerm": "Carcinoma"
+          },
+          {
+            "ConditionAncestorId": "D000009375",
+            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "ConditionAncestorId": "D000014565",
+            "ConditionAncestorTerm": "Urogenital Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000014571",
+            "ConditionAncestorTerm": "Urologic Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000000230",
+            "ConditionAncestorTerm": "Adenocarcinoma"
+          },
+          {
+            "ConditionAncestorId": "D000007680",
+            "ConditionAncestorTerm": "Kidney Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000007674",
+            "ConditionAncestorTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000008107",
+            "ConditionAncestorTerm": "Liver Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M4686",
+            "ConditionBrowseLeafName": "Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4702",
+            "ConditionBrowseLeafName": "Carcinoma, Squamous Cell",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10324",
+            "ConditionBrowseLeafName": "Lung Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8765",
+            "ConditionBrowseLeafName": "Carcinoma, Hepatocellular",
+            "ConditionBrowseLeafAsFound": "Hepatocellular Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M12126",
+            "ConditionBrowseLeafName": "Ovarian Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M1704",
+            "ConditionBrowseLeafName": "Carcinoma, Ovarian Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4182",
+            "ConditionBrowseLeafName": "Urinary Bladder Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8500",
+            "ConditionBrowseLeafName": "Head and Neck Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4698",
+            "ConditionBrowseLeafName": "Carcinoma, Non-Small-Cell Lung",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10680",
+            "ConditionBrowseLeafName": "Melanoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14479",
+            "ConditionBrowseLeafName": "Sarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10265",
+            "ConditionBrowseLeafName": "Liver Neoplasms",
+            "ConditionBrowseLeafAsFound": "Hepatocellular Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4700",
+            "ConditionBrowseLeafName": "Carcinoma, Renal Cell",
+            "ConditionBrowseLeafAsFound": "Renal Cell Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8038",
+            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6408",
+            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11472",
+            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16467",
+            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16472",
+            "ConditionBrowseLeafName": "Urologic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2737",
+            "ConditionBrowseLeafName": "Adenocarcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9855",
+            "ConditionBrowseLeafName": "Kidney Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10259",
+            "ConditionBrowseLeafName": "Liver Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4352",
+            "ConditionBrowseLeafName": "Ovarian Cancer",
+            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T4354",
+            "ConditionBrowseLeafName": "Ovarian Epithelial Cancer",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T5284",
+            "ConditionBrowseLeafName": "Soft Tissue Sarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4906",
+            "ConditionBrowseLeafName": "Renal Cell Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3382",
+            "InterventionBrowseLeafName": "Antibodies, Monoclonal",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

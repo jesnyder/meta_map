@@ -1,0 +1,451 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04611256",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "060I.2020"
+      },
+      "Organization": {
+        "OrgFullName": "Hospital Reg. Lic. Adolfo Lopez Mateos",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Mesenchymal Stem Cells in Patients Diagnosed With COVID-19",
+      "OfficialTitle": "Adjuvant Therapy With Mesenchymal Stem Cells in Patients Diagnosed With COVID-19 in Critical Condition"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 1, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 30, 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 30, 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 29, 2020",
+      "StudyFirstSubmitQCDate": "October 29, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 2, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 9, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 12, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "M. Eunice Rodríguez Arellano",
+        "ResponsiblePartyInvestigatorTitle": "MD",
+        "ResponsiblePartyInvestigatorAffiliation": "Hospital Reg. Lic. Adolfo Lopez Mateos"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Hospital Reg. Lic. Adolfo Lopez Mateos",
+        "LeadSponsorClass": "OTHER_GOV"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Instituto de Terapia Celular: ITC",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The propose of this study is implement adjuvant therapy with adipose tissue derived-mesenchymal stem cells (MSCs) for critical COVID-19 patients admitted to the intensive care unit of the Regional Hospital Lic. Adolfo López Mateos of the Institute for Social Security and Services for State Workers to reduce cytokine storm and contribute to the favorable resolution of respiratory insufficiency and multiple organic failure.",
+      "DetailedDescription": "Within the epidemic context of phase 3 that currently exists in Mexico, implementation of new treatments that have shown to be beneficial for patients in a critical state in other countries is an urgent need. Adipose tissue derived-mesenchymal stem cells for could favor the regulation of patient immune system to reduce the proinflammatory state and promoting the regeneration of damaged tissues.\n\nPatients diagnosed COVID-19 and confirmed positive with the virus by PCR, will be treated with two intravenous infusions MSCs on the day 1 (D1) and the day 3 (D3) of the treatment consisting of 1X106/kg each.\n\nWe will assess the pulmonary lesion area by chest x-ray or computed axial tomography at baseline and days 2, 3, 5, 10, 15, 20, and 25.\n\nDays to clinical improvement (to be evaluated on days 2, 3, 5, 10, 15, 20, 25), considering temperature and other vital signs measurement, arterial oxygen saturation, blood chemistry (including liver function tests), creatine phosphokinase, C reactive protein, immune cells (CD3+, CD4+, CD8+, CD16+, CD19+, and CD56+ lymphocytes), pro-inflammatory cytokines (IL-1β, IL- 2, TNF-α, ITN-γ, IL-4, IL-6, IL-10), immunoglobulins (IgA, IgG, IgM, and IgE), HLA profile expression, and weaning from mechanical ventilation."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Covid19"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "COVID-19",
+          "Adjuvant therapy",
+          "mesenchymal stem cells",
+          "Mexico"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "20",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "MSC transfusion",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: MSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Control"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "MSC",
+            "InterventionDescription": "Two intravenous infusion of 1*10E6 adipose tissue derived-MSCs /kg body weight reach",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC transfusion"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Control",
+            "InterventionDescription": "Conventional treatment that may include analgesic, anti-inflammatory, antibiotic, steroid, antiplatelet, and anticoagulant.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change form baseline in Arterial oxygen saturation",
+            "PrimaryOutcomeDescription": "Pulmonary lesion area will be taken by a chest x-ray or computed axial tomography",
+            "PrimaryOutcomeTimeFrame": "up to 25 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Change form baseline in Arterial oxygen saturation",
+            "PrimaryOutcomeDescription": "Aretrial oxygen saturation will be taken by an oximeter",
+            "PrimaryOutcomeTimeFrame": "up to 25 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Days to clinical improvement",
+            "PrimaryOutcomeDescription": "Number of days of patient discharge",
+            "PrimaryOutcomeTimeFrame": "up to 25 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change Form Baseline in C reactive protein at 25 days",
+            "SecondaryOutcomeDescription": "Blood samples will be taken on days 1, 3, 7, 15, 20, 25",
+            "SecondaryOutcomeTimeFrame": "up to 25 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change Form Baseline Immune cells: CD3+, CD4+, CD8+, CD16+, CD19+, and CD56+ lymphocytes",
+            "SecondaryOutcomeDescription": "Blood samples will be taken on days 1, 3, 7, 15, 20, 25",
+            "SecondaryOutcomeTimeFrame": "up to 25 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change Form Baseline in pro-inflammatory cytokines: IL-1β, IL- 2, TNF-α, ITN-γ, IL-4, IL-6, IL-10",
+            "SecondaryOutcomeDescription": "Blood samples will be taken on days 1, 3, 7, 15, 20, 25",
+            "SecondaryOutcomeTimeFrame": "up to 25 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change Form Baseline in Immunoglobulins; IgA, IgG, IgM, and IgE.",
+            "SecondaryOutcomeDescription": "Blood samples will be taken on days 1, 3, 7, 15, 20, 25",
+            "SecondaryOutcomeTimeFrame": "up to 25 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAged between 18 and 65.\nRT-PCR positive for SARS-CoV-2 (Berlin protocol).\nModerate to severe acute respiratory insufficiency (100 mmHg <PaO2/FiO2 ≤ 200 mmHg).\nConfirmatory diagnosis of pulmonary injury by chest teleradiography or computed axial t tomography.\nBeing under standard therapy for COVID-19.\nInformed consent signed by the patient or a legally acceptable representative (in the case of the legal representative, informed consent could be obtained by a phone call or email with the subsequent written confirmation).\n\nExclusion Criteria:\n\nReserved prognosis (survival expected by the physician of fewer than three days).\nBeing under immunosuppressive drug treatment.\nSevere kidney failure (estimated glomerular filtration rate < 30 ml/min) or under continuous kidney replacement therapy, hemodialysis, or peritoneal dialysis.\nImmunosuppressed patients (except when the cause is corticosteroid treatment).\nPregnant or lactating women.\nPatients who plan to become pregnant during the study period or within six months after the end of the study period.\nParticipation in another clinical trial with an experimental drug during the last 30 days.\nPathologies that in medical judgment constitute a contraindication to participate in the study.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Hospital Regional Lic Adolfo Lopez Mateos",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Mexico City",
+            "LocationState": "Ciudad De Mexico CDMX (Mexico City)",
+            "LocationZip": "01030",
+            "LocationCountry": "Mexico",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Martha E. Rodríguez Arellano, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+52 5512999131",
+                  "LocationContactEMail": "marthaeunicer@yahoo.com.mx"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3374",
+            "InterventionBrowseLeafName": "Anti-Bacterial Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3396",
+            "InterventionBrowseLeafName": "Anticoagulants",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3184",
+            "InterventionBrowseLeafName": "Analgesics",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3376",
+            "InterventionBrowseLeafName": "Antibiotics, Antitubercular",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3369",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "AnCoag",
+            "InterventionBrowseBranchName": "Anticoagulants"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Analg",
+            "InterventionBrowseBranchName": "Analgesics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infl",
+            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+          }
+        ]
+      }
+    }
+  }
+}

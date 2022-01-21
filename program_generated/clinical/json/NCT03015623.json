@@ -1,0 +1,308 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03015623",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "SBI-101-01"
+      },
+      "Organization": {
+        "OrgFullName": "Sentien Biotechnologies, Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "A Study of Cell Therapy for Subjects With Acute Kidney Injury Who Are Receiving Continuous Renal Replacement Therapy",
+      "OfficialTitle": "A Multi-center, Randomized, Sham-controlled, Double-blind, Ascending-dose Study of Extracorporeal Mesenchymal Stromal Cell Therapy (SBI-101 Therapy) in Subjects With Acute Kidney Injury Receiving Continuous Renal Replacement Therapy"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 20, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 6, 2017",
+      "StudyFirstSubmitQCDate": "January 6, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 10, 2017",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "March 15, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 16, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Sentien Biotechnologies, Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to assess the safety and tolerability of the investigational product, SBI-101, in subjects with Acute Kidney Injury (AKI) who require continuous renal replacement therapy. SBI-101 is a biologic/device combination product designed to regulate inflammation and promote repair of injured tissue using allogeneic human mesenchymal stromal cells.\n\nThe study will be conducted in two cohorts, with an interim analysis performed in between the cohorts. In the first cohort, subjects will be randomized to receive one of two treatments - low dose SBI-101 or sham control. In the second cohort, subjects will be randomized to receive one of two treatments - high dose SBI-101 or sham control. SBI-101 or sham control will be integrated into the renal replacement circuit and subjects in both cohorts will be treated for up to 24 hours."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Acute Kidney Injury"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Mesenchymal stromal cells",
+          "MSC",
+          "Stem cells",
+          "Mesenchymal stem cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "24",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Low dose cohort",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "SBI-101 device containing 250 million MSCs",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: SBI-101"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "High dose cohort",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "SBI-101 device containing 750 million MSCs",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: SBI-101"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control",
+            "ArmGroupType": "Sham Comparator",
+            "ArmGroupDescription": "Sham device containing no MSCs",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Device: Sham"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "SBI-101",
+            "InterventionDescription": "SBI-101 is a biologic/device combination product that combines two components: allogeneic human mesenchymal stromal cells (MSCs) and an FDA-approved plasmapheresis device. SBI-101 is administered via integration into a Continuous Renal Replacement Therapy circuit and is designed to regulate inflammation and promote repair of injured tissue.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "High dose cohort",
+                "Low dose cohort"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Device",
+            "InterventionName": "Sham",
+            "InterventionDescription": "The sham control is an FDA-approved plasmapheresis device, without MSCs, which is integrated into a Continuous Renal Replacement Therapy circuit.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety and tolerability as measured by incidence of IP-related serious adverse events",
+            "PrimaryOutcomeTimeFrame": "Outcomes out to Day 28 and Serious Adverse Events through Day 180"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAKI, as determined by the Investigator based on his/her clinical judgment\nAble to tolerate indwelling intravascular access\nHas tolerated Continuous Renal Replacement Therapy for at least 12 hours prior to IP treatment\nLikely to require Continuous Renal Replacement Therapy for at least an additional 48 hours\nAbility to give informed consent\n\nExclusion Criteria:\n\nFemale subjects who are pregnant, planning to become pregnant, or lactating\nKnown end-stage liver disease\nHepatorenal syndrome\nAcute glomerulonephritis (e.g. rapidly progressive glomerulonephritis; membranoproliferative glomerulonephritis; post-streptococcal glomerulonephritis); acute interstitial nephritis (e.g. toxin- or drug- induced interstitial nephritis) or hereditary renal disease (e.g. Alport's Syndrome; polycystic kidney disease)\nAKI due to post-renal outflow obstruction\nAcute or chronic vasculitis of any etiology\nAt the time of randomization, clinical evidence (e.g. febrile) suggestive of an uncontrolled or inadequately treated systemic infection\nHistory of a chronic systemic infection of any etiology regardless of therapy\nActive malignancy(-ies) and/or receiving active treatment for a malignancy(-ies), with the exception of non-melanoma skin cancer\nSubjects, who in the opinion of the Investigator, are likely to require escalating doses of vasopressors to attain and/or maintain hemodynamic stability\nSystemic immunosuppressive therapy that has not been stabilized for greater than 4 months, or in the case of chronic corticosteroid therapy, a dose of >15 mg/day of prednisone or the equivalent within the past 30 days\nOrgan failure affecting more than 2 non-renal organs\nPlatelet count <25,000/uL or other serious hematological abnormalities that would place subject in imminent danger of death\nAny prior medical condition that, in the judgment of the Investigator, would prevent the subject from safely participating in and/or completing all study requirements",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Brian Miller",
+            "OverallOfficialAffiliation": "Sentien Biotechnologies, Inc.",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Lehigh Valley Hospital",
+            "LocationCity": "Allentown",
+            "LocationState": "Pennsylvania",
+            "LocationZip": "18101",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "34581517",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Swaminathan M, Kopyt N, Atta MG, Radhakrishnan J, Umanath K, Nguyen S, O'Rourke B, Allen A, Vaninov N, Tilles A, LaPointe E, Blair A, Gemmiti C, Miller B, Parekkadan B, Barcia RN. Pharmacological effects of ex vivo mesenchymal stem cell immunotherapy in patients with acute kidney injury and underlying systemic inflammation. Stem Cells Transl Med. 2021 Dec;10(12):1588-1601. doi: 10.1002/sctm.21-0043. Epub 2021 Sep 28."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000058186",
+            "ConditionMeshTerm": "Acute Kidney Injury"
+          },
+          {
+            "ConditionMeshId": "D000014947",
+            "ConditionMeshTerm": "Wounds and Injuries"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000051437",
+            "ConditionAncestorTerm": "Renal Insufficiency"
+          },
+          {
+            "ConditionAncestorId": "D000007674",
+            "ConditionAncestorTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M28151",
+            "ConditionBrowseLeafName": "Acute Kidney Injury",
+            "ConditionBrowseLeafAsFound": "Acute Kidney Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafAsFound": "Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M25871",
+            "ConditionBrowseLeafName": "Renal Insufficiency",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          }
+        ]
+      }
+    }
+  }
+}

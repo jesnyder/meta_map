@@ -1,0 +1,632 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02951897",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "TMMU-DP-2016-4-25"
+      },
+      "Organization": {
+        "OrgFullName": "Third Military Medical University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Application of Detecting Circulating Tumor Cells in the Accurate Treatment of Early Stage Lung Adenocarcinoma",
+      "OfficialTitle": "Application of Detecting Circulating Tumor Cells in the Accurate Diagnosis and Treatment of Early Stage Lung Adenocarcinoma",
+      "Acronym": "CTCs detection"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2016",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 2016"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2019",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2019",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 25, 2016",
+      "StudyFirstSubmitQCDate": "October 30, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 1, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "October 31, 2016",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 2, 2016",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Deng Bo, MD",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Third Military Medical University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Third Military Medical University",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "In 2015-2016, 224,390 cases were newly diagnosed with lung cancer in USA. Of all the cases, 83% are non-small cell lung cancer (NSCLC). Currently, the 5-year survival rate of NSCLC patients is 21%, and more than 25% of early stage NSCLC patients, who have undergone surgical treatment, will have a relapse or progression.\n\nCirculating tumor cells (CTCs), which shed from the primary tumor into the vasculature or lymphatics, can be regarded as a new prognostic factors of metastatic process. Thus far, CTCs-detection technologies can be divided into epithelial cell adhesion molecule (EpCAM)-based detection methods, e.g., the widely used CellSearch® and Adnatest®,and EpCAM-independent detection methods, e.g., ISET® and ScreenCell®. Herein, the investigators used a newly established approach, i.e., CanPatrolTM to detect CTCs in early stage lung Adenocarcinoma cases.\n\nThe investigator aim to explore whether CTCs detection prior to surgery can be contributive to the early diagnosis, or may help to predict the prognosis and guide the treatment strategy of early stage lung Adenocarcinoma."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Lung Adenocarcinoma, Stage I",
+          "Diagnoses Diseases",
+          "Circulating Tumor Cells",
+          "Treatment"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "circulating tumor cells",
+          "lung adenocarcinoma",
+          "treatment",
+          "early diagnosis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "120",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "IA-CTC-High-enhance",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "IA lung adenocarcinoma cases with high abundant CTCs prior to operation will undergo lobectomy&lymphadenectomy plus adjuvant chemotherapy. Postoperative CTC monitoring will be conducted.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: lobectomy",
+                "Drug: chemotherapy（pemetrexed+CISPLATIN）",
+                "Procedure: Lymphadenectomy",
+                "Other: CanPatrolTM to detect CTCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "IA-CTC-High-controls",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "IA lung adenocarcinoma cases with high abundant CTCs prior to operation will only undergo lobectomy&lymphadenectomy. Postoperative CTC monitoring will be conducted.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: lobectomy",
+                "Procedure: Lymphadenectomy",
+                "Other: CanPatrolTM to detect CTCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "IA-CTC-low-controls",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "IA lung adenocarcinoma cases with low abundant CTCs prior to operation will only undergo segmentectomy. Postoperative CTC monitoring will be conducted.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: segmentecomy",
+                "Other: CanPatrolTM to detect CTCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "IB-CTC-High-enhance",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "IB lung adenocarcinoma cases with high abundant CTCs prior to operation will undergo lobectomy&lymphadenectomy plus adjuvant chemotherapy. Postoperative CTC monitoring will be conducted.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: lobectomy",
+                "Drug: chemotherapy（pemetrexed+CISPLATIN）",
+                "Procedure: Lymphadenectomy",
+                "Other: CanPatrolTM to detect CTCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "IB-CTC-High-controls",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "IB lung adenocarcinoma cases with high abundant CTCs prior to operation will undergo lobectomy&lymphadenectomy. Postoperative CTC monitoring will be conducted.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: lobectomy",
+                "Procedure: Lymphadenectomy",
+                "Other: CanPatrolTM to detect CTCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "IB-CTC-low-controls",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "IB lung adenocarcinoma cases with low abundant CTCs prior to operation will undergo lobectomy&lymphadenectomy. Postoperative CTC monitoring will be conducted.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: lobectomy",
+                "Procedure: Lymphadenectomy",
+                "Other: CanPatrolTM to detect CTCs"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "lobectomy",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "IA-CTC-High-controls",
+                "IA-CTC-High-enhance",
+                "IB-CTC-High-controls",
+                "IB-CTC-High-enhance",
+                "IB-CTC-low-controls"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "segmentecomy",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "IA-CTC-low-controls"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "chemotherapy（pemetrexed+CISPLATIN）",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "IA-CTC-High-enhance",
+                "IB-CTC-High-enhance"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Lymphadenectomy",
+            "InterventionDescription": "Lymphadenectomy or lymph node dissection is the surgical removal of one or more groups of lymph nodes. It is almost always performed as part of the surgical management of cancer. In a regional lymph node dissection, some of the lymph nodes in the tumor area are removed; in a radical lymph node dissection, most or all of the lymph nodes in the tumor area are removed.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "IA-CTC-High-controls",
+                "IA-CTC-High-enhance",
+                "IB-CTC-High-controls",
+                "IB-CTC-High-enhance",
+                "IB-CTC-low-controls"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "CanPatrolTM to detect CTCs",
+            "InterventionDescription": "CanPatrol TM was used to detect CTCs, which is a newly established technology to detect CTCs, containing the following steps: (1) To remove erythrocytes by red blood cell lysis and deplete CD45+ leukocytes in 10ml blood sample using a magnetic bead separation method; (2) To enrich CTCs by 8-μm-diameter-pore calibrated membrane filters; and (3) To identify and characterize CTCs by using RNA-in situ hybridization (ISH), based on the branched DNA (bDNA) signal amplification technology, to detect EMT markers, e.g., cytokeratins(CK) 8, 18 and 19, epithelial cell adhesion molecule (EpCAM), vimentin and twist. The details of classification of CTCs by using CanPatrol TM was depicted in the recently published protocol. Finally, the CTCs were clustered into three subtypes, as per the EMT markers, i.e., epithelial (E-) CTCs, mesenchymal (M-) CTCs and epithelial- mesenchymal (E&M-) CTCs.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "IA-CTC-High-controls",
+                "IA-CTC-High-enhance",
+                "IA-CTC-low-controls",
+                "IB-CTC-High-controls",
+                "IB-CTC-High-enhance",
+                "IB-CTC-low-controls"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Disease free survival",
+            "PrimaryOutcomeTimeFrame": "From date of diagnosis until the date of first documented progression or date of cancer related death , whichever came first, assessed up to 60 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nstage I lung adenocarcinoma\n\nExclusion Criteria:\n\ncases with any new adjuvant treatment prior to surgery",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "45 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Daping hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Chongqing",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Bo Deng",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+86-13637782166",
+                  "LocationContactEMail": "deng.bo@dphospital.tmmu.edu.cn"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "21098695",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Hofman V, Bonnetaud C, Ilie MI, Vielh P, Vignaud JM, Fléjou JF, Lantuejoul S, Piaton E, Mourad N, Butori C, Selva E, Poudenx M, Sibon S, Kelhef S, Vénissac N, Jais JP, Mouroux J, Molina TJ, Hofman P. Preoperative circulating tumor cell detection using the isolation by size of epithelial tumor cell method for patients with lung cancer is a new prognostic biomarker. Clin Cancer Res. 2011 Feb 15;17(4):827-35. doi: 10.1158/1078-0432.CCR-10-0445. Epub 2010 Nov 23."
+          },
+          {
+            "ReferencePMID": "26913536",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Bayarri-Lara C, Ortega FG, Cueto Ladrón de Guevara A, Puche JL, Ruiz Zafra J, de Miguel-Pérez D, Ramos AS, Giraldo-Ospina CF, Navajas Gómez JA, Delgado-Rodriguez M, Lorente JA, Serrano MJ. Circulating Tumor Cells Identify Early Recurrence in Patients with Non-Small Cell Lung Cancer Undergoing Radical Resection. PLoS One. 2016 Feb 25;11(2):e0148659. doi: 10.1371/journal.pone.0148659. eCollection 2016."
+          },
+          {
+            "ReferencePMID": "17554991",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Sawabata N, Okumura M, Utsumi T, Inoue M, Shiono H, Minami M, Nishida T, Sawa Y. Circulating tumor cells in peripheral blood caused by surgical manipulation of non-small-cell lung cancer: pilot study using an immunocytology method. Gen Thorac Cardiovasc Surg. 2007 May;55(5):189-92."
+          },
+          {
+            "ReferencePMID": "21128227",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Hofman V, Ilie MI, Long E, Selva E, Bonnetaud C, Molina T, Vénissac N, Mouroux J, Vielh P, Hofman P. Detection of circulating tumor cells as a prognostic factor in patients undergoing radical surgery for non-small-cell lung carcinoma: comparison of the efficacy of the CellSearch Assay™ and the isolation by size of epithelial tumor cell method. Int J Cancer. 2011 Oct 1;129(7):1651-60. doi: 10.1002/ijc.25819. Epub 2011 Mar 11."
+          },
+          {
+            "ReferencePMID": "18514066",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Liu L, Liao GQ, He P, Zhu H, Liu PH, Qu YM, Song XM, Xu QW, Gao Q, Zhang Y, Chen WF, Yin YH. Detection of circulating cancer cells in lung cancer patients with a panel of marker genes. Biochem Biophys Res Commun. 2008 Aug 8;372(4):756-60. doi: 10.1016/j.bbrc.2008.05.101. Epub 2008 Jun 2."
+          },
+          {
+            "ReferencePMID": "10788810",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Yamashita JI, Kurusu Y, Fujino N, Saisyoji T, Ogawa M. Detection of circulating tumor cells in patients with non-small cell lung cancer undergoing lobectomy by video-assisted thoracic surgery: a potential hazard for intraoperative hematogenous tumor cell dissemination. J Thorac Cardiovasc Surg. 2000 May;119(5):899-905."
+          },
+          {
+            "ReferencePMID": "23861795",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Nair VS, Keu KV, Luttgen MS, Kolatkar A, Vasanawala M, Kuschner W, Bethel K, Iagaru AH, Hoh C, Shrager JB, Loo BW Jr, Bazhenova L, Nieva J, Gambhir SS, Kuhn P. An observational study of circulating tumor cells and (18)F-FDG PET uptake in patients with treatment-naive non-small cell lung cancer. PLoS One. 2013 Jul 5;8(7):e67733. doi: 10.1371/journal.pone.0067733. Print 2013."
+          },
+          {
+            "ReferencePMID": "20471712",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Yoon SO, Kim YT, Jung KC, Jeon YK, Kim BH, Kim CW. TTF-1 mRNA-positive circulating tumor cells in the peripheral blood predict poor prognosis in surgically resected non-small cell lung cancer patients. Lung Cancer. 2011 Feb;71(2):209-16. doi: 10.1016/j.lungcan.2010.04.017. Epub 2010 May 14."
+          },
+          {
+            "ReferencePMID": "25996878",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Chen X, Wang X, He H, Liu Z, Hu JF, Li W. Combination of circulating tumor cells with serum carcinoembryonic antigen enhances clinical prediction of non-small cell lung cancer. PLoS One. 2015 May 21;10(5):e0126276. doi: 10.1371/journal.pone.0126276. eCollection 2015."
+          },
+          {
+            "ReferencePMID": "18606477",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Yie SM, Lou B, Ye SR, He X, Cao M, Xie K, Ye NY, Lin R, Wu SM, Xiao HB, Gao E. Clinical significance of detecting survivin-expressing circulating cancer cells in patients with non-small cell lung cancer. Lung Cancer. 2009 Feb;63(2):284-90. doi: 10.1016/j.lungcan.2008.05.024. Epub 2008 Jul 7."
+          },
+          {
+            "ReferencePMID": "21215651",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Funaki S, Sawabata N, Nakagiri T, Shintani Y, Inoue M, Kadota Y, Minami M, Okumura M. Novel approach for detection of isolated tumor cells in pulmonary vein using negative selection method: morphological classification and clinical implications. Eur J Cardiothorac Surg. 2011 Aug;40(2):322-7. doi: 10.1016/j.ejcts.2010.11.029. Epub 2011 Jan 7."
+          },
+          {
+            "ReferencePMID": "26317979",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Yin J, Wang Y, Yin H, Chen W, Jin G, Ma H, Dai J, Chen J, Jiang Y, Wang H, Liu Z, Hu Z, Shen H. Circulating Tumor Cells Enriched by the Depletion of Leukocytes with Bi-Antibodies in Non-Small Cell Lung Cancer: Potential Clinical Application. PLoS One. 2015 Aug 28;10(8):e0137076. doi: 10.1371/journal.pone.0137076. eCollection 2015."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000000230",
+            "ConditionMeshTerm": "Adenocarcinoma"
+          },
+          {
+            "ConditionMeshId": "D000009360",
+            "ConditionMeshTerm": "Neoplastic Cells, Circulating"
+          },
+          {
+            "ConditionMeshId": "D000077192",
+            "ConditionMeshTerm": "Adenocarcinoma of Lung"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000002277",
+            "ConditionAncestorTerm": "Carcinoma"
+          },
+          {
+            "ConditionAncestorId": "D000009375",
+            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009362",
+            "ConditionAncestorTerm": "Neoplasm Metastasis"
+          },
+          {
+            "ConditionAncestorId": "D000009385",
+            "ConditionAncestorTerm": "Neoplastic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000008175",
+            "ConditionAncestorTerm": "Lung Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000012142",
+            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000013899",
+            "ConditionAncestorTerm": "Thoracic Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2737",
+            "ConditionBrowseLeafName": "Adenocarcinoma",
+            "ConditionBrowseLeafAsFound": "Adenocarcinoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M1687",
+            "ConditionBrowseLeafName": "Adenocarcinoma of Lung",
+            "ConditionBrowseLeafAsFound": "Lung Adenocarcinoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11457",
+            "ConditionBrowseLeafName": "Neoplastic Cells, Circulating",
+            "ConditionBrowseLeafAsFound": "Circulating Tumor Cells",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4686",
+            "ConditionBrowseLeafName": "Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11472",
+            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11459",
+            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11482",
+            "ConditionBrowseLeafName": "Neoplastic Processes",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10324",
+            "ConditionBrowseLeafName": "Lung Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14131",
+            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15810",
+            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3520",
+            "ConditionBrowseLeafName": "Lung Adenocarcinoma",
+            "ConditionBrowseLeafAsFound": "Lung Adenocarcinoma",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000068437",
+            "InterventionMeshTerm": "Pemetrexed"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000005493",
+            "InterventionAncestorTerm": "Folic Acid Antagonists"
+          },
+          {
+            "InterventionAncestorId": "D000019384",
+            "InterventionAncestorTerm": "Nucleic Acid Synthesis Inhibitors"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M264",
+            "InterventionBrowseLeafName": "Pemetrexed",
+            "InterventionBrowseLeafAsFound": "New",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M5334",
+            "InterventionBrowseLeafName": "Cisplatin",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M7770",
+            "InterventionBrowseLeafName": "Folic Acid",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M16698",
+            "InterventionBrowseLeafName": "Vitamin B Complex",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M7771",
+            "InterventionBrowseLeafName": "Folic Acid Antagonists",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "T447",
+            "InterventionBrowseLeafName": "Folinic Acid",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "T446",
+            "InterventionBrowseLeafName": "Folic Acid",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "T448",
+            "InterventionBrowseLeafName": "Folate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "T475",
+            "InterventionBrowseLeafName": "Vitamin B9",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Micro",
+            "InterventionBrowseBranchName": "Micronutrients"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Hemat",
+            "InterventionBrowseBranchName": "Hematinics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Vi",
+            "InterventionBrowseBranchName": "Vitamins"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05127122",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "DB-EF-EXITARDS-0003"
+      },
+      "Organization": {
+        "OrgFullName": "Direct Biologics, LLC",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles Infusion Treatment for ARDS",
+      "OfficialTitle": "Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles Infusion Treatment for Acute Respiratory Distress Syndrome: A Phase I/II Clinical Trial",
+      "Acronym": "EXIT-ARDS"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 9, 2021",
+      "StudyFirstSubmitQCDate": "November 9, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 19, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 23, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 6, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Direct Biologics, LLC",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "To evaluate the safety and efficacy of intravenous(IV) administration of bone marrow mesenchymal stem cell derived extracellular vesicles(EV), ExoFlo, as treatment for Acute Respiratory Distress Syndrome."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "ARDS, Human"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "ExoFlo",
+          "EXIT-ARDS",
+          "ARDS",
+          "Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles",
+          "Direct Biologics"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Crossover Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "81",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Placebo Saline",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Saline",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Saline"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "10mL Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "ExoFlo (Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "15mL Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "ExoFlo (Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles",
+            "InterventionDescription": "Injectable",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "10mL Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles",
+                "15mL Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "ExoFlo"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Saline",
+            "InterventionDescription": "Placebo Saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo Saline"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "The incidence of serious adverse events.",
+            "PrimaryOutcomeTimeFrame": "60 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number to patients with All-Cause Mortality at 28 days",
+            "PrimaryOutcomeTimeFrame": "28 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Ventilator-free days at 28days",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in partial pressure of arterial oxygen to fraction of inspired oxygen (PaO2/FiO2) ratio from pre-infusion baseline(Day 0)to Day 7.PaO2 may be calculated from arterial blood gas (ABG)or imputed from the SpO2daily.",
+            "SecondaryOutcomeTimeFrame": "7 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nProvision of signed and dated informed consent form (either by the individual or by the individual's healthcare proxy).\nStated willingness to comply with all study procedures and availability for the duration of the study\nMale or female aged 18-85.\nModerate to severe ARDS as defined by modified Berlin definition (See Section 2.2.1), which includes timing within 1 week of known clinical insult or new or worsening respiratory symptoms; bilateral opacities not fully explained by effusions, or lung collapse; respiratory failure not fully explained by cardiac failure or fluid overload; PaO2/FiO2 ≤ 200 mm Hg.\nHypoxia requiring noninvasive oxygen support such as Nasal Cannula (NC), Nonrebreather (NRB), Bilevel Positive Airway Pressure (BIPAP), Continuous Positive Airway Pressure (CPAP), high flow nasal cannula oxygen (HFNC O2) or mechanical ventilation (MV) despite initiating standard of care.\nIf the candidate is either a male or female of reproductive potential, he or she must agree to use of double barrier method of highly effective birth control contraception such as condoms with oral contraceptive pill or choose to remain abstinent if already practicing abstinence during the screening period. The required duration of usage of double barrier method OR maintenance of abstinence must include the time from the beginning of the screening period until 90 days following the last dose of the study treatment.\n\nExclusion Criteria:\n\nVulnerable populations such as pregnant patients, children, individuals with severe physical or mental disabilities who cannot provide meaningful consent.\nActive malignancy requiring treatment within the last five years.\nMajor physical trauma in the last 2 days, including motor vehicle accidents, assaults, mechanical falls with sequelae of significant bleeding or craniofacial bruising, and surgeries, such that not one or more injury may be undiagnosed at time of screening.\nDiagnosis or suspected diagnosis of sepsis without basic microbiology cultures (urinalysis, urine culture, two sets of blood cultures, respiratory culture, at least a standard respiratory viral panel PCR) being collected prior to screening. (Note: Standard respiratory viral panel is defined by at least PCR testing for Adenovirus, Influenza A, Influenza B, Parainfluenza 1-3, Rhinovirus/Enterovirus, and RSV.)\nDuration of mechanical ventilation exceeds 5 days or 120 hours.\nSevere pre-existing organ dysfunction prior to admission, as evidenced by being currently listed on one or more organ transplant list, or intermittent Hemodialysis (HD) or Peritoneal Dialysis.\nPresence of severe hematologic disorder or coagulopathy, such as Disseminated Intravascular Coagulopathy, as evidenced by the activation of a Massive Transfusion Protocols (as defined by the rapid administration of packed Red Blood Cells, Fresh Frozen Plasma and Platelets in fixed ratios, including at least 6 packed Red Blood Cells, within a 24 hour period) within 72 hours or frequent thrombosis of catheters (as specified by replacing 2 catheters or more within a 72 hour period of new placement) within 72 hours.\nSevere anemia or myelodysplastic syndrome requiring more than 10 units of packed Red Blood Cells transfused within the last 12 months.\nPatient is currently connected to Extracorporal Membrane Oxygenation.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "85 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Heidi Moran",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "800-791-1021",
+            "CentralContactEMail": "hmoran@directbiologics.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Vikram Sengupta, MD",
+            "OverallOfficialAffiliation": "Direct Biologics",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012128",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "ARDS, Human",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,750 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04390152",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "BIOXSOMCOV001"
+      },
+      "Organization": {
+        "OrgFullName": "BioXcellerator",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Safety and Efficacy of Intravenous Wharton's Jelly Derived Mesenchymal Stem Cells in Acute Respiratory Distress Syndrome Due to COVID 19",
+      "OfficialTitle": "Safety and Efficacy of Intravenous Infusion of Wharton's Jelly Derived Mesenchymal Stem Cell Plus Standard Therapy for the Treatment of Patients With Acute Respiratory Distress Syndrome Diagnosis Due to COVID 19: A Randomized Controlled Trial"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 13, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 12, 2020",
+      "StudyFirstSubmitQCDate": "May 14, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 15, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 13, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 15, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "BioXcellerator",
+        "LeadSponsorClass": "INDUSTRY"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Clinical Somer",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Recent COVID 19 pandemic has overwhelmed health services all around the world, and humanity has yet to find a cure or a vaccine for the treatment of patients, mainly the severe ones, who pose a therapeutic challenge to healthcare professionals given the paucity of information we have regarding SARS-CoV-2 pathogenesis.\n\nRecently, reports mainly from China from patients treated with mesenchymal stem cells have shown promise in accelerating recovery, even in the critically ill and the therapy has sustained an increase in research because of it's powerful immunomodulatory effects, making it and interesting alternative in patients with lung and systemic inflammation.\n\nThese effects could help treat a lot of patients and improve their outcomes, reason why phase I/II studies are needed to show their safety and experimental efficacy.",
+      "DetailedDescription": "SARS-CoV-2, virus culprit of the COVID 19 that emerged in China, has become now a worldwide problem, with more than three million cases al around the world as reported by the World Health Organization. This situation has put health systems under extreme pressure, being overwhelmed be the amount of patients requiring attention.\n\nAround 5% of patients will require ICU internation, due to severe lung inflammation giving rise to Acute Respiratory Distress Syndrome (ARDS) and a cytokine storm that ultimately affects other organs. In this group, mortality can be as high as 40%.\n\nMesenchymal stem cells (MSC) have shown great immunomodulatory effects, and are used in other inflammatory conditions as autoimmune diseases, being safe and preliminary effective in improving patients health status. They exert their effect via paracrine and autocrine pathways and have been shown to reduce IL-1, IL-6, Tumor necrosis factor alpha and increase IL-10 in COVID 19 patients. One of the greater advantages of the MSC is that they express no Major Histocompatibility Complex, reducing the risk of host immune reaction.\n\nGiven their immunomodulatory effects, research in this topic showing their safety and experimental efficacy are needed, as therapies for severe patients are lacking. Patients, researchers and data analysts will be blinded, and ARDS patients will be randomly allocated in standard therapy plus MSC arm or standard therapy alone to answer these questions."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Acute Respiratory Distress Syndrome"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "coronavirus",
+          "stem cell research",
+          "mesenchymal stem cell"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignMaskingDescription": "Patient code will be stored in sealed, opaque envelops with their respective codification. These envelops will be stored in Clinica Somer's Research Unit and the only person with access permission will be the pharmaceutical chemist in charge. Treatment delivery (MSC or placebo) will also be in charge of the chemist, guaranteeing blinding of patient and healthcare professionals. Data analysis will be done by people blind to the treatment received by each patient.",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Mesenchymal stem cell",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "WJ MSC 50*10e6, two doses plus standard treatment with hydroxychloroquine + Lopinavir/Ritonavir or Azithromycin and ventilation support.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Wharton's jelly derived Mesenchymal stem cells."
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Hydroxychloroquine, lopinavir/ritonavir and ventilation support plus placebo",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Hydroxychloroquine, lopinavir/ritonavir or azithromycin and placebo (standard therapy)"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Wharton's jelly derived Mesenchymal stem cells.",
+            "InterventionDescription": "IV Wharton's jelly derived Mesenchymal stem cells, two doses",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Mesenchymal stem cell"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Hydroxychloroquine, lopinavir/ritonavir or azithromycin and placebo (standard therapy)",
+            "InterventionDescription": "Standard therapy as per hospital protocol, hydroxychloroquine 400mg + Lopinavir/Ritonavir 400/100 or azithromycin 500mg and Placebo",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Intergroup mortality difference with treatment",
+            "PrimaryOutcomeDescription": "Evaluation of efficacy of WJ-MSC defined by mortality at 28 days of application.",
+            "PrimaryOutcomeTimeFrame": "28 days."
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Number of patients with treatment related adverse events",
+            "SecondaryOutcomeDescription": "Safety evaluation of WJ-MSC describing and comparing incidence, type and severity of adverse events in both groups.",
+            "SecondaryOutcomeTimeFrame": "6 months."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Difference in days of mechanical ventilation between groups",
+            "SecondaryOutcomeDescription": "Evaluation of the effect of WJ-MSC in the time of mechanical ventilation compared between the two groups, as prolonged mechanical ventilation days are associated with higher complication risks as pneumonia, tracheostomy and death.",
+            "SecondaryOutcomeTimeFrame": "From ICU admission to 180 days."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Median reduction of days of hospitalization",
+            "SecondaryOutcomeDescription": "Evaluation of the effect of WJ-MSC in the time of hospitalization between the two groups as a measure of efficacy.",
+            "SecondaryOutcomeTimeFrame": "From hospital admission to 180 days."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Median reduction of days of oxygen needs",
+            "SecondaryOutcomeDescription": "Evaluation of the effect of WJ-MSC in the time of oxygen needs compared between the two groups as a measure of efficacy.",
+            "SecondaryOutcomeTimeFrame": "From hospital admission to 180 days."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Difference between \"Sequential Organ Failure Assessment\" score between groups",
+            "SecondaryOutcomeDescription": "\"Sequential Organ Failure Assessment\" (SOFA) score is a tool used to determine the beginning and evolution of multiorgan failure, ranging from 0 to 24, being 24 the worst scenario. It has been proven useful as an outcome predictor of mortality and ICU stay. The result is the addition of the evaluation of each organ or system. Effect of WJ-MSC in the SOFA score will be compared between the two groups.",
+            "SecondaryOutcomeTimeFrame": "Baseline to 7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Difference between median Murray score between groups",
+            "SecondaryOutcomeDescription": "Murray score is a tool used to classify lung injury. 0 = no lung injury, 0.1-2.5, mild to moderate lund injury, >2.5 Acute respiratory distress syndrome.\n\nThe effect of WJ-MSC in the Murray score will be compared between the two groups.",
+            "SecondaryOutcomeTimeFrame": "Baseline and 7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Difference in APACHE II score between groups",
+            "SecondaryOutcomeDescription": "APACHE II is a prognostic score based on 12 different items obtained in the first 24 hours of ICU admission. Its mainly used as a single measure, but some authors have used and described prediction usefulness with repeated measures. It ranges from 0 to 71 points. Higher scores are related to higher ICU mortality.\n\nThe effect of WJ-MSC in the APACHE II score will compared between the two groups.",
+            "SecondaryOutcomeTimeFrame": "Baseline and 7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Difference in lymphocyte count between groups",
+            "SecondaryOutcomeDescription": "Evaluation of the effect of WJ-MSC in lymphocyte count measured in absolute number/mm3.\n\nThese laboratory measures have been associated with COVID 19 severity.",
+            "SecondaryOutcomeTimeFrame": "baseline and 21 days or discharge"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in C reactive protein concentration between groups",
+            "SecondaryOutcomeDescription": "Evaluation of the effect of WJ-MSC in C reactive protein concentration between the two groups, measured in mg/dl.\n\nHighest levels have been associated with COVID 19 severity and inflammation.",
+            "SecondaryOutcomeTimeFrame": "baseline and 21 days or discharge"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in D dimer concentration",
+            "SecondaryOutcomeDescription": "Evaluation of the effect of WJ-MSC in D dimer between the two groups, measured in micrograms Highest levels have been associated with COVID 19 severity and thromboembolic complications.",
+            "SecondaryOutcomeTimeFrame": "baseline and 21 days or discharge"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in ferritin concentration",
+            "SecondaryOutcomeDescription": "Evaluation of the effect of WJ-MSC in ferritin compared between the two groups, measured in nanograms/ml.\n\nThese laboratory measures have been associated with COVID 19 infection and severity.",
+            "SecondaryOutcomeTimeFrame": "baseline and 21 days or discharge"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in lactate dehydrogenase concentration",
+            "SecondaryOutcomeDescription": "Evaluation of the effect of WJ-MSC in LDH compared between the two groups, measured in units/liter.\n\nThese laboratory measures have been associated with COVID 19 infection and severity.",
+            "SecondaryOutcomeTimeFrame": "baseline and 21 days or discharge"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Impact on interleukin 6 concentrations between groups.",
+            "SecondaryOutcomeDescription": "Cytokines are biomarkers of inflammation or inflammatory activity in the human body. Changes in this profile give information about underlying process of inflammation.The effect of WJ-MSC in IL-6 will be compared between the two groups. It will be measured in picograms/ml.",
+            "SecondaryOutcomeTimeFrame": "Baseline and 7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Impact on interleukin 8 concentrations between groups.",
+            "SecondaryOutcomeDescription": "Cytokines are biomarkers of inflammation or inflammatory activity in the human body. Changes in this profile give information about underlying process of inflammation. The effect of WJ-MSC in IL 8 will be compared between the two groups. It will be measured in picograms/ml.",
+            "SecondaryOutcomeTimeFrame": "Baseline and 7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Impact on interleukin 10 concentrations between groups.",
+            "SecondaryOutcomeDescription": "Cytokines are biomarkers of inflammation or inflammatory activity in the human body. Changes in this profile give information about underlying process of inflammation. The effect of WJ-MSC in IL 10 will be compared between the two groups. It will be measured in picograms/ml.",
+            "SecondaryOutcomeTimeFrame": "Baseline and 7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Impact on tumor necrosis factor alpha concentrations between groups.",
+            "SecondaryOutcomeDescription": "Cytokines are biomarkers of inflammation or inflammatory activity in the human body. Changes in this profile give information about underlying process of inflammation. The effect of WJ-MSC in TNF alpha will be compared between the two groups. It will be measured in nanograms/ml.",
+            "SecondaryOutcomeTimeFrame": "Baseline to 7 days."
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Changes in 6 minute walk between groups",
+            "OtherOutcomeDescription": "Evaluation of the effect of WJ-MSC in pulmonary function measured with 6 minute walk.\n\n6 minute walk is a test that gives information about pulmonary, cardiovascular and musculoskeletal functions. It measures the distance walked in 6 minutes in meters.",
+            "OtherOutcomeTimeFrame": "6 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Changes in Pulmonary Computed Tomography Scan between groups",
+            "OtherOutcomeDescription": "Evaluation of the effect of WJ-MSC in pulmonary function with thoracic CT scan. CT scan gives information about lung parenchyma, showing acute and chronic changes related to the underlying condition. Radiologic findings will be compared mainly comparing percentage of patients with pulmonary fibrosis.",
+            "OtherOutcomeTimeFrame": "6 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Changes in Spirometry between groups",
+            "OtherOutcomeDescription": "Evaluation of the effect of WJ-MSC in pulmonary function measured with spirometry, compared between the two groups. Spirometry gives information about lung volume and mobilization of air.\n\nMain parameters to be measured in spirometry are Forced Vital Capacity, Forced Expiratory Volume in 1 second and relation between these two to define if there is obstruction or restriction of airflow.",
+            "OtherOutcomeTimeFrame": "6 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Changes in health related quality of life between groups",
+            "OtherOutcomeDescription": "Evaluation of the effect of WJ-MSC in health related quality of life assessed by 36 Item Short Survey (SF-36).\n\nSF 36 is a patient reported tool. Each question is rated from 0 to 100, being 100 the best score possible. The scores are then compared to a population defined median score.\n\nDifferences in global and specific scoring will be measured between groups.",
+            "OtherOutcomeTimeFrame": "6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSARS-CoV-2 positive Real Time - Polymerase Chain Reaction\nModerate to severe Acute respiratory distress syndrome according to Murray classification.\nPaO2/FiO2 less than 200 mmHg.\nWithin 36 hours of orotracheal intubation.\nAbsence of response with previous standard therapy.\nWilling to participate in the study expressed by patient or responsible caregiver.\nNot being in other clinical trial.\n\nExclusion Criteria:\n\nCurrent pregnancy.\nCardiac rhythm abnormalities with instability.\nAcute congestive heart failure/cardiogenic shock.\nSevere comorbidities affecting mortality as defined by research group.\nCancer history in the past 5 years.\nHIV, syphilis, hepatitis B or C.\nConcomitant use of immunosuppressive therapy with contraindication to MSC.\nFivefold elevation of liver enzymes (ALT, AST).\nChronic kidney disease with glomerular filtration rate below 30ml/min or dialytic needs.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Alfredo Hernandez-Ruiz, MSc",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+5745699999",
+            "CentralContactPhoneExt": "5386",
+            "CentralContactEMail": "ahernandez@clinicasomer.com"
+          },
+          {
+            "CentralContactName": "Santiago Saldarriaga-Gomez, MSc",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+5746041815",
+            "CentralContactEMail": "santiago.saldarriaga@bioxcellerator.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Alfredo Hernandez-Ruiz, MSc",
+            "OverallOfficialAffiliation": "Clinica Somer",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "BioXcellerator",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Medellin",
+            "LocationState": "Antioquia-CO",
+            "LocationZip": "050022",
+            "LocationCountry": "Colombia",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Karolynn Halpert, Dr.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "6041815"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Clinical Somer",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Rionegro",
+            "LocationState": "Antioquia",
+            "LocationCountry": "Colombia",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Alfredo Hernandez-Ruiz, MSc",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+574442630"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No",
+      "IPDSharingDescription": "Individual data won't be shared."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012128",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000012127",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome, Newborn"
+          },
+          {
+            "ConditionMeshId": "D000055371",
+            "ConditionMeshTerm": "Acute Lung Injury"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007235",
+            "ConditionAncestorTerm": "Infant, Premature, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007232",
+            "ConditionAncestorTerm": "Infant, Newborn, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000055370",
+            "ConditionAncestorTerm": "Lung Injury"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27296",
+            "ConditionBrowseLeafName": "Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9431",
+            "ConditionBrowseLeafName": "Infant, Premature, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9428",
+            "ConditionBrowseLeafName": "Infant, Newborn, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000019438",
+            "InterventionMeshTerm": "Ritonavir"
+          },
+          {
+            "InterventionMeshId": "D000061466",
+            "InterventionMeshTerm": "Lopinavir"
+          },
+          {
+            "InterventionMeshId": "D000017963",
+            "InterventionMeshTerm": "Azithromycin"
+          },
+          {
+            "InterventionMeshId": "D000006886",
+            "InterventionMeshTerm": "Hydroxychloroquine"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000017320",
+            "InterventionAncestorTerm": "HIV Protease Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000084762",
+            "InterventionAncestorTerm": "Viral Protease Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000011480",
+            "InterventionAncestorTerm": "Protease Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000019380",
+            "InterventionAncestorTerm": "Anti-HIV Agents"
+          },
+          {
+            "InterventionAncestorId": "D000044966",
+            "InterventionAncestorTerm": "Anti-Retroviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000998",
+            "InterventionAncestorTerm": "Antiviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          },
+          {
+            "InterventionAncestorId": "D000065692",
+            "InterventionAncestorTerm": "Cytochrome P-450 CYP3A Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000065607",
+            "InterventionAncestorTerm": "Cytochrome P-450 Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000000900",
+            "InterventionAncestorTerm": "Anti-Bacterial Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000962",
+            "InterventionAncestorTerm": "Antimalarials"
+          },
+          {
+            "InterventionAncestorId": "D000000981",
+            "InterventionAncestorTerm": "Antiprotozoal Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000977",
+            "InterventionAncestorTerm": "Antiparasitic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M19284",
+            "InterventionBrowseLeafName": "Azithromycin",
+            "InterventionBrowseLeafAsFound": "Donor",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M20547",
+            "InterventionBrowseLeafName": "Ritonavir",
+            "InterventionBrowseLeafAsFound": "Including",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M9092",
+            "InterventionBrowseLeafName": "Hydroxychloroquine",
+            "InterventionBrowseLeafAsFound": "Selected",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M28990",
+            "InterventionBrowseLeafName": "Lopinavir",
+            "InterventionBrowseLeafAsFound": "American",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M18761",
+            "InterventionBrowseLeafName": "HIV Protease Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M13495",
+            "InterventionBrowseLeafName": "Protease Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20503",
+            "InterventionBrowseLeafName": "Anti-HIV Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M24581",
+            "InterventionBrowseLeafName": "Anti-Retroviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3466",
+            "InterventionBrowseLeafName": "Antiviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M29717",
+            "InterventionBrowseLeafName": "Cytochrome P-450 CYP3A Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M29690",
+            "InterventionBrowseLeafName": "Cytochrome P-450 Enzyme Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3374",
+            "InterventionBrowseLeafName": "Anti-Bacterial Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3432",
+            "InterventionBrowseLeafName": "Antimalarials",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3450",
+            "InterventionBrowseLeafName": "Antiprotozoal Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3446",
+            "InterventionBrowseLeafName": "Antiparasitic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          }
+        ]
+      }
+    }
+  }
+}

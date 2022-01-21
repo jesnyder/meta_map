@@ -1,0 +1,351 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03969680",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2019-002"
+      },
+      "Organization": {
+        "OrgFullName": "Yantai Yuhuangding Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cell Transplantation for Osteoarthritis",
+      "OfficialTitle": "Autologous Mesenchymal Stem Cell Transplantation for the Treatment of Knee Osteoarthritis"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2020",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 8, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 30, 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 29, 2019",
+      "StudyFirstSubmitQCDate": "May 29, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 31, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 21, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 22, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Peiwen Lian",
+        "ResponsiblePartyInvestigatorTitle": "Principle Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Yantai Yuhuangding Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Yantai Yuhuangding Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to explore the efficacy and safety of autologous bone marrow-derived mesenchymal stem cells (BMSCs) plus autologous platelet rich plasma (PRP) in the treatment of severe knee osteoarthritis.",
+      "DetailedDescription": "This is a single centered, randomized, single blind phase II clinical study. Patients will be divided into two groups of case and control. Patients of case group will receive intra-articular injection of autologous BMSCs suspended in 3 ml autologous PRP for 3 times, patients of control group will receive intra-articular injection of 3 ml of autologous PRP for 3 times. The investigators designed this clinical study to evaluate therapeutic effects of BM-MSCs in patients with severe knee osteoarthritis."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Knee Osteoarthritis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "BMSCs plus PRP group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Three intra-articular injections in total and autologous bone marrow-derived mesenchymal stem cells (BMSCs) suspended in 3 ml autologous platelet rich plasma (PRP) for each injection. Time-points for intervention: 1) initial injection; 2) 3 months following initial injection; 3) 6 months following initial injection.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Auotologous BMSCs plus autologous PRP"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "PRP group",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Three intra-articular injections in total and 3 ml autologous platelet rich plasma (PRP) for each injection. Time-points for intervention: 1) initial injection; 2) 3 months following initial injection; 3) 6 months following initial injection.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Auotologous PRP"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Auotologous BMSCs plus autologous PRP",
+            "InterventionDescription": "30 mL of bone marrow will be aspirated from the iliac crests of patients in case group. BMSCs will be isolated from bone marrow and cultured. Before injection, 30 mL of blood will be collected from each patient to produce 3ml PRP by cenrifugation. Cultured BMSCs will be collected and suspended by 3ml autologous PRP.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "BMSCs plus PRP group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Auotologous PRP",
+            "InterventionDescription": "30 mL of blood will be collected from each patient to produce 3ml PRP by cenrifugation.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "PRP group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Physical function change",
+            "PrimaryOutcomeDescription": "Evaluation the physical function change Measured by WOMAC osteoarthritis index.",
+            "PrimaryOutcomeTimeFrame": "From before randomization until 3, 6, and 12 months after treatment start."
+          },
+          {
+            "PrimaryOutcomeMeasure": "Change in pain density",
+            "PrimaryOutcomeDescription": "Evaluation the changing of pain density measured by Visual Analogue Scale. Draw a 10 cm horizontal line on the paper. One end of the line is 0, indicating no pain; the other end is 10, indicating severe pain; and the middle part indicates varying degrees of pain. The patient selects a point from the horizontal line and the length from 0 to this point is the Visual Analogue Scale score.",
+            "PrimaryOutcomeTimeFrame": "From before randomization until 3, 6, and 12 months after treatment start."
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Cartilage repair",
+            "SecondaryOutcomeDescription": "Evaluation of cartilage repair under MRI. Recht criterion was used for grading articular cartilage injury of knee joint, including 0-IV grade, in which: 0 grade, normal articular cartilage, no obvious abnormal signal was found; 1 grade, the layered structure of cartilage disappeared, and there were focal low signal areas, but the surface was smooth; 2 grade, the surface of cartilage was irregular, the depth of cartilage injury was less than 50% cartilage thickness; 3 grade, the surface of cartilage was heavy. The degree of injury is irregular, the depth of injury is more than 50% of the thickness of cartilage or through the whole layer, but the surface of cartilage is not completely exfoliated; Grade IV, full-thickness cartilage defect, articular cartilage injury deep to the cortex, subchondral bone exposed.",
+            "SecondaryOutcomeTimeFrame": "From before randomization until 3, 6, and 12 months after treatment start."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in MOS item short from health survey(SF-36)",
+            "SecondaryOutcomeDescription": "Evaluation of the health-related quality of life change Measured by MOS item short from health survey(SF-36) after each cell injection. SF-36 is a self-administered questionnaire comprising 36-items measuring eight dimensions of general HRQOL: physical functioning (10 items), role limitation due to physical health problems (4 items), bodily pain (2 items), general health perceptions (5 items), vitality (4 items), social functioning (2 items), role limitations due to emotional problems (3 items), and general mental health (5 items).These outcomes will be grouped as physical component summary and mental component summary. The norm data is 0-100, the health related quality of life is increases as the scores are increased. The average score is 50.",
+            "SecondaryOutcomeTimeFrame": "From before randomization until 3, 6, and 12 months after treatment start."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Lequesne Index",
+            "SecondaryOutcomeDescription": "Evaluation of severity of knee symptoms Lequesne Index includes the measurement of pain (5 items), walking distance (2 items), and activities of daily living (4 items). Maximal score is 24 and higher scores represent worse function",
+            "SecondaryOutcomeTimeFrame": "From before randomization until 3, 6, and 12 months after treatment start."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in knee society score (KSS)",
+            "SecondaryOutcomeDescription": "The knee society score is divided into four parts: it consists of the ''Symptoms''(25 points), the ''Patient satisfaction''(40 points), the ''Patient expectation''(15 points) and the ''Functional activities''(100 points). Each part will be evaluated separately.Higher scores indicate better knee score/satisfaction/functioning or higher expectations.",
+            "SecondaryOutcomeTimeFrame": "From before randomization until 3, 6, and 12 months after treatment start."
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSubject has Kellgren and Lawrence grade II-IV primary osteoarthritis as determined by X-ray.\nSubject's pain score is 8-13 points (Lequesne's index).\nAges between 40-70 years.\nSigned informed consent from the subject.-\n\nExclusion Criteria:\n\nSubject infected with hepatitis B, hepatitis C, HIV, syphilis or HTLV\nSubject not suitable for bone marrow suction surgery.\nSubject with hypersensitivity/allergy to anesthetic.\nSubject's creatinine values higher than 1.6mg/dl.\nSubject with body mass index, BMI over 30.\nSubject's studied knee treated with intra-articular injection therapy within 6 months prior to screen.\nSubject has undergone surgery on studied knee, including fracture surgery, arthroscopic surgery, meniscus repair surgery, or cruciate ligament reconstruction surgery.\nSubject enrolled in any other cell therapy studies within the past 30 days.\nSubject who the investigator considers inappropriate for the clinical trial due to any other reasons than those listed above.\nSubject has a history of gouty arthritis, septic arthritis, rheumatoid arthritis and any other autoimmune arthritis of the knee joint.\nSubject has had major medical problems in vital organs, such as; heart, liver, kidney, or lung.-",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "40 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Jian Chen, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+0086 5356691999",
+            "CentralContactPhoneExt": "81511",
+            "CentralContactEMail": "chenjianyt@163.com"
+          },
+          {
+            "CentralContactName": "Peiwen Lian, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+0086 5356691999",
+            "CentralContactPhoneExt": "82708",
+            "CentralContactEMail": "peiwen.lian@hotmail.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jian Chen, PhD",
+            "OverallOfficialAffiliation": "Yantai Yuhuangding Hospital",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Yantai Yuhuangding Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Yantai",
+            "LocationState": "Shandong",
+            "LocationZip": "264000",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Peiwen Lian, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+0086 5356691999",
+                  "LocationContactPhoneExt": "82708",
+                  "LocationContactEMail": "peiwen.lian@qq.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010003",
+            "ConditionMeshTerm": "Osteoarthritis"
+          },
+          {
+            "ConditionMeshId": "D000020370",
+            "ConditionMeshTerm": "Osteoarthritis, Knee"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001168",
+            "ConditionAncestorTerm": "Arthritis"
+          },
+          {
+            "ConditionAncestorId": "D000007592",
+            "ConditionAncestorTerm": "Joint Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012216",
+            "ConditionAncestorTerm": "Rheumatic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12078",
+            "ConditionBrowseLeafName": "Osteoarthritis",
+            "ConditionBrowseLeafAsFound": "Osteoarthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21321",
+            "ConditionBrowseLeafName": "Osteoarthritis, Knee",
+            "ConditionBrowseLeafAsFound": "Knee Osteoarthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3628",
+            "ConditionBrowseLeafName": "Arthritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9773",
+            "ConditionBrowseLeafName": "Joint Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14197",
+            "ConditionBrowseLeafName": "Rheumatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5475",
+            "ConditionBrowseLeafName": "Collagen Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

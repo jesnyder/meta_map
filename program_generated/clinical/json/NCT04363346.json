@@ -1,0 +1,394 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04363346",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "IDIM-2020-28708"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2020LS083",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "University of Minnesota Masonic Cancer Center"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Masonic Cancer Center, University of Minnesota",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Study of FT516 for the Treatment of COVID-19 in Hospitalized Patients With Hypoxia",
+      "OfficialTitle": "Study of FT516 Safety and Feasibility for the Treatment of Coronavirus Disease 2019 (COVID-19) in Hospitalized Patients With Hypoxia"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "February 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 14, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 23, 2020",
+      "StudyFirstSubmitQCDate": "April 23, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 27, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "February 1, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "February 2, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Masonic Cancer Center, University of Minnesota",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a Phase I study with the primary objective of identifying the maximum tolerated dose (MTD) of FT516 using 3 dose-escalation strategies (number of doses and cell dose) for the treatment of coronavirus disease 2019 (COVID-19). This study provides initial estimates of safety and efficacy based on stable respiratory function, as well as, determining the feasibility for full-scale studies designed both for efficacy and safety.",
+      "DetailedDescription": "Given the urgency of COVID-19 and the known anti-viral activity of natural killer (NK) cells, this clinical trial uses immediately available off-the-shelf induced pluripotent stem cell (iPSC) derived NK cells already being used to treat cancer patients.\n\nFT516 is an off-the-shelf cryopreserved NK cell product derived from an iPSC that was transduced with a high affinity, ADAM17 non-cleavable CD16 (Fc receptor) that maintains CD16 on the cell surface, which remains fully functional after NK cell activation. The investigators expect that natural developing anti-COVID IgG (early data suggest that some develop in 7-10 days after diagnosis) will enhance targeting of FT516 to infected cells."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID-19"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "COVID-19",
+          "Corona Virus",
+          "SARS-COV-2"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignInterventionModelDescription": "The study starts with a fast-track design by proceeding in cohorts of one patient until the first DLT is observed. If no DLT is observed, escalation continues by one patient per cohort until Dose Strategy 3 is reached. If the MTD is not yet established by Dose Strategy 3, Dose Strategy 3 is expanded to 6 patients using the final stage of a \"3+3\" design. An extension of 4 additional patients is planned if FT516 continues to be safe for a total of 10 patients treated at the MTD.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "5",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Dose Strategy 1",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Dose Strategy 1:\n\nDay 1 - FT516 is given at 9x107 cells/dose (low)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: FT516"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Dose Strategy 2",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Dose Strategy 2:\n\nDay 1 - FT516 is given at 9x107 cells/dose (low) + Day 4 - FT516 is given at 3x108 cells/dose (mid)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: FT516"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Dose Strategy 3",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Dose Strategy 3:\n\nDay 1 - FT516 is given at 9x107 cells/dose (low) + Day 4 - FT516 is given at 3x108 cells/dose (mid) + Day 7 - FT516 is given at 9x108 cells/dose (high)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: FT516"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "FT516",
+            "InterventionDescription": "FT516 is an off-the-shelf cryopreserved NK cell product derived from an iPSC that was transduced with a high affinity, ADAM17 non-cleavable CD16 (Fc receptor) that maintains CD16 on the cell surface, which remains fully functional after NK cell activation.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Dose Strategy 1",
+                "Dose Strategy 2",
+                "Dose Strategy 3"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of participants with Dose Limiting Toxicity Events",
+            "PrimaryOutcomeDescription": "An accelerated (fast-track) design will continue until first DLT is observed or the maximum Tolerated Dose (MTD) is determined.\n\nDLT is defined as any treatment emergent toxicity within 7 days after the last dose of FT516 meeting one of the following criteria based on CTCAE v5:\n\nGrade 3 or greater infusion related reaction following FT516 infusion\n\nAny new or worsening Grade 3 and any Grade 4 adverse events with the exception of the following known complications of COVID-19:\n\nGrade 3 gastrointestinal disorders (diarrhea)\nGrade 3 hepatic investigations (ALT increased, AST increased)\nGrade 3 leukopenia/lymphopenia\nRespiratory deterioration between the 1st dose and 7 days after the last dose of FT516 defined as the need for any type of assisted ventilation (invasive or non-invasive including BiPAP) or oxygen delivery device intended to deliver ≥60% FiO2 (including non-rebreather mask or >10L by simple facemask) to maintain an SpO2 >88%.",
+            "PrimaryOutcomeTimeFrame": "within 7 days after the last dose of FT516"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "The time in days from the 1st FT516 infusion to the elimination of viral shedding in nasal pharyngeal and stool samples",
+            "SecondaryOutcomeTimeFrame": "36 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The time in days from the 1st FT516 infusion to discontinued need for supplemental oxygen",
+            "SecondaryOutcomeTimeFrame": "36 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The time in days from the 1st FT516 infusion to hospital discharge",
+            "SecondaryOutcomeTimeFrame": "36 Days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nHas laboratory-confirmed novel coronavirus (SARS-CoV-2) infection as determined by polymerase chain reaction (PCR), or other commercial or public health assay.\n\nRequires hospitalization and meets the following:\n\nRadiographic infiltrates by imaging (chest x-ray, CT scan)\nAble to maintain Sp02 ≥ 93% oxygen supplementation to a maximum 4L by low flow O2-delivery device at rest\nIL-6 level ≥40 pg/ml but <150 pg/mL OR CRP ≥40 mg/L (4 mg/dL) but <150 mg/L (15 mg/dL)\nFerritin < 1000 ng/mL\nHCT-CI score of 4 or less - For this score, if PFTs results are not available, any patient requiring oxygen prior to COVID-19 illness is not eligible\nReport of usual daily activity level (before COVID-19 illness) of Karnofsky ≥70%\n≥ 18 years of age, but < 76 years at time of consent signing\nFemales of child-bearing potential and males with partners of child-bearing potential must agree to use highly effective contraception from the time of consent and for at least 3 months after the last dose of FT516\nAgrees to and signs the separate consent for up to 15 years of follow-up on a separate LTFU companion study (IDIM-2020-28770)\nVoluntary written consent prior to the performance of any research related procedures\n\nExclusion Criteria:\n\nAny medical condition or clinical laboratory abnormality that per Investigator judgement precludes safe participation in and completion of the study, or which could affect compliance with protocol conduct or interpretation of results.\nNeed for higher-percentage oxygen delivery device (face mask, oxymizer, nonrebreather, venti-mask or pressure support with CPAP/BiPAP)\nPatients with adequate oxygenation on room air\nReceiving concomitant COVID-19 directed therapy (drugs may be stopped to make patients eligible)\nKnown allergy to the following FT516 components: albumin (human) or DMSO\nAny known condition that requires systemic immunosuppressive therapy (> 5mg prednisone daily or equivalent) topical and inhale steroids are permitted\nActive autoimmune disease requiring systemic immunosuppressive therapy\nHistory of severe asthma and currently on chronic systemic medications (mild asthma requiring inhaled steroids only is eligible)\nKnown history of HIV positivity\nPregnant or breast feeding",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "76 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Dr.Joshua Rhein, MD",
+            "OverallOfficialAffiliation": "Department of Medicine, University of Minnesota",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Minnesota",
+            "LocationCity": "Minneapolis",
+            "LocationState": "Minnesota",
+            "LocationZip": "55455",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000000860",
+            "ConditionMeshTerm": "Hypoxia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012818",
+            "ConditionAncestorTerm": "Signs and Symptoms, Respiratory"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3337",
+            "ConditionBrowseLeafName": "Hypoxia",
+            "ConditionBrowseLeafAsFound": "Hypoxia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14775",
+            "ConditionBrowseLeafName": "Signs and Symptoms, Respiratory",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

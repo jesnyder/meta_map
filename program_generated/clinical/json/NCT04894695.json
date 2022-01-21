@@ -1,0 +1,358 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04894695",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "urine exo-LN"
+      },
+      "Organization": {
+        "OrgFullName": "RenJi Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Urine Exosomes to Identify Biomarkers for LN",
+      "OfficialTitle": "Identification of Biomarkers for Lupus Nephritis Using Urine Exosomes"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 2, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 30, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 31, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 15, 2021",
+      "StudyFirstSubmitQCDate": "May 15, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 20, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "July 27, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 3, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "RenJi Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Urine exosomes will be extracted from patients with lupus nephritis, healthy controls, and patients with systemic lupus erythematosus without lupus nephritis. Transcriptome and/or metabonomics sequencing of exosomes will be performed to screen for molecules in the urine exosomes of patients with lupus nephritis that are significantly different from those of the other groups.",
+      "DetailedDescription": "Lupus nephritis is one of the most common complications of SLE, and its severity is closely related to the prognosis of SLE. The gold standard for diagnosing lupus nephritis depends on the pathological results of a kidney biopsy, which is invasive and may cause some damage to the patient. Exosomes exist in almost all types of body fluids such as serum, urine and cerebrospinal fluid, and contain a variety of genetic materials and proteins secreted by cells, such as miRNA, lnRNA, cirRNA and metabolites, etc., which are potential substances that can be used as biomarkers of diseases discovered in recent years. Urine exosomes are easy to obtain and have no impact on patients' health, making them suitable for study as disease biomarkers for lupus nephritis.\n\nIn this study, urine exosomes will be extracted from patients with lupus nephritis, healthy controls, and patients with systemic lupus erythematosus without lupus nephritis. Transcriptome and/or metabonomics sequencing of exosomes will be performed to screen for molecules in the urine exosomes of patients with lupus nephritis that are significantly different from those of the other groups."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Lupus Nephritis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "400",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "healthy control (HC)",
+            "ArmGroupDescription": "healthy control",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: biomarkers detection in different groups"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Systemic Lupus Erythematosus (SLE)",
+            "ArmGroupDescription": "Systemic Lupus Erythematosus",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: biomarkers detection in different groups"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "lupus nephritis (LN)",
+            "ArmGroupDescription": "lupus nephritis",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: biomarkers detection in different groups"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "biomarkers detection in different groups",
+            "InterventionDescription": "Biomarkers of urine exosomes in different groups were identified by sequencing technology，then biomarkers were validated using urine samples of different groups",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Systemic Lupus Erythematosus (SLE)",
+                "healthy control (HC)",
+                "lupus nephritis (LN)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "specific molecule levels in urine exosomes",
+            "PrimaryOutcomeDescription": "Molecule like miRNAs were determined in urine exosomes of different groups and the following validation will determine which molecule can be served as biomarkers of lupus nephritis",
+            "PrimaryOutcomeTimeFrame": "2 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nNo history of chronic or serious diseases such as cardiovascular disease, liver disease, kidney disease, respiratory disease, blood disease, lymphatic disease, endocrine disease, immune disease, mental disease, neuromuscular disease, gastrointestinal system disease, etc.\nGeneral health condition is good;\nVital signs examination, physical examination, clinical laboratory examination (blood routine, urine routine, blood biochemical examination, coagulation function examination), electrocardiogram, and the results show normal or abnormal without clinical significance\n\nExclusion Criteria:\n\nOther rheumatic immune disease;\nAbnormal liver and kidney function;\nAcute and chronic infectious diseases.",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "community sample",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Huijing Huang",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "86-18217720058",
+            "CentralContactEMail": "fangfeijin90@163.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Liangjing Lu",
+            "OverallOfficialAffiliation": "RenJi Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Renji Hospital, Shanghai Jiaotong University School of Medicine",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Shanghai",
+            "LocationZip": "021",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Liangjing Lu",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "86-13661472001",
+                  "LocationContactEMail": "Lu_liangjing@163.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "32893081",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Zhao Y, Wei W, Liu ML. Extracellular vesicles and lupus nephritis - New insights into pathophysiology and clinical implications. J Autoimmun. 2020 Dec;115:102540. doi: 10.1016/j.jaut.2020.102540. Epub 2020 Sep 4. Review."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009393",
+            "ConditionMeshTerm": "Nephritis"
+          },
+          {
+            "ConditionMeshId": "D000008181",
+            "ConditionMeshTerm": "Lupus Nephritis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007674",
+            "ConditionAncestorTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005921",
+            "ConditionAncestorTerm": "Glomerulonephritis"
+          },
+          {
+            "ConditionAncestorId": "D000008180",
+            "ConditionAncestorTerm": "Lupus Erythematosus, Systemic"
+          },
+          {
+            "ConditionAncestorId": "D000003240",
+            "ConditionAncestorTerm": "Connective Tissue Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11490",
+            "ConditionBrowseLeafName": "Nephritis",
+            "ConditionBrowseLeafAsFound": "Nephritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10330",
+            "ConditionBrowseLeafName": "Lupus Nephritis",
+            "ConditionBrowseLeafAsFound": "Lupus Nephritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8183",
+            "ConditionBrowseLeafName": "Glomerulonephritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10329",
+            "ConditionBrowseLeafName": "Lupus Erythematosus, Systemic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5616",
+            "ConditionBrowseLeafName": "Connective Tissue Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3523",
+            "ConditionBrowseLeafName": "Lupus Nephritis",
+            "ConditionBrowseLeafAsFound": "Lupus Nephritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T2525",
+            "ConditionBrowseLeafName": "Glomerulonephritis",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

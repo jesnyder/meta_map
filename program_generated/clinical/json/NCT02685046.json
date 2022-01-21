@@ -1,0 +1,455 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02685046",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CC-TT-IMA-14"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "NL50620.041.15",
+            "SecondaryIdType": "Registry Identifier",
+            "SecondaryIdDomain": "CCMO"
+          },
+          {
+            "SecondaryId": "2014-003965-11",
+            "SecondaryIdType": "EudraCT Number"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "UMC Utrecht",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Imatinib as Pre-operative Anti-Colon Cancer Targeted Therapy",
+      "OfficialTitle": "Targeted Therapy With Imatinib for Treatment of Poor Prognosis Mesenchymal-type Resectable Colon Cancer: a Proof-of-concept Study in the Preoperative Window Period.",
+      "Acronym": "ImPACCT"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2019",
+      "OverallStatus": "Terminated",
+      "WhyStopped": "Low accrual rate",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 2016"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 1, 2019",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 1, 2019",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "February 9, 2016",
+      "StudyFirstSubmitQCDate": "February 12, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "February 18, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "October 9, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 14, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Prof dr I.H.M. Borel Rinkes",
+        "ResponsiblePartyInvestigatorTitle": "Chief Surgical Specialities",
+        "ResponsiblePartyInvestigatorAffiliation": "UMC Utrecht"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "UMC Utrecht",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Meander Medical Center",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Erasmus Medical Center",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Hubrecht Institute",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "In this proof-of-concept trial the investigators will study the effects of imatinib treatment on the biology of mesenchymal-type colon cancers.",
+      "DetailedDescription": "Tumor biopsies from patients with newly diagnosed colon cancer will be pre-screened with an RT-qPCR test to identify tumors of the mesenchymal subtype. Patients with mesenchymal-type tumors that meet the in- and exclusion criteria will be treated with imatinib during the \"window period\" that normally precedes surgery. Immediately following tumor resection, biopsies will be taken from the surgical specimen. Gene and protein expression of the pre- and post-treatments biopsies will be compared to assess the effects of imatinib therapy on PDGFR- and cKIT-signalling and on the mesenchymal gene expression profile."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Colonic Neoplasms"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "5",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Intervention",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects will be treated with the medicinal product imatinib, which will be administered orally in tablets of 400mg, once per day, during two weeks prior to tumor resection.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Imatinib"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Imatinib",
+            "InterventionDescription": "Subjects will be treated with the medicinal product imatinib, which will be administered orally in tablets of 400mg, once per day, during two weeks prior to tumor resection.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Intervention"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Gleevec",
+                "STI571"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Effects of treatment on the mesenchymal gene expression profile",
+            "PrimaryOutcomeDescription": "To assess the extent of change in the mesenchymal phenotype, gene expression arrays will be generated from pre- and post-treatment tissue samples and the expression of genes associated with the poor-prognosis mesenchymal subtype will be compared.",
+            "PrimaryOutcomeTimeFrame": "period from diagnostic colonoscopy until surgical resection (~5 weeks)"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Extent of targeted inhibition of PDGFR and KIT phosphorylation in cancer cells",
+            "SecondaryOutcomeDescription": "I. Measurement of PDGFR and cKIT inhibition by comparison of the fraction of autophosphorylated PDGFR and cKIT pre-treatment versus post-treatment, measured with ELISA on tissue samples derived from diagnostic biopsies and surgery.",
+            "SecondaryOutcomeTimeFrame": "period from diagnostic colonoscopy until surgical resection (~5 weeks)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Correlation between plasma imatinib trough levels on day 14 and intratumoural concentration of imatinib in the resection specimen",
+            "SecondaryOutcomeTimeFrame": "at time of surgery"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Correlation between the extent of PDGFR and cKIT inhibition and systemic and intratumoural imatinib and CGP74588 concentration",
+            "SecondaryOutcomeTimeFrame": "at time of surgery"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in plasma CEA-concentrations",
+            "SecondaryOutcomeTimeFrame": "period between diagnostic colonoscopy until surgical resection (~5 weeks)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in plasma levels of circulating tumor DNA",
+            "SecondaryOutcomeTimeFrame": "period between diagnostic colonoscopy until surgical resection (~5 weeks)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Effects of imatinib on the ability of cancer cells to form in vitro 3D cell cultures (organoids)",
+            "SecondaryOutcomeDescription": "V. The ability to establish organoids from imatinib-treated tumours will be compared with the general success rate of organoid formation from colon tumours at the Hubrecht Institute.",
+            "SecondaryOutcomeTimeFrame": "at time of surgery"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants with treatment-related adverse events as assessed by CTCAEv4.02",
+            "SecondaryOutcomeDescription": "The occurrence, frequency and severity of adverse events during preoperative treatment with imatinib, peroperatively or in the postoperative period (up to 14 days after tumour resection).",
+            "SecondaryOutcomeTimeFrame": "from start of treatment until 2 weeks after last dose imatinib"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female aged ≥18 years\nHistologically proven adenocarcinoma of the colon;\nCompleted cancer staging with CT-abdomen and CT-thorax/X-thorax according to hospital's standard of care;\nConfirmed eligibility for surgery with curative intent as deemed by the hospital's multidisciplinary board (MDB) review;\nAn intratumoural gene expression profile of PDGFR-α, PDGFR-β, PDGF-C and KIT, indicative of the mesenchymal phenotype, according to our diagnostic RT-qPCR test (i.e. more than 50% chance of having the mesenchymal phenotype);\nMinimum of four properly stored pre-treatment biopsies for gene expression analysis/ELISA;\nWHO performance status 0 or 1;\n\nAdequate haematology status and organ function, defined as:\n\nNormal creatinine clearance (≥60 ml/min (MRDR))\nALAT within 2.5x upper limit of normal (ULN)\nPT-INR < 1.5\nLeukocytes > 1,5*10^9/L; Hb > 6.0 mmol/L; platelets > 100*10^9/L\nWillingness and ability to comply with scheduled visits, treatment plans and laboratory tests;\nWritten informed consent.\n\nExclusion Criteria:\n\nThe presence of synchronous distant metastases;\nCurrent hospital standard of care dictates that subject should undergo any neoadjuvant therapy;\nConcurrent participation in another clinical trial using any medicinal product, or participation in such a trial in the period of three months prior to the current trial;\nWomen who are pregnant, plan to become pregnant or are lactating during the study or for up to 30 days after the last dose of imatinib;\nKnown HIV or Hepatitis B/C infection;\nKnown symptomatic congestive heart failure;\nCo-morbidity requiring concomitant treatment with drugs that act as strong inducers of CYP3A4 or with drugs with a narrow therapeutic range influenced by imatinib",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "I HM Borel Rinkes, MD, PhD",
+            "OverallOfficialAffiliation": "UMC Utrecht",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Meander Medical Center",
+            "LocationCity": "Amersfoort",
+            "LocationState": "Utrecht",
+            "LocationZip": "3813TZ",
+            "LocationCountry": "Netherlands"
+          },
+          {
+            "LocationFacility": "Diakonessenhuis",
+            "LocationCity": "Utrecht",
+            "LocationZip": "3582KE",
+            "LocationCountry": "Netherlands"
+          },
+          {
+            "LocationFacility": "University Medical Center Utrecht",
+            "LocationCity": "Utrecht",
+            "LocationZip": "3584CX",
+            "LocationCountry": "Netherlands"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "28424071",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Ubink I, Bloemendal HJ, Elias SG, Brink MA, Schwartz MP, Holierhoek YCW, Verheijen PM, Boerman AW, Mathijssen RHJ, de Leng WWJ, de Weger RA, van Grevenstein WMU, Koopman M, Lolkema MP, Kranenburg O, Borel Rinkes IHM. Imatinib treatment of poor prognosis mesenchymal-type primary colon cancer: a proof-of-concept study in the preoperative window period (ImPACCT). BMC Cancer. 2017 Apr 19;17(1):282. doi: 10.1186/s12885-017-3264-y."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003110",
+            "ConditionMeshTerm": "Colonic Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000015179",
+            "ConditionAncestorTerm": "Colorectal Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000007414",
+            "ConditionAncestorTerm": "Intestinal Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000005770",
+            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004067",
+            "ConditionAncestorTerm": "Digestive System Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003108",
+            "ConditionAncestorTerm": "Colonic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007410",
+            "ConditionAncestorTerm": "Intestinal Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M5490",
+            "ConditionBrowseLeafName": "Colonic Neoplasms",
+            "ConditionBrowseLeafAsFound": "Colonic Neoplasms",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17042",
+            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9600",
+            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8038",
+            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6408",
+            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5488",
+            "ConditionBrowseLeafName": "Colonic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9596",
+            "ConditionBrowseLeafName": "Intestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000068877",
+            "InterventionMeshTerm": "Imatinib Mesylate"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000047428",
+            "InterventionAncestorTerm": "Protein Kinase Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M324",
+            "InterventionBrowseLeafName": "Imatinib Mesylate",
+            "InterventionBrowseLeafAsFound": "Novel",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M24973",
+            "InterventionBrowseLeafName": "Protein Kinase Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "T120",
+            "InterventionBrowseLeafName": "Cola",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "HB",
+            "InterventionBrowseBranchName": "Herbal and Botanical"
+          }
+        ]
+      }
+    }
+  }
+}

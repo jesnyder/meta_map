@@ -1,0 +1,423 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04869761",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "20-008380"
+      },
+      "Organization": {
+        "OrgFullName": "Mayo Clinic",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Stem Cell Therapy for Chronic Kidney Disease",
+      "OfficialTitle": "Allogeneic Mesenchymal Stem Cell Therapy in Patients With Chronic Kidney Disease: A Phase I Study"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 7, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2026",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "May 2027",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 28, 2021",
+      "StudyFirstSubmitQCDate": "April 28, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 3, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 2, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 4, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "LaTonya J. Hickson",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Mayo Clinic"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "LaTonya J. Hickson",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to assess the safety and tolerability of allogeneic mesenchymal stem / stromal cell therapy in individuals with chronic kidney disease."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Chronic Kidney Diseases",
+          "Diabetes Mellitus, Type 2",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus",
+          "Diabetic Nephropathies"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Stem cell",
+          "mesenchymal stem cell",
+          "mesenchymal stromal cell",
+          "diabetes mellitus",
+          "diabetic nephropathy",
+          "diabetic kidney disease",
+          "kidney",
+          "GFR"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Other",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Dose Arm 1",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects with chronic kidney disease will receive allogeneic adipose tissue-derived mesenchymal stem cells (MSC) in two intravenous infusions of 75x10^6 cells at day 0 and month 3.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Allogeneic adipose-derived mesenchymal stem cells (MSC)-Two Infusions"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Dose Arm 2",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects with chronic kidney disease will receive a single intravenous infusion of allogeneic adipose tissue-derived mesenchymal stem cells (MSC) of 150x10^6 cells at day 0.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Allogeneic adipose-derived mesenchymal stem cells (MSC)-Single Infusion"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Allogeneic adipose-derived mesenchymal stem cells (MSC)-Single Infusion",
+            "InterventionDescription": "Single MSC infusion of 150x10^6 cells at time zero; intravenous delivery",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Dose Arm 2"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Allogeneic adipose-derived mesenchymal stem cells (MSC)-Two Infusions",
+            "InterventionDescription": "Two MSC infusions of 75x10^6 cells at time zero and three months; intravenous delivery",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Dose Arm 1"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Adverse events and/or serious adverse events",
+            "PrimaryOutcomeDescription": "Number of adverse events and/or serious adverse events associated with mesenchymal stem cells intervention",
+            "PrimaryOutcomeTimeFrame": "22 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge 30-80 years.\nEstimated glomerular filtration rate (eGFR) 25-55 ml/min/1.73m^2\nSpot urine albumin:creatinine ≥30 mg/g unless on Renin-angiotensin-aldosterone system (RAAS) inhibition.\nAbility to give informed consent.\n\nExclusion Criteria:\n\nHemoglobin A1c greater than or equal to 11%.(in individuals with diabetes mellitus)\nAnemia (hemoglobin less than 9g/dL)\nBody weight greater than 150 kg or BMI greater than 50\nUncontrolled hypertension: sustained systolic blood pressure (SBP) greater than 155 mmHg at screening exam (a maximum of 3 screening visits will be allowed for demonstration of blood pressure control)\nChronic hypotension: sustained SBP less than 85 mmHg at screening exam.\nGlomerulonephritis not in partial or complete remission for 6 months (or estimated/measured proteinuria greater than 10 grams/day)\nActive glomerulonephritis (glomerular disease) include: ANCA associated glomerulonephritis, post-infectious glomerulonephritis, lupus nephritis, amyloidosis, or other monoclonal gammopathy of renal significance.\nNephrotic syndrome defined as proteinuria greater than 3.5g per 24 hours, plus hypoalbuminemia (serum albumin less than or equal to 2.5g/L) and edema\nAutosomal dominant or recessive polycystic kidney disease\nKidney failure requiring renal replacement therapy (hemodialysis, peritoneal dialysis, or kidney transplantation)\nActive immunosuppression therapy (including prednisone greater than or equal to 10mg daily)\nKidney transplantation history\nSolid organ transplantation history\nRecent cardiovascular event (myocardial infarction, stroke, congestive heart failure) within 6 months or uncontrolled cardiac arrhythmias\nLiver cirrhosis\nChronic obstructive pulmonary disease, asthma\nHistory of blood clotting disorder (thromboembolism; pulmonary embolism, deep venous thrombosis)\nPregnancy\nActive malignancy\nActive infection\nActive hepatitis B or C, or HIV infection\nHistory of allergic reaction to cellular products (ie. blood transfusions, platelets)\nActive tobacco use\nIllicit drug use and excessive alcohol use presence of psychosocial issues (e.g., uncontrolled mental illness, unpredictable childcare or eldercare responsibilities, irregular/inflexible work schedule) that may interfere with the ability to complete all study procedures\nSubjects anticipating prolonged travel or other physical restrictions that would prohibit return for scheduled study visits\nInability or unwilling to have magnetic resonance imaging (MRI) or computed tomography (CT) studies\nInability to give informed consent",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "30 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Federico Simon",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "(904) 953-4205",
+            "CentralContactEMail": "Simon.FedericoRey@mayo.edu"
+          },
+          {
+            "CentralContactName": "Andreas George",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "(904) 953-3880",
+            "CentralContactEMail": "George.Andreas@mayo.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "LaTonya Hickson, MD",
+            "OverallOfficialAffiliation": "Mayo Clinic",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mayo Clinic Florida",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Jacksonville",
+            "LocationState": "Florida",
+            "LocationZip": "32224",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "LaTonya Hickson",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Mayo Clinic in Rochester",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Rochester",
+            "LocationState": "Minnesota",
+            "LocationZip": "55905",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Mayo Clinic Clinical Trials",
+            "SeeAlsoLinkURL": "https://www.mayo.edu/research/clinical-trials"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007674",
+            "ConditionMeshTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionMeshId": "D000051436",
+            "ConditionMeshTerm": "Renal Insufficiency, Chronic"
+          },
+          {
+            "ConditionMeshId": "D000003928",
+            "ConditionMeshTerm": "Diabetic Nephropathies"
+          },
+          {
+            "ConditionMeshId": "D000003920",
+            "ConditionMeshTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionMeshId": "D000003924",
+            "ConditionMeshTerm": "Diabetes Mellitus, Type 2"
+          },
+          {
+            "ConditionMeshId": "D000003922",
+            "ConditionMeshTerm": "Diabetes Mellitus, Type 1"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000044882",
+            "ConditionAncestorTerm": "Glucose Metabolism Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000051437",
+            "ConditionAncestorTerm": "Renal Insufficiency"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000048909",
+            "ConditionAncestorTerm": "Diabetes Complications"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafAsFound": "Diabetes Mellitus",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6271",
+            "ConditionBrowseLeafName": "Diabetes Mellitus, Type 2",
+            "ConditionBrowseLeafAsFound": "Diabetes Mellitus, Type 2",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6269",
+            "ConditionBrowseLeafName": "Diabetes Mellitus, Type 1",
+            "ConditionBrowseLeafAsFound": "Diabetes Mellitus, Type 1",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafAsFound": "Kidney Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6275",
+            "ConditionBrowseLeafName": "Diabetic Nephropathies",
+            "ConditionBrowseLeafAsFound": "Diabetic Nephropathy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M25871",
+            "ConditionBrowseLeafName": "Renal Insufficiency",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25870",
+            "ConditionBrowseLeafName": "Renal Insufficiency, Chronic",
+            "ConditionBrowseLeafAsFound": "Chronic Kidney Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24556",
+            "ConditionBrowseLeafName": "Glucose Metabolism Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25157",
+            "ConditionBrowseLeafName": "Diabetes Complications",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

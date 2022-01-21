@@ -1,0 +1,258 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05131412",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "GWCMC_HJ_XY_001"
+      },
+      "Organization": {
+        "OrgFullName": "Guangzhou Women and Children's Medical Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cells for the Treatment of Pneumonia Post Haematopoietic Stem Cell Transplantation",
+      "OfficialTitle": "Mesenchymal Stem Cells for the Treatment of Pneumonia Post Haematopoietic Stem Cell Transplantation: a a Retrospective Cohort Study",
+      "Acronym": "MSCTPHSCT"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 8, 2018",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 1, 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 31, 2021",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "November 11, 2021",
+      "StudyFirstSubmitQCDate": "November 11, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 23, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 22, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 3, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Xu Yang",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Guangzhou Women and Children's Medical Center"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Guangzhou Women and Children's Medical Center",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The aim of this study is to determine whether mesenchymal stromal cell (MSC) treatment contribute to the good prognosis in patients with transplant-related complication, pneumonia post hematopoietic stem cell transplantation (HSCT).",
+      "DetailedDescription": "Hematopoietic stem cell transplantation (HSCT) is a standard therapy strategy for most hematologic disorders and malignancies. Despite the improved survival attributed to advances in HSCT including transplantation techniques and supportive care, transplant-related pneumonia (severe pneumonia in particular) remains the leading cause of death for most HSCT patients and a major challenge for clinicians.\n\nMesenchymal stromal cells (MSCs), a form of multipotent cells, have been applied in therapy for various intractable disorders. MSC exerts its therapeutic effect through various biological functions including immunoregulation, tissue repairing, self-renew and differentiating into various cell lines. The American Thoracic Society has also suggested MSCs as a cell therapy agent for lung diseases. However, MSC therapy for pneumonia following HSCT has not been well investigated.\n\nBy investigating the efficacy of MSC treatment for HSCT-related pneumonia via comparing the outcomes in patients with and without MSC treatment, this study will provide a promising therapy for HSCT-related pneumonia."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Pneumonia",
+          "Hematopoietic Stem Cell Transplantation"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Mesenchymal Stromal Cell",
+          "Pneumonia",
+          "Hematopoietic Stem Cell Transplantation"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Retrospective"
+          ]
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "107",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "mesenchymal stromal cell",
+            "ArmGroupDescription": "Patients treated with mesenchymal stromal cell"
+          },
+          {
+            "ArmGroupLabel": "non-mesenchymal stromal cell",
+            "ArmGroupDescription": "Patients treated without mesenchymal stromal cell"
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "overall cure rate",
+            "PrimaryOutcomeDescription": "the proportion of cured cases in all cases",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "time to cure",
+            "PrimaryOutcomeDescription": "the time from the first diagnosis of pneumonia to a cure was achieved",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\npatients with pneumonia after HSCT;\npatients under the age of 18 years;\npatients with normal pulmonary function before HSCT.\n\nExclusion Criteria:\n\npatients with other severe complications in progress when pneumonia occurred.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "1 Year",
+      "MaximumAge": "17 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child"
+        ]
+      },
+      "StudyPopulation": "Patients who underwent hematopoietic stem cell transplantation (HSCT) in Guangzhou Women and Children's Medical Center and got pneumonia after HSCT.",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Hua Jiang",
+            "OverallOfficialAffiliation": "Guangzhou Women and Children's Medical Center",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Guangzhou Women and Children's Medical Center",
+            "LocationCity": "Guangzhou",
+            "LocationState": "Guangdong",
+            "LocationZip": "510623",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000011014",
+            "ConditionMeshTerm": "Pneumonia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafAsFound": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

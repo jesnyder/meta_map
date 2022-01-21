@@ -1,0 +1,431 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02855073",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CBMG-ReJoinTM-CL-1.0"
+      },
+      "Organization": {
+        "OrgFullName": "Cellular Biomedicine Group Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Clinical Trial to Compare ReJoinTM to Sodium Hyaluronate Injection for Knee Osteoarthritis Cartilage Defects",
+      "OfficialTitle": "A Randomized, Single-blind, Phase II Clinical Trial to Compare ReJoinTM (Autologous Adipose-derived Mesenchymal Progenitor Cells)to Sodium Hyaluronate Injection for the Patients With Knee Osteoarthritis Cartilage Defects"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2018",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 2014"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2019",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2019",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 8, 2016",
+      "StudyFirstSubmitQCDate": "August 1, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 4, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "December 14, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 17, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Cellular Biomedicine Group Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Shanghai Ninth People's Hospital Affiliated to Shanghai Jiao Tong University",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to evaluate the effectiveness of ReJoinTM for the Knee Osteoarthritis patients with Cartilage Defects comparing to Sodium Hyaluronate Injection.",
+      "DetailedDescription": "This is a randomized, single-blind,phase II clinical trial.\n\nAt least 28 subjects who are with a clinical diagnosis of knee osteoarthritis cartilage defects will be randomly distributed 1:1 to the treatment group or the control group after signing the ICF and screening tests.The treatment will accept ReJoinTM at the first and fourth week,and Sodium Hyaluronate Injection at the second and third week.The control group will accept Sodium Hyaluronate Injection weekly ,and four injections in total.The duration of the therapy is 48 weeks.\n\nIn addition, external control will be added if necessary."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Defect of Articular Cartilage",
+          "Knee Osteoarthritis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "adipose-derived mesenchymal progenitor cells",
+          "Artz"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Crossover Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "28",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "ReJoinTM Group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects in this Group will receive ReJoinTM injections on day 1 and day 22, and Sodium Hyaluronate injection on day 8 and day 15.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: ReJoinTM"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Sodium Hyaluronate Group",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "subjects in this group will receive Sodium Hyaluronate injections on day 1, 8, 15, 22.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Sodium Hyaluronate"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "ReJoinTM",
+            "InterventionDescription": "adipose derived mesenchymal progeinitor cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "ReJoinTM Group"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "adipose derived mesenchymal progenitor cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Sodium Hyaluronate",
+            "InterventionDescription": "Sodium Hyaluronate Injection",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Sodium Hyaluronate Group"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Artz"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "WOMAC scores",
+            "PrimaryOutcomeDescription": "WOMAC scoring will be performed 48 weeks after the first injection",
+            "PrimaryOutcomeTimeFrame": "48 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "VAS scores",
+            "SecondaryOutcomeDescription": "VAS scoring will be performed 8 weeks、24 weeks、36 weeks and 48 weeks after the first injection",
+            "SecondaryOutcomeTimeFrame": "0 day、8 weeks、24 weeks、36 weeks and 48 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "SF-36 scores",
+            "SecondaryOutcomeDescription": "SF-36 scoring will be performed 8 weeks、24 weeks、36 weeks and 48 weeks after the first injection",
+            "SecondaryOutcomeTimeFrame": "0 day、8 weeks、24 weeks、 36 weeks and 48 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Outbridge scoring",
+            "SecondaryOutcomeDescription": "Outbridge scoring will be performed 24 weeks after the first injection under arthroscopy",
+            "SecondaryOutcomeTimeFrame": "1 day and 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "CRP",
+            "SecondaryOutcomeDescription": "Serum CRP levels will be tested 8 weeks、24 weeks、36 weeks and 48 weeks after the first injection",
+            "SecondaryOutcomeTimeFrame": "0 day、8 weeks、24 weeks、 36 weeks and 48 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cartilage defect size",
+            "SecondaryOutcomeDescription": "Cartilage defect size will be measured at 24 weeks after the first injection",
+            "SecondaryOutcomeTimeFrame": "0 day and 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cartilage volume",
+            "SecondaryOutcomeDescription": "Cartilage volume will be measured at 24 weeks after first injection",
+            "SecondaryOutcomeTimeFrame": "0 day and 24 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\n18-70 years old, KOA couse ≤ 10 years\nKellgren-Lawrence Ⅰ-Ⅲ\nVAS core >6， more than 4 months\nSigned informed consent from the subject\ncartilage defect 2-6cm2\n\nExclusion Criteria:\n\nPregnancy test positive.\nSubject infected with hepatitis C, HIV or syphilis.\nSubject enrolled in any other cell therapy studies within the past 30 days.\nSubject deemed to be not suitable for the study by the investigator",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "You Wang",
+            "OverallOfficialAffiliation": "Shanghai Ninth People's Hospital Affiliated to Shanghai Jiao Tong University",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Shanghai ninth people's hospital",
+            "LocationCity": "Shanghai",
+            "LocationState": "Shanghai",
+            "LocationZip": "200011",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "32043426",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Qiao Z, Tang J, Yue B, Wang J, Zhang J, Xuan L, Dai C, Li S, Li M, Xu C, Dai K, Wang Y. Human adipose-derived mesenchymal progenitor cells plus microfracture and hyaluronic acid for cartilage repair: a Phase IIa trial. Regen Med. 2020 Jan;15(1):1193-1214. doi: 10.2217/rme-2019-0068. Epub 2020 Feb 11."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010003",
+            "ConditionMeshTerm": "Osteoarthritis"
+          },
+          {
+            "ConditionMeshId": "D000020370",
+            "ConditionMeshTerm": "Osteoarthritis, Knee"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001168",
+            "ConditionAncestorTerm": "Arthritis"
+          },
+          {
+            "ConditionAncestorId": "D000007592",
+            "ConditionAncestorTerm": "Joint Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012216",
+            "ConditionAncestorTerm": "Rheumatic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12078",
+            "ConditionBrowseLeafName": "Osteoarthritis",
+            "ConditionBrowseLeafAsFound": "Osteoarthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21321",
+            "ConditionBrowseLeafName": "Osteoarthritis, Knee",
+            "ConditionBrowseLeafAsFound": "Knee Osteoarthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3628",
+            "ConditionBrowseLeafName": "Arthritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9773",
+            "ConditionBrowseLeafName": "Joint Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14197",
+            "ConditionBrowseLeafName": "Rheumatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5475",
+            "ConditionBrowseLeafName": "Collagen Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000006820",
+            "InterventionMeshTerm": "Hyaluronic Acid"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000276",
+            "InterventionAncestorTerm": "Adjuvants, Immunologic"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000055675",
+            "InterventionAncestorTerm": "Viscosupplements"
+          },
+          {
+            "InterventionAncestorId": "D000020011",
+            "InterventionAncestorTerm": "Protective Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9030",
+            "InterventionBrowseLeafName": "Hyaluronic Acid",
+            "InterventionBrowseLeafAsFound": "Induction of anesthesia",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M2780",
+            "InterventionBrowseLeafName": "Adjuvants, Immunologic",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M27448",
+            "InterventionBrowseLeafName": "Viscosupplements",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21022",
+            "InterventionBrowseLeafName": "Protective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

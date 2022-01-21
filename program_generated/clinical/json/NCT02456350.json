@@ -1,0 +1,532 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02456350",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "201504001"
+      },
+      "Organization": {
+        "OrgFullName": "Shenzhen Second People's Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Anti-CD19 Chimeric Antigen Receptor (CAR)-Transduced T Cell Therapy for Patients With B Cell Malignancies",
+      "OfficialTitle": "Genetically Engineered T Cells Expressing an Anti-CD19 Chimeric Antigen Receptor for Treatment of Patients With B Cell Malignancies"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2016",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 2015"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2019",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2019",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 12, 2015",
+      "StudyFirstSubmitQCDate": "May 27, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 28, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "August 1, 2016",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 3, 2016",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Shenzhen Second People's Hospital",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Shenzhen Institute for Innovation and Translational Medicine",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Autologous T cells engineered to express an anti-CD19 chimeric antigen receptor (CAR) with a safety switch will be infused back to patients with B cell malignancies, including lymphoma and leukemia. The patients will be monitored after infusion of anti-CD19 CAR-transduced T cells for adverse events, persistence of anti-CD19 CAR-transduced T cells and treatment efficacy.\n\nObjectives:\n\nTo evaluate the safety and the efficacy of anti-CD19 CAR-transduced T cell therapy for patients with B cell malignancies.\n\nEligibility:\n\nPatients between 1 and 85 years of age, who have relapsed or refractory CD19-expressing B-cell malignancies (leukemia or lymphoma) that have not responded to standard treatments.\n\nPatients with a history of allogeneic stem cell transplant who meet all eligibility criteria are eligible to participate.\n\nPatients must have adequate organ functions.\n\nDesign:\n\nPeripheral blood from patients will be collected for isolation of peripheral blood mononuclear cells (PBMCs), which will be transduced with a lentiviral or retroviral vector encoding anti-CD19 CAR containing a CD28 and a CD3 zeta as costimulatory domains as well as a safety switch.\nPatients will receive a lymphodepleting preconditioning regimen to prepare their immune system to accept modified T cells.\nPatients will receive an infusion of their own modified T cells. They will remain in the hospital to be monitored for adverse events until they have recovered from the treatment.\nPatients will have frequent follow-up visits to monitor the persistence of modified T cells and efficacy of the treatment.",
+      "DetailedDescription": "Despite progress has been made to date in the treatment of patients with B cell malignancies, including leukemia and lymphoma, many patients with relapsed or refractory diseases do not respond to the standard treatments. It has been shown that anti-CD19 CAR-transduced T cells may be an effective approach to treat the relapsed or refractory diseases. The procedure involves collecting PBMCs from the patients and modifying the T cells to attack the malignant B cells. In this trial, autologous T cells engineered to express an anti-CD19 chimeric antigen receptor (CAR) containing the signaling domains of CD28 and CD3-zeta, and a safety switch will be infused back to patients with B cell malignancies, including lymphoma and leukemia. The patients will be pretreated with a lymphodepleting preconditioning regimen before the infusion of anti-CD19 CAR T cells, and will be monitored for adverse events, persistence of anti-CD19 CAR-transduced T cells and the treatment efficacy.\n\nOBJECTIVES:\n\nPrimary objectives\nTo determine the safety and feasibility of the administration of anti-CD19 CAR transduced T cells in patients with CD19+ B-cell malignancies.\nSecondary objectives:\nTo determine if the treatment regimen can result in clinical regression of B-cell malignancies in the patients as described above.\nTo determine the in vivo persistency of the anti-CD19 CAR-transduced T cells."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Chronic Lymphocytic Leukemia",
+          "Acute Lymphocytic Leukemia",
+          "Lymphoma"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "36",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Anti-CD19-CAR transduced T cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients will receive a lymphodepleting preconditioning regimen followed by anti-CD19- CAR-transduced T cells.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Fludarabine",
+                "Drug: Cyclophosphamide",
+                "Biological: Anti-CD19-CAR transduced T cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Fludarabine",
+            "InterventionDescription": "On days -5 through -3, Fludarabine 30mg/m2 IV will be infused over 30 minutes.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Anti-CD19-CAR transduced T cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cyclophosphamide",
+            "InterventionDescription": "On days -5 through -3, Cyclophosphamide 300mg/m2 IV will be infused over 60 minutes followed by fludarabine.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Anti-CD19-CAR transduced T cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Anti-CD19-CAR transduced T cells",
+            "InterventionDescription": "Modified cells will be infused IV over 30 minutes (2-4 days after the last dose of fludarabine).",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Anti-CD19-CAR transduced T cells"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of participants with Adverse Events",
+            "PrimaryOutcomeDescription": "To evaluate the safety and feasibility of the administration of anti-CD19 CAR transduced T cells in patients with CD19+ B-cell malignancies.",
+            "PrimaryOutcomeTimeFrame": "8 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Number of participants with Clinical responses",
+            "SecondaryOutcomeDescription": "To determine if the treatment regimen can result in clinical regression of B-cell malignancies in the patients as described above.",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients must have a CD19+ B cell malignancy，including relapsed or refractory B cell leukemia and B cell lymphoma；\nPatients with CD19+ B cell malignancies are not able to receive standard treatments and willing to participate in the trial.\nPatients must have a measurable or evaluable disease at the time of enrollment, which may include any evidence of disease including minimal residual disease detected by flow cytometry, cytogenetics, or polymerase chain reaction (PCR) analysis；\npatients are not eligible for autologous or allogeneic stem-cell transplantation (SCT) or relapsed after autologous or allogeneic stem-cell transplantation；\nPatients with history of allogeneic stem cell transplantation are eligible, providing 6 months had elapsed from SCT, they have no evidence of active graft-versus-host disease and no longer taking immunosuppressive agents during the treatment.\nWilling to sign a durable power of attorney；\nAble to understand and sign the Informed Consent Document；\nPerformance status：ECOG 0-2；\nLife expectancy：More than 3 months；\nPatients of both genders must be willing to practice birth control for four months after receiving a lymphodepleting preconditioning regimen；\nFemale participants of reproductive potential must have a negative serum or urine pregnancy test performed within 48 hours before infusion, because of the potentially dangerous effects on the fetus；\nThere is no obvious dysfunctions in heart , liver and kidney, and the functions of vital organs are normal；\nSerology： (1) Seronegative for HIV antibody； (2) Seronegative for hepatitis B virus (HBV) and hepatitis C virus (HCV).\nHematology： (1) Absolute neutrophil count ≥ 1000/mm3 without support of filgrastim； (2) Platelet count ≥ 50,000/mm3； (3) Hemoglobin > 8.0g/dL； (4) lymphocyte count ≤ 4000/mm3。\nChemistry： (1) AST and ALT ≤ 5 times upper limit of normal； (2) Serum creatinine ≤ 1.6 mg/dl； (3) Bilirubin ≤ 1.5 mg/dl（3.0 mg/dL in patients with Gilbert's syndrome）。\nMore than three weeks must have elapsed since any prior systemic therapy at the time of randomization, and patients' toxicities must have recovered to a grade 1 or less (except for alopecia or vitiligo)；\nNormal cardiac ejection fraction and no evidence of pericardial effusion as determined by an echocardiogram；\n\n18、More than 30 days must have elapsed since Monoclonal antibody therapy administered prior to apheresis.\n\nExclusion Criteria:\n\nPatients that require urgent therapy due to tumor mass effects such as bowel obstruction or blood vessel compression；\nPatients that have active hemolytic anemia；\nPatients with detectable cerebrospinal fluid malignant cells or brain metastases or with a history of cerebrospinal fluid malignant cells or brain metastases, or any residual intracranial implants；\nWomen of child-bearing potential who are pregnant or breastfeeding；\nActive systemic infections, coagulation disorders or other major medical illnesses of the cardiovascular, respiratory or immune system；\nAny form of primary immunodeficiency (such as Severe Combined Immunodeficiency Disease)；\nConcurrent opportunistic infections；\nConcurrent Systemic steroid therapy；\nHistory of severe immediate hypersensitivity reaction to any of the agents used in this study；\nPatients with central nervous system (CNS) metastases or symptomatic CNS involvement (including cranial neuropathies or mass lesions)；\nCNS-3 disease or traumatic spinal tap with POSITIVE Steinherz/Bleyer algorithm with cerebral spinal fluid involvement with malignancy will make any patient not eligible for this protocol；\nPatients with cardiac atrial or cardiac ventricular lymphoma involvement；\nOther anti-neoplastic investigational agents currently or within 30 days prior to start of the treatment；\nPrevious treatment with any gene therapy products.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "1 Year",
+      "MaximumAge": "85 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Mingjun Wang, M.D., Ph.D.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "15814723218",
+            "CentralContactEMail": "mingjunw429@163.com"
+          },
+          {
+            "CentralContactName": "Weihong Chen, M.D., Ph.D.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "13923871697",
+            "CentralContactEMail": "whitney-cindy@hotmail.com"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Shenzhen Second People's Hospital, The First Affiliated Hospital of Shenzhen University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Shenzhen",
+            "LocationState": "Guangdong",
+            "LocationZip": "518035",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Mingjun Wang, M.D., Ph.D.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "15814723218",
+                  "LocationContactEMail": "mingjunw429@163.com"
+                },
+                {
+                  "LocationContactName": "Weihong Chen, M.D., Ph.D.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "13923871697",
+                  "LocationContactEMail": "whitney-cindy@hotmail.com"
+                },
+                {
+                  "LocationContactName": "Xin Du, M.D., Ph.D.",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Mingjun Wang, M.D., Ph.D.",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Geng Tian, M.D., Ph.D.",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Weihong Chen, M.D., Ph.D.",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007938",
+            "ConditionMeshTerm": "Leukemia"
+          },
+          {
+            "ConditionMeshId": "D000007945",
+            "ConditionMeshTerm": "Leukemia, Lymphoid"
+          },
+          {
+            "ConditionMeshId": "D000015451",
+            "ConditionMeshTerm": "Leukemia, Lymphocytic, Chronic, B-Cell"
+          },
+          {
+            "ConditionMeshId": "D000054198",
+            "ConditionMeshTerm": "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008232",
+            "ConditionAncestorTerm": "Lymphoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008206",
+            "ConditionAncestorTerm": "Lymphatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007160",
+            "ConditionAncestorTerm": "Immunoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000015448",
+            "ConditionAncestorTerm": "Leukemia, B-Cell"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10372",
+            "ConditionBrowseLeafName": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10097",
+            "ConditionBrowseLeafName": "Leukemia",
+            "ConditionBrowseLeafAsFound": "Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10103",
+            "ConditionBrowseLeafName": "Leukemia, Lymphoid",
+            "ConditionBrowseLeafAsFound": "Lymphocytic Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17268",
+            "ConditionBrowseLeafName": "Leukemia, Lymphocytic, Chronic, B-Cell",
+            "ConditionBrowseLeafAsFound": "Chronic Lymphocytic Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M26738",
+            "ConditionBrowseLeafName": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+            "ConditionBrowseLeafAsFound": "Acute Lymphocytic Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10377",
+            "ConditionBrowseLeafName": "Lymphoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10355",
+            "ConditionBrowseLeafName": "Lymphatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9358",
+            "ConditionBrowseLeafName": "Immunoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17267",
+            "ConditionBrowseLeafName": "Leukemia, B-Cell",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3543",
+            "ConditionBrowseLeafName": "Lymphosarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T1308",
+            "ConditionBrowseLeafName": "Chronic Lymphocytic Leukemia",
+            "ConditionBrowseLeafAsFound": "Chronic Lymphocytic Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T175",
+            "ConditionBrowseLeafName": "Acute Lymphoblastic Leukemia",
+            "ConditionBrowseLeafAsFound": "Acute Lymphocytic Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T3533",
+            "ConditionBrowseLeafName": "Lymphoblastic Lymphoma",
+            "ConditionBrowseLeafAsFound": "Acute Lymphocytic Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000003520",
+            "InterventionMeshTerm": "Cyclophosphamide"
+          },
+          {
+            "InterventionMeshId": "C000024352",
+            "InterventionMeshTerm": "Fludarabine"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000007166",
+            "InterventionAncestorTerm": "Immunosuppressive Agents"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018906",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+          },
+          {
+            "InterventionAncestorId": "D000000477",
+            "InterventionAncestorTerm": "Alkylating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000019653",
+            "InterventionAncestorTerm": "Myeloablative Agonists"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M5879",
+            "InterventionBrowseLeafName": "Cyclophosphamide",
+            "InterventionBrowseLeafAsFound": "Months",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M283219",
+            "InterventionBrowseLeafName": "Fludarabine",
+            "InterventionBrowseLeafAsFound": "Medical",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M225481",
+            "InterventionBrowseLeafName": "Fludarabine phosphate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9364",
+            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20095",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2972",
+            "InterventionBrowseLeafName": "Alkylating Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

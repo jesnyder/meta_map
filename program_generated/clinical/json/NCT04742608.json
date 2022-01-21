@@ -1,0 +1,388 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04742608",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "19-002301"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "NCI-2021-00108",
+            "SecondaryIdType": "Registry Identifier",
+            "SecondaryIdDomain": "CTRP (Clinical Trial Reporting Program)"
+          },
+          {
+            "SecondaryId": "19-002301",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "UCLA / Jonsson Comprehensive Cancer Center"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Jonsson Comprehensive Cancer Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Development of Liquid Biopsy Technologies for Noninvasive Cancer Diagnostics in Patients With Suspicious Thyroid Nodules or Thyroid Cancer",
+      "OfficialTitle": "Isolation and Characterization of Extracellular Vesicles in Patients With Thyroid Nodules and Thyroid Cancer"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 21, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "February 1, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "February 1, 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "February 3, 2021",
+      "StudyFirstSubmitQCDate": "February 3, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "February 8, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "February 3, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "February 8, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Jonsson Comprehensive Cancer Center",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study is being done to help researchers learn more about and successfully diagnose cancer using blood samples and tissue samples from surgeries in patients with suspicious thyroid nodules or thyroid cancer. Diagnosing cancer in this way, as opposed to biopsies, may be less invasive to the patient. Analyzing blood and tissues samples may also help researchers to differentiate non-cancerous tumors from thyroid cancer and detect high-risk mutations to guide treatment.",
+      "DetailedDescription": "PRIMARY OBJECTIVE:\n\nI. Sensitivity and specificity of molecular profile of thyroid derived extracellular vesicles (EVs) as predictor of thyroid cancer.\n\nSECONDARY OBJECTIVES:\n\nI. Quantity of thyroid derived EVs captured in various stages of thyroid cancer.\n\nII. Whether quantity of EVs decreases in proportion to response to therapy in thyroid cancer patients.\n\nIII. Optimal ribonucleic acid (RNA)/deoxyribonucleic acid (DNA) panel in thyroid tumor derived EVs to diagnose thyroid cancer.\n\nOUTLINE:\n\nPatients undergo collection of blood samples on the day of surgery following anesthesia but prior to incision and approximately 4-6 weeks after surgery. Patients who undergo remnant ablation after total thyroidectomy with radioactive iodine have an additional blood sample collected. Patients also undergo collection of tissue samples following surgical resection of the thyroid. Patients' medical records are also reviewed."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Thyroid Gland Carcinoma",
+          "Thyroid Gland Nodule"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "Blood, tissue"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "250",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Ancillary-correlative (biospecimen collection)",
+            "ArmGroupDescription": "Patients undergo collection of blood samples on the day of surgery following anesthesia but prior to incision and at the first routine blood test following surgery. Patients who undergo remnant ablation after total thyroidectomy with radioactive iodine have an additional blood sample collected. Patients also undergo collection of tissue samples following surgical resection of thyroid nodule or thyroid cancer. Patients' medical records are also reviewed.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Biospecimen Collection",
+                "Other: Electronic Health Record Review"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Biospecimen Collection",
+            "InterventionDescription": "Undergo collection of blood and tissue samples",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Ancillary-correlative (biospecimen collection)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Electronic Health Record Review",
+            "InterventionDescription": "Medical charts are reviewed",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Ancillary-correlative (biospecimen collection)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Sensitivity of molecular profile of thyroid-derived extracellular vesicles",
+            "PrimaryOutcomeTimeFrame": "Up to 3 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Specificity of molecular profile of thyroid-derived extracellular vesicles",
+            "PrimaryOutcomeTimeFrame": "Up to 3 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Negative predictive value of molecular profile of thyroid-derived extracellular vesicles",
+            "PrimaryOutcomeTimeFrame": "Up to 3 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Positive predictive value of molecular profile of thyroid-derived extracellular vesicles",
+            "PrimaryOutcomeTimeFrame": "Up to 3 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Quantity of thyroid-derived extracellular vesicles captured in patients with localized, regional, and distant disease versus benign thyroid adenomas",
+            "SecondaryOutcomeTimeFrame": "Up to 3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quantity of thyroid-derived extracellular vesicles captured in patients with excellent, indeterminate, biochemically incomplete, and structural incomplete responses to initial therapy",
+            "SecondaryOutcomeTimeFrame": "Up to 3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Combination of ribonucleic acid/deoxyribonucleic acid-based tests that can be perf thyroid-derived extracellular vesicles",
+            "SecondaryOutcomeTimeFrame": "Up to 3 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAged 18 and older\nConsented for thyroid surgery for thyroid cancer or indeterminate thyroid nodule\n\nExclusion Criteria:\n\nPatients with concurrent malignancy",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Patients in endocrine surgery clinic sites across University of California, Los Angeles (UCLA) who have undergone thyroid fine needle aspiration biopsy.",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "James Wu",
+            "OverallOfficialAffiliation": "UCLA / Jonsson Comprehensive Cancer Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "UCLA / Jonsson Comprehensive Cancer Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Los Angeles",
+            "LocationState": "California",
+            "LocationZip": "90095",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "James Wu",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "303-518-3186",
+                  "LocationContactEMail": "jameswu@mednet.ucla.edu"
+                },
+                {
+                  "LocationContactName": "James Wu",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000013964",
+            "ConditionMeshTerm": "Thyroid Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000016606",
+            "ConditionMeshTerm": "Thyroid Nodule"
+          },
+          {
+            "ConditionMeshId": "D000013959",
+            "ConditionMeshTerm": "Thyroid Diseases"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004701",
+            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000006258",
+            "ConditionAncestorTerm": "Head and Neck Neoplasms"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M4686",
+            "ConditionBrowseLeafName": "Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15870",
+            "ConditionBrowseLeafName": "Thyroid Diseases",
+            "ConditionBrowseLeafAsFound": "Thyroid",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M15875",
+            "ConditionBrowseLeafName": "Thyroid Neoplasms",
+            "ConditionBrowseLeafAsFound": "Thyroid Gland Carcinoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18138",
+            "ConditionBrowseLeafName": "Thyroid Nodule",
+            "ConditionBrowseLeafAsFound": "Thyroid Nodules",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7015",
+            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8500",
+            "ConditionBrowseLeafName": "Head and Neck Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3259",
+            "InterventionBrowseLeafName": "Anesthetics",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9640",
+            "InterventionBrowseLeafName": "Iodine",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M229687",
+            "InterventionBrowseLeafName": "Cadexomer iodine",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "CNSDep",
+            "InterventionBrowseBranchName": "Central Nervous System Depressants"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Micro",
+            "InterventionBrowseBranchName": "Micronutrients"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          }
+        ]
+      }
+    }
+  }
+}

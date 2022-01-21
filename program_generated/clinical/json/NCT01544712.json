@@ -1,0 +1,344 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01544712",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "Ref 2004/08 st 3"
+      },
+      "Organization": {
+        "OrgFullName": "University of Liege",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Controlled Study of Stage 3 Osteonecrosis Treatment by Bone Marrow",
+      "OfficialTitle": "Treatment of Stage 3 Osteonecrosis of the Femoral Head by Autologous Transplantation of Bone Marrow Cells: a Randomized, Controlled Double Blind Study"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "February 2012",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 2004"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2010",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2010",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "February 22, 2012",
+      "StudyFirstSubmitQCDate": "March 5, 2012",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 6, 2012",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "March 5, 2012",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 6, 2012",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Jean-Philippe Hauzeur",
+        "ResponsiblePartyInvestigatorTitle": "Principal investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "University of Liege"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of Liege",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "In stage 3 Osteonecrosis (ON) of the femoral head, a beneficial effect of bone marrow grafting was reported with a reduction of the functional evolution and the necessity of a total prosthesis placement in a non-controlled retrospective trial. Based on this experience, the investigators would like to start a randomized controlled double blind study on the effect of autologous implantation of autologous bone marrow cells into the necrotic lesion of stage 3 ON of the femoral head."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Non Traumatic Osteonecrosis of the Femoral Head (Hip)"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "osteonecrosis",
+          "cell-based therapy",
+          "bone marrow",
+          "mesenchymal stem cell",
+          "hip",
+          "core decompression"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "50",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Control",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Core decompression",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: core decompression of the femoral head"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Bone marrow",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "core decompression plus autologous concentrated bone marrow",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: core decompression with autologous bone marrow implantation"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "core decompression with autologous bone marrow implantation",
+            "InterventionDescription": "core biopsy with injection of 40 ml concentrated autologous bone marrow.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Bone marrow"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "core decompression of the femoral head",
+            "InterventionDescription": "core biopsy with injection of 40 ml saline solution in place of bone marrow.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "reduction of total prosthesis",
+            "PrimaryOutcomeDescription": "Need to undergo a surgical treatment total prosthesis",
+            "PrimaryOutcomeTimeFrame": "24, 60 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Pain reduction",
+            "SecondaryOutcomeDescription": "Visual analogue scale",
+            "SecondaryOutcomeTimeFrame": "24, 60 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "functional status",
+            "SecondaryOutcomeDescription": "Lequesne and WOMAC scores",
+            "SecondaryOutcomeTimeFrame": "24, 60 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\npatients who have a non traumatic ON of the femoral head\nStage 3 ON (subchondral fracture).\nAge > 18 years\nBe able and willing to participate in the study\n\nExclusion Criteria:\n\nevidence of malignant disorder in the past five years\nPatient unable to undergo a MRI.\nPatient who is positive for an HIV, hepatitis B or C infection.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Liège",
+            "LocationCity": "Liège",
+            "LocationZip": "4000",
+            "LocationCountry": "Belgium"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "28988340",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Hauzeur JP, De Maertelaer V, Baudoux E, Malaise M, Beguin Y, Gangji V. Inefficacy of autologous bone marrow concentrate in stage three osteonecrosis: a randomized controlled double-blind trial. Int Orthop. 2018 Jul;42(7):1429-1435. doi: 10.1007/s00264-017-3650-8. Epub 2017 Oct 7."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010020",
+            "ConditionMeshTerm": "Osteonecrosis"
+          },
+          {
+            "ConditionMeshId": "D000007873",
+            "ConditionMeshTerm": "Legg-Calve-Perthes Disease"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001847",
+            "ConditionAncestorTerm": "Bone Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009336",
+            "ConditionAncestorTerm": "Necrosis"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000005271",
+            "ConditionAncestorTerm": "Femur Head Necrosis"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12095",
+            "ConditionBrowseLeafName": "Osteonecrosis",
+            "ConditionBrowseLeafAsFound": "Osteonecrosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10037",
+            "ConditionBrowseLeafName": "Legg-Calve-Perthes Disease",
+            "ConditionBrowseLeafAsFound": "Osteonecrosis of the Femoral Head",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4278",
+            "ConditionBrowseLeafName": "Bone Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11436",
+            "ConditionBrowseLeafName": "Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7561",
+            "ConditionBrowseLeafName": "Femur Head Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3358",
+            "ConditionBrowseLeafName": "Legg-Calve-Perthes Disease",
+            "ConditionBrowseLeafAsFound": "Osteonecrosis of the Femoral Head",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

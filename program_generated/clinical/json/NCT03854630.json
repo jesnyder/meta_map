@@ -1,0 +1,574 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03854630",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "201608051MIPC"
+      },
+      "Organization": {
+        "OrgFullName": "National Taiwan University Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Hepatitis B Virus Vaccination in HIV-positive Patients and Individuals at High Risk for HIV Infection",
+      "OfficialTitle": "Hepatitis B Virus Vaccination in HIV-positive Patients and Individuals at High Risk for HIV Infection: an Open-label Randomized Clinical Trial"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 6, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 1, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 7, 2017",
+      "StudyFirstSubmitQCDate": "February 24, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "February 26, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "May 22, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 22, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "National Taiwan University Hospital",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Taipei Veterans General Hospital, Taiwan",
+            "CollaboratorClass": "OTHER_GOV"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The primary aim of this open-label, randomized control trial is to compare the immunogenicity at week 28 after 20µg HBV vaccine (at week 0, 4, 24) versus 40µg HBV vaccine (40-µg at week 0, 4, 24 week) among HIV-positive patients or HIV-negative MSM who were born in Taiwan after July 1986 and tested negative for all HBV serological markers. The secondary aims are to assess the safety of double-dose HBV vaccination, the proportions of high-level responders (anti-HBs antibody >100 mIU/ml) at weeks 28 and 48, the serological responses at week 48, and incident HBV infection (indicated by appearance of anti-HBc and/or HBsAg) at week 48.",
+      "DetailedDescription": "I. Study procedures:\n\nWell explain, complete inform and consent documents\nA blood test for hepatitis B surface antigen (HBsAg), anti-hepatitis B surface antibody (anti-HBs antibody), anti-hepatitis B core antibody (anti-HBc antibody), anti-HCV and RPR will be performed first.\nThe patients with all negative seromarkers (within 1 month) will be allocated to two groups (random blank=4), a standard-dose booster of 20µg and a double-dose booster of 40µg. For patients receiving 40µg, two 20µg of vaccines are injected at both sides of deltoid muscles. The schedules of booster vaccination are the same in two groups, which is at 0, 1, 6 months.\nTo detect and manage possible immediate and severe allergic reaction, patients who received vaccination will be observed for 30 minutes after injection.\nThe solicited adverse effect will be recorded on the diary card if occurred in 7 days after each dose of vaccination.\nThe titer of hepatitis B surface antibody will be examined before booster vaccination, at the 4th week, the 24th week, 28th week, 48th week. By comparing the responses in the two groups, the effect of different doses of booster vaccination can be evaluated. For those HIV-negative individuals at baseline, HIV screening test will be evaluated every 6 months during the study, at the 24th week, the 48th.\nTo screen the acquisition of hepatitis B, the anti-HBc antibody and HBsAg will be examined at the 48th week\nTo screen the acquisition of hepatitis C and syphilis, anti-HCV and RPR will be examined at the 24th week, the 48th week\nThe results of the study will be informed by phone or the physician during the follow-up care.\nThe serum/blood samples will be preserved in the research lab of the department of internal medicine and kept for 20 years. During this period, the sample will be applied or used in other studies after the patients and the Research Ethics Committee both agreed.\nDuring the follow-up care, the treatment or record of hospitalization will be recorded or reviewed.\nThe participants will drop out of clinical trial when protocol violation occurred or the participant is not willing to continue."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Viral Hepatitis B",
+          "Immunization; Infection",
+          "HIV Infections"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 4"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Prevention",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "575",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Standard dose (20µg)",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Three doses of 20µg HBV vaccine given intramuscularly at week 0, 4, 24.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Engerix-B"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Double dose (40µg)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Three doses of 40µg HBV vaccine given intramuscularly at week 0, 4, 24.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Engerix-B"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Engerix-B",
+            "InterventionDescription": "The vaccine contains HBsAg which was produced by genetic engineering yeast. It stimulates the active immunity generated by human immune system toward the HBsAg.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Double dose (40µg)",
+                "Standard dose (20µg)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Vaccine efficacy",
+            "PrimaryOutcomeDescription": "The proportion of patients with Anti-HBs antibody higher than 10mIU/ml",
+            "PrimaryOutcomeTimeFrame": "week 28"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "High-titer response",
+            "SecondaryOutcomeDescription": "The proportion of patients with Anti-HBs antibody higher than 100mIU/ml",
+            "SecondaryOutcomeTimeFrame": "week 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Long-term efficacy",
+            "SecondaryOutcomeDescription": "The proportion of anti-HBs antibody titers higher than 10mIU/ml",
+            "SecondaryOutcomeTimeFrame": "48 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Long-term high-titer response",
+            "SecondaryOutcomeDescription": "The proportion of anti-HBs antibody titers higher than 100mIU/ml",
+            "SecondaryOutcomeTimeFrame": "48 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Hepatitis B incident infection rate",
+            "SecondaryOutcomeDescription": "new HBsAg and anti-HBc antibody seroconversion",
+            "SecondaryOutcomeTimeFrame": "48 weeks,"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Hepatitis C infection and syphilis infection rate",
+            "SecondaryOutcomeDescription": "new hepatitis C infection and syphilis infection",
+            "SecondaryOutcomeTimeFrame": "at 24 week, 48 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "HIV seroconversion among HIV-negative MSM",
+            "SecondaryOutcomeDescription": "new HIV seroconversion among HIV-negative MSM",
+            "SecondaryOutcomeTimeFrame": "at 24 weeks, 48 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMen who have sex with men (MSM)\nBirth date after 1986/7/1 and aged 20 years or older\nSeronegative for HBsAg, anti-HBs (<10 mIU/ml), and anti-HBc at screening (within 1 month of the first dose)\nRegularly receiving HIV care for HIV-positive patients over the past 6 months\nSeeking VCT for at least once for HIV-negative patients over the past 12 months\n\nExclusion Criteria:\n\nActive infection or malignancy within 12 months of screening\nReceiving chemotherapy, immunosuppressant, or IVIG within 12 months of screening\nReceived higher than 5 mg of prednisolone, including IV, oral, or topical form, per day for more than 1 weeks within 6 months of screening\nReceiving HBV vaccination within 1 months of screening, or being allergic to HBV vaccine\nReceiving other vaccination within 1 months of screening, such as influenza, pneumococcus, HPV, HAV, varicella vaccine.\nStage 4 and 5 of chronic kidney disease (GFR<30 mL/min/1.73m), or receiving dialysis.",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "Male",
+      "MinimumAge": "20 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Chien-Ching Hung, MD, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+886-2-23123456",
+            "CentralContactPhoneExt": "67552",
+            "CentralContactEMail": "hcc0401@ntu.edu.tw"
+          },
+          {
+            "CentralContactName": "Hsin-Yun Sun, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+886-2-23707772",
+            "CentralContactEMail": "hysun@ntu.edu.tw"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Chien-Ching Hung, MD, PhD",
+            "OverallOfficialAffiliation": "Department of Internal Medicine, National Taiwan University Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "National Taiwan University Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Taipei",
+            "LocationZip": "100",
+            "LocationCountry": "Taiwan",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Chien-Ching Hung, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+886-2-23123456",
+                  "LocationContactPhoneExt": "67552",
+                  "LocationContactEMail": "hcc0401@ntu.edu.tw"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007239",
+            "ConditionMeshTerm": "Infections"
+          },
+          {
+            "ConditionMeshId": "D000003141",
+            "ConditionMeshTerm": "Communicable Diseases"
+          },
+          {
+            "ConditionMeshId": "D000006506",
+            "ConditionMeshTerm": "Hepatitis A"
+          },
+          {
+            "ConditionMeshId": "D000015658",
+            "ConditionMeshTerm": "HIV Infections"
+          },
+          {
+            "ConditionMeshId": "D000000163",
+            "ConditionMeshTerm": "Acquired Immunodeficiency Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000006509",
+            "ConditionMeshTerm": "Hepatitis B"
+          },
+          {
+            "ConditionMeshId": "D000006505",
+            "ConditionMeshTerm": "Hepatitis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000020969",
+            "ConditionAncestorTerm": "Disease Attributes"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000008107",
+            "ConditionAncestorTerm": "Liver Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006525",
+            "ConditionAncestorTerm": "Hepatitis, Viral, Human"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004769",
+            "ConditionAncestorTerm": "Enterovirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000010850",
+            "ConditionAncestorTerm": "Picornaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000086982",
+            "ConditionAncestorTerm": "Blood-Borne Infections"
+          },
+          {
+            "ConditionAncestorId": "D000015229",
+            "ConditionAncestorTerm": "Sexually Transmitted Diseases, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000012749",
+            "ConditionAncestorTerm": "Sexually Transmitted Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000016180",
+            "ConditionAncestorTerm": "Lentivirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012192",
+            "ConditionAncestorTerm": "Retroviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007153",
+            "ConditionAncestorTerm": "Immunologic Deficiency Syndromes"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012897",
+            "ConditionAncestorTerm": "Slow Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018347",
+            "ConditionAncestorTerm": "Hepadnaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000004266",
+            "ConditionAncestorTerm": "DNA Virus Infections"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M17402",
+            "ConditionBrowseLeafName": "HIV Infections",
+            "ConditionBrowseLeafAsFound": "HIV Infections",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafAsFound": "Infection",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafAsFound": "Infection",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2674",
+            "ConditionBrowseLeafName": "Acquired Immunodeficiency Syndrome",
+            "ConditionBrowseLeafAsFound": "HIV Infections",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8747",
+            "ConditionBrowseLeafName": "Hepatitis B",
+            "ConditionBrowseLeafAsFound": "Hepatitis B",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8743",
+            "ConditionBrowseLeafName": "Hepatitis",
+            "ConditionBrowseLeafAsFound": "Hepatitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8744",
+            "ConditionBrowseLeafName": "Hepatitis A",
+            "ConditionBrowseLeafAsFound": "Hepatitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8894",
+            "ConditionBrowseLeafName": "HIV Seropositivity",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9351",
+            "ConditionBrowseLeafName": "Immunologic Deficiency Syndromes",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21853",
+            "ConditionBrowseLeafName": "Disease Attributes",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10259",
+            "ConditionBrowseLeafName": "Liver Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8762",
+            "ConditionBrowseLeafName": "Hepatitis, Viral, Human",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7082",
+            "ConditionBrowseLeafName": "Enterovirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12897",
+            "ConditionBrowseLeafName": "Picornaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14710",
+            "ConditionBrowseLeafName": "Sexually Transmitted Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17085",
+            "ConditionBrowseLeafName": "Sexually Transmitted Diseases, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17792",
+            "ConditionBrowseLeafName": "Lentivirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14178",
+            "ConditionBrowseLeafName": "Retroviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14852",
+            "ConditionBrowseLeafName": "Slow Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19640",
+            "ConditionBrowseLeafName": "Hepadnaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6594",
+            "ConditionBrowseLeafName": "DNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2787",
+            "ConditionBrowseLeafName": "Herpes Simiae (B Virus)",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M16512",
+            "InterventionBrowseLeafName": "Vaccines",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

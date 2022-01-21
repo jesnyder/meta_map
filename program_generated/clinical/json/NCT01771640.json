@@ -1,0 +1,371 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01771640",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "Royan-Nerve-006"
+      },
+      "Organization": {
+        "OrgFullName": "Royan Institute",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Intrathecal Transplantation of Mesenchymal Stem Cell in Patients With ALS",
+      "OfficialTitle": "Intrathecal Transplantation of Autologous Bone Marrow Derived Mesenchymal Stem Cell in Patients With ALS"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2012",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 2013"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 2014",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2014",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "January 16, 2013",
+      "StudyFirstSubmitQCDate": "January 16, 2013",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 18, 2013",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "March 6, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 7, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Royan Institute",
+        "LeadSponsorClass": "OTHER_GOV"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "ALS is a debilitating disease with varied etiology characterized by rapidly progressive weakness, muscle atrophy and fasciculations, muscle spasticity, difficulty speaking (dysarthria), difficulty swallowing (dysphagia), and difficulty breathing (dyspnea). ALS is the most common of the five motor neuron diseases.Riluzole (Rilutek) is the only treatment that has been found to improve survival but only to a modest extent. It lengthens survival by several months, and may have a greater survival benefit for those with a bulbar onset. It also extends the time before a person needs ventilation support.Stem cell transplantation is a new hopeful way to improve the patients conditions and reduce the period of disabilities.",
+      "DetailedDescription": "In this study our purpose is to evaluate the safety of intraventricular injection of bone marrow derived mesenchymal stem cell.the patients who are eligible,underwent bone marrow aspiration.after cell separation and preparation,the patients underwent mesenchymal stem cell intraventricular injection by stereotaxis.after injection he will be under observed in ICU to monitor the adverse events(allergic and neurological side effects).patients are followed 1th,3th ,6th and 12 months after injection and each time these parameters are checked:ALS-FRS,EMG-NCV,FVC,side effect check list."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Amyotrophic Lateral Sclerosis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "ALS intrathecal injection bone marrow mesenchymal stem cell"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "8",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "stem cell reciepient",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "The patients with ALS that underwent mesenchymal stem cell transplantation",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: intrathecal injection"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "intrathecal injection",
+            "InterventionDescription": "Intrathecal injection of mesenchymal stem cells in patients with ALS",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "stem cell reciepient"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Fever",
+            "PrimaryOutcomeDescription": "Evaluation the rate of fever during 48hour after transplantation",
+            "PrimaryOutcomeTimeFrame": "48hours"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Unconscious",
+            "PrimaryOutcomeDescription": "Evaluation the rate of unconsciousness during 48hour after transplantation",
+            "PrimaryOutcomeTimeFrame": "48hours"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Vomiting",
+            "PrimaryOutcomeDescription": "Evaluation the nausea and vomiting 48hours after transplantation.",
+            "PrimaryOutcomeTimeFrame": "48hours"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "ALS-FRS",
+            "SecondaryOutcomeDescription": "Evaluation the improvement of ALS-FRS during 6months after transplantation.",
+            "SecondaryOutcomeTimeFrame": "6months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "FVC",
+            "SecondaryOutcomeDescription": "Evaluation the improvement of FVC by spirometry during 6months after transplantation",
+            "SecondaryOutcomeTimeFrame": "6months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge:18-65\nboth gender\nduration of disease<2 years\nFVC>40% ALS-FRS>26\n\nExclusion Criteria:\n\nneurological and psychiatric concomitant disease\nconcomitant systemic disease\ntreatment with corticosteroid,Ig,immunosuppressive during 12 months.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Hamid Gourabi, PhD",
+            "OverallOfficialAffiliation": "Head of Royan Institute",
+            "OverallOfficialRole": "Study Chair"
+          },
+          {
+            "OverallOfficialName": "Nasser Aghdami, MD,PhD",
+            "OverallOfficialAffiliation": "Head of Royan department of degenerative medicine,Head of Royan celltherapy center",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Seyed Masoud Nabavi, MD",
+            "OverallOfficialAffiliation": "Proffessor assistant of Shahed University",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "leila Arab, MD",
+            "OverallOfficialAffiliation": "Department of regenerative medicine,Royan Institute",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Royan Institute",
+            "LocationCity": "Tehran",
+            "LocationCountry": "Iran, Islamic Republic of"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "30124008",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Nabavi SM, Arab L, Jarooghi N, Bolurieh T, Abbasi F, Mardpour S, Azimyian V, Moeininia F, Maroufizadeh S, Sanjari L, Hosseini SE, Aghdami N. Safety, Feasibility of Intravenous and Intrathecal Injection of Autologous Bone Marrow Derived Mesenchymal Stromal Cells in Patients with Amyotrophic Lateral Sclerosis: An Open Label Phase I Clinical Trial. Cell J. 2019 Jan;20(4):592-598. doi: 10.22074/cellj.2019.5370. Epub 2018 Aug 1."
+          }
+        ]
+      },
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Related Info",
+            "SeeAlsoLinkURL": "http://Royaninstitute.org"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000016472",
+            "ConditionMeshTerm": "Motor Neuron Disease"
+          },
+          {
+            "ConditionMeshId": "D000000690",
+            "ConditionMeshTerm": "Amyotrophic Lateral Sclerosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000019636",
+            "ConditionAncestorTerm": "Neurodegenerative Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009468",
+            "ConditionAncestorTerm": "Neuromuscular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000013118",
+            "ConditionAncestorTerm": "Spinal Cord Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000057177",
+            "ConditionAncestorTerm": "TDP-43 Proteinopathies"
+          },
+          {
+            "ConditionAncestorId": "D000057165",
+            "ConditionAncestorTerm": "Proteostasis Deficiencies"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M14567",
+            "ConditionBrowseLeafName": "Sclerosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18031",
+            "ConditionBrowseLeafName": "Motor Neuron Disease",
+            "ConditionBrowseLeafAsFound": "Lateral Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3176",
+            "ConditionBrowseLeafName": "Amyotrophic Lateral Sclerosis",
+            "ConditionBrowseLeafAsFound": "Amyotrophic Lateral Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M20711",
+            "ConditionBrowseLeafName": "Neurodegenerative Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11563",
+            "ConditionBrowseLeafName": "Neuromuscular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15067",
+            "ConditionBrowseLeafName": "Spinal Cord Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27912",
+            "ConditionBrowseLeafName": "TDP-43 Proteinopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27900",
+            "ConditionBrowseLeafName": "Proteostasis Deficiencies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4699",
+            "ConditionBrowseLeafName": "Primary Lateral Sclerosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T349",
+            "ConditionBrowseLeafName": "Amyotrophic Lateral Sclerosis",
+            "ConditionBrowseLeafAsFound": "Amyotrophic Lateral Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

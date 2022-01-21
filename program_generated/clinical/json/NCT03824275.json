@@ -1,0 +1,308 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03824275",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "AAAS1862"
+      },
+      "Organization": {
+        "OrgFullName": "Columbia University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "18F-DCFPyL Positron Emission Tomography (PET)/Computed Tomography (CT) in Men With Prostate Cancer",
+      "OfficialTitle": "18F-DCFPyL Positron Emission Tomography (PET)/Computed Tomography (CT) in Men With Prostate Cancer"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2021",
+      "OverallStatus": "Recruiting",
+      "StartDateStruct": {
+        "StartDate": "February 12, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 29, 2019",
+      "StudyFirstSubmitQCDate": "January 30, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 31, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 12, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 14, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Emerson Lim",
+        "ResponsiblePartyInvestigatorTitle": "Associate Clinical Professor of Medicine",
+        "ResponsiblePartyInvestigatorAffiliation": "Columbia University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Columbia University",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "PyL, also known as [18F]DCFPyL, is a second-generation fluorinated prostate-specific membrane antigen (PSMA) targeted PET imaging agent. In preliminary studies it demonstrates a higher detection of metastatic prostate lesions compared to standard imaging. Its ability to image metastatic prostate cancer sites was comparable to 68Ga-PSMA with high tumor-to-background ratios.Additionally, [18F] PyL demonstrated higher mean tumor-to-background ratios when using kidney, spleen, or parotid as reference organs. However, the role of [18F] PyL in tumor response to therapy has not been evaluated, specifically the potential to serve as a predictive biomarker of response. Given the high cost of current therapeutic agents in mCRPC, there is a need for an early response biomarker to stratify which patients will benefit from therapy and which will not. This will also allow for earlier change in management of patients who will not response to these therapies, potentially improving patient outcomes.",
+      "DetailedDescription": "The investigators will conduct a prospective phase II/III study of 300 men diagnosed with prostate cancer with a rising prostate-specific antigen (PSA). Upon enrollment, subjects will undergo standard of care imaging (defined as a CT or MRI of the chest, abdomen, and pelvis, and 99mTc bone scans) if not obtained within 45 days of enrollment. Subjects will have standard of care laboratory evaluations and undergo 18F- DCFPyL PET/CT.\n\n[18F]DCFPyL will be used for study imaging."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Prostatic Neoplasms"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2",
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignInterventionModelDescription": "Prospective, non-randomized",
+        "DesignPrimaryPurpose": "Diagnostic",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "300",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "18F- DCFPyL PET/CT",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Upon enrollment, subjects will undergo standard of care imaging (defined as a CT or MRI of the chest, abdomen, and pelvis, and 99mTc bone scans) if not obtained within 45 days of enrollment. Subjects will have standard of care laboratory evaluations including complete blood count (CBC), serum chemistries, hepatic panel, lactate dehydrogenase (LDH), and PSA. Liquid biopsies for circulating tumor DNA (ctDNA) and exosome analysis will occur at the same time. Subjects will then undergo 18F- DCFPyL PET/CT.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: 18F- DCFPyL PET/CT"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "18F- DCFPyL PET/CT",
+            "InterventionDescription": "A CT scan using a radioactive marker to better image tumors",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "18F- DCFPyL PET/CT"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "CT scan"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "To determine the positive predictive value of 18F-DCFPyL PET/CT on a per-patient basis",
+            "PrimaryOutcomeDescription": "To determine the positive predictive value of 18F-DCFPyL PET/CT on a per-patient basis",
+            "PrimaryOutcomeTimeFrame": "3.5 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "To determine the positive predictive value of 18F-DCFPyL PET/CT on a per-region basis, with regions being the prostate or prostate bed, pelvis, extra pelvis, and bones",
+            "SecondaryOutcomeDescription": "To determine the positive predictive value of 18F-DCFPyL PET/CT on a per-region basis",
+            "SecondaryOutcomeTimeFrame": "3.5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "To determine the sensitivity and specificity of 18F-DCFPyL PET/CT on a per patient and region basis",
+            "SecondaryOutcomeDescription": "To determine the sensitivity and specificity of 18F-DCFPyL PET/CT on a per patient and region basis",
+            "SecondaryOutcomeTimeFrame": "3.5 years"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "To characterize ctDNA and exosomes in patients with prostate cancer",
+            "OtherOutcomeDescription": "To characterize ctDNA and exosomes in patients with prostate cancer",
+            "OtherOutcomeTimeFrame": "3.5 years"
+          },
+          {
+            "OtherOutcomeMeasure": "To determine correlation with ctDNA and/or exosome levels with disease burden",
+            "OtherOutcomeDescription": "To determine correlation with ctDNA and/or exosome levels with disease burden",
+            "OtherOutcomeTimeFrame": "3.5 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nHistologically confirmed diagnosis of prostate cancer\nPSA ≥ 0.2ng/ml\nAge ≥ 18 years of age\nEastern Cooperative Oncology Group (ECOG) performance status ≤ 2 (karnofsky ≥ 60%)\nAbility to understand and willingness to sign a written informed consent document\nWiling to comply with clinical trial instructions and requirements\nWilling to cover the cost of PyL PET/CT imaging if funds are not available\n\nExclusion Criteria:\n\nHistory of another active malignancy within 3 years, other than basal cell and squamous cell carcinoma of the skin\nPresence of prostate brachytherapy implants unless approved by the PI\nAdministration of another radioisotope within five physical half-lives of trial enrollment\nRadiation or chemotherapy within 2 weeks prior to trial enrollment\nSerum creatinine > 3 times the upper limit of normal\nSerum total bilirubin > 3 times the upper limit of normal\nAspartate transaminase (AST) or alanine aminotransferase (ALT) >5 times the upper limit of normal\nInadequate venous access",
+      "HealthyVolunteers": "No",
+      "Gender": "Male",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Nurse Navigator, RN",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "212-342-5162",
+            "CentralContactEMail": "cancerclinicaltrials@cumc.columbia.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Emerson Lim, MD",
+            "OverallOfficialAffiliation": "Assistant Professor of Medicine",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Columbia University Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10032",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Ana Serra",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "as5713@cumc.columbia.edu"
+                },
+                {
+                  "LocationContactName": "Emerson Lim, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000011471",
+            "ConditionMeshTerm": "Prostatic Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000005834",
+            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+          },
+          {
+            "ConditionAncestorId": "D000014565",
+            "ConditionAncestorTerm": "Urogenital Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000011469",
+            "ConditionAncestorTerm": "Prostatic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M13487",
+            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+            "ConditionBrowseLeafAsFound": "Prostatic Neoplasms",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8098",
+            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16467",
+            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13485",
+            "ConditionBrowseLeafName": "Prostatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

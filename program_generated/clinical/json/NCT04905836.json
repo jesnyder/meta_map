@@ -1,0 +1,527 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04905836",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MSC-COV-202"
+      },
+      "Organization": {
+        "OrgFullName": "Sorrento Therapeutics, Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Study of Allogeneic Adipose-Derived Mesenchymal Stem Cells for Treatment of COVID-19 Acute Respiratory Distress",
+      "OfficialTitle": "Treatment of COVID-19-Induced Acute Respiratory Distress: A Phase 2 Study of Intravenous Administration of Allogeneic Adipose-Derived Mesenchymal Stem Cells"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 16, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 27, 2021",
+      "StudyFirstSubmitQCDate": "May 27, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 28, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 17, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 30, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Sorrento Therapeutics, Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a Phase 2 study to assess COVI-MSC in the setting of current standard of care in hospitalized subjects with RT-PCR confirmed SARS-CoV-2 (COVID-19) infection and acute respiratory distress / acute respiratory distress syndrome.",
+      "DetailedDescription": "This is a Phase 2 multicenter (United States and Mexico) study to assess the safety and preliminary efficacy of COVI-MSC in the setting of current standard of care in hospitalized subjects with RT-PCR confirmed SARS-CoV-2 (COVID-19) infection and acute respiratory stress (ARD) / acute respiratory distress syndrome (ARDS).\n\nSubjects will be randomized 1:1 COVI-MSC to placebo. COVI-MSC or placebo will be administered intravenously on Day 0, Day 2, and Day 4."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Covid19"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "covid-19"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "COVI-MSC",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects will receive intravenous infusions of COVI-MSC (two vials or a total of ≈ 30 million cells) on Day 0, Day 2, and Day 4",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: COVI-MSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Subjects will receive intravenous infusions of placebo (two vials) on Day 0, Day 2, and Day 4",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "COVI-MSC",
+            "InterventionDescription": "COVI-MSC are allogeneic culture-expanded adipose-derived mesenchymal stem cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "COVI-MSC"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Excipient solution",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "All-cause mortality rate at Day 28",
+            "PrimaryOutcomeDescription": "All-cause mortality rate at Day 28",
+            "PrimaryOutcomeTimeFrame": "Baseline through Day 28"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of all adverse events (AEs) (safety)",
+            "PrimaryOutcomeDescription": "Safety as assessed by incidence of AEs by type, frequency, severity, and causality using the Common Terminology Criteria for Adverse Events, Version 5 (CTCAEv5)",
+            "PrimaryOutcomeTimeFrame": "Baseline through study completion at Day 90"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of treatment-emergent adverse events (safety)",
+            "PrimaryOutcomeDescription": "Safety as assessed by incidence of treatment-emergent AEs (TEAEs) by type, frequency, severity, and causality using CTCAEv5 criteria",
+            "PrimaryOutcomeTimeFrame": "Baseline through study completion at Day 90"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of severe adverse events (safety)",
+            "PrimaryOutcomeDescription": "Safety as assessed by incidence of serious AEs (SAEs) by type, frequency, severity, and causality using CTCAEv5 criteria",
+            "PrimaryOutcomeTimeFrame": "Baseline through study completion at Day 90"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of infusion-related adverse events (safety)",
+            "PrimaryOutcomeDescription": "Safety as assessed by incidence of Infusion-related AEs (IrAEs) by type, frequency, severity, and causality using CTCAEv5 criteria over 4 hours",
+            "PrimaryOutcomeTimeFrame": "Baseline to Hour 4"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "All-cause mortality rate at Day 60 and 90",
+            "SecondaryOutcomeDescription": "All-cause mortality rate at Day 60 and 90",
+            "SecondaryOutcomeTimeFrame": "Baseline through Day 60 and Day 90"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of ventilator-free days through Day 28",
+            "SecondaryOutcomeDescription": "Number of ventilator-free days through Day 28",
+            "SecondaryOutcomeTimeFrame": "Baseline through Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of ICU days through Day 28",
+            "SecondaryOutcomeDescription": "Number of ICU days through day 28",
+            "SecondaryOutcomeTimeFrame": "Baseline through Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in clinical status",
+            "SecondaryOutcomeDescription": "Change in clinical status as assessed using the WHO Clinical Progression Scale (0-10 scale, where lower score means a better outcome) at Day 28",
+            "SecondaryOutcomeTimeFrame": "Baseline to Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in oxygenation",
+            "SecondaryOutcomeDescription": "Change in oxygenation as assessed using PaO2:FiO2 ratio",
+            "SecondaryOutcomeTimeFrame": "Baseline to Day 14 Day 28, and Day 60"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nLaboratory-confirmed SARS-CoV-2 infection as determined by an approved polymerase chain reaction (PCR) or an approved antigen test of any specimen (can be documented from inpatient medical record)\nHospitalized with at least \"severe\" COVID-19-induced ARD or ARDS as defined per FDA Guidance; COVID-19: Developing Drugs and Biological Products for Treatment or Prevention\nRequires oxygen supplementation at Screening\nWilling to follow contraception guidelines\n\nExclusion Criteria:\n\nCurrent standard of care treatments for COVID-19 appear to be working and the subject is clinically improving\nHas severe ARDS with a PaO2/FiO2 (PF ratio) ≤ 100 mmHg or SpO2/FiO2 ratio < 150 mmHg with PEEP ≥ 5cm H2O\nA previous stem cell infusion unrelated to this trial\nPregnant or breast feeding or planning for either during the study\nSuspected uncontrolled active bacterial, fungal, viral, or other infection (aside from infection with COVID-19)\nHistory of a splenectomy, lung transplant or lung lobectomy\nConcurrent participation in another clinical trial involving therapeutic interventions (observational study participation is acceptable)\nExpected survival or time to withdrawal of life-sustaining treatments expected to be < 7 days\nHas an existing \"Do Not Intubate\" order\nHas undergone home mechanical ventilation (noninvasive ventilation or via tracheotomy) except for continuous positive airway pressure or bi-level positive airway pressure (CPAP/BIPAP) used solely for sleep-disordered breathing (eg, obstructive sleep apnea)\nHas any significant medical condition, laboratory abnormality or psychiatric illness that in the investigator's opinion would interfere or prevent the subject from safely participating in the study",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Mike Royal, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "(858) 203-4100",
+            "CentralContactPhoneExt": "4146",
+            "CentralContactEMail": "mroyal@sorrentotherapeutics.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Mike Royal, MD",
+            "OverallOfficialAffiliation": "Sorrento Therapeutics, Inc.",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Teradan Clinical Trials LLC",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Brandon",
+            "LocationState": "Florida",
+            "LocationZip": "33511",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Daniel Lorch, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "813-603-4509",
+                  "LocationContactEMail": "STUDIES@TERADANCLINICALTRIALS.COM"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Sarasota Memorial Health Care System (SMH)",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Sarasota",
+            "LocationState": "Florida",
+            "LocationZip": "34239",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Kirk Voelker, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "941-917-2225"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "St. Luke's Boise",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Boise",
+            "LocationState": "Idaho",
+            "LocationZip": "83702",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Karen Miller, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "208-381-7092"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Ascension St. John",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Tulsa",
+            "LocationState": "Oklahoma",
+            "LocationZip": "74104",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Stacie Merritt, MSN, RN-BC",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "918-744-3426"
+                },
+                {
+                  "LocationContactName": "Jill Wenger, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "PRX Research/Dallas Regional Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Mesquite",
+            "LocationState": "Texas",
+            "LocationZip": "75149",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Muhammad Saeed, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "214-320-7000"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

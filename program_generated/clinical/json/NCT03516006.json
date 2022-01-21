@@ -1,0 +1,302 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03516006",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "UCMSC-PSC"
+      },
+      "Organization": {
+        "OrgFullName": "Fuzhou General Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Umbilical Cord Mesenchymal Stem Cells in Primary Sclerosing Cholangitis",
+      "OfficialTitle": "Intra-arterial Injection of Umbilical Cord Mesenchymal Stem Cells in Primary Sclerosing Cholangitis"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2018",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2019",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 20, 2017",
+      "StudyFirstSubmitQCDate": "April 23, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 4, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "April 23, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 4, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Dongliang Li",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Fuzhou General Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Fuzhou General Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Primary sclerosing cholangitis (PSC) is an idiopathic condition with intrahepatic cholangitis and fibrosis, leading to multifocal bile duct stricture. Its main clinical manifestations are chronic cholestatic lesions and is deemed as autoimmune liver disease. PSC are immune abnormalities that occurs in patients with genetic susceptibility. No other pathogenesis is revealed yet. Ursodeoxycholic acid is used as an empirical treatment, and there is no approved drug or a acceptable treatment regimen. The disease often progresses to liver decompensation and requires liver transplantation. In recent years, the clinical application of stem cell therapy has seen many important advances. Stem cells are characterized with properties of multiple differentiation, repair of damaged tissue and immuno-modulation. This study aims to employ UCMSCs to treat PSC patients and observe its efficacy and safety, and to explore the possible therapeutic mechanisms."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Primary Sclerosing Cholangitis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "20",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "UCMSC",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "infusion of aUCMSC and Ursodeoxycholic acid therapy",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: UCMSC",
+                "Drug: UDCA"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "UDCA",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Ursodeoxycholic acid therapy 15mg/kg/d",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: UDCA"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "UCMSC",
+            "InterventionDescription": "infusion of aUCMSC at day 0, 7, 14, and 21",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "UCMSC"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "UDCA",
+            "InterventionDescription": "oral administration of ursodeoxycholic acid (UDCA) 15mg/kg/d",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "UCMSC",
+                "UDCA"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "adverse effects regarding UCMSC infusion",
+            "PrimaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Pathological score of liver inflammation",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes of biliary lesions in magnetic resonance image",
+            "SecondaryOutcomeDescription": "softening in stiffness of bile duct",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "alanine aminotransferase",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nprogressive PSC\nwilling to give consent\n\nExclusion Criteria:\n\ndecompensated liver cirrhosis\ntotal serum bilirubin >5ULN\nrefractory ascites\nserum creatinine >1.5mg/dL\nCirrhotic nodules with malignant tendencies\nprimary biliary cholangitis\nIgG4-associated sclerosing cholangitis\nnon-PSC induced bile duct stones\nbiliary tract trauma\nrecurrent suppurative cholangitis\nneoplastic disease\npancreatic disease",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000002761",
+            "ConditionMeshTerm": "Cholangitis"
+          },
+          {
+            "ConditionMeshId": "D000015209",
+            "ConditionMeshTerm": "Cholangitis, Sclerosing"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001649",
+            "ConditionAncestorTerm": "Bile Duct Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001660",
+            "ConditionAncestorTerm": "Biliary Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M5154",
+            "ConditionBrowseLeafName": "Cholangitis",
+            "ConditionBrowseLeafAsFound": "Cholangitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17066",
+            "ConditionBrowseLeafName": "Cholangitis, Sclerosing",
+            "ConditionBrowseLeafAsFound": "Primary Sclerosing Cholangitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4087",
+            "ConditionBrowseLeafName": "Bile Duct Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4098",
+            "ConditionBrowseLeafName": "Biliary Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4712",
+            "ConditionBrowseLeafName": "Primary Sclerosing Cholangitis",
+            "ConditionBrowseLeafAsFound": "Primary Sclerosing Cholangitis",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M16481",
+            "InterventionBrowseLeafName": "Ursodeoxycholic Acid",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Gast",
+            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

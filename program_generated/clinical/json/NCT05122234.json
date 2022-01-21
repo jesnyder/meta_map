@@ -1,0 +1,412 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05122234",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "54/FI/P-KCOVID-19.2B3/IX/2020"
+      },
+      "Organization": {
+        "OrgFullName": "Indonesia University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cell Secretome In Severe Cases of COVID-19",
+      "OfficialTitle": "Effectiveness and Safety Profile of Mesenchymal Stem Cell Secretomes as a Treatment for Severe Cases of COVID-19"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 10, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 30, 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 14, 2021",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "November 13, 2021",
+      "StudyFirstSubmitQCDate": "November 13, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 16, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 13, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 16, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Murdani abdullah",
+        "ResponsiblePartyInvestigatorTitle": "Prof. M.D., PhD, FACG, FASGE",
+        "ResponsiblePartyInvestigatorAffiliation": "Indonesia University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Indonesia University",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study is a multi-centre randomized controlled trial involving severe covid-19 patients. The intervention group will receive mesenchymal stem cell secretomes and standard covid-19 therapy, while the control group receive placebo and standard covid-19 therapy. Clinical presentation, inflamatory marker, laboratory and radiological parameters, RT-PCR conversion, safety profile, and mortality rate will be monitored for a maximum of 14 days after intervention."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID-19"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Severe Covid-19",
+          "secretome",
+          "mesenchymal stem cell",
+          "cytokine"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Secretome - mesenchymal stem cell group (n = 20)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "This group will be given secretome - mesenchymal stem cell and COVID-19 standard therapy",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Injection of secretome - mesenchymal stem cell",
+                "Drug: Standard treatment of Covid-19"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control ( n= 20)",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "This group will be given placebo and COVID-19 standard therapy",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo",
+                "Drug: Standard treatment of Covid-19"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Injection of secretome - mesenchymal stem cell",
+            "InterventionDescription": "Secretome will be given once at a dose of 15 ml per administration dissolved in 100 ml of normal saline. The administration is done intravenously for 60 minutes.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Secretome - mesenchymal stem cell group (n = 20)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Normal saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control ( n= 20)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Standard treatment of Covid-19",
+            "InterventionDescription": "Standard treatment of Covid-19 based on national protocol.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control ( n= 20)",
+                "Secretome - mesenchymal stem cell group (n = 20)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Assessment of inflamation marker levels",
+            "PrimaryOutcomeDescription": "The inflamatory marker assessed in this study is IL-6, IL-10, LIF, VEGF, and Ferritin. The inflamatory marker level will assess on day 0 (before intervention), day 7 after intervention, and day 14 after intervention.",
+            "PrimaryOutcomeTimeFrame": "Day 0 (before intervention), day 7, day 14"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Assessment of clinical outcome",
+            "SecondaryOutcomeDescription": "Clinical outcome assessed in this study were body temperature, oxygen saturation, respiratory rate, shortness of breath, cough, and phlegm on cough.",
+            "SecondaryOutcomeTimeFrame": "before and after intervention (maximum 14 days after intervention)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Assessment of laboratory routine",
+            "SecondaryOutcomeDescription": "Laboratory routine assessed in this study is NLR, lymphocyte count, thrombocytes count, CRP, blood gas analysis, bilirubin, albumin, SGOT, SGPT, ureum/creatinin, glomerular filtration rate (GFR), electrolyte, myoglobin, troponin, D-dimer.",
+            "SecondaryOutcomeTimeFrame": "before and after intervention (maximum 14 days after intervention)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Assessment of photo thorax",
+            "SecondaryOutcomeDescription": "Photo thorax will assess before and after intervention",
+            "SecondaryOutcomeTimeFrame": "before and after intervention (maximum 14 days after intervention)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Assessment of RT-PCR conversion",
+            "SecondaryOutcomeDescription": "RT-PCR conversion will assess before and after intervention",
+            "SecondaryOutcomeTimeFrame": "before and after intervention (maximum 14 days after intervention)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Mortality rate",
+            "SecondaryOutcomeTimeFrame": "maximum 14 days after intervention"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAll individuals aged 18 to 65 years\nIt has been confirmed positive for COVID-19 by throat swab / sputum / brochoalveolar lavage (BAL) with real-time reverse transcription polymerase chain reaction (RT-PCR)\nCategorized as a severe case of COVID-19 patient\nAgree to participate and sign the informed consent\n\nExclusion Criteria:\n\nHistory of allergy to penicillin, streptomycin, and amphotericin-B\nHave any cancer conditions\nActive in other intervention studies\nHave had other intervention studies in the last 3 months",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Murdani Abdullah, Prof. M.D., PhD, FACG, FASGE",
+            "OverallOfficialAffiliation": "Departemen of Internal Medicine, Faculty of Medicine, University of Indonesia",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "RSUPN Dr. Cipto Mangunkusumo",
+            "LocationCity": "Jakarta Pusat",
+            "LocationState": "DKI Jakarta",
+            "LocationCountry": "Indonesia"
+          },
+          {
+            "LocationFacility": "RSUP Fatmawati",
+            "LocationCity": "Jakarta",
+            "LocationState": "DKI Jakarta",
+            "LocationCountry": "Indonesia"
+          },
+          {
+            "LocationFacility": "RSUP Persahabatan",
+            "LocationCity": "Jakarta",
+            "LocationState": "DKI Jakarta",
+            "LocationCountry": "Indonesia"
+          },
+          {
+            "LocationFacility": "Rumah Sakit Universitas Indonesia",
+            "LocationCity": "Depok",
+            "LocationState": "Jawa Barat",
+            "LocationCountry": "Indonesia"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

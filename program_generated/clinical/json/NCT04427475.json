@@ -1,0 +1,325 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04427475",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MIRNA-SEP-01"
+      },
+      "Organization": {
+        "OrgFullName": "Fudan University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Prediction of Immunotherapeutic Effect of Advanced Non-small Cell Lung Cancer",
+      "OfficialTitle": "Study on the Prediction of Immunotherapeutic Effect of Advanced Non-small Cell Lung Cancer by Detection of Plasma Exosomes"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 8, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 31, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 8, 2020",
+      "StudyFirstSubmitQCDate": "June 9, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 11, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "June 9, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 11, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Jialei Wang",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Fudan University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Fudan University",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "To detect the difference of PD-L1 and miRNA expression profiles of exosomes in NSCLC patients before and after immunotherapy, and to explore the potential of plasma exosomes PD-L1 and miRNAs as biomarkers to predict the therapeutic effect of NSCLC on anti-PD-1 / PD-L1."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "NSCLC Patients"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Diagnostic",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "200",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "pabolizumab",
+            "ArmGroupType": "Other",
+            "ArmGroupDescription": "Baseline plasma samples were collected before the treatment, and the efficacy was evaluated once every two treatment cycles.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: pabolizumab"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "nafulizumab",
+            "ArmGroupType": "Other",
+            "ArmGroupDescription": "Baseline plasma samples were collected before the treatment, and the efficacy was evaluated once every two treatment cycles.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: nafulizumab"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "pabolizumab",
+            "InterventionDescription": "100 patients with stage IV EGFR / ALK wild-type NSCLC (squamous cell carcinoma patients do not need to be detected) who received anti-PD-1 (pabolizumab) treatment combined with chemotherapy as the first-line treatment were enrolled in the center. Baseline plasma samples were collected before the treatment, and the efficacy was evaluated once every two treatment cycles. At the same time, plasma samples were collected at key nodes until the patient's progress.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "pabolizumab"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "nafulizumab",
+            "InterventionDescription": "nafulizumab",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "nafulizumab"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "PD-L1 expression profiles of exosomes",
+            "PrimaryOutcomeDescription": "detect the difference of PD-L1 expression profiles of exosomes in NSCLC patients before and after immunotherapy",
+            "PrimaryOutcomeTimeFrame": "through study completion, an average of 1 year"
+          },
+          {
+            "PrimaryOutcomeMeasure": "miRNA expression profiles of exosomes",
+            "PrimaryOutcomeDescription": "detect the difference of miRNA expression profiles of exosomes in NSCLC patients before and after immunotherapy",
+            "PrimaryOutcomeTimeFrame": "through study completion, an average of 1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSign informed consent.\nThe age is greater than or equal to 18 years old.\nThere is at least one measurable focus according to the RECIST 1.1 standard\nEGFR / ALK detection is not needed in patients with metastatic (stage IV) EGFR / ALK wild-type NSCLC confirmed by histology or cytology and in patients with squamous cell carcinoma.\nCohort 1: patients receiving anti-PD-1 (pabolizumab) treatment combined with chemotherapy as the first-line treatment Cohort 2: patients who received the second-line treatment of anti-PD-1 single drug (nafulizumab) for the progress of disease after chemotherapy with platinum containing dual drugs\nECoG score is 0, 1 or 2.\nNo serious blood system, heart, lung, liver and kidney dysfunction and immune deficiency.\nHemoglobin (HB) ≥ 9g / dl; leukocyte (WBC) ≥ 3 * 109 / L; neutrophil (ANC) ≥ 1.5 * 109 / L; platelet (PLT) ≥ 75 * 109 / L.\nMen or women of childbearing age are willing to take contraceptive measures in the experiment.\nEstimated survival time ≥ 3 months.\n\nExclusion Criteria:\n\nHistologically, small cell and non-small cell mixed lung cancer.\nPregnant or nursing women.\nAny unresponsive > CTCAE Level 2 toxicity caused by past anti-tumor treatment\nSerum creatinine clearance < 30 ml / min (calculated by Cockcroft Gault formula)\n\nLiver dysfunction, defined as:\n\nSerum (total) bilirubin > 1.5 × upper limit of normal value (ULN)\nSerum AST / SGOT or ALT / SGPT > 2.5 × ULN (liver metastasis > 5 × ULN)\nAlkaline phosphatase level > 2.5 × ULN (liver metastasis > 5 × ULN, or bone) at baseline Transfer patients > 10 × ULN)\nHave a history of uncontrollable or symptomatic angina, arrhythmia or congestive heart failure.\nSymptomatic brain metastasis or meningeal metastasis.\nIn the past 5 years, she has had or is suffering from other histological types of malignant tumors, except for cervical carcinoma in situ and fully treated skin basal cell carcinoma or squamous cell carcinoma.\nHave active, or have had and may recur autoimmune diseases. However, subjects with type I diabetes, hypothyroidism requiring hormone replacement therapy only, skin diseases without systemic treatment (such as vitiligo, psoriasis or alopecia), or no relapse without external triggers are expected.\nDiagnosis of immunodeficiency or systemic hormone therapy (e.g., hormone therapy equivalent to > 10 mg prednisone per day) or any other form of immunosuppressive therapy within 7 days before the first administration.\nPatients with known history of human immunodeficiency virus (HIV) infection and / or acquired immunodeficiency syndrome. Subjects with active hepatitis B or active hepatitis C\nGrade 2 pneumonia caused by radiotherapy and chemotherapy (grade 2 pneumonia without systemic hormone treatment recovers to grade 1 or below within 14 days, if the researcher judges that there is no risk of recurrence, it can be included in the group for screening).\nHave interstitial lung disease and the disease has symptoms.\nDuring the study period, radiotherapy is planned for the target focus.\nPlan to use other anti-tumor therapy during the study period.\nPatients with serious or uncontrolled systemic diseases who are not suitable for the study or may affect the compliance of the other party's case. Subjects' complications or other conditions may affect compliance with the protocol or may not be suitable for the study.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "wang jia lei, doctor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "18017312369",
+            "CentralContactEMail": "haitunqiao@hotmail.com"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Cancer hospital Fudan University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Shanghai",
+            "LocationState": "Shanghai",
+            "LocationZip": "200032",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "wang jia lei, DOCTOR",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "18017312369",
+                  "LocationContactEMail": "haitunqiao@hotmail.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000002289",
+            "ConditionMeshTerm": "Carcinoma, Non-Small-Cell Lung"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000002283",
+            "ConditionAncestorTerm": "Carcinoma, Bronchogenic"
+          },
+          {
+            "ConditionAncestorId": "D000001984",
+            "ConditionAncestorTerm": "Bronchial Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008175",
+            "ConditionAncestorTerm": "Lung Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000012142",
+            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000013899",
+            "ConditionAncestorTerm": "Thoracic Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10324",
+            "ConditionBrowseLeafName": "Lung Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4698",
+            "ConditionBrowseLeafName": "Carcinoma, Non-Small-Cell Lung",
+            "ConditionBrowseLeafAsFound": "Non-Small Cell Lung Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4686",
+            "ConditionBrowseLeafName": "Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4692",
+            "ConditionBrowseLeafName": "Carcinoma, Bronchogenic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4412",
+            "ConditionBrowseLeafName": "Bronchial Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14131",
+            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15810",
+            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

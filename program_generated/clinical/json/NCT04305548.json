@@ -1,0 +1,447 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04305548",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "ISG-MCS"
+      },
+      "Organization": {
+        "OrgFullName": "Italian Sarcoma Group",
+        "OrgClass": "NETWORK"
+      },
+      "BriefTitle": "Study on Trabectedin in Advanced Rearranged Mesenchymal Chondrosarcoma",
+      "OfficialTitle": "Phase II Study on Trabectedin in Advanced Rearranged Mesenchymal Chondrosarcoma",
+      "Acronym": "ISG-MCS"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 14, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 1, 2024",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "March 9, 2020",
+      "StudyFirstSubmitQCDate": "March 11, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 12, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 29, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 5, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Italian Sarcoma Group",
+        "LeadSponsorClass": "NETWORK"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "PharmaMar",
+            "CollaboratorClass": "INDUSTRY"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Prospective, uncontrolled, investigator-initiated, phase II clinical study to explore the activity of trabectedin in a population of patients aged ≥16 years with progressive, advanced (locally advanced or metastatic)",
+      "DetailedDescription": "Prospective, uncontrolled, multicenter, Italian, investigator-initiated, phase II clinical study to explore the activity of trabectedin in a population of patients aged ≥16 years with progressive, advanced (locally advanced or metastatic), HEY1-NCOA2 positive MCS) , pre-treated with anthracycline-based chemotherapy."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Mesenchymal Chondrosarcoma"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "16",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Trabectedin",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Trabectedin: 1.5 mg/m² - 1.3 mg/m² (at investigator's discretion, with a top-dose of 2.6 total mg per cycle), given in 24-hour continuous infusion",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Trabectedin"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Trabectedin",
+            "InterventionDescription": "Treatment with trabectedin: 1.5 mg/m² - 1.3 mg/m² (at investigator's discretion, with a top-dose of 2.6 total mg per cycle), given in 24-hour continuous infusion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Trabectedin"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Overall tumour Response Rate, according to RECIST v 1.",
+            "PrimaryOutcomeDescription": "Response rate according Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1",
+            "PrimaryOutcomeTimeFrame": "At weeks 6"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Choi criteria response rate",
+            "SecondaryOutcomeDescription": "Response rate according Choi criteria",
+            "SecondaryOutcomeTimeFrame": "At weeks 6, 12,18, 30, 42"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Overall Survival",
+            "SecondaryOutcomeDescription": "Proportion of patients who are still alive at 36 and 60 months after have started the treatment",
+            "SecondaryOutcomeTimeFrame": "At 3 and 5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Progression Free Survival (PFS)",
+            "SecondaryOutcomeDescription": "Survival without disease progression",
+            "SecondaryOutcomeTimeFrame": "At 3 and 5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinical Benefit Rate",
+            "SecondaryOutcomeDescription": "Proportion of patient alive, without disease progression, after 6 months of treatment.",
+            "SecondaryOutcomeTimeFrame": "Month 6"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of response",
+            "SecondaryOutcomeDescription": "Duration of time between the date of first documented response and the date of first documented progression or death due to any cause",
+            "SecondaryOutcomeTimeFrame": "At weeks 6, 12,18, 30, 42"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Adverse events related to the treatment",
+            "SecondaryOutcomeDescription": "Safety in term of grading of adverse event is evaluate from the first treatment dose throughout the study according to CTCAE 5.0",
+            "SecondaryOutcomeTimeFrame": "Week 3, week 6, week 9, week 12, week 18, week 24, week 36, week 48, week 60, week 72"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge ≥ 16 years old\nHistological centrally confirmed diagnosis of skeletal or extra-skeletal MCS with the documented presence of HEY1-NCOA2 fusion\nLocally advanced disease and/or metastatic disease\nMeasurable or evaluable disease with RECIST v1.1\nEvidence of progression by RECIST v1.1 during the 6 months before study entry\nPatients must be pre-treated with at least one prior chemotherapy treatment containing anthracyclines for the advanced phase of disease and with a maximum of 3 lines\nEastern Cooperative Oncology Group (ECOG) Performance Status ≤ 2\nAdequate bone marrow function\nAdequate organ function\nFemale patients of childbearing potential must have negative pregnancy test within 7 days before initiation each cycle of chemotherapy.\nCardiac ejection fraction ≥50% as measured by echocardiogram\nNo history of arterial and/or venous thromboembolic event within the previous 12 months\nThe patient or legal representative must be able to read and understand the informed consent form and must have been willing to give written informed consent and any locally required authorisation before any study-specific procedures, including screening evaluations, sampling, and analyses.\nAny other factors, that, at judgment of investigator, could affect the safety of the patients according to the available trabectedin safety data\n\nExclusion Criteria:\n\nOther primary malignancy with <5 years clinically assessed disease free interval, except basal cell skin cancer, cervical carcinoma in situ or other neoplasm judged to entail a low risk of relapse\nPrevious treatment with radiation therapy within 14 days of first day of study drug dosing, or patients who have not recovered from adverse events due to agents previously administered\nPrevious radiotherapy to 25% of the bone marrow\nMajor surgery within 2 weeks prior to study entry\nParticipation in another clinical study with an investigational product, which last dose was taken less than 4 weeks prior to the start of the treatment.\nPersistent toxicities (≥ grade 2) with the exception of alopecia, caused by previous anticancer therapies.\nPregnancy or breast feeding\nGrade III/IV cardiac problems as defined by the New York Heart Association Criteria\nMedical history of arterial thrombotic or embolic events such as cerebrovascular accident (including transient ischemic attacks), or pulmonary embolism within 6 months prior to the initiation of study treatment\nKnown brain metastasis\nKnown chronic liver disease (i.e. chronic active hepatitis and cirrhosis)\nKnown diagnosis oh human deficiency virus (HIV) infection\nActive or chronic hepatitis B or C requiring treatment with antiviral therapy\nMedical history of hemorrhage or a bleeding event ≥ Grade 3 within 4 weeks prior to the initiation of study treatment\nEvidence of any other serious or unstable illness, or medical, psychological, or social condition, that could jeopardize the safety of the subject and/or his/her compliance with study procedures, or may interfere with the subject's participation in the study or evaluation of the study results\nKnown hypersensitivity to any of the study drugs, study drug classes, or excipients in the formulation of the study drugs\nExpected non-compliance to medical regimens",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "16 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Silvia Stacchiotti, MD",
+            "OverallOfficialAffiliation": "Fondazione IRCCS Istituto Nazionale dei Tumori di Milano",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Nuovo Ospedale di Prato",
+            "LocationCity": "Prato",
+            "LocationState": "Firenze",
+            "LocationZip": "59100",
+            "LocationCountry": "Italy"
+          },
+          {
+            "LocationFacility": "Policlinico Universitario Campus Biomedico",
+            "LocationCity": "Roma",
+            "LocationState": "RM",
+            "LocationZip": "00128",
+            "LocationCountry": "Italy"
+          },
+          {
+            "LocationFacility": "Fondazione del Piemonte per l'Oncologia IRCC Candiolo",
+            "LocationCity": "Candiolo",
+            "LocationState": "Torino",
+            "LocationZip": "10060",
+            "LocationCountry": "Italy"
+          },
+          {
+            "LocationFacility": "Istituto Ortopedico Rizzoli - Unit of Chemotherapy of Muscoloskeletal Tumors",
+            "LocationCity": "Bologna",
+            "LocationZip": "40136",
+            "LocationCountry": "Italy"
+          },
+          {
+            "LocationFacility": "Fondazione IRCSS Istituto Nazionale dei Tumori",
+            "LocationCity": "Milan",
+            "LocationZip": "20133",
+            "LocationCountry": "Italy"
+          },
+          {
+            "LocationFacility": "Ospedale Giaccone",
+            "LocationCity": "Palermo",
+            "LocationCountry": "Italy"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "21084965",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Lee AF, Hayes MM, Lebrun D, Espinosa I, Nielsen GP, Rosenberg AE, Lee CH. FLI-1 distinguishes Ewing sarcoma from small cell osteosarcoma and mesenchymal chondrosarcoma. Appl Immunohistochem Mol Morphol. 2011 May;19(3):233-8. doi: 10.1097/PAI.0b013e3181fd6697."
+          },
+          {
+            "ReferencePMID": "22034177",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Wang L, Motoi T, Khanin R, Olshen A, Mertens F, Bridge J, Dal Cin P, Antonescu CR, Singer S, Hameed M, Bovee JV, Hogendoorn PC, Socci N, Ladanyi M. Identification of a novel, recurrent HEY1-NCOA2 fusion in mesenchymal chondrosarcoma based on a genome-wide screen of exon-level expression data. Genes Chromosomes Cancer. 2012 Feb;51(2):127-39. doi: 10.1002/gcc.20937. Epub 2011 Oct 27."
+          },
+          {
+            "ReferencePMID": "27418251",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Morioka H, Takahashi S, Araki N, Sugiura H, Ueda T, Takahashi M, Yonemoto T, Hiraga H, Hiruma T, Kunisada T, Matsumine A, Susa M, Nakayama R, Nishimoto K, Kikuta K, Horiuchi K, Kawai A. Results of sub-analysis of a phase 2 study on trabectedin treatment for extraskeletal myxoid chondrosarcoma and mesenchymal chondrosarcoma. BMC Cancer. 2016 Jul 14;16:479. doi: 10.1186/s12885-016-2511-y."
+          },
+          {
+            "ReferencePMID": "19190116",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Forni C, Minuzzo M, Virdis E, Tamborini E, Simone M, Tavecchio M, Erba E, Grosso F, Gronchi A, Aman P, Casali P, D'Incalci M, Pilotti S, Mantovani R. Trabectedin (ET-743) promotes differentiation in myxoid liposarcoma tumors. Mol Cancer Ther. 2009 Feb;8(2):449-57. doi: 10.1158/1535-7163.MCT-08-0848. Epub 2009 Feb 3."
+          },
+          {
+            "ReferencePMID": "6825046",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Huvos AG, Rosen G, Dabska M, Marcove RC. Mesenchymal chondrosarcoma. A clinicopathologic analysis of 35 patients with emphasis on treatment. Cancer. 1983 Apr 1;51(7):1230-7."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000002813",
+            "ConditionMeshTerm": "Chondrosarcoma"
+          },
+          {
+            "ConditionMeshId": "D000018211",
+            "ConditionMeshTerm": "Chondrosarcoma, Mesenchymal"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009372",
+            "ConditionAncestorTerm": "Neoplasms, Connective Tissue"
+          },
+          {
+            "ConditionAncestorId": "D000018204",
+            "ConditionAncestorTerm": "Neoplasms, Connective and Soft Tissue"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000012509",
+            "ConditionAncestorTerm": "Sarcoma"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M5205",
+            "ConditionBrowseLeafName": "Chondrosarcoma",
+            "ConditionBrowseLeafAsFound": "Chondrosarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19509",
+            "ConditionBrowseLeafName": "Chondrosarcoma, Mesenchymal",
+            "ConditionBrowseLeafAsFound": "Mesenchymal Chondrosarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11469",
+            "ConditionBrowseLeafName": "Neoplasms, Connective Tissue",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19502",
+            "ConditionBrowseLeafName": "Neoplasms, Connective and Soft Tissue",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14479",
+            "ConditionBrowseLeafName": "Sarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T1172",
+            "ConditionBrowseLeafName": "Chondrosarcoma",
+            "ConditionBrowseLeafAsFound": "Chondrosarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T5284",
+            "ConditionBrowseLeafName": "Soft Tissue Sarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000077606",
+            "InterventionMeshTerm": "Trabectedin"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000018906",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+          },
+          {
+            "InterventionAncestorId": "D000000477",
+            "InterventionAncestorTerm": "Alkylating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M1862",
+            "InterventionBrowseLeafName": "Trabectedin",
+            "InterventionBrowseLeafAsFound": "PAP",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M20095",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2972",
+            "InterventionBrowseLeafName": "Alkylating Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

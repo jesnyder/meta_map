@@ -1,0 +1,369 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03371329",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "15-003524"
+      },
+      "Organization": {
+        "OrgFullName": "Mayo Clinic",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cells Therapy in Patients With Recent Intracerebral Hemorrhage",
+      "OfficialTitle": "Safety and Feasibility of Mesenchymal Stem Cells Therapy in Patients With Recent Intracerebral Hemorrhage"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2020",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 12, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 9, 2020",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 9, 2020",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "November 3, 2017",
+      "StudyFirstSubmitQCDate": "December 11, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 13, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 17, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 21, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Abba C. Zubair, M.D., Ph.D.",
+        "ResponsiblePartyInvestigatorTitle": "medical Director",
+        "ResponsiblePartyInvestigatorAffiliation": "Mayo Clinic"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Mayo Clinic",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The overall goal of this study is to develop mesenchymal stem cell therapy for treatment of acute spontaneous hemorrhagic stroke.",
+      "DetailedDescription": "The overall clinical development strategy of this project is to conduct this Phase I dose escalation study entitled \"A Pilot Study to Evaluate the Safety and Feasibility of Mesenchymal Stem Cells Therapy in Patients with Recent Intracerebral Hemorrhage\". This study will be performed under this current IND application and will be limited to the proposed 12 subjects (3 IV and 1 IT dose groups).\n\nIn this application the investigators are proposing to evaluate safety and feasibility of allogeneic, bone marrow (BM) derived mesenchymal stem cells (MSC) to induce neuroregeneration, improve neurological function and alleviate inflammation."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Hemorrhagic Stroke",
+          "Intracerebral Hemorrhage"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "mesenchymal stem cell",
+          "stroke",
+          "intracerebral hemorrhage",
+          "cell therapy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignInterventionModelDescription": "Dose escalation study",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "9",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Group 1 MSC dose .5 x 10^6/kg IV",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Intravenous infusion of MSC (mesenchymal stem cell) dose .5 x 10^6/kg for 3 participants.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: MSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group 2 MSC dose 1 x 10^6/kg IV",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Intravenous infusion of MSC (mesenchymal stem cell) dose 1 x 10^6/kg for next 3 participants.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: MSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group 3 MSC dose 2 x 10^6/kg IV",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Intravenous infusion of MSC (mesenchymal stem cell) dose 2 x 10^6/kg for next 3 participants.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: MSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group 4 MSC dose 0.5 x 10^6/kg I",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Intraventricular infusion of MSC (mesenchymal stem cell) dose .5 x 10^6/kg for final 3 participants.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: MSC"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "MSC",
+            "InterventionDescription": "bone marrow derived cultured MSC (mesenchymal stem cell)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group 1 MSC dose .5 x 10^6/kg IV",
+                "Group 2 MSC dose 1 x 10^6/kg IV",
+                "Group 3 MSC dose 2 x 10^6/kg IV",
+                "Group 4 MSC dose 0.5 x 10^6/kg I"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Occurrence of adverse events",
+            "PrimaryOutcomeDescription": "Number of adverse events at each Mesenchymal Stem Cell (MSC) dose and following infusions up to one year.",
+            "PrimaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Changes in neurological function test",
+            "SecondaryOutcomeDescription": "The NIH Stroke Scale will be used to assess stroke-related neurologic deficits. A trained observer rates the patient's ability to perform tasks and answer questions. Ratings for each item are scored with 3 to 5 grades with 0 as normal.",
+            "SecondaryOutcomeTimeFrame": "Pre infusion and post-infusion days 1, 2, 3, 7, 30, 90, 180"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Age range: 18 years or older\nGender: Male or female\nAcute spontaneous supratentorial ICH documented by head CT with ICH Score between 2 - 4 inclusive\nStable ICH hematoma volume 60mL or less as measured by ABC2 method by 24-72hrs\nAbility to be enrolled within 72 hours of onset of stroke symptoms\nAbility to provide written personal or surrogate consent. Only subjects who have signed the ICF will be enrolled into the study. The ICF will include elements required by Mayo IRB and FDA in US 21CFR50.\nSubject must have adequate renal function; creatinine <1.5g/dl.\nSubject must be available for all specified assessments at the study site through the completion of the study.\nSubject must provide written ICF and authorization for use of and disclosure of PHI.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Abba C Zubair",
+            "OverallOfficialAffiliation": "Mayo Clinic",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mayo Clinic in Florida",
+            "LocationCity": "Jacksonville",
+            "LocationState": "Florida",
+            "LocationZip": "32224",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Mayo Clinic Clinical Trials",
+            "SeeAlsoLinkURL": "https://www.mayo.edu/research/clinical-trials"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000002543",
+            "ConditionMeshTerm": "Cerebral Hemorrhage"
+          },
+          {
+            "ConditionMeshId": "D000083302",
+            "ConditionMeshTerm": "Hemorrhagic Stroke"
+          },
+          {
+            "ConditionMeshId": "D000006470",
+            "ConditionMeshTerm": "Hemorrhage"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000020521",
+            "ConditionAncestorTerm": "Stroke"
+          },
+          {
+            "ConditionAncestorId": "D000002561",
+            "ConditionAncestorTerm": "Cerebrovascular Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000020300",
+            "ConditionAncestorTerm": "Intracranial Hemorrhages"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M21459",
+            "ConditionBrowseLeafName": "Stroke",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2405",
+            "ConditionBrowseLeafName": "Hemorrhagic Stroke",
+            "ConditionBrowseLeafAsFound": "Hemorrhagic Stroke",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8708",
+            "ConditionBrowseLeafName": "Hemorrhage",
+            "ConditionBrowseLeafAsFound": "Hemorrhage",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4944",
+            "ConditionBrowseLeafName": "Cerebral Hemorrhage",
+            "ConditionBrowseLeafAsFound": "Intracerebral Hemorrhage",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4962",
+            "ConditionBrowseLeafName": "Cerebrovascular Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21266",
+            "ConditionBrowseLeafName": "Intracranial Hemorrhages",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

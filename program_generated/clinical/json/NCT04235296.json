@@ -1,0 +1,312 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04235296",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CHIN-PLAGH-MP-03"
+      },
+      "Organization": {
+        "OrgFullName": "Chinese PLA General Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cell Conditioned Medium-derived Pleiotropic Factor in Treating Residual Burn Wound",
+      "OfficialTitle": "Evaluation of the Safety and Effectiveness of Mesenchymal Stem Cell Conditioned Medium-derived Pleiotropic Factor in Treating Residual Burn Wound"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 17, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 30, 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 30, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 17, 2020",
+      "StudyFirstSubmitQCDate": "January 17, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 21, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "May 9, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 12, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Xiaobing Fu",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Chinese PLA General Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Chinese PLA General Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Treatment of extensive deep burn residual wounds is a common problem in burn plastic surgery. Due to bacterial invasion, excessive maturation of granulation tissue, poor abrasion resistance of new epithelium, and coexistence of wound healing and dissolution can lead to delayed wound healing. Residual wounds rarely heal spontaneously and are prone to recurrence. Mesenchymal stem cells (MSC) boost tissue repair through paracrine. Many biological effectors, including IGF-1, vascular endothelial growth factor (VEGF), TGF-β1 have been found in MSC conditioned media (MSC-CM), and play a role in promoting tissue repair and regeneration.Our previous animal experiments have confirmed the role of MSC-CM in regulating wound inflammation, repairing damaged repair cells and promoting wound regeneration. In here, we will evaluate the safety and effectiveness of mesenchymal stem cell conditioned medium-derived pleiotropic factor in treating residual burn wound."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Mesenchymal Stem Cell-derived Pleiotropic Factor in Treating Residual Burn Wound"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "control group",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "epidermal growth factor",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: epidermal growth factor"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "experimental group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "mesenchymal stem cell conditioned medium-derived pleiotropic factor",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: mesenchymal stem cell conditioned medium-derived pleiotropic factor"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "epidermal growth factor",
+            "InterventionDescription": "Residual wounds from the same person were divided into control group and experimental group. The epidermal growth factor is used to control group. Then the foam wound dressing was selected to cover the residual wound, and the dressing was changed every 2 days.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "control group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "mesenchymal stem cell conditioned medium-derived pleiotropic factor",
+            "InterventionDescription": "Residual wounds from the same person were divided into control group and experimental group. The pleiotropic factor is used to control group. Then the foam wound dressing was selected to cover the residual wound, and the dressing was changed every 2 days.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "experimental group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "wound healing rate",
+            "PrimaryOutcomeDescription": "Original wound area minus unhealed wound area divided by original wound area",
+            "PrimaryOutcomeTimeFrame": "2 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with thermal burns are all residual wounds that have not healed after 1 month; The distance between adjacent residual wounds of the same patient is greater than 10cm; Patients signing informed consent -\n\nExclusion Criteria:\n\nPatients with severe heart, lung, liver, kidney, blood and mental system diseases; Combined with diabetes, hypertension and malnutrition; Patients with shock, severe systemic infections, and pregnant or lactating women. -",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "6 Years",
+      "MaximumAge": "60 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Meirong Li, doctor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "010-66936345",
+            "CentralContactEMail": "meirong811225@126.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Xiaobing Fu",
+            "OverallOfficialAffiliation": "Chinese PLA General Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "PLA Central Theater Air Force Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Datong",
+            "LocationState": "Shanxi",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Wenlin Fan",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "13835208690"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "Need to contact the researcher and open sharing after the researcher's consent",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Study Protocol"
+        ]
+      },
+      "IPDSharingTimeFrame": "One year after completion of the clinical trial",
+      "IPDSharingAccessCriteria": "One year after completion of clinical trials"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000014947",
+            "ConditionMeshTerm": "Wounds and Injuries"
+          },
+          {
+            "ConditionMeshId": "D000002056",
+            "ConditionMeshTerm": "Burns"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafAsFound": "Wound",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4478",
+            "ConditionBrowseLeafName": "Burns",
+            "ConditionBrowseLeafAsFound": "Burn Wound",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000008934",
+            "InterventionMeshTerm": "Mitogens"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000050258",
+            "InterventionAncestorTerm": "Mitosis Modulators"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M11052",
+            "InterventionBrowseLeafName": "Mitogens",
+            "InterventionBrowseLeafAsFound": "Outpatient",
+            "InterventionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

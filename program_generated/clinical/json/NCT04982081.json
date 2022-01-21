@@ -1,0 +1,392 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04982081",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "LTao"
+      },
+      "Organization": {
+        "OrgFullName": "Help Therapeutics",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Treating Congestive HF With hiPSC-CMs Through Endocardial Injection",
+      "OfficialTitle": "Treating Congestive Heart Failure Patients With Human iPSC-derived Cardiomyocytes Through Catheter-based Endocardial Injection"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 1, 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 30, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 31, 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 1, 2021",
+      "StudyFirstSubmitQCDate": "July 19, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 29, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "July 19, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 29, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Help Therapeutics",
+        "LeadSponsorClass": "INDUSTRY"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Xijing Hospital",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Heart failure is the primary cause of morbidity and mortality worldwide. Currently drug treatments for heart failure manage the symptoms, but not restore the loss cardiomyocytes due to the very limited regenerative capability in the adult heart. Novel reparative therapies that replace the cardiomyocytes loss are highly demanded to restore the cardiac function. The main purposes of this explanatory study is to investigate the safety and efficacy of the catheter-based endocardial delivery of human iPSC-derived cardiomyocytes in patients with congestive heart failure.",
+      "DetailedDescription": "Patients with severe congestive heart failure will be treated with allogeneic human iPSC-derived cardiomyocytes (HiCM-188) through the catheter-based injections. HiCM188, produced by Help therapeutics with cGMP condition, will be transplanted into the myocardium through a transcatheter endocardial injection system with two dosage (100 million cells or 400 million cells). The safety and efficacy assessments will be conducted at1, 3, 6 and 12 months after the cell transplantation."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Cardiovascular Diseases",
+          "Congestive Heart Failure",
+          "Dilated Cardiomyopathy"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "induced pluripotent stem cell",
+          "Congestive heart failure",
+          "Regenerative medicine",
+          "dilated cardiomyopathy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "20",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "hiPSC-CM therapy low dosage",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: hiPSC-CM therapy"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "hiPSC-CM therapy high dosage",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: hiPSC-CM therapy"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "hiPSC-CM therapy",
+            "InterventionDescription": "20 patients with congestive heart failure who met the inclusion and exclusion criteria will be recruited. After being fully informed and signed the informed consent, the patients will be randomly divided into two dosage groups: 100 million cells (10 patients) and 400 million cells (10 patients). Human iPSC-derived cardiomyocytes will be injected into the myocardium through a transcatheter endocardial injection system.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "hiPSC-CM therapy high dosage",
+                "hiPSC-CM therapy low dosage"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Incidence of major serious adverse events (SAEs)",
+            "PrimaryOutcomeDescription": "Incidence of SAEs is defined as the composite of: death, fatal myocardial infarction, stroke, tamponade, cardiac perforation, ventricular arrhythmias affecting hemodynamics (> 15s), and tumorigenicity related to the hiPSC-CM .",
+            "PrimaryOutcomeTimeFrame": "First month post-catheterization"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Incidence of severe arrhythmia",
+            "SecondaryOutcomeDescription": "Clinically significant arrhythmias will be recorded by 24-hour ambulatory electrocardiogram",
+            "SecondaryOutcomeTimeFrame": "1-6 months post-catheterization"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of newly formed tumors",
+            "SecondaryOutcomeDescription": "by comparing chest, abdominal and pelvic CT scan and PET-CT scan",
+            "SecondaryOutcomeTimeFrame": "Baseline, 1,3,6 and 12 months post-catheterization"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in penal reactive antibodies (PRA)",
+            "SecondaryOutcomeDescription": "Changes in penal reactive antibodies (PRA) as assessed via blooddraw",
+            "SecondaryOutcomeTimeFrame": "Baseline, 1, 3 and 6 months post-catheterization"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in donor specific antibodies (DSA)",
+            "SecondaryOutcomeDescription": "Changes in donor specific antibodies (DSA) as assessed via blooddraw",
+            "SecondaryOutcomeTimeFrame": "Baseline, 1, 3 and 6 months post-catheterization"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Overall Left Ventricular systolic performance as assessed by MRI",
+            "SecondaryOutcomeDescription": "Left ventricular ejection fraction (LVEF), left ventricular end-diastolic dimension (LVEDV), left ventricular end-systolic dimension (LVESV), evaluated and compared to baseline values.",
+            "SecondaryOutcomeTimeFrame": "Baseline, 1, 3, 6 and 12 months post-catheterization"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Overall Left Ventricular systolic performance as assessed by PET/ECT Scan",
+            "SecondaryOutcomeDescription": "Myocardial contraction and relaxation and myocardial perfusion, evaluated and compared to baseline values.",
+            "SecondaryOutcomeTimeFrame": "Baseline, 6 and 12 months post-catheterization"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Functional status by 6 minute walk test",
+            "SecondaryOutcomeDescription": "valuate Functional Capacity via the Six Minute Walk Test",
+            "SecondaryOutcomeTimeFrame": "Baseline, 1,3,6 and 12 months post-catheterization"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Functional status by New York Heart Association (NYHA) Classification",
+            "SecondaryOutcomeDescription": "Evaluate Functional Capacity via New York Heart Association (NYHA) Class Determination",
+            "SecondaryOutcomeTimeFrame": "Baseline, 1,3,6 and 12 months post-catheterization"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Minnesota Living With Heart Failure Questionnaire (MLHFQ)",
+            "SecondaryOutcomeDescription": "Evaluate Quality Of Life Changes via Minnesota Living with Heart Failure (MLHF). The Maximum possible scores being 105 and the minimum 0. Higher scores indicate a worse or worsening quality of life, while lower scores or decreasing scores indicate a better quality of life.",
+            "SecondaryOutcomeTimeFrame": "Baseline, 1,3,6 and 12 months post-catheterization"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients aged 18-75 years (including 18 and 75).\nSigned the informed consent.\nPatients with congestive heart failure who have received regular treatment for heart failure.\nNew York Heart Association (NYHA) Class III or IV despite optimal standard of care\nLeft Ventricular Ejection Fraction (LVEF)<40% as assessed by echocardiography ( measure in the 3 months of recruit is included, excluding the measured values within 1 month of myocardial infarction ）\nThe thickness of left ventricular ≥8mm\nFemale patient who is not pregnant or nursing during the clinical trial\n\nExclusion Criteria:\n\nPRA ≥ 20% or DSA positive.\nPatients received treatments such as pacemakers, ICD or CRT device.\nPatient with severe valvular disease or presence of a mechanical valve replacement, such as PCI implantation, or patients requiring simultaneous radiofrequency ablation of atrial fibrillation.\nPatient with any therapeutic traumatic heart surgery within 30 days.\nHemodynamic instability or cardiogenic shock.\nRight heart failure.\nRestrictive cardiomyopathy such as amyloidosis, sarcoidosis or hematochromia, constrictive pericarditis.\nMyocardial infarction occurred within 30 days or stroke occurred within 60 days before enrollment.\nThickness at left ventricular free wall infarction < 6 mm.\nSevere ventricular arrhythmias (persistent ventricular tachycardia or other conditions that the investigator considers necessary to exclude).\nBaseline glomerular filtration rate < 30 ml/min / 1.73 m2.\nAbnormal liver function: ALT or AST 3 times higher than the normal value.\nHave a hematologic abnormality as evidenced by hematocrit < 25%, white blood cells count <2,500/ul or platelet count <100000 / ul.\nKnown allergies to penicillin, streptomycin or radiocontrast agent.\nAbnormal coagulation function, INR > 1.3, which cannot be corrected.\nContra-indication to performance of a magnetic resonance imaging scan and PET/ECT examinations.\nOrgan transplant recipient\nPatients with other malignant disease within 5 years prior to enrollment.\nNon-cardiac condition that limits lifespan to < 1 year\nOn chronic therapy with immunosuppressant medication such as glucocorticoid or TNFα antagonist\nContra-indication to take immunosuppressant medication.\nSerum positive for infectious diseases (HIV, HBV, HCV, TP).\nParticipated in other clinical trials within the previous 3 months .\nFemale patient who is pregnant or nursing.\nOther condition that the investigator considers inappropriate for participation in the study.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Jiaxian Wang, MD, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86-18565616060",
+            "CentralContactEMail": "wangjx@helptx.com.cn"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Ling Tao, MD, PhD",
+            "OverallOfficialAffiliation": "Xijing Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Help Therapeutics",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Nanjing",
+            "LocationState": "Jiangsu",
+            "LocationZip": "210000",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Jiaxian Wang, MD,PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+8618565616060",
+                  "LocationContactEMail": "wangjx@helpsci.com.cn"
+                },
+                {
+                  "LocationContactName": "Ling Tao, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006333",
+            "ConditionMeshTerm": "Heart Failure"
+          },
+          {
+            "ConditionMeshId": "D000002318",
+            "ConditionMeshTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionMeshId": "D000009202",
+            "ConditionMeshTerm": "Cardiomyopathies"
+          },
+          {
+            "ConditionMeshId": "D000002311",
+            "ConditionMeshTerm": "Cardiomyopathy, Dilated"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006332",
+            "ConditionAncestorTerm": "Cardiomegaly"
+          },
+          {
+            "ConditionAncestorId": "D000083083",
+            "ConditionAncestorTerm": "Laminopathies"
+          },
+          {
+            "ConditionAncestorId": "D000030342",
+            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M8573",
+            "ConditionBrowseLeafName": "Heart Failure",
+            "ConditionBrowseLeafAsFound": "Congestive Heart Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11306",
+            "ConditionBrowseLeafName": "Cardiomyopathies",
+            "ConditionBrowseLeafAsFound": "Cardiomyopathy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4719",
+            "ConditionBrowseLeafName": "Cardiomyopathy, Dilated",
+            "ConditionBrowseLeafAsFound": "Dilated Cardiomyopathy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8572",
+            "ConditionBrowseLeafName": "Cardiomegaly",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2393",
+            "ConditionBrowseLeafName": "Laminopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22839",
+            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T1876",
+            "ConditionBrowseLeafName": "Dilated Cardiomyopathy",
+            "ConditionBrowseLeafAsFound": "Dilated Cardiomyopathy",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

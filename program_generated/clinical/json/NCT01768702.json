@@ -1,0 +1,535 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01768702",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "C3BS-C-11-01"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2011-001117-13",
+            "SecondaryIdType": "EudraCT Number"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Celyad Oncology SA",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Safety and Efficacy of Autologous Cardiopoietic Cells for Treatment of Ischemic Heart Failure.",
+      "OfficialTitle": "Efficacy and Safety of Bone Marrow-derived Mesenchymal Cardiopoietic Cells (C3BS-CQR-1) for the Treatment of Chronic Advanced Ischemic Heart Failure.",
+      "Acronym": "CHART-1"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2018",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 2012"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 2017",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 2017",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "December 21, 2012",
+      "StudyFirstSubmitQCDate": "January 11, 2013",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 15, 2013",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "May 30, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 1, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Celyad Oncology SA",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Evaluation the safety and efficacy of C3BS-CQR-1 by comparing the overall response to standard of care and C3BS-CQR-1 relative to standard of care and a sham procedure."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Heart Failure"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Chronic Heart Failure of Ischemic Origin"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "315",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Control",
+            "ArmGroupType": "Sham Comparator",
+            "ArmGroupDescription": "Sham, no injection",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Sham, no injection"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "C3BS-CQR-1 Treated",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Injection of C3BS-CQR-1",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Injection of C3BS-CQR-1"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Injection of C3BS-CQR-1",
+            "InterventionDescription": "Injection of the C3BS-CQR-1 using the C-Cath® injection catheter.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "C3BS-CQR-1 Treated"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Sham, no injection",
+            "InterventionDescription": "Mimic the injection procedure trough insertion of a sham catheter. No injection actually performed",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Efficacy between groups post-index procedure",
+            "PrimaryOutcomeDescription": "Change between groups from baseline and 39 weeks in a hierarchical composite outcome comprising, from most to least severe outcome, days to death from any cause, number of worsening of heart failure events, change in score for the Minnesota Living with Heart Failure Questionnaire (MLHFQ) (10-point deterioration, no meaningful change,10-point improvement), change in six-minute walk distance (40-m deterioration, no meaningful change, 40-m improvement) and change in left ventricular end systolic volume (15-mL deterioration, no meaningful change, 15-mL improvement), and left ventricular ejection fraction (4% absolute deterioration, no meaningful change, 4% absolute improvement).",
+            "PrimaryOutcomeTimeFrame": "39 weeks post-index"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Efficacy and safety between groups post-index procedure",
+            "SecondaryOutcomeDescription": "Safety: Number and cause of deaths and re-admissions, number of cardiac transplantations, number of myocardial infarctions, number of strokes. Incidence of serious adverse events (AE) through week 104 and non-serious AEs (through week 52).\n\nEfficacy: Time to all cause mortality, time to worsening of heart failure, and time to aborted sudden death through week 52.",
+            "SecondaryOutcomeTimeFrame": "52 and 104 weeks post-index"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Efficacy and safety between groups post-index procedure",
+            "OtherOutcomeDescription": "Time to all cause mortality, time to cardiovascular mortality, and rate of worsening heart failure requiring outpatient IV therapy for heart failure or readmission for heart failure, and others.",
+            "OtherOutcomeTimeFrame": "39 and 52 weeks post-index"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nEligible patients must meet all of the following inclusion criteria:\n\nAge ≥ 18 and < 80 years.\nSystolic dysfunction with left ventricular ejection fraction (LVEF) ≤ 35% as assessed by echocardiography.\nIschemic heart failure without known need for revascularization.\nTotal MLHFQ score > 30.\nAbility to perform a 6 minute walk test > 100 m and ≤ 400 m.\nHistory of hospitalization for heart failure (HF) within 12 months prior to screening or treatment in an outpatient clinic with intravenous vasoactive therapy (including vasodilators, positive inotropic agents and vasopressors) or diuretics for worsening Heart Failure within 12 months prior to screening.\nBe or must have been within the previous 12 months in New York Heart Association (NYHA) Class III or IV or Interagency Registry for Mechanically Assisted Circulatory Support (INTERMACS) class 4, 5, 6 or 7, and at the time of inclusion, must be at least in NYHA Class II or greater.\nUse of ACE inhibitor and/or angiotensin receptor blocker (ARB); and beta blocker, for at least 3 months prior to screening visit, unless intolerant or contraindicated.\nStable dosing of ACE inhibitor, angiotensin receptor blocker , beta blocker, aldosterone blocker,and diuretics for at least one month prior to screening visit, defined as ≤50% change in total dose of each agent.\nWilling and able to give written informed consent.\n\nExclusion Criteria (summarized):\n\nEligible patients must meet none of the following exclusion criteria:\n\nWomen who are pregnant, confirmed by a positive urine or serum human chorionic gonadotropin laboratory test at screening.\nWomen of child-bearing potential without a negative serum or urine pregnancy test at screening. Women who are postmenopausal (12 months of spontaneous amenorrhea or 6 months of spontaneous amenorrhea with serum FSH level > 40 mIU/mL or 6 weeks post surgical bilateral oophorectomy) or surgically sterile are not considered to be of child-bearing potential. Reliable contraception includes surgical sterilization, hormonal contraception, or doublebarrier methods.\nMen refusing to exercise a reliable form of contraception.\nMyocardial infarction, unstable angina or percutaneous coronary intervention (PCI) within 90 days prior to screening, or coronary artery bypass graft surgery within 180 days prior to screening.\nPatient on a cardiac transplant list or previously received any solid organ transplant.\nPreviously underwent cardiac surgery with remodeling procedure, left ventricular assist device placement or cardiomyoplasty. This exclusion does not apply to patients who underwent ventricularplasty without placement device more than one year ago.\nPatient has undergone cardiac resynchronization therapy within 6 months prior to screening.\nSevere uncontrolled HF requiring need for intensive intravenous diuretics or inotropic support within 1 month prior to screening.\n\nInability to perform a 6 minute walk test due to physical limitations other than HF including:\n\nSevere peripheral vascular disease\nSevere pulmonary disease or chronic obstructive pulmonary disease limiting exercise\nOrthopedic limitations, severe muscular diseases, any other joint or muscular disease or neurological disorder (such as an old stroke or neuropathy) limiting the ability to walk for 6 minutes.\nDependence on chronic oral steroid therapy.\nStroke or transient ischemic attack leading to limitations in lower extremities or occurring within 180 days prior to screening.\nActive myocarditis, constrictive pericarditis, restrictive, hypertrophic or congenital cardiomyopathy.\nBMI < 19 or > 45.\nLeft ventricular thrombus.\nLeft ventricular (LV) wall thickness < 8mm visualized in more than 50% of LV, and defined as a \"LV no-go zone\".\nLV aneurysm or candidate for surgical aneurysmectomy.\nSustained ventricular tachycardia or ventricular fibrillation which led to automatic implantable cardioverter/defibrillator (AICD) therapy (shock) within 3 months prior to screening.\nPrimary significant organic valvular heart disease.\nModerate to severe aortic valve disease precluding catheter entry into the LV.\nMechanical prosthetic valve in aortic or mitral position.\nChronic infection or active malignancy.\nPatient has compromised renal function as reflected by a serum creatinine level >3.0 mg/dL (>0.265 mmol/L) or is currently on dialysis.\nHematocrit < 28%.\nAtherosclerosis and/or tortuosity of the aorta, iliac or femoral arteries of a degree that could impede or preclude the safe retrograde passage of the delivery catheter.\nChronic immunosuppressive therapy due to inflammatory or systemic disease.\nPatient tested positive for HIV 1 or 2, Hepatitis B or C, human T-cell lymphotrophic virus (HTLV) 1 or 2 (if required by regulations) or syphilis.\nExposure to any previous experimental cell or angiogenic therapy and/or myocardial laser therapy and/or therapy with another investigational drug within 60 days prior to screening or enrollment in any concurrent study that may confound the results of this study.\nKnown drug or alcohol dependence or any other factors which will interfere with the study conduct or interpretation of the results or in the opinion of the investigator are not suitable to participate.\nAny illness other than congestive heart failure which might reduce life expectancy to less than 2 years from screening.\nKnown and relevant allergies and/or hypersensitivities to Dextran or other plasma volume expanders to include Gentran, Hyskon and Macrodex.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "André Terzic, MD",
+            "OverallOfficialAffiliation": "Mayo Clinic, Division of Cardiovascular Diseases, Rochester (MN, USA)",
+            "OverallOfficialRole": "Study Chair"
+          },
+          {
+            "OverallOfficialName": "Jozef Bartunek, MD",
+            "OverallOfficialAffiliation": "OLV Ziekenhuis Aalst (Belgium)",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "OLV Ziekenhuis Aalst",
+            "LocationCity": "Aalst",
+            "LocationZip": "9300",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "Centre Hospitalier Universitaire de Liège",
+            "LocationCity": "Liège",
+            "LocationZip": "4000",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "Hopital Civil Marie Curie",
+            "LocationCity": "Lodelinsart",
+            "LocationZip": "6042",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "AZ Glorieux",
+            "LocationCity": "Ronse",
+            "LocationZip": "9600",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "CHU Mont-Godinne",
+            "LocationCity": "Yvoir",
+            "LocationZip": "5530",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "City Clinic Cardiology Center Multiprofile Hospital for Active Treatment",
+            "LocationCity": "Sofia",
+            "LocationZip": "1407",
+            "LocationCountry": "Bulgaria"
+          },
+          {
+            "LocationFacility": "Multiprofile Hospital for Active Treatment 'Tokuda Hospital Sofia'",
+            "LocationCity": "Sofia",
+            "LocationZip": "1407",
+            "LocationCountry": "Bulgaria"
+          },
+          {
+            "LocationFacility": "University Multiprofile Hospital for Active Treatment 'Alexandrovska' EAD",
+            "LocationCity": "Sofia",
+            "LocationZip": "1431",
+            "LocationCountry": "Bulgaria"
+          },
+          {
+            "LocationFacility": "Gottsegen György Országos Kardiológiai Intézet - Felnőtt Kardiológiai Osztály",
+            "LocationCity": "Budapest",
+            "LocationZip": "1096",
+            "LocationCountry": "Hungary"
+          },
+          {
+            "LocationFacility": "Semmelweis Egyetem - Városmajori Szív- és Érgyógyászati Klinika",
+            "LocationCity": "Budapest",
+            "LocationZip": "1122",
+            "LocationCountry": "Hungary"
+          },
+          {
+            "LocationFacility": "MH Egészségügyi Központ Kardiológiai Osztály",
+            "LocationCity": "Budapest",
+            "LocationZip": "1134",
+            "LocationCountry": "Hungary"
+          },
+          {
+            "LocationFacility": "Debreceni Egyetem Orvos - és Egészségtudomanyi Centrum",
+            "LocationCity": "Debrecen",
+            "LocationZip": "4032",
+            "LocationCountry": "Hungary"
+          },
+          {
+            "LocationFacility": "Pécsi Tudományegyetem Klinikai Központ - Szívgyógyászati Klinika",
+            "LocationCity": "Pécs",
+            "LocationZip": "7624",
+            "LocationCountry": "Hungary"
+          },
+          {
+            "LocationFacility": "Barzilai Medical Center - Cardiology Unit",
+            "LocationCity": "Ashkelon",
+            "LocationZip": "78278",
+            "LocationCountry": "Israel"
+          },
+          {
+            "LocationFacility": "Hillel Yaffe Medical Center",
+            "LocationCity": "Hadera",
+            "LocationZip": "38100",
+            "LocationCountry": "Israel"
+          },
+          {
+            "LocationFacility": "Western Galilee Hospital",
+            "LocationCity": "Nahariya",
+            "LocationCountry": "Israel"
+          },
+          {
+            "LocationFacility": "Nazareth Hospital EMMS",
+            "LocationCity": "Nazareth",
+            "LocationZip": "16100",
+            "LocationCountry": "Israel"
+          },
+          {
+            "LocationFacility": "Ziv Medical Center - Heart Institute",
+            "LocationCity": "Safed",
+            "LocationZip": "13110",
+            "LocationCountry": "Israel"
+          },
+          {
+            "LocationFacility": "A.O. Spedali Civili di Brescia",
+            "LocationCity": "Brescia",
+            "LocationZip": "25123",
+            "LocationCountry": "Italy"
+          },
+          {
+            "LocationFacility": "AOUI Verona - Borgo Trento Hospital",
+            "LocationCity": "Verona",
+            "LocationZip": "37126",
+            "LocationCountry": "Italy"
+          },
+          {
+            "LocationFacility": "Uniwersyteckie Centrum Kliniczne, KliniczneCentrum Kardiologii",
+            "LocationCity": "Gdansk",
+            "LocationZip": "80-126",
+            "LocationCountry": "Poland"
+          },
+          {
+            "LocationFacility": "Górnośląskie Centrum Medyczne Śląskiej Akademii Medycznej",
+            "LocationCity": "Katowice",
+            "LocationZip": "40-635",
+            "LocationCountry": "Poland"
+          },
+          {
+            "LocationFacility": "Krakowski Szpital Specjalistyczny im. Jana Pawła II w Krakowie",
+            "LocationCity": "Kraków",
+            "LocationZip": "31-202",
+            "LocationCountry": "Poland"
+          },
+          {
+            "LocationFacility": "Biegański Hospital",
+            "LocationCity": "Łódź",
+            "LocationZip": "91-347",
+            "LocationCountry": "Poland"
+          },
+          {
+            "LocationFacility": "Clinic of Emergency Internal Medicinne Military Medical Academy",
+            "LocationCity": "Belgrade",
+            "LocationZip": "11000",
+            "LocationCountry": "Serbia"
+          },
+          {
+            "LocationFacility": "Clinical Center of Serbia - Cardiology Clinic",
+            "LocationCity": "Belgrade",
+            "LocationZip": "11000",
+            "LocationCountry": "Serbia"
+          },
+          {
+            "LocationFacility": "Clinical Centre of Serbia, Cardiology Clinic",
+            "LocationCity": "Belgrade",
+            "LocationZip": "11000",
+            "LocationCountry": "Serbia"
+          },
+          {
+            "LocationFacility": "Clinical Hospital Center Zvezdara - Cardiology Clinic",
+            "LocationCity": "Belgrade",
+            "LocationZip": "11000",
+            "LocationCountry": "Serbia"
+          },
+          {
+            "LocationFacility": "Clinical Hospital Center Bezanijska Kosa, Cardiology Dept.",
+            "LocationCity": "Belgrade",
+            "LocationZip": "11080",
+            "LocationCountry": "Serbia"
+          },
+          {
+            "LocationFacility": "Clinical Center of Kragujevac,",
+            "LocationCity": "Kragujevac",
+            "LocationZip": "34 000",
+            "LocationCountry": "Serbia"
+          },
+          {
+            "LocationFacility": "Hospital Universitario Germans Trias i Pujol",
+            "LocationCity": "Barcelona",
+            "LocationZip": "08916",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital General Universitario Gregorio Marañon",
+            "LocationCity": "Madrid",
+            "LocationZip": "28007",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Clinico San Carlos",
+            "LocationCity": "Madrid",
+            "LocationZip": "28040",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Clinico Universitario Virgen de la Victoria - Campus de Teatinos s/n",
+            "LocationCity": "Malaga",
+            "LocationZip": "29010",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Cardiocentro Ticino",
+            "LocationCity": "Lugano",
+            "LocationZip": "6900",
+            "LocationCountry": "Switzerland"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "26662998",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Bartunek J, Davison B, Sherman W, Povsic T, Henry TD, Gersh B, Metra M, Filippatos G, Hajjar R, Behfar A, Homsy C, Cotter G, Wijns W, Tendera M, Terzic A. Congestive Heart Failure Cardiopoietic Regenerative Therapy (CHART-1) trial design. Eur J Heart Fail. 2016 Feb;18(2):160-8. doi: 10.1002/ejhf.434. Epub 2015 Dec 14."
+          }
+        ]
+      }
+    }
+  },
+  "AnnotationSection": {
+    "AnnotationModule": {
+      "UnpostedAnnotation": {
+        "UnpostedResponsibleParty": "Celyad Oncology SA",
+        "UnpostedEventList": {
+          "UnpostedEvent": [
+            {
+              "UnpostedEventType": "Release",
+              "UnpostedEventDate": "February 20, 2020"
+            },
+            {
+              "UnpostedEventType": "Reset",
+              "UnpostedEventDate": "March 6, 2020"
+            },
+            {
+              "UnpostedEventType": "Release",
+              "UnpostedEventDate": "June 30, 2020"
+            },
+            {
+              "UnpostedEventType": "Reset",
+              "UnpostedEventDate": "July 13, 2020"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022",
+      "RemovedCountryList": {
+        "RemovedCountry": [
+          "Sweden",
+          "United Kingdom"
+        ]
+      }
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006333",
+            "ConditionMeshTerm": "Heart Failure"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8573",
+            "ConditionBrowseLeafName": "Heart Failure",
+            "ConditionBrowseLeafAsFound": "Heart Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

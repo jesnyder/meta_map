@@ -1,0 +1,388 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01586403",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "203732"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "R44CA126461",
+            "SecondaryIdType": "U.S. NIH Grant/Contract",
+            "SecondaryIdLink": "https://projectreporter.nih.gov/reporterapi.cfm?PROJECTNUM=R44CA126461&Fy=all"
+          },
+          {
+            "SecondaryId": "P01CA154778",
+            "SecondaryIdType": "U.S. NIH Grant/Contract",
+            "SecondaryIdLink": "https://projectreporter.nih.gov/reporterapi.cfm?PROJECTNUM=P01CA154778&Fy=all"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Loyola University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Transfer of Genetically Engineered Lymphocytes in Melanoma Patients",
+      "OfficialTitle": "Transfer of Genetically Engineered Lymphocytes in Melanoma Patients: A Phase 1 Dose Escalation Study"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2020",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 2012",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2028",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2028",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 24, 2012",
+      "StudyFirstSubmitQCDate": "April 25, 2012",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 26, 2012",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "October 29, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 30, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Michael Nishimura",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Loyola University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Loyola University",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "National Cancer Institute (NCI)",
+            "CollaboratorClass": "NIH"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a phase one trial to determine if genetically engineered lymphocytes can be safely delivered to patients with metastatic melanoma.",
+      "DetailedDescription": "The goal of this study is to establish the recommended phase two dose of autologous T cell receptor transduced T cells when administered with low dose IL-2 to stage IV melanoma patients following a non-myeloablative and lymphodepleting chemotherapy preparative regimen. A secondary objective is to evaluate biologic and immunologic parameters associated with the adoptively transferred T cell receptor transduced T cells, including auditory and visual changes. The investigators believe the infusion of T cell receptor gene modified autologous T cells can mediate objective clinical responses in stage IV melanoma patients."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Melanoma"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Melanoma",
+          "Gene Therapy",
+          "Adoptive T-Cell Transfer",
+          "IL-2"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "14",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Dose 1",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects in cohort 1 will receive 2.5 x 106 TIL 1383I TCR transduced T cells per kg body weight",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Dose 1"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Dose 2",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "cohort 2 will receive 7.5 x 106 TIL 1383I TCR transduced T cells per kg body weight.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Dose 2"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Dose 3",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects in cohort 3 will receive 2.5 x 107 TIL 1383I TCR transduced T cells per kg body weight.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Dose 3"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Dose 4",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects will then receive a single infusion of autologous bulk TIL 1383I TCR transduced T cells supported with low dose IL-2. Autologous bulk TIL 1383I TCR transduced T cells means the infusion will consist of a polyclonal mixture of CD4+ and CD8+ T cells expressing the TIL 1383I TCR. Subjects in cohort 4 will receive 7.5 x 107 TIL 1383I TCR transduced T cells per kg body weight.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Dose 4"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Dose 1",
+            "InterventionDescription": "Subjects will receive a single infusion of autologous bulk TIL 1383I TCR transduced T cells supported with low dose IL-2. Autologous bulk TIL 1383I TCR transduced T cells means the infusion will consist of a polyclonal mixture of CD4+ and CD8+ T cells expressing the TIL 1383I TCR. cohort 1 will receive 2.5 x 106 TIL 1383I TCR transduced T cells per kg body weight. Subject in cohort 1 will receive 2.5 x 10^6 TIL 1383I TCR transduced T cells per kg body weight.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Dose 1"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Dose 2",
+            "InterventionDescription": "Subjects will receive a single infusion of autologous bulk TIL 1383I TCR transduced T cells supported with low dose IL-2. Autologous bulk TIL 1383I TCR transduced T cells means the infusion will consist of a polyclonal mixture of CD4+ and CD8+ T cells expressing the TIL 1383I TCR. Subjects in cohort 2 will receive 7.5 x 10^6 TIL 1383I TCR transduced T cells per kg body weight.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Dose 2"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Dose 3",
+            "InterventionDescription": "Subjects will receive a single infusion of autologous bulk TIL 1383I TCR transduced T cells supported with low dose IL-2. Autologous bulk TIL 1383I TCR transduced T cells means the infusion will consist of a polyclonal mixture of CD4+ and CD8+ T cells expressing the TIL 1383I TCR. Subjects in cohort 3 will receive 2.5 x 10^7 TIL 1383I TCR transduced T cells per kg body weight.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Dose 3"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Dose 4",
+            "InterventionDescription": "Subjects then receive a single infusion of autologous bulk TIL 1383I TCR transduced T cells supported with low dose IL-2. Autologous bulk TIL 1383I TCR transduced T cells means the infusion will consist of a polyclonal mixture of CD4+ and CD8+ T cells expressing the TIL 1383I TCR. Subjects in cohort 4 will receive 7.5 x 10^7 TIL 1383I TCR transduced T cells per kg body weight.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Dose 4"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Find dose of autologous T cell receptor",
+            "PrimaryOutcomeDescription": "Establish the recommended phase two dose of autologous T cell receptor transduced T cells when administered with low dose IL-2 to stage IV melanoma patients",
+            "PrimaryOutcomeTimeFrame": "4 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients must have a diagnosis of metastatic melanoma which is measurable either clinically or radiologically.\nPatients must be 18 years of age or older.\nPatients must consent to be in the study and must have signed and dated an approved consent form, which conforms to federal and institutional guidelines.\nPatients must have a performance status of 0 or 1 ECOG PS scale (see Appendix B).\nThe ability to provide written informed consent prior to study specific screening procedures, with the understanding that the patient has the right to withdraw from the study at any time.\nPatients' melanoma must be positive for both tyrosinase and HLA-A2 per Loyola University Medical Center pathologic review from FNA/core/excisional biopsy of lesion.\nCardiac ejection fraction >50% as determined by screening echocardiogram.\nPatients that have undergone treatment with anti-CTLA-4 (Cytotoxic T-Lymphocyte Antigen 4) antibody must have at least 3 months from last dose of CTLA-4 antibody before they can be enrolled into this study.\nThe patients BRAF mutation status at position 600 must be known prior to enrollment. Patients with V600E mutations are eligible if they have failed Vemurafenib therapy or have been offered Vemurafenib therapy and refused.\nPatients treated with prior Interleukin-2 will be allowed to be in this study.\n\nExclusion Criteria:\n\nSpecial classes of subjects such as fetuses, pregnant women, children, prisoners, institutionalized individuals, or others who are likely to be vulnerable.\nECOG performance status of 2 or greater.\nPatients with a history metastatic melanoma involving the brain will be excluded if they have active disease or have had active disease within the prior six months that was not controlled with surgery or radiotherapy.\nPatients taking steroids for disease control or pain management\nPatients must not be pregnant or nursing because of the potentially harmful effects of these agents on a developing fetus. Women/men of reproductive potential must have agreed to use an effective contraceptive method.\nPatients whose BRAF V600E mutation status is unknown, have the BRAF V600E mutation and are responding to Vemurafenib therapy, or have the BRAF V600E mutation and have not been offered the option of receiving Vemurafenib therapy for the treatment of their melanoma.\nNo other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated Stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease-free for five years.\nPatients that have undergone Tyrosinase immunotherapy.\nPatients that have undergone immunotherapy in combination with non-myeloablative chemotherapy.\n\nAny of the following abnormal laboratory values:\n\nAbsolute neutrophil count less than 1.5 x 109/L\nPlatelet count less than 100 x 109/L\nSerum bilirubin greater than 1.5 x upper limit of normal (ULN)\nSerum ALT, AST greater than 2.5 x ULN\nSerum ALP greater than 2 x ULN\nSerum Albumin less than 2.5 g/dL\nInternational Normalized Ratio (INR) greater than 1.5\nSerum creatinine calculated creatinine clearance by the method of Cockcroft and Gault (less than 50mL/min).\nPatients should not have any evidence of active or uncontrolled infection requiring treatment with antibiotics.\nAny severe or poorly controlled systemic disease (e.g., hypertension; clinically significant cardiovascular, pulmonary, or metabolic disease, disorders of wound-healing, ulcer or bone fracture).\nPatients who have received any chemotherapy or investigational treatment within 4 weeks of study start.\nKnown infection with HIV, HBV, or HCV.\nKnown hypersensitivity to any of the components of the study drugs.\nPatients assessed by the investigator to be unable or unwilling to comply with the requirements of the protocol.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Michael Nishimura, PhD",
+            "OverallOfficialAffiliation": "Loyola University Chicago",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Loyola University Medical Center",
+            "LocationCity": "Maywood",
+            "LocationState": "Illinois",
+            "LocationZip": "60153",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008545",
+            "ConditionMeshTerm": "Melanoma"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000018358",
+            "ConditionAncestorTerm": "Neuroendocrine Tumors"
+          },
+          {
+            "ConditionAncestorId": "D000017599",
+            "ConditionAncestorTerm": "Neuroectodermal Tumors"
+          },
+          {
+            "ConditionAncestorId": "D000009373",
+            "ConditionAncestorTerm": "Neoplasms, Germ Cell and Embryonal"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009380",
+            "ConditionAncestorTerm": "Neoplasms, Nerve Tissue"
+          },
+          {
+            "ConditionAncestorId": "D000018326",
+            "ConditionAncestorTerm": "Nevi and Melanomas"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10680",
+            "ConditionBrowseLeafName": "Melanoma",
+            "ConditionBrowseLeafAsFound": "Melanoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19648",
+            "ConditionBrowseLeafName": "Neuroendocrine Tumors",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18997",
+            "ConditionBrowseLeafName": "Neuroectodermal Tumors",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19540",
+            "ConditionBrowseLeafName": "Neuroectodermal Tumors, Primitive",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11470",
+            "ConditionBrowseLeafName": "Neoplasms, Germ Cell and Embryonal",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11477",
+            "ConditionBrowseLeafName": "Neoplasms, Nerve Tissue",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11598",
+            "ConditionBrowseLeafName": "Nevus",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11600",
+            "ConditionBrowseLeafName": "Nevus, Pigmented",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19623",
+            "ConditionBrowseLeafName": "Nevi and Melanomas",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4091",
+            "ConditionBrowseLeafName": "Neuroendocrine Tumor",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4092",
+            "ConditionBrowseLeafName": "Neuroepithelioma",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

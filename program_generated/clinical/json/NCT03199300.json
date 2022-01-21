@@ -1,0 +1,457 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03199300",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "201700454"
+      },
+      "Organization": {
+        "OrgFullName": "University Medical Center Groningen",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Investigating Cardiovascular Adverse Events Related to Cancer Treatment",
+      "OfficialTitle": "Investigating Cardiovascular Adverse Events Related to Cancer Treatment: a Study of Extreme Toxicity Using Induced Pluripotent Stem Cells",
+      "Acronym": "InvestiCAT"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "February 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 12, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 22, 2017",
+      "StudyFirstSubmitQCDate": "June 22, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 26, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "February 1, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "February 2, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "J.A. Gietema",
+        "ResponsiblePartyInvestigatorTitle": "Principal investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "University Medical Center Groningen"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Medical Center Groningen",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Cisplatin, anthracyclines, bleomycin and trastuzumab can cause severe cardiovascular or pulmonary toxicity. Why some patients are susceptible to extreme toxicity of cancer treatment is largely unknown. Unraveling extreme cardiovascular toxic responses in cancer patients may help understand the pathophysiology of cardiovascular toxicity of these agents and help in understanding the more subtle, long-term cardiovascular side effects that affect a larger part of cancer survivors. With induced pluripotent stem cells we will obtain patient-derived cells to recapitulate and mimic and study pathological (cardiovascular) responses and (cardiovascular) toxicity in vitro."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Toxicity Due to Chemotherapy",
+          "Cardiovascular Morbidity",
+          "Cancer, Treatment-Related"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "bleomycin",
+          "cisplatin",
+          "trastuzumab",
+          "anthracyclines",
+          "toxicity"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Control"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Cross-Sectional"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "Urine sample, blood sample, germline DNA, skin fibroblasts."
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "48",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Anthracylines-treated with toxicity",
+            "ArmGroupDescription": "Patients with toxicity during/after treatment with anthracylines.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Anthracyclines"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Anthracyclines-treated without toxicity",
+            "ArmGroupDescription": "Patients without toxicity during/after treatment with anthracylines.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Anthracyclines"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Trastuzumab-treated with toxicity",
+            "ArmGroupDescription": "Patients with toxicity during/after treatment with trastuzumab.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Trastuzumab"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Trastuzumab-treated without toxicity",
+            "ArmGroupDescription": "Patients without toxicity during/after treatment with trastuzumab.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Trastuzumab"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cisplatin-treated with toxicity",
+            "ArmGroupDescription": "Patients with toxicity during/after treatment with cisplatin.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Cisplatin"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cisplatin-treated without toxicity",
+            "ArmGroupDescription": "Patients without toxicity during/after treatment with cisplatin.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Cisplatin"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Bleomycin-treated with toxicity",
+            "ArmGroupDescription": "Patients with toxicity during/after treatment with bleomycin.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Bleomycin"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Bleomycin-treated without toxicity",
+            "ArmGroupDescription": "Patients without toxicity during/after treatment with bleomycin.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Bleomycin"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Anthracyclines",
+            "InterventionDescription": "Chemotherapy regimen containing anthracyclines.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Anthracyclines-treated without toxicity",
+                "Anthracylines-treated with toxicity"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Trastuzumab",
+            "InterventionDescription": "Systemic treatment including trastuzumab.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Trastuzumab-treated with toxicity",
+                "Trastuzumab-treated without toxicity"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cisplatin",
+            "InterventionDescription": "Chemotherapy including cisplatin.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cisplatin-treated with toxicity",
+                "Cisplatin-treated without toxicity"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Bleomycin",
+            "InterventionDescription": "Chemotherapy including bleomycin.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Bleomycin-treated with toxicity",
+                "Bleomycin-treated without toxicity"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Comparison between iPSC-derived cells",
+            "PrimaryOutcomeDescription": "Comparison between iPSC-derived cells from toxicity cases and controls, for each of the four different agents.",
+            "PrimaryOutcomeTimeFrame": "3 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Correlate the findings from the iPSC-derived cells with the clinical phenotype of cardiovascular toxicity",
+            "SecondaryOutcomeDescription": "Correlate the findings from the iPSC-derived cells with the clinical phenotype of (cardiovascular) toxicity, assessed by circulating biomarkers and cardiac or vascular imaging.",
+            "SecondaryOutcomeTimeFrame": "3 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nIn order to be eligible to participate in this study, a subject must meet all of these criteria:\n\nany proven cancer treated with curative intent;\nage ≥ 18 and ≤ 50 years;\nable to comply with the protocol;\nsigned written informed consent.\n\nThere are specific inclusion criteria for every subject group:\n\nsevere toxicity during 1 to 3 cycles of anthracyclines;\n≥ 3 months after end of cancer treatment which included the maximum tolerable dose of anthracyclines without (severe) toxicity;\nsevere toxicity within 1 to 6 cycles of trastuzumab;\n≥ 3 months after end of cancer treatment which included a year of trastuzumab without (severe) toxicity.\nsevere toxicity during 1 to 3 cycles of cisplatin;\n≥ 1 year after end of cancer treatment which included high-dose cisplatin without toxicity;\nsevere toxicity during 1 to 3 cycles of bleomycin;\n≥ 1 year after end of cancer treatment which included high-dose bleomycin without toxicity.\n\nSevere toxicity is defined as any of grade 3 - 4 toxicity according to CTCAE 4.03.\n\nA potential subject who meets any of the following exclusion criteria will be excluded from participation in this study:\n\nhistory of cardiovascular disease prior to start of cancer treatment, as evidenced by any of the following: symptomatic or treated cardiovascular disease prior to start of cancer treatment; LVEF < 55% at any performed MUGA scan or echocardiography prior to start of cancer treatment;\nany psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol, or insufficient understanding of the Dutch language;\nany contraindication for skin biopsy, including: extensive skin disorder precluding biopsy of unaffected skin; known allergy to local anaesthetics; use of anticoagulants and INR > 3;\n\npregnant or lactating female.\n\nFurthermore, there are specific exclusion criteria for the control groups:\n\nhistory of cardiovascular disease during or after cancer treatment, as evidenced by any of the following: any symptomatic or treated cardiovascular disease; LVEF < 55% at any performed MUGA scan or echocardiography.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Patients treated for a malignancy with any of the described cytotoxic agents.",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "J.A. Gietema, MD, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+31 50 3612821",
+            "CentralContactEMail": "j.a.gietema@umcg.nl"
+          },
+          {
+            "CentralContactName": "L.C. Steggink, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+31 50 361 2821",
+            "CentralContactEMail": "l.c.steggink@umcg.nl"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "J.A. Gietema, MD, PhD",
+            "OverallOfficialAffiliation": "University Medical Center Groningen",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University Medical Center Groningen",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Groningen",
+            "LocationZip": "9713 GZ",
+            "LocationCountry": "Netherlands",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "J.A. Gietema, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+31 50 3612821",
+                  "LocationContactEMail": "j.a.gietema@umcg.nl"
+                },
+                {
+                  "LocationContactName": "L.C. Steggink, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+31 50 3612821",
+                  "LocationContactEMail": "l.c.steggink@umcg.nl"
+                },
+                {
+                  "LocationContactName": "J.A. Gietema, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000016609",
+            "ConditionMeshTerm": "Neoplasms, Second Primary"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M18141",
+            "ConditionBrowseLeafName": "Neoplasms, Second Primary",
+            "ConditionBrowseLeafAsFound": "Cancer, Treatment-Related",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000068878",
+            "InterventionMeshTerm": "Trastuzumab"
+          },
+          {
+            "InterventionMeshId": "D000001761",
+            "InterventionMeshTerm": "Bleomycin"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000074322",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Immunological"
+          },
+          {
+            "InterventionAncestorId": "D000000903",
+            "InterventionAncestorTerm": "Antibiotics, Antineoplastic"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M5334",
+            "InterventionBrowseLeafName": "Cisplatin",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M325",
+            "InterventionBrowseLeafName": "Trastuzumab",
+            "InterventionBrowseLeafAsFound": "Is a",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M4194",
+            "InterventionBrowseLeafName": "Bleomycin",
+            "InterventionBrowseLeafAsFound": "Covered",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M1346",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Immunological",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3374",
+            "InterventionBrowseLeafName": "Anti-Bacterial Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3376",
+            "InterventionBrowseLeafName": "Antibiotics, Antitubercular",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          }
+        ]
+      }
+    }
+  }
+}

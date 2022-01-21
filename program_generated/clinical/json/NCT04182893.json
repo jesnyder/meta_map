@@ -1,0 +1,314 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04182893",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "SHCHE201903"
+      },
+      "Organization": {
+        "OrgFullName": "Shanghai Chest Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Clinical Study of ctDNA and Exosome Combined Detection to Identify Benign and Malignant Pulmonary Nodules",
+      "OfficialTitle": "Clinical Study of ctDNA and Exosome Combined Detection to Identify Benign and Malignant Pulmonary Nodules",
+      "Acronym": "ctDNA"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2019",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 8, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 30, 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 30, 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 13, 2019",
+      "StudyFirstSubmitQCDate": "November 29, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 2, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 29, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 2, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Jiayuan Sun",
+        "ResponsiblePartyInvestigatorTitle": "Director,Endoscope Department,Shanghai Chest Hospital",
+        "ResponsiblePartyInvestigatorAffiliation": "Shanghai Chest Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Shanghai Chest Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study through the detection of EGFR、ALK、ROS1、KRAS、HER2、BARF、NTRG1 seven ctDNA and exosome RNA in the blood and alveolar lavage of lung nodules patients and heavy smoking healthy population. If the results of ctDNA test is positive, the target nodule is malignant; if the reaults of ctDNA teste is negatie but exocome RNA is positive, the target nodule is also malignant. If the results of both tests are negtive, the target nodule is recognized as benign. The purpose is study the sensitivity, specificity and diagnostic accuracy of ctDNA and exosome combined detection in the identification of benign and malignant pulmonary nodules. Besides, the diagnostic efficacy of different specimens including blood and alveolar lavage in the identification of benign and malignant pulmonary nodules is also studied.",
+      "DetailedDescription": "Pulmonary nodules are round or irregular shape lesions with a diameter of less than or equal to 3cm. 10% lung nodules will become lung cancer, and lung cancer is evolved from small nodules.\n\nLiquid biopsy is an effective and noninvasive means to assist in the early diagnosis of lung cancer, including circulating tumor cell、exosome and ctDNA detection. CtDNA is used to detect DNA fragments relesased to plasma by cracking or apoptotic tumor cells. Exosomes are derived from living cells, and researchers found that exosome nucleic acid detection of living cells may be closely related to the dynamic development of tumors.\n\nThis study through the detection of EGFR、ALK、ROS1、KRAS、HER2、BARF、NTRG1 seven ctDNA and exosome RNA in the blood and alveolar lavage of lung nodules patients and heavy smoking healthy population. If the results of ctDNA test is positive, the target nodule is malignant; if the reaults of ctDNA teste is negatie but exocome RNA is positive, the target nodule is also malignant. If the results of both tests are negtive, the target nodule is recognized as benign. The purpose is study the sensitivity, specificity and diagnostic accuracy of ctDNA and exosome combined detection in the identification of benign and malignant pulmonary nodules. Besides, the diagnostic efficacy of different specimens including blood and alveolar lavage in the identification of benign and malignant pulmonary nodules is also studied."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Pulmonary Nodules"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "bronchoalveolar lavage fluid",
+          "ctDNA",
+          "exosomes"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Only"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "In this study, 12ml blood was extracted before bronchoscopy and 15ml bronchoalveolar lavage fluid was collected during bronchoscopy."
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "400",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Pulmonary nodules population",
+            "ArmGroupDescription": "We will enroll 300 pulmonary nodules penplein this study. After bronchoscopy, surgical examination or clinical follow-up, pulmonary nodules were finally diagnosed as malignant or benign.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: ctDNA and Exosome Combined Detection"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Healthy population",
+            "ArmGroupDescription": "We will enroll 100 healthy penple in this study. After bronchoscopy, surgical examination or clinical follow-up, pulmonary nodules were finally diagnosed as malignant or benign.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: ctDNA and Exosome Combined Detection"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "ctDNA and Exosome Combined Detection",
+            "InterventionDescription": "Through the detection and analysis of blood and alveolar lavage fluid of 300 patients with pulmonary nodules and 100 healthy population, the diagnostic efficacy of ctDNA and exosomes combined detceion will be studied.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Healthy population",
+                "Pulmonary nodules population"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Diagnostic efficiency of ctDNA and exosome combined detection in the identification of benign and malignant pulmonary nodules.",
+            "PrimaryOutcomeDescription": "Immunohistochemical method was used in ctDNA and exosome combined detection, to detect the blood and alveolar lavage of healthy people and patients with pulmonary nodules.Using the final diagnosis as the standard, the gene mutation threshold of benign and malignant lesions were demarcated, and the differences in gene expression between different types of diseases and the differences in diagnostic rates of blood and alveolar lavage fluid were explored.",
+            "PrimaryOutcomeTimeFrame": "9 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge ≥18 years old; The diameter of pulmonary lesions is 0.5-3cm in chest CT within 3 months; Healthy patients in normal control group had a smoking index ≥400; Patients who are eligible and intend to bronchoscopy.\n\nExclusion Criteria:\n\nThe patient received blood transfusion within 1 month； Patients suffer from autoimmune diseases, including but not limited to systemic lupus erythematosus, rheumatoid arthritis, sjogren's syndrome, etc； Patients with cardiopulmonary dysfunction or other taboos, not suitable for bronchoscopy; Patients refused to participate in this clinical trial; The investigator considerates that the patient has other conditions that is unsuitable for this clinical trial.",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Our study population include 2 groups: pulmonary nodules group and healthy people group.",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Jiayuan Sun",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86-18017321598",
+            "CentralContactEMail": "jysun1976@163.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jiayuan Sun",
+            "OverallOfficialAffiliation": "Shanghai Chest Hospital",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Shanghai Chest Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Shanghai",
+            "LocationZip": "200030",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Jiayuan Sun, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "18017321598",
+                  "LocationContactEMail": "jysun1976@163.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000055613",
+            "ConditionMeshTerm": "Multiple Pulmonary Nodules"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000008175",
+            "ConditionAncestorTerm": "Lung Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000012142",
+            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000013899",
+            "ConditionAncestorTerm": "Thoracic Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M27413",
+            "ConditionBrowseLeafName": "Multiple Pulmonary Nodules",
+            "ConditionBrowseLeafAsFound": "Pulmonary Nodules",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10324",
+            "ConditionBrowseLeafName": "Lung Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14131",
+            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15810",
+            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

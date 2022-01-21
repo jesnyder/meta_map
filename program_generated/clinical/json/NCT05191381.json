@@ -1,0 +1,574 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05191381",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "Lung fibrosis in COVID19"
+      },
+      "Organization": {
+        "OrgFullName": "University of Ulm",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Immune Modulation by Exosomes in COVID-19",
+      "OfficialTitle": "Immune Modulation by Stem Cell Derived Exosomes in Critically Ill COVID-19",
+      "Acronym": "IMECOV19"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2022",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 22, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 31, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 12, 2022",
+      "StudyFirstSubmitQCDate": "January 12, 2022",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 13, 2022",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 12, 2022",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 13, 2022",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Manfred Weiss",
+        "ResponsiblePartyInvestigatorTitle": "Professor Dr. MBA",
+        "ResponsiblePartyInvestigatorAffiliation": "University of Ulm"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of Ulm",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Following whole blood stimulation with mesenchymal stem cell derived exosomes, immune phenotype, cytokine release and mRNA expression patterns from critically ill patients with COVID-19 will be determined.",
+      "DetailedDescription": "Critically ill patients with COVID-19 may develop lung failure and require extracorporal oxygenation due to hyperinflammation and progressive lung fibrosis. The anti-inflammatory and immune modulatory function of mesenchymal stem cells will be investigated by whole blood stimulation experiments using stem cell derived exosomes. Exosome preparations have been characterized by miRNA and protein expression patterns and suggest their tissue regenerative capacity.\n\nThe hypothesis of the present study is that mesenchymal stem cell derived exosomes attenuate inflammation and support anti-fibrotic pathways."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID-19",
+          "Critical Illness",
+          "Hypercytokinemia",
+          "Lung Fibrosis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "COVID-19",
+          "Critical illness",
+          "Hypercytokinemia",
+          "Exosomes",
+          "Mesenchymal stem cells",
+          "Tissue reconstitution",
+          "Immune modulation",
+          "Sepsis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "Yes",
+      "TargetDuration": "12 Months",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "4 ml of heparine- and 2 ml of EDTA-anti-coagulated blood"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Application of exosomes in a whole blood assay",
+            "InterventionDescription": "Co-incubation of patient-derived whole blood samples with mesenchymal stem cell derived exosomes and read-out of biomarkers, RNA and immune phenotypes after 24h."
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Cytokine profile in supernatants",
+            "PrimaryOutcomeDescription": "Quantification of pro- and anti-inflammatory biomarkers after 24h of whole blood culture",
+            "PrimaryOutcomeTimeFrame": "24 hours, year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Immune phenotyping",
+            "SecondaryOutcomeDescription": "Immune phenotypes related to type I interferon signaling",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Genetic predisposition for hyperinflammation",
+            "SecondaryOutcomeDescription": "Sequence analyses regarding functional polymorphisms of inflammatory genes and receptors",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nCritically ill COVID-19 patients with lung dysfunction\nCOVID-19 WHO severity degree >= 4, ARDS (WHO Definition 13 March 2020)\nBody weight > 50 kg\nInformed consent\n\nExclusion Criteria:\n\nPregnant or breast feeding women",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "90 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Critically ill COVID-19 patients, COVID-19 WHO severity degree >= 4, ARDS (WHO Definition 13 March 2020)",
+      "SamplingMethod": "Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Manfred Weiss, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+49(0)731500",
+            "CentralContactPhoneExt": "60226",
+            "CentralContactEMail": "manfred.weiss@uniklinik-ulm.de"
+          },
+          {
+            "CentralContactName": "Marion Schneider, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+49(0)731500",
+            "CentralContactPhoneExt": "60319",
+            "CentralContactEMail": "marion.schneider@uni-ulm.de"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Manfred Weiss, MD",
+            "OverallOfficialAffiliation": "Clinic of Anaesthesiology and Intensive Care Medicine",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Marion Schneider, PhD",
+            "OverallOfficialAffiliation": "Clinic of Anaesthesiology and Intensive Care Medicine",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Clinic of Anesthesiology",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Ulm",
+            "LocationZip": "89070",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Manfred Weiss, MD, MBA",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+49-(0)731-500-60226",
+                  "LocationContactEMail": "manfred.weiss@uniklinik-ulm.de"
+                },
+                {
+                  "LocationContactName": "Elisabeth M Schneider, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+49-(0)731-500-60080",
+                  "LocationContactEMail": "marion.schneider@uni-ulm.de"
+                },
+                {
+                  "LocationContactName": "Manfred Weiss, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Elisabeth M Schneider, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Bettina Jungwirth, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Karl Traeger, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Eberhard Barth, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Benedikt Nussbaum, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "28466096",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Channappanavar R, Perlman S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Semin Immunopathol. 2017 Jul;39(5):529-539. doi: 10.1007/s00281-017-0629-x. Epub 2017 May 2. Review."
+          },
+          {
+            "ReferencePMID": "27994623",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Di Rocco G, Baldari S, Toietta G. Towards Therapeutic Delivery of Extracellular Vesicles: Strategies for In Vivo Tracking and Biodistribution Analysis. Stem Cells Int. 2016;2016:5029619. Epub 2016 Nov 23. Review."
+          },
+          {
+            "ReferencePMID": "21640086",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Geistlinger J, Du W, Groll J, Liu F, Hoegel J, Foehr KJ, Pasquarelli A, Schneider EM. P2RX7 genotype association in severe sepsis identified by a novel Multi-Individual Array for rapid screening and replication of risk SNPs. Clin Chim Acta. 2012 Jan 18;413(1-2):39-47. doi: 10.1016/j.cca.2011.05.023. Epub 2011 May 25."
+          },
+          {
+            "ReferencePMID": "32320677",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Giamarellos-Bourboulis EJ, Netea MG, Rovina N, Akinosoglou K, Antoniadou A, Antonakos N, Damoraki G, Gkavogianni T, Adami ME, Katsaounou P, Ntaganou M, Kyriakopoulou M, Dimopoulos G, Koutsodimitropoulos I, Velissaris D, Koufargyris P, Karageorgos A, Katrini K, Lekakis V, Lupse M, Kotsaki A, Renieris G, Theodoulou D, Panou V, Koukaki E, Koulouris N, Gogos C, Koutsoukou A. Complex Immune Dysregulation in COVID-19 Patients with Severe Respiratory Failure. Cell Host Microbe. 2020 Jun 10;27(6):992-1000.e3. doi: 10.1016/j.chom.2020.04.009. Epub 2020 Apr 21."
+          },
+          {
+            "ReferencePMID": "25453426",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Gotts JE, Matthay MA. Endogenous and exogenous cell-based pathways for recovery from acute respiratory distress syndrome. Clin Chest Med. 2014 Dec;35(4):797-809. doi: 10.1016/j.ccm.2014.08.015. Epub 2014 Sep 24. Review."
+          },
+          {
+            "ReferencePMID": "33663244",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Häberle H, Magunia H, Lang P, Gloeckner H, Körner A, Koeppen M, Backchoul T, Malek N, Handgretinger R, Rosenberger P, Mirakaj V. Mesenchymal Stem Cell Therapy for Severe COVID-19 ARDS. J Intensive Care Med. 2021 Jun;36(6):681-688. doi: 10.1177/0885066621997365. Epub 2021 Mar 5."
+          },
+          {
+            "ReferencePMID": "20138817",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Lai RC, Arslan F, Lee MM, Sze NS, Choo A, Chen TS, Salto-Tellez M, Timmers L, Lee CN, El Oakley RM, Pasterkamp G, de Kleijn DP, Lim SK. Exosome secreted by MSC reduces myocardial ischemia/reperfusion injury. Stem Cell Res. 2010 May;4(3):214-22. doi: 10.1016/j.scr.2009.12.003. Epub 2010 Jan 4."
+          },
+          {
+            "ReferencePMID": "32257537",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Leng Z, Zhu R, Hou W, Feng Y, Yang Y, Han Q, Shan G, Meng F, Du D, Wang S, Fan J, Wang W, Deng L, Shi H, Li H, Hu Z, Zhang F, Gao J, Liu H, Li X, Zhao Y, Yin K, He X, Gao Z, Wang Y, Yang B, Jin R, Stambler I, Lim LW, Su H, Moskalev A, Cano A, Chakrabarti S, Min KJ, Ellison-Hughes G, Caruso C, Jin K, Zhao RC. Transplantation of ACE2(-) Mesenchymal Stem Cells Improves the Outcome of Patients with COVID-19 Pneumonia. Aging Dis. 2020 Mar 9;11(2):216-228. doi: 10.14336/AD.2020.0228. eCollection 2020 Apr."
+          },
+          {
+            "ReferencePMID": "32192578",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall RS, Manson JJ; HLH Across Speciality Collaboration, UK. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet. 2020 Mar 28;395(10229):1033-1034. doi: 10.1016/S0140-6736(20)30628-0. Epub 2020 Mar 16."
+          },
+          {
+            "ReferencePMID": "27011289",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Monsel A, Zhu YG, Gudapati V, Lim H, Lee JW. Mesenchymal stem cell derived secretome and extracellular vesicles for acute lung injury and other inflammatory lung diseases. Expert Opin Biol Ther. 2016 Jul;16(7):859-71. doi: 10.1517/14712598.2016.1170804. Epub 2016 Apr 12. Review."
+          },
+          {
+            "ReferencePMID": "31512000",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Shah TG, Predescu D, Predescu S. Mesenchymal stem cells-derived extracellular vesicles in acute respiratory distress syndrome: a review of current literature and potential future treatment options. Clin Transl Med. 2019 Sep 12;8(1):25. doi: 10.1186/s40169-019-0242-9. Review."
+          },
+          {
+            "ReferencePMID": "32205856",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Shi Y, Wang Y, Shao C, Huang J, Gan J, Huang X, Bucci E, Piacentini M, Ippolito G, Melino G. COVID-19 infection: the perspectives on immune responses. Cell Death Differ. 2020 May;27(5):1451-1454. doi: 10.1038/s41418-020-0530-3. Epub 2020 Mar 23."
+          },
+          {
+            "ReferencePMID": "33568628",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Shi L, Huang H, Lu X, Yan X, Jiang X, Xu R, Wang S, Zhang C, Yuan X, Xu Z, Huang L, Fu JL, Li Y, Zhang Y, Yao WQ, Liu T, Song J, Sun L, Yang F, Zhang X, Zhang B, Shi M, Meng F, Song Y, Yu Y, Wen J, Li Q, Mao Q, Maeurer M, Zumla A, Yao C, Xie WF, Wang FS. Effect of human umbilical cord-derived mesenchymal stem cells on lung damage in severe COVID-19 patients: a randomized, double-blind, placebo-controlled phase 2 trial. Signal Transduct Target Ther. 2021 Feb 10;6(1):58. doi: 10.1038/s41392-021-00488-5."
+          },
+          {
+            "ReferencePMID": "34497264",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Shi L, Wang L, Xu R, Zhang C, Xie Y, Liu K, Li T, Hu W, Zhen C, Wang FS. Mesenchymal stem cell therapy for severe COVID-19. Signal Transduct Target Ther. 2021 Sep 8;6(1):339. doi: 10.1038/s41392-021-00754-6. Review."
+          },
+          {
+            "ReferencePMID": "32105632",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 May;8(5):475-481. doi: 10.1016/S2213-2600(20)30079-5. Epub 2020 Feb 24. Erratum in: Lancet Respir Med. 2020 Apr;8(4):e26."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000016638",
+            "ConditionMeshTerm": "Critical Illness"
+          },
+          {
+            "ConditionMeshId": "D000080424",
+            "ConditionMeshTerm": "Cytokine Release Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000020969",
+            "ConditionAncestorTerm": "Disease Attributes"
+          },
+          {
+            "ConditionAncestorId": "D000018746",
+            "ConditionAncestorTerm": "Systemic Inflammatory Response Syndrome"
+          },
+          {
+            "ConditionAncestorId": "D000007249",
+            "ConditionAncestorTerm": "Inflammation"
+          },
+          {
+            "ConditionAncestorId": "D000012769",
+            "ConditionAncestorTerm": "Shock"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M7637",
+            "ConditionBrowseLeafName": "Fibrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18162",
+            "ConditionBrowseLeafName": "Critical Illness",
+            "ConditionBrowseLeafAsFound": "Critical Illness",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13664",
+            "ConditionBrowseLeafName": "Pulmonary Fibrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20017",
+            "ConditionBrowseLeafName": "Sepsis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16021",
+            "ConditionBrowseLeafName": "Toxemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2157",
+            "ConditionBrowseLeafName": "Cytokine Release Syndrome",
+            "ConditionBrowseLeafAsFound": "Hypercytokinemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21853",
+            "ConditionBrowseLeafName": "Disease Attributes",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19971",
+            "ConditionBrowseLeafName": "Systemic Inflammatory Response Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9445",
+            "ConditionBrowseLeafName": "Inflammation",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14729",
+            "ConditionBrowseLeafName": "Shock",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

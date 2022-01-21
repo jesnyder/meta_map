@@ -1,0 +1,448 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03325322",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "16-010521"
+      },
+      "Organization": {
+        "OrgFullName": "Mayo Clinic",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Inflammation and Stem Cells in Diabetic and Chronic Kidney Disease",
+      "OfficialTitle": "Frailty, Inflammation, and Stem Cell Functionality in Chronic Kidney Disease"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 2, 2018",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 2025",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 12, 2017",
+      "StudyFirstSubmitQCDate": "October 24, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 30, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 13, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 14, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "LaTonya J. Hickson",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Mayo Clinic"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Mayo Clinic",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The proposed studies will examine the effect of fisetin on adipose tissue-derived mesenchymal stem/stromal cell function, kidney function, markers of inflammation, and physical function in individuals with advanced chronic kidney disease.",
+      "DetailedDescription": "The proposed studies will examine the effect of fisetin on adipose tissue-derived mesenchymal stem/stromal cell function, kidney function, markers of inflammation, and physical function in individuals with advanced chronic kidney disease, particularly diabetic kidney disease. This study will involve a single 2-day oral treatment regimen with fisetin or placebo. Study subjects will be randomized 2:1 to study drug or placebo. Study visits will consist of blood, urine, and abdominal wall skin and subcutaneous fat samplings in addition to testing of physical strength at given time points. Subjects will be followed for a total of 12 months."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Chronic Kidney Diseases",
+          "Diabetes Mellitus",
+          "Diabetic Nephropathies"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Frailty",
+          "Inflammation",
+          "Mesenchymal stem cell",
+          "Mesenchymal stromal cell"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Treatment",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Fisetin 20 mg/kg/day, orally for 2 consecutive days",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Dietary Supplement: Fisetin"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Placebo capsules orally for 2 consecutive days",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo oral capsule"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Dietary Supplement",
+            "InterventionName": "Fisetin",
+            "InterventionDescription": "Flavonoid family",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo oral capsule",
+            "InterventionDescription": "Placebo",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change in inflammatory markers including C-reactive protein",
+            "PrimaryOutcomeDescription": "To examine the effect of study drug (compared to placebo) on markers of inflammation in skin, fat, plasma, and urine measured at baseline and day 14",
+            "PrimaryOutcomeTimeFrame": "14 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Effect on Mesenchymal stem cell function including cell migration",
+            "PrimaryOutcomeDescription": "To examine the effect of study drug (compared to placebo) on mesenchymal stem cell function and vitality measured at baseline and day 14",
+            "PrimaryOutcomeTimeFrame": "14 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Effect on measures of Frailty including Fried Criteria",
+            "SecondaryOutcomeDescription": "To examine the effect of study drug (compared to placebo) on markers of physical frailty (frailty phenotype).",
+            "SecondaryOutcomeTimeFrame": "4 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Kidney function including estimated glomerular filtration rate",
+            "SecondaryOutcomeDescription": "To examine the effect of study drug (compared to placebo) on kidney function.",
+            "SecondaryOutcomeTimeFrame": "4 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Kidney function including urine protein excretion rate",
+            "SecondaryOutcomeDescription": "To examine the effect of study drug (compared to placebo) on kidney function protein excretion",
+            "SecondaryOutcomeTimeFrame": "4 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants with treatment-related adverse events including hospitalization",
+            "SecondaryOutcomeDescription": "To assess the safety and tolerability of study drug taken over two days (compared to placebo)",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge 40-80 years\nChronic kidney disease estimated glomerular filtration rate (eGFR) 15-60 ml/min/1.73m2\nFor the diabetic kidney disease (DKD) subgroup: Diabetes mellitus (on medication)\n\nExclusion Criteria:\n\nHemoglobin A1c>11% at screening for the DKD subgroup\nBody weight >150 kg or body mass index>50\nPregnancy\nActive glomerulonephritis treated with immunosuppressive therapy\nSolid organ transplantation (eg. kidney, pancreas, liver, lung, heart)\nActive immunosuppression therapy\nHistory of active substance abuse (including alcohol) within the past 2 years,\nCurrent alcohol abuse (>3 alcoholic beverages/day or >21 per week),\nHuman immunodeficiency virus infection\nActive hepatitis B or C infection\nTotal bilirubin >2x upper limit of normal\nUncontrolled psychiatric disorder\nUncontrolled systemic lupus erythematosus\nUncontrolled pleural/pericardial effusions or ascites\nNew invasive cancer except non-melanoma skin cancers\nInvasive fungal or viral infection\nInability to tolerate oral medications\nKnown hypersensitivity or allergy to Fisetin\nSubjects taking medications that are sensitive to substrates or substrates with a narrow therapeutic range for CYP3A4, CYP2C8, CYP2C9, or CYP2D6CYP2C9, CYP2C19, CYP1A2, Other (OATP1B1) (Unless willing and able to stop or modify the dosing of the drug) or strong inhibitors or inducers of CYP3A4 (e.g. cyclosporine, tacrolimus or sirolimus).\nTyrosine kinase inhibitor therapy\nSubjects on therapeutic doses of anticoagulants (e.g., warfarin, heparin, low molecular weight heparin, factor Xa inhibitors, etc.).\nSubjects on full-dose 325 mg aspirin or other anti-platelet agents (eg. clopidogrel) daily who are unable or unwilling to reduce or hold therapy prior to and during the 2-day drug dosing. Subjects may continue their previous regimen on day 3.\nBaby aspirin (81 mg), if necessary for cardioprotection, will be allowed but encouraged to hold.\nSubjects taking proton pump inhibitors who are unable or unwilling to reduce or hold therapy 2 days prior to and during the 2-day drug dosing. Subjects taking H2-antagonists and unwilling to discontinue therapy for 2 weeks before and one week following enrollment. (See Appendix 4)\nSubjects taking glimepiride or glyburide for diabetes therapy who are unable or unwilling to reduce or hold therapy prior to and during the 2-day drug dosing.\nSubjects taking the following antimicrobial agents: Aminoglycosides, Azole antifungals (fluconazole, miconazole, voriconazole, itraconazole), Macrolides (clarithromycin, erythromycin), Antivirals (nelfinavir, indinavir, saquinavir, ritonavir, elbasvir/grazoprevir), Rifampin\nCorrected QT interval (QTc) >450 msec\nTobacco use (smoking or chewing; Unless subject willing to reduce use by 50% prior to and during the study) - see Behavioral Modification information below.\nInability to give informed consent\nPresence of any condition that the Investigator believes would put the subject at risk or would preclude the patient from successfully completing all aspects of the trial",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "40 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Justin Patri, MS, CRC",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "507-293-3732",
+            "CentralContactEMail": "patri.justin@mayo.edu"
+          },
+          {
+            "CentralContactName": "Donna Lawson",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "507-255-7975",
+            "CentralContactEMail": "lawson.donna3@mayo.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "LaTonya J Hickson, MD",
+            "OverallOfficialAffiliation": "Mayo Clinic",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mayo Clinic in Rochester",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Rochester",
+            "LocationState": "Minnesota",
+            "LocationZip": "55905",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Justin Patri, MS, CRC",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "507-293-3732",
+                  "LocationContactEMail": "patri.justin@mayo.edu"
+                },
+                {
+                  "LocationContactName": "Donna Lawson",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "507-255-7975",
+                  "LocationContactEMail": "lawson.donna3@mayo.edu"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Mayo Clinic Clinical Trials",
+            "SeeAlsoLinkURL": "https://www.mayo.edu/research/clinical-trials"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007674",
+            "ConditionMeshTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionMeshId": "D000051436",
+            "ConditionMeshTerm": "Renal Insufficiency, Chronic"
+          },
+          {
+            "ConditionMeshId": "D000003928",
+            "ConditionMeshTerm": "Diabetic Nephropathies"
+          },
+          {
+            "ConditionMeshId": "D000007249",
+            "ConditionMeshTerm": "Inflammation"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000051437",
+            "ConditionAncestorTerm": "Renal Insufficiency"
+          },
+          {
+            "ConditionAncestorId": "D000048909",
+            "ConditionAncestorTerm": "Diabetes Complications"
+          },
+          {
+            "ConditionAncestorId": "D000003920",
+            "ConditionAncestorTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M1175",
+            "ConditionBrowseLeafName": "Frailty",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9445",
+            "ConditionBrowseLeafName": "Inflammation",
+            "ConditionBrowseLeafAsFound": "Inflammation",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafAsFound": "Kidney Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6275",
+            "ConditionBrowseLeafName": "Diabetic Nephropathies",
+            "ConditionBrowseLeafAsFound": "Diabetic Nephropathy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M25871",
+            "ConditionBrowseLeafName": "Renal Insufficiency",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25870",
+            "ConditionBrowseLeafName": "Renal Insufficiency, Chronic",
+            "ConditionBrowseLeafAsFound": "Chronic Kidney Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25157",
+            "ConditionBrowseLeafName": "Diabetes Complications",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "T28",
+            "InterventionBrowseLeafName": "Fisetin",
+            "InterventionBrowseLeafAsFound": "FUDR",
+            "InterventionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Fl",
+            "InterventionBrowseBranchName": "Flavonoid"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

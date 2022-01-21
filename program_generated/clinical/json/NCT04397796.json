@@ -1,0 +1,429 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04397796",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "QUILT-COVID-19-MSC"
+      },
+      "Organization": {
+        "OrgFullName": "ImmunityBio, Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Study of the Safety of Therapeutic Tx With Immunomodulatory MSC in Adults With COVID-19 Infection Requiring Mechanical Ventilation",
+      "OfficialTitle": "Phase 1b Randomized, Double-Blind, Placebo-Controlled Study Of The Safety Of Therapeutic Treatment With Immunomodulatory Mesenchymal Stem Cells In Adults With COVID-19 Infection Requiring Mechanical Ventilation"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2020",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 3, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 18, 2020",
+      "StudyFirstSubmitQCDate": "May 19, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 21, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "May 26, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 27, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "ImmunityBio, Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a phase 1b randomized, double-blind, placebo-controlled study in adult subjects with Coronavirus Disease 2019 (COVID-19). This clinical trial will evaluate the preliminary safety and efficacy of BM-Allo.MSC vs placebo in treating subjects with severe disease requiring ventilator support during COVID 19 infection."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "IMMUNOMODULATORY MESENCHYMAL STEM CELLS",
+          "MSC",
+          "COVID-19",
+          "Mechanical ventilation",
+          "Severe respiratory distress"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "45",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "BM-Allo.MSC",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects in the experimental arm will be administered BM-Allo.MSC",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: BM-Allo.MSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Subjects in the control arm will be treated with placebo",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "BM-Allo.MSC",
+            "InterventionDescription": "BM-Allo.MSC for Infusion, is manufactured from normal donor derived bone marrow product and are phenotypically CD73+, CD90+, CD105+, and negative for CD14-, CD34-, CD45-, HLA-DR-.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "BM-Allo.MSC"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "plasmalyte and human albumin",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Incidence of AEs",
+            "PrimaryOutcomeDescription": "Incidence of AEs within 30 days of randomization.",
+            "PrimaryOutcomeTimeFrame": "30 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Mortality",
+            "PrimaryOutcomeDescription": "Mortality within 30 days of randomization.",
+            "PrimaryOutcomeTimeFrame": "30 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Death",
+            "PrimaryOutcomeDescription": "Cause of death within 30 days of randomization",
+            "PrimaryOutcomeTimeFrame": "30 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of ventilator-free days",
+            "PrimaryOutcomeDescription": "Number of ventilator-free days within 60 days of randomization.",
+            "PrimaryOutcomeTimeFrame": "60 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Improvement of one category",
+            "SecondaryOutcomeDescription": "Time from randomization to an improvement of one category using the ordinal scale.\n\nThe ordinal scale is as follows:\n\nDeath\nHospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO)\nHospitalized, on non-invasive ventilation or high flow oxygen devices\nHospitalized, requiring supplemental oxygen\nHospitalized, not requiring supplemental oxygen\nNot hospitalized, limitation on activities\nNot hospitalized, no limitations on activities",
+            "SecondaryOutcomeTimeFrame": "30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "7-point ordinal scale",
+            "SecondaryOutcomeDescription": "Change in the 7-point ordinal scale from baseline.\n\nThe ordinal scale is as follows:\n\nDeath\nHospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO)\nHospitalized, on non-invasive ventilation or high flow oxygen devices\nHospitalized, requiring supplemental oxygen\nHospitalized, not requiring supplemental oxygen\nNot hospitalized, limitation on activities\nNot hospitalized, no limitations on activities",
+            "SecondaryOutcomeTimeFrame": "30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "NEWS",
+            "SecondaryOutcomeDescription": "Change in NEWS from baseline.\n\nThe following 7 clinical parameters will be assessed:\n\nRespiration rate\nOxygen saturation\nAny supplemental oxygen\nTemperature\nSystolic blood pressure\nHeart rate\nLevel of consciousness\n\nMeasurements within normal ranges are assigned a 0. If the measurement in each category is substantially above or below the normal range, it is given a +1, +2, or +3. The more far off than normal, the bigger the number (in each category). A higher number indicates worse outcome. Each category can be 0-3, except for supplemental oxygen which is only 0-2. The highest value a patient can get is 20.",
+            "SecondaryOutcomeTimeFrame": "30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "NEWS of ≤ 2",
+            "SecondaryOutcomeDescription": "Time from randomization to discharge or to a NEWS of ≤ 2 maintained for 24 hours, whichever occurs first.",
+            "SecondaryOutcomeTimeFrame": "30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Sequential Organ Failure Assessment (SOFA)",
+            "SecondaryOutcomeDescription": "Change from baseline in Sequential Organ Failure Assessment (SOFA) score on days 8, 15, 22, and 29.\n\nSystem Score for each category is 0-4 with 28 is the maximum score for worst outcome.\n\nThe following categories are:\n\nRespiration\nCoagulation\nLiver\nCardiovascular\nCentral Nervous System\nRenal",
+            "SecondaryOutcomeTimeFrame": "days 8, 15, 22, and 29"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Oxygen",
+            "SecondaryOutcomeDescription": "Number of days requiring oxygen.",
+            "SecondaryOutcomeTimeFrame": "30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Hospitalization",
+            "SecondaryOutcomeDescription": "Duration of hospitalization from randomization.",
+            "SecondaryOutcomeTimeFrame": "30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of SAEs",
+            "SecondaryOutcomeDescription": "Incidence of SAEs within 30 days of randomization",
+            "SecondaryOutcomeTimeFrame": "30 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge ≥ 18 years old.\nAble to understand and provide a signed informed consent that fulfills the relevant Institutional Review Board (IRB) or Independent Ethics Committee (IEC) guidelines. For subjects that are intubated and/or sedated, or otherwise unable to provide consent, prospective consent from a legally-authorized representative is required. The subject or his/her legally authorized representative must be able to provide consent.\nHas laboratory-confirmed positive novel coronavirus (SARS-CoV-2) test, as determined by polymerase chain reaction (PCR), or other commercial or public health assay in any specimen < 72 hours prior to enrollment, or meets the criteria to guide the evaluation and testing of patients under investigation (PUI) for COVID-19 (https://emergency.cdc.gov/han/2020/HAN00428.asp).\n\nRequiring mechanical ventilatory support with moderate to severe Acute Respiratory Distress Syndrome (ARDS) as determined by the Berlin criteria:\n\nBilateral opacities present on a chest radiograph or computed tomographic (CT) scan. These opacities are not fully explained by pleural effusions, lobar collapse, lung collapse, or pulmonary nodules.\nOrigin of Edema: Respiratory failure not fully explained by cardiac failure or fluid overload.\n\nOxygenation: Moderate to severe impairment of oxygenation must be present, as defined by the ratio of arterial oxygen tension to fraction of inspired oxygen (PaO2/FiO2). The severity of the hypoxemia defines the severity of the ARDS:\n\nModerate: PaO2/FiO2 >100 mmHg and ≤ 200 mmHg, on ventilator settings that include PEEP ≥ 5 cm H2O\nSevere: PaO2/FiO2 ≤100 mmHg on ventilator settings that include PEEP ≥5 cm H2O Subjects receiving extracorporeal membrane oxygenation (ECMO) will not be enrolled in this study.\nHigh-sensitivity C-reactive Protein (hs-CRP) serum level > 4.0 mg/dL\nAcute Physiology and Chronic Health Evaluation (APACHE IV) score > 5\nAgrees to the collection of nasopharyngeal (NP) swabs and venous blood per protocol.\nAbility to attend required study visits and return for adequate follow-up, as required by this protocol.\nAgreement to practice effective contraception for female subjects of child-bearing potential and non-sterile males. Female subjects of child-bearing potential must agree to use effective contraception while on study and for at least 1 month after the last dose of BM-Allo.MSC. Non-sterile male subjects must agree to use a condom while on study and for up to 1 month after the dose of BM-Allo.MSC. Effective contraception includes surgical sterilization (eg, vasectomy, tubal ligation), two forms of barrier methods (eg, condom, diaphragm) used with spermicide, intrauterine devices (IUDs), oral contraceptives, and abstinence.\n\nExclusion Criteria:\n\nKnown hypersensitivity to any component of the study medication(s).\nSigns of multisystem organ failure. Liver function tests (LFTs) > 5x normal.\nIntubated > 72 continuous hours.\nAssessed by the Investigator to be unable or unwilling to comply with the requirements of the protocol.\nPregnant and nursing women. A negative serum pregnancy test during screening (within 72 hours prior to the first dose) must be documented before MSCs are administered to a female subject of child-bearing potential.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "St. Francis Medical Center",
+            "LocationCity": "Lynwood",
+            "LocationState": "California",
+            "LocationZip": "90262",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M85407",
+            "InterventionBrowseLeafName": "Plasma-lyte 148",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

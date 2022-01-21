@@ -1,0 +1,399 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01875081",
+      "NCTIdAliasList": {
+        "NCTIdAlias": [
+          "NCT01875211"
+        ]
+      },
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "PMC-BD-CT-P-002"
+      },
+      "Organization": {
+        "OrgFullName": "Pharmicell Co., Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "REVIVE(Randomized Exploratory Clinical Trial to Evaluate the Safety and Effectiveness of Stem Cell Product in Alcoholic Liver Cirrhosis Patient)",
+      "OfficialTitle": "Randomized Exploratory Clinical Trial to Evaluate the Safety and Effectiveness of Stem Cell Product in Alcoholic Liver Cirrhosis Patient."
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2016",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 2012"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 2016",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 2016",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "June 7, 2013",
+      "StudyFirstSubmitQCDate": "June 7, 2013",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 11, 2013",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "March 16, 2016",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 17, 2016",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Pharmicell Co., Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {},
+    "DescriptionModule": {
+      "BriefSummary": "If the participant voluntarily agrees to participate in the clinical trial before registration, the investigator conducts a screening test to evaluate the participant's suitability.\n\nA participant that satisfies all selection and exclusion criteria is assigned randomly to a test group (1-time or 2-time injection group) or control group (no-cell therapy group). Participants assigned to the 1-time injection group conduct cell therapy within 1 month after bone marrow aspiration. Before implementing cell therapy, implement hepatic artery catheterization which inserts a catheter into the hepatic artery through the right aorta femoralis and inject 5X107 autologous bone marrow-derived mesenchymal stem cells. Participants assigned to the 2-time injection group store 1-time injection amount of mesenchymal stem cells while being cultivated after sampled from the bone marrow, and will re-inject autologous mesenchymal stem cells within 1 month after first injection.\n\nParticipants will make a total of 8 hospital visits on a 4-week interval after registration, and effectiveness and safety will be evaluated based on a fixed procedure on every visit."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Alcoholic Liver Cirrhosis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "72",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "Best Supportive care"
+          },
+          {
+            "ArmGroupLabel": "1-time injection group: Livercellgram",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Within 1 month after extracting bone marrow, directly inject 5X107 autologous bone marrow-derived mesenchymal stem cells within liver through the hepatic artery.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Livercellgram"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "2-time injection group: Livercellgram",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Within 1 month after extracting bone marrow, directly inject 5X107 autologous bone marrow-derived mesenchymal stem cells within liver through the hepatic artery. Within 1 month after cell injection, re-inject autologous bone marrow-derived mesenchymal stem cells.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Livercellgram"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Livercellgram",
+            "InterventionDescription": "Livercellgram\n\nDosage form and appearance: White cell suspension is filled in a clear plastic syringe, and fixed with an occlude on the prefilled syringe tip ② Component: Autologous bone marrow-derived mesenchymal stem cell ③ Amount: 5X107 cells, 1-time or 2-time injection ④ Storage Method: Stored in airtight container at 20~25℃\n\nInjection Method: Directly inject into liver through hepatic artery",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "1-time injection group: Livercellgram",
+                "2-time injection group: Livercellgram"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Autologous bone marrow-derived mesenchymal stem cell"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Histopathological evaluation (Fibrosis Grade - Laennec Scoring System)",
+            "PrimaryOutcomeTimeFrame": "6 month after cell therapy"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Histopathological evaluation score (Ratio of 1-time injection group to 2-time injection group comparison)",
+            "SecondaryOutcomeTimeFrame": "6month"
+          },
+          {
+            "SecondaryOutcomeMeasure": "MELD Score",
+            "SecondaryOutcomeTimeFrame": "6month"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Child-Pugh grade",
+            "SecondaryOutcomeTimeFrame": "6month"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Liver Function Test (ALT, AST, ALP, Albumin, billirubin, r-GT)",
+            "SecondaryOutcomeTimeFrame": "6month"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Visual Inspection (Liver volume, Fibroscan)",
+            "SecondaryOutcomeTimeFrame": "6month"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nHistologically or clinically diagnosed as alcoholic liver cirrhosis\nClassified as Child-Pugh grade B or C\nAge of 20 ~ 70 years\nCapable of conducting hepatic artery catheterization which inserts a catheter up to the hepatic artery\nIn the case of fertile women, confirmed as negative in pregnancy test when screening, and agreed to avoid pregnancy during the trial period\nWomen capable of pregnancy must satisfy the following conditions; Has been through menopause for at least 1 year, has no possibility of pregnancy via surgery/procedure, or effectively used acceptable contraceptive methods (Intrauterine device-loop, mirena, diaphragm or condom/femidom, oral contraceptive pills, non-oral contraceptives)\nPatient who can agree to participate in the clinical trial by oneself or by one's legal representative\nAble to conduct the clinical trial according to the protocol\n\nExclusion Criteria:\n\nDiagnosed with malignant hematologic disease (acute myeloid leukemia, acute lymphoblastic leukemia, non-Hodgkin lymphoma, Hodgkin lymphoma, multiple myeloma) and not cured from it\nPatient with severe aplastic anemia\nHas a medical record of solid cancer(within 5 years prior to screening), or diagnosed with solid cancer and currently receiving cancer treatment\nIncapable of conducting hepatic artery\nPatient who consumed alcohol and took hepatotoxic drugs within 6 months prior to registration\nHas continuously taken a large amount of steroids or antibiotics for 1 month prior to registration\nJudged by a researcher to have had major orthopedic surgery, organ biopsy, or similar external injury within 3 months prior to registration\nEvidence of active autoimmune liver disease\nPatient with extrahepatic biliary stricture\nPatient who conducted transjugular intrahepatic portosystemic shunt\nHas active thrombosis of the portal or hepatic veins\nPatient with sepsis\nPatient who suffers heart, renal, respiratory failure\nPatient who is positive in pathogenic test (HIV, Syphilis,HBV,HCV)\nPregnant or lactating woman\nPatient who cannot adapt to the protocol and follow-up observation\nPatient who has experienced drug abuse for the past 1 year\nParticipated in the other clinical trials within 30 days before registration\nPatient with any disease or condition which the investigator feel would interfere with trial or the safety of the subject",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Soon Koo Baik, M.D.,Ph.D",
+            "OverallOfficialAffiliation": "Yonsei University, Wonju Christian Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Si-Hyun Bae, M.D.,Ph.D",
+            "OverallOfficialAffiliation": "The Catholic University of Korea",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Pharmicell Co., Ltd.",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008103",
+            "ConditionMeshTerm": "Liver Cirrhosis"
+          },
+          {
+            "ConditionMeshId": "D000008104",
+            "ConditionMeshTerm": "Liver Cirrhosis, Alcoholic"
+          },
+          {
+            "ConditionMeshId": "D000005355",
+            "ConditionMeshTerm": "Fibrosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000008107",
+            "ConditionAncestorTerm": "Liver Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000008108",
+            "ConditionAncestorTerm": "Liver Diseases, Alcoholic"
+          },
+          {
+            "ConditionAncestorId": "D000020751",
+            "ConditionAncestorTerm": "Alcohol-Induced Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000019973",
+            "ConditionAncestorTerm": "Alcohol-Related Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000019966",
+            "ConditionAncestorTerm": "Substance-Related Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000064419",
+            "ConditionAncestorTerm": "Chemically-Induced Disorders"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10255",
+            "ConditionBrowseLeafName": "Liver Cirrhosis",
+            "ConditionBrowseLeafAsFound": "Liver Cirrhosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10256",
+            "ConditionBrowseLeafName": "Liver Cirrhosis, Alcoholic",
+            "ConditionBrowseLeafAsFound": "Alcoholic Liver Cirrhosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7637",
+            "ConditionBrowseLeafName": "Fibrosis",
+            "ConditionBrowseLeafAsFound": "Cirrhosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10259",
+            "ConditionBrowseLeafName": "Liver Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10260",
+            "ConditionBrowseLeafName": "Liver Diseases, Alcoholic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21661",
+            "ConditionBrowseLeafName": "Alcohol-Induced Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20995",
+            "ConditionBrowseLeafName": "Alcohol-Related Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20990",
+            "ConditionBrowseLeafName": "Substance-Related Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M29455",
+            "ConditionBrowseLeafName": "Chemically-Induced Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC25",
+            "ConditionBrowseBranchName": "Substance Related Disorders"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXM",
+            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M10262",
+            "InterventionBrowseLeafName": "Liver Extracts",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M4525",
+            "InterventionBrowseLeafName": "Caffeine",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "T370",
+            "InterventionBrowseLeafName": "Caffeine",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Hemat",
+            "InterventionBrowseBranchName": "Hematinics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "CNSSti",
+            "InterventionBrowseBranchName": "Central Nervous System Stimulants"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Ot",
+            "InterventionBrowseBranchName": "Other Dietary Supplements"
+          }
+        ]
+      }
+    }
+  }
+}

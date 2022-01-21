@@ -1,0 +1,468 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05181540",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "AB-205-301"
+      },
+      "Organization": {
+        "OrgFullName": "Angiocrine Bioscience",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "A Phase 3 Study of the Effects of AB-205 in Patients With Lymphoma Undergoing Autologous Hematopoietic Cell Transplantation",
+      "OfficialTitle": "A Phase 3 Double-Blind, Randomized, Placebo Controlled Study to Evaluate the Efficacy and Safety of AB-205 Plus Standard of Care Versus Placebo Plus Standard of Care in Adults With Lymphoma Undergoing High-Dose Therapy and Autologous Hematopoietic Cell Transplantation (HDT-AHCT) (E-CELERATE)",
+      "Acronym": "E-CELERATE"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 2022",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 16, 2021",
+      "StudyFirstSubmitQCDate": "December 16, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 6, 2022",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 16, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 6, 2022",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Angiocrine Bioscience",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "High-dose chemotherapy followed by blood stem cell transplantation is administered to lymphoma patients with an intention to cure. However, high-dose chemotherapy simultaneously causes damage to healthy tissues that frequently result in severe complications that lead to hospitalization and can be life threatening. These severe complications involve the blood, immune, gastro-intestinal systems, and other vital organs.\n\nThe purpose of this study is to determine if experimental therapy AB-205 (study drug) can prevent or reduce the occurrence and duration of the severe chemotherapy related complications when compared to placebo in patients with lymphoma undergoing treatment with high-dose chemotherapy and blood stem cell transplantation. All patients, whether treated with AB-205 or placebo, will receive standard preventive and supportive care therapies."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Hodgkin Lymphoma",
+          "Non Hodgkin Lymphoma"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Lymphoma",
+          "Cellular Therapy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "148",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "AB-205 plus standard-of-care preventive and supportive therapies.",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: AB-205"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo plus standard-of-care preventive and supportive therapies.",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "AB-205",
+            "InterventionDescription": "Allogeneic genetically engineered human umbilical vein endothelial cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "AB-205 plus standard-of-care preventive and supportive therapies."
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "E-CEL cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Placebo",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo plus standard-of-care preventive and supportive therapies."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "The absence of oral/GI severe regimen related toxicities (oral/GI SRRT).",
+            "PrimaryOutcomeTimeFrame": "21 Days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Duration of oral/GI SRRT",
+            "SecondaryOutcomeTimeFrame": "21 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Symptom burden per MD Anderson Symptom Inventory (MDASI)",
+            "SecondaryOutcomeTimeFrame": "21 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of febrile neutropenia",
+            "SecondaryOutcomeTimeFrame": "21 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to neutrophil engraftment",
+            "SecondaryOutcomeTimeFrame": "21 Days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge ≥ 40 years old\nDiagnosis of Hodgkin lymphoma (HL) or non-Hodgkin lymphoma (NHL)\n\nCandidates for HDT-AHCT with one of the following conditioning regimens:\n\nBEAM (carmustine, etoposide, cytarabine, melphalan)\nBeEAM (bendamustine, etoposide, cytarabine, melphalan)\nAchieved CR or PR prior to planned HDT\nECOG ≤ 2\nWeight ≤ 1.6 × ideal body weight (IBW) per Devine formula\nSerum bilirubin ≤ 2 mg/dL, unless benign congenital hyperbilirubinemia\nAST, ALT, and alkaline phosphatase < 3 × ULN\nCreatinine clearance ≥ 30 ml/min (calculated by Cockcroft Gault)\nLVEF ≥ 45% by MUGA or resting echocardiogram\nPulmonary function (FEV1 and corrected DLCO) ≥ 45% predicted\nWillingness and ability to comply with scheduled visits, drug administration plan, protocol-specified laboratory tests, other study procedures, and study restrictions\nSexually active females of childbearing potential must have a negative urine pregnancy test and agree to use two accepted methods of contraception during the study and for 3 months after their last dose of study drug.\nMale subjects who are sexually active and who are partners of females of childbearing potential: agreement to use two forms of contraception as in criterion 12 above and to not donate sperm during the treatment period and for at least 3 months after the last dose of study drug\nAbility to provide written informed consent.\n\nExclusion Criteria:\n\nHistory of prior HCT\nPrimary CNS lymphoma\nLymphoma with CNS involvement at time of relapse prior to planned HDT-AHCT\nActive malignancy other than the one for which the subject is undergoing HDT AHCT. Subjects with cervical carcinoma in situ or localized basal or squamous cell carcinoma treated with definitive surgery are eligible\nSubjects with a serious concomitant medical condition that could interfere with the conduct of the clinical trial, such as unstable angina, renal failure requiring hemodialysis, or active infection requiring IV antibiotics\nSubjects with a known history of HIV\nSubjects who have known hypersensitivity reactions to bovine (cow) proteins or documented allergy to DMSO\nSubject has other conditions that in the opinion of the investigator would require reduced dose (intensity) of BEAM or BeEAM regimens",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "40 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Gayle Bresnahan",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "877-784-8496",
+            "CentralContactEMail": "gbresnahan@angiocrinebio.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Edward Kavalerchik, MD",
+            "OverallOfficialAffiliation": "Angiocrine Bioscience, Inc.",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "City of Hope Comprehensive Cancer Center",
+            "LocationCity": "Duarte",
+            "LocationState": "California",
+            "LocationZip": "91010",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Elizabeth Budde, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "UC San Diego Moores Cancer Center",
+            "LocationCity": "San Diego",
+            "LocationState": "California",
+            "LocationZip": "92093",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Carolyn Mulroney, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "The University of California San Francisco",
+            "LocationCity": "San Francisco",
+            "LocationState": "California",
+            "LocationZip": "94117",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Bita Fakhri, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "University of Michigan",
+            "LocationCity": "Ann Arbor",
+            "LocationState": "Michigan",
+            "LocationZip": "48109",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Attaphol Pawarode, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hackensack University Medical Center",
+            "LocationCity": "Hackensack",
+            "LocationState": "New Jersey",
+            "LocationZip": "07601",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Scott Rowley, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Memorial Sloan Kettering Cancer Center",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10065",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Michael Scordo, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Vanderbilt-Ingram Cancer Center",
+            "LocationCity": "Nashville",
+            "LocationState": "Tennessee",
+            "LocationZip": "37203",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Bhagirathbhai Dholaria, MBBS",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "MD Anderson",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77030",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Muzaffar Qazilbash, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008223",
+            "ConditionMeshTerm": "Lymphoma"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008232",
+            "ConditionAncestorTerm": "Lymphoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008206",
+            "ConditionAncestorTerm": "Lymphatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007160",
+            "ConditionAncestorTerm": "Immunoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10372",
+            "ConditionBrowseLeafName": "Lymphoma",
+            "ConditionBrowseLeafAsFound": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8903",
+            "ConditionBrowseLeafName": "Hodgkin Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10377",
+            "ConditionBrowseLeafName": "Lymphoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10355",
+            "ConditionBrowseLeafName": "Lymphatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9358",
+            "ConditionBrowseLeafName": "Immunoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3543",
+            "ConditionBrowseLeafName": "Lymphosarcoma",
+            "ConditionBrowseLeafAsFound": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T2817",
+            "ConditionBrowseLeafName": "Hodgkin Lymphoma",
+            "ConditionBrowseLeafAsFound": "Hodgkin Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

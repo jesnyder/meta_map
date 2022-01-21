@@ -1,0 +1,502 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03706482",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "KIBB01"
+      },
+      "Organization": {
+        "OrgFullName": "Karolinska Institutet",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Boost Brittle Bones Before Birth",
+      "OfficialTitle": "An Exploratory, Open Label, Multiple Dose, Multicentre Phase I/II Trial Evaluating Safety and Efficacy of Postnatal or Prenatal and Postnatal Intravenous Administration of Allogeneic Expanded Fetal Mesenchymal Stem Cells for the Treatment of Severe Osteogenesis Imperfecta Compared With a Combination of Historical and Untreated Prospective Controls",
+      "Acronym": "BOOSTB4"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 12, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 12, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 12, 2033",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 5, 2018",
+      "StudyFirstSubmitQCDate": "October 10, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 16, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 6, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 14, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Cecilia Götherström",
+        "ResponsiblePartyInvestigatorTitle": "Sponsor's representative",
+        "ResponsiblePartyInvestigatorAffiliation": "Karolinska Institutet"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Karolinska Institutet",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Karolinska University Hospital",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Great Ormond Street Hospital for Children NHS Foundation Trust",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "University College, London",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Universitätsklinikum Köln",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "UMC Utrecht",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Leiden University Medical Center",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Lund University",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "An exploratory, open label, multiple dose, multicentre phase I/II trial evaluating safety and efficacy of postnatal or prenatal and postnatal administration of allogeneic expanded fetal mesenchymal stem cells for the treatment of severe Osteogenesis Imperfecta compared with a combination of historical and untreated prospective controls."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Osteogenesis Imperfecta"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Postnatal",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "15 participants.\n\nAdministration of four postnatal doses of BOOST cells with the first dose as soon as possible after birth and the three additional doses at +4, +8 and +12 months after the first dose. Each dose is 3x10^6 MSC/kg body weight.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: BOOST cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Prenatal",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "15 participants.\n\nAdministration of one prenatal dose of BOOST cells followed by three postnatal doses at +4, +8 and +12 months after the first dose. Each dose is 3x10^6 MSC/kg body weight.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: BOOST cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Prospective control (untreated)",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "1-30 participants.\n\nSubjects eligible for the trial but not willing/able to participate in any of the experimental arms."
+          },
+          {
+            "ArmGroupLabel": "Historic control",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "30-150 participants.\n\nMatched historical controls. Subjects will be identified in historical registries and data will be retrieved from national OI registers and the OI Variant Database (Dalgleish 2018)."
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "BOOST cells",
+            "InterventionDescription": "Four doses of expanded human 1st trimester fetal liver-derived mesenchymal stem cells.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Postnatal",
+                "Prenatal"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety and tolerability measured as seriousness, severity and frequency of treatment related adverse events.",
+            "PrimaryOutcomeDescription": "The primary endpoint is safety and tolerability measured as seriousness, severity and frequency of treatment related adverse events (AEs), with specific focus on the following:\n\nVital signs in conjunction with the MSC administration\nTransfusion reactions (administration toxicity, allergy, embolism)\n\nImmune reaction with or without symptoms of inflammation, potentially resulting in rejection of the cells or development of donor-specific antibodies:\n\nAllergy or Hypersensitivity responses to antibiotics or antimycotics\nDevelopment of Fetal Bovine Serum-specific antibodies\nHypersensitivity responses to Human Serum Albumin\nHypersensitivity to impurities in the IMP\nPrenatal complications (miscarriage/intrauterine fetal death, premature birth, infection in utero or persistent [>1 min] fetal bradycardia) in the prenatal group\nAdverse effects of feto-maternal transmission of donor cells in the prenatal group\nTumourigenicity\nMortality/morbidity",
+            "PrimaryOutcomeTimeFrame": "From baseline to the long-time follow-up (10 years after the first dose)."
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Number of fractures.",
+            "SecondaryOutcomeDescription": "Number of fractures.",
+            "SecondaryOutcomeTimeFrame": "From baseline to the primary follow-up (6 and 12 months after the last dose) and therafter assessed annually to the end of the long-time follow-up (10 years after the first dose)."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time (days) to first fracture after each stem cell administration.",
+            "SecondaryOutcomeDescription": "Time (days) to first fracture after each stem cell administration.",
+            "SecondaryOutcomeTimeFrame": "From each dose of stem cells to the time point of the first fracture. Assessed up to 10 years after the first stem cell dose."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Numbers of fractures at birth.",
+            "SecondaryOutcomeDescription": "Numbers of fractures at birth.",
+            "SecondaryOutcomeTimeFrame": "Evaluated at birth."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in bone-marrow density (g/cm2).",
+            "SecondaryOutcomeDescription": "Change in bone-marrow density (g/cm2).",
+            "SecondaryOutcomeTimeFrame": "From baseline to the primary follow-up (6 and 12 months after the last dose) and thereafter assessed annually to the end of the long-time follow-up (10 years after the first dose)."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Growth (cm).",
+            "SecondaryOutcomeDescription": "Growth (cm) as assessed by clinician.",
+            "SecondaryOutcomeTimeFrame": "From baseline to the primary follow-up (6 and 12 months after the last dose) and thereafter assessed annually to the end of the long-time follow-up (10 years after the first dose)."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Growth (kg).",
+            "SecondaryOutcomeDescription": "Growth (kg) as assessed by clinician.",
+            "SecondaryOutcomeTimeFrame": "From baseline to the primary follow-up (6 and 12 months after the last dose) and thereafter assessed annually to the end of the long-time follow-up (10 years after the first dose)."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in clinical status of OI.",
+            "SecondaryOutcomeDescription": "Change in clinical status of OI based on parameters defined under efficacy assessments described in protocol, as assessed by OI clinician.",
+            "SecondaryOutcomeTimeFrame": "From baseline to the primary follow-up (6 and 12 months after the last dose) and thereafter assessed annually to the end of the long-time follow-up (10 years after the first dose)."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Assessment of biochemical bone turnover by analysis of the markers P-Calcium, P-Phosphate, P-Albumin, S-ALP, fP-PTH, S-25-OH Vitamin D, Bone specific S-ALP, S-CTx, S-Osteocalcin and U-DPD/Krea and U-NTx/Krea in blood and urine samples.",
+            "SecondaryOutcomeDescription": "Assessment of biochemical bone turnover.",
+            "SecondaryOutcomeTimeFrame": "From baseline to the primary follow-up (6 and 12 months after the last dose) and thereafter assessed annually to the end of the long-time follow-up (10 years after the first dose)."
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Impact on the subjects Quality of Life: Infant Toddler Quality of Life Questionnaire™ (ITQOL)",
+            "OtherOutcomeDescription": "Quality of life assessed using the Infant Toddler Quality of Life Questionnaire™ (ITQOL).",
+            "OtherOutcomeTimeFrame": "From baseline to the primary follow-up (6 and 12 months after the last dose) and thereafter assessed annually to the end of the long-time follow-up (10 years after the first dose)."
+          },
+          {
+            "OtherOutcomeMeasure": "Incidence of donor cells engrafted into patient tissue samples assessed by histology.",
+            "OtherOutcomeDescription": "Donor cell engraftment.",
+            "OtherOutcomeTimeFrame": "From baseline to the primary follow-up (6 and 12 months after the last dose) and thereafter assessed annually to the end of the long-time follow-up (10 years after the first dose)."
+          },
+          {
+            "OtherOutcomeMeasure": "Analysis of an array of cytokines and micro vesicles to evaluate paracrine effects.",
+            "OtherOutcomeDescription": "Paracrine effects will be analysed from plasma isolated from peripheral blood.",
+            "OtherOutcomeTimeFrame": "From baseline to the primary follow-up (6 and 12 months after the last dose) and thereafter assessed annually to the end of the long-time follow-up (10 years after the first dose)."
+          },
+          {
+            "OtherOutcomeMeasure": "Assess the potential of non-invasive methods of prenatal diagnosis for OI by genetic analysis of parent DNA.",
+            "OtherOutcomeDescription": "Non-invasive prenatal diagnosis will be studied during the trial.",
+            "OtherOutcomeTimeFrame": "From baseline to birth for prenatal group."
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria Postnatal Group:\n\nParent's/legal guardian's signed informed-consent form\nClinical diagnosis of OI type III or IV AND\nMolecular diagnosis of OI (Glycine substitution in the collagen triple-helix encoding region of either the COL1A1 or COL1A2 gene)\nAge less than 18 months (calculated from gestational week 40+0, i.e. the corrected age)\nParent/legal guardian over 18 years of age\n\nInclusion Criteria Prenatal Group:\n\nWoman has signed the informed-consent form\nOnly women where termination of the pregnancy is no longer possible or where the women are committed to continue the pregnancy may be included in the trial\nSuspicion of OI type III or IV in the fetus on ultrasound findings AND\nMolecular diagnosis of OI in the fetus (Glycine substitution in the collagen triple-helix encoding region of either the COL1A1 or COL1A2 gene)\nGestation age between 16+0 and 35+6 weeks+days\nPregnant woman over 18 years of age\n\nInclusion Criteria Historical Control Group:\n\nParent's/legal guardian's signed informed-consent form\nClinical and molecular diagnosis of OI (Glycine substitution in the collagen triple-helix encoding region of either the COL1A1 or COL1A2 gene)\nData on fractures and growth is available\nParent/legal guardian over 18 years of age\n\nInclusion Criteria Prospective Untreated Control Group:\n\nPostnatal inclusion: The inclusion criteria for the postnatal group apply.\nPrenatal inclusion: The inclusion criteria for the prenatal group apply, except inclusion criteria 2.\n\nExclusion Criteria Postnatal Group:\n\nExistence of other known disorder that might interfere with the treatment, such as, but not limited to organ dysfunction (for example liver or renal failure or bronchopulmonary dysplasia), congenital heart defect, hypoxic encephalopathy l-lll, severe neurological problems, immune deficiencies, muscle diseases, severe malformations or syndromes diagnosed by clinical examination.\nAny contraindication for invasive procedures such as a moderate/severe bleeding tendency\nKnown risk factors for clotting, such as, but not limited to previous blood clot, family history of clots, clotting disorder (inherited or acquired), heart failure, inflammatory disorders (for example lupus, rheumatoid arthritis, inflammatory bowel disease)\nPositive Donor Specific Antibody-test\nKnown allergy/hypersensitivity to Fungizone and/or Gensumycin\nAbnormal karyotype or other confirmed genetic syndromes\nOncologic disease (previous or current malignancy)\nInability to comply with the trial protocol and follow-up schedule\nInability to understand the information and to provide informed consent\n\nExclusion Criteria Prenatal Group:\n\nMultiple pregnancy\nCo-existence of other disorder that might interfere with the treatment, as judged by the Investigator or the patient's obstetrician\nAbnormal fetal karyotype or other confirmed genetic syndrome\nAny contraindication for invasive procedures such as a bleeding tendency or contagious infections, such as, but not limited to HIV, Syphilis, Hepatitis B, Hepatitis C or other known infectious diseases that can harm the fetus\nKnown risk factors for clotting, such as, but not limited to previous blood clot, family history of clots, clotting disorder (inherited or acquired), heart failure, inflammatory disorders (for example lupus, rheumatoid arthritis, inflammatory bowel disease)\nPositive Donor Specific Antibody-test\nKnown allergy/hypersensitivity to Fungizone and/or Gensumycin\nOncologic disease in woman or fetus (previous or current malignancy)\nUnwilling to or cannot undergo delivery by elective Caesarean section\nInability to comply with the trial protocol and follow-up schedule\nInability to understand the information and to provide informed consent\n\nExclusion Criteria Historical Control Group:\n\nExistence of other disorder that might interfere with the trial\nAbnormal karyotype\n\nExclusion Criteria Prospective Untreated Control Group:\n\nPostnatal inclusion: The exclusion criteria, except exclusion criterium 2, 3, 4 and 5 for the postnatal group apply.\nPrenatal inclusion: The exclusion criteria, except exclusion criterium 1, 4, 5, 6 and 7 for the prenatal group apply.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MaximumAge": "18 Months",
+      "StdAgeList": {
+        "StdAge": [
+          "Child"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Cecilia Götherström, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+46 70 471 23 00",
+            "CentralContactEMail": "Cecilia.Gotherstrom@ki.se"
+          },
+          {
+            "CentralContactName": "Lilian Walther Jallow, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+46 70 415 16 07",
+            "CentralContactEMail": "lilian.walther.jallow@ki.se"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Eva Åström, MD PhD",
+            "OverallOfficialAffiliation": "Karolinska University Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Karolinska University Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Stockholm",
+            "LocationZip": "171 76",
+            "LocationCountry": "Sweden",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Cecilia Götherström, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+46 70 471 2300",
+                  "LocationContactEMail": "cecilia.gotherstrom@ki.se"
+                },
+                {
+                  "LocationContactName": "Lilian Walther-Jallow, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "lilian.walther.jallow@ki.se"
+                },
+                {
+                  "LocationContactName": "Eva Åström, MD PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Mikael Sundin, MD PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Magnus Westgren, MD PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010013",
+            "ConditionMeshTerm": "Osteogenesis Imperfecta"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010009",
+            "ConditionAncestorTerm": "Osteochondrodysplasias"
+          },
+          {
+            "ConditionAncestorId": "D000001848",
+            "ConditionAncestorTerm": "Bone Diseases, Developmental"
+          },
+          {
+            "ConditionAncestorId": "D000001847",
+            "ConditionAncestorTerm": "Bone Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000030342",
+            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+          },
+          {
+            "ConditionAncestorId": "D000003095",
+            "ConditionAncestorTerm": "Collagen Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003240",
+            "ConditionAncestorTerm": "Connective Tissue Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12088",
+            "ConditionBrowseLeafName": "Osteogenesis Imperfecta",
+            "ConditionBrowseLeafAsFound": "Osteogenesis Imperfecta",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M12084",
+            "ConditionBrowseLeafName": "Osteochondrodysplasias",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11195",
+            "ConditionBrowseLeafName": "Mucopolysaccharidosis IV",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4278",
+            "ConditionBrowseLeafName": "Bone Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4279",
+            "ConditionBrowseLeafName": "Bone Diseases, Developmental",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22839",
+            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14197",
+            "ConditionBrowseLeafName": "Rheumatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5475",
+            "ConditionBrowseLeafName": "Collagen Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5616",
+            "ConditionBrowseLeafName": "Connective Tissue Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4306",
+            "ConditionBrowseLeafName": "Osteogenesis Imperfecta",
+            "ConditionBrowseLeafAsFound": "Osteogenesis Imperfecta",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T4309",
+            "ConditionBrowseLeafName": "Osteogenesis Imperfecta Type III",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3909",
+            "ConditionBrowseLeafName": "Mucopolysaccharidosis Type IV",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M10262",
+            "InterventionBrowseLeafName": "Liver Extracts",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Hemat",
+            "InterventionBrowseBranchName": "Hematinics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

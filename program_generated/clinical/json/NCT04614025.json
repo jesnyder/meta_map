@@ -1,0 +1,267 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04614025",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "PLX-COV-03"
+      },
+      "Organization": {
+        "OrgFullName": "Pluristem Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Open-label Multicenter Study to Evaluate the Efficacy of PLX-PAD for the Treatment of COVID-19",
+      "OfficialTitle": "A Randomized, Controlled, Multicenter, Parallel-Group Phase IIa Study to Evaluate the Efficacy and Safety of Intramuscular Injections of PLX-PAD for the Treatment of Severe COVID-19"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 19, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 4, 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 2, 2020",
+      "StudyFirstSubmitQCDate": "November 2, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 3, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 8, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 10, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Pluristem Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This clinical trial will examine if a new treatment of Mesenchymal-like Adherent stromal Cells (called PLX-PAD) can help patients intubated and mechanically ventilated due to COVID-19 to recover more quickly with less complications."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID",
+          "ARDS"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "23",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "PLX-PAD Treatment",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "PLX-PAD 300 million cells (20 million/mL) administered via 15 IM injections (1 mL each).\n\nSingle administration in addition to best standard medical care.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: PLX-PAD"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control Group",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "Best standard medical care"
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "PLX-PAD",
+            "InterventionDescription": "PLX-PAD - allogeneic ex-vivo expanded placental mesenchymal-like adherent stromal cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "PLX-PAD Treatment"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of ventilator-free days",
+            "PrimaryOutcomeTimeFrame": "28 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "All-cause mortality",
+            "SecondaryOutcomeTimeFrame": "28 and 60 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of mechanical ventilation",
+            "SecondaryOutcomeTimeFrame": "28 and 60 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Key Inclusion Criteria:\n\nWilling and able to provide written informed consent, or with a legal representative who can provide informed consent.\nMale or non-pregnant female adult 18-85 years of age at time of enrollment.\nLaboratory-confirmed SARS-CoV-2 infection as determined by PCR, in any specimen up to 21 days prior to randomization.\nMeets definition of ARDS according to Berlin criteria.\n\nKey Exclusion Criteria:\n\nBody weight under 55 kg (121 lbs)\nSerum creatinine level of over 1.5 mg/dL at time of randomization.\nTotal Bilirubin ≥2 mg/dL at time of randomization.\nKnown allergy to any of the following: dimethyl sulfoxide (DMSO), human serum albumin, bovine serum albumin.\nStroke or acute myocardial infarction/unstable angina within 3 months prior to randomization.\nChronic Obstructive Pulmonary disease GOLD stage above II.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "85 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Charite Campus Virchow",
+            "LocationCity": "Berlin",
+            "LocationZip": "10117",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Campus Benjamin Franklin - CBF Charité - Universitätsmedizin",
+            "LocationCity": "Berlin",
+            "LocationZip": "12203",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "University of hospital Bonn",
+            "LocationCity": "Bonn",
+            "LocationZip": "53127",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Hospital Cologne-Merheim",
+            "LocationCity": "Köln",
+            "LocationZip": "51109",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Emek Medical Center",
+            "LocationCity": "Afula",
+            "LocationZip": "1834111",
+            "LocationCountry": "Israel"
+          },
+          {
+            "LocationFacility": "Bnai Zion Medical Center",
+            "LocationCity": "Haifa",
+            "LocationZip": "31048",
+            "LocationCountry": "Israel"
+          },
+          {
+            "LocationFacility": "Rambam Health Care Campus",
+            "LocationCity": "Haifa",
+            "LocationZip": "3109601",
+            "LocationCountry": "Israel"
+          },
+          {
+            "LocationFacility": "Galilee Medical Center",
+            "LocationCity": "Nahariya",
+            "LocationZip": "22100",
+            "LocationCountry": "Israel"
+          },
+          {
+            "LocationFacility": "Baruch Padeh Medical Center, Poriya",
+            "LocationCity": "Tiberias",
+            "LocationZip": "15208",
+            "LocationCountry": "Israel"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Related Info",
+            "SeeAlsoLinkURL": "http://www.pluristem.com"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

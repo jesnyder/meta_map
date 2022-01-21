@@ -1,0 +1,243 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02412462",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "AB-16B5-101"
+      },
+      "Organization": {
+        "OrgFullName": "Alethia Biotherapeutics",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Phase I Dose Escalation Study of AB-16B5 in Subjects With an Advanced Solid Malignancy",
+      "OfficialTitle": "A Phase I Dose-Escalation Study to Evaluate the Safety, Tolerability and Pharmacokinetics of AB-16B5 in Subjects With an Advanced Solid Malignancy"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2016",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 2015"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2017",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2017",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "March 30, 2015",
+      "StudyFirstSubmitQCDate": "April 6, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 9, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "June 27, 2017",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 28, 2017",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Alethia Biotherapeutics",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {},
+    "DescriptionModule": {
+      "BriefSummary": "This is a Phase 1 clinical study to investigate the safety, pharmacokinetics and pharmacodynamics of AB-16B5 in patients with an advanced solid malignancy. AB-16B5 is a humanized monoclonal antibody that inhibits the activity of the secreted form of clusterin (sCLU), a potent inducer of the epithelial-to-mesenchymal transition (EMT). Eligible subjects will have a disease that has been refractory to prior therapy and is unlikely to benefit from known therapies."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Solid Tumor",
+          "Metastatic Cancer"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Phase I",
+          "Clusterin",
+          "Epithelial-to-Mesenchymal Transition (EMT)",
+          "Circulating Tumor Cells (CTC)",
+          "EMT and Stem Cell Biomarkers",
+          "Pharmacokinetics"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "15",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "AB-16B5",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Single-arm study of AB-16B5 given as a 60-minute intravenous weekly infusion. One cycle of treatment will consist of 21 days. The dose levels that will be assessed are 1.5, 3.0, 6.0, 9.0 and 12 mg/kg.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: AB-16B5"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "AB-16B5",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "AB-16B5"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of participants with an adverse event as a measure of safety and tolerability",
+            "PrimaryOutcomeTimeFrame": "Up to treatment discontinuation + 30 days with an estimated treatment duration of 6 to 24 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Determination of plasma concentrations of AB-16B5",
+            "SecondaryOutcomeTimeFrame": "Several time-points during Cycle 1 and Cycle 2 for a total of 6 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Objective tumor responses in subjects with measurable disease according to RECIST",
+            "SecondaryOutcomeTimeFrame": "Up to treatment discontinuation + 30 days with an estimated treatment duration of 6 to 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Monitoring of epithelial-to-mesenchymal (EMT) and stem cells biomarkers in peripheral blood circulating tumor cells and paired tumor biopsies",
+            "SecondaryOutcomeTimeFrame": "Up to treatment discontinuation + 30 days with an estimated treatment duration of 6 to 24 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSubjects with a histologically or cytologically confirmed advanced solid malignancy that has been refractory to prior therapy and is unlikely to benefit from known therapies.\nSubjects may have measurable or non-measurable but evaluable disease.\nSubjects must have an Eastern Cooperative Oncology Group (ECOG) performance status of ≤ 2 and an estimated life expectancy of at least 12 weeks.\nSubjects must be ≥ 18 years old.\nMale, or female subjects who are post-menopausal (amenorrheic for at least 12 months), or surgically or biologically sterile. Females of childbearing potential with a negative serum pregnancy test prior to entering the study and using adequate forms of contraception for the duration of the study, including 30 days after the last treatment. Males should avoid fathering children during the course of the study, and adequate methods of contraception should be used by both male and female subjects. Subjects and their partners with reproductive potential must use an effective contraceptive method while the subject is on the study treatment and for 30 days after the last treatment.\n\nSubjects must have adequate organ and immune function as indicated by the following laboratory values:\n\nANC ≥ 1.5 X 109/L\nPlatelets > 100 X 109/L\nHemoglobin ≥ 90 g/L\nSerum creatinine ≤ 132 µmol/L\nTotal Bilirubin ≤ 1.5 X ULN\n\nAST (SGOT) and ALT (SGPT) ≤ 3 X ULN* or;\n\n5 X ULN* (if hepatic metastases present)\n\nULN: Institution's upper limit of normal\nSubjects enrolled in the standard dose escalation portion of the study must have a tumor lesion amenable for biopsy with no contraindications for biopsy.\nSubjects must understand and be able and willing and likely to fully comply with the study procedures, including scheduled follow-up, and restrictions.\nSubjects must have given written personally signed and dated informed consent to participate in the study, in accordance with the International Conference on Harmonisation (ICH) Good Clinical Practice (GCP) Guidelines, before completing any study related procedures.\n\nExclusion Criteria:\n\nSubjects with medical, social, or psychosocial factors that, in the opinion of the Investigator, could impact safety or compliance with study procedures.\nPrior cancer therapy including surgery, radiotherapy, chemotherapy, hormonal and biological therapies within 3 weeks prior to study treatment.\nUncontrolled brain metastases.\nUncontrolled infection.\nClinically significant ECG abnormalities.\nKnown hypersensitivity of Grade > 2 to previous monoclonal antibody therapy.\nHistory of alcohol or other substance abuse within the last year.\nUse of another investigational agent in a clinical trial within the last 4 weeks prior to study treatment.\nFemale subjects who are pregnant or lactating, including females with a positive pregnancy test at screening must be excluded.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Jewish General Hospital",
+            "LocationCity": "Montreal",
+            "LocationState": "Quebec",
+            "LocationZip": "H3T 1E2",
+            "LocationCountry": "Canada"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009362",
+            "ConditionMeshTerm": "Neoplasm Metastasis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009385",
+            "ConditionAncestorTerm": "Neoplastic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11459",
+            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+            "ConditionBrowseLeafAsFound": "Metastatic Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11457",
+            "ConditionBrowseLeafName": "Neoplastic Cells, Circulating",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11482",
+            "ConditionBrowseLeafName": "Neoplastic Processes",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

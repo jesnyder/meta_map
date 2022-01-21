@@ -1,0 +1,581 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT00705120",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "TOIT"
+      },
+      "Organization": {
+        "OrgFullName": "St. Jude Children's Research Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Treatment of Severe Osteogenesis Imperfecta by Allogeneic Bone Marrow Transplantation",
+      "OfficialTitle": "Treatment of Severe (Types II and III) Osteogenesis Imperfecta by Allogeneic Bone Marrow Transplantation"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2008",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 1995"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 2000",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 2007",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "June 23, 2008",
+      "StudyFirstSubmitQCDate": "June 23, 2008",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 25, 2008",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "June 23, 2008",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 25, 2008",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyOldNameTitle": "Edwin M Horwitz, MD, PhD",
+        "ResponsiblePartyOldOrganization": "St. Jude Children's Research Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "St. Jude Children's Research Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This protocol was a prospective, Phase I study of allogeneic bone marrow transplantation (BMT) as the primary therapy for Osteogenesis Imperfecta Types II and III. Compatible sibling donors and unrelated donors were stratified and analyzed according to the type of donor. All patients with a sibling donor will received a chemotherapy conditioning regimen; a non-T cell depleted allogeneic marrow, and GVHD prophylaxis. All patients with an unrelated donor will receive a chemoradiotherapy conditioning regimen, a T-cell depleted allogeneic marrow, and GVHD prophylaxis. The primary objective of this study was to investigate the safety and toxicity of these BMT procedures in this particular population.",
+      "DetailedDescription": "The secondary objective of the protocol assessed the engraftment of donor mesenchymal cells and their ability to increase the synthesis of normal type I procollagen relative to the synthesis of mutated type I procollagen and to assess whether BMT improves the bone structure and the clinical condition of these patients with OI."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Osteogenesis Imperfecta"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Osteogenesis Imperfecta",
+          "Bone Marrow Cell Transplantation",
+          "Mesenchymal Stem Cells",
+          "Stem Cell Transplantation, Mesenchymal"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "9",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "1",
+            "ArmGroupType": "Other",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Bone Marrow Cell Transplantation",
+                "Drug: Cyclophosphamide",
+                "Drug: Cyclosporin",
+                "Procedure: Mesenchymal Stem Cell Transplantation",
+                "Drug: Busulfan"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "2",
+            "ArmGroupType": "Other",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Bone Marrow Cell Transplantation",
+                "Radiation: Irradiation, Total Body",
+                "Drug: Cyclophosphamide",
+                "Procedure: Mesenchymal Stem Cell Transplantation",
+                "Drug: Busulfan"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Bone Marrow Cell Transplantation",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "1",
+                "2"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Radiation",
+            "InterventionName": "Irradiation, Total Body",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "2"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cyclophosphamide",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "1",
+                "2"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cyclosporin",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "1"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Mesenchymal Stem Cell Transplantation",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "1",
+                "2"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Busulfan",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "1",
+                "2"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "To investigate the safety and toxicity of allogeneic bone marrow transplantation (BMT) in children with severe Osteogenesis Imperfecta (OI)",
+            "PrimaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatient has diagnosis of OI Type II or III. Because there are no specific, defined clinical criteria consistently used to make this diagnosis, we provide the following clinical guidelines to assist in diagnosis. Any appropriate combinations of the following clinical findings will be acceptable.\n\nDiagnosis of OI Type II\n\nAntenatal ultrasonography (if performed for other indications) by established obstetric impressions including short femurs, a small thoracic cage and poorly mineralized bones. Analysis of collagen synthesized from cultured cells obtained from chorionic villus sampling (CVS) may establish the diagnosis; however, no CVS will be performed specifically for enrollment into this study.\nClinical examination including prematurity, low birth weight, characteristic facies (blue sclera, beaked nose, extremely soft calvarium), \"frog-leg\" hips, small thoracic cavity, fractures at birth or shortly thereafter, loose skin or lax joints that cannot be readily explained by other factors.\nRadiographic evaluation demonstrating various aspects of the characteristic picture of telescoped femur, bowed tibias, beaded ribs, flattened vertebral bodies and virtual absence of calvarial mineralization.\n\nDiagnosis of OI Type III\n\nAntenatal ultrasonography (performed for other indications) by established obstetric impressions for this more moderate form of OI. Chorionic villus sampling will be accepted as above.\nClinical examination including short stature, bony deformities, many fractures at birth or shortly thereafter. Blue scleras and dental abnormalities are also common.\nRadiographic abnormalities including thin, osteopenic bones of the limbs with evidence of fractures, growth plate abnormalities, and an undermineralized calvarium.\nDiagnosis of other diseases with possibly similar presentation to OI (e.g. hypophosphatasia and rickets) should be excluded by obtaining a serum calcium, phosphate and alkaline phosphatase. These parameters can be expected to be within normal limits (alkaline phosphatase may be somewhat elevated) in patients with OI.\nAge less than 3 years at time of transplant.\nParents or legal guardians must sign an informed consent indicating that they are aware this is a research study and have been told of its possible benefits and toxic side effects, including treatment related mortality. Patients or their guardians will be given a copy of the consent form.\nIdentification of a suitable bone marrow donor.\nAny donor must be of sufficient size so that adequate bone marrow may be harvested.\nHLA mismatched sibling or unrelated donor. DNA typing will be per- formed on unrelated donors. Donors must be a 6/6 match or a 5/6 match (with serologic mismatch at a single Class I allele or mismatch at a single DR1 allele).\n\nExclusion Criteria:\n\nPatients who are ventilatory dependent due to primary lung parenchymal disease prior to BMT.\nPatients with evidence of basilar invagination/compression.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "3 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Kimberly Kasow, DO",
+            "OverallOfficialAffiliation": "St. Jude Children's Research Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "St. Jude Children's Research Hospital",
+            "LocationCity": "Memphis",
+            "LocationState": "Tennessee",
+            "LocationZip": "38105",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Related Info",
+            "SeeAlsoLinkURL": "http://www.stjude.org"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010013",
+            "ConditionMeshTerm": "Osteogenesis Imperfecta"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010009",
+            "ConditionAncestorTerm": "Osteochondrodysplasias"
+          },
+          {
+            "ConditionAncestorId": "D000001848",
+            "ConditionAncestorTerm": "Bone Diseases, Developmental"
+          },
+          {
+            "ConditionAncestorId": "D000001847",
+            "ConditionAncestorTerm": "Bone Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000030342",
+            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+          },
+          {
+            "ConditionAncestorId": "D000003095",
+            "ConditionAncestorTerm": "Collagen Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003240",
+            "ConditionAncestorTerm": "Connective Tissue Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12088",
+            "ConditionBrowseLeafName": "Osteogenesis Imperfecta",
+            "ConditionBrowseLeafAsFound": "Osteogenesis Imperfecta",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M12084",
+            "ConditionBrowseLeafName": "Osteochondrodysplasias",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11195",
+            "ConditionBrowseLeafName": "Mucopolysaccharidosis IV",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4278",
+            "ConditionBrowseLeafName": "Bone Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4279",
+            "ConditionBrowseLeafName": "Bone Diseases, Developmental",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22839",
+            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14197",
+            "ConditionBrowseLeafName": "Rheumatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5475",
+            "ConditionBrowseLeafName": "Collagen Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5616",
+            "ConditionBrowseLeafName": "Connective Tissue Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4306",
+            "ConditionBrowseLeafName": "Osteogenesis Imperfecta",
+            "ConditionBrowseLeafAsFound": "Osteogenesis Imperfecta",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T4309",
+            "ConditionBrowseLeafName": "Osteogenesis Imperfecta Type III",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3909",
+            "ConditionBrowseLeafName": "Mucopolysaccharidosis Type IV",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000016572",
+            "InterventionMeshTerm": "Cyclosporine"
+          },
+          {
+            "InterventionMeshId": "D000003520",
+            "InterventionMeshTerm": "Cyclophosphamide"
+          },
+          {
+            "InterventionMeshId": "D000002066",
+            "InterventionMeshTerm": "Busulfan"
+          },
+          {
+            "InterventionMeshId": "D000003524",
+            "InterventionMeshTerm": "Cyclosporins"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000007166",
+            "InterventionAncestorTerm": "Immunosuppressive Agents"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018906",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+          },
+          {
+            "InterventionAncestorId": "D000000477",
+            "InterventionAncestorTerm": "Alkylating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000019653",
+            "InterventionAncestorTerm": "Myeloablative Agonists"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000000935",
+            "InterventionAncestorTerm": "Antifungal Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          },
+          {
+            "InterventionAncestorId": "D000003879",
+            "InterventionAncestorTerm": "Dermatologic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000065095",
+            "InterventionAncestorTerm": "Calcineurin Inhibitors"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M5879",
+            "InterventionBrowseLeafName": "Cyclophosphamide",
+            "InterventionBrowseLeafAsFound": "Months",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M18113",
+            "InterventionBrowseLeafName": "Cyclosporine",
+            "InterventionBrowseLeafAsFound": "2 weeks",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M5882",
+            "InterventionBrowseLeafName": "Cyclosporins",
+            "InterventionBrowseLeafAsFound": "2 weeks",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M4488",
+            "InterventionBrowseLeafName": "Busulfan",
+            "InterventionBrowseLeafAsFound": "Airway",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M9364",
+            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20095",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2972",
+            "InterventionBrowseLeafName": "Alkylating Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M5404",
+            "InterventionBrowseLeafName": "Clotrimazole",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M10948",
+            "InterventionBrowseLeafName": "Miconazole",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3406",
+            "InterventionBrowseLeafName": "Antifungal Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M6226",
+            "InterventionBrowseLeafName": "Dermatologic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M29605",
+            "InterventionBrowseLeafName": "Calcineurin Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Derm",
+            "InterventionBrowseBranchName": "Dermatologic Agents"
+          }
+        ]
+      }
+    }
+  }
+}

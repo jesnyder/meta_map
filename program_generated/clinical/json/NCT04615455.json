@@ -1,0 +1,536 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04615455",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2020-002804-38"
+      },
+      "Organization": {
+        "OrgFullName": "Rigshospitalet, Denmark",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cell Therapy of Dry Eye Disease in Patients With Sjögren's Syndrome",
+      "OfficialTitle": "A Randomized Clinical Trial Evaluating Allogeneic Adipose-derived MesenchymAl Stem Cells as a Treatment of Dry Eye Disease in Patients With Sjögren's Syndrome",
+      "Acronym": "AMASS"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 3, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 1, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 1, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 3, 2020",
+      "StudyFirstSubmitQCDate": "November 3, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 4, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 14, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 16, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Michael Møller-Hansen",
+        "ResponsiblePartyInvestigatorTitle": "Principal investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Rigshospitalet, Denmark"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Rigshospitalet, Denmark",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "AMASS is a double-blinded randomized clinical trial with the purpose of investigating whether injection of allogeneic adipose-derived mesenchymal stem cells (ASCs) into the lacrimal gland (LG) results in increased ocular comfort compared to placebo.",
+      "DetailedDescription": "AMASS is a double-blinded randomized clinical trial which will be performed at the Department of Ophthalmology, University Hospital of Copenhagen, Denmark. 40 patients with severe aqueous deficient dry eye disease (ADDE) due to Sjögren's Syndrome (SS) will be recruited from the Dept. of Ophthalmology, Rigshospitalet, and allocated in ratio 1:1 to either injection of allogeneic adipose-derived mesenchymal stem cells (ASCs) or placebo (vehicle, Crystore CS10) into the lacrimal gland (LG) in one eye. We hypothesize that injection of allogeneic ASCs into the LG increases tear production and reduce inflammation resulting in increased ocular comfort compared to placebo."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Keratoconjunctivitis Sicca, in Sjogren's Syndrome"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Adipose tissue-derived mesenchymal stem cells (ASCs)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "One transconjunctival injection of allogeneic ASCs into the LG in one eye.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: ASCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo (vehicle, Cryostor CS10)",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "One transconjunctival injection of Cryostor CS10 into the LG in one eye.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Cryostor CS10"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "ASCs",
+            "InterventionDescription": "ASCs expanded from healthy donors. The ASC product contains 22 million ASCs/ml.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Adipose tissue-derived mesenchymal stem cells (ASCs)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Allogeneic adipose-derived mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cryostor CS10",
+            "InterventionDescription": "CryoStor® CS10 freeze medium",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo (vehicle, Cryostor CS10)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Ocular Surface Disease Index (OSDI)",
+            "PrimaryOutcomeDescription": "The OSDI is a valid and reliable instrument for measuring dry eye disease severity",
+            "PrimaryOutcomeTimeFrame": "4 months after treatment"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Non-invasive keratography tear break-up time (NIKBUT)",
+            "SecondaryOutcomeDescription": "As measured with the Keratograph 5M (Oculus™)",
+            "SecondaryOutcomeTimeFrame": "4 months after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Tear meniscus height (TMH)",
+            "SecondaryOutcomeDescription": "As measured with the Keratograph 5M (Oculus™)",
+            "SecondaryOutcomeTimeFrame": "4 months after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Schirmer's I test",
+            "SecondaryOutcomeDescription": "Change in tear production as evaluated with the Schirmer's I test",
+            "SecondaryOutcomeTimeFrame": "4 months after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Tear osmolarity",
+            "SecondaryOutcomeDescription": "Change in tear osmolarity measured with TearLab™",
+            "SecondaryOutcomeTimeFrame": "4 months after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Oxford scale",
+            "SecondaryOutcomeDescription": "Change in staining of the ocular surface (grade 0-5 with 0 being absent corneal staining and 5 being severe corneal staining)",
+            "SecondaryOutcomeTimeFrame": "4 months after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "HLA anti-bodies",
+            "SecondaryOutcomeDescription": "Development of anti-human leucocyte antigen (HLA) anti-bodies evaluated with Luminex HLA anti-body screening\n\nDevelopment of anti-HLA anti-bodies evaluated with Luminex HLA anti-body screening\n\nDevelopment of donor-specific HLA-antibodies",
+            "SecondaryOutcomeTimeFrame": "12 months after treatment"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnosis of Sjögren's syndrome according to the 2016 American College of Rheumatology/European League Against Rheumatism classification criteria for primary Sjögren's syndrome\nOSDI-score ≥ 33\nSchirmer's test 1-5 mm/5 minutes\nNIKBUT < 10 sec\n\nExclusion Criteria:\n\nLG volume on MRI < 0,2 cm3 in the study eye\nPrevious treatment with ASCs or other stem cell products in the LG(s)\nReduced immune response (e.g. HIV positive)\nPregnancy or planned pregnancy within the next 2 years\nBreastfeeding\nTopical treatment with eye drops other than to treat dry eye disease (DED)\nAny other disease/condition judged by the investigator to be grounds for exclusion, such as infection in or around the eye",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Michael Møller-Hansen, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+4593901230",
+            "CentralContactEMail": "moller.hansen@gmail.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Steffen Heegaard, MD, DMSc",
+            "OverallOfficialAffiliation": "Rigshospitalet, Denmark",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Rigshospitalet",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Copenhagen",
+            "LocationState": "DK",
+            "LocationZip": "2200",
+            "LocationCountry": "Denmark",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Michael Møller-Hansen, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "28738771",
+                  "LocationContactEMail": "moller.hansen@gmail.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012859",
+            "ConditionMeshTerm": "Sjogren's Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000015352",
+            "ConditionMeshTerm": "Dry Eye Syndromes"
+          },
+          {
+            "ConditionMeshId": "D000005128",
+            "ConditionMeshTerm": "Eye Diseases"
+          },
+          {
+            "ConditionMeshId": "D000007638",
+            "ConditionMeshTerm": "Keratoconjunctivitis Sicca"
+          },
+          {
+            "ConditionMeshId": "D000007637",
+            "ConditionMeshTerm": "Keratoconjunctivitis"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000007766",
+            "ConditionAncestorTerm": "Lacrimal Apparatus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001172",
+            "ConditionAncestorTerm": "Arthritis, Rheumatoid"
+          },
+          {
+            "ConditionAncestorId": "D000001168",
+            "ConditionAncestorTerm": "Arthritis"
+          },
+          {
+            "ConditionAncestorId": "D000007592",
+            "ConditionAncestorTerm": "Joint Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012216",
+            "ConditionAncestorTerm": "Rheumatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014987",
+            "ConditionAncestorTerm": "Xerostomia"
+          },
+          {
+            "ConditionAncestorId": "D000012466",
+            "ConditionAncestorTerm": "Salivary Gland Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009059",
+            "ConditionAncestorTerm": "Mouth Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009057",
+            "ConditionAncestorTerm": "Stomatognathic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003240",
+            "ConditionAncestorTerm": "Connective Tissue Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003231",
+            "ConditionAncestorTerm": "Conjunctivitis"
+          },
+          {
+            "ConditionAncestorId": "D000003229",
+            "ConditionAncestorTerm": "Conjunctival Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007634",
+            "ConditionAncestorTerm": "Keratitis"
+          },
+          {
+            "ConditionAncestorId": "D000003316",
+            "ConditionAncestorTerm": "Corneal Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17192",
+            "ConditionBrowseLeafName": "Dry Eye Syndromes",
+            "ConditionBrowseLeafAsFound": "Keratoconjunctivitis Sicca",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9816",
+            "ConditionBrowseLeafName": "Keratoconjunctivitis Sicca",
+            "ConditionBrowseLeafAsFound": "Keratoconjunctivitis Sicca",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7423",
+            "ConditionBrowseLeafName": "Eye Diseases",
+            "ConditionBrowseLeafAsFound": "Eye Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14816",
+            "ConditionBrowseLeafName": "Sjogren's Syndrome",
+            "ConditionBrowseLeafAsFound": "Sjogren's Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9815",
+            "ConditionBrowseLeafName": "Keratoconjunctivitis",
+            "ConditionBrowseLeafAsFound": "Keratoconjunctivitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9938",
+            "ConditionBrowseLeafName": "Lacrimal Apparatus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3628",
+            "ConditionBrowseLeafName": "Arthritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3632",
+            "ConditionBrowseLeafName": "Arthritis, Rheumatoid",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9773",
+            "ConditionBrowseLeafName": "Joint Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14197",
+            "ConditionBrowseLeafName": "Rheumatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5475",
+            "ConditionBrowseLeafName": "Collagen Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16876",
+            "ConditionBrowseLeafName": "Xerostomia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14437",
+            "ConditionBrowseLeafName": "Salivary Gland Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11171",
+            "ConditionBrowseLeafName": "Mouth Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11169",
+            "ConditionBrowseLeafName": "Stomatognathic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5616",
+            "ConditionBrowseLeafName": "Connective Tissue Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5607",
+            "ConditionBrowseLeafName": "Conjunctivitis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5605",
+            "ConditionBrowseLeafName": "Conjunctival Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9812",
+            "ConditionBrowseLeafName": "Keratitis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5691",
+            "ConditionBrowseLeafName": "Corneal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC11",
+            "ConditionBrowseBranchName": "Eye Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC07",
+            "ConditionBrowseBranchName": "Mouth and Tooth Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

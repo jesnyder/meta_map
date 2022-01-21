@@ -1,0 +1,485 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03351868",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "GIMI-IRB-17021"
+      },
+      "Organization": {
+        "OrgFullName": "Shenzhen Geno-Immune Medical Institute",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "FANCA Gene Transfer for Fanconi Anemia Using a High-safety, High-efficiency, Self-inactivating Lentiviral Vector",
+      "OfficialTitle": "Gene Transfer for Fanconi Anemia Using a Self-inactivating Lentiviral Vector"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2019",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 1, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 31, 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 20, 2017",
+      "StudyFirstSubmitQCDate": "November 20, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 24, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 18, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 19, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Lung-Ji Chang",
+        "ResponsiblePartyInvestigatorTitle": "President",
+        "ResponsiblePartyInvestigatorAffiliation": "Shenzhen Geno-Immune Medical Institute"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Shenzhen Geno-Immune Medical Institute",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a Phase I/II clinical trial of gene therapy for treating Fanconi anemia using a self-inactivating lentiviral vector to functionally correct the defective gene. The objectives are to evaluate the safety and efficacy of the gene transfer clinical protocol.",
+      "DetailedDescription": "Fanconi anemia is a rare, inherited disease that is caused by a gene defect and that primarily affects an individual's bone marrow, resulting in decreased production of blood cells. The major problem for most patients is aplastic anemia, the blood counts for red blood cells, white blood cells, and platelets are low. In addition, some patients have physical defects usually involving the skeleton and kidneys. Fanconi anemia is typically diagnosed in childhood, and there is a high fatality rate. Hematopoietic stem cell transplantation (HSCT) is a common treatment for Fanconi anemia. However, there are many risks associated with HSCT including rejection of the transplanted cells and graft-versus-host disease.\n\nThe primary objectives are to evaluate the safety of the self-inactivating lentiviral vector, the ex vivo gene transfer clinical protocol and the efficacy of immune reconstitution in patients overcoming immune abnormalities present at the time of treatment, assessment of gene correction efficiency, and finally the long-term correction of Fanconi anemia associated disease symptoms."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Fanconi Anemia"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Fanconi anemia",
+          "Lentiviral vector",
+          "FANCA",
+          "Gene"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "10",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Gene-modified autologous stem cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Autologous hematopoeitic stem cells and mesenchymal stem cells transduced with lentiviral vector carrying the FANCA gene ex vivo",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Genetic: Gene-modified autologous stem cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Genetic",
+            "InterventionName": "Gene-modified autologous stem cells",
+            "InterventionDescription": "Infusion for 5x10^6~1x10^7 per kilogram of body weight of gene-modified cells; or more infusions depending on the circumstances",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Gene-modified autologous stem cells"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety in patients using CTCAE version 4.0 standard to evaluate the level of adverse events",
+            "PrimaryOutcomeDescription": "Physiological parameter (measuring cytokine response, fever, symptoms)",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Treatment responses",
+            "SecondaryOutcomeDescription": "Blood routine indexes will be obtained before and after treatment. Objective response, such as complete response (CR), partial response (PR), stable disease (SD), or progressive disease (PD) will be assessed by the Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 criteria",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of life",
+            "SecondaryOutcomeDescription": "Quality of life will be measured using the Functional Assessment of Cancer Therapy-General (FACT-G) before and after treatment.",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnosis of Fanconi anemia FANCA type based on DNA sequencing and sensitivity test for chromosomal cleavage by mitomycin C or butylene oxide.\nNo cytogenetic abnormalities and the proportion of myelodysplastic abnormalities does not exceed 5% within 3 months prior to stem cell collection.\nAge: ≥ 4 years.\nKarnofsky: ≥ 70%.\nANC ≥ 5×10^8/L; PLT ≥ 2×10^10/L.\nHemoglobin ≥ 8g/dL.\n\nProper renal and hepatic functions (ULN denotes \"upper limit of normal range\") with\n\nserum creatinine ≤ 1.5×ULN;\nserum bilirubin ≤ 3×ULN;\nAST/ALT ≤ 5×ULN.\nPulmonary function is normal; DLCO > 50%.\nWritten, informed consent obtained prior to any study-specific procedures.\n\nExclusion Criteria:\n\nDiagnosis of active malignant disease or myelodysplastic syndrome.\nDiagnosis of myeloid leukemia.\nPregnant or lactating females.\nExistence of an available HLA-identical related donor.\nSubject infected with HBV (HBsAg positive), HIV (HIV antibody positive), HTLV (HTLV antibody positive), Treponema pallidum antibody positive or TB culture positive.\nPatients, in the opinion of investigators, may not be eligible or not able to comply with the study.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "2 Years",
+      "MaximumAge": "20 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Lung-Ji Chang, Ph.D",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "86-13671121909",
+            "CentralContactEMail": "c@szgimi.org"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Lung-Ji Chang, Ph.D",
+            "OverallOfficialAffiliation": "Shenzhen Geno-Immune Medical Institute",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Xiao-Dong Shi, M.D./Ph. D",
+            "OverallOfficialAffiliation": "Capital Institute of Pediatrics affiliated Children's hospital",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Jie Zheng, M.D./Ph. D",
+            "OverallOfficialAffiliation": "Beijing Children's Hospital",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Capital Institute of Pediatrics affiliated Children's hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Beijing",
+            "LocationState": "Beijing",
+            "LocationZip": "100020",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "XiaoDong Shi, M.D./P.H.D",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+86-13911601076",
+                  "LocationContactEMail": "xsusan28@sina.com"
+                },
+                {
+                  "LocationContactName": "Lixiao Shi, M.M.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+86-18810963129",
+                  "LocationContactEMail": "13780524314@163.com"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Beijing Children's Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Beijing",
+            "LocationState": "Beijing",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Jie Zheng, MD/PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+86-13683284467",
+                  "LocationContactEMail": "cutezjie@163.com"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Shenzhen Geno-immune Medical Institute",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Shenzhen",
+            "LocationState": "Guangdong",
+            "LocationZip": "518000",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Lung-Ji Chang, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "86-075586725195",
+                  "LocationContactEMail": "c@szgimi.org"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000005198",
+            "ConditionMeshTerm": "Fanconi Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000000740",
+            "ConditionMeshTerm": "Anemia"
+          },
+          {
+            "ConditionMeshId": "D000005199",
+            "ConditionMeshTerm": "Fanconi Anemia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000006402",
+            "ConditionAncestorTerm": "Hematologic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000029502",
+            "ConditionAncestorTerm": "Anemia, Hypoplastic, Congenital"
+          },
+          {
+            "ConditionAncestorId": "D000000741",
+            "ConditionAncestorTerm": "Anemia, Aplastic"
+          },
+          {
+            "ConditionAncestorId": "D000080984",
+            "ConditionAncestorTerm": "Congenital Bone Marrow Failure Syndromes"
+          },
+          {
+            "ConditionAncestorId": "D000080983",
+            "ConditionAncestorTerm": "Bone Marrow Failure Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001855",
+            "ConditionAncestorTerm": "Bone Marrow Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000030342",
+            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+          },
+          {
+            "ConditionAncestorId": "D000049914",
+            "ConditionAncestorTerm": "DNA Repair-Deficiency Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000015499",
+            "ConditionAncestorTerm": "Renal Tubular Transport, Inborn Errors"
+          },
+          {
+            "ConditionAncestorId": "D000007674",
+            "ConditionAncestorTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M3222",
+            "ConditionBrowseLeafName": "Anemia",
+            "ConditionBrowseLeafAsFound": "Anemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7493",
+            "ConditionBrowseLeafName": "Fanconi Syndrome",
+            "ConditionBrowseLeafAsFound": "Fanconi Anemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7494",
+            "ConditionBrowseLeafName": "Fanconi Anemia",
+            "ConditionBrowseLeafAsFound": "Fanconi Anemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8642",
+            "ConditionBrowseLeafName": "Hematologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22608",
+            "ConditionBrowseLeafName": "Anemia, Hypoplastic, Congenital",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3223",
+            "ConditionBrowseLeafName": "Anemia, Aplastic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2241",
+            "ConditionBrowseLeafName": "Bone Marrow Failure Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12270",
+            "ConditionBrowseLeafName": "Pancytopenia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2242",
+            "ConditionBrowseLeafName": "Congenital Bone Marrow Failure Syndromes",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4286",
+            "ConditionBrowseLeafName": "Bone Marrow Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22839",
+            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25284",
+            "ConditionBrowseLeafName": "DNA Repair-Deficiency Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17303",
+            "ConditionBrowseLeafName": "Renal Tubular Transport, Inborn Errors",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2270",
+            "ConditionBrowseLeafName": "Fanconi Anemia",
+            "ConditionBrowseLeafAsFound": "Fanconi Anemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T1464",
+            "ConditionBrowseLeafName": "Congenital Aplastic Anemia",
+            "ConditionBrowseLeafAsFound": "Fanconi Anemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T2272",
+            "ConditionBrowseLeafName": "Fanconi Syndrome",
+            "ConditionBrowseLeafAsFound": "Fanconi Anemia",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

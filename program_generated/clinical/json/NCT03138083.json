@@ -1,0 +1,359 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03138083",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "OMO1.01.02"
+      },
+      "Organization": {
+        "OrgFullName": "Octimet Oncology N.V.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "OMO-1 in Solid Malignancies",
+      "OfficialTitle": "A Modular, Multi-arm, Multi-part, First Time in Patient Study to Evaluate the Safety and Tolerability of OMO-1, Alone and in Combination With Anti-cancer Treatments, in Patients With Locally Advanced, Unresectable or Metastatic Solid Malignancies"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2020",
+      "OverallStatus": "Terminated",
+      "WhyStopped": "strategic reasons (not due to lack of efficacy or safety issues)",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 8, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "May 25, 2020",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "May 25, 2020",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "April 26, 2017",
+      "StudyFirstSubmitQCDate": "April 30, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 3, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "June 8, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 11, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Octimet Oncology N.V.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a modular, first time in patient, open-label, multicentre study of OMO-1, administered orally, alone and in combination with anti-cancer treatments, in patients with locally advanced, unresectable or metastatic solid malignancies.",
+      "DetailedDescription": "The study will consist of a number of study modules. The initial Module 1 will evaluate OMO-1 as monotherapy to provide dose(s) and schedule(s) for further Modules of combination therapy.\n\nModule 2 will evaluate OMO-1 in combination with small molecule EGFR-TKIs.\n\nStudy modules will consist of a Part A (dose finding) and an optional Part B (cohort expansion). The option to start Part B and add further modules will be the decision of the safety review committee, based on emerging preclinical anti-tumour data and, safety and tolerability information from the study as a whole.\n\nFor all modules, Part A cohorts may be expanded by up to 12 additional patients at doses (at or above the MBAD) that have been confirmed to be tolerated. These patients will have mandatory paired biopsies to assess the tumour for relevant PDc biomarkers, and to explore further the tolerability, safety and PK activity at these doses.\n\nIn all combination modules, the dose of each combination agent investigated will not exceed their current recommended dose. The starting dose of OMO-1 in combination modules will not exceed the one currently tolerated in Module 1 (monotherapy). For cohorts in which OMO-1 is dosed in combination with cytotoxic chemotherapy, dosing will not continue once the cycles of chemotherapy have been completed."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Neoplasms"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Mesenchymal-epithelial transition factor (MET) inhibitor"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignInterventionModelDescription": "A modular, multi-arm, multi-part, first time in patient study",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Module 1 Monotherapy Multiple Ascending Dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Multiple ascending dose cohorts dosing OMO-1 (bid) monotherapy in all comer patients up to a maximally tolerated or maximally feasible dose",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: OMO-1"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Module 1 Monotherapy Paired Biopsy",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Paired biopsy cohort(s) dosing OMO-1 (bid) monotherapy in patients selected for MET dependent tumours at minimally biologically active doses and above",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: OMO-1"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Module 1 Monotherapy Expansion Cohort(s)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Expansion cohort(s) dosing OMO-1 (bid) monotherapy in patients selected for MET dependent tumours at recommended phase 2 dose (RP2D)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: OMO-1"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Module 2 Combination with EGFR-TKI Multiple Ascending Dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Multiple ascending dose cohorts dosing OMO-1 (bid) in combination with EGFR-TKI in MET amplified patients up to a maximally tolerated or maximally feasible dose",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: OMO-1"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Module 2 Combination with EGFR-TKI Paired Biopsy",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Paired biopsy cohort(s) dosing OMO-1 (bid) in combination with EGFR-TKI in MET amplified patients at minimally biologically active doses and above",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: OMO-1"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Module 2 Combination with EGFR-TKI Expansion Cohort",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Expansion cohort dosing OMO-1 (bid) monotherapy in combination with EGFR-TKI in MET amplified patients at recommended phase 2 (combination) dose (RP2D)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: OMO-1"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "OMO-1",
+            "InterventionDescription": "OMO-1 is a small molecule inhibitor of the enzymatic activity of the MET receptor tyrosine kinase",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Module 1 Monotherapy Expansion Cohort(s)",
+                "Module 1 Monotherapy Multiple Ascending Dose",
+                "Module 1 Monotherapy Paired Biopsy",
+                "Module 2 Combination with EGFR-TKI Expansion Cohort",
+                "Module 2 Combination with EGFR-TKI Multiple Ascending Dose",
+                "Module 2 Combination with EGFR-TKI Paired Biopsy"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "JNJ-38877618"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Incidence of treatment-emergent adverse events including dose-limiting toxicities",
+            "PrimaryOutcomeDescription": "The proportion of patients with treatment-emergent (serious) adverse events including dose-limiting toxicity (DLT)",
+            "PrimaryOutcomeTimeFrame": "Baseline (C1D1) until 28 days after last administration of OMO-1"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of clinically significant abnormal measurements in physical examination, ophthalmological examination, vital signs, electrocardiogram (ECG), pregnancy test, lab tests and ECOG performance status",
+            "PrimaryOutcomeDescription": "Physical examination and ophthalmological examination, vital signs; electrocardiogram (ECG); pregnancy test; haematology; clinical chemistry; urinalysis; plasma/renal makers; tumour markers; ECOG performance status",
+            "PrimaryOutcomeTimeFrame": "Screening until 28 days after last administration of OMO-1"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Objective Response Rate",
+            "SecondaryOutcomeDescription": "Objective response rate (ORR) by RECIST 1.1 - the proportion of patients with a confirmed reduction in tumour burden of a predefined amount (this will include short lived responses).",
+            "SecondaryOutcomeTimeFrame": "Screening until 28 days after last administration of OMO-1"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Percentage change in tumour size",
+            "SecondaryOutcomeDescription": "Percentage change in tumour size will be determined for patients with measurable disease at baseline and is derived at each visit by the percentage change from baseline in the sum of the diameters of target lesions. The best percentage change in tumour size will be the patient's value representing the largest decrease (or smallest increase) from baseline in tumour size.",
+            "SecondaryOutcomeTimeFrame": "Screening until 28 days after last administration of OMO-1"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Maximal OMO-1 plasma concentration Cmax",
+            "SecondaryOutcomeDescription": "Measurement of OMO-1 levels in plasma over time to calculate Cmax",
+            "SecondaryOutcomeTimeFrame": "Baseline (C1D1) and D1 in even cycles (C) until end of treatment (Part A) ; Baseline and C2D1 (Part B)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Area under the OMO-1 plasma concentration curve (AUC)",
+            "SecondaryOutcomeDescription": "Measurement of OMO-1 levels in plasma over time to calculate AUC",
+            "SecondaryOutcomeTimeFrame": "Baseline (C1D1) and D1 in even cycles (C) until end of treatment (Part A) ; Baseline and C2D1 (Part B)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "'Proof of mechanism' and 'proof of principle' pharmacodynamic biomarkers, including markers of tumour cell proliferation and apoptosis.",
+            "SecondaryOutcomeDescription": "Measurement of levels of 'Proof of mechanism' and 'proof of principle' pharmacodynamic biomarkers, including markers of tumour cell proliferation and apoptosis.",
+            "SecondaryOutcomeTimeFrame": "Screening until end of treatment"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAged at least 18 years\nProvision of signed and dated, written informed consent.\nHistological or cytological confirmation of locally advanced, unresectable or metastatic solid malignancy.\nPerformance status: Eastern Co-operative Oncology Group (ECOG) ≤1 and life expectancy ≥3 months.\nAbility to swallow and retain oral medication.\nAdequate organ functions.\n\nFemales of child-bearing potential:\n\nMust use a highly effective method contraceptive measures during the study and for 1 month after the last dose of OMO 1.\nMust not be breast feeding.\nMust have a negative pregnancy test prior to start of dosing.\nSexually active male patients must be willing to use barrier contraception\n\nExclusion Criteria:\n\nPatients receiving other cancer therapy, or other investigational product apart from the combination agent(s) described in the relevant combination modules.\nPatients who have received radiotherapy for the primary tumour within 1 week from the screening visit.\nPatients receiving medications predominantly metabolized by CYP2B6.\nPatients receiving cannabinoid substances.\nPatients receiving St John's Wort.\nPatients receiving medications that are known to have potent aldehyde oxidase (AO) inhibitory activity.\nPatients with prior splenectomy.\nPatients testing positive for human immunodeficiency virus (HIV) infection, hepatitis B based on findings of persistent hepatitis B virus surface antigen (HBsAg) or other serology test, hepatitis C virus (HCV) or Epstein-Barr Virus (EBV) infection.\nPatients with current, or a history of uveitis.\nPatients with any known uncontrolled inter-current illness including ongoing or active infections, symptomatic congestive heart failure, conditions that could adversely be affected by hypertension or tachycardia, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\nPatients with a history or clinical evidence of neoplastic central nervous system (CNS) involvement if not stable for 9 weeks prior to the first dose of study treatment.\nPatients with major and/or planned surgery within 12 weeks of the first dose of study treatment.\nPatients with any known severe allergies (e.g., anaphylaxis) to any active or inactive ingredients in OMO-1.\nPatients with nephrolithiasis.\nPatients with current, or a history of any seizure or seizure disorder. This includes receiving, or having received, seizure threshold-raising medication for the treatment of epilepsy.\n\nIn addition to the main core eligibility criteria, Module specific eligibility criteria include:\n\nModule 1:\n\nPatient recruited into the paired biopsy cohorts of Part A must have:\n\nat least 1 lesion suitable for biopsy.\ntumours that are MET gene amplified and/or mutated.\nhad no prior therapy with a selective MET inhibitor.\n\nPatients recruited into Part B cohorts must have:\n\ntumours that are MET gene amplified and/or mutated.\nat least one lesion, not previously irradiated, that can be accurately measured at baseline.\nhad no prior therapy with a selective MET inhibitor.\nno coinciding malignancy that would impact on survival.\nno metastasis limited to the bone only.\n\nModule 2:\n\nPatients recruited into Part A and Part B cohorts must have:\n\ntumours that are EGFR gene mutant that are currently progressing on treatment with a small molecule EGFR-TKI. Enrolment must be restricted to patients that are resistant to all relevant EGFR TKI therapy according to their tumour mutated status.\nreceived the EGFR-TKI as monotherapy for at least 12 weeks.\ntolerated their current dose of EGFR-TKI for at least 12 weeks.\ntumours that are MET gene amplified.\nhad no prior therapy with a selective MET inhibitor.\nhad no prior EGFR-TKI treatment of >2 lines.\nno past medical history of ILD, drug-induced ILD, radiation pneumonitis which required steroid treatment, or any evidence of clinically active ILD.\nno significant GI disorders with diarrhoea as a major symptom e.g., Crohn's disease, mal-absorption, or CTCAE Grade >1 diarrhoea of any aetiology at the enrolment.\nno contra-indications (as per the relevant medication package insert) for therapy with the EGFR-TKI routinely used by their oncology unit.\n\nIn addition, patients recruited into Module 2 Part B cohorts must have:\n\nat least one lesion, not previously irradiated, that can be accurately measured at baseline as ≥10 mm in the longest diameter (except lymph nodes which must have short axis ≥15 mm) with CT or MRI and which is suitable for accurate repeated assessment.\nno coinciding malignancy that would impact on survival.\nno metastasis limited to the bone only.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Martijn Lolkema, MD, PhD",
+            "OverallOfficialAffiliation": "Erasmus MC, Rotterdam, the Netherlands",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mary Crowley Cancer Research",
+            "LocationCity": "Dallas",
+            "LocationState": "Texas",
+            "LocationZip": "75251",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University Hospital Antwerp",
+            "LocationCity": "Edegem",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "Institut Bergonie",
+            "LocationCity": "Bordeaux",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Hôpital La Timone",
+            "LocationCity": "Marseille",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "lnstitut Gustave Roussy",
+            "LocationCity": "Villejuif",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Erasmus MC",
+            "LocationCity": "Rotterdam",
+            "LocationCountry": "Netherlands"
+          },
+          {
+            "LocationFacility": "UMCU Universitair Medisch Centrum Utrecht",
+            "LocationCity": "Utrecht",
+            "LocationCountry": "Netherlands"
+          },
+          {
+            "LocationFacility": "University College London Hospitals NHS Foundation Trust",
+            "LocationCity": "London",
+            "LocationCountry": "United Kingdom"
+          },
+          {
+            "LocationFacility": "The Christie NHS Foundation Trust",
+            "LocationCity": "Manchester",
+            "LocationCountry": "United Kingdom"
+          },
+          {
+            "LocationFacility": "The Newcastle Upon Tyne Hospitals NHS Foundation Trust",
+            "LocationCity": "Newcastle upon Tyne",
+            "LocationCountry": "United Kingdom"
+          },
+          {
+            "LocationFacility": "University of Oxford, Department of Oncology",
+            "LocationCity": "Oxford",
+            "LocationCountry": "United Kingdom"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009369",
+            "ConditionMeshTerm": "Neoplasms"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "T22",
+            "InterventionBrowseLeafName": "Tyrosine",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "AA",
+            "InterventionBrowseBranchName": "Amino Acids"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

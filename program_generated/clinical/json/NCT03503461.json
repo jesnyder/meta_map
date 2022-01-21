@@ -1,0 +1,282 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03503461",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CHUBX 2018/08"
+      },
+      "Organization": {
+        "OrgFullName": "University Hospital, Bordeaux",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Major Activation Of NCC in Graft Urinary Exosomes",
+      "OfficialTitle": "Evaluation of the Prevalence of an Hyperactivation of NCC Cotransporter Three Months After Kidney Transplantation in Recipients Treated by Calcineurin Inhibitors",
+      "Acronym": "MANGUE"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2018",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 21, 2018",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 31, 2018",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 31, 2018",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "April 11, 2018",
+      "StudyFirstSubmitQCDate": "April 18, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 19, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 12, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 14, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Hospital, Bordeaux",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Institut National de la Santé Et de la Recherche Médicale, France",
+            "CollaboratorClass": "OTHER_GOV"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Hypertension is common disorder after renal transplantation and is associated with mortality. Calcineurin Inhibitor (CNI), by activating NCC cotransporter, may be a major determinant of hypertension, included in a \"Gordon like\" syndrome. However, prevalence of NCC activation by CNI is unknown. Our objective is to determine the prevalence of NCC activation three months after transplantation in patient treated by CNI.",
+      "DetailedDescription": "Hypertension is common disorder after renal transplantation and is associated with mortality. Calcineurin Inhibitor (CNI), by activating NCC cotransporter, may be a major determinant of hypertension, included in a \"Gordon like\" syndrome. Gordon syndrome is a rare genetic disorder where NCC cotransporter is overactivated and cause hypertension, metabolic acidosis and tendency to hyperkaliemia. Few studies evaluated NCC expression by exosomes techniques in human kidney transplant, and mostly compared NCC expression in specific subpopulation (for example with or without hypertension). Thus, prevalence of NCC activation by CNI is unknown. To determine it, we will include prospective patients in Bordeaux and la Réunion who undergo urine and blood tests three months after transplantation, and a control group with no transplantation and no use of CNI. First, we will compare kidney recipients and control and use immunoblot to quantify NCC expression in urinary exosomes to identify the population of transplanted with a high activation. Then, we will analyze the relationship between NCC activation and clinicobiological features of Gordon's syndrome."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Kidney Transplantation"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Calcineurin inhibitors",
+          "hypertension",
+          "kidney transplant",
+          "acidosis",
+          "Gordon syndrome"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Control"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "67",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupDescription": "Control group is a population of subjects admitted to day hospitalization for renal function tests or in conventional hospitalization, but without kidney transplant. Exosome analysis will be perform in urine sample.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: exosomes analysis"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Kidney transplants group",
+            "ArmGroupDescription": "Kidney transplants group is a kidney transplant subjects population 3 months ago. Exosome analysis will be perform in urine sample collected at 3 months.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: exosomes analysis"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Other",
+            "InterventionName": "exosomes analysis",
+            "InterventionDescription": "Perform exosomes analysis in urine sample obtain from usual urine testing in both kidney transplant and control group.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group",
+                "Kidney transplants group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "NCC cotransporter expression",
+            "PrimaryOutcomeDescription": "Dosage of NCC cotransporter expression in urinary exosomes samples in both groups.",
+            "PrimaryOutcomeTimeFrame": "Inclusion day"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Phosphorylated NCC cotransporter expression",
+            "SecondaryOutcomeDescription": "Dosage of phosphorylated NCC cotransporter expression in urinary exosomes samples in both groups.",
+            "SecondaryOutcomeTimeFrame": "Inclusion day"
+          },
+          {
+            "SecondaryOutcomeMeasure": "pendrine expression in kidney transplant group",
+            "SecondaryOutcomeDescription": "Dosage of pendrine expression in urinary exosomes samples in kidney transplant group.",
+            "SecondaryOutcomeTimeFrame": "Inclusion day"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "For kidney transplant group :\n\ninclusion criteria:\n\nAge≥18years\nRecipients three months after kidney transplantation using calcineurin inhibitors\nGlomerular Filtration Rate>15ml.mn.m2 CKD-EPI\nRenal ultrasound underwent before inclusion\nNo opposition at participating at the research\n\nexclusion criteria:\n\nUse of diuretic thiazides or aldosterone receptor antagonists in the month preceding inclusion\nGraft artery stenosis with indication of interventional radiology or surgery\n\nFor control group :\n\nInclusion criteria\n\nNo previous transplantation\nAge≥18years\nNo hypertension\nNo metabolic disorders (dysnatremia, dyskaliemia, acidosis or alkalosis)\nNo opposition at participating at the research\n\nExclusion criteria:\n\nUse of diuretic thiazides or aldosterone receptor antagonists in the month preceding inclusion",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Kidney transplant group is a population of transplant subjects treated with anticalcineurin since 3 months.\n\nControl group is a population of subjects admitted to day hospitalization for renal function tests or in conventional hospitalization, but without kidney transplant.",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Hopital Pellegrin - Service Néphrologie, transplantation, dialyse et aphérèse",
+            "LocationCity": "Bordeaux",
+            "LocationZip": "33000",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Hopital Felix Guyon - Service d'Explorations Fonctionnelles Rénales",
+            "LocationCity": "Saint-Denis",
+            "LocationZip": "97400",
+            "LocationCountry": "Réunion"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9176",
+            "ConditionBrowseLeafName": "Hypertension",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2651",
+            "ConditionBrowseLeafName": "Acidosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2595",
+            "ConditionBrowseLeafName": "Gordon Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M29605",
+            "InterventionBrowseLeafName": "Calcineurin Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

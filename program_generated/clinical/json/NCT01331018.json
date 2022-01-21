@@ -1,0 +1,951 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01331018",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2097.00"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "NCI-2011-00202",
+            "SecondaryIdType": "Registry Identifier",
+            "SecondaryIdDomain": "CTRP (Clinical Trial Reporting Program)"
+          },
+          {
+            "SecondaryId": "RG9212015",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "Fred Hutch/University of Washington Cancer Consortium"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Fred Hutchinson Cancer Research Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Gene Therapy for Fanconi Anemia",
+      "OfficialTitle": "Gene Transfer for Patients With Fanconi Anemia Complementation Group A (FANCA)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 22, 2012",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 17, 2032",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 17, 2032",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "March 16, 2011",
+      "StudyFirstSubmitQCDate": "April 6, 2011",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 7, 2011",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "December 13, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 15, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Fred Hutchinson Cancer Research Center",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "National Heart, Lung, and Blood Institute (NHLBI)",
+            "CollaboratorClass": "NIH"
+          },
+          {
+            "CollaboratorName": "Rocket Pharma Limited",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This clinical trial will access the toxicity and efficacy of infusion of gene modified cells for patients with Fanconi anemia (FA). Infusion of autologous patient blood stem cells that have been corrected in the laboratory by introduction of the normal gene may improve blood counts in patients with FA.",
+      "DetailedDescription": "PRIMARY OBJECTIVE:\n\nI. To determine the safety of lentiviral gene transfer for patients with Fanconi anemia complementation group A.\n\nSECONDARY OBJECTIVES:\n\nI. To determine the feasibility and efficacy of filgrastim (G-CSF) and plerixafor mobilization in FA patients.\n\nII. To determine the feasibility and efficacy of lineage depletion of bone marrow or mobilized apheresis product.\n\nIII. To determine the transduction efficiency for human FA patient hematopoietic progenitor cells transduced with a clinical grade lentiviral vector encoding the gene for Fanconi anemia complementation group A.\n\nIV. To determine if gene transfer using the clinical grade vector will result in phenotypic correction of gene modified cells by in vitro assays.\n\nV. To determine if infusion of FANCA gene-modified cells will result in engraftment and persistence of gene-modified cells and improvement in blood counts in FA patients.\n\nOUTLINE:\n\nSTEM CELL MOBILIZATION FOR CELL COLLECTION: Patients receive filgrastim subcutaneously (SC) twice daily (BID) for up to 6 days (on days 1-6 of mobilization). Patients receive plerixafor SC once daily (QD) on days 4-6 of mobilization. Peripheral blood stem cell (PBSC) count will be checked daily starting on day 4 of mobilization. Patients who have a PBSC count of >= 5 CD34+ cells/mcL will undergo up to 2 apheresis collections on consecutive days.\n\nBONE MARROW HARVEST FOR CELL COLLECTION: Patients with inadequate PBSC counts undergo bone marrow harvest for collection of stem/progenitor cells.\n\nREINFUSION: Patients receive methylprednisolone intravenously (IV) or prednisone orally (PO) on days -1 to 7 followed by a rapid taper over approximately 1 week and undergo reinfusion of genetically modified hematopoietic stem/progenitor cells on day 0.\n\nAfter completion of study treatment, patients are followed up periodically for 15 years."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Fanconi Anemia"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "3",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Treatment (hematopoietic stem progenitor cells)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "STEM CELL MOBILIZATION FOR CELL COLLECTION: Patients receive filgrastim SC BID for up to 6 days (on days 1-6 of mobilization). Patients receive plerixafor SC QD on days 4-6 of mobilization. PBSC count will be checked daily starting on day 4 of mobilization. Patients who have a PBSC count of >= 5 CD34+ cells/mcL will undergo up to 2 apheresis collections on consecutive days.\n\nBONE MARROW HARVEST FOR CELL COLLECTION: Patients with inadequate PBSC counts undergo bone marrow harvest for collection of stem/progenitor cells.\n\nREINFUSION: Patients receive methylprednisolone IV or prednisone PO on days -1 to 7 followed by a rapid taper over approximately 1 week and undergo reinfusion of genetically modified hematopoietic stem/progenitor cells on day 0.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Bone Marrow Aspiration",
+                "Biological: Filgrastim",
+                "Biological: Genetically Engineered Hematopoietic Stem Progenitor Cells",
+                "Other: Laboratory Biomarker Analysis",
+                "Procedure: Leukapheresis",
+                "Drug: Methylprednisolone",
+                "Drug: Plerixafor",
+                "Drug: Prednisone"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Bone Marrow Aspiration",
+            "InterventionDescription": "Undergo bone marrow harvest",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (hematopoietic stem progenitor cells)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Filgrastim",
+            "InterventionDescription": "Given SC",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (hematopoietic stem progenitor cells)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "FILGRASTIM, LICENSE HOLDER UNSPECIFIED",
+                "G-CSF",
+                "Neupogen",
+                "r-metHuG-CSF",
+                "Recombinant Methionyl Human Granulocyte Colony Stimulating Factor",
+                "rG-CSF",
+                "Tevagrastim"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Genetically Engineered Hematopoietic Stem Progenitor Cells",
+            "InterventionDescription": "Undergo infusion of genetically modified hematopoietic progenitor cell therapy",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (hematopoietic stem progenitor cells)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Genetically Engineered HSPCs"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Laboratory Biomarker Analysis",
+            "InterventionDescription": "Correlative studies",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (hematopoietic stem progenitor cells)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Leukapheresis",
+            "InterventionDescription": "Undergo leukapheresis",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (hematopoietic stem progenitor cells)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Leukocytopheresis",
+                "Therapeutic Leukopheresis"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Methylprednisolone",
+            "InterventionDescription": "Given IV",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (hematopoietic stem progenitor cells)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Adlone",
+                "Caberdelta M",
+                "DepMedalone",
+                "Depo Moderin",
+                "Depo-Nisolone",
+                "Duralone",
+                "Emmetipi",
+                "Esametone",
+                "Firmacort",
+                "Medlone 21",
+                "Medrate",
+                "Medrol",
+                "Medrol Veriderm",
+                "Medrone",
+                "Mega-Star",
+                "Meprolone",
+                "Methylprednisolonum",
+                "Metilbetasone Solubile",
+                "Metrocort",
+                "Metypresol",
+                "Metysolon",
+                "Predni-M-Tablinen",
+                "Prednilen",
+                "Radilem",
+                "Sieropresol",
+                "Solpredone",
+                "Summicort",
+                "Urbason",
+                "Veriderm Medrol",
+                "Wyacort"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Plerixafor",
+            "InterventionDescription": "Given SC",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (hematopoietic stem progenitor cells)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "AMD 3100",
+                "JM-3100",
+                "Mozobil",
+                "SDZ SID 791"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Prednisone",
+            "InterventionDescription": "Given PO",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (hematopoietic stem progenitor cells)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                ".delta.1-Cortisone",
+                "1, 2-Dehydrocortisone",
+                "Adasone",
+                "Cortancyl",
+                "Dacortin",
+                "DeCortin",
+                "Decortisyl",
+                "Decorton",
+                "Delta 1-Cortisone",
+                "Delta-Dome",
+                "Deltacortene",
+                "Deltacortisone",
+                "Deltadehydrocortisone",
+                "Deltasone",
+                "Deltison",
+                "Deltra",
+                "Econosone",
+                "Lisacort",
+                "Meprosona-F",
+                "Metacortandracin",
+                "Meticorten",
+                "Ofisolona",
+                "Orasone",
+                "Panafcort",
+                "Panasol-S",
+                "Paracort",
+                "PRED",
+                "Predicor",
+                "Predicorten",
+                "Prednicen-M",
+                "Prednicort",
+                "Prednidib",
+                "Prednilonga",
+                "Predniment",
+                "Prednisonum",
+                "Prednitone",
+                "Promifen",
+                "Servisone",
+                "SK-Prednisone"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Toxicity of gene transfer",
+            "PrimaryOutcomeDescription": "Adverse events will be graded by Common Terminology Criteria for Adverse Events (CTCAE), version 4.",
+            "PrimaryOutcomeTimeFrame": "Up to 15 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Hematological and non-hematological organ toxicity",
+            "PrimaryOutcomeDescription": "Adverse events will be graded by CTCAE, version 4.",
+            "PrimaryOutcomeTimeFrame": "Up to 15 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Development of insertional mutagenesis or hematologic malignancy",
+            "PrimaryOutcomeDescription": "Adverse events will be graded by CTCAE, version 4.",
+            "PrimaryOutcomeTimeFrame": "Up to 15 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Development of replication competent lentivirus",
+            "PrimaryOutcomeDescription": "Adverse events will be graded by CTCAE, version 4.",
+            "PrimaryOutcomeTimeFrame": "Up to 15 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Efficacy of G-CSF and plerixafor mobilization in Fanconi anemia (FA) patients",
+            "SecondaryOutcomeTimeFrame": "Up to 6 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Efficacy of lineage depletion of bone marrow or mobilized cell product",
+            "SecondaryOutcomeTimeFrame": "Up to 15 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Transduction efficiency",
+            "SecondaryOutcomeDescription": "After completion of lentiviral transduction, the percent gene modified cells will be determined by molecular studies.",
+            "SecondaryOutcomeTimeFrame": "Day 0"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Detectable levels of transduced cells in blood and marrow",
+            "SecondaryOutcomeDescription": "Blood and bone marrow samples will be assayed by real-time quantitative polymerase chain reaction.",
+            "SecondaryOutcomeTimeFrame": "Up to 1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Improved blood counts",
+            "SecondaryOutcomeDescription": "Complete blood counts will be monitored, initially weekly, then monthly during the first year, then quarterly during the 2nd year after infusion.",
+            "SecondaryOutcomeTimeFrame": "Up to 15 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Demonstrable functional expression by growth of recipient cells in mitomycin C",
+            "SecondaryOutcomeDescription": "Blood and bone marrow cells will be assayed for viability of cultured cells and hematopoietic colonies in the presence of the chemotherapy drug and deoxyribonucleic acid crosslinking agent, mitomycin C.",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nFA demonstrated by a positive test for increased sensitivity to chromosomal breakage with mitomycin C or diepoxybutane performed by a Clinical Laboratory Improvement Amendments (CLIA) or College of American Pathologists (CAP) approved laboratory\nFA complementation group A as determined by somatic cell hybrids, molecular characterization, western blot analysis, acquisition of mitomycin C resistance after in vitro lentiviral transduction with a vector bearing the complementary deoxyribonucleic acid (cDNA) for Fanconi complementation group A, or other clinically certified method of complementation group analysis\nBone marrow analysis demonstrating normal cytogenetics, and no more than 5% of cells with a single clonal abnormality by fluorescence in situ hybridization (FISH) for myelodysplastic syndrome (MDS) panel within 3 months of stem cell collection\nSigned informed consent by the patient or legally authorized representative\nAbsolute neutrophil count >= 0.5 x 10^9/L\nHemoglobin >= 8 g/dL\nPlatelet count >= 20 x 10^9/L and able to achieve a platelet count of >= 50 x 10^9/L with transfusion support\nAdequate hepatic function with aspartate aminotransferase (AST) and alanine aminotransferase (ALT) < 5 x upper limit of normal (ULN)\nAdequate renal function with creatinine (Cre) =< 1.5; if greater, then glomerular filtration rate (GFR) > 60 mL/min/1.73 m^2 as calculated by the Modification of Diet in Renal Disease equation\nAdequate pulmonary function with corrected diffusion capacity of carbon monoxide (DLCO) > 50% in those for whom this study can be performed\nFor subjects < 17 years of age, Modified Lansky Play-Performance Score of >= 70%; for subjects 17 and older, Karnofsky score of >= 70%\n\nExclusion Criteria:\n\nNon-hematopoietic malignancy where the expected survival is less than 2 years\nMyelodysplastic syndrome as defined by World Health Organization (WHO) criteria\nAcute myeloid leukemia as defined by WHO criteria\nPregnancy or lactation; females of childbearing potential and males who are admitted to the study will be advised that the study procedures and study drugs may be teratogenic, and they will be required to take adequate measures to prevent conception for the duration of the study\nConcurrent enrollment in any other study using an investigational drug\nPhysical or emotional status that would prevent informed consent, protocol compliance, or adequate follow-up\n\nPatients for whom an human leukocyte antigen (HLA) matched sibling donor bone marrow transplant is being actively pursued will not be eligible for study until it is determined that no sibling donor is available or that a stem cell transplant is not feasible during the time the patient might be on study\n\nNo patient will be included in this study as an alternative to a clinically indicated HLA matched sibling donor stem cell transplant\nIf an HLA matched sibling donor is identified, but stem cell or marrow collection is not feasible (e.g., donor is in utero, is a newborn from whom cord blood was not collected, or is unable to undergo a donation procedure because of ill health), a patient may be included in the study at the discretion of the investigators\nSignificant associated diseases including documented human immunodeficiency virus (HIV) infection, uncontrolled hypertension (diastolic blood pressures > 95%ile for age), unstable angina, congestive heart failure (> New York [NY] class II), poorly controlled diabetes (hemoglobin A1c [Hgb A1c] > 7%), coronary angioplasty within 6 months, myocardial infarction within the last 6 months, or uncontrolled atrial or ventricular cardiac arrhythmia, abnormal coagulation, persistent abnormal urinalysis reflecting intrinsic renal disease\nActive ongoing viral, bacterial, or fungal infection",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "4 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Hans-Peter Kiem",
+            "OverallOfficialAffiliation": "Fred Hutch/University of Washington Cancer Consortium",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Fred Hutch/University of Washington Cancer Consortium",
+            "LocationCity": "Seattle",
+            "LocationState": "Washington",
+            "LocationZip": "98109",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000005198",
+            "ConditionMeshTerm": "Fanconi Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000000740",
+            "ConditionMeshTerm": "Anemia"
+          },
+          {
+            "ConditionMeshId": "D000005199",
+            "ConditionMeshTerm": "Fanconi Anemia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000006402",
+            "ConditionAncestorTerm": "Hematologic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000029502",
+            "ConditionAncestorTerm": "Anemia, Hypoplastic, Congenital"
+          },
+          {
+            "ConditionAncestorId": "D000000741",
+            "ConditionAncestorTerm": "Anemia, Aplastic"
+          },
+          {
+            "ConditionAncestorId": "D000080984",
+            "ConditionAncestorTerm": "Congenital Bone Marrow Failure Syndromes"
+          },
+          {
+            "ConditionAncestorId": "D000080983",
+            "ConditionAncestorTerm": "Bone Marrow Failure Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001855",
+            "ConditionAncestorTerm": "Bone Marrow Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000030342",
+            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+          },
+          {
+            "ConditionAncestorId": "D000049914",
+            "ConditionAncestorTerm": "DNA Repair-Deficiency Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000015499",
+            "ConditionAncestorTerm": "Renal Tubular Transport, Inborn Errors"
+          },
+          {
+            "ConditionAncestorId": "D000007674",
+            "ConditionAncestorTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M3222",
+            "ConditionBrowseLeafName": "Anemia",
+            "ConditionBrowseLeafAsFound": "Anemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7493",
+            "ConditionBrowseLeafName": "Fanconi Syndrome",
+            "ConditionBrowseLeafAsFound": "Fanconi Anemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7494",
+            "ConditionBrowseLeafName": "Fanconi Anemia",
+            "ConditionBrowseLeafAsFound": "Fanconi Anemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8642",
+            "ConditionBrowseLeafName": "Hematologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22608",
+            "ConditionBrowseLeafName": "Anemia, Hypoplastic, Congenital",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3223",
+            "ConditionBrowseLeafName": "Anemia, Aplastic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2241",
+            "ConditionBrowseLeafName": "Bone Marrow Failure Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12270",
+            "ConditionBrowseLeafName": "Pancytopenia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2242",
+            "ConditionBrowseLeafName": "Congenital Bone Marrow Failure Syndromes",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4286",
+            "ConditionBrowseLeafName": "Bone Marrow Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22839",
+            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25284",
+            "ConditionBrowseLeafName": "DNA Repair-Deficiency Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17303",
+            "ConditionBrowseLeafName": "Renal Tubular Transport, Inborn Errors",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2270",
+            "ConditionBrowseLeafName": "Fanconi Anemia",
+            "ConditionBrowseLeafAsFound": "Fanconi Anemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T1464",
+            "ConditionBrowseLeafName": "Congenital Aplastic Anemia",
+            "ConditionBrowseLeafAsFound": "Fanconi Anemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T2272",
+            "ConditionBrowseLeafName": "Fanconi Syndrome",
+            "ConditionBrowseLeafAsFound": "Fanconi Anemia",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "C000088327",
+            "InterventionMeshTerm": "Plerixafor"
+          },
+          {
+            "InterventionMeshId": "D000011241",
+            "InterventionMeshTerm": "Prednisone"
+          },
+          {
+            "InterventionMeshId": "D000008775",
+            "InterventionMeshTerm": "Methylprednisolone"
+          },
+          {
+            "InterventionMeshId": "D000077555",
+            "InterventionMeshTerm": "Methylprednisolone Acetate"
+          },
+          {
+            "InterventionMeshId": "D000008776",
+            "InterventionMeshTerm": "Methylprednisolone Hemisuccinate"
+          },
+          {
+            "InterventionMeshId": "D000011239",
+            "InterventionMeshTerm": "Prednisolone"
+          },
+          {
+            "InterventionMeshId": "C000009935",
+            "InterventionMeshTerm": "Prednisolone acetate"
+          },
+          {
+            "InterventionMeshId": "D000003348",
+            "InterventionMeshTerm": "Cortisone"
+          },
+          {
+            "InterventionMeshId": "C000021322",
+            "InterventionMeshTerm": "Prednisolone hemisuccinate"
+          },
+          {
+            "InterventionMeshId": "C000009022",
+            "InterventionMeshTerm": "Prednisolone phosphate"
+          },
+          {
+            "InterventionMeshId": "D000078224",
+            "InterventionMeshTerm": "Lenograstim"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000893",
+            "InterventionAncestorTerm": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionAncestorId": "D000005938",
+            "InterventionAncestorTerm": "Glucocorticoids"
+          },
+          {
+            "InterventionAncestorId": "D000006728",
+            "InterventionAncestorTerm": "Hormones"
+          },
+          {
+            "InterventionAncestorId": "D000006730",
+            "InterventionAncestorTerm": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018931",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Hormonal"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000276",
+            "InterventionAncestorTerm": "Adjuvants, Immunologic"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000000932",
+            "InterventionAncestorTerm": "Antiemetics"
+          },
+          {
+            "InterventionAncestorId": "D000001337",
+            "InterventionAncestorTerm": "Autonomic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018373",
+            "InterventionAncestorTerm": "Peripheral Nervous System Agents"
+          },
+          {
+            "InterventionAncestorId": "D000005765",
+            "InterventionAncestorTerm": "Gastrointestinal Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018696",
+            "InterventionAncestorTerm": "Neuroprotective Agents"
+          },
+          {
+            "InterventionAncestorId": "D000020011",
+            "InterventionAncestorTerm": "Protective Agents"
+          },
+          {
+            "InterventionAncestorId": "D000019380",
+            "InterventionAncestorTerm": "Anti-HIV Agents"
+          },
+          {
+            "InterventionAncestorId": "D000044966",
+            "InterventionAncestorTerm": "Anti-Retroviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000998",
+            "InterventionAncestorTerm": "Antiviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M13273",
+            "InterventionBrowseLeafName": "Prednisone",
+            "InterventionBrowseLeafAsFound": "Lymphoma",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M13272",
+            "InterventionBrowseLeafName": "Prednisolone",
+            "InterventionBrowseLeafAsFound": "ACT",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M1833",
+            "InterventionBrowseLeafName": "Methylprednisolone Acetate",
+            "InterventionBrowseLeafAsFound": "ACT",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M10901",
+            "InterventionBrowseLeafName": "Methylprednisolone",
+            "InterventionBrowseLeafAsFound": "ACT",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M10902",
+            "InterventionBrowseLeafName": "Methylprednisolone Hemisuccinate",
+            "InterventionBrowseLeafAsFound": "ACT",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M229437",
+            "InterventionBrowseLeafName": "Prednisolone acetate",
+            "InterventionBrowseLeafAsFound": "ACT",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M211896",
+            "InterventionBrowseLeafName": "Prednisolone hemisuccinate",
+            "InterventionBrowseLeafAsFound": "ACT",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M248768",
+            "InterventionBrowseLeafName": "Prednisolone phosphate",
+            "InterventionBrowseLeafAsFound": "ACT",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M5721",
+            "InterventionBrowseLeafName": "Cortisone",
+            "InterventionBrowseLeafAsFound": "Address",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M244297",
+            "InterventionBrowseLeafName": "Sargramostim",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M340910",
+            "InterventionBrowseLeafName": "Plerixafor",
+            "InterventionBrowseLeafAsFound": "Prone",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M1945",
+            "InterventionBrowseLeafName": "Lenograstim",
+            "InterventionBrowseLeafAsFound": "Vitamin",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3369",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8199",
+            "InterventionBrowseLeafName": "Glucocorticoids",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8941",
+            "InterventionBrowseLeafName": "Hormones",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8940",
+            "InterventionBrowseLeafName": "Hormone Antagonists",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20119",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Hormonal",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2780",
+            "InterventionBrowseLeafName": "Adjuvants, Immunologic",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3403",
+            "InterventionBrowseLeafName": "Antiemetics",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8033",
+            "InterventionBrowseLeafName": "Gastrointestinal Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19926",
+            "InterventionBrowseLeafName": "Neuroprotective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21022",
+            "InterventionBrowseLeafName": "Protective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20503",
+            "InterventionBrowseLeafName": "Anti-HIV Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M24581",
+            "InterventionBrowseLeafName": "Anti-Retroviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3466",
+            "InterventionBrowseLeafName": "Antiviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Infl",
+            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "AnEm",
+            "InterventionBrowseBranchName": "Antiemetics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "NeuroAg",
+            "InterventionBrowseBranchName": "Neuroprotective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Gast",
+            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          }
+        ]
+      }
+    }
+  }
+}

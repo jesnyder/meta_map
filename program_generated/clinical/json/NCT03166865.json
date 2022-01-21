@@ -1,0 +1,416 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03166865",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "lcsrmyygk"
+      },
+      "Organization": {
+        "OrgFullName": "Liaocheng People's Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Clinical Study of Umbilical Cord Mesenchymal Stem Cells (UC-MSC) for Treatment of Knee Osteoarthritis",
+      "OfficialTitle": "Clinical Study of Umbilical Cord Mesenchymal Stem Cells (UC-MSC) for Treatment of Knee Osteoarthritis"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2018",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 1, 2018",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 1, 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 1, 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 23, 2017",
+      "StudyFirstSubmitQCDate": "May 23, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 25, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "June 1, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 4, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Liaocheng People's Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Osteoarthritis (OA) is one of the most common joint diseases that is considered a chronic degenerative disorder. There is no effective therapy available today. This prospective clinical trial is designed in an attempt to study the efficacy of mesenchymal stem cells with platelet rich plasma in knee osteoarthritis."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Osteoarthritis of the Knee"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "osteoarthritis (OA)",
+          "mesenchymal stem cells(MSC)"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Intervention group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Intraarticular injection of 2×10~7 Umbilical-cord mesenchimal stem cells with plateler Rich Plasma(5ml)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Umbilical-cord mesenchymal stromal cells (UC-MSCs)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "Other",
+            "ArmGroupDescription": "Intraarticular injection of hyaluronic acid",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Hyaluronic acid"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Umbilical-cord mesenchymal stromal cells (UC-MSCs)",
+            "InterventionDescription": "Allogeneic UC-MSCs 1 x 10~7 diluted on 5 mL of Platelet Rich Plasma",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Intervention group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Hyaluronic acid",
+            "InterventionDescription": "intra-articular injection of Hyaluronic Acid",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change From Baseline in visual analogue scale (VAS)",
+            "PrimaryOutcomeDescription": "Visual analogue scale (VAS)",
+            "PrimaryOutcomeTimeFrame": "Baseline, 1, 3, 6 and 12 weeks"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Change From Baseline in western Ontario and McMaster Universities Osteoarthritis Index score",
+            "PrimaryOutcomeDescription": "WOMAC",
+            "PrimaryOutcomeTimeFrame": "Baseline, 1, 3, 6 and 12 weeks"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Change From Baseline in knee society score (KSS)",
+            "PrimaryOutcomeDescription": "knee society score (KSS)",
+            "PrimaryOutcomeTimeFrame": "Baseline, 1, 3, 6 and 12 weeks"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Change From Baseline in MOS item short from health survey(SF-36)",
+            "PrimaryOutcomeDescription": "The MOS item short from health survey(SF-36)",
+            "PrimaryOutcomeTimeFrame": "Baseline, 1, 3, 6 and 12 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "The number of cartilage defects, thickness of cartilage evaluated by X-ray and MRI",
+            "SecondaryOutcomeTimeFrame": "Baseline, 1, 3, 6 and 12 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The IL-1β, IL-6, PGE-2, TGF-β, TNF-α and IGF-1 of articular cavity fluid",
+            "SecondaryOutcomeDescription": "The IL-1β, IL-6, PGE-2, TGF-β, TNF-α and IGF-1 of articular cavity fluid",
+            "SecondaryOutcomeTimeFrame": "Baseline, 1, 3, 6 and 12 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\n30-70 years old.\nNo serious infection, chronic diseases, diabetes and tuberculosis.\nOsteoarthritis of the knee with grade1-3 defined by the modified Kellgren-Lawrence classification.\nWritten informed consents were obtained from all subjects.\n\nExclusion Criteria:\n\nPregnant women or cognitively impaired adults.\nInflammatory or post infectious arthritis.\nIntra-articular drug injection within the previous 2 months.\nSerious medical illness with a life expectancy of less than 1 year.\nPrior admission for substance abuse.\nArthroscopy during the previous 6 months.\nSystemic autoimmune rheumatic disease.\nPoorly controlled diabetes mellitus.\nImmunosuppressive or anticoagulant treatments.\nTreatment with corticosteroids in the 3 months prior to inclusion in the study.\nNSAID therapy within 15 days prior to inclusion in the study.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "30 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Changhui Zhou, Ph.D.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "86-0635-8272202",
+            "CentralContactEMail": "zhouchanghui008@163.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Dawang Wang, Ph.D.",
+            "OverallOfficialAffiliation": "Liaocheng People's Hospital",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Liaocheng city people's hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Liaocheng",
+            "LocationState": "Shandong",
+            "LocationZip": "0635",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Changhui Zhou, Ph.D.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "86-0635-8272202",
+                  "LocationContactEMail": "zhouchanghui008@163.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010003",
+            "ConditionMeshTerm": "Osteoarthritis"
+          },
+          {
+            "ConditionMeshId": "D000020370",
+            "ConditionMeshTerm": "Osteoarthritis, Knee"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001168",
+            "ConditionAncestorTerm": "Arthritis"
+          },
+          {
+            "ConditionAncestorId": "D000007592",
+            "ConditionAncestorTerm": "Joint Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012216",
+            "ConditionAncestorTerm": "Rheumatic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12078",
+            "ConditionBrowseLeafName": "Osteoarthritis",
+            "ConditionBrowseLeafAsFound": "Osteoarthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21321",
+            "ConditionBrowseLeafName": "Osteoarthritis, Knee",
+            "ConditionBrowseLeafAsFound": "Osteoarthritis of the Knee",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3628",
+            "ConditionBrowseLeafName": "Arthritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9773",
+            "ConditionBrowseLeafName": "Joint Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14197",
+            "ConditionBrowseLeafName": "Rheumatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5475",
+            "ConditionBrowseLeafName": "Collagen Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000006820",
+            "InterventionMeshTerm": "Hyaluronic Acid"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000276",
+            "InterventionAncestorTerm": "Adjuvants, Immunologic"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000055675",
+            "InterventionAncestorTerm": "Viscosupplements"
+          },
+          {
+            "InterventionAncestorId": "D000020011",
+            "InterventionAncestorTerm": "Protective Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9030",
+            "InterventionBrowseLeafName": "Hyaluronic Acid",
+            "InterventionBrowseLeafAsFound": "Ophthalmic",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M2780",
+            "InterventionBrowseLeafName": "Adjuvants, Immunologic",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M27448",
+            "InterventionBrowseLeafName": "Viscosupplements",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21022",
+            "InterventionBrowseLeafName": "Protective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

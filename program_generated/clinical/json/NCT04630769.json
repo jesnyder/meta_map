@@ -1,0 +1,560 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04630769",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2020LS001"
+      },
+      "Organization": {
+        "OrgFullName": "Masonic Cancer Center, University of Minnesota",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "FT516 and IL2 With Enoblituzumab for Ovarian Cancer",
+      "OfficialTitle": "Intraperitoneal FATE FT516 and Interleukin-2 (IL-2) With Intravenous Enoblituzumab in Recurrent Ovarian, Fallopian Tube, and Primary Peritoneal Cancer"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 2, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2027",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2027",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 11, 2020",
+      "StudyFirstSubmitQCDate": "November 11, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 16, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "April 12, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 13, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Masonic Cancer Center, University of Minnesota",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a single center Phase I clinical trial of FT516 administered intraperitoneally (IP) once a week for 3 consecutive weeks for the treatment of recurrent gynecologic cancers. As this is an early 1st in human study and the 1st intraperitoneal infusion of FT516, the safety of FT516 is confirmed prior to adding enoblituzumab as an intravenous infusion approximately 1 week prior to the 1st dose of FT516 and every 3 weeks beginning on Day 22 (1 week after the last dose of FT516). Each dose of FT516 is followed directly by an IP infusion of interleukin-2 (IL-2) to facilitate natural killer (NK) cell survival. A short course of outpatient lymphodepletion chemotherapy is given prior to the 1st dose of FT516.",
+      "DetailedDescription": "FT516 is an off the shelf product comprised of allogeneic natural killer (NK) cells, expressing high-affinity non-cleavable CD16 (FT516). Enoblituzumab is an Fc-optimized monoclonal antibody that targets B7-H3 which is highly expressed on ovarian cancer. Based on data showing that within the ovarian cancer tumor microenvironment surface expression of CD16a on NK cells is diminished, the researchers hypothesize that the FT516 cellular product containing a non-cleavable CD16 will bypass the low CD16 expression issue and maximize NK cell cytotoxicity. Enoblituzumab is an Fc optimized humanized IgG1 monoclonal antibody that binds to B7-H3 (CD276). B7-H3 is an inhibitory immune checkpoint molecule that is widely expressed by a number of different tumor types and may play a key role in regulating the immune response. It is therefore hypothesized that the combination of FT516 with enoblituzumab will maximize NK cell cytotoxicity in patients with ovarian cancer."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Ovarian Cancer",
+          "Fallopian Tube Adenocarcinoma",
+          "Primary Peritoneal Cavity Cancer"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignInterventionModelDescription": "This study is conducted in two consecutive stages with 5 cohorts. A minimum of 28 days must separate each cohort. Within a 3 patient cohort, a minimum of 14 days must separate the first and second patient. Stage 1 Step 1 uses a fast-track design (1 patient per cohort) with a minimum of 28 days between each patient until one of the following: a) 1st occurrence of a pre-defined adverse event at which point the study moves to Step 2. The cohort size increases from 1 to 3 patients with 2 additional patients added. Escalation in Step 2 continues until the 1st DLT at which point Stage 2 continual reassessment method (CRM) is activated. If Cohort 5 is completed with 10 patients enrolled at the MTD without a DLT, Stage 2 (CRM) is not used. b) The 1st occurrence of a DLT the study moves directly to Stage 2 (CRM) and Step 2 is not used. c) Cohort 5 is completed without a pre-defined AE or a DLT - neither Step 2 nor Stage 2 is used if a total of 10 patients are enrolled in Cohort 5.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "31",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Monotherapy: IP FT516 at 9 x 10^7 cells/dose on Day 1, 8, and 15",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: IP FT516",
+                "Drug: IL-2"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Monotherapy: IP FT516 at 3 x 10^8 cells/dose on Day 1, 8, and 15",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: IP FT516",
+                "Drug: IL-2"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Monotherapy: IP FT516 at 9 x 10^8 cells/dose on Day 1, 8, and 15",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: IP FT516",
+                "Drug: IL-2"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Safe dose (MTD-1) from 1st 3 levels + IV enoblituzumab on Day -6",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: IP FT516",
+                "Drug: Enoblituzumab",
+                "Drug: IL-2"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Highest dose (MTD) from 1st 3 levels + IV enoblituzumab on Day -6",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: IP FT516",
+                "Drug: Enoblituzumab",
+                "Drug: IL-2"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "IP FT516",
+            "InterventionDescription": "FT516 is an off-the-shelf cryopreserved NK cell product derived from an iPSC that was transduced with a high affinity, ADAM17 non-cleavable CD16 (Fc receptor) that maintains CD16 on the cell surface, which remains fully functional after NK cell activation",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Highest dose (MTD) from 1st 3 levels + IV enoblituzumab on Day -6",
+                "Monotherapy: IP FT516 at 3 x 10^8 cells/dose on Day 1, 8, and 15",
+                "Monotherapy: IP FT516 at 9 x 10^7 cells/dose on Day 1, 8, and 15",
+                "Monotherapy: IP FT516 at 9 x 10^8 cells/dose on Day 1, 8, and 15",
+                "Safe dose (MTD-1) from 1st 3 levels + IV enoblituzumab on Day -6"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Enoblituzumab",
+            "InterventionDescription": "Enoblituzumab is an Fc-optimized monoclonal antibody that targets B7-H3 which is highly expressed on ovarian cancer. Enoblituzumab at 15 mg/kg IV, one day before lymphodepleting chemotherapy",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Highest dose (MTD) from 1st 3 levels + IV enoblituzumab on Day -6",
+                "Safe dose (MTD-1) from 1st 3 levels + IV enoblituzumab on Day -6"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "IL-2",
+            "InterventionDescription": "IL-2 at 6 Million IU (3 Million IU/m2 if patient weight is <45 kg) is administered IP in 50 cc of room temperature D5W via peritoneal catheter directly after the FT-516 infusion is completed. Immediately following the IL-2, an additional 100 cc D5W flush is infused into the peritoneal cavity through the peritoneal catheter as rapidly as possible.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Highest dose (MTD) from 1st 3 levels + IV enoblituzumab on Day -6",
+                "Monotherapy: IP FT516 at 3 x 10^8 cells/dose on Day 1, 8, and 15",
+                "Monotherapy: IP FT516 at 9 x 10^7 cells/dose on Day 1, 8, and 15",
+                "Monotherapy: IP FT516 at 9 x 10^8 cells/dose on Day 1, 8, and 15",
+                "Safe dose (MTD-1) from 1st 3 levels + IV enoblituzumab on Day -6"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Interleukin-2"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of participants experiencing Dose Limiting Toxicity (DLT) events",
+            "PrimaryOutcomeDescription": "DLT is defined as any treatment emergent toxicity at least possibly related to the study treatment meeting one of the following criteria based on CTCAE v5 within 28 days (14 days for ascites) of the 1st FT516 infusion (for Cohort 4 and 5, DLT assessment starts with enoblituzumab and continues for 28 days after 1st FT516): Grade 3 organ toxicity (pulmonary, hepatic, renal, or neurologic) not pre-existing and lasting more than 72 hours , Any non-hematologic Grade 4 or 5 toxicity, Neutrophil count decreased ≥ Grade 4 that persists at Day 28 despite use of growth factor support ,Grade 3 abdominal pain lasting more than 4 consecutive days and not controlled by standard analgesics, Grade 3 or greater ascites within 14 days after FT516 administration in patients who had no ascites or Grade 1 ascites at enrollment and is not attributable to disease progression",
+            "PrimaryOutcomeTimeFrame": "28 Days Post FT516 infusion"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of participants experiencing adverse events",
+            "PrimaryOutcomeDescription": "Number of participants experiencing adverse events related to FT516",
+            "PrimaryOutcomeTimeFrame": "28 days after first dose of FT516 or 28 days after last dose of Enoblituzumab (arm 4 and 5 only)"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Number of participants experiencing progression free survival",
+            "SecondaryOutcomeDescription": "Number of participants experiencing progression free survival at 6 months from the first dose of FT516",
+            "SecondaryOutcomeTimeFrame": "6 months from the first dose of FT516"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants experiencing progression free survival",
+            "SecondaryOutcomeDescription": "Number of participants experiencing progression free survival at 1 year from the first dose of FT516",
+            "SecondaryOutcomeTimeFrame": "1 year from the first dose of FT516"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants experiencing overall survival",
+            "SecondaryOutcomeDescription": "Number of participants experiencing overall survival at 6 months from the first dose of FT516",
+            "SecondaryOutcomeTimeFrame": "6 months from the first dose of FT516"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants experiencing overall survival",
+            "SecondaryOutcomeDescription": "Number of participants experiencing overall survival at 1 year from the first dose of FT516",
+            "SecondaryOutcomeTimeFrame": "1 year from the first dose of FT516"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nRecurrent epithelial ovarian cancer, fallopian tube, or primary peritoneal cancer meeting one of the following minimal prior treatment requirement (no limit to the maximum number of prior treatments):\nPlatinum Resistant: may receive FT516 as 2nd line (as 1st salvage therapy) with platinum resistant is defined as disease that has responded to initial chemotherapy but demonstrates recurrence within a relatively short period of time (< 6 months) following the completion of treatment.\nPlatinum Sensitive: may receive FT516 as 3rd line therapy (as 2nd salvage therapy) with platinum sensitive is defined as the recurrence of active disease in a patient who has achieved a documented response to initial platinum-based treatment and has been off therapy for an extended period of time (≥ 6 months).\nMeasurable disease per modified Response Evaluation Criteria in Solid Tumors, v1.1 within the abdomen and pelvis assess within 42 days of the 1st FT516 infusion. Extra-peritoneal disease is permitted; however each lesion must be < 5 cm at the largest diameter.\nAt least 18 years of age\nGOG Performance Status 0, 1, or 2\nAdequate organ function within 14 days of study registration (28 days for pulmonary and cardiac) defined as:\nHematologic: platelets ≥ 75,000 x 10^9/L and hemoglobin ≥ 9 g/dL, unsupported by transfusions; absolute neutrophil count (ANC) ≥ 1000 x 10^9/L, unsupported by G-CSF or granulocytes\nCreatinine: Estimated glomerular filtration rate (eGFR) ≥ 60 mL/min/1.73m^2 per current institutional calculation formula\nHepatic: AST and ALT ≤ 3 x upper limit of institutional normal\nPulmonary Function: Oxygen saturation ≥ 90% on room air; PFT's required only if symptomatic or prior known impairment - must have pulmonary function >50% corrected DLCO and FEV1\nCardiac Function: LVEF ≥ 40% by echocardiography, MUGA, or cardiac MRI; no clinically significant cardiovascular disease including any of the following: stroke or myocardial infarction within 6 months prior to first study treatment; unstable angina or congestive heart failure of New York Heart Association Grade 2 or higher\nAgrees to the placement of an intraperitoneal catheter before the 1st dose of study directed drug (chemotherapy or enoblituzumab - Cohort 4 and 5) and remains in place through Day 36 or longer if retreatment is planned\nAgrees to undergo a tumor biopsy if feasible at the time the catheter is placed and removed - Accessible tumor for biopsy is not required for eligibility.\nWashout period of at least 14 days after any standard of care tumor directed therapy prior to the first dose of investigational product (FT516 for Levels 1-3 or enoblituzumab for Levels 4-5)\nIf history of brain metastases must be stable for at least 3 months after treatment - A brain CT scan or MRI is only be required in subjects with known brain metastases at the time of enrollment or in subjects with clinical signs or symptoms suggestive of brain metastases\nMust agree to and sign the consent for the companion Long-Term Follow-Up study (CPRC #2020LS072) to fulfill the FDA required 15 years of follow-up for a genetically modified cell product\nVoluntary written consent prior to the performance of any research related procedures\n\nExclusion Criteria:\n\nPregnant or breastfeeding or planning on becoming pregnant in the next 6 months. Woman of childbearing potential who still have a uterus and ovaries, must agree to use at effective contraception and must have a negative pregnancy test within 14 days of study enrollment.\nAny known condition that requires systemic immunosuppressive therapy (> 5mg prednisone daily or equivalent) during the FT516 dosing period (3 days before the 1st dose through 14 days after the last dose) - topical and inhaled steroids are permitted.\nActive autoimmune disease requiring systemic immunosuppressive therapy\nHistory of severe asthma and currently on chronic systemic medications (mild asthma requiring inhaled steroids only is eligible)\nUncontrolled bacterial, fungal or viral infections with progression of clinical symptoms despite therapy\nReceipt of any investigational agent within 28 days prior to the first dose of investigational product (FT516 for Levels 1-3 or enoblituzumab for Levels 4-5)\nLive vaccine <6 weeks prior to start of lympho-conditioning\nKnown allergy to the following FT516 components: albumin (human) or DMSO\nAny history of prior enoblituzumab administration\nKnown history of HIV positivity or active hepatitis C or B - chronic asymptomatic viral hepatitis is allowed\nPresence of any medical or social issues that are likely to interfere with study conduct or may cause increased risk to patient",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Cancer Center Clinical Trials Office",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "612-676-4200",
+            "CentralContactEMail": "ccinfo@umn.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Melissa Geller, MD, MS",
+            "OverallOfficialAffiliation": "Masonic Cancer Center, University of Minnesota",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Minnesota, Masonic Cancer Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Minneapolis",
+            "LocationState": "Minnesota",
+            "LocationZip": "55455",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Melissa Geller, MD, MS",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010051",
+            "ConditionMeshTerm": "Ovarian Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000077216",
+            "ConditionMeshTerm": "Carcinoma, Ovarian Epithelial"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000002277",
+            "ConditionAncestorTerm": "Carcinoma"
+          },
+          {
+            "ConditionAncestorId": "D000009375",
+            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004701",
+            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000010049",
+            "ConditionAncestorTerm": "Ovarian Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000000291",
+            "ConditionAncestorTerm": "Adnexal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005833",
+            "ConditionAncestorTerm": "Genital Neoplasms, Female"
+          },
+          {
+            "ConditionAncestorId": "D000014565",
+            "ConditionAncestorTerm": "Urogenital Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006058",
+            "ConditionAncestorTerm": "Gonadal Disorders"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12126",
+            "ConditionBrowseLeafName": "Ovarian Neoplasms",
+            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M1704",
+            "ConditionBrowseLeafName": "Carcinoma, Ovarian Epithelial",
+            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2737",
+            "ConditionBrowseLeafName": "Adenocarcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4686",
+            "ConditionBrowseLeafName": "Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11472",
+            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7015",
+            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12124",
+            "ConditionBrowseLeafName": "Ovarian Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2795",
+            "ConditionBrowseLeafName": "Adnexal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8097",
+            "ConditionBrowseLeafName": "Genital Neoplasms, Female",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16467",
+            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8315",
+            "ConditionBrowseLeafName": "Gonadal Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4352",
+            "ConditionBrowseLeafName": "Ovarian Cancer",
+            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T4354",
+            "ConditionBrowseLeafName": "Ovarian Epithelial Cancer",
+            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000007376",
+            "InterventionMeshTerm": "Interleukin-2"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018712",
+            "InterventionAncestorTerm": "Analgesics, Non-Narcotic"
+          },
+          {
+            "InterventionAncestorId": "D000000700",
+            "InterventionAncestorTerm": "Analgesics"
+          },
+          {
+            "InterventionAncestorId": "D000018689",
+            "InterventionAncestorTerm": "Sensory System Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018373",
+            "InterventionAncestorTerm": "Peripheral Nervous System Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3382",
+            "InterventionBrowseLeafName": "Antibodies, Monoclonal",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9563",
+            "InterventionBrowseLeafName": "Interleukin-2",
+            "InterventionBrowseLeafAsFound": "Immediate",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3184",
+            "InterventionBrowseLeafName": "Analgesics",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19939",
+            "InterventionBrowseLeafName": "Analgesics, Non-Narcotic",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Analg",
+            "InterventionBrowseBranchName": "Analgesics"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02635464",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CAS-XDA-CIC/IGDB"
+      },
+      "Organization": {
+        "OrgFullName": "Chinese Academy of Sciences",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Human Umbilical Cord-derived Mesenchymal Stem Cells With Injectable Collagen Scaffold Transplantation for Chronic Ischemic Cardiomyopathy",
+      "OfficialTitle": "The Safety and Efficacy Assessment of Human Umbilical Cord-derived Mesenchymal Stem Cells (hUC-MSCs) With Injectable Collagen Scaffold Transplantation for Chronic Ischemic Cardiomyopathy"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2015",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 2015"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 2019",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 2019",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "December 13, 2015",
+      "StudyFirstSubmitQCDate": "December 16, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 18, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "December 21, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 23, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Jianwu Dai",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator of Regenerative Medicine Laboratory, Institute of Genetics and Developmental Biology, CAS",
+        "ResponsiblePartyInvestigatorAffiliation": "Chinese Academy of Sciences"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Chinese Academy of Sciences",
+        "LeadSponsorClass": "OTHER_GOV"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The study is designed to assess the safety and efficacy of allogeneic human umbilical cord-derived mesenchymal stem cells (hUC-MSCs) with injectable collagen scaffold transplanted into patients with chronic ischemic cardiomyopathy."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Chronic Ischemic Cardiomyopathy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "50",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "hUC-MSCs+Injectable collagen scaffold+CABG",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: hUC-MSCs+Injectable collagen scaffold+CABG"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "hUC-MSCs+CABG",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: hUC-MSCs+CABG"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "CABG",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: CABG"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "hUC-MSCs+Injectable collagen scaffold+CABG",
+            "InterventionDescription": "Patients underwent Coronary Artery Bypass Surgery (CABG) with 10^8 allogeneic human umbilical cord mesenchymal stem cells (hUC-MSCs) in collagen scaffold injecting in the infarct region.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "hUC-MSCs+Injectable collagen scaffold+CABG"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "hUC-MSCs+CABG",
+            "InterventionDescription": "Patients underwent Coronary Artery Bypass Surgery (CABG) with 10^8 allogeneic human umbilical cord mesenchymal stem cells (hUC-MSCs) injecting in the infarct region.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "hUC-MSCs+CABG"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "CABG",
+            "InterventionDescription": "Patients underwent CABG alone.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "CABG"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Incidence of treatment-emergent adverse events",
+            "PrimaryOutcomeDescription": "Adverse events (AEs), serious adverse events (SAEs) and changes in vital signs, electrocardiogram (ECG) and laboratory values were measured.",
+            "PrimaryOutcomeTimeFrame": "up to 24 months after surgery"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Myocardial blood flow",
+            "SecondaryOutcomeDescription": "Change in myocardial blood flow evaluated by Cardiac magnetic resonance imaging (MRI).",
+            "SecondaryOutcomeTimeFrame": "1, 3, 6, 12 and 24 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Left ventricle ejection fraction (LVEF)",
+            "SecondaryOutcomeDescription": "Change in LVEF as measured by ultrasonic cardiogram (UCG) and Cardiac magnetic resonance imaging (MRI).",
+            "SecondaryOutcomeTimeFrame": "1, 3, 6, 12 and 24 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Infarct size",
+            "SecondaryOutcomeDescription": "Change in infarct size evaluated by Cardiac magnetic resonance imaging (MRI).",
+            "SecondaryOutcomeTimeFrame": "1, 3, 6, 12 and 24 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "New York Heart Association (NYHA) Functional Classification",
+            "SecondaryOutcomeDescription": "Change in clinical symptoms evaluated by NYHA.",
+            "SecondaryOutcomeTimeFrame": "1, 3, 6, 12 and 24 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Canadian Cardiovascular Society (CCS) Angina Grading Scale",
+            "SecondaryOutcomeDescription": "Change in clinical symptoms evaluated by CCS.",
+            "SecondaryOutcomeTimeFrame": "1, 3, 6, 12 and 24 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female, 35-65 years old.\nChronic coronary artery disease with coronary Stenosis detectable by percutaneous coronary intervention (PCI). Ineligibility for percutaneous revascularization, as assessed by coronary arteriography. Ineligibility for percutaneous revascularization procedures was determined by 2 expert committees: a surgical committee comprising 2 cardiovascular surgeons and a noninvasive cardiologist, and an interventional committee comprising 2 interventional cardiologists and 1 noninvasive cardiologist.\nMRI confirmed that chronic coronary artery disease and ischemic regions.\nLeft ventricular ejection fraction (LVEF)≤40%.\nNYHA Class II-IV.\nNo organ dysfunction for lung, liver and kidney.\nPatients are able and willing to observe therapeutic effect and adverse events.\nSigned informed consent.\nNegative serum pregnancy test.\nNo coagulation dysfunction.\nGlycated hemoglobin ≤6.5.\n\nExclusion Criteria:\n\nLactating or pregnant woman.\nIneligibility for CABG.\nUnexplainable baseline laboratory abnormalities.\nSensitivity to any of the study medications.\nAcute myocardial infarction within 1 months of enrollment in the study.\nPatients suffering cardiovascular disease, such as aortic disease, malignant arrhythmias, congenital heart disease, intracardiac mass, moderate or severe valvular stenosis or regurgitation.\nHistory of life threatening allergic or immune-mediated reaction.\nSystemic infection or severe local infection.\nShock or MODS or patients cannot cooperate with doctors.\nSevere heart, lung, liver or renal dysfunction.\nTaking medicine that might have effect on outcomes assess.\nSuffering HIV, Hepatitis B or Hepatitis C.\nParticipation in any clinical trial in recent three months.\nHistory of mental illness or suicide risk.\nHigh expectation or unrealistic demands.\nRecently suffered a lot of radiation exposure.\nPrevious or current history of neoplasia or other comorbidity that could impact the patient's short-term survival.\nPatients with serious complications of coronary artery disease (e.g., perforation of interventricular septum and ventricular aneurysm and mitral regurgitation due to papillary muscle dysfunction).\nAbnormal coagulation function.\nPatients with hemodynamic instability which may lead to serious complications.\nAny condition that, in the judgment of the investigator, would place the patient at under risk.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "35 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jianwu Dai, Ph.D.",
+            "OverallOfficialAffiliation": "Chinese Academy of Sciences",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+            "LocationCity": "Nanjing",
+            "LocationState": "Jiangsu",
+            "LocationZip": "210008",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "32910197",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "He X, Wang Q, Zhao Y, Zhang H, Wang B, Pan J, Li J, Yu H, Wang L, Dai J, Wang D. Effect of Intramyocardial Grafting Collagen Scaffold With Mesenchymal Stromal Cells in Patients With Chronic Ischemic Heart Disease: A Randomized Clinical Trial. JAMA Netw Open. 2020 Sep 1;3(9):e2016236. doi: 10.1001/jamanetworkopen.2020.16236."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009202",
+            "ConditionMeshTerm": "Cardiomyopathies"
+          },
+          {
+            "ConditionMeshId": "D000007511",
+            "ConditionMeshTerm": "Ischemia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafAsFound": "Ischemic",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11306",
+            "ConditionBrowseLeafName": "Cardiomyopathies",
+            "ConditionBrowseLeafAsFound": "Cardiomyopathy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

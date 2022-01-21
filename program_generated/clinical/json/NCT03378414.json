@@ -1,0 +1,438 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03378414",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "SCLnow-XY-03"
+      },
+      "Organization": {
+        "OrgFullName": "Sclnow Biotechnology Co., Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Umbilical Cord Mesenchymal Stem Cells Therapy for Patients With Spinocerebellar Ataxia",
+      "OfficialTitle": "A Clinical Research on the Safety/Efficacy of Umbilical Cord Mesenchymal Stem Cells Therapy for Patients With Spinocerebellar Ataxia"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2020",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 12, 2017",
+      "StudyFirstSubmitQCDate": "December 18, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 19, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 26, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 27, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Sclnow Biotechnology Co., Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is verify the safety and efficacy of Human Umbilical Cord Mesenchymal Stem Cells (UC-MSC) therapy for patients with Spinocerebellar Ataxia, and in addition, explore the possible mechanisms of UC-MSC therapy in Spinocerebellar Ataxia.",
+      "DetailedDescription": "This is a random, open label, and parallel controled experiment. 45 patients are selected and sign consent forms, then divided into three groups. Doctors collect the basic information of patient (including age,height, mental condition, vital sign, history of disease, pharmaco-history, genotype test, and so on.) All patients receive laboratory and image examination as baseline. Then, they will give cell treatment based on the clinical protocol. Doctors have follow-up visit on 1, 2, 3, 6, and 12 months after treatment, and do efficacy evaluation."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Spinocerebellar Ataxia Type 1",
+          "Spinocerebellar Ataxia Type 2",
+          "Spinocerebellar Ataxia Type 3",
+          "Spinocerebellar Ataxia Type 6"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Spinocerebellar Ataxia,Mesenchymal Stem Cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "45",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Intravenous infusion group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Umbilical cord mesenchymal stem cells (SCLnow 19#)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Intravenous infusion",
+                "Biological: umbilical cord mesenchymal stem cell"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Intrathecal injection group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Umbilical cord mesenchymal stem cells (SCLnow 19#)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Intrathecal injection",
+                "Biological: umbilical cord mesenchymal stem cell"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control groups",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "No intervention"
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Intravenous infusion",
+            "InterventionDescription": "Intravenous infusion of mesenchymal stem cells: 2 * 10^7 cells (30ml)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Intravenous infusion group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Intrathecal injection",
+            "InterventionDescription": "Intrathecal injection of mesenchymal stem cells: 2 * 10^7 cells (1ml)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Intrathecal injection group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "umbilical cord mesenchymal stem cell",
+            "InterventionDescription": "Treat patients with umbilical cord mesenchymal stem cell (SCLnow 19#), the dosage based on different procedure",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Intrathecal injection group",
+                "Intravenous infusion group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Scale for the assessment anf rating of ataxia (SARA)",
+            "PrimaryOutcomeDescription": "Based on SARA score to calculate treatment efficacy. The equation is as follow, Efficacy = (patients who accepted treatment are effective/patients who accepted treatment)* 100% Effective: after 12 months, score of patient decrease 1 point or more; Ineffective: after 12 months, score decrease less than 1 point or increase.",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Image examinations",
+            "SecondaryOutcomeDescription": "MRI plain scan of brain.",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Inventory of Non-Ataxia Symptoms (INAS) score",
+            "SecondaryOutcomeDescription": "Using Inventory of Non-Ataxia Symptoms (INAS) score to determine the presence and severity of non-ataxia signs.",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cerebrospinal fluid (csf) routine",
+            "SecondaryOutcomeDescription": "Patients is observed by professionals, compare the changes of each observation point and baseline. Baseline is the data acquire from patients before stem cells treatment.",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nClinical and genomic test diagnoses as spinocerebellar ataxias (SCA) (include SCA 1, SCA 2, SCA 3, SCA 6), SARA (Scale for Assessment and Rating of Ataxia) score is 2-5, can complete 8-meter walking test（8MW）\nDo not receive stem cells treatment in 6 months\nParticipants sign the consent form based on the experiment process and statement\n\nExclusion Criteria:\n\nCardiac, renal, hepatic insufficiency; total bilirubin is 1.5 times higher than normal value, aspartate transaminase（AST）or alanine aminotransferase（ALT）is 2.5 times higher than normal value\nHemogram: total white blood cells <3.0 * 10^9 cells/L, blood platelet <75 * 10^9/L, hemoglobin <100g/L\npneumonia, or severe infection\nWith severe allergic history\nBrain organic disorder, like brain tumor\nSerum with HIV, syphilis antibody positive\nSevere mental disease, cognitive disorder patients\nOther severe system or organ organic disease\nPregnant, breast feeding, or planning pregnant women\nParticipate other clinical experiments in 3 months\nWith some other conditions that doctor propose not to participate",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "16 Years",
+      "MaximumAge": "60 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Lei Guo",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "861064368977",
+            "CentralContactEMail": "georgeguo@sclnow.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Hong Jiang",
+            "OverallOfficialAffiliation": "Xiangya Hospital of Central South University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000001259",
+            "ConditionMeshTerm": "Ataxia"
+          },
+          {
+            "ConditionMeshId": "D000002524",
+            "ConditionMeshTerm": "Cerebellar Ataxia"
+          },
+          {
+            "ConditionMeshId": "D000020754",
+            "ConditionMeshTerm": "Spinocerebellar Ataxias"
+          },
+          {
+            "ConditionMeshId": "D000013132",
+            "ConditionMeshTerm": "Spinocerebellar Degenerations"
+          },
+          {
+            "ConditionMeshId": "D000017827",
+            "ConditionMeshTerm": "Machado-Joseph Disease"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000020820",
+            "ConditionAncestorTerm": "Dyskinesias"
+          },
+          {
+            "ConditionAncestorId": "D000009461",
+            "ConditionAncestorTerm": "Neurologic Manifestations"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002526",
+            "ConditionAncestorTerm": "Cerebellar Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000013118",
+            "ConditionAncestorTerm": "Spinal Cord Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000020271",
+            "ConditionAncestorTerm": "Heredodegenerative Disorders, Nervous System"
+          },
+          {
+            "ConditionAncestorId": "D000019636",
+            "ConditionAncestorTerm": "Neurodegenerative Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000030342",
+            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M3717",
+            "ConditionBrowseLeafName": "Ataxia",
+            "ConditionBrowseLeafAsFound": "Ataxia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4925",
+            "ConditionBrowseLeafName": "Cerebellar Ataxia",
+            "ConditionBrowseLeafAsFound": "Ataxia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M15081",
+            "ConditionBrowseLeafName": "Spinocerebellar Degenerations",
+            "ConditionBrowseLeafAsFound": "Spinocerebellar Ataxia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21663",
+            "ConditionBrowseLeafName": "Spinocerebellar Ataxias",
+            "ConditionBrowseLeafAsFound": "Spinocerebellar Ataxia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19170",
+            "ConditionBrowseLeafName": "Machado-Joseph Disease",
+            "ConditionBrowseLeafAsFound": "Spinocerebellar Ataxia Type 3",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21727",
+            "ConditionBrowseLeafName": "Dyskinesias",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11556",
+            "ConditionBrowseLeafName": "Neurologic Manifestations",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4927",
+            "ConditionBrowseLeafName": "Cerebellar Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15067",
+            "ConditionBrowseLeafName": "Spinal Cord Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21245",
+            "ConditionBrowseLeafName": "Heredodegenerative Disorders, Nervous System",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20711",
+            "ConditionBrowseLeafName": "Neurodegenerative Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22839",
+            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T5352",
+            "ConditionBrowseLeafName": "Spinocerebellar Ataxia",
+            "ConditionBrowseLeafAsFound": "Spinocerebellar Ataxia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T5372",
+            "ConditionBrowseLeafName": "Spinocerebellar Ataxia 3",
+            "ConditionBrowseLeafAsFound": "Spinocerebellar Ataxia Type 3",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T5363",
+            "ConditionBrowseLeafName": "Spinocerebellar Ataxia 2",
+            "ConditionBrowseLeafAsFound": "Spinocerebellar Ataxia Type 2",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T5353",
+            "ConditionBrowseLeafName": "Spinocerebellar Ataxia 1",
+            "ConditionBrowseLeafAsFound": "Spinocerebellar Ataxia Type 1",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T5392",
+            "ConditionBrowseLeafName": "Spinocerebellar Ataxia Type 6",
+            "ConditionBrowseLeafAsFound": "Spinocerebellar Ataxia Type 6",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

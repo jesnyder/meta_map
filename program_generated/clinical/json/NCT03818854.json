@@ -1,0 +1,793 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03818854",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "UCSF-hMSC-ARDS-P1P2-12"
+      },
+      "Organization": {
+        "OrgFullName": "University of California, San Francisco",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stromal Cells For Acute Respiratory Distress Syndrome",
+      "OfficialTitle": "A Phase 2b, Randomized, Double-blind, Placebo-controlled, Multi-center Clinical Trial of Allogeneic Bone Marrow-derived Human Mesenchymal Stromal Cells (hMSCs) for the Treatment of Acute Respiratory Distress Syndrome",
+      "Acronym": "STAT"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Recruiting",
+      "StartDateStruct": {
+        "StartDate": "November 26, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 1, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 1, 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 24, 2019",
+      "StudyFirstSubmitQCDate": "January 25, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 28, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 20, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 24, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Michael A. Matthay",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "University of California, San Francisco"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Michael A. Matthay",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "United States Department of Defense",
+            "CollaboratorClass": "FED"
+          },
+          {
+            "CollaboratorName": "Harborview Injury Prevention and Research Center",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Oregon Health and Science University",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Vanderbilt University Medical Center",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "The University of Texas Health Science Center, Houston",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "University of Minnesota",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a Phase 2b, randomized, double-blind, placebo-controlled, multi-center study to assess the safety and efficacy of a single dose of Allogeneic Bone Marrow-derived Human Mesenchymal Stromal Cells (hMSCs) infusion in patients with Acute Respiratory Distress Syndrome (ARDS). This study is the extension of the Phase 1 pilot study (NCT01775774) and Phase 2a study (NCT02097641).",
+      "DetailedDescription": "This clinical study design is a randomized, double-blinded, placebo-controlled Phase 2b clinical trial using a 10 million cell/kg dose of human Mesenchymal Stromal Cells (hMSCs). Subjects will be randomized in a 1:1 randomization scheme to receive hMSCs or cell reconstitution media (1:1 mix of 5% human serum albumin and 10% Dextran 40) as the placebo; the study will enroll 120 patients who achieve a stable clinical baseline and receive study product (either hMSCs or the placebo).\n\nThe Data and Safety Monitoring Board (DSMB) will review adverse outcomes and protocol compliance. A pre-specified interim review will occur after 60 subjects have been enrolled and received study product; enrollment will continue during the DSMB review. All pre-specified clinically important events and unexpected serious adverse events including death during hospitalization up to 60 days will be reported to the DSMB on an ongoing basis; the study will be stopped for a safety evaluation by the DSMB if they have any concerns or if three subjects have pre-specified clinically important events or unexpected serious adverse events except death since death will be common in this critically ill population due the nature of the underlying illness (e.g., ARDS)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Respiratory Distress Syndrome, Adult"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Human Mesenchymal Stromal Cells",
+          "Acute Respiratory Distress Syndrome"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "For this Phase 2b trial, after informed consent is given, an assignment will be made by computer-generated randomization to administer either hMSCs therapy or placebo with a 1:1 allocation to the hMSCs:placebo arms.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "120",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Human Mesenchymal Stromal Cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "A single dose of 10 million cells/kg predicted body weight (PBW) Allogeneic Bone Marrow-Derived Human Mesenchymal Stromal Cells will administered intravenously over approximately 60-80 minutes.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Human Mesenchymal Stromal Cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cell Reconstitution Media",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "A single dose of cell reconstitution media (1:1 mix of 5% human serum albumin and 10% Dextran 40) will administered intravenously over approximately 60-80 minutes.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Cell Reconstitution Media"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Human Mesenchymal Stromal Cells",
+            "InterventionDescription": "Immediately prior to administration, the study product will be thawed and diluted 1:1 with reconstitution media (1:1 mix of 5% human serum albumin and 10% Dextran 40). Additional reconstitution media is added to a final product volume of 300 mL.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Human Mesenchymal Stromal Cells"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "hMSCs"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Cell Reconstitution Media",
+            "InterventionDescription": "300 mL of reconstitution media (1:1 mix of 5% human serum albumin and 10% Dextran 40)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cell Reconstitution Media"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change in oxygenation index (OI)",
+            "PrimaryOutcomeDescription": "Change in OI from baseline over the 36 hours following the infusion of study product",
+            "PrimaryOutcomeTimeFrame": "36 hours"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Acute Lung Injury Score (LIS)",
+            "SecondaryOutcomeDescription": "LIS over 7 days, or on the last day of positive pressure ventilation prior to day 7. The LIS is a composite 4-point scoring system including the PaO2/FiO2, PEEP, lung compliance, and the extent of infiltrates on the chest X-ray. Each of the four components is categorized from 0 to 4, where a higher number is worse. The total Lung Injury Score is obtained by dividing the aggregate sum by the number of components used.",
+            "SecondaryOutcomeTimeFrame": "7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Pulmonary Dead Space Fraction",
+            "SecondaryOutcomeDescription": "Pulmonary Dead Space at day 1, 2, 3 and 7. The dead-space fraction is calculated as: (PaCO2 - PeCO2) ÷ PaCO2",
+            "SecondaryOutcomeTimeFrame": "7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Chest radiograph assessment of pulmonary edema (RALE score)",
+            "SecondaryOutcomeDescription": "RALE score at day 1, 2, 3 and 7. To calculate RALE, each radiographic quadrant is scored for extent of consolidation (0-4) and density of opacification (1-3). The product of the consolidation and density scores for each of the four quadrants is summed. The RALE score ranges from 0 (best) to 48 (worst).",
+            "SecondaryOutcomeTimeFrame": "7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Ventilator free-days",
+            "SecondaryOutcomeDescription": "Ventilator free-days over 7, 14 and 28 days",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of assisted ventilation over 28 days",
+            "SecondaryOutcomeDescription": "Duration of assisted ventilation over 28 days in the survivors",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Percentage of patients achieving pressure support ventilation for 2 hours",
+            "SecondaryOutcomeDescription": "Percentage of patients achieving pressure support ventilation equal to 5 cm H2O with positive end-expiratory pressure (PEEP) equal to 5 cm H2O for 2 hours",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Occurrence of Infection",
+            "SecondaryOutcomeDescription": "Superficial incisional/wound infections, deep incisional wound infections, and organ/space infections, and ventilator associated pneumonia (all during the 14 days after enrollment)",
+            "SecondaryOutcomeTimeFrame": "14 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Sequential Organ Failure Assessment (SOFA) over 7 days",
+            "SecondaryOutcomeDescription": "SOFA score at 3 and 7 days. The score is based on six different scores, one each for the respiratory, cardiovascular, hepatic, coagulation, renal and neurological systems which are added up. Each score ranges from 0 to 4. SOFA score ranges from 0 (best) to 24 (worst).",
+            "SecondaryOutcomeTimeFrame": "7 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "All-cause hospital mortality",
+            "SecondaryOutcomeDescription": "All-cause hospital mortality at 14, 28 and 60 days",
+            "SecondaryOutcomeTimeFrame": "60 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Glasgow Outcome Score (GCS)",
+            "SecondaryOutcomeDescription": "Glasgow Outcome Score at hospital discharge. The GCS is a scale to evaluate level of consciousness in patients with acute brain injury. The scale assesses 3 functions: Eye Opening, Verbal Response, and Motor Response. GCS scores range from 15 (best) to 3 (worst)",
+            "SecondaryOutcomeTimeFrame": "60 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Percentage of patients occurred any thromboembolic events",
+            "SecondaryOutcomeDescription": "Thromboembolic events are measured by ultrasound of the deep venous system or CT-angiography of the chest ordered for clinical purposes/by treating clinicians",
+            "SecondaryOutcomeTimeFrame": "60 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Plasma angiopoietin-2",
+            "SecondaryOutcomeDescription": "Change in levels of plasma angiopoietin-2 from baseline compared to 6, 24, 48 and 72 hours",
+            "SecondaryOutcomeTimeFrame": "72 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Plasma Receptor for Advanced Glycation Endproducts (RAGE)",
+            "SecondaryOutcomeDescription": "Change in levels of plasma RAGE from baseline compared to 6, 24, 48 and 72 hours",
+            "SecondaryOutcomeTimeFrame": "72 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Plasma interleukin-6",
+            "SecondaryOutcomeDescription": "Change in levels of plasma interleukin-6 from baseline compared to 6, 24, 48 and 72 hours",
+            "SecondaryOutcomeTimeFrame": "72 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Plasma interleukin-8",
+            "SecondaryOutcomeDescription": "Change in levels of plasma interleukin-8 from baseline compared to 6, 24, 48 and 72 hours",
+            "SecondaryOutcomeTimeFrame": "72 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Plasma Soluble tumor necrosis factor 1 (sTNF-1)",
+            "SecondaryOutcomeDescription": "Change in levels of plasma sTNF-1 from baseline compared to 6, 24, 48 and 72 hours",
+            "SecondaryOutcomeTimeFrame": "72 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Plasma protein C",
+            "SecondaryOutcomeDescription": "Change in levels of plasma protein C from baseline compared to 6, 24, 48 and 72 hours",
+            "SecondaryOutcomeTimeFrame": "72 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Plasma lipoxin A4",
+            "SecondaryOutcomeDescription": "Change in levels of plasma lipoxin A4 from baseline compared to 6, 24, 48 and 72 hours",
+            "SecondaryOutcomeTimeFrame": "72 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Plasma Resolvin D1",
+            "SecondaryOutcomeDescription": "Change in levels of plasma Resolvin D1 from baseline compared to 6, 24, 48 and 72 hours",
+            "SecondaryOutcomeTimeFrame": "72 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Plasma angiopoietin-1",
+            "SecondaryOutcomeDescription": "Change in levels of plasma angiopoietin-1 from baseline compared to 6, 24, 48 and 72 hours",
+            "SecondaryOutcomeTimeFrame": "72 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Plasma keratinocyte growth factor (KGF)",
+            "SecondaryOutcomeDescription": "Change in levels of plasma KGF from baseline compared to 6, 24, 48 and 72 hours",
+            "SecondaryOutcomeTimeFrame": "72 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Urine microalbumin",
+            "SecondaryOutcomeDescription": "Change in levels of urine microalbumin from baseline compared to 24 and 48 hours",
+            "SecondaryOutcomeTimeFrame": "48 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Total protein in min-bronchoalveolar lavage (mBAL)",
+            "SecondaryOutcomeDescription": "Change in total protein levels in from baseline to day 2",
+            "SecondaryOutcomeTimeFrame": "2 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Tolerability of the hMSCs - incidence of pre-specified infusion-associated events and unexpected severe adverse events",
+            "SecondaryOutcomeDescription": "Tolerability of the hMSCs, defined as the incidence of pre-specified infusion-associated events and unexpected severe adverse events in ARDS patients treated with human MSCs",
+            "SecondaryOutcomeTimeFrame": "24 hours"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients will be eligible for inclusion if they meet all of the below criteria within 14 days of initial ICU admission. Criteria 1-3 must all be present within a 24-hour time period and at the time of enrollment:\n\nAcute onset (defined below) of:\n\nA need for positive pressure ventilation by an endotracheal or tracheal tube with a PaO2/FiO2 ratio <250 mmHg and ≥5 cm H2O positive end-expiratory airway pressure (PEEP), as per the Berlin Criteria.\nBilateral infiltrates consistent with pulmonary edema (defined below) on the frontal chest radiograph, or bilateral ground glass opacities on a chest CT scan.\nNo clinical evidence of left atrial hypertension as a primary explanation for the bilateral pulmonary infiltrates.\n\nIf the cause of ARDS is trauma, additional inclusion criteria will include ONE of the following relevant risk factors for developing ARDS:\n\nHypotension (systolic blood pressure[SBP] < 90 mmHg) in the field or in the first 24 h after injury, or\nTransfusion of 3 units of blood products in the first 24 hours following injury, or\nMeets the new Critical Administration Threshold (CAT) criteria with at least 3 units of blood in one hour, or\nBlunt or penetrating torso trauma, or\nLong bone fractures, or\nThe highest level of institutional trauma activation\n\nExclusion Criteria:\n\nAge less than 18 years\nGreater than 72 hours since first meeting ARDS criteria per the Berlin definition of ARDS\nGreater than 14 days since initial ICU admission\nInability to administer study product within 14 days of ICU admission\nPaO2/FiO2 ≥ 250 mmHg after consent obtained and before study product is administered\nUnable to obtain informed consent/no surrogate available\nPregnant or lactating\nIn custody of law enforcement officials\nBurns > 20% of total body surface area\nWHO Class III or IV pulmonary hypertension\nHistory of cancer treatment in the last 2 years except for non-melanotic skin cancers\nUnderlying medical condition for which 6-month mortality is estimated to be > 50%\nMoribund patient not expected to survive 24 hours\nAdvanced chronic liver disease (Child-Pugh Score > 12)\nSevere chronic respiratory disease with the use of home oxygen\n\nSevere traumatic brain injury - defined as:\n\nA patient who has undergone intracranial neurosurgical intervention for monitoring or therapy (intracranial pressure monitoring, external ventricular drain, craniotomy), or\nIntracranial injury by head CT (does not include patients with minimal subarachnoid injury and/or minor skull fracture), or\nPost-resuscitation Glasgow Coma Score (GCS) < 9 assessed after sedation interruption, or\nNon-survivable head injury as assessed by neurosurgery\nEvidence of anoxic brain injury\nHistory of stroke within the last 3 years\nNo intent/unwillingness to follow lung protective ventilation strategy\nCurrently receiving extracorporeal life support (ECLS) or high-frequency oscillatory ventilation (HFOV)\nAnticipated extubation within 24 hours of enrollment\nClinical evidence of left atrial hypertension as measured by a pulmonary arterial wedge pressure > 18mmHg or left ventricular failure measured by an echocardiogram with a left ventricular ejection fraction less than 40%. Clinical judgement will determine if either of these measurements needs to be carried out.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Michael Matthay, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "415-353-1206",
+            "CentralContactEMail": "michael.matthay@ucsf.edu"
+          },
+          {
+            "CentralContactName": "Hanjing Zhuo, MPH",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "415-502-7434",
+            "CentralContactEMail": "hanjing.zhuo@ucsf.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Michael Matthay, MD",
+            "OverallOfficialAffiliation": "University of California, San Francisco",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of California Davis Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Sacramento",
+            "LocationState": "California",
+            "LocationZip": "95817",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Rachael Callcut, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "916-547-9995",
+                  "LocationContactEMail": "racallcut@ucdavis.edu"
+                },
+                {
+                  "LocationContactName": "Timothy Albertson, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Zuckerberg San Francisco General Hospital and Trauma Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "San Francisco",
+            "LocationState": "California",
+            "LocationZip": "94110",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Carolyn M Hendrickson, MD, MPH",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "628-206-8289",
+                  "LocationContactEMail": "Carolyn.Hendrickson@ucsf.edu"
+                },
+                {
+                  "LocationContactName": "Carolyn M Hendrickson, MD, MPH",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Lucy Kornblith, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "University of California San Francisco",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "San Francisco",
+            "LocationState": "California",
+            "LocationZip": "94143",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Michael Matthay, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "415-353-1206",
+                  "LocationContactEMail": "michael.matthay@ucsf.edu"
+                },
+                {
+                  "LocationContactName": "Hanjing Zhuo, MPH",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "415-502-7434",
+                  "LocationContactEMail": "hanjing.zhuo@ucsf.edu"
+                },
+                {
+                  "LocationContactName": "Michael A Matthay, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Carolyn S Calfee, MD, MD, MAS",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Kathleen D Liu, MD, PhD, MAS",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Kirsten N Kangelaris, MD, MAS",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Oregon Health & Science University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Portland",
+            "LocationState": "Oregon",
+            "LocationZip": "97239",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Martin A Schreiber, MD, FACS",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "503-494-6518",
+                  "LocationContactEMail": "schreibm@ohsu.edu"
+                },
+                {
+                  "LocationContactName": "Martin Schreiber, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Akram Khan, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "David Zonies, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Vanderbilt University Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Nashville",
+            "LocationState": "Tennessee",
+            "LocationZip": "37232",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Lorraine B Ware, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "615-322-7872",
+                  "LocationContactEMail": "lorraine.ware@Vanderbilt.edu"
+                },
+                {
+                  "LocationContactName": "Lorraine B Ware, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Oscar Guillamondegui, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Jonathan Casey, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Memorial Hermann Hospital - Texas Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77030",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Laura H Moore, MD, FACS",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "713-500-7217",
+                  "LocationContactEMail": "laura.j.moore@uth.tmc.edu"
+                },
+                {
+                  "LocationContactName": "Laura H Moore, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Charles E Wade, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Charles Cox, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Erin Fox, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Lillian Kao, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Bela Patel, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Farrakh Khawanja, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Harborview Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seattle",
+            "LocationState": "Washington",
+            "LocationZip": "98112",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Bryce RH Robinson, MD, MS",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "206-482-2277",
+                  "LocationContactEMail": "brobinso@uw.edu"
+                },
+                {
+                  "LocationContactName": "Bryce Robinson, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Nick Johnson, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No",
+      "IPDSharingDescription": "We do not have plan to share IPD data to other researchers."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012128",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000012127",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome, Newborn"
+          },
+          {
+            "ConditionMeshId": "D000055371",
+            "ConditionMeshTerm": "Acute Lung Injury"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007235",
+            "ConditionAncestorTerm": "Infant, Premature, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007232",
+            "ConditionAncestorTerm": "Infant, Newborn, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000055370",
+            "ConditionAncestorTerm": "Lung Injury"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27296",
+            "ConditionBrowseLeafName": "Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9431",
+            "ConditionBrowseLeafName": "Infant, Premature, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9428",
+            "ConditionBrowseLeafName": "Infant, Newborn, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M6258",
+            "InterventionBrowseLeafName": "Dextrans",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "AnCoag",
+            "InterventionBrowseBranchName": "Anticoagulants"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "BlSubst",
+            "InterventionBrowseBranchName": "Blood Substitutes"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

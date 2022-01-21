@@ -1,0 +1,222 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04247945",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MSC-SCT-03"
+      },
+      "Organization": {
+        "OrgFullName": "Fujian Medical University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Co-transplantation of MSC in the Setting of Allo-HSCT",
+      "OfficialTitle": "Co-transplantation of Mesenchymal Stromal Cells in Allogeneic Hematopoietic Stem Cell Transplantation"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 1, 2020",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 1, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 1, 2025",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 28, 2020",
+      "StudyFirstSubmitQCDate": "January 29, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 30, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 29, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 30, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Ting YANG",
+        "ResponsiblePartyInvestigatorTitle": "Professor of Hematology",
+        "ResponsiblePartyInvestigatorAffiliation": "Fujian Medical University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Fujian Medical University",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Mesenchymal stem cells (MSCs) are known to exhibit immunomodulatory, anti-inflammatory, and pro-angiogenic properties, and therefore have the potential to improve the outcome of allogeneic hematopoietic stem cell transplantation (allo-HSCT) .The study is aimed to identify and evaluate the potential benefits of MSCs infusion during allogeneic HSCT, with regard to the engraftment, graft versus host disease (GVHD), post-transplant relapse and survival."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Allogeneic Hematopoietic Stem Cell Transplantation"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2",
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Prevention",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "120",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "HSC",
+            "ArmGroupType": "No Intervention"
+          },
+          {
+            "ArmGroupLabel": "MSC+HSC",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Cotransplant with MSCs"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Cotransplant with MSCs",
+            "InterventionDescription": "Co-transplantation of MSCs during allogeneic HSCT",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC+HSC"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Survival Rate",
+            "PrimaryOutcomeTimeFrame": "up to 2 years after HSCT"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Cumulative Incidence of Graft-versus Host Disease",
+            "SecondaryOutcomeTimeFrame": "up to 2 years after HSCT"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of Systemic Infections",
+            "SecondaryOutcomeTimeFrame": "up to 2 years after HSCT"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Mean Time to Engraftment",
+            "SecondaryOutcomeTimeFrame": "Baseline to engraftment, assessed minimally 28 days post transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Transplant-Related Mortality",
+            "SecondaryOutcomeTimeFrame": "up to 1 months after HSCT"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Rates of Relapse",
+            "SecondaryOutcomeTimeFrame": "up to 2 years after HSCT"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSigned written informed consent\nAged <65 years\nWilling to transplant\nCardiac: Left ventricular ejection fraction ≥ 50%\nAdequate renal and hepatic function\nPerformance status: Karnofsky ≥ 70%\n\nExclusion Criteria:\n\nPregnant or lactating females.\nAny co-morbidity precluding the administration of MSCs.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Ting Yang, Prof.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86-591-86218041",
+            "CentralContactEMail": "yang.hopeting@gmail.com"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Union Hospital,Fujian Medical University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Fuzhou",
+            "LocationState": "Fujian",
+            "LocationZip": "350001",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Ting Yang, Prof.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+86-591-86218041",
+                  "LocationContactEMail": "yang.hopeting@gmail.com"
+                },
+                {
+                  "LocationContactName": "Jianda Hu, Prof.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+86-591-86218041",
+                  "LocationContactEMail": "jdhu@medmail.com.cn"
+                },
+                {
+                  "LocationContactName": "Ting Yang, Dr.",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    }
+  }
+}

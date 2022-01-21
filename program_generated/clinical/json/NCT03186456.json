@@ -1,0 +1,542 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03186456",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "SCLnow-IMIMH-02"
+      },
+      "Organization": {
+        "OrgFullName": "Sclnow Biotechnology Co., Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "The Safety and Efficacy of Human Umbilical Cord Mesenchymal Stem Cells in the Treatment of Acute Cerebral Infarction",
+      "OfficialTitle": "Study the Safety and Efficacy of Human Umbilical Cord-derived Mesenchymal Stem Cells in the Treatment of Acute Cerebral Infarction"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2020",
+      "OverallStatus": "Suspended",
+      "WhyStopped": "Others",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 6, 2017",
+      "StudyFirstSubmitQCDate": "June 12, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 14, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 21, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 23, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Sclnow Biotechnology Co., Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purposes of the study is to determine the safety and efficacy of treating acute ischemic stroke patients with human umbilical cord mesenchymal stem cells (hUC-MSC).",
+      "DetailedDescription": "This is a randomized, double-blind, paralleled study. 40 patients will be separated into two groups, and receive basic treatment (Aspirin Tablet). Patients in experimental group will receive hUC-MSC once a month, total 3 times. After the treatment, investigator will have follow-up visit for 6 months, evaluate the security and efficacy of hUC-MSC."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Cerebral Infarction"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "acute cerebral infarction",
+          "umbilical cord mesenchymal stem cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Group 1",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Aspirin Tablet, 100mg/d; Allogeneic umbilical cord mesenchymal stem cells, 0.5-1*10^6/kg",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Allogeneic umbilical cord mesenchymal stem cells (SCLnow 19#)",
+                "Drug: Aspirin Tablet"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group 2",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Aspirin Tablet, 100mg/d; Placebo",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Aspirin Tablet"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Allogeneic umbilical cord mesenchymal stem cells (SCLnow 19#)",
+            "InterventionDescription": "Allogeneic umbilical cord mesenchymal stem cells will transfusion into by forearm intravenous transplantation, 0.5 - 1 *10^6/kg. once a month, total 3 times.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group 1"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Aspirin Tablet",
+            "InterventionDescription": "Drug: Aspirin Tablet, 100 mg/d",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group 1",
+                "Group 2"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Treatment related-adverse events counting",
+            "PrimaryOutcomeDescription": "patients will be monitored for any adverse events resulting from the treatment of Human Umbilical Cord Mesenchymal Stem Cells",
+            "PrimaryOutcomeTimeFrame": "26 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Modified Rankin Scale",
+            "SecondaryOutcomeDescription": "After the first time transplantation, follow-up visit for 26 weeks. Based on Modified Rankin Scale, counting the percentage of different symptom changes to evaluate MSC efficacy:\n\nthe percentage of participants run from 0-1, no symptom or no significant disability.\nthe percentage of participants run from 0-2, no symptom or slight disability.\nthe percentage of participants decline 2 scales compare to baseline.\nthe percentage of participants decline 1 scale compares to baseline.",
+            "SecondaryOutcomeTimeFrame": "26 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Barthel activities of daily living (ADL) Index",
+            "SecondaryOutcomeDescription": "Based on Activity of Daily Living Scale (ADL) to counting the percentage of patients in following condition:\n\nthe percentage of patients with score > 75\nthe decline of Barthel ADL Index range compares to baseline. Evaluate the efficacy of MSCs treatment",
+            "SecondaryOutcomeTimeFrame": "26 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "NIH stroke scale (NIHSS)",
+            "SecondaryOutcomeDescription": "According to NIHSS changes after the treatment, evaluate MSCs efficacy by counting the percentage of patients in following condition:\n\nthe percentage of patients with score 0-1;\nthe percentage of patients with score declined 7 compare to baseline;\nthe percentage of patients with score declined 50% compare to baseline;\nthe declined ranges compare to baseline",
+            "SecondaryOutcomeTimeFrame": "26 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatient within 2 weeks onset of symptoms.\nSymptoms and signs of clinically definite acute cerebral infarction patients.\nCT/MRI prove the Oxfordshire Community Stroke Project (OCSP) as Total Anterior circulation infarct (TACI), Partial Anterior circulation infarct (PACI), Posterior Anterior circulation infarct (POCI), or obvious neurological deficit lacunar infarction patient.\nSigned informed consent after understanding all possible benefits and harm.\n\nExclusion Criteria:\n\nallergic to basic drug\nwith progressive stroke, transient ischemia attach, cerebral infarction with posterior cerebral hemorrhage, and cerebral arteritis.\ntumor, injury, and parasites caused cerebral embolism\nrheumatic heart disease, coronary heart disease, and other atrial fibrillation combined heart disease caused cerebral embolism\nsubject is processing thrombolytic therapy\nsubject is pregnancy and of childbearing potential or breast feeding\nparticipate in any other clinical trial in last 3 months\nbleeding tendency patient; severe bleeding tendency in last 3 month\nwith gastric duodenal ulcer\nparticipants with severe liver and kidney, hematopoietic, and metabolic diseases; Or with liver and kidney function examination abnormal\nparticipants are intolerance with Aspirin Enteric-coated Tablets, or need other antiplatelet drugs\nparticipants: alcoholism, drug addicted, or other situations may complicated the results\nunder other therapy that possibly influence MSC security or efficacy\ninvestigator supposes not suitable to participate this clinical trail",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "40 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Temuqile",
+            "OverallOfficialAffiliation": "Inner Mongolia International Mongolian Hospital",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Lei Guo, Dr.",
+            "OverallOfficialAffiliation": "China-Japan Union Hospital, Jilin University",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Inner Mongolia International Mongolian Hospital",
+            "LocationCity": "Hohhot",
+            "LocationState": "Inner Mongolia",
+            "LocationZip": "010065",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000002544",
+            "ConditionMeshTerm": "Cerebral Infarction"
+          },
+          {
+            "ConditionMeshId": "D000007238",
+            "ConditionMeshTerm": "Infarction"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007511",
+            "ConditionAncestorTerm": "Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000009336",
+            "ConditionAncestorTerm": "Necrosis"
+          },
+          {
+            "ConditionAncestorId": "D000020520",
+            "ConditionAncestorTerm": "Brain Infarction"
+          },
+          {
+            "ConditionAncestorId": "D000002545",
+            "ConditionAncestorTerm": "Brain Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000002561",
+            "ConditionAncestorTerm": "Cerebrovascular Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000020521",
+            "ConditionAncestorTerm": "Stroke"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9434",
+            "ConditionBrowseLeafName": "Infarction",
+            "ConditionBrowseLeafAsFound": "Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4945",
+            "ConditionBrowseLeafName": "Cerebral Infarction",
+            "ConditionBrowseLeafAsFound": "Cerebral Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11436",
+            "ConditionBrowseLeafName": "Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21458",
+            "ConditionBrowseLeafName": "Brain Infarction",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4946",
+            "ConditionBrowseLeafName": "Brain Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4962",
+            "ConditionBrowseLeafName": "Cerebrovascular Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21459",
+            "ConditionBrowseLeafName": "Stroke",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000001241",
+            "InterventionMeshTerm": "Aspirin"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000894",
+            "InterventionAncestorTerm": "Anti-Inflammatory Agents, Non-Steroidal"
+          },
+          {
+            "InterventionAncestorId": "D000018712",
+            "InterventionAncestorTerm": "Analgesics, Non-Narcotic"
+          },
+          {
+            "InterventionAncestorId": "D000000700",
+            "InterventionAncestorTerm": "Analgesics"
+          },
+          {
+            "InterventionAncestorId": "D000018689",
+            "InterventionAncestorTerm": "Sensory System Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018373",
+            "InterventionAncestorTerm": "Peripheral Nervous System Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000000893",
+            "InterventionAncestorTerm": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000005343",
+            "InterventionAncestorTerm": "Fibrinolytic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000050299",
+            "InterventionAncestorTerm": "Fibrin Modulating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000010975",
+            "InterventionAncestorTerm": "Platelet Aggregation Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000016861",
+            "InterventionAncestorTerm": "Cyclooxygenase Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000058633",
+            "InterventionAncestorTerm": "Antipyretics"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3700",
+            "InterventionBrowseLeafName": "Aspirin",
+            "InterventionBrowseLeafAsFound": "Symptoms",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3369",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3370",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents, Non-Steroidal",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3184",
+            "InterventionBrowseLeafName": "Analgesics",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19939",
+            "InterventionBrowseLeafName": "Analgesics, Non-Narcotic",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M7625",
+            "InterventionBrowseLeafName": "Fibrinolytic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M13017",
+            "InterventionBrowseLeafName": "Platelet Aggregation Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M18361",
+            "InterventionBrowseLeafName": "Cyclooxygenase Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M28329",
+            "InterventionBrowseLeafName": "Antipyretics",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Antipy",
+            "InterventionBrowseBranchName": "Antipyretics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infl",
+            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "FiAg",
+            "InterventionBrowseBranchName": "Fibrinolytic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Analg",
+            "InterventionBrowseBranchName": "Analgesics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "PlAggInh",
+            "InterventionBrowseBranchName": "Platelet Aggregation Inhibitors"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

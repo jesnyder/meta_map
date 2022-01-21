@@ -1,0 +1,556 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02580747",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "s2015-080-06"
+      },
+      "Organization": {
+        "OrgFullName": "Chinese PLA General Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Treatment of Relapsed and/or Chemotherapy Refractory Advanced Malignancies by CART-meso",
+      "OfficialTitle": "Clinical Study of Chimeric Mesothelin Antigen Receptor-modified T Cells in Relapsed and/or Chemotherapy Refractory Malignancies"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2015",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 2015"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 2017",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 2018",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 19, 2015",
+      "StudyFirstSubmitQCDate": "October 19, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 20, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "October 19, 2015",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 20, 2015",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Han weidong",
+        "ResponsiblePartyInvestigatorTitle": "PI",
+        "ResponsiblePartyInvestigatorAffiliation": "Chinese PLA General Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Chinese PLA General Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "RATIONALE: Placing a tumor antigen chimeric receptor that has been created in the laboratory into patient autologous or donor-derived T cells may make the body build immune response to kill cancer cells.\n\nPURPOSE: This clinical trial is studying genetically engineered lymphocyte therapy in treating patients with Relapsed and/or Chemotherapy Refractory Advanced Malignancies.",
+      "DetailedDescription": "I. Determine the safety and feasibility of the chimeric antigen receptor T cells transduced with the anti-meso vector (referred to as CART-meso cells).\n\nII. Determine duration of in vivo survival of CART-meso cells. RT-PCR (reverse transcription polymerase chain reaction) analysis of whole blood will be used to detect and quantify survival of CART-meso TCR (T-cell receptor) zeta:CD137 over time.\n\nSECONDARY OBJECTIVES:\n\nI. For patients with detectable disease, measure anti-tumor response due to CART-meso cell infusions.\n\nII. Estimate relative trafficking of CART-meso cells to tumor in bone marrow and lymph nodes.\n\nIII. For patients with stored or accessible tumor cells determine tumor cell killing by CART-meso cells in vitro.\n\nIV. Determine if cellular or humoral host immunity develops against the murine anti-meso, and assess correlation with loss of detectable CART-meso (loss of engraftment).\n\nV. Determine the relative subsets of CART-meso T cells (Tcm, Tem, and Treg)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Malignant Mesothelioma",
+          "Pancreatic Cancer",
+          "Ovarian Tumor",
+          "Triple Negative Breast Cancer",
+          "Endometrial Cancer",
+          "Other Mesothelin Positive Tumors"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "20",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "anti-meso CAR T cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Dose escalation will occur using a standard 3+3 dose escalation approach, beginning in dose level I with dose cohorts and rules for escalation and de-escalation.\n\nPatients receive anti-meso-CAR retroviral vector-transduced autologous-derived T cells on days 0, 1, 2 in the absence of disease progression or unacceptable toxicity.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: anti-meso-CAR vector transduced T cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "anti-meso-CAR vector transduced T cells",
+            "InterventionDescription": "genetically engineered lymphocyte therapy",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "anti-meso CAR T cells"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "genetically engineered lymphocyte therapy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Occurrence of Study related adverse events",
+            "PrimaryOutcomeDescription": "defined as >= Grade 3 signs/symptoms, laboratory toxicities, and clinical",
+            "PrimaryOutcomeTimeFrame": "Until week 24"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Anti-tumor responses to CART-meso cell infusions",
+            "SecondaryOutcomeTimeFrame": "up to 24 weeks"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "In vivo existence of CART-meso",
+            "OtherOutcomeTimeFrame": "1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nChemotherapy refractory or relapsed mesothelin positive malignant mesothelioma,ovarian tumors,pancreatic cancer,triple negative breast cancer,endometrial cancer and other mesothelin positive tumor\nPatients must be 18 years of age or older.\nPatients must have an ECOG (Eastern Cooperative Oncology Group )performance status of 0-2.\n\nPatients must have evidence of adequate bone marrow reserve, hepatic and renal function as evidenced by the following laboratory parameters:\n\nAbsolute neutrophil count greater than 1500/mm3. Platelet count greater than 100,000/mm3. Hemoglobin greater than 10g/dl (patients may receive transfusions to meet this parameter).\n\nTotal bilirubin < 1.5 times upper limits of normal. Serum creatinine less than or equal to 1.6 mg/ml or the creatinine clearance must be greater than 70 ml/min/1.73m.\n\nSeronegative for HIV antibody.\nSeronegative for active hepatitis B, and seronegative for hepatitis C antibody.\nPatients must be willing to practice birth control during and for four months following treatment. NOTE: women of child-bearing age must have evidence of negative pregnancy test.\nPatients must be willing to sign an informed consent.\n\nExclusion Criteria:\n\nPatients with life expectancy less than 12 months will be excluded.\nPatients with uncontrolled hypertension (> 160/95), unstable coronary disease evidenced by uncontrolled arrhythmias, unstable angina, decompensated congestive heart failure (> New York Heart Association Class II), or myocardial infarction within 6 months of study will be excluded.\nPatients with any of the following pulmonary function abnormalities will be excluded: FEV(forced expiratory volume), < 30% predicted; DLCO (diffusing capacity of lung for carbon monoxide) < 30% predicted (post-bronchodilator); Oxygen Saturation less than 90% on room air.\nPatients with severe liver and kidney dysfunction or consciousness disorders will be excluded.\nPregnant and/or lactating women will be excluded.\nPatients with active infections, including HIV, will be excluded, due to unknown effects of the vaccine on lymphoid precursors.\nPatients with any type of primary immunodeficiencies will be excluded from the study.\nPatients requiring corticosteroids (other than inhaled) will be excluded.\nPatients with history of T cell tumors will be excluded.\nPatients who are participating or participated any other clinical trials in latest 30 days will be excluded.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Weidong Han, Dr.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "86-10-13651392893",
+            "CentralContactEMail": "hanwdrsw@sina.com"
+          },
+          {
+            "CentralContactName": "Yao Wang, Dr.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "86-10-13311390785",
+            "CentralContactEMail": "wangyao301@163.com"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Biotherapeutic Department and Pediatrics Department of Chinese PLA General Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Beijing",
+            "LocationState": "Beijing",
+            "LocationZip": "100853",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Weidong Han, Dr.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "86-10-66937463",
+                  "LocationContactEMail": "hanwdrsw@sina.com"
+                },
+                {
+                  "LocationContactName": "Yao Wang, Dr.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "86-10-66937376",
+                  "LocationContactEMail": "wangyao301@163.com"
+                },
+                {
+                  "LocationContactName": "Yao Wang, Dr.",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000016889",
+            "ConditionMeshTerm": "Endometrial Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000064726",
+            "ConditionMeshTerm": "Triple Negative Breast Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000008654",
+            "ConditionMeshTerm": "Mesothelioma"
+          },
+          {
+            "ConditionMeshId": "D000086002",
+            "ConditionMeshTerm": "Mesothelioma, Malignant"
+          },
+          {
+            "ConditionMeshId": "D000010051",
+            "ConditionMeshTerm": "Ovarian Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000004701",
+            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014594",
+            "ConditionAncestorTerm": "Uterine Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000005833",
+            "ConditionAncestorTerm": "Genital Neoplasms, Female"
+          },
+          {
+            "ConditionAncestorId": "D000014565",
+            "ConditionAncestorTerm": "Urogenital Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000014591",
+            "ConditionAncestorTerm": "Uterine Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001943",
+            "ConditionAncestorTerm": "Breast Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000001941",
+            "ConditionAncestorTerm": "Breast Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012871",
+            "ConditionAncestorTerm": "Skin Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000000236",
+            "ConditionAncestorTerm": "Adenoma"
+          },
+          {
+            "ConditionAncestorId": "D000009375",
+            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000018301",
+            "ConditionAncestorTerm": "Neoplasms, Mesothelial"
+          },
+          {
+            "ConditionAncestorId": "D000008175",
+            "ConditionAncestorTerm": "Lung Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000012142",
+            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000013899",
+            "ConditionAncestorTerm": "Thoracic Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000010997",
+            "ConditionAncestorTerm": "Pleural Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000010049",
+            "ConditionAncestorTerm": "Ovarian Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000000291",
+            "ConditionAncestorTerm": "Adnexal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006058",
+            "ConditionAncestorTerm": "Gonadal Disorders"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12126",
+            "ConditionBrowseLeafName": "Ovarian Neoplasms",
+            "ConditionBrowseLeafAsFound": "Ovarian Tumors",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4372",
+            "ConditionBrowseLeafName": "Breast Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12262",
+            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M29526",
+            "ConditionBrowseLeafName": "Triple Negative Breast Neoplasms",
+            "ConditionBrowseLeafAsFound": "Triple Negative Breast Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10786",
+            "ConditionBrowseLeafName": "Mesothelioma",
+            "ConditionBrowseLeafAsFound": "Mesothelioma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2538",
+            "ConditionBrowseLeafName": "Mesothelioma, Malignant",
+            "ConditionBrowseLeafAsFound": "Malignant Mesothelioma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18387",
+            "ConditionBrowseLeafName": "Endometrial Neoplasms",
+            "ConditionBrowseLeafAsFound": "Endometrial Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7015",
+            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16494",
+            "ConditionBrowseLeafName": "Uterine Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8097",
+            "ConditionBrowseLeafName": "Genital Neoplasms, Female",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16467",
+            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16491",
+            "ConditionBrowseLeafName": "Uterine Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4370",
+            "ConditionBrowseLeafName": "Breast Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14826",
+            "ConditionBrowseLeafName": "Skin Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2743",
+            "ConditionBrowseLeafName": "Adenoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11472",
+            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19598",
+            "ConditionBrowseLeafName": "Neoplasms, Mesothelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10324",
+            "ConditionBrowseLeafName": "Lung Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14131",
+            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15810",
+            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13039",
+            "ConditionBrowseLeafName": "Pleural Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12124",
+            "ConditionBrowseLeafName": "Ovarian Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2795",
+            "ConditionBrowseLeafName": "Adnexal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8315",
+            "ConditionBrowseLeafName": "Gonadal Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4352",
+            "ConditionBrowseLeafName": "Ovarian Cancer",
+            "ConditionBrowseLeafAsFound": "Ovarian Tumors",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T4387",
+            "ConditionBrowseLeafName": "Pancreatic Cancer",
+            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T3584",
+            "ConditionBrowseLeafName": "Malignant Mesothelioma",
+            "ConditionBrowseLeafAsFound": "Malignant Mesothelioma",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

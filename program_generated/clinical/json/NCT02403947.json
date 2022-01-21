@@ -1,0 +1,358 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02403947",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "12 394 03"
+      },
+      "Organization": {
+        "OrgFullName": "University Hospital, Toulouse",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "MEsenchymal StEm Cells for Multiple Sclerosis",
+      "OfficialTitle": "Treatment of Multiple Sclerosis With Mesenchymal Stem Cells: Phase I/II Study",
+      "Acronym": "MESEMS"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2018",
+      "OverallStatus": "Terminated",
+      "WhyStopped": "inclusion default",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 2015"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2017",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2017",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "March 9, 2015",
+      "StudyFirstSubmitQCDate": "March 25, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 31, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "November 29, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 3, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Hospital, Toulouse",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Multiple sclerosis (MS) is a chronic inflammatory disease of the central nervous system (CNS), which ultimately leads to myelin damage and axonal loss. The disease is complex and multifactorial, but the key pathogenic event appears to be an uncontrolled response of components of the immune system (T and B lymphocytes) to myelin proteins. No definitive treatment is available for MS, however immunomodulatory and immunosuppressant drugs act as disease-modifying agents (DMDs).\n\nUnfortunately, the current treatments demonstrate partial efficacy in targeting the deleterious immune reactions. According to the present knowledge of the pathophysiology of MS, an ideal therapeutic strategy would be to modulate or suppress the aggressive immune process, to protect axons and neurons from degeneration, and to enhance repair and facilitate remyelination.\n\nA specific form of stem cells, called adult mesenchymal stem cells (MSCs), has shown remarkable ability to modulate the immune response. This study will evaluate the safety of injecting MSCs in people with MS.",
+      "DetailedDescription": "MSCs have the remarkable ability to modulate the immune response mainly by inhibiting proliferation of T cells and to protect injured tissues through paracrine mechanisms. There is an urgent need to evaluate the real efficacy of MSC transplantation, and its possible position in the current therapeutic armamentarium. An international panel of MS neurology and stem cell experts, as well as immunologists formed an \"International Mesenchymal Stem Cells Transplantation\" (MSCT) Study Group with the aim to derive a consensus on what cells should be used for transplantation and develop a treatment protocol and an experimental program that will eventually attest to the efficacy of MSC transplantation and understand the mechanism that underlie the benefit. 12 patients with MS will be treated with IV injections of autologous isolated and expanded mesenchymal stem cells. Clinical and objective evaluations will be performed at baseline and during 12 months follow-up."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Multiple Sclerosis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Multiple Sclerosis",
+          "Bone-marrow",
+          "Stem cells",
+          "Cell therapy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Crossover Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "1",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Mesenchymal stem cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "At week 0 a single infusion of either ex-vivo expanded autologous MSC or suspension media will be administered intravenously at a dose of 1-2 x 1000000 MSC/Kg body weight. At week 24, another infusion will be performed for cross-over re-treatment: at week 24 treatments will be reversed compared to week 0",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Suspension media",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "At week 0 a single infusion of either ex-vivo expanded autologous MSC or suspension media will be administered intravenously at a dose of 1-2 x 1000000 MSC/Kg body weight. At week 24, another infusion will be performed for cross-over re-treatment: at week 24 treatments will be reversed compared to week 0",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Suspension media"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Mesenchymal stem cells",
+            "InterventionDescription": "After the sampling of bone-marrow and culture of MSCs by the French Blood Establishment (Midi-Pyrénées), patients will receive an IV injection of MSCs.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Suspension media",
+            "InterventionDescription": "injection suspension media",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Suspension media"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety of MSCs infusion, number, timeframe of occurrence and severity of Adverse Events",
+            "PrimaryOutcomeDescription": "Safety assessed by number, timeframe of occurrence and severity of Adverse Events",
+            "PrimaryOutcomeTimeFrame": "24 weeks from the first infusion"
+          },
+          {
+            "PrimaryOutcomeMeasure": "efficacy: number of contrast-enhancing lesions (GEL) at MRI scan",
+            "PrimaryOutcomeDescription": "total number of contrast-enhancing lesions (GEL) at MRI scan",
+            "PrimaryOutcomeTimeFrame": "24 weeks from the first infusion"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Efficacy of the experimental treatment in term of combined MRI activity",
+            "SecondaryOutcomeDescription": "Number of GEL counted over week 28, 36 and 48 compared with the number of GEL counted over 4, 12 and 24 weeks.",
+            "SecondaryOutcomeTimeFrame": "48 weeks from the first infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Efficacy assessed by combined unique MRI activity, volume of GEL, and volume of BH",
+            "SecondaryOutcomeDescription": "Combined unique MRI activity (number of new or enlarging T2, or enhancing or re-enhancing lesions), volume of GEL and volume of black holes (BH) over 4, 12, 24 weeks compared between treatment groups.",
+            "SecondaryOutcomeTimeFrame": "24 weeks from the first infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Efficacy assessed by combined unique MRI activity, volume of GEL and volume of BH",
+            "SecondaryOutcomeDescription": "Combined unique MRI activity, volume of GEL and volume of BH over week 28, 36 and 48 compared with the same outcomes over 4, 12 and 24 weeks.",
+            "SecondaryOutcomeTimeFrame": "48 weeks from the first infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Efficacy: Number of relapses",
+            "SecondaryOutcomeDescription": "Number of relapses in MSC treatment group vs. placebo group in the first 24 weeks and after cross-over re-treatment in the two groups.",
+            "SecondaryOutcomeTimeFrame": "24 weeks from the first infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Efficacy: Time to sustained progression of disability",
+            "SecondaryOutcomeDescription": "Time to sustained progression of disability compared between treatment groups during the first 24 weeks and after cross-over",
+            "SecondaryOutcomeTimeFrame": "24 weeks from the first infusion"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge 18 to 50 years\nDisease duration 2 to 10 years (included)\nDiagnosis of MS\n\nRelapsing remitting MS (RRMS) not responding to at least a year of attempted therapy with one or more of the approved therapies (beta-interferon, glatiramer acetate, natalizumab, mitoxantrone, fingolimod) as evidenced by one or more of the following:\n\nmore or egal 1 clinically documented relapse in past 12 months\nmore or egal 2 clinically documented relapses in last 24 months\nmore or egal 1 GEL at MRI performed within the last 12 months\n\nSecondary progressive MS (SPMS) not responding to at least a year of attempted therapy with one or more of the approved therapies (beta-interferon, glatiramer acetate, natalizumab, mitoxantrone, fingolimod) as evidenced by both::\n\nWith more or egal 1 clinically documented relapse in the last twelve months\nWithout on-going relapses, but with more or egal 1 GEL at MRI performed within the last 12 months.\n\nPrimary progressive MS (PPMS) patients with all the following features:\n\nan increase ofmore or egal 1 EDSS point (if at inclusion EDSS inferior or egal 5.0) or 0.5 EDSS point (if at inclusion EDSS more or egal 5.5), in the last twelve months\nmore or egal 1 GEL at MRI performed within the last 12 months\n\nPositive cerebrospinal fluid (CSF) (oligoclonal banding).\n\nEDSS (Expanded Disability Status Scale) 3.0 to 6.5\nWomen of childbearing age with an effective contraception.\n\nExclusion Criteria:\n\nRRMS not fulfilling inclusion criteria\nSPMS not fulfilling inclusion criteria\nPPMS not fulfilling inclusion criteria\nInferior to 3 months since treatment with any immunosuppressive therapy including natalizumab and fingolimod\nInferior or egal to 1 month since last treatment with interferon-beta or glatiramer acetate\nCorticosteroid treatment Inferior or egal to 30 days\nRelapse inferior or egal to 60 days\nAny active or chronic infection including infection with HIV1-2 (Human Immunodeficiency Virus 2) or HTLV I-II (Human T-lymphotropic virus I-II) or Syphilis or chronic Hepatitis B or Hepatitis C inferior to 1 month\nPrevious history of a malignancy other than basal cell carcinoma of the skin or carcinoma in situ that has been in remission for more than one year\nSeverely limited life expectancy by another co-morbid illness\nHistory of previous diagnosis of myelodysplasia or previous hematologic disease or current clinically relevant abnormalities of white blood cell counts\nPregnancy or risk or pregnancy (this includes patients that are unwilling to practice active contraception during the duration of the study)**\neGFR (estimated Glomerular Filtration Rate ) inferior to 60 mL/min/1.73m2 or known renal failure or inability to undergo MRI examination.\nInability to give written informed consent in accordance with research ethics board guidelines.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "50 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Clanet Michel, MD,PhD",
+            "OverallOfficialAffiliation": "Neurology Department of Purpan Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Purpan Hospital",
+            "LocationCity": "Toulouse",
+            "LocationZip": "31059",
+            "LocationCountry": "France"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "31072380",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Uccelli A, Laroni A, Brundin L, Clanet M, Fernandez O, Nabavi SM, Muraro PA, Oliveri RS, Radue EW, Sellner J, Soelberg Sorensen P, Sormani MP, Wuerfel JT, Battaglia MA, Freedman MS; MESEMS study group. MEsenchymal StEm cells for Multiple Sclerosis (MESEMS): a randomized, double blind, cross-over phase I/II clinical trial with autologous mesenchymal stem cells for the therapy of multiple sclerosis. Trials. 2019 May 9;20(1):263. doi: 10.1186/s13063-019-3346-z."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009103",
+            "ConditionMeshTerm": "Multiple Sclerosis"
+          },
+          {
+            "ConditionMeshId": "D000012598",
+            "ConditionMeshTerm": "Sclerosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000020278",
+            "ConditionAncestorTerm": "Demyelinating Autoimmune Diseases, CNS"
+          },
+          {
+            "ConditionAncestorId": "D000020274",
+            "ConditionAncestorTerm": "Autoimmune Diseases of the Nervous System"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003711",
+            "ConditionAncestorTerm": "Demyelinating Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11212",
+            "ConditionBrowseLeafName": "Multiple Sclerosis",
+            "ConditionBrowseLeafAsFound": "Multiple Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14567",
+            "ConditionBrowseLeafName": "Sclerosis",
+            "ConditionBrowseLeafAsFound": "Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21251",
+            "ConditionBrowseLeafName": "Demyelinating Autoimmune Diseases, CNS",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21247",
+            "ConditionBrowseLeafName": "Autoimmune Diseases of the Nervous System",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6061",
+            "ConditionBrowseLeafName": "Demyelinating Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

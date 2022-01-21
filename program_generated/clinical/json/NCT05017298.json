@@ -1,0 +1,424 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05017298",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CTX0020-004"
+      },
+      "Organization": {
+        "OrgFullName": "Celltex Therapeutics Corporation",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Clinical Study for Subjects With COVID-19 Using Allogeneic Adipose Tissue-Derived Mesenchymal Stem Cells",
+      "OfficialTitle": "Clinical Study for Subjects With Coronavirus 2019 (COVID-19) Using Multiple Dose Intravenous Infusions of Allogeneic Adipose Tissue-Derived Mesenchymal Stem Cells (AdMSCs)",
+      "Acronym": "AdMSCs"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 1, 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 1, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 15, 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "August 18, 2021",
+      "StudyFirstSubmitQCDate": "August 19, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 23, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 19, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 23, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Celltex Therapeutics Corporation",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a interventional new drug clinical trial for a Phase 2 randomized, double blind and placebo control study using intravenous injection of autologous adipose stem cells (Celltex AdMSCs) for subjects with severe COVID-19."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Corona Virus Infection",
+          "Covid19"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "The Phase 2 study is a randomized, double blind and placebo control study conducted initially in a single clinic facility.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Study Group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Each subject receives three separate doses of 200 million autologous adipose derived mesenchymal stem cells via intravenously infusion on day 0 , 3, and 6 with a total of 600 million AdMSCs during 7 days in addition to their standard of care.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous adipose-derived stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control Group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "The control group will receive placebo infusion on day 0, 3 and 6 along with standard of care.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous adipose-derived stem cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Autologous adipose-derived stem cells",
+            "InterventionDescription": "Culture expanded mesenchymal stem cells isolated from a patient's own abdominal fat tissue",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control Group",
+                "Study Group"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Celltex-AdMSCs"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety of AdMSC injection will be evaluated by assessment of the frequency and nature of adverse events occurring during the study based on the rate of all AdMSC-associated adverse events (AEs) in all subjects.",
+            "PrimaryOutcomeDescription": "Incidence of treatment-related adverse events and severe adverse events during the study period",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Safety for AdMSCs based upon incidence of all AEs",
+            "PrimaryOutcomeDescription": "Grouped by Medical Dictionary for Regulatory Activities (MedDRA)",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Compare the mortality rate",
+            "PrimaryOutcomeDescription": "AdMSC treating group vs. control group",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Recognized immune measurements evaluating patients' symptom changes and overall function",
+            "SecondaryOutcomeDescription": "To evaluate change of sequential organ failure assessment (SOFA) score as compare to the baseline",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Organ functional tests including blood specific enzymes and proteins",
+            "SecondaryOutcomeDescription": "To evaluate the efficacy of allogeneic AdMSCs for COVID-19",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration (days) of weaning from mechanical ventilation",
+            "SecondaryOutcomeDescription": "Compared to control group",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration (days) of ICU monitoring",
+            "SecondaryOutcomeDescription": "Compared to control group",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration (days) of vasoactive agent's usage",
+            "SecondaryOutcomeDescription": "Compared to control group",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of hospitalization (days)",
+            "SecondaryOutcomeDescription": "Compared to control group",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Proportions of SARS-CoV-2 RT-PCR change to negative from respiratory tract specimens (oropharyngeal swabs) using CDC standard method",
+            "SecondaryOutcomeDescription": "Compared to control group",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Proportions of quantifying viral RNA in stool change to negative in final follow-up using CDC standard method",
+            "SecondaryOutcomeDescription": "Compared to control group",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Proportions of blood SARS-CoV-2 antibodies IgM/IgG show positive",
+            "SecondaryOutcomeDescription": "Compared to control group",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Mortality rate down to 0%",
+            "OtherOutcomeDescription": "For severe and critical cases",
+            "OtherOutcomeTimeFrame": "6 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Achieve at least 30% more proportion of severe patients in AdMSC study group without developing organ failure or recovery from previous organ failure",
+            "OtherOutcomeDescription": "Compared to control group",
+            "OtherOutcomeTimeFrame": "6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge above 18 years.\nMale and female\nMust understand and voluntarily sign an Informed Consent for study participation obtained prior to undergoing any study-specific procedures\nDiagnosed as COVID-19 based upon SARS-CoV-2 RT-PCR test positive\nClinical diagnosis meets severe and/or critical parameters\nMale participants must be willing to ensure their partners do not become pregnant either by practicing abstinence or the use of condoms during sexual activity\n\nExclusion Criteria:\n\nParticipation in another clinical study (with use of another Investigational Medical Product) within 3 months prior to study treatment start\nUnwillingness or inability to comply with study procedures\nPatients with serious basic diseases that affect survival, including blood diseases, cachexia, active bleeding, severe malnutrition, etc.\nClinically active malignant disease\nSubjects who are receiving ECMO and CRRT currently\nHistory of known pulmonary embolism or known secondary anti-phospholipid syndrome\nKnown or suspected hypersensitivity to any components used to culture the AdMSCs, e.g. BSA and sulfur containing products (e.g., DMSO)\nKnown or suspected allergic to diphenhydramine.\nMajor trauma or surgery within 14 days of study treatment start\nMental condition rendering the subject (or the subject's legally acceptable representative[s]) unable to understand the nature, scope and possible consequences of the study\nAlcohol, drug, or medication abuse within one year prior to study treatment start\nAny condition that, in the Investigator's opinion, is likely to interfere with evaluation of the AdMSC therapy or satisfactory conduct of the study\nIrreversible severe end organ failure, such as heart failure/attack, stroke, liver and renal failure due to other disease conditions\nPatients or family history with hypercoagulable status, such as protein C/protein S deficiency, factor V Leiden, prothrombin gene mutation, dysfibrinogenemia, etc.\nHistory of long-term use of immunosuppressive agents\nOrgan transplants in the past 6 months\nPregnant, breastfeeding, or desire to become pregnant or unwilling to practice birth control during participation in the study duration, unless surgically sterilized or postmenopausal during the study.\nPatients with previous pulmonary obstructive pneumonia, severe pulmonary interstitial fibrosis, alveolar proteinosis, allergic alveolitis, and other known viral pneumonia or bacterial pneumonia before COVID-19 infection. The pulmonary imaging revealed the interstitial damage of lungs before the COVID-19 confirmed.\nQT interval shows greater than 450 ms in males and 470 ms in females in the medical histories or during screen EKG test.\nSubjects are not medically unstable at time of infusion including but not limiting unstable hypertension, pulse, oximetry, etc.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Jane Young, Ph.D.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "7135546823",
+            "CentralContactEMail": "jyoung@celltexbank.com"
+          },
+          {
+            "CentralContactName": "Sally McGahee",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "7135546847",
+            "CentralContactEMail": "smcgahee@celltexbank.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Derek W Guillory, MD",
+            "OverallOfficialAffiliation": "Root Causes Medicine",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000018352",
+            "ConditionMeshTerm": "Coronavirus Infections"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafAsFound": "Corona Virus Infection",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

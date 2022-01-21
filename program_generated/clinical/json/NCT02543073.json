@@ -1,0 +1,470 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02543073",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MSC-ILD-2015"
+      },
+      "Organization": {
+        "OrgFullName": "Nanfang Hospital of Southern Medical University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "MSC for Treatment of Interstitial Lung Disease After Allo-HSCT",
+      "OfficialTitle": "Mesenchymal Stem Cell for Treatment of Interstitial Lung Disease After Allogenetic Hematopoietic Stem Cell Transplantation"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2015",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 2014"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2017",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 2018",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 4, 2015",
+      "StudyFirstSubmitQCDate": "September 4, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "September 7, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "May 9, 2017",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 10, 2017",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Qifa Liu",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Nanfang Hospital of Southern Medical University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Nanfang Hospital of Southern Medical University",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Sun Yat-sen University",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Interstitial lung disease (ILD） is the late pulmonary complications after allogeneic hematopoietic stem cell transplantation (allo-HSCT) leading to high morbidity and mortality. At present, the treatment for ILD after allo-HSCT remains in discussion. In this study, the efficacy of mesenchymal stem cells (MSCs) combined azithromycin as well as glucocorticoid as the treatment of ILD will be evaluated in the recipients of allo-HSCT.",
+      "DetailedDescription": "ILD is a group of diseases involving pulmonary interstitial, alveolar and (or) bronchioles. In the patients receiving allo-HSCT, ILD mainly present as bronchiolitis obliterans syndrome (BOS). ILD after HSCT is characterized by non-responsiveness to treatment, leading to high morbidity and mortality. MSC has been considered as an effective treatment for refractory acute graft-versus-host disease (aGVHD), but the response to treat chronic GVHD (cGVHD), especially refractory BOS, is rarely reported."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Lung Diseases, Interstitial",
+          "Hematopoietic Stem Cell Transplantation",
+          "Bronchiolitis Obliterans"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "MSCs",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "MSCs will be given the patients in MSCs group. Besides, azithromycin (AZM) and glucocorticoid will also be administered.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: MSCs",
+                "Drug: AZM",
+                "Drug: Glucocorticoid"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Non-MSCs",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "AZM and glucocorticoid will be given for the patients in Non-MSCs group.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: AZM",
+                "Drug: Glucocorticoid"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "MSCs",
+            "InterventionDescription": "MSCs will be given at a median dose of 1×10^6 cells/kg once weekly for 4 weeks as one cycle treatment.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSCs"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "AZM",
+            "InterventionDescription": "AZM will be given （0.25g qd）for 4 weeks as one cycle treatment.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSCs",
+                "Non-MSCs"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Glucocorticoid",
+            "InterventionDescription": "Glucocorticoid (prednison) will be given at the starting dose of 1mg/kg for 4 weeks as one cycle treatment.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSCs",
+                "Non-MSCs"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Response rate of ILD",
+            "PrimaryOutcomeDescription": "Response includes complete response (CR) and partial response (PR). CR is defined as resolution of all manifestations related to ILD, except for some irreversible changes. PR is defined as sustained, measurable improvement in pulmonary function tests(carbon monoxide lung diffusion capacity, forced expiratory volume, or both) or the ability to reduce corticosteroids by at least 50% or both without deterioration of pulmonary function.",
+            "PrimaryOutcomeTimeFrame": "4 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Overall Survival",
+            "SecondaryOutcomeDescription": "The 3-year overall survival after HSCT will be evaluated",
+            "SecondaryOutcomeTimeFrame": "3 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nReceiving allo-HSCT\nDiagnosed with ILD after allo-HSCT\n\nExclusion Criteria:\n\nAny abnormality in a vital sign (e.g., heart rate, respiratory rate, or blood pressure)\nPatients with any conditions not suitable for the trial (investigators' decision)",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Ren Lin",
+            "CentralContactRole": "Contact",
+            "CentralContactEMail": "lansinglinren@hotmail.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Qifa Liu, MD",
+            "OverallOfficialAffiliation": "Nanfang Hospital of Southern Medical University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Department of Hematology,Nanfang Hospital, Southern Medical University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Guangzhou",
+            "LocationState": "Guangdong",
+            "LocationZip": "510515",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Ren Lin, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+86-020-61641613",
+                  "LocationContactEMail": "lansinglinren@hotmail.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "19403889",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Olivieri A, Locatelli F, Zecca M, Sanna A, Cimminiello M, Raimondi R, Gini G, Mordini N, Balduzzi A, Leoni P, Gabrielli A, Bacigalupo A. Imatinib for refractory chronic graft-versus-host disease with fibrotic features. Blood. 2009 Jul 16;114(3):709-18. doi: 10.1182/blood-2009-02-204156. Epub 2009 Apr 29."
+          },
+          {
+            "ReferencePMID": "31668569",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Chen S, Zhao K, Lin R, Wang S, Fan Z, Huang F, Chen X, Nie D, Du X, Guo Z, Lin D, Xuan L, Xu N, Sun J, Peng Xiang A, Liu Q. The efficacy of mesenchymal stem cells in bronchiolitis obliterans syndrome after allogeneic HSCT: A multicenter prospective cohort study. EBioMedicine. 2019 Nov;49:213-222. doi: 10.1016/j.ebiom.2019.09.039. Epub 2019 Oct 23."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000001988",
+            "ConditionMeshTerm": "Bronchiolitis"
+          },
+          {
+            "ConditionMeshId": "D000008171",
+            "ConditionMeshTerm": "Lung Diseases"
+          },
+          {
+            "ConditionMeshId": "D000017563",
+            "ConditionMeshTerm": "Lung Diseases, Interstitial"
+          },
+          {
+            "ConditionMeshId": "D000001989",
+            "ConditionMeshTerm": "Bronchiolitis Obliterans"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001991",
+            "ConditionAncestorTerm": "Bronchitis"
+          },
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000001982",
+            "ConditionAncestorTerm": "Bronchial Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000008173",
+            "ConditionAncestorTerm": "Lung Diseases, Obstructive"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafAsFound": "Lung Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18965",
+            "ConditionBrowseLeafName": "Lung Diseases, Interstitial",
+            "ConditionBrowseLeafAsFound": "Lung Diseases, Interstitial",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4416",
+            "ConditionBrowseLeafName": "Bronchiolitis",
+            "ConditionBrowseLeafAsFound": "Bronchiolitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4417",
+            "ConditionBrowseLeafName": "Bronchiolitis Obliterans",
+            "ConditionBrowseLeafAsFound": "Bronchiolitis Obliterans",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4419",
+            "ConditionBrowseLeafName": "Bronchitis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4410",
+            "ConditionBrowseLeafName": "Bronchial Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10322",
+            "ConditionBrowseLeafName": "Lung Diseases, Obstructive",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T871",
+            "ConditionBrowseLeafName": "Bronchiolitis Obliterans",
+            "ConditionBrowseLeafAsFound": "Bronchiolitis Obliterans",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000005938",
+            "InterventionMeshTerm": "Glucocorticoids"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000006728",
+            "InterventionAncestorTerm": "Hormones"
+          },
+          {
+            "InterventionAncestorId": "D000006730",
+            "InterventionAncestorTerm": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M8199",
+            "InterventionBrowseLeafName": "Glucocorticoids",
+            "InterventionBrowseLeafAsFound": "Brace",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M19284",
+            "InterventionBrowseLeafName": "Azithromycin",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8941",
+            "InterventionBrowseLeafName": "Hormones",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8940",
+            "InterventionBrowseLeafName": "Hormone Antagonists",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03267160",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "05-XD15-039"
+      },
+      "Organization": {
+        "OrgFullName": "Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "A Study of Exosome Proteomics and Hemodynamics in Sepsis",
+      "OfficialTitle": "An Observation Study of Exosome Proteomics Released From Cardiopulmonary Organs and Hemodynamic Parameters in Sepsis"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "February 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 18, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 30, 2020",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 30, 2020",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "August 1, 2017",
+      "StudyFirstSubmitQCDate": "August 27, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 30, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "February 8, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "February 10, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This research will be the first study for exosomes purified in blood and urine from septic patients who had multiple organ failures. Proteomics studies in exosomes from blood or urine specimens. Analyze autophage, and apoptosis related biomarkers of exosomes by bioinformatics. To find the correlations between exosomes biomarkers and hemodynamic parameters.",
+      "DetailedDescription": "Background: Sepsis, defined as an infection with evidence of systemic infection, continues to be a source of considerable morbidity and mortality. Many animal sepsis models had found that sepsis induced multiple organ failure. Autophagy, apoptosis may involve the process of sepsis related multiple organ failure. Mass spectrometry-based proteomics studies in clinical populations and in rodent and mammalian animal models had started with discovered many novel biomarkers of sepsis. Esoxomes had been found in blood or urine presented the signal of autophagy and apoptosis. On the other hand, pulse contour cardiac output (PiCCO) can calculate hemodynamic parameters that had been used for evaluation in cardiopulmonary failure of sepsis.\n\nAims of the study: This research will be the first study for exosomes purified in blood and urine from septic patients who had multiple organ failures. Proteomics studies in exosomes from blood or urine specimens. Analyze autophage, and apoptosis related biomarkers of exosomes by bioinformatics. To find the correlations between exosomes biomarkers and hemodynamic parameters.\n\nMaterials and Methods: A total of 30 patients with sepsis, septic shock, or multiple organ failure will be included, of whom 15 septic patients had cardiopulmonary organ failure, others will be not. All patients included and classified according to the surviving sepsis campaign criteria, also treat according to surviving sepsis campaign guidelines. Data will be collected from January 2016 to December 2016. Exosome will be isolated and purified by sucrose gradient ultracentrifugation. Magnetic beads purification, 2D gel electrphoresis, and MALDI-TOF will be used to analyze proteomics of exosome in urine or blood of septic patients. Western blotting will be done to prove the proteins found by proteomics. Pulse contour cardiac output monitored heart contractility, end-diastolic volume parameters, and lung water parameters. Finally, to find the correlations between exosome specific organ and autophagy-apoptosis biomarkers and hemodynamic parameters.\n\nPossible effect: Systematic establishment of exosome proteomics in blood and urine from septic patients who had multiple organ failure or not will be done. Autophagy-apoptosis biomarkers in exosomes will be detected and correlated to hemodynamic parameters, to judge specific organ failure in sepsis."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Hemodynamic Instability",
+          "Autophagy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples Without DNA",
+        "BioSpecDescription": "Blood and urine, extract exosome collection"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Sepsis with cardiopulmonary failure",
+            "ArmGroupDescription": "Patient with sepsis and also respiratory and heart involvement, confirmed by Hemodynamic parameters",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Hemodynamic parameters"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Sepsis without cardiopulmonary failure",
+            "ArmGroupDescription": "Patient with sepsis without respiratory and heart involvement",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Hemodynamic parameters"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "Hemodynamic parameters",
+            "InterventionDescription": "Pulse contour cardiac output monitored heart contractility, end-diastolic volume parameters, and lung water parameters.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Sepsis with cardiopulmonary failure",
+                "Sepsis without cardiopulmonary failure"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change of hemodynamic parameters (heart contractility: CFI)",
+            "PrimaryOutcomeDescription": "Change from Baseline Cardiac function index (CFI; L/min) at 6 hours. Cardiac function index (CFI; L/min) will be calculated by thermodilution method. PiCCO2 device (Pulsion Medical Systems, Munich, Germany)",
+            "PrimaryOutcomeTimeFrame": "Baseline, 6 hours"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Change of hemodynamic parameters (preload: GEDI)",
+            "PrimaryOutcomeDescription": "Change from Baseline Global end-diastolic index (GEDI; mL/m2) at 6 hours. Global end-diastolic index (GEDI; mL/m2) will be calculated by thermodilution method. PiCCO2 device (Pulsion Medical Systems, Munich, Germany).",
+            "PrimaryOutcomeTimeFrame": "Baseline, 6 hours"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Change of hemodynamic parameters (afterload: SVRI)",
+            "PrimaryOutcomeDescription": "Change from Baseline Systemic vascular resistance index (SVRI; dynes x sec x cm-5/m2) at 6 hours. Systemic vascular resistance index (SVRI; dynes x sec x cm-5/m2) will be calculated by thermodilution method. PiCCO2 device (Pulsion Medical Systems, Munich, Germany).",
+            "PrimaryOutcomeTimeFrame": "Baseline, 6 hours"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Change of hemodynamic parameters (fluid responsiveness: SVV)",
+            "PrimaryOutcomeDescription": "Change from Baseline Stroke volume variation (SVV, %) at 6 hours. Stroke volume variation (SVV, %) will be calculated spontaneously by PiCCO2 device (Pulsion Medical Systems, Munich, Germany).",
+            "PrimaryOutcomeTimeFrame": "Baseline, 6 hours, one day, and 3 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Change of hemodynamic parameters (lung water: ELWI)",
+            "PrimaryOutcomeDescription": "Change from Baseline Extravascular lung water index (EVLWI; mL/kg) at 6 hours. Extravascular lung water index (EVLWI; mL/kg) will be calculated by the PiCCO device (Pulsion Medical Systems, Munich, Germany). EVLWI means total water in lung tissue, it increase in pulmonary edema or ARDS. PVPI means pulmonary vascular permeability and always high in ARDS (acute respiratory distress syndrome)",
+            "PrimaryOutcomeTimeFrame": "Baseline, 6 hours"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Change of hemodynamic parameters (lung permeability: PVPI)",
+            "PrimaryOutcomeDescription": "Change from Baseline pulmonary vascular permeability index (PVPI; ratio) at 6 hours. pulmonary vascular permeability index (PVPI) will be calculated by the PiCCO device (Pulsion Medical Systems, Munich, Germany). EVLWI means total water in lung tissue, it increase in pulmonary edema or ARDS. PVPI means pulmonary vascular permeability and always high in ARDS (acute respiratory distress syndrome)",
+            "PrimaryOutcomeTimeFrame": "Baseline, 6 hours"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Autophagy biomarkers in exosomes: LC3II (Western blots)",
+            "SecondaryOutcomeDescription": "LC3II appear during phagosome-lysomone fusion. Exosome will be collected from serum of sepsis. LC3II will be detected and identified by Western blots.",
+            "SecondaryOutcomeTimeFrame": "6 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Autophagy biomarkers in exosomes: LC3II (NTA)",
+            "SecondaryOutcomeDescription": "LC3II appear during phagosome-lysomone fusion. Exosome will be collected from serum of sepsis. Later, LC3II will be marked and combined analysis by Nanoparticle tracing analysis. Concentrations (particles/mL) by size (nm) or Intensity (a.u.) by size (nm)",
+            "SecondaryOutcomeTimeFrame": "6 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Autophagy modifiers in exosomes: mTOR (Western blots)",
+            "SecondaryOutcomeDescription": "mammalian target of rapamycin (mTOR) may modulate the process of autophagy. Exosome will be collected from serum of sepsis. mTOR will be detected and identified by Western blots.",
+            "SecondaryOutcomeTimeFrame": "6 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Autophagy modifiers in exosomes: mTOR (NTA)",
+            "SecondaryOutcomeDescription": "mammalian target of rapamycin (mTOR) may modulate the process of autophagy. Exosome will be collected from serum of sepsis. mTOR will be marked and combined analysis by Nanoparticle tracing analysis. Concentrations (particles/mL) by size (nm) or Intensity (a.u.) by size (nm)",
+            "SecondaryOutcomeTimeFrame": "6 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Autophagy modifiers in exosomes: HSP70 (Western blots)",
+            "SecondaryOutcomeDescription": "heat-shock protein 70 (HSP70) may modulate the process of autophagy. Exosome will be collected from serum of sepsis. HSP70 will be detected and identified by Western blots.",
+            "SecondaryOutcomeTimeFrame": "6 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Autophagy modifiers in exosomes: HSP70 (NTA)",
+            "SecondaryOutcomeDescription": "heat-shock protein 70 (HSP70) may modulate the process of autophagy. Exosome will be collected from serum of sepsis. Later, HSP70 will be marked and combined analysis by Nanoparticle tracing analysis. Concentrations (particles/mL) by size (nm) or Intensity (a.u.) by size (nm)",
+            "SecondaryOutcomeTimeFrame": "6 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Autophagy modifiers in exosomes: sequestosome 1 (Western blots)",
+            "SecondaryOutcomeDescription": "sequestosome 1 (SQSMT1/p62) may modulate the process of autophagy. Exosome will be collected from serum of sepsis. sequestosome 1 will be detected and identified by Western blots.",
+            "SecondaryOutcomeTimeFrame": "6 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Autophagy modifiers in exosomes: sequestosome 1 (NTA)",
+            "SecondaryOutcomeDescription": "sequestosome 1 (SQSMT1/p62) may modulate the process of autophagy. Exosome will be collected from serum of sepsis. Later, sequestosome 1 will be marked and combined analysis by Nanoparticle tracing analysis. Concentrations (particles/mL) by size (nm) or Intensity (a.u.) by size (nm)",
+            "SecondaryOutcomeTimeFrame": "6 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Exosomes marker: CD9 (Western blots)",
+            "SecondaryOutcomeDescription": "CD9 is the exosome surface marker. Exosome will be collected from serum of sepsis. CD9 will be detected and identified by Western blots.",
+            "SecondaryOutcomeTimeFrame": "6 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Exosomes marker: CD9 (NTA)",
+            "SecondaryOutcomeDescription": "CD9 is the exosome surface marker. Exosome will be collected from serum of sepsis. Later, CD9 will be marked and combined analysis by Nanoparticle tracing analysis. Concentrations (particles/mL) by size (nm) or Intensity (a.u.) by size (nm)",
+            "SecondaryOutcomeTimeFrame": "6 hours"
+          },
+          {
+            "SecondaryOutcomeMeasure": "ICU mortality",
+            "SecondaryOutcomeDescription": "ICU mortality (%), mortality during ICU admission/total ICU admission",
+            "SecondaryOutcomeTimeFrame": "Up to 30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "28-day mortality",
+            "SecondaryOutcomeDescription": "28-day mortality (%), mortality during 28-day/total 28-day admission",
+            "SecondaryOutcomeTimeFrame": "Up to 28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Hospital mortality",
+            "SecondaryOutcomeDescription": "Hospital mortality (%), mortality during hospitalizaiton/total hospital admission",
+            "SecondaryOutcomeTimeFrame": "Up to 90 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Length of stay in ICU",
+            "SecondaryOutcomeDescription": "Length of stay in ICU (days)",
+            "SecondaryOutcomeTimeFrame": "Up to 30 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Length of stay in hospital",
+            "SecondaryOutcomeDescription": "Length of stay in hospital (days)",
+            "SecondaryOutcomeTimeFrame": "Up top 90 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with sepsis who admit to ICU\nSepsis diagnostic criteria: acute change in total SOFA score ≥ 2 points attributable to infection\nPulse indicator continuous cardiac output monitor (PiCCO) is accept by patient for hemodynamic monitoring\n\nExclusion Criteria:\n\nPatients with acute SOFA changes < 2 points are excluded\nauria, no urine can be collected\nPrevious cardiopulmonary co-morbidity. Chronic respiratory failure with ventilator dependence and chronic heart failure.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "99 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Sepsis was defined as a life-threatening organ dysfunction due to a dysregulated host response to infection.\n\nPatient with sepsis who was admitted to ICU. PiCCO hemodynamics was setted",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Wen-Lin Su, PhD",
+            "OverallOfficialAffiliation": "Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, Taipei Tzu Chi Hospital",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation",
+            "LocationCity": "Taipei",
+            "LocationZip": "23142",
+            "LocationCountry": "Taiwan"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "22968077",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Lo S, Yuan SS, Hsu C, Cheng YJ, Chang YF, Hsueh HW, Lee PH, Hsieh YC. Lc3 over-expression improves survival and attenuates lung injury through increasing autophagosomal clearance in septic mice. Ann Surg. 2013 Feb;257(2):352-63. doi: 10.1097/SLA.0b013e318269d0e2."
+          },
+          {
+            "ReferencePMID": "23359590",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Gao M, Ha T, Zhang X, Wang X, Liu L, Kalbfleisch J, Singh K, Williams D, Li C. The Toll-like receptor 9 ligand, CpG oligodeoxynucleotide, attenuates cardiac dysfunction in polymicrobial sepsis, involving activation of both phosphoinositide 3 kinase/Akt and extracellular-signal-related kinase signaling. J Infect Dis. 2013 May 1;207(9):1471-9. doi: 10.1093/infdis/jit036. Epub 2013 Jan 28."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000018805",
+            "ConditionMeshTerm": "Sepsis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000018746",
+            "ConditionAncestorTerm": "Systemic Inflammatory Response Syndrome"
+          },
+          {
+            "ConditionAncestorId": "D000007249",
+            "ConditionAncestorTerm": "Inflammation"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M20017",
+            "ConditionBrowseLeafName": "Sepsis",
+            "ConditionBrowseLeafAsFound": "Sepsis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16021",
+            "ConditionBrowseLeafName": "Toxemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19971",
+            "ConditionBrowseLeafName": "Systemic Inflammatory Response Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9445",
+            "ConditionBrowseLeafName": "Inflammation",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

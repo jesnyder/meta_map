@@ -1,0 +1,527 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT00418418",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "TYH 6220"
+      },
+      "Organization": {
+        "OrgFullName": "University of Helsinki",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Combined CABG and Stem-Cell Transplantation for Heart Failure",
+      "OfficialTitle": "Combined CABG and Stem-Cell Transplantation for Heart Failure"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2008",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 2006"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2009",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2010",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 3, 2007",
+      "StudyFirstSubmitQCDate": "January 3, 2007",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 4, 2007",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "August 18, 2008",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 19, 2008",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyOldNameTitle": "Reijo Haapiainen",
+        "ResponsiblePartyOldOrganization": "Helsinki University Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of Helsinki",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a prospective double blind trial of intraoperative transmyocardial bone marrow-derived mesenchymal cell transplantation vs placebo in patients with low left ventricular ejection fraction scheduled to coronary bypass operation.",
+      "DetailedDescription": "The prevalence of symptomatic heart failure in general population is up to 2% and the prevalence increases rapidly with age. Half of the patients with symptomatic heart failure will die within 4 years of diagnosis.The purpose of this study is to examine the effect of bone marrow-derived stem cell transplantation in left ventricular ejection fraction.\n\nConsecutive patients with systolic heart failure (n=60), with ischemic coronary heart disease, scheduled to by-pass-operation (CABG) will be collected from cardiovascular laboratory and outpatient clinic of Helsinki University Central Hospital. Patients should have heart failure with ejection fraction between 15 to 45%. Randomly patients are selected to receive a stem cell transplantation with best possible heart failure medication, or without cell transplantation. In this study, 30 patients are receiving bone marrow transplantation, and 30 patients are serving as a control population. All patients will receive CABG.The study will be carried out with randomized, double blind techniques for one year. Randomization (in blocks) will be based on a table of random numbers.Bone marrow and patients own serum will be blinded by using colored syringe, so that the doctor transfusing the sample, will not be able to know the nature of the sample. From all patients, a right atrial biopsy will be collected for assessment of autologous cardiac stem cells. Also sample of pericardial fluid will be collected for measures of growth factors.\n\nComparisons: Preoperatively, patients will be imagined by cardiac ultrasound, cardiac MRI, cardiac PET and SPECT. Serum pro-BNB samples will be collected. Postoperatively at 3 months and 6 months pro-BNB and cardiac ultrasound will be evaluated. At one year cardiac ultrasound, cardiac MRI, cardiac PET and SPECT will be reassessed.\n\nHeart failure and coronary artery disease treatments beside the transplantation will be optimized according to the judgment of the doctors of the outpatients clinic. Primary endpoint of the study is the change of ejection fraction in MRI images."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Heart Failure",
+          "Myocardial Infarction",
+          "Coronary Artery Disease"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Cell transplantation",
+          "Heart failure",
+          "Clinical trials"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Factorial Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "A",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patient group receiving the stem cell injections during the CABG",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Coronary bypass operation",
+                "Procedure: Bone marrow aspiration (crista iliaca)",
+                "Biological: Intramyocardial mesenchymal stem cell transplantation"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "B",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "The patient group receiving autologous serum injections during the CAGB operation",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Coronary bypass operation",
+                "Procedure: Bone marrow aspiration (crista iliaca)",
+                "Biological: Intramyocardial injection of autologous serum"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Coronary bypass operation",
+            "InterventionDescription": "Coronary bypass operation is performed via sternotomy during cardiac arrest.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "A",
+                "B"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "CABG"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Bone marrow aspiration (crista iliaca)",
+            "InterventionDescription": "The bone marrow is aspirated from the iliac crest (100ml). During the operation the aspirate is transported to the stem cell laboratory, where the sample is centrifugated through Ficoll(Registered Trademark).",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "A",
+                "B"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Stem cell harvest"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Intramyocardial mesenchymal stem cell transplantation",
+            "InterventionDescription": "During the cardiac arrest, stem cells are directly injected to myocardium. The amount of the cells varies individually (5-1000 x 10e6 cells), the cells are diluted in autologous serum (5 ml)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "A"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Stem cell therapy"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Intramyocardial injection of autologous serum",
+            "InterventionDescription": "Intramyocardial injection of autologous serum is injected during cardiac arrest",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "B"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Stem cell control therapy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Does a bone marrow transplantation therapy increase the ejection fraction of the heart measured with MRI, when compared with placebo treatment?",
+            "PrimaryOutcomeTimeFrame": "1 year after the transplantation"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Does a bone marrow transplantation therapy increase any cardiac function parameter measured by a an echocardiography, MRI or PET ischemia area, when compared with no treatment group?",
+            "SecondaryOutcomeTimeFrame": "6 months and 1 year after the procedure"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Does a bone marrow transplantation therapy improve BNP-value?",
+            "SecondaryOutcomeTimeFrame": "3kk, 6 months and 1 year after the procedure"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Does a bone marrow transplantation therapy decrease hospitalization or the days stayed in hospital?",
+            "SecondaryOutcomeTimeFrame": "primary hospital stay after the transplantation"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Does pericardial fluid growth factor concentrations correlate to left ventricular function improvement?",
+            "SecondaryOutcomeTimeFrame": "up to 1 year after the translantation"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Does autologous cardiac stem cell quality correlate to left ventricular function improvement?",
+            "SecondaryOutcomeTimeFrame": "3kk, 6 months and 1 year after the transplantation"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nGeneral (patients must have all)\n\nSymptomatic heart failure.\nScheduled to CABG\nBe 18 to 75 years of age\nInformed Consent obtained\n\nHeart Failure Presentation\n\nPatients of either gender, who has evaluated in cardiovascular laboratory and scheduled to CABG with moderate heart failure, will be eligible\nNYHA II-IV symptoms\nLeft ventricular ejection fraction in screening echocardiography 15 to 45%.\nOptimal heart failure medication and coronary medication before operation, containing at least two heart failure drugs: must have ACE-inhibitor, or AT II blocker, and/or b-blocker together with diuretics, digitalis or aldosterone antagonist, and coronary medication: a statin and anticoagulation, either aspirin or clopidogrel.\n\nExclusion Criteria:\n\nHeart failure due to left ventricular outflow track obstruction (valve problem or HOCM)\nHistory of life-threatening ventricular arrhythmias or resuscitation, condition which may be repeatable or implanted ICD.\nStroke or other disabling condition with in 3 months before screening\nContraindications to coronary angiogram or MRI\nOther serious disease limiting life expectancy\nParticipation in an other clinical trial\nSevere valve disease: mitral, aortic, tricuspid or pulmonic stenosis / insufficiency\nScheduled valve operation",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Ari Harjula, MD,PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+3585064814",
+            "CentralContactEMail": "ari.harjula@hus.fi"
+          },
+          {
+            "CentralContactName": "Tommi Pätilä, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+358504272291",
+            "CentralContactEMail": "tommi.patila@hus.fi"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Ari Harjula, MD; PhD",
+            "OverallOfficialAffiliation": "Department of Cardiothoracic Surgery, Helsinki University MeilahtiHospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Department of Cardiothoracic Surgery, Meilahti Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Helsinki",
+            "LocationZip": "00029-HUS",
+            "LocationCountry": "Finland",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Ari Harjula, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+5042764814",
+                  "LocationContactEMail": "ari.harjula@hus.fi"
+                },
+                {
+                  "LocationContactName": "Tommi Pätilä, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+358504272291",
+                  "LocationContactEMail": "tommi.patila@hus.fi"
+                },
+                {
+                  "LocationContactName": "Ari Harjula, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Tommi Pätilä, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Sinisalo Juha, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Antti Vento, MD,PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Mika Laine, MD,PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Pekka Hämmäinen, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Esko Kankuri, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Reino Pöyhiä, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Raili Suojaranta-Ylinen, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Aapo Ahonen, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Jorma Sipponen, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Markku Kupari, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Riitta Alitalo, MD; PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "25142068",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Lehtinen M, Pätilä T, Vento A, Kankuri E, Suojaranta-Ylinen R, Pöyhiä R, Harjula A; Helsinki BMMC Collaboration. Prospective, randomized, double-blinded trial of bone marrow cell transplantation combined with coronary surgery - perioperative safety study. Interact Cardiovasc Thorac Surg. 2014 Dec;19(6):990-6. doi: 10.1093/icvts/ivu265. Epub 2014 Aug 20."
+          },
+          {
+            "ReferencePMID": "24656645",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Pätilä T, Lehtinen M, Vento A, Schildt J, Sinisalo J, Laine M, Hämmäinen P, Nihtinen A, Alitalo R, Nikkinen P, Ahonen A, Holmström M, Lauerma K, Pöyhiä R, Kupari M, Kankuri E, Harjula A. Autologous bone marrow mononuclear cell transplantation in ischemic heart failure: a prospective, controlled, randomized, double-blind study of cell transplantation combined with coronary bypass. J Heart Lung Transplant. 2014 Jun;33(6):567-74. doi: 10.1016/j.healun.2014.02.009. Epub 2014 Feb 14."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006333",
+            "ConditionMeshTerm": "Heart Failure"
+          },
+          {
+            "ConditionMeshId": "D000003324",
+            "ConditionMeshTerm": "Coronary Artery Disease"
+          },
+          {
+            "ConditionMeshId": "D000009203",
+            "ConditionMeshTerm": "Myocardial Infarction"
+          },
+          {
+            "ConditionMeshId": "D000007238",
+            "ConditionMeshTerm": "Infarction"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007511",
+            "ConditionAncestorTerm": "Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000009336",
+            "ConditionAncestorTerm": "Necrosis"
+          },
+          {
+            "ConditionAncestorId": "D000003327",
+            "ConditionAncestorTerm": "Coronary Disease"
+          },
+          {
+            "ConditionAncestorId": "D000017202",
+            "ConditionAncestorTerm": "Myocardial Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000001161",
+            "ConditionAncestorTerm": "Arteriosclerosis"
+          },
+          {
+            "ConditionAncestorId": "D000001157",
+            "ConditionAncestorTerm": "Arterial Occlusive Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11307",
+            "ConditionBrowseLeafName": "Myocardial Infarction",
+            "ConditionBrowseLeafAsFound": "Myocardial Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9434",
+            "ConditionBrowseLeafName": "Infarction",
+            "ConditionBrowseLeafAsFound": "Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5698",
+            "ConditionBrowseLeafName": "Coronary Artery Disease",
+            "ConditionBrowseLeafAsFound": "Coronary Artery Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18658",
+            "ConditionBrowseLeafName": "Myocardial Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5701",
+            "ConditionBrowseLeafName": "Coronary Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8573",
+            "ConditionBrowseLeafName": "Heart Failure",
+            "ConditionBrowseLeafAsFound": "Heart Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11436",
+            "ConditionBrowseLeafName": "Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3621",
+            "ConditionBrowseLeafName": "Arteriosclerosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3617",
+            "ConditionBrowseLeafName": "Arterial Occlusive Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

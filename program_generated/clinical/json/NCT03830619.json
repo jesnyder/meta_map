@@ -1,0 +1,275 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03830619",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "WuhanUH2018"
+      },
+      "Organization": {
+        "OrgFullName": "Wuhan Union Hospital, China",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Serum Exosomal Long Noncoding RNAs as Potential Biomarkers for Lung Cancer Diagnosis",
+      "OfficialTitle": "Serum Exosomal Long Noncoding RNAs as Potential Biomarkers for Lung Cancer Diagnosis"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 1, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 31, 2020",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 31, 2021",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "January 24, 2019",
+      "StudyFirstSubmitQCDate": "February 2, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "February 5, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 15, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 22, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Yang Jin",
+        "ResponsiblePartyInvestigatorTitle": "professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Wuhan Union Hospital, China"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Wuhan Union Hospital, China",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The study is to investigate the sensitivity and specificity of serum exosome noncoding RNA as a biomarker for the diagnosis of lung cancer",
+      "DetailedDescription": "Conventional tumor markers for non-invasive diagnosis of Lung cancer (LC) exhibit insufficient sensitivity and specificity to facilitate detection of early lung cancer (ELC). The investigators aimed to identify ELC-specific exosomal lncRNA biomarkers that are highly sensitive and stable for the non-invasive diagnosis of ELC.Hence, in the present study, exosomes from the plasma of five healthy individuals and 30 LC patients and from culture media of four human bronchial epithelial cells and four cancer cells were isolated. Exosomal RNA profiling was performed using RNA sequencing to identify LC specific exosomal lncRNAs."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Lung Cancer (Diagnosis)"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "exosomes；lncRNA； lung cancer；"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "1000",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "lung cancer patients",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: collect samples"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "normol volunteers",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: collect samples"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "collect samples",
+            "InterventionDescription": "collect serum samples and clinical features",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "lung cancer patients",
+                "normol volunteers"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "The expression levels of serum exosome long non-coding RNA",
+            "PrimaryOutcomeTimeFrame": "the first day subjects are enrolled the outcome will be assessed；up to three years after the completion of the study"
+          },
+          {
+            "PrimaryOutcomeMeasure": "the expression levels of tumor biomarkers such as CEA, NSE, SCC, CYFR2A-1",
+            "PrimaryOutcomeTimeFrame": "the first day subjects are enrolled the outcome will be assessed；up to three years after the completion of the study"
+          },
+          {
+            "PrimaryOutcomeMeasure": "the CT scans of the lung for the patients",
+            "PrimaryOutcomeTimeFrame": "the first day subjects are enrolled the outcome will be assessed；up to three years after the completion of the study"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSubjects are willing to sign the informed consent form;\nNormal subjects have no evidence of any disease;\nLung cancer patients are 18 to 75 years old, diagnosed as lung cancer by histopathology or cytopathology\n\nExclusion Criteria:\n\nPeople are unwilling to sign the informed consent form;\nPatients with heart disease, rheumatic disease, allergic disease, COPD, pulmonary fibrosis, diabetes, thyroid disease, liver, kidney, brain disease and hematopoietic system disease;\nPregnant or lactating women;\nPatients did not cooperate or participate in other clinical trials",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Patients diagnosed as lung cancer by histopathology or cytopathology in union hospital.",
+      "SamplingMethod": "Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology",
+            "LocationCity": "Wuhan",
+            "LocationState": "Hubei",
+            "LocationZip": "430022",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No",
+      "IPDSharingDescription": "no plan to share IPD now"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008175",
+            "ConditionMeshTerm": "Lung Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000009369",
+            "ConditionMeshTerm": "Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012142",
+            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000013899",
+            "ConditionAncestorTerm": "Thoracic Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10324",
+            "ConditionBrowseLeafName": "Lung Neoplasms",
+            "ConditionBrowseLeafAsFound": "Lung Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14131",
+            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15810",
+            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02484950",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "15042702"
+      },
+      "Organization": {
+        "OrgFullName": "Rush University Medical Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cell Augmentation in Patients Undergoing Arthroscopic Rotator Cuff Repair",
+      "OfficialTitle": "A Prospective Randomized Trial of Biologic Augmentation With Mesenchymal Stem Cells in Patients Undergoing Arthroscopic Rotator Cuff Repair"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 2015"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 18, 2015",
+      "StudyFirstSubmitQCDate": "June 25, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 30, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "May 14, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 19, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Rush University Medical Center",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The primary objective of this study is to compare the clinical outcomes of arthroscopic rotator cuff repair with and without augmentation of mesenchymal stem cells (MSCs). Mesenchymal stem cells promote tissue regeneration by differentiating into adult cell lines and by supplying growth factors to their implanted environment. They have been shown to be effective in improving both overall healing and tendon integrity in rotator cuff repair. This study will follow 100 patients in the United States and track their clinical outcomes for at least one year post-operatively.",
+      "DetailedDescription": "Rotator cuff repair is one of the most commonly performed arthroscopic procedures in the United States, but re-tear remains a common long-term complication. This can lead to pain, decreased shoulder function, and the need for corrective surgery. Mesenchymal stem cells have been shown to improve healing rates in arthroscopic rotator cuff repair, primarily due to their retained ability to differentiate into several different adult cell lines, such as tenocytes, chondrocytes, and osteoblasts. MSCs further enhance the healing process by releasing growth factors into the local environment to promote tissue regeneration.\n\nWhile MSC augmentation of arthroscopic rotator cuff repair has led to higher rates of healing and improved tendon integrity, there remains a paucity of data surrounding clinical improvement after the procedure. Outcomes such as post-operative strength, range of motion, and shoulder function have yet to be compared with standard rotator cuff repair. The incidence of post-operative persistent structural defects in the tendon after MSC augmentation must also be further elucidated."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Full Thickness Rotator Cuff Tear"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Mesenchymal stem cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "100",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Rotator cuff repair with stem cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Using clinically accepted methods, subjects will undergo bone marrow aspiration (from hip, proximal humerus or tibia) through a small incision prior to arthroscopy in the group undergoing MSC augmentation. They will then undergo arthroscopic full thickness rotator cuff repair using a double row, TOE anchor/suture technique with mesenchymal stem cell augmentation.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Mesenchymal stem cell augmentation in rotator cuff repair",
+                "Procedure: Standard arthroscopic rotator cuff repair"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Rotator cuff repair without stem cells",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Subjects will undergo arthroscopic full thickness rotator cuff repair using a double row, TOE anchor/suture technique, without augmentation of mesenchymal stem cells. To maintain patient blinding, all patients will receive a small incision around the site of expected bone marrow aspiration (hip, proximal humerus, or tibia), regardless of whether or not they receive bone marrow.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Standard arthroscopic rotator cuff repair"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Mesenchymal stem cell augmentation in rotator cuff repair",
+            "InterventionDescription": "Patients undergoing mesenchymal stem cell augmentation will receive a total injection of 6 milliliters (mL). Of this, 3 mL will be injected in the tendon at the junction between bone and tendon, while 3 mL will be injected in the bone at the site of the surgical footprint.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Rotator cuff repair with stem cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Standard arthroscopic rotator cuff repair",
+            "InterventionDescription": "All patients will undergo full thickness rotator cuff repair using a double row, transosseous-equivalent (TOE) repair with anchor/suture technique. Acromioplasty will be performed in all patients. Alternate procedures such as biceps tenotomy/tenodesis and distal clavicle excision will be performed at the discretion of the surgeon and recorded.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Rotator cuff repair with stem cells",
+                "Rotator cuff repair without stem cells"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "American Shoulder and Elbow Surgeons (ASES) Score",
+            "PrimaryOutcomeDescription": "The primary outcome measure will be the ASES score at one year follow-up.",
+            "PrimaryOutcomeTimeFrame": "One year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Magnetic Resonance Imaging (MRI) Scan",
+            "SecondaryOutcomeDescription": "To assess for persistent structural tendon defects and to determine the integrity of the repair with comparisons to pre-operative MRI anatomy and tear description at the time of surgery.",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Functional Outcomes - Shoulder Exam",
+            "SecondaryOutcomeDescription": "Includes strength and range of motion to determine a Rowe score.",
+            "SecondaryOutcomeTimeFrame": "6 weeks, 6 months, and 1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Patient Centered Outcomes - Shoulder Survey",
+            "SecondaryOutcomeDescription": "Patients will be administered validated patient reported outcome measures post-operatively. These include a Visual Analog Scale (VAS) pain score, Constant score, Simple Shoulder Test, Single Assessment Numeric Evaluation (SANE) score, and the 12-Item Short Form Health Survey (SF-12).",
+            "SecondaryOutcomeTimeFrame": "6 weeks, 6 months, and 1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatient is determined to have a full thickness rotator cuff tear (1-3 cm) or partial tear converted to a full-thickness tear-on the pre-operative MRI scan or found arthroscopically-and is scheduled to undergo surgical repair\nWritten informed consent is obtained\n\nExclusion Criteria:\n\nRevision surgery\nIrreparable tear or partial repair\nAny patient lacking decisional capability\nSubscapularis involvement",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Carla Edwards, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "(312) 563-5735",
+            "CentralContactEMail": "carla_edwards@rush.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Nikhil N Verma, MD",
+            "OverallOfficialAffiliation": "Midwest Orthopaedics at Rush University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Rush University Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Chicago",
+            "LocationState": "Illinois",
+            "LocationZip": "60612",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Barb L Ramsey, RN",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "312-563-2883"
+                },
+                {
+                  "LocationContactName": "Nikhil N Verma, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Brian Forsythe, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Anthony Romeo, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Gregory Nicholson, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Brian J Cole, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "22048089",
+            "ReferenceType": "background",
+            "ReferenceCitation": "MacDonald P, McRae S, Leiter J, Mascarenhas R, Lapner P. Arthroscopic rotator cuff repair with and without acromioplasty in the treatment of full-thickness rotator cuff tears: a multicenter, randomized controlled trial. J Bone Joint Surg Am. 2011 Nov 2;93(21):1953-60. doi: 10.2106/JBJS.K.00488."
+          },
+          {
+            "ReferencePMID": "19405008",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Roy JS, MacDermid JC, Woodhouse LJ. Measuring shoulder function: a systematic review of four questionnaires. Arthritis Rheum. 2009 May 15;61(5):623-32. doi: 10.1002/art.24396. Review."
+          },
+          {
+            "ReferencePMID": "20124055",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Tashjian RZ, Deloach J, Green A, Porucznik CA, Powell AP. Minimal clinically important differences in ASES and simple shoulder test scores after nonoperative treatment of rotator cuff disease. J Bone Joint Surg Am. 2010 Feb;92(2):296-303. doi: 10.2106/JBJS.H.01296."
+          }
+        ]
+      }
+    }
+  },
+  "DocumentSection": {
+    "LargeDocumentModule": {
+      "LargeDocList": {
+        "LargeDoc": [
+          {
+            "LargeDocTypeAbbrev": "ICF",
+            "LargeDocHasProtocol": "No",
+            "LargeDocHasSAP": "No",
+            "LargeDocHasICF": "Yes",
+            "LargeDocLabel": "Informed Consent Form",
+            "LargeDocDate": "May 12, 2021",
+            "LargeDocUploadDate": "05/12/2021 10:30",
+            "LargeDocFilename": "ICF_000.pdf"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000070636",
+            "ConditionMeshTerm": "Rotator Cuff Injuries"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012421",
+            "ConditionAncestorTerm": "Rupture"
+          },
+          {
+            "ConditionAncestorId": "D000014947",
+            "ConditionAncestorTerm": "Wounds and Injuries"
+          },
+          {
+            "ConditionAncestorId": "D000070599",
+            "ConditionAncestorTerm": "Shoulder Injuries"
+          },
+          {
+            "ConditionAncestorId": "D000013708",
+            "ConditionAncestorTerm": "Tendon Injuries"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M14393",
+            "ConditionBrowseLeafName": "Rupture",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21938",
+            "ConditionBrowseLeafName": "Lacerations",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M624",
+            "ConditionBrowseLeafName": "Rotator Cuff Injuries",
+            "ConditionBrowseLeafAsFound": "Rotator Cuff Tear",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M602",
+            "ConditionBrowseLeafName": "Shoulder Injuries",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15631",
+            "ConditionBrowseLeafName": "Tendon Injuries",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M4006",
+            "InterventionBrowseLeafName": "Benzocaine",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "T433",
+            "InterventionBrowseLeafName": "Tannic Acid",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "CNSDep",
+            "InterventionBrowseBranchName": "Central Nervous System Depressants"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Ot",
+            "InterventionBrowseBranchName": "Other Dietary Supplements"
+          }
+        ]
+      }
+    }
+  }
+}

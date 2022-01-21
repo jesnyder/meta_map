@@ -1,0 +1,228 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02387151",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "NL4724400013"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2013-005407-14",
+            "SecondaryIdType": "EudraCT Number"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Leiden University Medical Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Allogeneic Mesenchymal Stromal Cell Therapy in Renal Transplant Recipients",
+      "OfficialTitle": "Safety of Allogeneic Bone Marrow Derived Mesenchymal Stromal Cell Therapy in Renal Transplant Recipients",
+      "Acronym": "Neptune"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2019",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 2015",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 2018",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 2018",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "March 3, 2015",
+      "StudyFirstSubmitQCDate": "March 6, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 12, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "June 30, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 2, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "M.E. J. Reinders",
+        "ResponsiblePartyInvestigatorTitle": "MD/PhD",
+        "ResponsiblePartyInvestigatorAffiliation": "Leiden University Medical Center"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Leiden University Medical Center",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study will test whether selected allogeneic bone marrow derived MSCs are safe by assessing the composite end point Biopsy Proven Acute Rejection (BPAR)/ graft loss at 12 months.",
+      "DetailedDescription": "Kidney transplantation has improved survival and quality of life for patients with end-stage renal disease. However, despite advances in immunosuppressive therapy, long-term allograft survival outcomes have not improved over the last decade.\n\nA promising novel therapeutic immunosuppressive option in the treatment of renal recipients with a profound effect on the fibrosis reaction is the clinical application of mesenchymal stromal cells (MSCs). Allogeneic MSCs offer the advantage of availability for clinical use without the delay required for expansion.\n\nAlthough it is believed that allo MSCs are immune privileged, they could possibly elicit an anti-donor immune response, which may increase the incidence of rejection/ graft loss and impact the allograft survival on the long term. These safety issues should be studied before further studies are planned with allogeneic MSCs in the transplant setting.\n\nMSCs are infused at a time point when immune suppression is lowered and the kidney is at increased risk for developing immune mediated injury. In addition, a large amount of the kidneys already has signs of fibrosis at this time point and MSCs might reduce the fibrosis which so importantly affects long term survival. MSCs will have no Human Leucocyte Antigen (HLA) sharing with the mismatches of the donor and the recipient should have no antibodies directed to the MSCs to reduce the anti-donor immune respons risk."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Rejection",
+          "Graft Loss"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Mesenchymal Stromal Cells",
+          "Rejection"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "10",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "mesenchymal stromal cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "allogeneic mesenchymal stromal cell infusion",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: mesenchymal stromal cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "mesenchymal stromal cells",
+            "InterventionDescription": "2 doses of 1-2x10^6 allogeneic bone marrow derives MSCs IV per/kg body weight at weeks 25 and 26 after transplantation",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "mesenchymal stromal cells"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "MSC",
+                "bone marrow derived mesenchymal stromal cells"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "biopsy proven acute rejection / graft loss",
+            "PrimaryOutcomeTimeFrame": "12 months after transplantation"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Comparison of fibrosis by quantitative Sirius Red scoring",
+            "SecondaryOutcomeTimeFrame": "Before MSC infusion (week 24 after transplantation) and 6 months after MSC infusion (week 52 after transplantation)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Serious adverse events",
+            "SecondaryOutcomeTimeFrame": "12 months after transplantation"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Renal function measured by cGFR (MDRD formula) and iohexol clearance",
+            "SecondaryOutcomeTimeFrame": "week 24 after transplantation (before MSC infusion) and 52 after transplantation"
+          },
+          {
+            "SecondaryOutcomeMeasure": "CMV, BK infection (viremia, disease and syndrome; and subtypes of BK viremia) and other opportunistic infections",
+            "SecondaryOutcomeTimeFrame": "from baseline up to 26 weeks after MSC treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Development of de novo donor specific antibodies (DSA) and immunological responses",
+            "SecondaryOutcomeTimeFrame": "at baseline, week 24 after transplantation (before MSC treatment) up to week 26 after MSC treatment"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSubject is willing to participate in the study, must be able to give informed consent and the consent must be obtained prior to any study procedure.\nRecipients of a first kidney graft from a living-unrelated or non-HLA identical living related donor.\nPanel Reactive Antibodies (PRA) ≤ 50%.\nPatients must be able to adhere to the study visit schedule and protocol requirements.\nIf female and of child-bearing age, subject must be non-pregnant, non-breastfeeding, and use adequate contraception.\n\nExclusion Criteria:\n\nDouble organ transplant recipient.\nBiopsy proven acute rejection (according to the Banff criteria) in the 4 weeks before MSC infusion.\nPatients with evidence of active infection or abscesses (with the exception of an uncomplicated urinary tract infection) before MSC infusion.\nPatients suffering from hepatic failure.\nPatients suffering from an active autoimmune disease.\nA psychiatric, addictive or any disorder that compromises ability to give truly informed consent for participation in this study.\nUse of any investigational drug after transplantation.\nDocumented HIV infection, active hepatitis B, hepatitis C or tuberculosis according to current transplantation inclusion criteria.\nSubjects who currently an active opportunistic infection at the time of MSC infusion (e.g., herpes zoster [shingles], cytomegalovirus (CMV), Pneumocystis carinii (PCP), aspergillosis, histoplasmosis, or mycobacteria other than tuberculosis, BK) after transplantation.\nMalignancy (including lymphoproliferative disease) within the past 2-5 years (except for squamous or basal cell carcinoma of the skin that has been treated with no evidence of recurrence) according to current transplantation inclusion criteria\nKnown recent substance abuse (drug or alcohol).\nPatients who are recipients of ABO incompatible transplants.\nPatients with severe total hypercholesterolemia (>7.5 mmol/L) or total hypertriglyceridemia (>5.6 mmol/L) (patients on lipid lowering treatment with controlled hyperlipidemia are acceptable).",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Marlies EJ Reinders, MD/PhD",
+            "OverallOfficialAffiliation": "Leiden University Medical Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Leiden University Medical Center",
+            "LocationCity": "Leiden",
+            "LocationZip": "2333 ZA",
+            "LocationCountry": "Netherlands"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "26537851",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Reinders ME, Dreyer GJ, Bank JR, Roelofs H, Heidt S, Roelen DL, Zandvliet ML, Huurman VA, Fibbe WE, van Kooten C, Claas FH, Rabelink TJ, de Fijter JW. Safety of allogeneic bone marrow derived mesenchymal stromal cell therapy in renal transplant recipients: the neptune study. J Transl Med. 2015 Nov 4;13:344. doi: 10.1186/s12967-015-0700-0."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    }
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02890953",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2016-06-005"
+      },
+      "Organization": {
+        "OrgFullName": "Samsung Medical Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Efficacy and Safety of Pneumostem® for IVH in Premature Infants (Phase 2a)",
+      "OfficialTitle": "Efficacy and Safety Evaluation of Pneumostem® Versus a Control Group for Treatment of IVH in Premature Infants (Phase 2a)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2019",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 28, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "August 31, 2016",
+      "StudyFirstSubmitQCDate": "September 6, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "September 7, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "April 10, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 11, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Won Soon Park",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Samsung Medical Center"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Samsung Medical Center",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The objective of this study is to evaluate the efficacy and safety of a single intraventricular administration of Pneumostem® for treatment of Intraventricular hemorrhage (IVH) in high-risk premature infants by comparing Pneumostem-treated group with a control group."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Cell Transplantation"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "22",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Control",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Control group receives placebo medication (normal saline)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Normal saline"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "MSC group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "MSC group receives mesenchymal stem cells transplantation (Pneumostem)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Pneumostem"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Pneumostem",
+            "InterventionDescription": "direct intracerebroventricular injection of mesenchymal stem cells via ventricular tap",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC group"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Umbilical cord blood derived mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Normal saline",
+            "InterventionDescription": "direct intracerebroventricular injection of normal saline via ventricular tap",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Death or shunt operation",
+            "PrimaryOutcomeDescription": "Death or shunt operation",
+            "PrimaryOutcomeTimeFrame": "until 40 weeks of corrected age"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "ventricular dilatation",
+            "SecondaryOutcomeDescription": "volume ratio of ventricle to whole brain in the brain MRI",
+            "SecondaryOutcomeTimeFrame": "until 40 weeks of corrected age"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Death",
+            "SecondaryOutcomeDescription": "Death",
+            "SecondaryOutcomeTimeFrame": "until 40 weeks of corrected age"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nIVH grade 3-4\nage : within postnatal day 28\ngestational age: 23-<34 weeks\n\nExclusion Criteria:\n\nPatient with severe congenital abnormalities\nPatient with antenatal brain hemorrhage\nPatient with asphyxia or Hypoxic ischemic encepalophathy\nPatient with chromosome anomalies (i.e. Edward syndrome, Patau syndrome, Down syndrome, etc) or severe congenital malformation (Hydrocephalus, Encephalocele, etc)\nPatient with a concurrent severe congenital infection (i.e. Herpes, Toxoplasmosis, Rubella, Syphilis, AIDS, etc)\nPatient withCRP > 30 mg/dL; Severe sepsis or shock\nPatient with a history of participating in other clinical studies\nPatient who is considered inappropriate to participate in the study by the investigator",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MaximumAge": "28 Days",
+      "StdAgeList": {
+        "StdAge": [
+          "Child"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "So Yoon Ahn, MD. Ph.D",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+821040380460",
+            "CentralContactEMail": "soyoon.ahn@samsung.com"
+          },
+          {
+            "CentralContactName": "Won Soon Park, MD. Ph.D",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+821099333523",
+            "CentralContactEMail": "ws123.park@samsung.com"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Samsung Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seoul",
+            "LocationZip": "135-710",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "So Yoon Ahn, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+82-02-3410-3745",
+                  "LocationContactEMail": "yoon.ahn.neo@gmail.com"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Samsung Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Won-Soon Park, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000047928",
+            "ConditionMeshTerm": "Premature Birth"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007752",
+            "ConditionAncestorTerm": "Obstetric Labor, Premature"
+          },
+          {
+            "ConditionAncestorId": "D000007744",
+            "ConditionAncestorTerm": "Obstetric Labor Complications"
+          },
+          {
+            "ConditionAncestorId": "D000011248",
+            "ConditionAncestorTerm": "Pregnancy Complications"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafAsFound": "Premature",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9924",
+            "ConditionBrowseLeafName": "Obstetric Labor, Premature",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9916",
+            "ConditionBrowseLeafName": "Obstetric Labor Complications",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13279",
+            "ConditionBrowseLeafName": "Pregnancy Complications",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04499794",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "NCC2064"
+      },
+      "Organization": {
+        "OrgFullName": "Chinese Academy of Medical Sciences",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "The Study of Exosome EML4-ALK Fusion in NSCLC Clinical Diagnosis and Dynamic Monitoring",
+      "OfficialTitle": "The Study of Exosome EML4-ALK Fusion in NSCLC Clinical Diagnosis and Dynamic Monitoring"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 1, 2020",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 31, 2024",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 31, 2025",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 31, 2020",
+      "StudyFirstSubmitQCDate": "July 31, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 5, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "July 31, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 5, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Yutao Liu",
+        "ResponsiblePartyInvestigatorTitle": "Physician",
+        "ResponsiblePartyInvestigatorAffiliation": "Chinese Academy of Medical Sciences"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Chinese Academy of Medical Sciences",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The application of ALK inhibitors in the first-line cancer treatment can significantly increase the PFS and ORR of patients those with EML4-ALK fusion. The contemporary clinical ALK fusion detection are mainly via FISH and ICH while biopsies are needed. For locations where are difficult to take biopsies, these routine examinations can hardly been adopted. Apart from these, part of ALK fusion patients are resistant to ALK inhibitors, also making an accurate and efficient prognostic indicator for efficacy evaluation and identifying high-risk recurrent population an urgent priority.\n\nThe bilayer membrane structure of exosome helps maintain its internal genetic stability, making detection of EML4-ALK fusion via plasma exosomes in advanced NSCLC patients a feasible way, which might provide a non-invasive and more convenient approach for NSCLC diagnosis and efficacy monitoring. Firstly, this study will evaluate the performance of exosome EML4-ALK fusion detection in NSCLC diagnosis, which sensitivity and specificity would be compared with the FDA approved IHC (ALK [D5F3] CDx Assay) test. Subsequently, this study would monitor the dynamic changes of EML4-ALK fusion in exosome examination diagnosed ALK fusion positive NSCLC patients both before and after treatment. It aims to prospectively evaluate the potential value of this approach on efficacy and prognosis prediction in NSCLC therapy and determining whether exosome ALK fusion could assess the curative effect more accurately than imaging examination and tumor markers. Thirdly, FISH diagnosed EML4-ALK positive NSCLC patients will be divided into the positive or negative subgroup according to their post-treatment exosome ALK fusion expression which were determined at 2-3 months after ALK inhibitor were adopted. The prognostic value of monitoring exosome EML4-ALK fusion expression is assessed through the comparison of patients PFS and OS."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Untreated Advanced NSCLC Patients",
+          "FISH Identified ALK Fusion Positive or Negative"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "75",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "FISH diagnosed EML4-ALK fusion positive NSCLC group",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: ALK inhibitor"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "FISH diagnosed EML4-ALK fusion negative NSCLC group"
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "ALK inhibitor",
+            "InterventionDescription": "ALK inhibitor treatment on ALK fusion positive NSCLC patients",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "FISH diagnosed EML4-ALK fusion positive NSCLC group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "ORR",
+            "PrimaryOutcomeDescription": "the ORR of those NSCLC patients receive ALK inhibitors treatment according to exosome ALK fusion diagnosis and FISH examination",
+            "PrimaryOutcomeTimeFrame": "6-8 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "PFS",
+            "SecondaryOutcomeDescription": "the PFS of those NSCLC patients receive ALK inhibitors treatment according to exosome ALK fusion diagnosis and FISH examination",
+            "SecondaryOutcomeTimeFrame": "36 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAll eligible patients must have histologically or cytologically confirmed stage IIIB-IV unresectable NSCLC positive or negative for EML4-ALK4 fusion as defined by FISH. Patients must have an ECOG PS of 0- 1 and have at least 1 measurable lesions (RECIST 1.1 standard). For eligible patients, prior ALK inhibitor therapy or previous systemic anticancer therapy is not allowed or has been completed over 12 months. Patients with brain metastasis are eligible only in a stable central nervous system condition and treatment outcome, cannot receive glucocorticoids and drugs prohibited in the exclusion criteria ≤14 days before the first dose of study drug.\n\nExclusion Criteria:\n\nEligible patients must not have received any major surgery ≤28 days before the first dose of study drug and must not have received any minor surgery or radiotherapy ≤14 days before the first dose of study drug. Any acute toxic reaction must have recovered to ≤ Grade 1 (except for hair loss). Patients with carcinomatous meningitis, leptomeningeal disease or spinal cord compression must be excluded.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "advanced NSCLC patients",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Yutao LIU, Doctor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86 13911901165",
+            "CentralContactEMail": "13911901165@139.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Yutao LIU, Doctor",
+            "OverallOfficialAffiliation": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Cancer Hospital Chinese Academy of Medical Sciences",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Beijing",
+            "LocationZip": "100021",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Yutao LIU, Doctor",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "13911901165",
+                  "LocationContactEMail": "13911901165@139.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "26588824",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Hyun KA, Kim J, Gwak H, Jung HI. Isolation and enrichment of circulating biomarkers for cancer screening, detection, and diagnostics. Analyst. 2016 Jan 21;141(2):382-92. doi: 10.1039/c5an01762a. Review."
+          },
+          {
+            "ReferencePMID": "23945385",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Cazzoli R, Buttitta F, Di Nicola M, Malatesta S, Marchetti A, Rom WN, Pass HI. microRNAs derived from circulating exosomes as noninvasive biomarkers for screening and diagnosing lung cancer. J Thorac Oncol. 2013 Sep;8(9):1156-62. doi: 10.1097/JTO.0b013e318299ac32."
+          },
+          {
+            "ReferencePMID": "31080561",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Castellanos-Rizaldos E, Zhang X, Tadigotla VR, Grimm DG, Karlovich C, Raez LE, Skog JK. Exosome-based detection of activating and resistance EGFR mutations from plasma of non-small cell lung cancer patients. Oncotarget. 2019 Apr 23;10(30):2911-2920. doi: 10.18632/oncotarget.26885. eCollection 2019 Apr 23."
+          },
+          {
+            "ReferencePMID": "29587818",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Tong Y, Zhao Z, Liu B, Bao A, Zheng H, Gu J, McGrath M, Xia Y, Tan B, Song C, Li Y. 5'/ 3' imbalance strategy to detect ALK fusion genes in circulating tumor RNA from patients with non-small cell lung cancer. J Exp Clin Cancer Res. 2018 Mar 27;37(1):68. doi: 10.1186/s13046-018-0735-1."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000002289",
+            "ConditionMeshTerm": "Carcinoma, Non-Small-Cell Lung"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000002283",
+            "ConditionAncestorTerm": "Carcinoma, Bronchogenic"
+          },
+          {
+            "ConditionAncestorId": "D000001984",
+            "ConditionAncestorTerm": "Bronchial Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008175",
+            "ConditionAncestorTerm": "Lung Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000012142",
+            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000013899",
+            "ConditionAncestorTerm": "Thoracic Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M4698",
+            "ConditionBrowseLeafName": "Carcinoma, Non-Small-Cell Lung",
+            "ConditionBrowseLeafAsFound": "NSCLC",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4686",
+            "ConditionBrowseLeafName": "Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4692",
+            "ConditionBrowseLeafName": "Carcinoma, Bronchogenic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4412",
+            "ConditionBrowseLeafName": "Bronchial Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10324",
+            "ConditionBrowseLeafName": "Lung Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14131",
+            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15810",
+            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

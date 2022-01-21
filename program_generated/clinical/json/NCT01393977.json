@@ -1,0 +1,340 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01393977",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2011-01-19SCI"
+      },
+      "Organization": {
+        "OrgFullName": "General Hospital of Chinese Armed Police Forces",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Difference Between Rehabilitation Therapy and Stem Cells Transplantation in Patients With Spinal Cord Injury in China",
+      "OfficialTitle": "Efficacy Difference Between Rehabilitation Therapy and Umbilical Cord Derived Mesenchymal Stem Cells Transplantation in Patients With Acute or Chronic Spinal Cord Injury in China"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2011",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 2011"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2011",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "May 2012",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 6, 2011",
+      "StudyFirstSubmitQCDate": "July 12, 2011",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 14, 2011",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "October 7, 2011",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 10, 2011",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "General Hospital of Chinese Armed Police Forces",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The morbidity of spinal cord injury (SCI) is increasing significantly in China. The methods to treat SCI patients in sequela stage update are poor. Though traditional rehabilitation therapy is the routine method to treat SCI in sequela stage, its effect to improve the neurological disorders of these patients, such as the dysfunction of sense, motor, autologous adjustment of blood pressure control of urination and defecation, perspiration , etc. is unsatisfying. Rehabilitation Therapy can prevent the process of muscle atrophy and joint stiffness. However, it can not repair the damaged nerve function. Studies show that mesenchymal stem cell transplantation can remarkably improve the neurological function of SCI in animals without any severe side effect.\n\nIn this study, the investigators use mesenchymal stem cells derived from umbilical cord to treat 40 SCI patients (20 cases in early stage and 20 cases in sequela stage). The investigators also follow-up ten patients who only receive rehabilitation and another ten outpatients who accept neither stem cell therapy nor rehabilitation. On this basis, the investigators can compare the efficacy of these two treatments.",
+      "DetailedDescription": "Patients enrolled in this study need to finish our whole follow-up survey, which is carried out by clinical doctors and epidemiologist."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Spinal Cord Injuries"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Spinal Cord Injuries",
+          "Stem Cell Transplantation",
+          "Rehabilitation"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Factorial Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "control",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "Outpatient in hospital"
+          },
+          {
+            "ArmGroupLabel": "rehabilitation",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "interventions: rehabilitation",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: rehabilitation of limb function"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Stem Cell Transplantation",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "interventions: stem cell transplantation",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Stem Cells Transplantation"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "rehabilitation of limb function",
+            "InterventionDescription": "only receive rehabilitation of limb function",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "rehabilitation"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "phsical exercise rehabilitation"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Stem Cells Transplantation",
+            "InterventionDescription": "mesenchymal stem cells derived from umbilical cord are transplanted directly into subarachnoid by Lumbar puncture",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Stem Cell Transplantation"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Electromyogram and Electroneurophysiologic test",
+            "PrimaryOutcomeDescription": "Brain stem auditory evoked potential (BAEP)and electromyography can display the nerve conduction velocity and the improvement of neurological function.",
+            "PrimaryOutcomeTimeFrame": "3 monthes after enrollment or transplantation"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Electromyogram and Electroneurophysiologic test",
+            "SecondaryOutcomeDescription": "Brain stem auditory evoked potential (BAEP)and electromyography can display the nerve conduction velocity and the improvement of neurological function.",
+            "SecondaryOutcomeTimeFrame": "6monthes after enrollment or transplantation"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Electromyogram and Electroneurophysiologic test",
+            "SecondaryOutcomeDescription": "Brain stem auditory evoked potential (BAEP)and electromyography can display the nerve conduction velocity and the improvement of neurological function.",
+            "SecondaryOutcomeTimeFrame": "12monthes after enrollment or transplantation"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients or their curator must be able to give voluntary consent.\nPatients or their curator Must be able to understand the information of study and in which group they are.\n20 years - 50 years of age can be enrolled.\nBoth male and female can be enrolled.\nPatients have clear history of traumatic injury, and the spinal cord injury are confirmed by all of the examinations including MRI, electromyogram and electrophysiology.\n\nExclusion Criteria:\n\nMental disorders\nMyelitis\nWomen in pregnancy\nCancer",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "50 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "An Yihua, doctor",
+            "OverallOfficialAffiliation": "Chinese People's Armed Police Force",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Yihua An",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Beijing",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Yihua An, doctor",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "0086-10-88276848",
+                  "LocationContactEMail": "doctoran2010@hotmail.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "25209445",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Cheng H, Liu X, Hua R, Dai G, Wang X, Gao J, An Y. Clinical observation of umbilical cord mesenchymal stem cell transplantation in treatment for sequelae of thoracolumbar spinal cord injury. J Transl Med. 2014 Sep 12;12:253. doi: 10.1186/s12967-014-0253-7."
+          }
+        ]
+      }
+    }
+  },
+  "AnnotationSection": {
+    "AnnotationModule": {
+      "UnpostedAnnotation": {
+        "UnpostedResponsibleParty": "General Hospital of Chinese Armed Police Forces",
+        "UnpostedEventList": {
+          "UnpostedEvent": [
+            {
+              "UnpostedEventType": "Release",
+              "UnpostedEventDate": "June 18, 2012"
+            },
+            {
+              "UnpostedEventType": "Reset",
+              "UnpostedEventDate": "July 20, 2012"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000013119",
+            "ConditionMeshTerm": "Spinal Cord Injuries"
+          },
+          {
+            "ConditionMeshId": "D000014947",
+            "ConditionMeshTerm": "Wounds and Injuries"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000013118",
+            "ConditionAncestorTerm": "Spinal Cord Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000020196",
+            "ConditionAncestorTerm": "Trauma, Nervous System"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15068",
+            "ConditionBrowseLeafName": "Spinal Cord Injuries",
+            "ConditionBrowseLeafAsFound": "Spinal Cord Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafAsFound": "Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M15067",
+            "ConditionBrowseLeafName": "Spinal Cord Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21176",
+            "ConditionBrowseLeafName": "Trauma, Nervous System",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

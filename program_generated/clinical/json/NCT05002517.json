@@ -1,0 +1,619 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05002517",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "TOCICOVID"
+      },
+      "Organization": {
+        "OrgFullName": "Asociacion Instituto Biodonostia",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Randomized, Unicentric, Open, Controlled Clinical Trial, in Phase Iii, to Demonstrate the Effectiveness of Tocilizumab",
+      "OfficialTitle": "Randomized, Unicentric, Open, Controlled Clinical Trial, in Phase Iii, to Demonstrate the Effectiveness of Tocilizumab Against Systemic Corticotherapy in Patients Admitted by Covid-19 With Bilateral Pneumonia and Poor Evolution"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 3, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 31, 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 31, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "August 9, 2021",
+      "StudyFirstSubmitQCDate": "August 11, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 12, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 11, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 12, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Asociacion Instituto Biodonostia",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Randomized, open, single-center, controlled clinical trial, with 2 treatment arms that seeks to demonstrate the effectiveness of tocilizumab against systemic corticosteroids, both treatments added to supportive treatment in patients admitted for COVID-19 with bilateral pneumonia and poor evolution"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID-19 Pneumonia"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Tociliziumab group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients assigned to this arm will receive an intravenous dose of tocilizumab. Patients weighing 75 kg or more will receive 600 mg. Those weighing less than 75 kg will receive 400 mg.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Tociliziumab group"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Metilprednisolone group",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patients in this arm will receive a daily intravenous dose of 250 mg methylprednisolone for 3 days.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Methylprednisolone group"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Tociliziumab group",
+            "InterventionDescription": "Tocilizumab is a humanized recombinant IgG1 monoclonal antibody to human interleukin-6 (IL-6) receptor, produced in Chinese hamster ovary cells by recombinant DNA technology.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Tociliziumab group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Methylprednisolone group",
+            "InterventionDescription": "Methylprednisolone belongs to a group of medicines called corticosteroids (it works at the cellular level by reducing the production of substances that cause inflammation or allergy).",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Metilprednisolone group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Respiratory situation at 24 hours, 3 and 7 days based on the PaO2 / FiO2 ratio that graduates respiratory distress into mild (200-300), moderate (100-200) and severe (<100).",
+            "PrimaryOutcomeDescription": "Quantitative variable that will be analyzed as qualitative (better, worse) based on whether there is a change in the graduation described above.",
+            "PrimaryOutcomeTimeFrame": "7 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Immune hyperactivation situation: LDH, D-dimer and ferritin value at 24 hours, 3 and 7 days. Each one is a quantitative variable.",
+            "PrimaryOutcomeDescription": "They will be measured as such and also qualitatively (worse, better) independently and together. A worsening of 2 of the 3 variables will be considered \"worse\"; \"Better\" if there is improvement in 2 of the 3.",
+            "PrimaryOutcomeTimeFrame": "7 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Mechanical ventilation: qualitative variable (yes or no)",
+            "PrimaryOutcomeTimeFrame": "7 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Combined variable of variables i, iii and in-hospital mortality (this is understood to be: respiratory deterioration or need for mechanical ventilation or in-hospital death)",
+            "PrimaryOutcomeTimeFrame": "7 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Number of patients admitted to the ICU",
+            "SecondaryOutcomeTimeFrame": "10 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to admission to the ICU (from the beginning of the trial and from the beginning of the picture)",
+            "SecondaryOutcomeTimeFrame": "10 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to the start of mechanical ventilation (from the start of the trial and from the start of the picture)",
+            "SecondaryOutcomeTimeFrame": "10 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time of admission to ICU",
+            "SecondaryOutcomeTimeFrame": "10 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Total admission time",
+            "SecondaryOutcomeTimeFrame": "10 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "In-hospital mortality",
+            "SecondaryOutcomeTimeFrame": "10 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Mortality at 30 and 60 days",
+            "SecondaryOutcomeTimeFrame": "60 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Respiratory situation at 30 and 60 days according to pulse oximetric O2 saturation, respiratory rate and presence of dyspnea and NYHA grade.",
+            "SecondaryOutcomeTimeFrame": "10 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Documented nosocomial infections",
+            "SecondaryOutcomeTimeFrame": "10 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\n1) Patient over 18 years old\n2) Ability to grant consent\n3) Bilateral pneumonia produced by SARS-CoV-2 without response in 48-72 hours after starting the treatment used according to the local protocol. This is defined as persistence of fever (above 37.5ºC without another focus) and respiratory worsening (more dyspnea and / or more cough and / or oxygen therapy at increasing doses and / or worsening of the degree of respiratory distress according to the PaO2 / FiO2 ratio in categories \"mild, moderate or severe\") or absence of improvement compared to the previous state\n4) Persistently elevated inflammatory markers, among which the following must be met: ferritin greater than 1000 ng / mL and / or D-dimer greater than 1500 ng / mL and / or IL-6 greater than 40 pg / mL [35-37], and / or CRP above 150 (mg / L) or having doubled the CRP provided it was above 50. Since this is what is included within the definition of \"inflammatory phenotype\"\n\nExclusion Criteria:\n\n1) Embarazo y lactancia\n2) Situación terminal o esperanza de vida inferior a 30 días a juicio del investigador\n3) Alergia o intolerancia a alguno de los fármacos en estudio o a alguno de los excipientes de los preparados (p. ej polisorbato 80)\n4) Interacción no tolerable de los fármacos del estudio con alguna medicación crónica imprescindible del paciente\n5) Transaminasas elevadas por encima de cinco veces el límite superior de la normalidad\n6) Severe neutropenia (<500 cells / mm3)\n7) Plaquetopenia <50,000 / mm3\n8) Sepsis (clinical suspicion of active infection at another level with a value on the qSOFA scale of two or more points) or septic shock (need for vasopressors to maintain a mean arterial pressure greater than or equal to 65 mmHg, with a lactate of more 2 mmol / L, despite adequate volume replacement\n9) Another active infection at any level\n10) Complicated diverticulitis or intestinal perforation\n11) Renal failure with estimated glomerular filtration rate less than 30 mL / min\n12) Hepatic failure (Child B onwards)\n13) Previous use (during the acute process or as chronic medication for another reason) of medication with a potential effect in this phase of the disease (janus kinase inhibitors, interleukin 1 inhibitors, other immunosuppressants or immunomodulators that in the opinion of the investigator could have an effect on the disease based on pathophysiological criteria or on previous research or started in this same period). Clarification: The use of dexamethasone according to the RECOVERY study guideline or corticosteroid therapy at equivalent doses will not be included at this point.\n14) Being included in another clinical trial\n15) Patients who, due to their current situation, their baseline situation or other aspects, in the opinion of the researcher, are not considered candidates to enter the study",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "Male",
+      "GenderBased": "Yes",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "99 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Clinical Research Platform Biodonostia Health Research Institute",
+            "LocationCity": "San Sebastián",
+            "LocationState": "Guipuzcoa",
+            "LocationZip": "20014",
+            "LocationCountry": "Spain"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000011014",
+            "ConditionMeshTerm": "Pneumonia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafAsFound": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000008775",
+            "InterventionMeshTerm": "Methylprednisolone"
+          },
+          {
+            "InterventionMeshId": "D000077555",
+            "InterventionMeshTerm": "Methylprednisolone Acetate"
+          },
+          {
+            "InterventionMeshId": "D000008776",
+            "InterventionMeshTerm": "Methylprednisolone Hemisuccinate"
+          },
+          {
+            "InterventionMeshId": "D000011239",
+            "InterventionMeshTerm": "Prednisolone"
+          },
+          {
+            "InterventionMeshId": "C000009935",
+            "InterventionMeshTerm": "Prednisolone acetate"
+          },
+          {
+            "InterventionMeshId": "C000021322",
+            "InterventionMeshTerm": "Prednisolone hemisuccinate"
+          },
+          {
+            "InterventionMeshId": "C000009022",
+            "InterventionMeshTerm": "Prednisolone phosphate"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000893",
+            "InterventionAncestorTerm": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000932",
+            "InterventionAncestorTerm": "Antiemetics"
+          },
+          {
+            "InterventionAncestorId": "D000001337",
+            "InterventionAncestorTerm": "Autonomic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018373",
+            "InterventionAncestorTerm": "Peripheral Nervous System Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000005765",
+            "InterventionAncestorTerm": "Gastrointestinal Agents"
+          },
+          {
+            "InterventionAncestorId": "D000005938",
+            "InterventionAncestorTerm": "Glucocorticoids"
+          },
+          {
+            "InterventionAncestorId": "D000006728",
+            "InterventionAncestorTerm": "Hormones"
+          },
+          {
+            "InterventionAncestorId": "D000006730",
+            "InterventionAncestorTerm": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+          },
+          {
+            "InterventionAncestorId": "D000018696",
+            "InterventionAncestorTerm": "Neuroprotective Agents"
+          },
+          {
+            "InterventionAncestorId": "D000020011",
+            "InterventionAncestorTerm": "Protective Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018931",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Hormonal"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3382",
+            "InterventionBrowseLeafName": "Antibodies, Monoclonal",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M13272",
+            "InterventionBrowseLeafName": "Prednisolone",
+            "InterventionBrowseLeafAsFound": "Evaluating",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M1833",
+            "InterventionBrowseLeafName": "Methylprednisolone Acetate",
+            "InterventionBrowseLeafAsFound": "Evaluating",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M10901",
+            "InterventionBrowseLeafName": "Methylprednisolone",
+            "InterventionBrowseLeafAsFound": "Evaluating",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M10902",
+            "InterventionBrowseLeafName": "Methylprednisolone Hemisuccinate",
+            "InterventionBrowseLeafAsFound": "Evaluating",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M229437",
+            "InterventionBrowseLeafName": "Prednisolone acetate",
+            "InterventionBrowseLeafAsFound": "Evaluating",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M211896",
+            "InterventionBrowseLeafName": "Prednisolone hemisuccinate",
+            "InterventionBrowseLeafAsFound": "Evaluating",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M248768",
+            "InterventionBrowseLeafName": "Prednisolone phosphate",
+            "InterventionBrowseLeafAsFound": "Evaluating",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3369",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3403",
+            "InterventionBrowseLeafName": "Antiemetics",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8033",
+            "InterventionBrowseLeafName": "Gastrointestinal Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8199",
+            "InterventionBrowseLeafName": "Glucocorticoids",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8941",
+            "InterventionBrowseLeafName": "Hormones",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8940",
+            "InterventionBrowseLeafName": "Hormone Antagonists",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19926",
+            "InterventionBrowseLeafName": "Neuroprotective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21022",
+            "InterventionBrowseLeafName": "Protective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20119",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Hormonal",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infl",
+            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "AnEm",
+            "InterventionBrowseBranchName": "Antiemetics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "NeuroAg",
+            "InterventionBrowseBranchName": "Neuroprotective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Gast",
+            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+          }
+        ]
+      }
+    }
+  }
+}

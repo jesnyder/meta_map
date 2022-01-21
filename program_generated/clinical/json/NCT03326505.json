@@ -1,0 +1,383 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03326505",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "ALLOMSUJCTC"
+      },
+      "Organization": {
+        "OrgFullName": "University of Jordan",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Allogenic Mesenchymal Stem Cells And Physical Therapy for MS Treatment",
+      "OfficialTitle": "The Effect of Stem Cell Therapy and Comprehensive Physical Therapy in Motor and Non-Motor Symptoms in Patients With Multiple Sclerosis: A Comparative Study."
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "February 2020",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 25, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 25, 2020",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "February 20, 2020",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "May 9, 2017",
+      "StudyFirstSubmitQCDate": "October 25, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 31, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "February 28, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 4, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Fatima Jamali",
+        "ResponsiblePartyInvestigatorTitle": "Head of Neuroscience Research",
+        "ResponsiblePartyInvestigatorAffiliation": "University of Jordan"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of Jordan",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study aims at expanding Umbilical Cord derived Mesenchymal Stem Cells (MSCs) to a clinical scale according to Good Laboratory Practice and study its efficacy when compared to a Supervised Physical Therapy Program alone.",
+      "DetailedDescription": "Umbilical cord derived MSCs bank will be generated and all patients given the same cells from the same biological sample.\n\nThorough clinical, cognitive and motor analysis will be performed at baseline and compared to outcomes at 3 different time points of all enrolled patients.\n\nThe study will consist of three arms: 1- Stem cells treatment 2- Stem cells and supervised physical therapy 3- Supervised physical therapy"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Multiple Sclerosis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Umbilical Cord Mesenchymal Stem Cells",
+          "Multiple Sclerosis",
+          "Neuroimmunology",
+          "Autoimmune disease",
+          "Physical therapy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Injection of Umbilical cord derived UC- MSCs",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Allogenic Umbilical Cord derived stem cells injected intrathecally to enrolled MS patients",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Umbilical cord derived Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "injection of UC- MSCs and SPT",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Allogenic Umbilical Cord derived stem cells injected intrathecally to enrolled MS patients along with a supervised physical therapy program",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Umbilical cord derived Mesenchymal Stem Cells",
+                "Other: Supervised physical therapy"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Supervised Physical Therapy (SPT)",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Supervised physical therapy program without stem cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Supervised physical therapy"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Umbilical cord derived Mesenchymal Stem Cells",
+            "InterventionDescription": "Allogenic umbilical cord derived stem cells which are to be injected intrathecally as a treatment option for consenting MS patients",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Injection of Umbilical cord derived UC- MSCs",
+                "injection of UC- MSCs and SPT"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "UC-MSCs"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Supervised physical therapy",
+            "InterventionDescription": "A combined physical therapy program of Balance, strengthening and endurance exercises",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Supervised Physical Therapy (SPT)",
+                "injection of UC- MSCs and SPT"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "SPT"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Isolation and Expansion of Mesenchymal Stem Cells",
+            "PrimaryOutcomeDescription": "To isolate stem cells from UC: first, the cord will be cut into small pieces around (4-5cm) and washed with phosphate buffered saline, then the umbilical vein and the two arteries will be removed.These pieces will be placed in culture plate and cultured in UC-MSCs medium consist of; alpha modification of Minimum Essential Medium (α-MEM) supplemented with 10% fetal bovine serum, 1% glutamine, 1% penicillin/streptomycin and 1 μg/mL amphotericin B.After incubation period the undigested tissue will be discarded and nucleated cells will be pelleted by centrifugation at 450xg for 10 minutes. Cell pellet will be re-suspended in UC-MSCs culture medium, cultured in tissue culture flasks and placed in CO2 incubator at 37°C, 5% CO2. Cells will be expanded in multilayer cell factory tissue culture flasks to reach an estimated 108 UC-MSCs that will be frozen in bags of 106 cells for subsequent thawing and administration.",
+            "PrimaryOutcomeTimeFrame": "3-6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Safety and Efficacy Assessment Pre and Post Treatment",
+            "SecondaryOutcomeDescription": "Outcome measures will be assessed at 3 months pre-treatment, baseline (prior injections), 3 months, 6 months, and 12 months.\n\nInformed consent will be obtained in writing from each subject prior to participation in the study. If the subject is unable to give consent or he/she scores less than 24 on the Mini Mental Status Examination (MMSE), they will be excluded from the study. The research personnel involved in the study will carefully explain the consent form to the subject. The subject will then be given ample opportunity to ask questions prior agreeing to participate. If the need arises the research personnel will be available to answer questions and address any concerns.",
+            "SecondaryOutcomeTimeFrame": "3-12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Motor Functions Assessments",
+            "SecondaryOutcomeDescription": "A number of motor function tests will be performed with every follow up visit for all 30 patients.",
+            "SecondaryOutcomeTimeFrame": "3-12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Measuring Non-motor outcomes to assess treatment efficacy.",
+            "SecondaryOutcomeDescription": "Clinical Tests ,all patients will be evaluated clinically using qualitative and quantitative tests.",
+            "SecondaryOutcomeTimeFrame": "3-6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Biological Assessments",
+            "SecondaryOutcomeDescription": "Blood samples will be collected pre and post treatment for immediate or ulterior analysis. Results will be compared between individuals and then between the two groups that received one or two doses of UC-MSCs.",
+            "SecondaryOutcomeTimeFrame": "3-12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nA clinical diagnosis of definite MS according to the revised McDonald Criteria.\nExpanded Disability Status Scale (EDSS) ≤ 7\nFailure of standard medical therapy\nDisease duration of at least three years prior to enrollment.\n\nExclusion Criteria:\n\nPregnant and lactating women\nPrevious treatment with immunosuppressive agents in the last 12 months prior to enrollment\nRecent MS relapse in the month prior to enrollment\nTreatment with oral or parenteral steroids for any cause in the month prior to enrollment\nSignificant systemic medical disorders including cardiac, renal, hepatic, hematologic, immunologic or endocrine disorders\nPrevious treatment with interferons or glatiramer acetate in the 3 months prior to enrollment\nAny contra-indication for magnetic resonance imaging (MRI) or gadolinium contrast.\nPositive serology for HIV, Hepatitis B or Hepatitis C\nAny history of malignancy or exposure to radiation at any time prior to enrollment\nAny contra-indication to lumbar puncture\nSevere cognitive impairment that would interfere with the patient's ability to understand and sign the informed consent.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Abdallah Awidi, MD",
+            "OverallOfficialAffiliation": "Cell Therapy Center",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Cell Therapy Center, University of Jordan",
+            "LocationCity": "Amman",
+            "LocationZip": "11942",
+            "LocationCountry": "Jordan"
+          },
+          {
+            "LocationFacility": "Cell Therapy Center",
+            "LocationCity": "Amman",
+            "LocationZip": "11942",
+            "LocationCountry": "Jordan"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "32846775",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Alghwiri AA, Jamali F, Aldughmi M, Khalil H, Al-Sharman A, Alhattab D, Al-Radaideh A, Awidi A. The effect of stem cell therapy and comprehensive physical therapy in motor and non-motor symptoms in patients with multiple sclerosis: A comparative study. Medicine (Baltimore). 2020 Aug 21;99(34):e21646. doi: 10.1097/MD.0000000000021646."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009103",
+            "ConditionMeshTerm": "Multiple Sclerosis"
+          },
+          {
+            "ConditionMeshId": "D000012598",
+            "ConditionMeshTerm": "Sclerosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000020278",
+            "ConditionAncestorTerm": "Demyelinating Autoimmune Diseases, CNS"
+          },
+          {
+            "ConditionAncestorId": "D000020274",
+            "ConditionAncestorTerm": "Autoimmune Diseases of the Nervous System"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003711",
+            "ConditionAncestorTerm": "Demyelinating Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11212",
+            "ConditionBrowseLeafName": "Multiple Sclerosis",
+            "ConditionBrowseLeafAsFound": "Multiple Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14567",
+            "ConditionBrowseLeafName": "Sclerosis",
+            "ConditionBrowseLeafAsFound": "Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21251",
+            "ConditionBrowseLeafName": "Demyelinating Autoimmune Diseases, CNS",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21247",
+            "ConditionBrowseLeafName": "Autoimmune Diseases of the Nervous System",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6061",
+            "ConditionBrowseLeafName": "Demyelinating Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

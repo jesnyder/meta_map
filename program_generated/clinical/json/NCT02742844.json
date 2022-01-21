@@ -1,0 +1,390 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02742844",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "APZ2-II-01"
+      },
+      "Organization": {
+        "OrgFullName": "RHEACELL GmbH & Co. KG",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Clinical Trial to Investigate Efficacy and Safety of the IMP in Patients With Non Healing Wounds Originating From Ulcers",
+      "OfficialTitle": "An Interventional, Single Arm, Phase I/IIa Clinical Trial to Investigate the Efficacy and Safety of APZ2 on Wound Healing of Chronic Venous Ulcer (CVU)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "February 2020",
+      "OverallStatus": "Terminated",
+      "WhyStopped": "COVID-19 pandemic and patient recruitment issues",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 2016",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 15, 2019",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 15, 2019",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "April 7, 2016",
+      "StudyFirstSubmitQCDate": "April 13, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 19, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "July 1, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 7, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "RHEACELL GmbH & Co. KG",
+        "LeadSponsorClass": "INDUSTRY"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Ticeba GmbH",
+            "CollaboratorClass": "INDUSTRY"
+          },
+          {
+            "CollaboratorName": "FGK Clinical Research GmbH",
+            "CollaboratorClass": "INDUSTRY"
+          },
+          {
+            "CollaboratorName": "Granzer Regulatory Consulting & Services",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The aim of this clinical trial is to investigate the efficacy (by monitoring the wound size reduction) and safety (by monitoring occurring adverse events) of the investigational medicinal product APZ2 after one single application on chronic venous leg ulcer wounds.",
+      "DetailedDescription": "This is an interventional, single arm, phase I/IIa clinical trial to investigate the efficacy and safety of ABCB5+ mesenchymal stem cells (MSCs) on wound healing in patients with chronic venous ulcer (CVU). Autologous MSCs will be isolated ex vivo from a small skin biopsy and will be expanded in vitro. The IMP APZ2 containing the ABCB5+ cells will then be applied on the wound surface of CVU under local anesthesia.\n\nPatients are followed up for efficacy for 3 months which allows to distinguish actual wound healing from transient wound coverage.\n\nThe wound healing process will be documented by standardized photography. The wound size evaluation will start on the day of the first change of wound dressing. The quality of the wound healing process will be assessed on the basis of formation of granulation tissue, epithelialization and wound exudation.\n\nPain will be assessed using a numerical rating scale and quality of life will be investigated with standardized and validated questionnaires. To assess long-term safety of APZ2 an additional follow-up visit at Month 12 post IMP application is included."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Skin Ulcer Venous Stasis Chronic"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "phase I/IIa",
+          "mesenchymal stem cells",
+          "ABCB5+",
+          "APZ2",
+          "chronic venous ulcer",
+          "varicose ulcer",
+          "skin ulcer",
+          "advanced therapy medicinal product",
+          "APZ2-II-01",
+          "autologous use",
+          "somatic cell therapy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "13",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "APZ2 application",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Topical, single application of APZ2; 500000 cells per square cm;",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: APZ2 application"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "APZ2 application",
+            "InterventionDescription": "Application of IMP on patients wound.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "APZ2 application"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Percentage of wound size reduction",
+            "PrimaryOutcomeDescription": "Percentage of wound size reduction at Week 12, or last available post-baseline measurement if the Week 12 measurement is missing (last observation carried forward [LOCF])",
+            "PrimaryOutcomeTimeFrame": "Week 12 post baseline, or last available post-baseline measurement if the Week 12 measurement is missing"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Assessment of adverse event (AE) occurrence",
+            "PrimaryOutcomeDescription": "All during the clinical trial occurring AEs will be registered, documented and evaluated.",
+            "PrimaryOutcomeTimeFrame": "At biopsy removal, 1-3 days post biopsy, 7-10 days post biopsy, 6-12 weeks post biopsy; at baseline and days 3, 8 and weeks 2, 3, 4, 6, 8, 10, 12 and month 12 post baseline"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Percentage of wound size reduction",
+            "SecondaryOutcomeDescription": "Percentage of wound size reduction at Weeks 2, 3, 4, 6, 8, 10 and 12 (without LOCF)",
+            "SecondaryOutcomeTimeFrame": "Weeks 2, 3, 4, 6, 8, 10 and 12 post baseline"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Absolute wound size reduction",
+            "SecondaryOutcomeTimeFrame": "Weeks 2, 3, 4, 6, 8, 10, and 12 post baseline"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Proportion of patients achieving complete wound closure",
+            "SecondaryOutcomeTimeFrame": "Weeks 2, 3, 4, 6, 8, 10, and 12 post baseline and at any time point up to week 12"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to first complete wound closure",
+            "SecondaryOutcomeDescription": "A priori specification not possible",
+            "SecondaryOutcomeTimeFrame": "Between baseline and week 12 post baseline"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Proportion of patients achieving 30% wound closure",
+            "SecondaryOutcomeTimeFrame": "Weeks 2, 3, 4, 6, 8, 10, 12 post baseline and at any time point up to week 12"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to first 30% wound closure",
+            "SecondaryOutcomeDescription": "A priori specification not possible",
+            "SecondaryOutcomeTimeFrame": "Between baseline and week 12 post baseline"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Percentage of wound epithelialization",
+            "SecondaryOutcomeDescription": "Amount of wound epithelialization in % of wound area will be assessed by the investigator based on image analysis of images taken from the wound.",
+            "SecondaryOutcomeTimeFrame": "At baseline and days 3, 8 and weeks 2, 3, 4, 6, 8, 10, 12 post baseline"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Formation of granulation tissue and wound exudation",
+            "SecondaryOutcomeDescription": "Formation of granulation tissue in % of wound area will be assessed by the investigator based on image analysis of images taken from the wound.\n\nWound exudation will be classified by the investigator using following scores:\n\nHigh: Small amounts of fluid or free fluids are visible when the dressing is removed; dressing is extensively marked or wet\nModerate: Small amounts of fluid are visible when dressing is removed; wound bed may appear glossy; Primary dressing may be lightly marked\nLow: Wound bed is dry; there is no visible moisture; Primary dressing is unmarked; dressing may be adherent to wound",
+            "SecondaryOutcomeTimeFrame": "At baseline and days 3, 8 and weeks 2, 3, 4, 6, 8, 10, 12 post baseline"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Pain assessment as per numerical rating scale (NRS)",
+            "SecondaryOutcomeTimeFrame": "At baseline and days 1-3, 8 and weeks 2, 3, 4, 6, 8, 10, 12 post baseline"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of life (QoL) assessment using the SF-36 questionnaire",
+            "SecondaryOutcomeTimeFrame": "At baseline and weeks 4, 8, 12 post baseline"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Dermatologic quality of life assessment using the DLQI questionnaire",
+            "SecondaryOutcomeTimeFrame": "At baseline and weeks 4, 8, 12 post baseline"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Physical examination and vital parameters",
+            "SecondaryOutcomeTimeFrame": "At Screening, baseline, week 12, month 12"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female patients aged 18 to 85 years;\nChronic venous leg ulcer (as defined by the current AWMF guidelines: therapy resistant ulcer that shows no improvement within 3 months despite of optimal phlebological therapies or is not healed within 12 months) for at least 6 weeks but shorter than 3 years diagnosed by doppler ultrasonography (DUS), ankle brachial index (ABI, 0.9-1.3), physical examination and dermatological review;\nWound size between 5 and 50 square cm measured by a standardized photography at the screening visit;\nWound location between knee and ankle;\nPatients suffering from 2 ulcers at the same extremity, as long as these ulcers are separated by a minimum bridge of 1 cm of epithelialized skin;\nPatients must agree to have at least one biopsy performed before treatment. In case IMP production from the first biopsy is not successful, a second biopsy will be taken;\nBody mass index (BMI) between 20 and 40 kg/m²;\nPatients understand the nature of the procedure and are providing written informed consent prior to any clinical trial procedure;\nWomen of childbearing potential must have a negative blood pregnancy test at Screening and at Visit 5 before the IMP application;\nWomen of childbearing potential and their partner must be willing to use highly effective contraceptive methods during the course of the clinical trial.\n\nExclusion Criteria:\n\nGeneral exclusion criteria\n\nEvidence of the ulcer extending to the underlying muscle, tendon, or bone;\nCurrent long-term use (more than 14 days) of steroid medication above Cushing-threshold dose (>7.5 mg/d prednisone or equivalent);\nDiabetes mellitus that has to be evaluated by blood test (Hemoglobin A1c [HbA1c] > 7.5%);\nPeripheral Artery Disease (PAD) including claudication with need of treatment;\nAcute deep vein thrombosis (maximum 30 days from diagnosis) or a still untreated deep vein thrombosis;\nUnable to tolerate leg ulcer compression bandage;\nInfection of the target ulcer requiring treatment as judged clinically;\nWound size <1.5 cm² measured by a standardized photography at Visit 5;\nAny chronic dermatological disorders diagnosed at the investigator's discretion;\nSkin disorders, unrelated to the ulcer, that are present adjacent to the target wound;\nCurrent use of medications that influence wound healing: systemic immunosuppressives, cytotoxic medicinal products, and systemic steroids (above Cushing-threshold level);\nKnown abuse of alcohol, drugs, or medicinal products;\nCancerous or pre-cancerous lesions adjacent to the target wound;\nPatients anticipated to be unwilling or unable to comply with the requirements of the protocol;\nPregnant or lactating women;\nSystemic infectious disease diagnosed by serology testing for syphilis (acute), human immunodeficiency virus (HIV˗1, HIV-2), hepatitis B (acute) or C infection at Screening or at Visit 2;\nAny known allergies to components of the IMP;\nPrior surgical procedures such as bypass or mesh-graft treatment within 2 months prior to IMP application;\nTreatment with active wound care agents (e.g. Iruxol, local antibiotics or silver dressings), which have not been paused 14 days before IMP application;\nCurrent or previous (within 30 days of enrollment) treatment with another IMP, or participation and/or under follow-up in another clinical trial;\nPrevious participation in this clinical trial;\nEvidence of any other medical conditions (such as psychiatric illness, physical examination, or laboratory findings) that may interfere with the planned treatment, affect the patient's compliance, or place the patient at high risk of complications related to the treatment;\nEmployees of the sponsor, or employees or relatives of the investigator.\n\nExclusion criteria for efficacy assessments\n\nA wound size enlargement of more than 25% between the wound assessment at the screening visit and the wound assessment at Visit 5;\nA wound size reduction of more than 50% between the wound assessment at the screening visit and wound assessment at Visit 5.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "85 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Andreas Kerstan, PD Dr.med.",
+            "OverallOfficialAffiliation": "Klinik und Poliklinik für Dermatologie, Venerologie und Allergologie Universitätsklinikum Würzburg",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Venenzentrum der Dermatologischen und Gefäßchirurgischen Kliniken, Kliniken der Ruhr-Universität Bochum im St. Maria-Hilf-Krankenhaus",
+            "LocationCity": "Bochum",
+            "LocationZip": "44805",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Klinik und Poliklinik für Dermatologie, Venerologie und Allergologie Universitätsklinikum Würzburg",
+            "LocationCity": "Würzburg",
+            "LocationZip": "97080",
+            "LocationCountry": "Germany"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000014647",
+            "ConditionMeshTerm": "Varicose Ulcer"
+          },
+          {
+            "ConditionMeshId": "D000012883",
+            "ConditionMeshTerm": "Skin Ulcer"
+          },
+          {
+            "ConditionMeshId": "D000014456",
+            "ConditionMeshTerm": "Ulcer"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000014648",
+            "ConditionAncestorTerm": "Varicose Veins"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007871",
+            "ConditionAncestorTerm": "Leg Ulcer"
+          },
+          {
+            "ConditionAncestorId": "D000012871",
+            "ConditionAncestorTerm": "Skin Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16358",
+            "ConditionBrowseLeafName": "Ulcer",
+            "ConditionBrowseLeafAsFound": "Ulcer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14838",
+            "ConditionBrowseLeafName": "Skin Ulcer",
+            "ConditionBrowseLeafAsFound": "Skin Ulcer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16547",
+            "ConditionBrowseLeafName": "Varicose Ulcer",
+            "ConditionBrowseLeafAsFound": "Venous Stasis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16548",
+            "ConditionBrowseLeafName": "Varicose Veins",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10035",
+            "ConditionBrowseLeafName": "Leg Ulcer",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14826",
+            "ConditionBrowseLeafName": "Skin Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

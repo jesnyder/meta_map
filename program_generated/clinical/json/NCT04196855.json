@@ -1,0 +1,434 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04196855",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "19/HRA/6011"
+      },
+      "Organization": {
+        "OrgFullName": "University of East Anglia",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Study of Teriparatide in Stress Fracture Healing",
+      "OfficialTitle": "Study of Teriparatide in Stress Fracture Healing",
+      "Acronym": "RETURN"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2019",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 23, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 5, 2019",
+      "StudyFirstSubmitQCDate": "December 10, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 12, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 3, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 4, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of East Anglia",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Ministry of Defence, United Kingdom",
+            "CollaboratorClass": "OTHER_GOV"
+          },
+          {
+            "CollaboratorName": "Darlington Memorial Hospital",
+            "CollaboratorClass": "UNKNOWN"
+          },
+          {
+            "CollaboratorName": "Clinical Research and Trials Unit (Norfolk & Norwich University Hospital, UK)",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Investigation into the use of teriparatide in the treatment of stress fractures.\n\nPrimary outcome is healing on MRI, secondary outcomes are pain, time spent in rehabilitation and future stress fractures. This study will help the investigators understand how to treat stress fractures in the future.",
+      "DetailedDescription": "Teriparatide is a drug that is designed to have a similar effect on the body as parathyroid hormone. Parathyroid hormone is made naturally in the body and is released in response to low calcium levels. It helps to maintain bone health and repair bone damage. Parathyroid hormone and medicines like teriparatide can strengthen bones and are often given to people with osteoporosis (a condition that weakens bones, making them more likely to break) to reduce the risk of fractures. Recent studies have also shown benefits in people with stress fracture injuries, a form of bone damage sometimes caused by repetitive exercise. The investigators want to know if teriparatide is also beneficial to healthy, younger people who have a stress fracture injury."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Stress Fracture",
+          "Parathyroid Hormone"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignMaskingDescription": "Blinded assessment of MR scans",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "136",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Intervention - Teriparatide Treatment",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Teriparatide 20ug/day from confirmation of stress fracture for 16 weeks, with the potential to extend to 24 weeks if required.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Teriparatide"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control - Standard Care",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "Standard rehabilitation care with additional monitoring to assess healing."
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Teriparatide",
+            "InterventionDescription": "Terrosa 20 micrograms/80 microliters solution for injection. Each dose of 80 microliters contains 20 micrograms of teriparatide.\n\nOne cartridge of 2.4 mL of solution contains 600 micrograms of teriparatide (corresponding to 250 micrograms per mL).\n\nTeriparatide, rhPTH(1-34), produced in E. coli, using recombinant DNA technology, is identical to the 34-N-terminal amino acid sequence of endogenous human parathyroid hormone.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Intervention - Teriparatide Treatment"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Terossa"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Radiological healing.",
+            "PrimaryOutcomeDescription": "Radiological healing by 2 Grades or more, or to grade zero at 8 weeks.",
+            "PrimaryOutcomeTimeFrame": "8 weeks."
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Radiological Healing",
+            "SecondaryOutcomeDescription": "Time to complete radiological healing",
+            "SecondaryOutcomeTimeFrame": "8, 10, 12, 14, 16, 20, 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time from randomisation to assessed as 'Clinically Healed'.",
+            "SecondaryOutcomeDescription": "Physical assessment to commence once the fracture is reported as healed on MR.",
+            "SecondaryOutcomeTimeFrame": "Twice weekly from date of radiologically healed stress fracture reported on MRI scan up to 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to 'Healing' as a composite assessment.",
+            "SecondaryOutcomeDescription": "Healing as assessed by MRI and clinical assessment.",
+            "SecondaryOutcomeTimeFrame": "Up to 24 weeks."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time from randomisation to discharge from rehabilitation.",
+            "SecondaryOutcomeDescription": "Completion of rehab will be assessed using Army standard measures.",
+            "SecondaryOutcomeTimeFrame": "Up to 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Pain symptoms on a visual analogue pain scale.",
+            "SecondaryOutcomeDescription": "Score between 0 and 10 - with 0 being no pain and 10 being worst pain imaginable.",
+            "SecondaryOutcomeTimeFrame": "Diary to be completed weekly and analysed as a change from baseline to 16 weeks (24 weeks in an unhealed fracture)."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Difference in Quality of life",
+            "SecondaryOutcomeDescription": "Assessed by Short Form 36 Questionnaire. The higher score, the better the participants quality of life.",
+            "SecondaryOutcomeTimeFrame": "4 weekly from baseline to 16 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Adverse events",
+            "SecondaryOutcomeDescription": "As reported in accordance with CTAE Version 4.03",
+            "SecondaryOutcomeTimeFrame": "Up to 28 weeks."
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "P1NP response to teriparatide treatment.",
+            "OtherOutcomeDescription": "Measurement of bone marker of formation.",
+            "OtherOutcomeTimeFrame": "Base line then 4 weekly to week 16 - extorted to week 24 in the case of an unhealed fracture."
+          },
+          {
+            "OtherOutcomeMeasure": "CTX response to teriparatide treatment.",
+            "OtherOutcomeDescription": "Measurement of bone marker of formation.",
+            "OtherOutcomeTimeFrame": "Base line then 4 weekly to week 16 - extorted to week 24 in the case of an unhealed fracture."
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSigned informed consent form;\nParticipant must be aged 18 - 40 years inclusive;\nParticipant must have a lower limb stress fracture, either unilateral or bilateral, as confirmed via MRI scan;\nUndergoing phase 1 or 2 training within an Army training establishment;\nBlood Tests within reference range. Minor abnormalities will be assessed by the PI. Patients will still be entered if these are felt to be of no clinical importance.\nParticipants able to adhere to the visit schedule and protocol requirements.\n\nExclusion Criteria:\n\nHypersensitivity to the active Parathyroid Hormone substance or any of the excipients listed in the SmPC.\nPre-existing hypercalcaemia.\nPatients with skeletal malignancies or bone metastases.\nAny contraindications that would prevent the participant from undergoing an MRI scan.\nConcurrent therapy that, in the investigators opinion, would interfere with the evaluation of the safety or efficacy of the study medication.\nPregnancy, suspected pregnancy or breastfeeding. Female participants must have a negative serum pregnancy test at screening and be willing and able to use a \"highly effective\" method of contraception, as per the Clinical Trial Facilitation Group (CTFG) guidance.\nSevere renal impairment. Participants with moderate renal impairment will be treated with caution at the Principal Investigator's discretion and in accordance with the SmPC.\nMetabolic bone diseases including hyperparathyroidism and Paget's disease of the bone.\nUnexplained elevations of alkaline phosphatase.\nPrior external beam or implant radiation therapy to the skeleton.\nPatients participating in a concurrent drug trial.\nPresentation with open epiphyses during the diagnostic MRI scan.\nParticipants with depression, as identified by completion of the Columbia-Suicide Severity Rating Scale (C-SSRS) at Baseline.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "40 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Katharine Law",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+44 (0)1603 591222",
+            "CentralContactEMail": "katharine.law@uea.ac.uk"
+          },
+          {
+            "CentralContactName": "Alexander Carswell, Dr",
+            "CentralContactRole": "Contact",
+            "CentralContactEMail": "a.carswell@uea.ac.uk"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "William Fraser, Dr",
+            "OverallOfficialAffiliation": "Norwich Medical School",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Darlington Memorial Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Darlington",
+            "LocationState": "County Durham",
+            "LocationZip": "DL3 6HX",
+            "LocationCountry": "United Kingdom",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "David Rollins",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "01325 743366"
+                },
+                {
+                  "LocationContactName": "Sivasamy Jambulingam",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "34461961",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Carswell AT, Eastman KG, Casey A, Hammond M, Shepstone L, Payerne E, Toms AP, MacKay JW, Swart AM, Greeves JP, Fraser WD. Teriparatide and stress fracture healing in young adults (RETURN - Research on Efficacy of Teriparatide Use in the Return of recruits to Normal duty): study protocol for a randomised controlled trial. Trials. 2021 Aug 30;22(1):580. doi: 10.1186/s13063-021-05556-3."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000050723",
+            "ConditionMeshTerm": "Fractures, Bone"
+          },
+          {
+            "ConditionMeshId": "D000015775",
+            "ConditionMeshTerm": "Fractures, Stress"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000014947",
+            "ConditionAncestorTerm": "Wounds and Injuries"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M25523",
+            "ConditionBrowseLeafName": "Fractures, Bone",
+            "ConditionBrowseLeafAsFound": "Fracture",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17484",
+            "ConditionBrowseLeafName": "Fractures, Stress",
+            "ConditionBrowseLeafAsFound": "Stress Fracture",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000019379",
+            "InterventionMeshTerm": "Teriparatide"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000077264",
+            "InterventionAncestorTerm": "Calcium-Regulating Hormones and Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000050071",
+            "InterventionAncestorTerm": "Bone Density Conservation Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8941",
+            "InterventionBrowseLeafName": "Hormones",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M12346",
+            "InterventionBrowseLeafName": "Parathyroid Hormone",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20502",
+            "InterventionBrowseLeafName": "Teriparatide",
+            "InterventionBrowseLeafAsFound": "Coronavirus",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M4533",
+            "InterventionBrowseLeafName": "Calcium",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M4550",
+            "InterventionBrowseLeafName": "Calcium, Dietary",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "BDCA",
+            "InterventionBrowseBranchName": "Bone Density Conservation Agents"
+          }
+        ]
+      }
+    }
+  }
+}

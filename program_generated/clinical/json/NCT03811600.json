@@ -1,0 +1,345 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03811600",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2019-A00029-48"
+      },
+      "Organization": {
+        "OrgFullName": "University Hospital, Angers",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Exosomes Implication in PD1-PD-L1 Activation in OSAS",
+      "OfficialTitle": "Exosomes Implication in PD1-PD-L1 Pathway Activation in Obstructive Sleep Apnea Syndrome",
+      "Acronym": "ExoSAS"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2020",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 1, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 1, 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 1, 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 15, 2019",
+      "StudyFirstSubmitQCDate": "January 18, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 22, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 6, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 9, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Hospital, Angers",
+        "LeadSponsorClass": "OTHER_GOV"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "An increased occurrence of cancer associated mortality has been described in patients with Obstructive Sleep Apnea Syndrome (OSAS). This association might be partially explained by an impaired cellular immune response that has been described in OSAS. Is has been suggested that OSAS impact immune cells by upregulation of the PD-1/PD-L1 pathway. Exosomes are small membrane vesicles released by numerous cells in the bloodstream. Exosomes have been shown to be implicated in cancer cells proliferation via a PD-1/PD-L1 pathway activation.\n\nThis study will evaluate exosomal PD-1/PD-L1 expression in patients with OSAS as compared to controls and will further investigate their impact on immune cells function and proliferation capacities."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Sleep Apnea Syndromes, Obstructive",
+          "Cancer"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Control"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Cross-Sectional"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples Without DNA",
+        "BioSpecDescription": "Plasma and serum"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "90",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "OSAS patients",
+            "ArmGroupDescription": "45 patients investigated for suspected OSAS with an apnea hypopnea index ≥15 per hour",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: PD1/PD-L1 exosomal expression"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Non OSAS patients",
+            "ArmGroupDescription": "45 patients investigated for suspected OSAS with an apnea hypopnea index <15 per hour",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: PD1/PD-L1 exosomal expression"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "PD1/PD-L1 exosomal expression",
+            "InterventionDescription": "exosomal PD1/PD-L1 expression",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Non OSAS patients",
+                "OSAS patients"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "exosomal PD1 expression",
+            "PrimaryOutcomeDescription": "Peripheral blood (≈20 ml) will be collected from non-OSAS or OSAS subjects on EDTA-coated tubes. Exosomes will be isolated by centrifugation. For detecting exosome-associated surface proteins by flow cytometry, exosomes will be first captured on magnetic beads. The bead/exosome complexes will be then co-incubated with the labeled detection antibodies, either anti-PD1. Next, the complexes will be washed 3x resuspended in 300uL of PBS for antigen detection by flow cytometry.",
+            "PrimaryOutcomeTimeFrame": "at baseline"
+          },
+          {
+            "PrimaryOutcomeMeasure": "exosomal PD-L1 expression",
+            "PrimaryOutcomeDescription": "Peripheral blood (≈20 ml) will be collected from non-OSAS or OSAS subjects on EDTA-coated tubes. Exosomes will be isolated by centrifugation. For detecting exosome-associated surface proteins by flow cytometry, exosomes will be first captured on magnetic beads. The bead/exosome complexes will be then co-incubated with the labeled detection antibodies, either anti-PD-L1. Next, the complexes will be washed 3x resuspended in 300uL of PBS for antigen detection by flow cytometry.",
+            "PrimaryOutcomeTimeFrame": "at baseline"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients requiring a sleep recording for suspected OSAS\n\nExclusion Criteria:\n\nPréviously treated OSAS\nCancer past history\nPregnant women\nCognitif impairment",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Patients investigated by sleep recording for suspected OSAS will be included in the study.",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Wojciech Trzepizur, MD PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+33680575272",
+            "CentralContactPhoneExt": "+33",
+            "CentralContactEMail": "wotrzepizur@chu-angers.fr"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Laboratoire du Sommeil, Département de Pneumologie, CHU d'Angers",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Angers",
+            "LocationZip": "49100",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Wojciech Trzepizur, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "0680575272",
+                  "LocationContactPhoneExt": "+33",
+                  "LocationContactEMail": "wotrzepizur@chu-angers.fr"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012891",
+            "ConditionMeshTerm": "Sleep Apnea Syndromes"
+          },
+          {
+            "ConditionMeshId": "D000020181",
+            "ConditionMeshTerm": "Sleep Apnea, Obstructive"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000001049",
+            "ConditionAncestorTerm": "Apnea"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000020919",
+            "ConditionAncestorTerm": "Sleep Disorders, Intrinsic"
+          },
+          {
+            "ConditionAncestorId": "D000020920",
+            "ConditionAncestorTerm": "Dyssomnias"
+          },
+          {
+            "ConditionAncestorId": "D000012893",
+            "ConditionAncestorTerm": "Sleep Wake Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3513",
+            "ConditionBrowseLeafName": "Apnea",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14846",
+            "ConditionBrowseLeafName": "Sleep Apnea Syndromes",
+            "ConditionBrowseLeafAsFound": "Sleep Apnea Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21163",
+            "ConditionBrowseLeafName": "Sleep Apnea, Obstructive",
+            "ConditionBrowseLeafAsFound": "Sleep Apnea Syndromes, Obstructive",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21395",
+            "ConditionBrowseLeafName": "Parasomnias",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21807",
+            "ConditionBrowseLeafName": "Sleep Disorders, Intrinsic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21808",
+            "ConditionBrowseLeafName": "Dyssomnias",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14848",
+            "ConditionBrowseLeafName": "Sleep Wake Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXM",
+            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+          }
+        ]
+      }
+    }
+  }
+}

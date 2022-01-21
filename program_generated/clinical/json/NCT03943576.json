@@ -1,0 +1,347 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03943576",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "GXCPC1"
+      },
+      "Organization": {
+        "OrgFullName": "Gwo Xi Stem Cell Applied Technology Co., Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Allogeneic Adipose Tissue-Derived Mesenchymal Stem Cells (GXCPC1) for Knee Osteoarthritis",
+      "OfficialTitle": "Adipose-Derived Stem Cells (ADSCs) Injections for Knee Osteoarthritis"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 1, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 31, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 31, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 23, 2019",
+      "StudyFirstSubmitQCDate": "May 8, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 9, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "March 13, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 17, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Gwo Xi Stem Cell Applied Technology Co., Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The aim of the investigators study was to investigate the safety and efficacy of allogeneic ADSCs for the clinical treatment of knee osteoarthritis."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Knee Osteoarthritis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "GXCPC1",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "GXCPC1 contains 6.7×10^6 or 4×10^7 allogeneic adipose-derived stem cells (ADSCs) in 3 mL",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: GXCPC1"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "hyaluronic acid",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Hya Joint Plus synovial fluid supplement 3mL",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Device: HA"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "GXCPC1",
+            "InterventionDescription": "The dose regimen is one single intra-articular injection of GXCPC1 containing 6.7×10^6 or 4×10^7 ADSCs in 3 mL saline. (allogeneic injection)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "GXCPC1"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Device",
+            "InterventionName": "HA",
+            "InterventionDescription": "Hya Joint Plus synovial fluid supplement 3mL",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "hyaluronic acid"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "WOMAC pain score",
+            "PrimaryOutcomeDescription": "Change from baseline in WOMAC pain score at Week 24",
+            "PrimaryOutcomeTimeFrame": "week 24"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "MRI",
+            "SecondaryOutcomeDescription": "Change from baseline to post-treatment visits on the target knee in MRI examination results",
+            "SecondaryOutcomeTimeFrame": "week 0, 24, 48"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Visual Analogue Scale (VAS)",
+            "SecondaryOutcomeDescription": "Changes from baseline to post-treatment visits on the target knee in Visual Analogue Scale (VAS) for pain",
+            "SecondaryOutcomeTimeFrame": "week 0, 1, 4, 12, 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "12-item Short Form (SF-12)",
+            "SecondaryOutcomeDescription": "Change from baseline to post-treatment visits in total score of 12-item Short Form (SF-12) health survey questionnaire",
+            "SecondaryOutcomeTimeFrame": "week 0, 1, 4, 12, 24"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nProvision of signed and dated informed consent form\nAged 40 to 80 years old (inclusive)\nKellgren-Lawrence grading II-IV, as determined by American College ofRheumatology (ACR) criteria for osteoarthritis of the knee\nWestern Ontario and McMaster Universities Osteoarthritis Index (WOMAC) pain score of 7 ~ 17 (inclusive) in the target knee despite use of NSAID\nContraindicated to long term systemic NSAID (e.g. suffer from severe gastrointestinal side effects upon systemic NSAID administration, or due to underlying increased gastrointestinal, cardiovascular, or renal risk) and not able to receive or wish to delay knee arthroplasty\n\nExclusion Criteria:\n\nWith previous surgery of articular fracture, ligament reconstruction, meniscal reconstruction, and knee arthroplasty on the target knee joint\nWith previous intra-articular intervention (e.g. steroid, anesthetics, hyaluronate, arthroscopic surgery) on the target knee joint 12 weeks prior to screening\nAdministered or required systemic or local on the target knee joint immunosuppressive agent, anti-inflammatory drug, steroid, analgesics, opioid, or duloxetine for OA knee except for acetaminophen and NSAID within 1 week prior to screening\nWith joint diseases other than knee osteoarthritis considered by investigator not eligible to enter the study\nUnable to receive MRI examination, including allergic to the contrast medium for MRI used in the study, with known history of claustrophobia, having any existing metallic intraocular foreign body or active/inactive implanted medical devices, such as cardiac pacemaker, cochlear, intracranial vascular clips or neurostimulator\nActive or suspected infection of the target knee joint\nHistory of human immunodeficiency virus (HIV) infection\nHistory of malignancy within 2 years prior to screening\nWith body mass index (BMI) greater or equal to 35 kg/m2\nKnown hypersensitivity to any component of the investigational product or the active control\nParticipated other investigational study within 4 weeks prior to screening\nWith ongoing or within the past 2 years serious medical conditions (e.g. concomitant illness) such as cardiovascular (e.g. New York Heart Association grade III or IV), hepatic (e.g. Child-Pugh Class C), psychiatric condition (e.g. alcoholism, drug abuse), medical history, physical findings, or laboratory abnormality that in the investigators' opinion could interfere with the results of the trial or adversely affect the safety of the subject\nFemale subject with childbearing potential who is lactating or has positive serum or urine pregnancy test at Screening\n\nSubject with childbearing potential refuses to use highly effective contraceptives from signing informed consent until Final/Early Termination Visit. At least two forms of birth control must be adopted and one of which must be a barrier method. Acceptable forms include:\n\nEstablished use of oral, injected or implanted hormonal methods of contraception\nPlacement of an intrauterine device (IUD) or intrauterine system (IUS)\nBarrier methods of contraception: condom, or occlusive cap (diaphragmor cervical/vault caps)",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "40 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Chia-Hsin Lee",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+886 6585959",
+            "CentralContactPhoneExt": "341",
+            "CentralContactEMail": "jessie.lee@gwoxi.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Cheng-FONG Chen",
+            "OverallOfficialAffiliation": "Taipei Veterans General Hospital, Taiwan",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "GWOXI Stem Cell Applied Technology Co., Ltd.",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Hsinchu",
+            "LocationZip": "30261",
+            "LocationCountry": "Taiwan",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Chia-Hsin Lee",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+886 6585959",
+                  "LocationContactPhoneExt": "341",
+                  "LocationContactEMail": "jessie.lee@gwoxi.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010003",
+            "ConditionMeshTerm": "Osteoarthritis"
+          },
+          {
+            "ConditionMeshId": "D000020370",
+            "ConditionMeshTerm": "Osteoarthritis, Knee"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001168",
+            "ConditionAncestorTerm": "Arthritis"
+          },
+          {
+            "ConditionAncestorId": "D000007592",
+            "ConditionAncestorTerm": "Joint Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012216",
+            "ConditionAncestorTerm": "Rheumatic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12078",
+            "ConditionBrowseLeafName": "Osteoarthritis",
+            "ConditionBrowseLeafAsFound": "Osteoarthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21321",
+            "ConditionBrowseLeafName": "Osteoarthritis, Knee",
+            "ConditionBrowseLeafAsFound": "Knee Osteoarthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3628",
+            "ConditionBrowseLeafName": "Arthritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9773",
+            "ConditionBrowseLeafName": "Joint Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14197",
+            "ConditionBrowseLeafName": "Rheumatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5475",
+            "ConditionBrowseLeafName": "Collagen Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9030",
+            "InterventionBrowseLeafName": "Hyaluronic Acid",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

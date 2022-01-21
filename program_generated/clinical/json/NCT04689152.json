@@ -1,0 +1,571 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04689152",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "PMC-P-07"
+      },
+      "Organization": {
+        "OrgFullName": "Pharmicell Co., Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Clinical Trial to Evaluate the Efficacy and Safety of Cellgram-LC Administration in Patients With Alcoholic Cirrhosis",
+      "OfficialTitle": "A Multicenter, Randomized, Open-label Phase III Clinical Trial to Evaluate Efficacy and Safety of the Cellgram-LC in Patients With Alcoholic Liver Cirrhosis",
+      "Acronym": "Cellgram-LC"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 2, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 2, 2026",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 2, 2026",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 21, 2020",
+      "StudyFirstSubmitQCDate": "December 28, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 30, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 17, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 24, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Pharmicell Co., Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This phase III clinical trial is designed to evaluate the efficacy and safety of autologous Mesenchymal Stem Cells (MSC) injected hepatic artery.",
+      "DetailedDescription": "To evaluate the efficacy and efficacy for 60 months after a single dose of Cellgram-LC in patients with alcoholic liver cirrhosis."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Alcoholic Cirrhosis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "200",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "Best Supportive care"
+          },
+          {
+            "ArmGroupLabel": "Injection group: Cellgram-LC",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Within 1 month after extracting bone marrow, directly inject 7X10^7 autologous bone marrow-derived mesenchymal stem cells within liver through the hepatic artery.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Cellgram-LC"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Cellgram-LC",
+            "InterventionDescription": "Patients will receive single injection of Cellgram-LC(mesenchymal stem cell) hepatic artery.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Injection group: Cellgram-LC"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Autologous bone marrow-derived mesenchymal stem cell"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Transplant free survival (TFS)",
+            "PrimaryOutcomeDescription": "Transplant free survival (TFS), the median survival time and 95% confidence interval for each group were presented using the Kaplan-Meier method, and the difference in the survival distribution between the two groups was used as a Cox proportional hazards model corrected for stratification Black.",
+            "PrimaryOutcomeTimeFrame": "For 3 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Survival rate",
+            "SecondaryOutcomeDescription": "For the survival rate, the survival rate and 95% confidence interval at each time point are presented using the Kaplan-Meier method, and the difference in survival rate between the two groups is tested using the Z statistic.",
+            "SecondaryOutcomeTimeFrame": "month 24 and 36"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change amount of Child-Pugh score",
+            "SecondaryOutcomeDescription": "In order to compare the difference between groups in the amount of change in each evaluation variable at the time of visit after cell administration/best supportive therapy compared to the baseline value, covariance analysis (ANCOVA) is performed by setting the baseline time point and stratification factor as a correction variable for each evaluation variable.\n\nCP score was calculated using five factors: hepatic encephalopathy, prothrombin time, bilirubin, serum albumin, and ascites, and the score range was 5-15 points.\n\nIn the Child-Pugh grade, scores of the five factors are summed and evaluated as A if it is less than 7 points, B if it is 7-9, and C if it exceeds 9 points.",
+            "SecondaryOutcomeTimeFrame": "week -6 and 0"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change amount of MELD score",
+            "SecondaryOutcomeDescription": "In order to compare the difference between groups in the amount of change in each evaluation variable at the time of visit after cell administration/best supportive therapy compared to the baseline value, covariance analysis (ANCOVA) is performed by setting the baseline time point and stratification factor as a correction variable for each evaluation variable.\n\nThe higher the score, the higher the mortality rate.",
+            "SecondaryOutcomeTimeFrame": "week -6 and 0"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change amount of Liver function test",
+            "SecondaryOutcomeDescription": "In order to compare the difference between groups in the amount of change in each evaluation variable at the time of visit after cell administration/best supportive therapy compared to the baseline value, covariance analysis (ANCOVA) is performed by setting the baseline time point and stratification factor as a correction variable for each evaluation variable.",
+            "SecondaryOutcomeTimeFrame": "month 0, 1, 3, 6, 9, 12, 18 and 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change amount of Fibrosis-4",
+            "SecondaryOutcomeDescription": "In order to compare the difference between groups in the amount of change in each evaluation variable at the time of visit after cell administration/best supportive therapy compared to the baseline value, covariance analysis (ANCOVA) is performed by setting the baseline time point and stratification factor as a correction variable for each evaluation variable.",
+            "SecondaryOutcomeTimeFrame": "month 0, 6, 12, 18 and 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change amount of FibroScanⓇ",
+            "SecondaryOutcomeDescription": "In order to compare the difference between groups in the amount of change in each evaluation variable at the time of visit after cell administration/best supportive therapy compared to the baseline value, covariance analysis (ANCOVA) is performed by setting the baseline time point and stratification factor as a correction variable for each evaluation variable.",
+            "SecondaryOutcomeTimeFrame": "week -6 and 0"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change amount of EQ-5D",
+            "SecondaryOutcomeDescription": "In order to compare the difference between groups in the amount of change in each evaluation variable at the time of visit after cell administration/best supportive therapy compared to the baseline value, covariance analysis (ANCOVA) is performed by setting the baseline time point and stratification factor as a correction variable for each evaluation variable.\n\nThe higher the score, the higher the quality of life.",
+            "SecondaryOutcomeTimeFrame": "month -1, 6, 12, 18 and 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change amount of EQ-VAS",
+            "SecondaryOutcomeDescription": "In order to compare the difference between groups in the amount of change in each evaluation variable at the time of visit after cell administration/best supportive therapy compared to the baseline value, covariance analysis (ANCOVA) is performed by setting the baseline time point and stratification factor as a correction variable for each evaluation variable.\n\nThe higher the score, the higher the quality of life.",
+            "SecondaryOutcomeTimeFrame": "month -1, 6, 12, 18 and 24"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "α-fetoprotein test",
+            "OtherOutcomeDescription": "Two sample t-test or Wilcoxon rank-sum test is performed to test the difference between the two groups for the results of tumor marker test (AFP) at each time point.",
+            "OtherOutcomeTimeFrame": "week -6, month 3, 6, 9, 12, 18, 24"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAt the time of screening, 19 or 70 years\nPatients diagnosed with alcoholic cirrhosis by combining alcohol history, imaging and pathological examination results, and clinical symptoms at screening, and belonging to Child-Pugh grade B or C (Child-Pugh score of 7 or more)\nThose whose survival period is more than 1 year when judged by the tester\nThose who can perform hepatic artery catheterization by inserting a catheter into the hepatic artery at the judgment of the examiner\nIn the case of women of childbearing potential, a person who was confirmed negative in the pregnancy test at screening and agreed to use contraception* by the method permitted for this clinical trial during the clinical trial\nThose who can conduct clinical trials according to the clinical trial protocol\nA person who has consented in writing to voluntarily participate in this clinical trial\n\nExclusion Criteria:\n\nThose with a history of solid cancer including Hepatocellular Carcinoma (HCC) (within 5 years before screening), those who have been diagnosed with solid cancer and are currently undergoing chemotherapy or those whose hepatocellular carcinoma has been confirmed by screening tests\nPatients who underwent portal systemic shunting in the jugular vein\nPatients with alcohol consumption or hepatotoxic drugs within 6 months prior to screening\nPersons taking high-dose steroids, immunosuppressants, or antimicrobials due to severe infections for at least 1 month of screening\nThose who have major surgical operations, long-term biopsy, or significant trauma as judged by the investigator within 3 months before screening\nThose whose history of gastrointestinal bleeding is confirmed within 10 days of screening\n\nThose whose medical history or accompanying diseases following the screening time is confirmed\n\nIf you have not been diagnosed with a malignant blood disease (acute myelogenous leukemia, acute lymphocytic leukemia, non-Hodgkins lymphoma, Hodgkins lymphoma, multiple myelopathy)\nSevere aplastic anemia\nLiver transplant history\nLiver diseases of other causes besides alcoholic cirrhosis: hepatitis B and C, autoimmune liver disease (primary cholangitis, primary sclerosing cholangitis and autoimmune hepatitis, etc.), weak liver toxicity, non-alcoholic fatty liver disease , NAFLD), Wilson's disease, iron excess, alpha-1-antitrypsin deficiency, etc.)\nExtrahepatic biliary stenosis\nActive portal vein or hepatic vein thrombosis\nHeart failure or respiratory failure\nSevere renal impairment (when the result of serum creatinine test exceeds 1.5 times the upper limit of normal)\nAcute or chronic infection requiring systemic treatment\nSevere coagulation disorder (if the tester judges it as a severe coagulation disorder or one of the following 1 to 3; 1. bleeding predisposition, 2. coagulation, 3. platelet≤50,000/mm3 and INR≥1.5)\nserologic test result (HIV, HAV, HBV, HCV, Syphilis infection) positive factor\nPatients unable to collect bone marrow due to bone marrow disease\nThose with a history of gentamicin hypersensitivity reaction\nPregnant or lactating women\nThose with substance abuse experience within 1 year before screening\nThose who participated in other clinical trials within one month before screening and administered (or applied) clinical trial drugs (or medical devices)\nThose who previously participated in clinical trials related to cell therapy\nPatients judged to be inappropriate to participate in this clinical trial due to complications, etc., when judged by the investigator before screening or registration",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "71 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "JIYEOUN JEONG",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "82-2-3496-0134",
+            "CentralContactEMail": "jyjeong@pharmicell.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Moonyoung Kim",
+            "OverallOfficialAffiliation": "Wonju Severance Christian Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Soonchunhyang University Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Bucheon",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Sang-gyun Kim",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "mcnulty@schmc.ac.kr"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Soonchunhyang University Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Cheonan",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "hongsoo kim",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "khskhs@sch.ac.kr"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Gangwon National University Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "ChunCheon",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Daehee Choi",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "dhchoi-md@kangwon.ac.kr"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hallym Univ. Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "ChunCheon",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Ki-tae Seok",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "diarrhea100@hanmail.net"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Gangneung Asan Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Gangneung-si",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Gapjin Cheon",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "1000@gnah.co.kr"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Eunpyeong St. Mary's Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Sihyeon Bae",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "baesh@catholic.ac.kr"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Korea University Anam Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Yeonseok Seo",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "drseo@korea.ac.kr"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Seoul National University Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Jeonghwan Yoon",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "yoonjh@snu.ac.kr"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Soonchunhyang University Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Jaeyoung Jang",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "jyjang@schmc.ac.kr"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Wonju Severance Christian Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Wonju",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Moonyoung Kim",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "drkimmy@yonsei.ac.kr"
+                },
+                {
+                  "LocationContactName": "Sun-gu Baek",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Yongin Severance Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Yongin",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Jakyung Kim",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "ceciliak@yuhs.ac"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008103",
+            "ConditionMeshTerm": "Liver Cirrhosis"
+          },
+          {
+            "ConditionMeshId": "D000008104",
+            "ConditionMeshTerm": "Liver Cirrhosis, Alcoholic"
+          },
+          {
+            "ConditionMeshId": "D000005355",
+            "ConditionMeshTerm": "Fibrosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000008107",
+            "ConditionAncestorTerm": "Liver Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000008108",
+            "ConditionAncestorTerm": "Liver Diseases, Alcoholic"
+          },
+          {
+            "ConditionAncestorId": "D000020751",
+            "ConditionAncestorTerm": "Alcohol-Induced Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000019973",
+            "ConditionAncestorTerm": "Alcohol-Related Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000019966",
+            "ConditionAncestorTerm": "Substance-Related Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000064419",
+            "ConditionAncestorTerm": "Chemically-Induced Disorders"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10255",
+            "ConditionBrowseLeafName": "Liver Cirrhosis",
+            "ConditionBrowseLeafAsFound": "Cirrhosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10256",
+            "ConditionBrowseLeafName": "Liver Cirrhosis, Alcoholic",
+            "ConditionBrowseLeafAsFound": "Alcoholic Cirrhosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7637",
+            "ConditionBrowseLeafName": "Fibrosis",
+            "ConditionBrowseLeafAsFound": "Cirrhosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10259",
+            "ConditionBrowseLeafName": "Liver Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10260",
+            "ConditionBrowseLeafName": "Liver Diseases, Alcoholic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21661",
+            "ConditionBrowseLeafName": "Alcohol-Induced Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20995",
+            "ConditionBrowseLeafName": "Alcohol-Related Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20990",
+            "ConditionBrowseLeafName": "Substance-Related Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M29455",
+            "ConditionBrowseLeafName": "Chemically-Induced Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC25",
+            "ConditionBrowseBranchName": "Substance Related Disorders"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXM",
+            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M10262",
+            "InterventionBrowseLeafName": "Liver Extracts",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Hemat",
+            "InterventionBrowseBranchName": "Hematinics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

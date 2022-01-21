@@ -1,0 +1,442 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02541370",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "s2015-080-03"
+      },
+      "Organization": {
+        "OrgFullName": "Chinese PLA General Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Treatment of Relapsed and/or Chemotherapy Refractory Advanced Malignancies by CART133",
+      "OfficialTitle": "Clinical Study of Chimeric CD(Cluster of Differentiation)133 Antigen Receptor-modified T Cells in Relapsed and/or Chemotherapy Refractory Malignancies"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2015",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 2015"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2019",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 2019",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "September 2, 2015",
+      "StudyFirstSubmitQCDate": "September 2, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "September 4, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "December 15, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 17, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Han weidong",
+        "ResponsiblePartyInvestigatorTitle": "PI",
+        "ResponsiblePartyInvestigatorAffiliation": "Chinese PLA General Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Chinese PLA General Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "RATIONALE: Placing a tumor antigen chimeric receptor that has been created in the laboratory into patient autologous or donor-derived T cells may make the body build immune response to kill cancer cells.\n\nPURPOSE: This clinical trial is studying genetically engineered lymphocyte therapy in treating patients with Relapsed and/or Chemotherapy Refractory Advanced Malignancies.",
+      "DetailedDescription": "I. Determine the safety and feasibility of the chimeric antigen receptor T cells transduced with the anti-CD133 (cluster of differentiation antigen 133 ) vector (referred to as CART-133 cells).\n\nII. Determine duration of in vivo survival of CART-133 cells. RT-PCR (reverse transcription polymerase chain reaction) analysis of whole blood will be used to detect and quantify survival of CART-133 TCR (T-cell receptor) zeta:CD137 and TCR zeta cells over time.\n\nSECONDARY OBJECTIVES:\n\nI. For patients with detectable disease, measure anti-tumor response due to CART-133 cell infusions.\n\nII. To determine if the CD137 transgene is superior to the TCR zeta only transgene as measured by the relative engraftment levels of CART-133 TCR zeta:CD137 and TCR zeta cells over time.\n\nIII. Estimate relative trafficking of CART-133 cells to tumor in bone marrow and lymph nodes.\n\nIV. For patients with stored or accessible tumor cells determine tumor cell killing by CART-133 cells in vitro.\n\nV. Determine if cellular or humoral host immunity develops against the murine anti-CD133, and assess correlation with loss of detectable CART-133 (loss of engraftment).\n\nVI. Determine the relative subsets of CART-133 T cells (Tcm, Tem, and Treg)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Liver Cancer",
+          "Pancreatic Cancer",
+          "Brain Tumor",
+          "Breast Cancer",
+          "Ovarian Tumor",
+          "Colorectal Cancer",
+          "Acute Myeloid and Lymphoid Leukemias"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "20",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "anti-CD133 CAR T cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Dose escalation will occur using a standard 3+3 dose escalation approach, beginning in dose level I with dose cohorts and rules for escalation and de-escalation.\n\nPatients receive anti-CD133-CAR retroviral vector-transduced autologous-derived T cells on days 0, 1, 2 in the absence of disease progression or unacceptable toxicity.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: anti-CD133-CAR vector-transduced T cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "anti-CD133-CAR vector-transduced T cells",
+            "InterventionDescription": "genetically engineered lymphocyte therapy",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "anti-CD133 CAR T cells"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "genetically engineered lymphocyte therapy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Occurrence of study related adverse events",
+            "PrimaryOutcomeDescription": "defined as >= Grade 3 signs/symptoms, laboratory toxicities, and clinical",
+            "PrimaryOutcomeTimeFrame": "Until week 24"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Anti-tumor responses to CART-133 cell infusions",
+            "SecondaryOutcomeTimeFrame": "up to 24 weeks"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "in vivo existence of CART133",
+            "OtherOutcomeTimeFrame": "1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nChemotherapy refractory or relapsed CD133-positive liver cancer, pancreatic cancer, brain tumor ,breast cancer, ovarian tumors, colorectal cancer and acute leukemia.\nPatients must be 18 years of age or older.\nPatients must have an ECOG (Eastern Cooperative Oncology Group )performance status of 0-2.\n\nPatients must have evidence of adequate bone marrow reserve, hepatic and renal function as evidenced by the following laboratory parameters:\n\nAbsolute neutrophil count greater than 1500/mm3. Platelet count greater than 100,000/mm3. Hemoglobin greater than 10g/dl (patients may receive transfusions to meet this parameter).\n\nTotal bilirubin < 1.5 times upper limits of normal. Serum creatinine less than or equal to 1.6 mg/ml or the creatinine clearance must be greater than 70 ml/min/1.73m.\n\nSeronegative for HIV antibody.\nSeronegative for active hepatitis B, and seronegative for hepatitis C antibody.\nPatients must be willing to practice birth control during and for four months following treatment. NOTE: women of child-bearing age must have evidence of negative pregnancy test.\nPatients must be willing to sign an informed consent.\n\nExclusion Criteria:\n\n1. Patients with life expectancy less than 12 months will be excluded. 2. Patients with uncontrolled hypertension (> 160/95), unstable coronary disease evidenced by uncontrolled arrhythmias, unstable angina, decompensated congestive heart failure (> New York Heart Association Class II), or myocardial infarction within 6 months of study will be excluded.\n\n3. Patients with any of the following pulmonary function abnormalities will be excluded: FEV(forced expiratory volume), < 30% predicted; DLCO (diffusing capacity of lung for carbon monoxide) < 30% predicted (post-bronchodilator); Oxygen Saturation less than 90% on room air.\n\n4. Patients with severe liver and kidney dysfunction or consciousness disorders will be excluded.\n\n5. Pregnant and/or lactating women will be excluded. 6. Patients with active infections, including HIV, will be excluded, due to unknown effects of the vaccine on lymphoid precursors.\n\n7. Patients with any type of primary immunodeficiencies will be excluded from the study.\n\n8. Patients requiring corticosteroids (other than inhaled) will be excluded. 9. Patients with history of T cell tumors will be excluded. 10. Patients who are participating or participated any other clinical trials in latest 30 days will be excluded.\n\n11. Patients with relapsed acute leukemia after allogeneic stem cell transplantation",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Biotherapeutic Department and Pediatrics Department of Chinese PLA General Hospital",
+            "LocationCity": "Beijing",
+            "LocationState": "Beijing",
+            "LocationZip": "100853",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "33312759",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Dai H, Tong C, Shi D, Chen M, Guo Y, Chen D, Han X, Wang H, Wang Y, Shen P. Efficacy and biomarker analysis of CD133-directed CAR T cells in advanced hepatocellular carcinoma: a single-arm, open-label, phase II trial. Oncoimmunology. 2020 Nov 25;9(1):1846926. doi: 10.1080/2162402X.2020.1846926."
+          },
+          {
+            "ReferencePMID": "28057014",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Feng KC, Guo YL, Liu Y, Dai HR, Wang Y, Lv HY, Huang JH, Yang QM, Han WD. Cocktail treatment with EGFR-specific and CD133-specific chimeric antigen receptor-modified T cells in a patient with advanced cholangiocarcinoma. J Hematol Oncol. 2017 Jan 5;10(1):4. doi: 10.1186/s13045-016-0378-7."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007945",
+            "ConditionMeshTerm": "Leukemia, Lymphoid"
+          },
+          {
+            "ConditionMeshId": "D000010051",
+            "ConditionMeshTerm": "Ovarian Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000004701",
+            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007938",
+            "ConditionAncestorTerm": "Leukemia"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000008232",
+            "ConditionAncestorTerm": "Lymphoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008206",
+            "ConditionAncestorTerm": "Lymphatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007160",
+            "ConditionAncestorTerm": "Immunoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000010049",
+            "ConditionAncestorTerm": "Ovarian Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000000291",
+            "ConditionAncestorTerm": "Adnexal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005833",
+            "ConditionAncestorTerm": "Genital Neoplasms, Female"
+          },
+          {
+            "ConditionAncestorId": "D000014565",
+            "ConditionAncestorTerm": "Urogenital Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000006058",
+            "ConditionAncestorTerm": "Gonadal Disorders"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12126",
+            "ConditionBrowseLeafName": "Ovarian Neoplasms",
+            "ConditionBrowseLeafAsFound": "Ovarian Tumors",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4372",
+            "ConditionBrowseLeafName": "Breast Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10097",
+            "ConditionBrowseLeafName": "Leukemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10103",
+            "ConditionBrowseLeafName": "Leukemia, Lymphoid",
+            "ConditionBrowseLeafAsFound": "Lymphoid Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M12262",
+            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10265",
+            "ConditionBrowseLeafName": "Liver Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4361",
+            "ConditionBrowseLeafName": "Brain Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7015",
+            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10377",
+            "ConditionBrowseLeafName": "Lymphoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10355",
+            "ConditionBrowseLeafName": "Lymphatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9358",
+            "ConditionBrowseLeafName": "Immunoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12124",
+            "ConditionBrowseLeafName": "Ovarian Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2795",
+            "ConditionBrowseLeafName": "Adnexal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8097",
+            "ConditionBrowseLeafName": "Genital Neoplasms, Female",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16467",
+            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8315",
+            "ConditionBrowseLeafName": "Gonadal Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4352",
+            "ConditionBrowseLeafName": "Ovarian Cancer",
+            "ConditionBrowseLeafAsFound": "Ovarian Tumors",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T4387",
+            "ConditionBrowseLeafName": "Pancreatic Cancer",
+            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

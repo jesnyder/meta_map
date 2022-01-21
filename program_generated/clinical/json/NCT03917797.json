@@ -1,0 +1,556 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03917797",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "Phase II Lupus MSC"
+      },
+      "Organization": {
+        "OrgFullName": "Universidad de los Andes, Chile",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stromal Cells (MSC´s) in Renal Lupus",
+      "OfficialTitle": "Dose-response and Efficacy of Umbilical Cord-derived Mesenchymal Stromal Cells in Renal Systemic Lupus Erythematosus",
+      "Acronym": "MSC-ROLE"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 2, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 2, 2019",
+      "StudyFirstSubmitQCDate": "April 13, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 17, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 13, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 16, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Fernando E. Figueroa MD",
+        "ResponsiblePartyInvestigatorTitle": "Program Director Translational Research in Cell Therapy",
+        "ResponsiblePartyInvestigatorAffiliation": "Universidad de los Andes, Chile"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Universidad de los Andes, Chile",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Phase II Clinical Trial to Assess the dose-response and Efficacy of Umbilical Cord-derived Mesenchymal Stromal Cells (MSCs) in Severe Renal Systemic Lupus Erythematosus (SLE).",
+      "DetailedDescription": "Phase IIa trial of escalating doses of intravenous (i.v.) MSCs in active SLE, followed by a Phase IIb, triple blind, controlled assessment of the selected MSC dosing versus Placebo, in SLE patients receiving Standard of Care Therapy for Severe Renal Disease,"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Lupus Erythematosus, Systemic",
+          "Lupus Glomerulonephritis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Systemic Lupus Erythematosus",
+          "Mesenchymal Stromal Cells",
+          "Lupus nephritis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "Superiority trial comparing MSCs versus Placebo in SLE patients with severe renal disease receiving Standard of Care treatment.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignMaskingDescription": "Masking for patients, physicians providing patient care and outcome assessors.",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "39",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "MSC treatment",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Intervention: a previously selected dose of MSCs (Phase IIa) will be administered by i.v. infusion at baseline and 6 months of follow-up (total 12 months), to patients with Severe Renal SLE subject also to Standard of Care treatment with Methylprednisolone and Cyclophosphamide followed by Mycophenolate.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: MSC treatment",
+                "Drug: Standard of Care"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Intervention: A Placebo (infusion vehicle) will be administered by i.v. infusion at baseline and 6 months of follow-up (total 12 months), to patients with Severe Renal SLE subject also to Standard of Care treatment with Methylprednisolone and Cyclophosphamide followed by Mycophenolate.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Standard of Care",
+                "Drug: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "MSC treatment",
+            "InterventionDescription": "Umbilical cord-derived Mesenchymal Stromal Cell",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC treatment"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Cellistem ® Lupus"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Standard of Care",
+            "InterventionDescription": "Methylprednisolone; Cyclophosphamide; Prednisone; Mycophenolate",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC treatment",
+                "Placebo"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Standard of Care for Lupus Nephritis"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "MSC infusion vehicle",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Placebo (for MSC)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Achievement of Global Renal Response (GR) at Study Endpoint",
+            "PrimaryOutcomeDescription": "Proportion of Patients that achieve Complete (CR) or Partial (PR) Renal Response at Endpoint",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Achievement of Complete Renal Response (CR) at Study Endpoint",
+            "SecondaryOutcomeDescription": "Proportion of Patients that achieve CR criteria including: 1) Urinary Protein:Creatinine (UPC) ratio < 0.5; 2) estimated Glomerular Filtration Rate (GFR) ≥ 120 ml/min/m2, or at least 80% of baseline; 3) urinalysis < 10 red blood cells (RBC) and no RBC casts per high power field; 4) Prednisone dose ≤10 mg/day.",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Achievement of Partial Renal Response (PR) at Study Endpoint",
+            "SecondaryOutcomeDescription": "Proportion of Patients that achieve PR criteria including: 1) reduction of UPC ratio to at least 50% of baseline; 2) estimated GFR ≥120 ml/min/m2, or at least 80% of baseline; 3) Prednisone dose ≤10 mg/day.",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Treatment Failure",
+            "SecondaryOutcomeDescription": "Proportion of Patients that fulfill any of the following criteria for Treatment Failure including: 1) Daily Prednisone dose cannot be reduced ≤ 10 mg at week 24; 2) Daily Prednisone is increased above 10 mg after week 24; 3) Introduction of a new immunosuppressive regimen, not included in the trial; 4) Use of Rituximab prior to month 12.",
+            "SecondaryOutcomeTimeFrame": "24 weeks and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Response of SLE Responder Index (SRI).",
+            "SecondaryOutcomeDescription": "Proportion of Patients that achieve SRI response, defined as a >4-point reduction in the SELENA-SLEDAI score, no new British Isles Lupus Assessment Group [BILAG] A organ domain score and no more than 1 new BILAG B score, with no worsening in physician's global assessment score versus baseline).\n\nThe Safety of Estrogens in Lupus Erythematosus National Assessment (SELENA) version of the SLE Disease Activity Index (SLEDAI) is employed for this calculation.(SELENA-SLEDAI score). The SELENA-SLEDAI score addresses 24 descriptors in 9 organ-systems. Disease worsening increases the score that ranges from 0-105.\n\nThe BILAG addresses 97 items in organ-system domains, in an ordinal (A-E) scale, converted to a numerical (0-96) scale for usual calculations.",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Selena Sledai",
+            "SecondaryOutcomeDescription": "Average change in Selena Sledai Score in patients and controls",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "BILAG score",
+            "SecondaryOutcomeDescription": "Average hange in BILAG score in patients and controls",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Disease Flares",
+            "SecondaryOutcomeDescription": "Proportion of patients that experience flares as defined in the Selena Flare Index (SFI). Mild/Moderate Flares are defined by change of 3 or more points in the SELENA-SLEDAI score. Severe Flares are defined as an increase in the SELENA-SLEDAI score to more than 12 points",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Biomarker Response",
+            "SecondaryOutcomeDescription": "Changes in the levels of disease relevant biomarkers in peripheral blood/plasma, including 1) anti-dsDNA antibodies by ELISA; 2) complement proteins C3/C4 by nephelometry (mg/dL); 3) Percentage of CD4+ T helper cell subpopulations (Th1, Th17, Treg) and 4) B cell subpopulations (Naive, Memory, Transitional) by Flow cytometry; and 5) Cytokine Panel by Luminex, including Tumor Necrosis Factor (TNF) alpha, Transforming Growth Factor (TGF) Beta1, Interleukin (lL) 6, IL-17A, IL-10, B-cell activating factor/B Lymphocyte Stimulator (BAFF/BLys), Monocyte chemoattractant protein-1 (MCP-1/CCL2), C-X-C motif chemokine 10 (CXCL10), Interferon (IFN) gamma.",
+            "SecondaryOutcomeTimeFrame": "24 weeks and 12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nFulfilling 1997 updated American College of Rheumatology (ACR) Criteria or 2012 SLICC Classification Criteria for SLE\nSeropositive for antinuclear (≥1:80) and/or anti-DNA antibodies\nFulfilling following criteria for active renal disease:\n\nClass III or IV proliferative disease (ISN/RPS) Renal Biopsy within 12 months plus...\n\nActive Urinary Sediment (> 5 red blood cells/high-power field and/or >8 white blood cells/high-power field and/or cylindruria during the current flare).\n\nUPC ratio ≥ 1\n\nExclusion Criteria:\n\nEstimated GFR < 40ml/min/m2\nAddition during prior 3 months of randomization of: Bolus methylprednisolone or new immunosuppressive drug or intravenous immunoglobulin (IVIG) or Plasmapheresis.\nAddition during prior 6 months of randomization of Cyclophosphamide\nAddition during prior 12 months of randomization of Biological anti-B cell therapy\nCoexisting uncontrolled morbidity; Pregnancy or planned Pregnancy within next 12 months; uncontrolled infection or neoplastic disease. Pending unresolved surgical indication.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Fernando F E, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+56226181455",
+            "CentralContactEMail": "ffigueroa@uandes.cl"
+          },
+          {
+            "CentralContactName": "Francisco Espinoza, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+56226181008",
+            "CentralContactEMail": "fespinoza@c4c.cl"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Fernando F E, MD",
+            "OverallOfficialAffiliation": "Professor School of Medicine",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Clínica Universidad de los Andes",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Santiago de Chile",
+            "LocationState": "Región Metropolitana",
+            "LocationZip": "7591278",
+            "LocationCountry": "Chile",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Fernando F E",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "226181455",
+                  "LocationContactEMail": "ffigueroa@uandes.cl"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hospital Barros Luco Trudeau",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Santiago de Chile",
+            "LocationState": "Región Metropolitana",
+            "LocationCountry": "Chile",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Jacqueline Pefaur, M.D.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+56998221921",
+                  "LocationContactEMail": "jacquelinepefaur@gmail.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000005921",
+            "ConditionMeshTerm": "Glomerulonephritis"
+          },
+          {
+            "ConditionMeshId": "D000008181",
+            "ConditionMeshTerm": "Lupus Nephritis"
+          },
+          {
+            "ConditionMeshId": "D000008180",
+            "ConditionMeshTerm": "Lupus Erythematosus, Systemic"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000003240",
+            "ConditionAncestorTerm": "Connective Tissue Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009393",
+            "ConditionAncestorTerm": "Nephritis"
+          },
+          {
+            "ConditionAncestorId": "D000007674",
+            "ConditionAncestorTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11490",
+            "ConditionBrowseLeafName": "Nephritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10330",
+            "ConditionBrowseLeafName": "Lupus Nephritis",
+            "ConditionBrowseLeafAsFound": "Lupus Glomerulonephritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10329",
+            "ConditionBrowseLeafName": "Lupus Erythematosus, Systemic",
+            "ConditionBrowseLeafAsFound": "Lupus Erythematosus, Systemic",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8183",
+            "ConditionBrowseLeafName": "Glomerulonephritis",
+            "ConditionBrowseLeafAsFound": "Glomerulonephritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5616",
+            "ConditionBrowseLeafName": "Connective Tissue Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3523",
+            "ConditionBrowseLeafName": "Lupus Nephritis",
+            "ConditionBrowseLeafAsFound": "Lupus Glomerulonephritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T2525",
+            "ConditionBrowseLeafName": "Glomerulonephritis",
+            "ConditionBrowseLeafAsFound": "Glomerulonephritis",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M13273",
+            "InterventionBrowseLeafName": "Prednisone",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M5879",
+            "InterventionBrowseLeafName": "Cyclophosphamide",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M11280",
+            "InterventionBrowseLeafName": "Mycophenolic Acid",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M13272",
+            "InterventionBrowseLeafName": "Prednisolone",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M1833",
+            "InterventionBrowseLeafName": "Methylprednisolone Acetate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M10901",
+            "InterventionBrowseLeafName": "Methylprednisolone",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M10902",
+            "InterventionBrowseLeafName": "Methylprednisolone Hemisuccinate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M229437",
+            "InterventionBrowseLeafName": "Prednisolone acetate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M211896",
+            "InterventionBrowseLeafName": "Prednisolone hemisuccinate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M248768",
+            "InterventionBrowseLeafName": "Prednisolone phosphate",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Infl",
+            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "AnEm",
+            "InterventionBrowseBranchName": "Antiemetics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "NeuroAg",
+            "InterventionBrowseBranchName": "Neuroprotective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Gast",
+            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+          }
+        ]
+      }
+    }
+  }
+}

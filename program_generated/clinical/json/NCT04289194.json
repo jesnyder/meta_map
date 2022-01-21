@@ -1,0 +1,566 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04289194",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "ALICELL-CT-01"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2019-002688-89",
+            "SecondaryIdType": "EudraCT Number"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Histocell, S.L.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Clinical Study to Assess the Safety and Preliminary Efficacy of HCR040 in Acute Respiratory Distress Syndrome",
+      "OfficialTitle": "Phase 1/2 Clinical Study to Assess the Feasibility, Safety, Tolerability and Preliminary Efficacy of the Administration of HCR040, Allogeneic Adipose-derived Adult Mesenchymal Stem Cells, in Acute Respiratory Distress Syndrome"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 10, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 15, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 16, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "February 26, 2020",
+      "StudyFirstSubmitQCDate": "February 26, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "February 28, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "May 13, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 14, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Histocell, S.L.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The main objective of the study is to assess the feasibility, safety, and tolerability of the administration of HCR040, a drug whose active substance is HC016, allogeneic adipose-derived adult mesenchymal stem cells expanded and pulsed with H2O2, in patients with acute respiratory distress syndrome.",
+      "DetailedDescription": "HCR040 is an investigational medicinal product whose active substance is HC016, allogeneic adipose-derived adult mesenchymal stem cells expanded and pulsed with H2O2.\n\nThe main purpose of this study is to evaluate the safety and tolerability of a single administration of HCR040 using: a) two sequential escalating doses administered 96 hours post-injury to participants with moderate to severe acute respiratory distress syndrome (ARDS); and b) the determined maximum tolerated dose administered 96 hours post-injury to participants with moderate to severe ARDS. The study also includes initial exploration of efficacy.\n\nTreatment is administered by intravenous injection.\n\nThe study has been divided into two phases:\n\nPhase 1 (open label): 6 participants with moderate to severe ARDS will be included in 2 sequential cohorts.\n\nPhase 2 (randomized, controlled, double-blind): 20 participants with moderate to severe ARDS will be randomly divided into two groups (control and treated)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Acute Respiratory Distress Syndrome"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Acute Respiratory Distress Syndrome",
+          "mesenchymal stem cells",
+          "anti-inflammation",
+          "allogenic",
+          "ARDS",
+          "acute lung injury",
+          "cell therapy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "26",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "HCR040 (Phase 1)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Participants with moderate to severe acute respiratory distress syndrome (6 patients)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: HCR040 (Phase 1)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control group (Phase 2)",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Participants with moderate to severe acute respiratory distress syndrome (10 patients)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo (Phase 2)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "HCR040 (Phase 2)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Participants with moderate to severe acute respiratory distress syndrome (10 patients)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: HCR040 (Phase 2)"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "HCR040 (Phase 1)",
+            "InterventionDescription": "(Phase 1) Intravenous administration. Open label dose escalation, 3 patients in cohort 1 (1 million cells/kg) and 3 patients in cohort 2 (2 million cells/kg)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "HCR040 (Phase 1)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Allogeneic adipose-derived adult mesenchymal stem cells expanded and pulsed with H2O2"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo (Phase 2)",
+            "InterventionDescription": "(Phase 2) Intravenous administration of vehicle solution",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group (Phase 2)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Saline solution"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "HCR040 (Phase 2)",
+            "InterventionDescription": "(Phase 2) Intravenous administration of the maximum tolerated dose (1 million cells/kg or 2 million cells/kg)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "HCR040 (Phase 2)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Allogeneic adipose-derived adult mesenchymal stem cells expanded and pulsed with H2O2"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of adverse events as a measure of safety and tolerability of a single dose of HCR040 when administered by intravenous injection",
+            "PrimaryOutcomeTimeFrame": "One year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Average stay in the Intensive Care Unit (ICU) 28 days after the administration of HCR040",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Sequential Organ Failure Assessment (SOFA) index at 3, 7, 14, 21, and 28 days after the administration of HCR040",
+            "SecondaryOutcomeDescription": "SOFA index from 0 to 4 where lower scores represent improvement",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Mechanical ventilation-free days 28 days after the administration of HCR040",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Percent mortality 28 days after the administration of HCR040",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Daily pulmonary mechanics values (Ppl, DP, CRS)",
+            "SecondaryOutcomeTimeFrame": "One year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Determination of lung damage using the Murray scale at day 3, 7, 14 and 28 after the administration of HCR040",
+            "SecondaryOutcomeDescription": "Murray scale from 0 to 4 where lower scores represent improvement",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Vasopressor-free days 28 days after the administration of HCR040",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "ICU-free days 28 days after the administration of HCR040",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMen and women ≥ 18 years\nPatients with criteria of moderate to severe ARDS according to the Berlin Conference.\nBerlin criteria of moderate to severe ARDS given simultaneously during the 24 hours prior to entry into the study\nPatients with invasive mechanical ventilation in controlled mode (VC, PC or VCRP) adjusted to Vt≤8 mL/kg, Ppl <30 cmH2O and minimum PEEP of 8 cmH2O\n\nExclusion Criteria:\n\nParticipation in a previous clinical study within 28 days prior to the ARDS situation\nAdministration of a previous cell therapy product in the 5 years prior to this ARDS clinical situation\nInability to obtain Informed Consent\nHemodynamic instability that contraindicates the intravenous cellular administration, within the defined time frame for inclusion in the study\nAlveolar hemorrhage or hemoptysis\nLTSV situation (Limitation of life support treatments)\nMajor trauma in the previous 5 days\nNeoplastic processes at any time\nEPOC or severe home asthma or any other type of chronic respiratory disease requiring respiratory oxygen\nKnown Child-Pugh liver disease score > B9\nPregnant women or women of childbearing age who are not using an adequate method of contraception, or who, if they are using it, are not willing to continue using it for the duration of the trial. If the patient is menopausal or sterile, it must be documented in the medical record\nWomen who are breastfeeding if unwillingly to stop at the time of recruitment\nPulmonary transplant\nKnown grade III or IV pulmonary hypertension\nStates of hypercoagulability\nHistory of DVP or PE in the last 6 months",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Begoña Castro, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+34 94 656 7900",
+            "CentralContactEMail": "bcastro@histocell.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Fermin Labayen Beraza, MD",
+            "OverallOfficialAffiliation": "Hospital de Cruces",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Hospital Universitario de Cruces",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Barakaldo",
+            "LocationState": "Bizkaia",
+            "LocationZip": "48903",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Fermin Labayen Beraza, MD",
+                  "LocationContactRole": "Contact"
+                },
+                {
+                  "LocationContactName": "Fermin Labayen Beraza, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Pablo Serna, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Victoria Boado, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Tomás Muñoz, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Fundación Jiménez Díaz",
+            "LocationStatus": "Completed",
+            "LocationCity": "Madrid",
+            "LocationZip": "28040",
+            "LocationCountry": "Spain"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012128",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000012127",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome, Newborn"
+          },
+          {
+            "ConditionMeshId": "D000055371",
+            "ConditionMeshTerm": "Acute Lung Injury"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007235",
+            "ConditionAncestorTerm": "Infant, Premature, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007232",
+            "ConditionAncestorTerm": "Infant, Newborn, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000055370",
+            "ConditionAncestorTerm": "Lung Injury"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9445",
+            "ConditionBrowseLeafName": "Inflammation",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27296",
+            "ConditionBrowseLeafName": "Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9431",
+            "ConditionBrowseLeafName": "Infant, Premature, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9428",
+            "ConditionBrowseLeafName": "Infant, Newborn, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000006861",
+            "InterventionMeshTerm": "Hydrogen Peroxide"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000891",
+            "InterventionAncestorTerm": "Anti-Infective Agents, Local"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9070",
+            "InterventionBrowseLeafName": "Hydrogen Peroxide",
+            "InterventionBrowseLeafAsFound": "Pp65",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3367",
+            "InterventionBrowseLeafName": "Anti-Infective Agents, Local",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          }
+        ]
+      }
+    }
+  }
+}

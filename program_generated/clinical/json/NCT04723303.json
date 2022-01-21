@@ -1,0 +1,368 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04723303",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "DM/PM V2.0"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "IRB201903442",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "UF IRB"
+          },
+          {
+            "SecondaryId": "OCR33722",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "UF OnCore"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "University of Florida",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Phase 1 Study of ULSC in Patients With Polymyositis (PM) and Dermatomyositis (DM)",
+      "OfficialTitle": "Phase 1 Study of Mesenchymal Stromal Cells, Umbilical Cord Lining Stem Cells (ULSC), in Patients With Polymyositis (PM) and Dermatomyositis (DM)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 6, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 20, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 20, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 8, 2020",
+      "StudyFirstSubmitQCDate": "January 22, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 25, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 17, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 18, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of Florida",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Restem, LLC.",
+            "CollaboratorClass": "INDUSTRY"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study will investigate Umbilical Cord Lining Stem Cells (ULSC) as an investigational medicinal product and its use in patients with polymyositis (PM) or dermatomyositis (DM) to see if a single intravenous (IV) infusion of allogeneic umbilical cord lining stem cells (ULSC) safe, tolerable, and feasible to administer."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Polymyositis",
+          "Dermatomyositis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Early Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignInterventionModelDescription": "Study Participants will be assigned to one of 3 doses of stem cells depending on when the subject is enrolled. The first three patients will be assigned to the low dose group, the next three patients will be assigned the intermediate dose group and last three patients will receive the high dose of ULSC's. An independent review group will evaluate the response to therapy to each dose group before moving to the next dose. The groups and doses are described below:\n\nA low dose group receives an IV infusion of 50 million stem cells.\n\nAn intermediate dose group receives an IV infusion of 100 million stem cells.\n\nA high dose group receives an IV infusion of 200 million stem cells.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "22",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Treatment Arm",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "A single IV infusion of ULSC's in patients with DM or PM",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Umbilical Cord Lining Stem Cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Umbilical Cord Lining Stem Cells",
+            "InterventionDescription": "An IV infusion of ULSCs will be administered.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment Arm"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of Subjects with Dose Limiting Toxicity (DLT) that begins during or following ULSC infusion as assessed within 24 hours.",
+            "PrimaryOutcomeDescription": "Dose Limiting Toxicities are treatment-emergent suspected adverse reactions graded severe, such as severe infusion-related hypersensitivity toxicities of grade ≥3, and any serious adverse event (SAE). (Note: DLT during an infusion will stop that infusion in that subject.)",
+            "PrimaryOutcomeTimeFrame": "Within 24 hours"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAdult, male or female, age ≥18 years old\nDiagnosis of definite or probable DM or PM, according to the criteria of Bohan and Peter\nPatients with PM will either be positive for a myositis-associated antibody or have undergone evaluation to exclude mimics, as deemed appropriate by the Investigator (See Note below).\nSigns informed consent.\n\nExclusion Criteria:\n\nA diagnosis of inclusion body myositis, juvenile DM or PM, myositis in the context of significant overlap with another systemic autoimmune rheumatologic disease.\nNon immune myopathies.\nCancer associated myositis.\nHypersensitivity to study product components. History of hypersensitivity to dimethyl sulfoxide (DMSO).\nPregnant or lactating women.\nConcomitant severe cardiac, pulmonary disease, active infection or other conditions that preclude assessment of safety and efficacy of the study product.\nPatients with predominant muscle atrophy secondary to uncontrolled or chronic DM or PM, based on clinical, biochemical, and/or radiologic assessment, despite previous optimized treatment.\nAnticipated need for surgery during the trial period.\nA history of prevalent noncompliance with medical therapy.\nRecipient of an organ transplant.\nNeutropenia (absolute neutrophil count<1,800/mm3 [or <1,000/mm3 in African-American subjects]).\nSevere impairment in renal function (estimated glomerular filtration rate <30 ml/kg*min).\nRecent or planned use of vaccination with live attenuated viruses.\nActive cancer or prior diagnosis of cancer within the past 2 years (patients with basal and squamous cell cancer of skin will not be excluded).\nCondition that would impair an assessment of muscle strength, including neurological disorders such as Parkinson's disease or severe musculoskeletal condition.\nAny other condition that, in the judgment of the Investigator or Sponsor, would be a contraindication to enrollment, study product administration, or follow-up.\nHistory of Atrial septal defect or ventricular septal defect",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "90 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Carl Pepine, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "352-273-9082",
+            "CentralContactEMail": "Carl.Pepine@medicine.ufl.edu"
+          },
+          {
+            "CentralContactName": "Chassidi Rogers",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "352-273-8946",
+            "CentralContactEMail": "Chassidi.Garrett@medicine.ufl.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Carl Pepine, MD",
+            "OverallOfficialAffiliation": "University of Florida",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Florida",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Gainesville",
+            "LocationState": "Florida",
+            "LocationZip": "32610",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Carl Pepine, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "352-273-9082",
+                  "LocationContactEMail": "Carl.Pepine@medicine.ufl.edu"
+                },
+                {
+                  "LocationContactName": "Eileen Handberg, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "352-273-8933",
+                  "LocationContactEMail": "Eileen.Handberg@medicine.ufl.edu"
+                },
+                {
+                  "LocationContactName": "Carl Pepine, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003882",
+            "ConditionMeshTerm": "Dermatomyositis"
+          },
+          {
+            "ConditionMeshId": "D000017285",
+            "ConditionMeshTerm": "Polymyositis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009220",
+            "ConditionAncestorTerm": "Myositis"
+          },
+          {
+            "ConditionAncestorId": "D000009135",
+            "ConditionAncestorTerm": "Muscular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009468",
+            "ConditionAncestorTerm": "Neuromuscular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003240",
+            "ConditionAncestorTerm": "Connective Tissue Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012871",
+            "ConditionAncestorTerm": "Skin Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6229",
+            "ConditionBrowseLeafName": "Dermatomyositis",
+            "ConditionBrowseLeafAsFound": "Dermatomyositis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18731",
+            "ConditionBrowseLeafName": "Polymyositis",
+            "ConditionBrowseLeafAsFound": "Polymyositis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11324",
+            "ConditionBrowseLeafName": "Myositis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11244",
+            "ConditionBrowseLeafName": "Muscular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11563",
+            "ConditionBrowseLeafName": "Neuromuscular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5616",
+            "ConditionBrowseLeafName": "Connective Tissue Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14826",
+            "ConditionBrowseLeafName": "Skin Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T1814",
+            "ConditionBrowseLeafName": "Dermatomyositis",
+            "ConditionBrowseLeafAsFound": "Dermatomyositis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T4623",
+            "ConditionBrowseLeafName": "Polymyositis",
+            "ConditionBrowseLeafAsFound": "Polymyositis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T3001",
+            "ConditionBrowseLeafName": "Idiopathic Inflammatory Myopathy",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

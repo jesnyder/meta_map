@@ -1,0 +1,260 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03458819",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "18-0401"
+      },
+      "Organization": {
+        "OrgFullName": "University of Colorado, Denver",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "EMT in Peritoneal Dialysis Patients",
+      "OfficialTitle": "Epithelial to Mesenchymal Transition (EMT) in Peritoneal Dialysis Patients"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "February 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 20, 2018",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "May 22, 2019",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "May 22, 2019",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "February 26, 2018",
+      "StudyFirstSubmitQCDate": "March 1, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 8, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "February 23, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "February 25, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of Colorado, Denver",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Approximately 10-11% of end stage kidney disease patients worldwide utilize peritoneal dialysis (PD) as their method of renal replacement therapy. Over time, the peritoneal membrane often undergoes anatomic and functional changes due to the process of epithelial to mesenchymal transition (EMT). EMT is characterized by increases in pro-inflammatory and pro-angiogenic cytokines. In this process, the mesothelial cells lining the peritoneal membrane are denuded and change their morphology to one more closely resembling fibroblasts. These fibroblasts invade the submesothelial zone of the peritoneal membrane resulting in marked fibrosis, and the pro-angiogenic cytokines cause an increase in neovascularization. Jointly, these processes culminate in impaired function of the peritoneal membrane and often limit the duration of effective PD therapy.\n\nIn vitro studies in cultured human peritoneal mesothelial cells (HPMCs) and in vivo studies in rodent models of PD have demonstrated that the use of active Vitamin D receptor agonists or statins may attenuate this process of EMT. These are both classes of drugs that are commonly in use by patients on PD. The investigators goal is to determine whether either or both of these drugs might attenuate the process of EMT in patients performing PD.",
+      "DetailedDescription": "Patients will perform a standard 2 Liter overnight dwell with the usual 2.5% dextrose PD solution. This will be done the night before a routinely scheduled visit to the home dialysis clinic. In the clinic the fluid will be drained in usual fashion and the fluid- which would otherwise be discarded- will be analyzed as below:\n\nHPMCs will be isolated as previously described by Kinashi et al. and stored at -80 degrees until analysis. Changes in the protein expression of EMT markers such as E-cadherin, alpha smooth muscle actin (a-SMA), Snail, and fibronectin in the HPMCs will be evaluated by Western blot analysis."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Peritoneal Dialysis Complication"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "Isolated human peritoneal mesothelial cells"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "22",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Control",
+            "ArmGroupDescription": "Patients on neither active Vitamin D or a statin",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Isolation of peritoneal mesothelial cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Vit D",
+            "ArmGroupDescription": "Patients on active Vitamin D but not a statin",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Isolation of peritoneal mesothelial cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Statin",
+            "ArmGroupDescription": "Patients on a statin but not active Vitamin D",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Isolation of peritoneal mesothelial cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "D + Statin",
+            "ArmGroupDescription": "Patients on both active Vitamin D and a statin",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Isolation of peritoneal mesothelial cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "Isolation of peritoneal mesothelial cells",
+            "InterventionDescription": "HPMCs will be isolated and stored at -80 degrees until analysis. Changes in the protein expression of EMT markers such as E-cadherin, a- SMA, Snail, and fibronectin in the HPMCs will be evaluated by Western blot analysis.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control",
+                "D + Statin",
+                "Statin",
+                "Vit D"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Changes in the protein expression of EMT markers",
+            "PrimaryOutcomeDescription": "The goal of this study is to determine whether either or both of these drugs, Vitamin D receptor agonists or statins, might attenuate the process of EMT in peritoneal mesothelial cells. Changes in the protein expression of EMT markers such as E-cadherin, a- SMA, Snail, and fibronectin in the HPMCs will be evaluated by Western blot analysis.",
+            "PrimaryOutcomeTimeFrame": "One year or at the end of the study, whichever occurs first."
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients > 18 years of age\nPatients on Peritoneal dialysis, and\nPatients that meet at least one of the criteria noted in the Population Description.\n\nExclusion Criteria:\n\nPatients with Recent peritonitis",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "90 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "PD patients > 18 years old. We propose to study 4 groups of 6 patients each:\n\nPatients taking neither an active Vitamin D analogue nor a statin\nPatients already taking an active Vitamin D analogue\nPatients already taking a statin\nPatients already taking both an active Vitamin D analogue and a statin",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Isaac Teitelbaum, MD",
+            "OverallOfficialAffiliation": "University of Colorado, Denver",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Colorado Anschutz Medical Campus",
+            "LocationCity": "Aurora",
+            "LocationState": "Colorado",
+            "LocationZip": "80045",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M16702",
+            "InterventionBrowseLeafName": "Vitamin D",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M16710",
+            "InterventionBrowseLeafName": "Vitamins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20308",
+            "InterventionBrowseLeafName": "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "T440",
+            "InterventionBrowseLeafName": "Calciferol",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "BDCA",
+            "InterventionBrowseBranchName": "Bone Density Conservation Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Micro",
+            "InterventionBrowseBranchName": "Micronutrients"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Lipd",
+            "InterventionBrowseBranchName": "Lipid Regulating Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Vi",
+            "InterventionBrowseBranchName": "Vitamins"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04364620",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "AB-16B5-201"
+      },
+      "Organization": {
+        "OrgFullName": "Alethia Biotherapeutics",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "AB-16B5 Combined With Docetaxel in Subjects With Metastatic Non-Small Cell Lung Cancer (EGIA-002)",
+      "OfficialTitle": "A Phase II Study of AB-16B5 Combined With Docetaxel in Previously Treated Subjects With Metastatic Non-Small Cell Lung Cancer (EGIA-002)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 23, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "February 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 23, 2020",
+      "StudyFirstSubmitQCDate": "April 24, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 28, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "April 19, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 21, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Alethia Biotherapeutics",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This Phase II study will recruit 40 metastatic non-small cell lung cancer patients who failed treatment with a platinum-containing doublet treatment and an anti-PD1 or PD-L1 immune checkpoint antibody, administered simultaneously or sequentially. All recruited patients will receive AB-16B5 at a dose of 12 mg/kg once weekly combined with docetaxel at a dose of 75 mg/m2 once every 3 weeks.",
+      "DetailedDescription": "This is an open-label, single-arm, multi-center Phase II trial of AB-16B5 in combination with docetaxel in previously treated subjects with metastatic non-small cell lung cancer who have experienced disease progression following treatment with a platinum-containing doublet treatment and an anti-PD1 or PD-L1 immune checkpoint antibody, administered simultaneously or sequentially. Approximately 40 subjects will be enrolled in this trial and receive AB-16B5 at a dose of 12 mg/kg once weekly on Days 1, 8 and 15 combined with docetaxel at a dose of 75 mg/m2 once every 3 weeks on Day 1. One cycle of treatment will consist of 21 days (3 weeks). The safety profile of the AB-16B5 and docetaxel combination will be examined during a safety lead-in period with the first 8 subjects completing one cycle of treatment. No dose escalation will be performed but a decision to de-escalate the AB-16B5 dose could be made using the modified toxicity probability interval method.\n\nSubjects will be evaluated every 6 weeks with radiographic imaging to assess response to treatment using Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria for determination of the objective response rate (ORR) and progression free survival (PFS). Paired tumor biopsies (pre-treatment and on-treatment) will be collected in all subjects. Study treatment will continue until there is evidence of disease progression, treatment-related adverse events of unacceptable severity, subject request for discontinuation or Investigator determination that further treatment is not in the subject's best interest. Treatment through progression will be allowed if the Investigator considers the subject to be clinically stable. Subjects who must discontinue docetaxel due to toxicity will continue on AB-16B5."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "NSCLC Stage IV"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Lung cancer",
+          "Chemotherapy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Arm AB-16B5 and Docetaxel",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "AB-16B5 at a dose of 12 mg/kg once weekly on Days 1, 8 and 15 combined with docetaxel at a dose of 75 mg/m2 once every 3 weeks on Day 1.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: AB-16B5",
+                "Drug: Docetaxel"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "AB-16B5",
+            "InterventionDescription": "AB-16B5 is an inhibitor of the epithelial to mesenchymal transition. It is a fully humanized monoclonal antibody of IgG2 isotype against tumor-associated secreted clusterin (TA-sCLU).",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm AB-16B5 and Docetaxel"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Docetaxel",
+            "InterventionDescription": "Docetaxel is an anticancer chemotherapy drug approved in the treatment of non-small cell lung cancer",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm AB-16B5 and Docetaxel"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Objective response rate (ORR)",
+            "PrimaryOutcomeDescription": "The percentage of subjects with radiologically complete or partial response as determined by the investigator according to RECIST version 1.1.",
+            "PrimaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Safety and tolerability of the combination of AB-16B5 and docetaxel: number of subjects with an adverse event",
+            "PrimaryOutcomeDescription": "The number of subjects with an adverse event as a measure of safety and tolerability.",
+            "PrimaryOutcomeTimeFrame": "2 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Clinical benefit rate (CBR)",
+            "SecondaryOutcomeDescription": "The percentage of subjects with complete response (CR), partial response (PR) and stable disease (SD) as determined by the investigator according to RECIST version 1.1.",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of response (complete response and partial response)",
+            "SecondaryOutcomeDescription": "The duration of complete and partial response as determined by the investigator according to RECIST version 1.1.",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of stable disease",
+            "SecondaryOutcomeDescription": "The duration of stable disease as determined by the investigator according to RECIST version 1.1.",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Progression free survival (PFS)",
+            "SecondaryOutcomeDescription": "Progression free survival measured from the date of study enrolment to radiographically documented progression according to RECIST 1.1 or death from any cause (whichever occurs first).",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Overall survival (OS)",
+            "SecondaryOutcomeDescription": "Overall survival measured from date of study enrolment to death from any cause.",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Determination of plasma concentrations of AB-16B5",
+            "SecondaryOutcomeDescription": "Noncompartmental analysis of pharmacokinetic data using standard approaches. The pharmacokinetic data may also be evaluated using a population pharmacokinetics approach.",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSubjects (male or non-pregnant female) must be ≥ 18 years of age on the day of signing the informed consent.\nSubjects with a histologically or cytologically confirmed diagnosis of (Stage III-IV) non-small cell lung cancer (NSCLC) and with at least one measurable lesion defined by RECIST 1.1.\nSubjects must have experienced a disease progression following treatment with an anti-PD1 or PD-L1 immune checkpoint antibody and a platinum-containing doublet treatment, administered simultaneously or sequentially.\nSubjects with a targetable driver mutation in EGFR or ALK gene will be allowed on trial after failing all available targeted therapies and having experienced a disease progression following treatment with an anti-PD1 or PD-L1 immune checkpoint antibody and a platinum-containing doublet treatment, administered simultaneously or sequentially.\nSubjects must have adequate organ and immune function\nSubjects must have a tumor lesion amenable for biopsies with no contraindication for biopsy.\nSubjects must have an Eastern Cooperative Oncology Group (ECOG) performance status of ≤ 2.\nSubjects must have a life expectancy of at least 3 months.\nSubjects must have recovered from the toxic effects resulting from the most recent cancer treatment to Grade 1 or less. If the subjects underwent major surgery or received radiation therapy, they must have recovered from the complications and/or toxicity.\nFemale subjects of childbearing potential must have a negative serum pregnancy test within 72 hours prior to the first dose of study treatment.\nSubjects (both male and female) of reproductive potential must be willing to practice highly effective methods of contraception throughout the study and for up to 90 days after the last dose of study medication. Abstinence is acceptable if this is the subject's usual lifestyle.\n\nFemale subjects are not considered of childbearing potential if they have a history of surgical sterility or evidence of post-menopausal status defined as any of the following:\n\n≥ 45 years of age and has not had menses for more than 2 years.\nAmenorrhoeic for less than 2 years without hysterectomy and oophorectomy and a follicle stimulating hormone (FSH) value in the postmenopausal range at screening.\nPost hysterectomy, oophorectomy or tubal ligation. Documented hysterectomy or oophorectomy must be confirmed with medical records of the actual procedure or by ultrasound. Tubal ligation must be confirmed with medical records of the actual procedure.\nSubjects must understand and be able and willing and likely to fully comply with the study procedures, including scheduled follow-up, and restrictions.\nSubjects must have given written personally signed and dated informed consent to participate in the study in accordance with the International Conference on Harmonization (ICH) Good Clinical Practice (GCP) Guidelines, before completing any study related procedures.\n\nExclusion Criteria:\n\nSubjects who have received prior therapy with AB-16B5.\nSubjects who have received prior therapy with docetaxel for the treatment of NSCLC.\nSubjects who are currently participating or has participated in a study of an investigational agent or using an investigational device within 21 days prior to the first dose of study treatment. The 21-day window should be calculated using the last dose of an antineoplastic investigational agent or last use of an investigational device with antineoplastic intent.\nSubjects who have received any anti-cancer treatment within 3 weeks or radiation therapy within 2 weeks prior to receiving the first dose of study treatment or who have not recovered from adverse events to Grade 1 or less. Subjects with alopecia are eligible to participate.\nSubjects who are expected to require any other form of systemic or localized antineoplastic therapy while on the trial. This includes maintenance therapy with another agent or radiation therapy.\nSubjects who are receiving a dose > 10 mg/day of prednisone (or equivalent) within 7 days prior to the first dose of study treatment or any other form of immunosuppressive medication (corticosteroid pre-treatment and/or post-treatment of docetaxel is allowed).\nSubjects who require treatment with a strong CYP3A4 inhibitor (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin and voriconazole). Subjects may be included if there is an alternate treatment with a weak CYP3A4 inhibitor and they are willing to change at least 7 days prior to the first dose of study treatment.\nSubjects who have another malignancy that is progressing or requires active treatment. Exceptions include basal cell carcinoma of the skin, squamous cell carcinoma of the skin or in situ cervical cancer.\nSubjects who have known active central nervous system metastases and/or carcinomatous meningitis. Subjects with previously treated brain metastases may participate if they have been clinically stable for at least 2 weeks prior to the first dose of study treatment, if they have no evidence of new or enlarging brain metastases and if they are not receiving a dose > 10 mg/day of prednisone (or equivalent) within 7 days prior to the first dose of study treatment.\nSubjects with clinically significant ECG abnormalities.\nSubjects who have received or will receive a live vaccine within 30 days prior to the first dose of study treatment.\nSubjects with a known history of human immunodeficiency (HIV).\nSubjects with an active Hepatitis B or C infection.\nSubjects with an active infection requiring antibiotic therapy.\nSubjects with a known history of alcohol or other substance abuse within the last year.\nSubjects with known hypersensitivity to docetaxel.\nSubjects who have a history or current evidence of any condition, therapy or laboratory abnormalities that may confound the results of the trial, interfere with the subject's participation for the full duration of the trial or if it is not in the best interest of the subject to participate in the trial.\nSubjects with medical, social or psychosocial factors that, in the opinion of the treating Investigator, could impact the safety or compliance with study procedures.\nSubjects who are pregnant or lactating or who are expecting to conceive or father children within the projected duration of the trial through 90 days after the last dose of AB-16B5 or the last dose of docetaxel.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Julie Laurin",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "514.858.7666",
+            "CentralContactPhoneExt": "205",
+            "CentralContactEMail": "julie.laurin@alethiabio.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Julie Laurin",
+            "OverallOfficialAffiliation": "Alethia Biotherapeutics Inc.",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "The University of Texas MD Anderson Cancer Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77030",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Lauren A Byers, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Centre Hospitalier de l'Université de Montréal (CHUM)",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Montréal",
+            "LocationState": "Quebec",
+            "LocationZip": "H2X 3E4",
+            "LocationCountry": "Canada",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Normand Blais, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ)",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Québec",
+            "LocationState": "Quebec",
+            "LocationZip": "G1V 4G5",
+            "LocationCountry": "Canada",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Catherine Labbé, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Centre Intégré de Santé et de Services Sociaux des Laurentides (Hôpital Régional de St-Jérôme)",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Saint-Jérôme",
+            "LocationState": "Quebec",
+            "LocationZip": "J7Z 5T3",
+            "LocationCountry": "Canada",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Ghislain Cournoyer, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008175",
+            "ConditionMeshTerm": "Lung Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000002289",
+            "ConditionMeshTerm": "Carcinoma, Non-Small-Cell Lung"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012142",
+            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000013899",
+            "ConditionAncestorTerm": "Thoracic Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002283",
+            "ConditionAncestorTerm": "Carcinoma, Bronchogenic"
+          },
+          {
+            "ConditionAncestorId": "D000001984",
+            "ConditionAncestorTerm": "Bronchial Neoplasms"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10324",
+            "ConditionBrowseLeafName": "Lung Neoplasms",
+            "ConditionBrowseLeafAsFound": "Lung Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4698",
+            "ConditionBrowseLeafName": "Carcinoma, Non-Small-Cell Lung",
+            "ConditionBrowseLeafAsFound": "Non-Small Cell Lung Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4686",
+            "ConditionBrowseLeafName": "Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14131",
+            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15810",
+            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4692",
+            "ConditionBrowseLeafName": "Carcinoma, Bronchogenic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4412",
+            "ConditionBrowseLeafName": "Bronchial Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000077143",
+            "InterventionMeshTerm": "Docetaxel"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000050257",
+            "InterventionAncestorTerm": "Tubulin Modulators"
+          },
+          {
+            "InterventionAncestorId": "D000050256",
+            "InterventionAncestorTerm": "Antimitotic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000050258",
+            "InterventionAncestorTerm": "Mitosis Modulators"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3382",
+            "InterventionBrowseLeafName": "Antibodies, Monoclonal",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M1668",
+            "InterventionBrowseLeafName": "Docetaxel",
+            "InterventionBrowseLeafAsFound": "Administration",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M25350",
+            "InterventionBrowseLeafName": "Tubulin Modulators",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M25349",
+            "InterventionBrowseLeafName": "Antimitotic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          }
+        ]
+      }
+    }
+  }
+}

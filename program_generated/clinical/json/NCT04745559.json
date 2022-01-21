@@ -1,0 +1,477 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04745559",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MCC-20571"
+      },
+      "Organization": {
+        "OrgFullName": "H. Lee Moffitt Cancer Center and Research Institute",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Optimizing Cellular and Humoral Immunity by Vaccinating With PCV13 Before and After CAR-T Therapy",
+      "OfficialTitle": "Optimizing Cellular and Humoral Immunity to Pneumococcus by Vaccination With Pneumococcal 13-valent Conjugate Vaccine Before and After CD19-targeted CAR T-cell Immunotherapy"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 18, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "February 2024",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "February 2025",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "February 4, 2021",
+      "StudyFirstSubmitQCDate": "February 4, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "February 9, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 29, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 30, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "H. Lee Moffitt Cancer Center and Research Institute",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of the study is to evaluate whether receiving the pneumococcal 13-valent conjugate vaccine (PCV13) before and after CD19-targeted CAR T cell therapy will optimize cellular and humoral immunity to pneumococcus.",
+      "DetailedDescription": "This is a phase II, single-institution study to investigate if pneumococcal vaccination before and after CD19-targeted CAR T cell therapy elicits cellular and humoral immunity to pneumococcus in patients with relapsed or refractory B cell lymphomas. All the participants will receive the same treatment. Immunoglobulins (IgG) against pneumococcal serotypes not included in the vaccine will be served as an internal control. Treatment includes the same dose (0.5ml) of PCV13 one time prior to apheresis followed by two times after CAR T cell therapy"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Diffuse Large-Cell Lymphoma",
+          "Primary Mediastinal Large B-Cell Lymphoma (PMBCL)",
+          "Transformed Follicular Lymphoma (TFL)",
+          "High-grade B-cell Lymphoma (HGBCL)"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "26",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Treatment",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Pneumococcal conjugate vaccine (PCV13) .5 ml will be administered intramuscularly three times: 7 days (range 4 to 21 days) before apheresis collection and on day +30 (range +21 to +37) and day +90 (range +75 to +115) after CAR T cell infusion.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Pneumococcal conjugate vaccine (PCV13)",
+                "Biological: CD19 targeted CAR T Cell Therapy"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Pneumococcal conjugate vaccine (PCV13)",
+            "InterventionDescription": "Licensed heptavalent pneumococcal conjugate vaccine (PCV13, Pneumococcal 13-valent conjugate vaccine",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Prevnar 13"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "CD19 targeted CAR T Cell Therapy",
+            "InterventionDescription": "This is a personalized therapeutic approach that entails removal of T cells from patient's peripheral blood, genetic modification, activation and expansion in vitro to retarget cells against CD19 protein on the surface of B cells, and infusion of the genetically engineered cells back into the patient. CD19 is a surface protein that is expressed on B cells starting from early pre-B cells to mature fully differentiated B cells. Therefore, CD19-targeted CAR T cell therapy can effectively treat refractory B cell lymphomas.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Humoral Response Rate -PCV13 vaccine",
+            "PrimaryOutcomeDescription": "Humoral sero-protection rate elicited by the PCV13 vaccine intervention as measured on day+90 post CART",
+            "PrimaryOutcomeTimeFrame": "90 days post CAR T therapy"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Increase in PCV13 specific serotype IgG levels",
+            "SecondaryOutcomeDescription": "PCV13 specific serotype IgG levels on day +90 post CAR T cell therapy as an absolute and as a change from baseline",
+            "SecondaryOutcomeTimeFrame": "90 days post CAR T therapy"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Increase in On-Specific Serotype IgG levels",
+            "SecondaryOutcomeDescription": "Non-specific serotype IgG levels on day +90 post CAR T cell therapy as an absolute and as a change from baseline",
+            "SecondaryOutcomeTimeFrame": "90 days post CAR T therapy"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Response Rate of CD19-targeted CAR T therapy when combined with PCV13 vaccination",
+            "SecondaryOutcomeDescription": "Percentage of patients whose cancer shrinks or disappears after treatment",
+            "SecondaryOutcomeTimeFrame": "90 days post CAR T therapy"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Progression Free Survival",
+            "SecondaryOutcomeDescription": "Progression Free Survival (PFS) from start of treatment to death of any cause, disease progression or relapse of the date of last follow-up, whichever comes first.",
+            "SecondaryOutcomeTimeFrame": "at 90 days and 180 days post CAR T therapy"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Overall Survival",
+            "SecondaryOutcomeDescription": "Overall Survival (OS):The length of time from the start of treatment until death by any cause",
+            "SecondaryOutcomeTimeFrame": "180 days post CAR T therapy"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nIn good health as evidenced by medical history or diagnosed with relapsed or chemotherapy-refractory diffuse large B cell lymphoma (DLBCL), primary mediastinal B cell lymphoma (PMLBCL), transformed follicular lymphoma (TFL) and high-grade B cell lymphoma (HGBCL). Patients must be under consideration for treatment with any CD19-targeted CAR T cell therapy, per institutional standards. Patients undergoing active vital organ testing with a planned apheresis date for CAR T cell therapy may be considered eligible.\nSigned informed consent form in accordance with institutional and federal law policies\nStated willingness to comply with all study procedures and availability for the duration of the study\nMale or female, age over 18\nFor females of reproductive potential: use of highly effective contraception for at least 1 month prior to screening and agreement to use such a method during study participation\n\nExclusion Criteria:\n\nPregnant or lactating woman, as evaluated by serum testing within 2 weeks of administration of the first vaccine. Only women of childbearing potential will undergo serum/urine pregnancy testing. A woman will be considered of childbearing potential unless she is status-post hysterectomy or tubal ligation or without menstrual periods in the preceding 12 months.\nCommon variable immunodeficiency or other inherited systemic immunodeficiency syndrome\nHistory of severe allergy (e.g., anaphylaxis) to any component of pneumococcal conjugate vaccine 7 valent (PCV7), PCV13, or any diphtheria-toxoid containing vaccine.\nInclusion on a separate trial in which patients may be randomized or otherwise started on maintenance chemotherapies within the first 3 months of CD19-targeted CAR T cell therapy\nPatients with significant psychiatric illness likely to affect compliance, as determined by the treating physician\nActive or uncontrolled infections\nPlatelet count <10,000 cells/microliter\nLymphocyte count <200 cells/microliter\nIntervenous immunoglobulin (IVIG) administration within one month of planned apheresis for collection for CD19-targeted CAR T cell manufacture\nHistory of PCV13 administration within one month of planned apheresis for collection for CD19-targeted CAR T cell manufacture",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Christina Lennon",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "813-745-3669",
+            "CentralContactEMail": "Christina.Lennon@moffitt.org"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Frederick Locke, MD",
+            "OverallOfficialAffiliation": "Moffitt Cancer Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Moffitt Cancer Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Tampa",
+            "LocationState": "Florida",
+            "LocationZip": "33612",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Christina Lennon",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "813-745-3669"
+                },
+                {
+                  "LocationContactName": "Julio C Chavez, MD, MS",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Marco Davila, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Michael Jain, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Farhad Khimani, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Aleksandr Lazaryan, MD, PhD, MPH",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Dasom Lee, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Javier Pinilla, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Bijal D Shah, MD, MS",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008223",
+            "ConditionMeshTerm": "Lymphoma"
+          },
+          {
+            "ConditionMeshId": "D000016393",
+            "ConditionMeshTerm": "Lymphoma, B-Cell"
+          },
+          {
+            "ConditionMeshId": "D000016403",
+            "ConditionMeshTerm": "Lymphoma, Large B-Cell, Diffuse"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008232",
+            "ConditionAncestorTerm": "Lymphoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008206",
+            "ConditionAncestorTerm": "Lymphatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007160",
+            "ConditionAncestorTerm": "Immunoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000008228",
+            "ConditionAncestorTerm": "Lymphoma, Non-Hodgkin"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10372",
+            "ConditionBrowseLeafName": "Lymphoma",
+            "ConditionBrowseLeafAsFound": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17980",
+            "ConditionBrowseLeafName": "Lymphoma, B-Cell",
+            "ConditionBrowseLeafAsFound": "B-cell Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17983",
+            "ConditionBrowseLeafName": "Lymphoma, Large B-Cell, Diffuse",
+            "ConditionBrowseLeafAsFound": "Diffuse large cell lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10373",
+            "ConditionBrowseLeafName": "Lymphoma, Follicular",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10377",
+            "ConditionBrowseLeafName": "Lymphoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10355",
+            "ConditionBrowseLeafName": "Lymphatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9358",
+            "ConditionBrowseLeafName": "Immunoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10374",
+            "ConditionBrowseLeafName": "Lymphoma, Non-Hodgkin",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3543",
+            "ConditionBrowseLeafName": "Lymphosarcoma",
+            "ConditionBrowseLeafAsFound": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T640",
+            "ConditionBrowseLeafName": "B-cell Lymphoma",
+            "ConditionBrowseLeafAsFound": "B-cell Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T1866",
+            "ConditionBrowseLeafName": "Diffuse Large B-Cell Lymphoma",
+            "ConditionBrowseLeafAsFound": "Diffuse large cell lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T2361",
+            "ConditionBrowseLeafName": "Follicular Lymphoma",
+            "ConditionBrowseLeafAsFound": "Follicular lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000069443",
+            "InterventionMeshTerm": "Heptavalent Pneumococcal Conjugate Vaccine"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M16512",
+            "InterventionBrowseLeafName": "Vaccines",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M412",
+            "InterventionBrowseLeafName": "Heptavalent Pneumococcal Conjugate Vaccine",
+            "InterventionBrowseLeafAsFound": "PrEP",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

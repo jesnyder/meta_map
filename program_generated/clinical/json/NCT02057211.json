@@ -1,0 +1,293 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02057211",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "AS Dnr2013/195"
+      },
+      "Organization": {
+        "OrgFullName": "Uppsala University Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cells to Intervene in the Development of Type 1 Diabetes: a Blinded Randomized Study",
+      "OfficialTitle": "Mesenchymal Stem Cells to Intervene in the Development of Type 1 Diabetes: a Blinded Randomized Study"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2020",
+      "OverallStatus": "Terminated",
+      "WhyStopped": "Changed regulations of culture procedure",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 2014",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 2017",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 2017",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "February 4, 2014",
+      "StudyFirstSubmitQCDate": "February 5, 2014",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "February 7, 2014",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "November 4, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 6, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Per-Ola Carlsson",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Uppsala University Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Uppsala University Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {},
+    "DescriptionModule": {
+      "BriefSummary": "This project aims to evaluate the efficacy of autologous mesenchymal stem cell treatment to preserve insulin production and beta-cell mass in recently diagnosed patients with type 1 diabetes mellitus. The hypothesis to be tested is that an increased number of circulating mesenchymal stem cells will provide immune modulatory properties, and thereby stop the immune process in islets causing progressive beta-cell death."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Type 1 Diabetes Mellitus"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Prevention",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "10",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "sham transplantation of mesenchymal stem cells",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "control arm with sham transplantation",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: sham transplantation of mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "autologous mesenchymal stem cell transplantation",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Active arm with transplantation of cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: autologous mesenchymal stem cell transplantation"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "autologous mesenchymal stem cell transplantation",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "autologous mesenchymal stem cell transplantation"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "sham transplantation of mesenchymal stem cells",
+            "InterventionDescription": "Placebo control for transplantation of mesenchymal stem cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "sham transplantation of mesenchymal stem cells"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "∆-change of C-peptide Area Under the Curve (AUC) (0-120 min) for a mixed meal tolerance test at two year follow-up when compared to pre-treatment values at enrolment.",
+            "PrimaryOutcomeTimeFrame": "∆-change will be assessed as a difference between two years after transplantation/sham transplantation of mesenchymal stem cells when compared to before transplantation/sham transplantation, i.e. at time 0."
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nfasting C-peptide >0.12 nmol/l\nwithin three weeks of diagnosis of type 1 diabetes\n\nExclusion Criteria:\n\nbody mass index (BMI) >30\nunstable cardiovascular status incl. New York Heart Association (NYHA) class III/IV\npatients with known or previous malignancy\nactive infections incl. serological evidence of infection with HIV, Treponema pallidum, hepatitis B (patients with serology consistent with previous vaccination and a history of vaccination are acceptable) or hepatitis C.\nimmune suppressive treatment\nwomen being pregnant or nursing, or women physiologically capable of becoming pregnant, unless they are using effective methods of contraception during study",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "40 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Per-Ola Carlsson, MD, PhD",
+            "OverallOfficialAffiliation": "Uppsala University Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Uppsala University Hospital",
+            "LocationCity": "Uppsala",
+            "LocationZip": "SE-75185",
+            "LocationCountry": "Sweden"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003920",
+            "ConditionMeshTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionMeshId": "D000003922",
+            "ConditionMeshTerm": "Diabetes Mellitus, Type 1"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000044882",
+            "ConditionAncestorTerm": "Glucose Metabolism Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafAsFound": "Diabetes",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6269",
+            "ConditionBrowseLeafName": "Diabetes Mellitus, Type 1",
+            "ConditionBrowseLeafAsFound": "Type 1 Diabetes",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24556",
+            "ConditionBrowseLeafName": "Glucose Metabolism Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04996966",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "DFDA-001"
+      },
+      "Organization": {
+        "OrgFullName": "Shanghai East Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Effect of Human Umbilical Cord-derived Mesenchymal Stem Cells on Non-cardiac Surgery-induced Lung Injury",
+      "OfficialTitle": "Effect of Human Umbilical Cord-derived Mesenchymal Stem Cells on Non-cardiac Surgery-induced Lung Injury in Patients With Ischemic Heart Disease"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 14, 2021",
+      "StudyFirstSubmitQCDate": "August 2, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 9, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 2, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 9, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Shanghai East Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study is an exploratory clinical study to observe the improvement of lung function before and after the treatment by human umbilical cord-derived mesenchymal stem cells, and the purpose is to evaluate the safety and effectiveness of human umbilical cord-derived mesenchymal stem cells on non-cardiac surgery-induced lung injury in patients with ischemic heart disease. The study is a randomized parallel controlled study. Patients receive a review of which main content includes symptom improvement, lung function improvement, and adverse events.",
+      "DetailedDescription": "This study is an exploratory clinical study to observe the improvement of lung function before and after the treatment by human umbilical cord-derived mesenchymal stem cells, and the purpose is to evaluate the safety and effectiveness of human umbilical cord-derived mesenchymal stem cells on non-cardiac surgery-induced lung injury in patients with ischemic heart disease.\n\nThe study is a randomized parallel controlled study. The research process is as follows: 1. Sixteen eligible patients with ischemic heart disease were recruited, fully informed, and signed a consent form, and randomly divided into placebo control group (n=8) or hUC-MSCs treatment group (n=8); 2. Knee replacement was performed under general anesthesia in both groups. In the cell therapy group, 1×10^6/kg human umbilical cord-derived mesenchymal stem cells were intravenously injected to the patient immediately after the surgery and at day 3 after the surgery. Before the operation, 6 hours, 3 days, 7days, 14 days, and 28 days after the MSCs injection, all patients receive a review of which main content includes symptom improvement, lung function improvement, and adverse events."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Ischemic Heart Disease",
+          "Lung Injury",
+          "Non-cardiac Surgery"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "human umbilical cord-derived mesenchymal stem cells",
+          "lung injury"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "16",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "control",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "In the control group, saline containing 2% albumin (2ml/kg) were intravenously injected to the patient immediately after the surgery and at day 3 after the surgery.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: saline"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "MSCs injection",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "In the MSCs injection group, 1×10^6/kg human umbilical cord-derived mesenchymal stem cells were intravenously injected to the patient immediately after the surgery and at day 3 after the surgery.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: human umbilical cord-derived mesenchymal stem cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "human umbilical cord-derived mesenchymal stem cells",
+            "InterventionDescription": "In the MSCs injection group, 1×10^6/kg human umbilical cord-derived mesenchymal stem cells were intravenously injected to the patient immediately after the surgery and at day 3 after the surgery.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSCs injection"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "saline",
+            "InterventionDescription": "In the control group, saline containing 2% albumin (2ml/kg) were intravenously injected to the patient immediately after the surgery and at day 3 after the surgery.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "control"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "oxygenation index",
+            "PrimaryOutcomeDescription": "The change in oxygenation index after the operation",
+            "PrimaryOutcomeTimeFrame": "Before the operation, 6 hours, 3days, and 7days after the MSCs injection"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "The value of arterial blood cLAC",
+            "SecondaryOutcomeDescription": "The change in arterial blood cLAC after the operation",
+            "SecondaryOutcomeTimeFrame": "Before the operation and 7days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The content of IL-1β",
+            "SecondaryOutcomeDescription": "The change in venous blood IL-1β after the operation",
+            "SecondaryOutcomeTimeFrame": "Before the operation and 7days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The content of IL-6",
+            "SecondaryOutcomeDescription": "The change in venous blood IL-6 after the operation",
+            "SecondaryOutcomeTimeFrame": "Before the operation and 7days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The content of TGF-α",
+            "SecondaryOutcomeDescription": "The change in venous blood TGF-α after the operation",
+            "SecondaryOutcomeTimeFrame": "Before the operation and 7days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The content of HMGB1",
+            "SecondaryOutcomeDescription": "The change in venous blood HMGB1 after the operation",
+            "SecondaryOutcomeTimeFrame": "Before the operation and 7days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The content of IL-10",
+            "SecondaryOutcomeDescription": "The change in venous blood IL-10 after the operation",
+            "SecondaryOutcomeTimeFrame": "Before the operation and 7days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The content of B-type natriuretic peptide (BNP)",
+            "SecondaryOutcomeDescription": "The change in venous blood B-type natriuretic peptide after the operation",
+            "SecondaryOutcomeTimeFrame": "Before the operation and 7days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "electrocardiogram",
+            "SecondaryOutcomeDescription": "The change in electrocardiogram after the operation",
+            "SecondaryOutcomeTimeFrame": "Before the operation, 7days, and 28 days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The average length of stay in hospital",
+            "SecondaryOutcomeDescription": "The change in the length of stay in hospital between the two groups",
+            "SecondaryOutcomeTimeFrame": "The average length of stay in hospital"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The visual analog scale（VAS）score",
+            "SecondaryOutcomeDescription": "The change in VAS score after the operation，the minimum value is 0 and the maximum value is 10, the higher scores mean a worse outcome.",
+            "SecondaryOutcomeTimeFrame": "Before the operation, 6 hours, 3 days, 7days, 14 days, and 28 days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The hospital for special surgery (HSS) Knee Score",
+            "SecondaryOutcomeDescription": "The change in HSS Knee Score after the operation, the minimum value is 0 and the maximum value is 100, the higher scores mean a better outcome.",
+            "SecondaryOutcomeTimeFrame": "Before the operation, 7days, and 28 days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The New York Heart Association (NYHA) Functional Classification",
+            "SecondaryOutcomeDescription": "The change in NYHA Functional Classification after the operation, the lowest level is Class I and the highest level is Class IV, the higher level mean a worse outcome.",
+            "SecondaryOutcomeTimeFrame": "Before the operation, 7days, 14 days, and 28 days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The 36-Item Short Form Survey (SF-36)",
+            "SecondaryOutcomeDescription": "The change in SF-36 after the operation, the minimum value is 40 and the maximum value is 850, the higher scores mean a better outcome.",
+            "SecondaryOutcomeTimeFrame": "Before the operation and 28 days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The Hamilton Anxiety Scale",
+            "SecondaryOutcomeDescription": "The change in degree of anxiety after the operation, the minimum value is 0 and the maximum value is 56, the higher scores mean a worse outcome.",
+            "SecondaryOutcomeTimeFrame": "Before the operation, 7days, 14 days, and 28 days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The incidence of allergic reaction",
+            "SecondaryOutcomeDescription": "The allergic reaction after the MSCs injection",
+            "SecondaryOutcomeTimeFrame": "Before the operation, 6 hours, 3 days, 7days, 14 days, and 28 days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The body temperature",
+            "SecondaryOutcomeDescription": "The body temperature before and after the operation",
+            "SecondaryOutcomeTimeFrame": "Before the operation, 6 hours, 3 days, 7days, 14 days, and 28 days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The pulse rate",
+            "SecondaryOutcomeDescription": "The pulse rate before and after the operation",
+            "SecondaryOutcomeTimeFrame": "Before the operation, 6 hours, 3 days, 7days, 14 days, and 28 days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The respiration rate",
+            "SecondaryOutcomeDescription": "The respiration rate before and after the operation",
+            "SecondaryOutcomeTimeFrame": "Before the operation, 6 hours, 3 days, 7days, 14 days, and 28 days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The blood pressure",
+            "SecondaryOutcomeDescription": "The blood pressure before and after the operation",
+            "SecondaryOutcomeTimeFrame": "Before the operation, 6 hours, 3 days, 7days, 14 days, and 28 days after the MSCs injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The content of C-reactive protein (CRP)",
+            "SecondaryOutcomeDescription": "The change in venous blood CRP after the operation",
+            "SecondaryOutcomeTimeFrame": "Before the operation and 7 days after the MSCs injection"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nThe electrocardiogram showed T wave change and ST segment depression\nNew York Heart Association (NYHA) Classification of cardiac function Ⅰ-Ⅱ level\nThe patient who first time to receive knee replacement\nGeneral anesthesia lasted about 2h\nSigned informed consent\n\nExclusion Criteria:\n\nDoes not meet the above selection criteria\nUnable to sign the informed consent\nPatients with a malignant tumor, other serious systemic diseases, or psychosis\nPregnancy, lactation, and those who are not pregnant but do not take effective contraceptives measures\nThe patient with a history of an allergic reaction to biological products or drug\nThe patient has any infectious diseases (including bacterial and viral infections)\nThe patient with cardiac pacemaker implantation within 3 months prior to enrollment\nThe patient who had a stroke within 6 months prior to enrollment\nUnable to comply with the agreed timetable of this study\nPatients who are participating in other clinical trials\nOthers who are clinically considered unsuitable for this treatment.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "60 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Xiangrui Wang",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86-021-38804518-22198",
+            "CentralContactEMail": "xiangruiwang@vip.sina.com"
+          },
+          {
+            "CentralContactName": "Lijun Liao",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86-021-38804518-22198"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Xiangrui Wang",
+            "OverallOfficialAffiliation": "Shanghai East Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Shanghai East Hospital, Shanghai Tongji University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Shanghai",
+            "LocationZip": "200120",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Zhongmin Liu",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+86-021-38804518",
+                  "LocationContactEMail": "liu.zhongmin@tongji.edu.cn"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000055370",
+            "ConditionMeshTerm": "Lung Injury"
+          },
+          {
+            "ConditionMeshId": "D000006331",
+            "ConditionMeshTerm": "Heart Diseases"
+          },
+          {
+            "ConditionMeshId": "D000017202",
+            "ConditionMeshTerm": "Myocardial Ischemia"
+          },
+          {
+            "ConditionMeshId": "D000003324",
+            "ConditionMeshTerm": "Coronary Artery Disease"
+          },
+          {
+            "ConditionMeshId": "D000014947",
+            "ConditionMeshTerm": "Wounds and Injuries"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000013898",
+            "ConditionAncestorTerm": "Thoracic Injuries"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003327",
+            "ConditionAncestorTerm": "Coronary Disease"
+          },
+          {
+            "ConditionAncestorId": "D000001161",
+            "ConditionAncestorTerm": "Arteriosclerosis"
+          },
+          {
+            "ConditionAncestorId": "D000001157",
+            "ConditionAncestorTerm": "Arterial Occlusive Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M5698",
+            "ConditionBrowseLeafName": "Coronary Artery Disease",
+            "ConditionBrowseLeafAsFound": "Ischemic Heart Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafAsFound": "Heart Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18658",
+            "ConditionBrowseLeafName": "Myocardial Ischemia",
+            "ConditionBrowseLeafAsFound": "Ischemic Heart Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27296",
+            "ConditionBrowseLeafName": "Lung Injury",
+            "ConditionBrowseLeafAsFound": "Lung Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5701",
+            "ConditionBrowseLeafName": "Coronary Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafAsFound": "Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15809",
+            "ConditionBrowseLeafName": "Thoracic Injuries",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3621",
+            "ConditionBrowseLeafName": "Arteriosclerosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3617",
+            "ConditionBrowseLeafName": "Arterial Occlusive Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          }
+        ]
+      }
+    }
+  }
+}

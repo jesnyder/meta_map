@@ -1,0 +1,513 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04493242",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "DB-EF-PHASEII-001"
+      },
+      "Organization": {
+        "OrgFullName": "Direct Biologics, LLC",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Extracellular Vesicle Infusion Treatment for COVID-19 Associated ARDS",
+      "OfficialTitle": "Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles Infusion Treatment for COVID-19 Associated Acute Respiratory Distress Syndrome (ARDS): A Phase II Clinical Trial",
+      "Acronym": "EXIT-COVID19"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2022",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "Yes",
+        "ExpandedAccessNCTId": "NCT04657458",
+        "ExpandedAccessStatusForNCTId": "Available"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 24, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "May 1, 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "May 22, 2021",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "July 29, 2020",
+      "StudyFirstSubmitQCDate": "July 29, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 30, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 13, 2022",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 14, 2022",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Vikram Sengupta",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Direct Biologics, LLC"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Direct Biologics, LLC",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "To evaluate the safety and efficacy of intravenous administration of bone marrow derived extracellular vesicles, ExoFlo, versus placebo as treatment for moderate-to-severe Acute Respiratory Distress Syndrome (ARDS) in patients with severe COVID-19.",
+      "DetailedDescription": "EXIT COVID-19 is a FDA-approved, phase II double-blinded, placebo-controlled randomized controlled trial that enrolled 120 patients admitted with COVID-19 associated moderate-to-severe ARDS across up to 15 hospital sites in the United States."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Covid19",
+          "ARDS",
+          "Pneumonia, Viral"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "covid19",
+          "ARDS",
+          "extracellular vesicles",
+          "exosome"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "Multi-center, double-blinded, placebo-controlled, randomized controlled trial.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignMaskingDescription": "Double-blinded",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "120",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Normal saline 100 mL",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Intravenous normal saline"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Experimental Dose 1",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Normal saline 90 mL and ExoFlo 10 mL, which is 800 Billion Extracellular Vesicles.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: DB-001"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Experimental Dose 2",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Normal saline 85 mL and ExoFlo 15 mL, which is 1.2 Trillion Extracellular Vesicles.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: DB-001"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "DB-001",
+            "InterventionDescription": "Intravenous administration of bone marrow mesenchymal stem cell derived extracellular vesicles",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Experimental Dose 1",
+                "Experimental Dose 2"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Intravenous normal saline",
+            "InterventionDescription": "Placebo",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "7 Day Change in Partial Pressure of Arterial Oxygen to Fraction of Inspired Oxygen Ratio",
+            "PrimaryOutcomeDescription": "Efficacy Endpoint; PaO2/FiO2 ratio",
+            "PrimaryOutcomeTimeFrame": "61 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Time to Recovery",
+            "SecondaryOutcomeDescription": "The number of days from the first study treatment until return of oxygenation saturation (SpO2) ≥ 93% on room air (or PaO2/FiO2 ≥ 300 mmHg). If patient has chronic lung disease, recovery is defined as pre-COVID-19 SpO2 and O2 support.",
+            "SecondaryOutcomeTimeFrame": "61 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of Serious Adverse Events (SAE)",
+            "SecondaryOutcomeDescription": "Safety Endpoint",
+            "SecondaryOutcomeTimeFrame": "61 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of Patients with All-cause Mortality",
+            "SecondaryOutcomeDescription": "Efficacy Endpoint",
+            "SecondaryOutcomeTimeFrame": "61 days"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Serum Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Ribonucleic Acid (RNA) Level",
+            "OtherOutcomeDescription": "Viremia",
+            "OtherOutcomeTimeFrame": "Days = 1, 4, 7, 10, 15, 29 *Labs are not drawn after hospitalization."
+          },
+          {
+            "OtherOutcomeMeasure": "CRP, D-dimer, Ferritin, IL-6, TNF-α",
+            "OtherOutcomeDescription": "Acute Phase Reactants",
+            "OtherOutcomeTimeFrame": "Days = 1, 4, 7, 10, 15, 29 *Labs are not drawn after hospitalization"
+          },
+          {
+            "OtherOutcomeMeasure": "Absolute Neutrophil Count (ANC), CD3+, CD4+, and CD8+ T Cells, NK Cells",
+            "OtherOutcomeDescription": "Immune Cell Counts",
+            "OtherOutcomeTimeFrame": "Days = 1, 4, 7, 10, 15, 29 *Labs are not drawn after hospitalization."
+          },
+          {
+            "OtherOutcomeMeasure": "Sequential Organ Failure Assessment (SOFA)",
+            "OtherOutcomeDescription": "Mortality Prediction Score Ranging from 0 to 24 with Higher SOFA Score Correlating with Higher Mortality",
+            "OtherOutcomeTimeFrame": "Days = 1, 15, 29 *Labs are only drawn if patient is still hospitalized."
+          },
+          {
+            "OtherOutcomeMeasure": "EQ-5D-5L Description Part Only, Which Includes 5 Dimensions of Mobility, Self-Care, Usual Activities, Pain/Discomfort, and Anxiety Depression)",
+            "OtherOutcomeDescription": "Standardized Quality of Life Metric Where Each Dimension Is Assessed via 5 Levels; 5 Levels for Each Digit is Combined into a 5 Digit Descriptor.",
+            "OtherOutcomeTimeFrame": "Days = 15, 29, and 61 *Only Assessed for Outpatients"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nProvision of signed and dated informed consent form (either by the individual or by the individual's healthcare proxy).\nStated willingness to comply with all study procedures and availability for the duration of the study\nMale or female, aged 18-85.\nCOVID-19 positive as defined by positive RT-PCR SARS-CoV-2.\nModerate to severe ARDS as defined by modified Berlin definition*, which includes timing within 1 week of known clinical insult or new or worsening respiratory symptoms; bilateral opacities not fully explained by effusions, or lung collapse; respiratory failure not fully explained by cardiac failure or fluid overload; PaO2/FiO2 ≤ 200 mm Hg.\nHypoxia requiring noninvasive oxygen support such as Nasal Cannula (NC), Nonrebreather (NRB), Bilevel Positive Airway Pressure (BIPAP), Continuous Positive Airway Pressure (CPAP), high flow nasal cannula oxygen (HFNC O2) or mechanical ventilation (MV) despite initiating standard of care.\nIf the candidate is either a male or female of reproductive potential, he or she must agree to use of double barrier method of highly effective birth control contraception such as condoms with oral contraceptive pill or choose to remain abstinent if already practicing abstinence during the screening period. The required duration of usage of double barrier method OR maintenance of abstinence must include the time from the beginning of the screening period until 90 days following the last dose of the study treatment.\n\nExclusion Criteria:\n\nVulnerable populations such as pregnant patients, children, individuals with severe physical or mental disabilities who cannot provide meaningful consent.\nActive malignancy requiring treatment within the last five years.\nMajor physical trauma in the last 5 days, including motor vehicle accidents, assaults, mechanical falls with sequalae of significant bleeding or craniofacial bruising, and surgeries.\nActive tuberculosis or cystic fibrosis.\nSevere chronic respiratory disease including chronic obstructive pulmonary disease or pulmonary fibrosis requiring home oxygen > 5L/min.\nUse of extracorporeal membrane oxygenation (ECMO) during the current hospitalization.\nPre-existing pulmonary hypertension.\nSevere pre-existing hepatic impairment (presence of cirrhosis, liver function tests (LFTs) ≥ 6x baseline, INR ≥ 2.0).\nPre-existing Chronic Kidney Disease (CKD) stage IIIb or End Stage Renal Disease (ESRD) prior to onset of COVID-19 (stage I, II, and IIIa are acceptable)\nIrreversible coagulopathy (e.g., frequently occluded vascular access despite anticoagulation, precipitous platelet drops concurrent with end-organ damage suggesting consumptive process) or irreversible bleeding disorder (e.g., frequent bleeding from vascular access, endotracheal tubes, and foley).\nPneumonia clearly attributable to a non-COVID-19 related process, including aspiration pneumonia or pneumonia that is exclusively bacterial, or originating from a diagnosed alternative virus (e.g., influenza).\nPatients who are not full code.\nEndotracheal intubation duration ≤ 24 hours.\nMoribund-expected survival < 24 hours.\nSevere metabolic disturbances on presentation (e.g., ketoacidosis, pH < 7.3)",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "85 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Vikram Sengupta, MD",
+            "OverallOfficialAffiliation": "Chief Medical Officer",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Helen Keller Hospital",
+            "LocationCity": "Sheffield",
+            "LocationState": "Alabama",
+            "LocationZip": "35660",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "St. Joseph Hospital Heritage",
+            "LocationCity": "Fullerton",
+            "LocationState": "California",
+            "LocationZip": "92835",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Donald Guthrie Foundation/ Robert Packer Hospital",
+            "LocationCity": "Sayre",
+            "LocationState": "Pennsylvania",
+            "LocationZip": "18810",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Covenant Health",
+            "LocationCity": "Lubbock",
+            "LocationState": "Texas",
+            "LocationZip": "79410",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "PRX Research",
+            "LocationCity": "Mesquite",
+            "LocationState": "Texas",
+            "LocationZip": "75149",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "32380908",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Sengupta V, Sengupta S, Lazo A, Woods P, Nolan A, Bremer N. Exosomes Derived from Bone Marrow Mesenchymal Stem Cells as Treatment for Severe COVID-19. Stem Cells Dev. 2020 Jun 15;29(12):747-754. doi: 10.1089/scd.2020.0080. Epub 2020 May 12."
+          }
+        ]
+      },
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Direct Biologics, LLC",
+            "SeeAlsoLinkURL": "https://directbiologics.com/"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000011024",
+            "ConditionMeshTerm": "Pneumonia, Viral"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafAsFound": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

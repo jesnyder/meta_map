@@ -1,0 +1,575 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04384445",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "19881"
+      },
+      "Organization": {
+        "OrgFullName": "Organicell Regenerative Medicine",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Zofin (Organicell Flow) for Patients With COVID-19",
+      "OfficialTitle": "A Phase I/II Randomized, Double Blinded, Placebo Trial to Evaluate the Safety and Potential Efficacy of Intravenous Infusion of Zofin for the Treatment of Moderate to SARS Related to COVID-19 Infection vs Placebo"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2020",
+      "OverallStatus": "Recruiting",
+      "StartDateStruct": {
+        "StartDate": "September 8, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 30, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 31, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 9, 2020",
+      "StudyFirstSubmitQCDate": "May 9, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 12, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "February 22, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "February 23, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Organicell Regenerative Medicine",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this research study is to evaluate the safety and potential efficacy of Intravenous Infusion of Zofin for treatment of moderate to severe Acute Respiratory Syndrome (SARS) related to COVID-19 infection vs Placebo.",
+      "DetailedDescription": "A human coronavirus (HCoV-19) has caused the novel coronavirus disease (COVID-19) outbreak worldwide. Common symptoms of COVID-19 include fever, cough, and shortness of breath. The majority of cases result in mild symptoms, but some can progress into pneumonia and multi-organ failure. According to the severity it is divided into mild, normal, severe and critically ill, which is associated with ICU admission and mortality. At present, the standard treatment of COVD-19 patients is oxygen therapy, mechanical ventilation, and medications to maintain blood pressure. As of today, no specific antiviral therapy is available for patients with COVID-19. Immune activation in some patients, and the appearance of cytokine storm syndrome (CSS) is one of the important causes of severe damage to lungs and other organs, which may lead to death. There is an urgent need to develop new interventions to suppress the excessive immune response in a timely manner during the course of disease, protect alveolar function, and reduce lung and systemic organ damage.\n\nZofin is an acellular, minimally manipulated product, derived from human amniotic fluid (HAF). This product contains over 300 growth factors, cytokines, and chemokines as well as other extracellular vesicles/nanoparticles derived from amniotic stem and epithelial cells. The product contains a mean concentration of 5.24x10^11 particles/mL with a mean mode size of 125.2nm. Surface marker analysis confirmed the presence of exosome associated proteins CD63, CD81, and CD9 in addition to high expression of CD133. The completed sequencing revealed 102 commonly expressed miRNA (with a 100-copy expression minimum). Bioinformatics analysis linked 63 miRNAs to 1216 RNA targets. Major players in the proinflammatory cytokine cascade found to be targeted by miRNA were discovered in Organicell's product include TNF, IL-6, and IL-8. Additionally, a broader array of pro-inflammatory cytokines is also targeted by the collection of miRNA such as FGF2, IFNB1, IGF1, IL36a, IL37, TGF-B2, VEGFA, CCL8, and CXCL12. It has been suggested in published research that inhibition or suppression of this pro-inflammatory cytokine cascade may reduce the severity of symptoms associated with elevated immune response. Furthermore, the miRNA was found to target 148 genes associated with immune response.\n\nThe property of Zofin demonstrates the therapeutic potential as a suppressor of cytokine activation for the reduction of COVID-19 infection severity. This study aims to investigate safety and potential efficacy of HAF derived acellular product in subjects suffering form COVID-19 infection with severe acute respiratory syndrome (SARS)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Corona Virus Infection",
+          "COVID-19",
+          "SARS",
+          "Acute Respiratory Distress Syndrome"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Human Amniotic Fluid",
+          "Exosomes",
+          "Human"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "The trial has two groups, each with 10 subjects (n=20). All eligible study subjects will be randomized, double blinded, to either the treatment group or placebo group.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignMaskingDescription": "Double blind: neither subjects nor the investigators who are assessing the patient are award of the treatment assignment until the end of the study.",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "20",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Zofin Plus Standard Care",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Participants in this group will receive standard of care plus Zofin on day 0, day 4 and day 8.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Zofin"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo Plus Standard Care",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Participants in this group will receive standard of care plus placebo (Saline) on day 0, day 4 and day 8.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Zofin",
+            "InterventionDescription": "Biological: Zofin will be administered intravenously with 1ml, containing 2-5 x 10^11 particles/mL in addition to the Standard Care. The Zofin dose will be diluted in 100 mL of sterile saline at subject's bedside.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Zofin Plus Standard Care"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Other: Placebo Placebo (saline) will be administered intravenously with 1ml in addition to the Standard Care. The Placebo dose will be diluted in 100 mL of sterile saline at subject's bedside.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo Plus Standard Care"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Incidence of any infusion associated adverse events",
+            "PrimaryOutcomeDescription": "Safety will be defined by the incidence of any infusion associated adverse events as assessed by treating physician",
+            "PrimaryOutcomeTimeFrame": "60 Days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of Severe Adverse Events",
+            "PrimaryOutcomeDescription": "Safety will be defined by the incidence of severe adverse events as assessed by treating physician",
+            "PrimaryOutcomeTimeFrame": "60 Days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "All Cause Mortality",
+            "SecondaryOutcomeDescription": "Measured at day 60 or at hospital discharge, whichever comes first.",
+            "SecondaryOutcomeTimeFrame": "60 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Survival Rate",
+            "SecondaryOutcomeDescription": "Number of participants that are alive at 60 days post first infusion follow up",
+            "SecondaryOutcomeTimeFrame": "60 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cytokine Levels",
+            "SecondaryOutcomeDescription": "Measure IL-6, TNF-alpha from serum of blood samples",
+            "SecondaryOutcomeTimeFrame": "Day 0, Day 4, Day 8, Day14, Day 21, Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "D-dimer Levels",
+            "SecondaryOutcomeDescription": "D-dimer from serum of blood samples methodology using blood samples or nose / throat swab",
+            "SecondaryOutcomeTimeFrame": "Day 0, Day 4, Day 8, Day14, Day 21, Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "C-reactive protein Levels",
+            "SecondaryOutcomeDescription": "CRP from serum of blood samples",
+            "SecondaryOutcomeTimeFrame": "Day 0, Day 4, Day 8, Day14, Day 21, Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quantification of the COVID-19",
+            "SecondaryOutcomeDescription": "Viral load by real time RT methodology using blood samples or nose / throat swab",
+            "SecondaryOutcomeTimeFrame": "Day 0, Day 4, Day 8"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Improved Organ Failure",
+            "SecondaryOutcomeDescription": "Improved organ failure within 30 days, including cardiovascular system, coagulation system, liver, kidney and other extra-pulmonary organs using Sequential Organ Failure Assessment (SOFA) score.",
+            "SecondaryOutcomeTimeFrame": "Day 30"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Chest Imaging Changes",
+            "SecondaryOutcomeDescription": "Chest imaging changes for 30 days compare to placebo: 1) Ground-glass opacity,\n\n- 2) Local patchy shadowing, 3) Bilateral patchy shadowing, and 4) Interstitial abnormalities.",
+            "SecondaryOutcomeTimeFrame": "Day o, Day 30"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nProvide written informed consent\nSubjects age > 18 years at the time of signing the Informed Consent Form.\nMale or Female\nMust have a clinical diagnosis of COVID-19, with at least one of clinical symptoms (e.g., fever ≥38°C, fatigue, cough) and a positive result by the reverse- transcription polymerase chain reaction (RT-PCR) testing or equivalent.\n\nIndividuals with moderately to severe COVID-19 symptoms.\n\nModerate ARDS according to Berlin Criteria:\n\nSymptoms include: abnormal chest imaging or any degree of hypoxia requiring supplemental oxygen. Bilateral opacities-not fully explained by effusions, lobar/lung collapse, or nodules. Oxygenation: 100 mm Hg < PaO2/FIO2 </= 200 mm Hg with PEEP >/=5 cm H2O\n\nSevere ARDS according to Berlin Criteria:\n\nSymptoms include: abnormal chest imaging or any degree of hypoxia requiring supplemental oxygen. Bilateral opacities-not fully explained by effusions, lobar/lung collapse, or nodules. Oxygenation: PaO2/FIO2 </= 100 mm Hg with PEEP >/= 5 cm H2O\n\nHospitalized and symptomatic (cough, fevers, SOB, or sputum production)\nAdequate venous access\nAbility to provide informed consent or an authorized representative can sign the informed consent\nFor female patients only, willingness to use FDA- recommended birth control (http://www.fda.gov/downloads/ForConsumers/ByAu dience/ForWomen/FreePublications/UCM356451.pdf ) until 6 months post treatment.\nMust agree to comply with all study requirements and be willing to complete all study visits\nWillingness of study participant to accept this treatment arm, and signed informed consent; Need in- patient admission.\n\nExclusion Criteria:\n\nIntubated or on a ventilator.\nBe a female who is pregnant, nursing, or of childbearing potential while not practicing effective contraceptive methods. Female subjects must undergo a blood or urine pregnancy test at screening and within 36 hours prior to infusion.\nInability to perform any of the assessments required for endpoint analysis.\nActive listing (or expected future listing) for transplant of any organ.\nBe a solid organ transplant recipient. This does not include prior cell-based therapy (>12 months prior to enrollment), bone, skin, ligament, tendon or corneal grafting. Have a history of organ or cell transplant rejection.\nHistory of drug abuse (illegal \"street\" drugs except marijuana, or prescription medications not being used appropriately for a pre-existing medical condition) or alcohol abuse (≥ 5 drinks/day for ˃ 3 months), or documented medical, occupational, or legal problems arising from the use of alcohol or drugs within the past 24 months\nBe serum positive for HIV, hepatitis BsAg or hepatitis C.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Maria Ines Mitrani, MD, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "1-888-963-7881",
+            "CentralContactEMail": "clinicaltrials@organicell.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "George C Shapiro, MD, FACC",
+            "OverallOfficialAffiliation": "Chief Medical Officer at Organicell Regenerative Medicine, Inc",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Maria Ines Mitrani, MD, PhD",
+            "OverallOfficialAffiliation": "Chief Science Officer at Organicell Regenerative Medicine, Inc",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Luis Mendez-Mulet, MD",
+            "OverallOfficialAffiliation": "Co-Investigator",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Odalys P Frontela, MD",
+            "OverallOfficialAffiliation": "Co-Investigator",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Larkin Community Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Miami",
+            "LocationState": "Florida",
+            "LocationZip": "33012",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Clinical Trials",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "888-963-7881",
+                  "LocationContactEMail": "clinicaltrials@organicell.com"
+                },
+                {
+                  "LocationContactName": "Odalys Frontela, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Larkin Community Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "South Miami",
+            "LocationState": "Florida",
+            "LocationZip": "33143",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Clinical Trials",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "888-963-7881",
+                  "LocationContactEMail": "clinicaltrials@organicell.com"
+                },
+                {
+                  "LocationContactName": "Luis Mendez-Mulet, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007239",
+            "ConditionMeshTerm": "Infections"
+          },
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000018352",
+            "ConditionMeshTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionMeshId": "D000012128",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000012127",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome, Newborn"
+          },
+          {
+            "ConditionMeshId": "D000055371",
+            "ConditionMeshTerm": "Acute Lung Injury"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007235",
+            "ConditionAncestorTerm": "Infant, Premature, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007232",
+            "ConditionAncestorTerm": "Infant, Newborn, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000055370",
+            "ConditionAncestorTerm": "Lung Injury"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafAsFound": "Infection",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafAsFound": "Corona Virus Infection",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27296",
+            "ConditionBrowseLeafName": "Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9431",
+            "ConditionBrowseLeafName": "Infant, Premature, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9428",
+            "ConditionBrowseLeafName": "Infant, Newborn, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

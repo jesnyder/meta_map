@@ -1,0 +1,965 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01771913",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "boosteredADSCs"
+      },
+      "Organization": {
+        "OrgFullName": "University of Sao Paulo",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Immunophenotyping of Fresh Stromal Vascular Fraction From Adipose Derived Stem Cells (ADSC) Enriched Fat Grafts",
+      "OfficialTitle": "Immunophenotyping of Fresh Stromal Vascular Fraction From Adipose Derived Stem Cells (ADSC) Enriched Fat Grafts for Refinements of Reconstructed Breasts"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2015",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 2012"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2014",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "May 2015",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "January 14, 2013",
+      "StudyFirstSubmitQCDate": "January 16, 2013",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 18, 2013",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "ResultsFirstSubmitDate": "June 25, 2015",
+      "ResultsFirstSubmitQCDate": "July 30, 2015",
+      "ResultsFirstPostDateStruct": {
+        "ResultsFirstPostDate": "August 24, 2015",
+        "ResultsFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "July 30, 2015",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 24, 2015",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Luiz Alexandre Lorico Tissiani",
+        "ResponsiblePartyInvestigatorTitle": "MD, Chief of Breast Reconstructive Unit at Hospital Municipal Carmino Caricchio",
+        "ResponsiblePartyInvestigatorAffiliation": "University of Sao Paulo"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of Sao Paulo",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to investigate if there is a relationship between the take of fat grafts with and without ADSCs and the presence of specific surface markers on the cells of the stromal vascular fraction.",
+      "DetailedDescription": "Two groups of patients will be studied. The control will receive centrifuged fat grafts while the other group will receive centrifuged enriched fat grafts with ADSCs. The performance of both grafts will be assessed through volume measurement employing MRI before and after 6 months post-op."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Breast Reconstruction",
+          "Contour Irregularities",
+          "Volume Insufficiency"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "adipocytes",
+          "cell transplantations",
+          "mesenchymal stem cell",
+          "immunophenotyping",
+          "adipose tissue",
+          "breast reconstruction",
+          "mammaplasty",
+          "magnetic resonance imaging",
+          "fat necrosis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "20",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "centrifuged fat graft",
+            "ArmGroupType": "Sham Comparator",
+            "ArmGroupDescription": "female patients who underwent breast reconstruction and present with volume insufficiency will undergo centrifuged fat graft for contour and volume refinements.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Genetic: centrifuged fat graft"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "ADSCs enriched centrifuged fat graft",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "female patients who underwent breast reconstruction and present volume insufficiency will undergo ADSCs enriched fat grafting for volume and irregularity contour improvement",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Genetic: ADSCs enriched fat graft"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Genetic",
+            "InterventionName": "centrifuged fat graft",
+            "InterventionDescription": "fat from the abdominal subcutaneous tissue will be taken by vacuum assisted lipectomy and immediately prepared to be grafted in the reconstructed breast that presents contour irregularities and/or volume insufficiency. No adipose derived stem cells will enrich the fat grafts in this group.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "centrifuged fat graft"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Genetic",
+            "InterventionName": "ADSCs enriched fat graft",
+            "InterventionDescription": "fat from the abdominal subcutaneous tissue will be taken by suction assisted lipectomy and stromal vascular fraction will be isolated and immediately added to the fat graft that will be employed to improve contour irregularities and volume insufficiency of reconstructed breasts.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "ADSCs enriched centrifuged fat graft"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Volume Maintenance",
+            "PrimaryOutcomeDescription": "Volumetry of the reconstructed breasts will be accomplished through MRI and OsiriX software. Osirix software allows breast volume calculation through the determination of regions of interest (ROIs) on an MRI sequence. Once the pre (V1) and postoperative (V2) volumes were determined the following formula was applied: (V2 - V1) X 100/graft volume. The result, expressed in percentage, expresses graft volume persistence.",
+            "PrimaryOutcomeTimeFrame": "up to 1 year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Immunophenotyping",
+            "SecondaryOutcomeDescription": "Immunophenotyping of the fresh stromal vascular fraction of both groups. Immunophenotyping or flow cytometry measures how many cells, in a sample, express a specific surface marker. A surface marker or a group of markers may characterize a specific cell type. The software that accompanies the flow cytometer determines the number of cells (in percentage) that express the tested surface marker.",
+            "SecondaryOutcomeTimeFrame": "baseline"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Number of Participants Experiencing Fat Necrosis in the Postoperative Period",
+            "OtherOutcomeDescription": "Fat necrosis may occur whenever a fat graft is performed and it has clinical relevance. It can emerge as oil cysts or small nodules a little bit painful. In mammograms of normal breasts, fat necrosis present as cysts or micro calcifications that present a benign appearance. In breast reconstruction patients, fat necrosis, despite its benign characteristics, can suggest cancer recurrence.",
+            "OtherOutcomeTimeFrame": "up to 3 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\ncontour irregularities and volume insufficiency in reconstructed breasts no matter the method of reconstruction employed\nlocal flaps with conditions to receive fat grafts\ngood health condition\n\nExclusion Criteria:\n\nbreast cancer patients under chemotherapy\nsmokers\nbad health condition\npatients too thin\npatients that require a new reconstructive surgery (secondary reconstruction)",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "Female",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Nivaldo Alonso, PhD",
+            "OverallOfficialAffiliation": "University of Sao Paulo",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Hospital Municipal Carmino Caricchio",
+            "LocationCity": "Sao Paulo",
+            "LocationZip": "03063-000",
+            "LocationCountry": "Brazil"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "16217471",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Spear SL, Wilson HB, Lockwood MD. Fat injection to correct contour deformities in the reconstructed breast. Plast Reconstr Surg. 2005 Oct;116(5):1300-5."
+          },
+          {
+            "ReferencePMID": "11304456",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Zuk PA, Zhu M, Mizuno H, Huang J, Futrell JW, Katz AJ, Benhaim P, Lorenz HP, Hedrick MH. Multilineage cells from human adipose tissue: implications for cell-based therapies. Tissue Eng. 2001 Apr;7(2):211-28."
+          },
+          {
+            "ReferencePMID": "21461337",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Gimble JM, Bunnell BA, Casteilla L, Jung JS, Yoshimura K. Phases I-III Clinical Trials Using Adult Stem Cells. Stem Cells Int. 2011 Feb 23;2010:604713. doi: 10.4061/2010/604713."
+          },
+          {
+            "ReferencePMID": "17763894",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Yoshimura K, Sato K, Aoi N, Kurita M, Hirohi T, Harii K. Cell-assisted lipotransfer for cosmetic breast augmentation: supportive use of adipose-derived stem/stromal cells. Aesthetic Plast Surg. 2008 Jan;32(1):48-55; discussion 56-7. Epub 2007 Sep 1."
+          }
+        ]
+      }
+    }
+  },
+  "ResultsSection": {
+    "ParticipantFlowModule": {
+      "FlowRecruitmentDetails": "patients who have contour irregularities after any method of breast reconstruction. recruited from jan/2012 to august/2014.",
+      "FlowGroupList": {
+        "FlowGroup": [
+          {
+            "FlowGroupId": "FG000",
+            "FlowGroupTitle": "Centrifuged Fat Graft",
+            "FlowGroupDescription": "female patients who underwent breast reconstruction and present with volume insufficiency will undergo centrifuged fat graft for contour and volume refinements.\n\ncentrifuged fat graft: fat from the abdominal subcutaneous tissue will be taken by vacuum assisted lipectomy and immediately prepared to be grafted in the reconstructed breast that presents contour irregularities and/or volume insufficiency. No adipose derived stem cells will enrich the fat grafts in this group."
+          },
+          {
+            "FlowGroupId": "FG001",
+            "FlowGroupTitle": "ADSCs Enriched Centrifuged Fat Graft",
+            "FlowGroupDescription": "female patients who underwent breast reconstruction and present volume insufficiency will undergo ADSCs enriched fat grafting for volume and irregularity contour improvement\n\nADSCs enriched fat graft: fat from the abdominal subcutaneous tissue will be taken by suction assisted lipectomy and stromal vascular fraction will be isolated and immediately added to the fat graft that will be employed to improve contour irregularities and volume insufficiency of reconstructed breasts."
+          }
+        ]
+      },
+      "FlowPeriodList": {
+        "FlowPeriod": [
+          {
+            "FlowPeriodTitle": "Overall Study",
+            "FlowMilestoneList": {
+              "FlowMilestone": [
+                {
+                  "FlowMilestoneType": "STARTED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "9"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "11"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "FlowMilestoneType": "COMPLETED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "8"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "11"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "FlowMilestoneType": "NOT COMPLETED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "1"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "0"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "FlowDropWithdrawList": {
+              "FlowDropWithdraw": [
+                {
+                  "FlowDropWithdrawType": "Withdrawal by Subject",
+                  "FlowReasonList": {
+                    "FlowReason": [
+                      {
+                        "FlowReasonGroupId": "FG000",
+                        "FlowReasonNumSubjects": "1"
+                      },
+                      {
+                        "FlowReasonGroupId": "FG001",
+                        "FlowReasonNumSubjects": "0"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "BaselineCharacteristicsModule": {
+      "BaselineGroupList": {
+        "BaselineGroup": [
+          {
+            "BaselineGroupId": "BG000",
+            "BaselineGroupTitle": "Centrifuged Fat Graft",
+            "BaselineGroupDescription": "female patients who underwent breast reconstruction and present with volume insufficiency will undergo centrifuged fat graft for contour and volume refinements.\n\ncentrifuged fat graft: fat from the abdominal subcutaneous tissue will be taken by vacuum assisted lipectomy and immediately prepared to be grafted in the reconstructed breast that presents contour irregularities and/or volume insufficiency. No adipose derived stem cells will enrich the fat grafts in this group."
+          },
+          {
+            "BaselineGroupId": "BG001",
+            "BaselineGroupTitle": "ADSCs Enriched Centrifuged Fat Graft",
+            "BaselineGroupDescription": "female patients who underwent breast reconstruction and present volume insufficiency will undergo ADSCs enriched fat grafting for volume and irregularity contour improvement\n\nADSCs enriched fat graft: fat from the abdominal subcutaneous tissue will be taken by suction assisted lipectomy and stromal vascular fraction will be isolated and immediately added to the fat graft that will be employed to improve contour irregularities and volume insufficiency of reconstructed breasts."
+          },
+          {
+            "BaselineGroupId": "BG002",
+            "BaselineGroupTitle": "Total",
+            "BaselineGroupDescription": "Total of all reporting groups"
+          }
+        ]
+      },
+      "BaselineDenomList": {
+        "BaselineDenom": [
+          {
+            "BaselineDenomUnits": "Participants",
+            "BaselineDenomCountList": {
+              "BaselineDenomCount": [
+                {
+                  "BaselineDenomCountGroupId": "BG000",
+                  "BaselineDenomCountValue": "8"
+                },
+                {
+                  "BaselineDenomCountGroupId": "BG001",
+                  "BaselineDenomCountValue": "11"
+                },
+                {
+                  "BaselineDenomCountGroupId": "BG002",
+                  "BaselineDenomCountValue": "19"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "BaselineMeasureList": {
+        "BaselineMeasure": [
+          {
+            "BaselineMeasureTitle": "Age, Categorical",
+            "BaselineMeasureParamType": "Count of Participants",
+            "BaselineMeasureUnitOfMeasure": "Participants",
+            "BaselineClassList": {
+              "BaselineClass": [
+                {
+                  "BaselineCategoryList": {
+                    "BaselineCategory": [
+                      {
+                        "BaselineCategoryTitle": "<=18 years",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "0"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "0"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "BaselineCategoryTitle": "Between 18 and 65 years",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "7"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "11"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "18"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "BaselineCategoryTitle": ">=65 years",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "1"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "0"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "BaselineMeasureTitle": "Age, Continuous",
+            "BaselineMeasureParamType": "Mean",
+            "BaselineMeasureDispersionType": "Standard Deviation",
+            "BaselineMeasureUnitOfMeasure": "years",
+            "BaselineClassList": {
+              "BaselineClass": [
+                {
+                  "BaselineCategoryList": {
+                    "BaselineCategory": [
+                      {
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "49.8",
+                              "BaselineMeasurementSpread": "11.5"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "49.6",
+                              "BaselineMeasurementSpread": "5.7"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "49.7",
+                              "BaselineMeasurementSpread": "8.3"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "BaselineMeasureTitle": "Sex: Female, Male",
+            "BaselineMeasureParamType": "Count of Participants",
+            "BaselineMeasureUnitOfMeasure": "Participants",
+            "BaselineClassList": {
+              "BaselineClass": [
+                {
+                  "BaselineCategoryList": {
+                    "BaselineCategory": [
+                      {
+                        "BaselineCategoryTitle": "Female",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "8"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "11"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "19"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "BaselineCategoryTitle": "Male",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "0"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "0"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "BaselineMeasureTitle": "Region of Enrollment",
+            "BaselineMeasureParamType": "Number",
+            "BaselineMeasureUnitOfMeasure": "participants",
+            "BaselineClassList": {
+              "BaselineClass": [
+                {
+                  "BaselineClassTitle": "Brazil",
+                  "BaselineCategoryList": {
+                    "BaselineCategory": [
+                      {
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "8"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "11"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "19"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "BaselineMeasureTitle": "breast volume",
+            "BaselineMeasureParamType": "Mean",
+            "BaselineMeasureDispersionType": "Standard Deviation",
+            "BaselineMeasureUnitOfMeasure": "mL",
+            "BaselineClassList": {
+              "BaselineClass": [
+                {
+                  "BaselineCategoryList": {
+                    "BaselineCategory": [
+                      {
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "562.8",
+                              "BaselineMeasurementSpread": "187.7"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "650.1",
+                              "BaselineMeasurementSpread": "206.8"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "613.3",
+                              "BaselineMeasurementSpread": "198.5"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomeMeasuresModule": {
+      "OutcomeMeasureList": {
+        "OutcomeMeasure": [
+          {
+            "OutcomeMeasureType": "Primary",
+            "OutcomeMeasureTitle": "Volume Maintenance",
+            "OutcomeMeasureDescription": "Volumetry of the reconstructed breasts will be accomplished through MRI and OsiriX software. Osirix software allows breast volume calculation through the determination of regions of interest (ROIs) on an MRI sequence. Once the pre (V1) and postoperative (V2) volumes were determined the following formula was applied: (V2 - V1) X 100/graft volume. The result, expressed in percentage, expresses graft volume persistence.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Mean",
+            "OutcomeMeasureDispersionType": "Standard Deviation",
+            "OutcomeMeasureUnitOfMeasure": "percentage of graft volume persistency",
+            "OutcomeMeasureTimeFrame": "up to 1 year",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Centrifuged Fat Graft",
+                  "OutcomeGroupDescription": "female patients who underwent breast reconstruction and present with volume insufficiency will undergo centrifuged fat graft for contour and volume refinements.\n\ncentrifuged fat graft: fat from the abdominal subcutaneous tissue will be taken by vacuum assisted lipectomy and immediately prepared to be grafted in the reconstructed breast that presents contour irregularities and/or volume insufficiency. No adipose derived stem cells will enrich the fat grafts in this group."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "ADSCs Enriched Centrifuged Fat Graft",
+                  "OutcomeGroupDescription": "female patients who underwent breast reconstruction and present volume insufficiency will undergo ADSCs enriched fat grafting for volume and irregularity contour improvement\n\nADSCs enriched fat graft: fat from the abdominal subcutaneous tissue will be taken by suction assisted lipectomy and stromal vascular fraction will be isolated and immediately added to the fat graft that will be employed to improve contour irregularities and volume insufficiency of reconstructed breasts."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "8"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "11"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "51.6",
+                              "OutcomeMeasurementSpread": "18.4"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "78.9",
+                              "OutcomeMeasurementSpread": "74.9"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeAnalysisList": {
+              "OutcomeAnalysis": [
+                {
+                  "OutcomeAnalysisGroupIdList": {
+                    "OutcomeAnalysisGroupId": [
+                      "OG000",
+                      "OG001"
+                    ]
+                  },
+                  "OutcomeAnalysisTestedNonInferiority": "No",
+                  "OutcomeAnalysisNonInferiorityType": "Superiority or Other",
+                  "OutcomeAnalysisPValue": "0.310",
+                  "OutcomeAnalysisStatisticalMethod": "Wilcoxon (Mann-Whitney)",
+                  "OutcomeAnalysisCINumSides": "2-Sided"
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Immunophenotyping",
+            "OutcomeMeasureDescription": "Immunophenotyping of the fresh stromal vascular fraction of both groups. Immunophenotyping or flow cytometry measures how many cells, in a sample, express a specific surface marker. A surface marker or a group of markers may characterize a specific cell type. The software that accompanies the flow cytometer determines the number of cells (in percentage) that express the tested surface marker.",
+            "OutcomeMeasurePopulationDescription": "we had technical problems in processing 4 tissue samples in each arm.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Mean",
+            "OutcomeMeasureDispersionType": "Standard Deviation",
+            "OutcomeMeasureUnitOfMeasure": "percentage of expression for CD90",
+            "OutcomeMeasureTimeFrame": "baseline",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Centrifuged Fat Graft",
+                  "OutcomeGroupDescription": "female patients who underwent breast reconstruction and present with volume insufficiency will undergo centrifuged fat graft for contour and volume refinements.\n\ncentrifuged fat graft: fat from the abdominal subcutaneous tissue will be taken by vacuum assisted lipectomy and immediately prepared to be grafted in the reconstructed breast that presents contour irregularities and/or volume insufficiency. No adipose derived stem cells will enrich the fat grafts in this group."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "ADSCs Enriched Centrifuged Fat Graft",
+                  "OutcomeGroupDescription": "female patients who underwent breast reconstruction and present volume insufficiency will undergo ADSCs enriched fat grafting for volume and irregularity contour improvement\n\nADSCs enriched fat graft: fat from the abdominal subcutaneous tissue will be taken by suction assisted lipectomy and stromal vascular fraction will be isolated and immediately added to the fat graft that will be employed to improve contour irregularities and volume insufficiency of reconstructed breasts."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "7"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "27",
+                              "OutcomeMeasurementSpread": "27.9"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "79",
+                              "OutcomeMeasurementSpread": "15.4"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeAnalysisList": {
+              "OutcomeAnalysis": [
+                {
+                  "OutcomeAnalysisGroupIdList": {
+                    "OutcomeAnalysisGroupId": [
+                      "OG000",
+                      "OG001"
+                    ]
+                  },
+                  "OutcomeAnalysisTestedNonInferiority": "No",
+                  "OutcomeAnalysisNonInferiorityType": "Superiority or Other",
+                  "OutcomeAnalysisPValue": "0.026",
+                  "OutcomeAnalysisStatisticalMethod": "Wilcoxon (Mann-Whitney)",
+                  "OutcomeAnalysisCINumSides": "2-Sided"
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Other Pre-specified",
+            "OutcomeMeasureTitle": "Number of Participants Experiencing Fat Necrosis in the Postoperative Period",
+            "OutcomeMeasureDescription": "Fat necrosis may occur whenever a fat graft is performed and it has clinical relevance. It can emerge as oil cysts or small nodules a little bit painful. In mammograms of normal breasts, fat necrosis present as cysts or micro calcifications that present a benign appearance. In breast reconstruction patients, fat necrosis, despite its benign characteristics, can suggest cancer recurrence.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Number",
+            "OutcomeMeasureUnitOfMeasure": "participants",
+            "OutcomeMeasureTimeFrame": "up to 3 years",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Centrifuged Fat Graft",
+                  "OutcomeGroupDescription": "female patients who underwent breast reconstruction and present with volume insufficiency will undergo centrifuged fat graft for contour and volume refinements.\n\ncentrifuged fat graft: fat from the abdominal subcutaneous tissue will be taken by vacuum assisted lipectomy and immediately prepared to be grafted in the reconstructed breast that presents contour irregularities and/or volume insufficiency. No adipose derived stem cells will enrich the fat grafts in this group."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "ADSCs Enriched Centrifuged Fat Graft",
+                  "OutcomeGroupDescription": "female patients who underwent breast reconstruction and present volume insufficiency will undergo ADSCs enriched fat grafting for volume and irregularity contour improvement\n\nADSCs enriched fat graft: fat from the abdominal subcutaneous tissue will be taken by suction assisted lipectomy and stromal vascular fraction will be isolated and immediately added to the fat graft that will be employed to improve contour irregularities and volume insufficiency of reconstructed breasts."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "8"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "11"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "4"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeAnalysisList": {
+              "OutcomeAnalysis": [
+                {
+                  "OutcomeAnalysisGroupIdList": {
+                    "OutcomeAnalysisGroupId": [
+                      "OG000",
+                      "OG001"
+                    ]
+                  },
+                  "OutcomeAnalysisTestedNonInferiority": "No",
+                  "OutcomeAnalysisNonInferiorityType": "Superiority or Other",
+                  "OutcomeAnalysisPValue": "0.103",
+                  "OutcomeAnalysisStatisticalMethod": "Fisher Exact",
+                  "OutcomeAnalysisCINumSides": "2-Sided"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "AdverseEventsModule": {
+      "EventsFrequencyThreshold": "0",
+      "EventsTimeFrame": "from fat grafting to 3 years (average) for ADSC arm and 16 months for the centrifuged arm.",
+      "EventGroupList": {
+        "EventGroup": [
+          {
+            "EventGroupId": "EG000",
+            "EventGroupTitle": "Centrifuged Fat Graft",
+            "EventGroupDescription": "female patients who underwent breast reconstruction and present with volume insufficiency will undergo centrifuged fat graft for contour and volume refinements.\n\ncentrifuged fat graft: fat from the abdominal subcutaneous tissue will be taken by vacuum assisted lipectomy and immediately prepared to be grafted in the reconstructed breast that presents contour irregularities and/or volume insufficiency. No adipose derived stem cells will enrich the fat grafts in this group.",
+            "EventGroupSeriousNumAffected": "0",
+            "EventGroupSeriousNumAtRisk": "8",
+            "EventGroupOtherNumAffected": "0",
+            "EventGroupOtherNumAtRisk": "8"
+          },
+          {
+            "EventGroupId": "EG001",
+            "EventGroupTitle": "ADSCs Enriched Centrifuged Fat Graft",
+            "EventGroupDescription": "female patients who underwent breast reconstruction and present volume insufficiency will undergo ADSCs enriched fat grafting for volume and irregularity contour improvement\n\nADSCs enriched fat graft: fat from the abdominal subcutaneous tissue will be taken by suction assisted lipectomy and stromal vascular fraction will be isolated and immediately added to the fat graft that will be employed to improve contour irregularities and volume insufficiency of reconstructed breasts.",
+            "EventGroupSeriousNumAffected": "0",
+            "EventGroupSeriousNumAtRisk": "11",
+            "EventGroupOtherNumAffected": "0",
+            "EventGroupOtherNumAtRisk": "11"
+          }
+        ]
+      }
+    },
+    "MoreInfoModule": {
+      "CertainAgreement": {
+        "AgreementPISponsorEmployee": "No",
+        "AgreementRestrictiveAgreement": "No"
+      },
+      "PointOfContact": {
+        "PointOfContactTitle": "Dr. Luiz Alexandre Lorico Tissiani",
+        "PointOfContactOrganization": "Faculdade de Medicina - Universidade de Sao Paulo",
+        "PointOfContactEMail": "latissiani@gmail.com",
+        "PointOfContactPhone": "55-11-981798707"
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11436",
+            "ConditionBrowseLeafName": "Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7513",
+            "ConditionBrowseLeafName": "Fat Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

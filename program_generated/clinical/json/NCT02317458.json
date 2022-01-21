@@ -1,0 +1,236 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02317458",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "C3BS-C-12-01"
+      },
+      "Organization": {
+        "OrgFullName": "Celyad Oncology SA",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Congestive Heart Failure Cardiopoietic Regenerative Therapy (CHART-2) Trial - THE CHART-2 TRIAL",
+      "OfficialTitle": "EFFICACY AND SAFETY OF BONE MARROW-DERIVED MESENCHYMAL CARDIOPOIETIC CELLS (C3BS-CQR-1) FOR THE TREATMENT OF CHRONIC ISCHEMIC HEART FAILURE",
+      "Acronym": "CHART-2"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2016",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 2017"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 9, 2014",
+      "StudyFirstSubmitQCDate": "December 15, 2014",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 16, 2014",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "July 7, 2016",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 11, 2016",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Celyad Oncology SA",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study is designed to evaluate the efficacy and safety of the C3BS-CQR-1 in the treatment of patients with chronic heart failure secondary to ischemic cardiomyopathy.",
+      "DetailedDescription": "Patients with chronic heart failure secondary to ischemic cardiomyopathy being on standard of care will be screened per the protocol inclusion and exclusion criteria. Enrolled patients will be randomized on a 1:1 ratio to either standard of care and C3BS-CQR-1 injection (treatment group) or standard of care undergoing a sham procedure (control group). Patients randomized to the treatment group, for which C3BS-CQR-1 production met release criteria, will undergo endoventricular injection of the C3BS-CQR-1 using injection catheter."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Heart Failure"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "400",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Active arm",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "One arm with standard of care and C3BS-CQR-1 injection (treatment group) using intramyocardial catheter injection.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Experimental"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control arm",
+            "ArmGroupType": "Sham Comparator",
+            "ArmGroupDescription": "One arm with standard of care undergoing a sham procedure (control group)using intramyocardial catheter injection. .",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Sham comparator"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Experimental",
+            "InterventionDescription": "One active arm with standard of car and treatment with C3BR-CQR-1 using intramyocardial injection",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Active arm"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "C3BR-CQR-1"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Sham comparator",
+            "InterventionDescription": "One arm with standard of care undergoing a sham procedure",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control arm"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Efficacy of C3BS-CQR-1 injection based on a hierarchical composite score",
+            "PrimaryOutcomeDescription": "Died of CV cause\nHospitalized 2 or more times for HF\nHospitalized once for HF\nMinnesota Living with Heart Failure Questionnaire (MLHFQ) total score worsened by 10 or more points\nMLHFQ total score neither worsened by 10 or more points nor improved by 10 or more points, or died of non-CV cause\nMLHFQ total score improved by 10 or more points",
+            "PrimaryOutcomeTimeFrame": "52 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge ≥ 18 and < 80 years.\nSystolic dysfunction with LVEF ≤ 35% as assessed by echocardiography.\nIschemic heart failure ineligible for further revascularization. Ischemic heart failure is defined as history of myocardial infarction or evidence of clinically significant coronary disease associated with LV systolic dysfunction leading to HF. The patient must not be a candidate for revascularization in the judgment of the investigator, based on the absence of unstable coronary-related symptoms and either non-invasive testing or coronary angiography within 24 months prior to screening.\nTotal MLHFQ score > 30.\nAbility to perform a Six-Minute Walk Test > 100 m and ≤ 375 m.\nHistory of hospitalization for HF within 12 months prior to screening or treatment in an out-patient clinic with intravenous therapy (including vasodilators, positive inotropic agents, vasopressors or diuretics) for worsening HF within 12 months prior to screening. Be or must have been diagnosed within the previous 12 months in NYHA class III or IV or INTERMACS class 4, 5, 6 or 7, and at the time of inclusion, must be at least in NYHA class II or greater. If in NYHA class II, 2 or more HF worsening events or NT-ProBNP > 1000 pg/mL requiring hospitalization or outpatient IV therapy during the prior 12 months are required.\nUse of ACE inhibitor and/or ARB or sacubitril/valsartan (Entresto™); and beta blocker, for at least 3 months prior to screening visit, unless intolerant or contraindicated.\nStable dosing of ACE inhibitor or ARB or sacubitril/valsartan (Entresto™) and beta blocker, aldosterone blocker, and diuretics for at least one month prior to screening visit, defined as ≤50% change in total dose of each agent.\nWilling and able to give written informed consent.\n\nExclusion Criteria:\n\nWomen who are pregnant, confirmed by a positive urine or serum hCG laboratory test at screening.\nWomen of child-bearing potential without a negative serum or urine pregnancy test at screening or who are not practicing a reliable form of birth control. Women who are postmenopausal (12 months of spontaneous amenorrhea or 6 months of spontaneous amenorrhea with serum FSH level > 40 mIU/mL or 6 weeks post-surgical bilateral oophorectomy) or surgically sterile are not considered to be of child-bearing potential. Reliable contraception includes surgical sterilization, hormonal contraception, or double-barrier methods.\nMen refusing to exercise a reliable form of contraception unless partner is unable to conceive.\nAcute coronary syndrome leading to myocardial infarction or unstable angina within 90 days of screening.\nPercutaneous coronary intervention (PCI) within 90 days prior to screening, or CABG surgery within 180 days prior to screening.\nPatient on a cardiac transplant list or previously received any solid organ transplant.\nPreviously underwent cardiac surgery with remodeling procedure, left ventricular assist device placement or cardiomyoplasty. This exclusion does not apply to patients who underwent ventricularplasty without placements device >1 year ago.\nPatient has undergone cardiac resynchronization therapy (CRT) within 6 months (180 days) prior to screening.\nSevere uncontrolled HF requiring need for intravenous diuretics or inotropic support within 1 month prior to screening.\n\nInability to perform a Six-Minute Walk Test due to physical limitations other than HF including:\n\nSevere peripheral vascular disease\nSevere pulmonary disease or chronic obstructive pulmonary disease (COPD) with FEV1 <30% predicted\nOrthopedic limitations, severe muscular diseases, any other joint or muscular disease or neurological disorder (such as an old stroke or neuropathy) limiting the ability to walk for 6 minutes.\nDependence on chronic oral steroid therapy.\nStroke or transient ischemic attack leading to limitations in lower extremities or occurring within 180 days prior to screening.\nActive myocarditis, constrictive pericarditis, restrictive, hypertrophic or congenital cardiomyopathy.\nBMI < 19 or > 40 kg/m2.\nLeft ventricular thrombus.\nLeft ventricular wall thickness < 8mm visualized in more than 50% of LV, and defined as a \"LV no-go zone\nLV aneurysm or candidate for surgical aneurysmectomy.\nSustained VT or VF which led to AICD therapy (shock) within 3 months prior to screening.\nPrimary valvular disease of ≥ moderate degree, including mitral or aortic stenosis (with aortic valve area < 1.5 cm2) or regurgitation. Secondary mitral and tricuspid regurgitation due to LV dilatation will not be excluded\nProsthetic valve in aortic or mitral position, or prior MitraClip placement.\nChronic infection or active malignancy.\nCompromised renal function as reflected by a serum creatinine level >2,0 mg/dL (>0.177 mmol/l) or is currently on dialysis.\nHematocrit < 28%.\nAtherosclerosis and/or tortuosity of the aorta, iliac or femoral arteries of a degree that could impede or preclude the safe retrograde passage of the delivery catheter, including untreated aneurysm of the aorta.\nChronic immunosuppressive therapy due to inflammatory or systemic disease.\nPatient tested positive for HIV 1 or 2, Hepatitis B or C, HTLV 1 or syphilis (as detailed in Section 19.1).\nExposure to any previous experimental cell or angiogenic therapy and/or myocardial laser therapy and/or therapy with another investigational drug within 60 days prior to screening or enrollment in any concurrent study that may confound the results of this study.\nKnown drug or alcohol dependence or any other factors which will interfere with the study conduct or interpretation of the results or in the opinion of the investigator are not suitable to participate.\nAny illness other than CHF which might reduce life expectancy to less than 2 years from screening.\nKnown and relevant allergies and/or hyper-sensitivities to Dextran or other plasma volume expanders (including Gentran, Hyskon and Macrodex), to Bovine Serum Albumin (BSA) or to any albumin from animal origin.\nKnown severe allergy to the cardiac radiological contrast mixture.\nRequired dosage of cardiopoietic cells not reached",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006333",
+            "ConditionMeshTerm": "Heart Failure"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8573",
+            "ConditionBrowseLeafName": "Heart Failure",
+            "ConditionBrowseLeafAsFound": "Heart Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

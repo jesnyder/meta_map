@@ -1,0 +1,315 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01585857",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "8606"
+      },
+      "Organization": {
+        "OrgFullName": "University Hospital, Montpellier",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "ADIPOA - Clinical Study",
+      "OfficialTitle": "A Phase I, Prospective, Bi-centric,Single -Arm, Open-label, Dose-escalating Clinical Trial to Evaluate the Safety of a Single Injection of Autologous Adipose Derived Mesenchymal Stromal Cells in the Treatment of Severe Osteoarthritis of the Knee Joint"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2014",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 2012"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2014",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2014",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "March 19, 2012",
+      "StudyFirstSubmitQCDate": "April 24, 2012",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 26, 2012",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "December 3, 2014",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 4, 2014",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Hospital, Montpellier",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Primary:\n\nTo study the safety of a single injection of autologous adipose derived mesenchymal stromal cells (ASCs) on patients with moderate or severe osteoarthritis of the knee (OA).\n\nSecondary:\n\nTo study the efficacy of a single injection of autologous adipose derived mesenchymal stromal cells on patients with moderate or severe osteoarthritis of the knee (OA)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Osteoarthritis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "18",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Group 1",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "2 x 10E6 ASC intra-articular injection (5 ml)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous adipose derived stem cells administrated for intra-articular use"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group 2",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "10 x 10E6 ASC intra-articular injection (5 ml)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous adipose derived stem cells administrated for intra-articular use"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group 3",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "50 x 10E6 ASC intra-articular injection (5 ml)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous adipose derived stem cells administrated for intra-articular use"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Autologous adipose derived stem cells administrated for intra-articular use",
+            "InterventionDescription": "Each patient will receive one single administration of the cells and will be followed for 3 months. Each patients will be follow-up during one year with routinely examinations for safety issues.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group 2",
+                "Group 3"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Autologous adipose derived stem cells administrated for intra-articular use",
+            "InterventionDescription": "Each patient will receive one single administration of the cells and will be followed for 3 months. Each patients will be follow-up during one year with routinely examinations for safety issues. The first patient will be followed during 12 weeks before inclusion of the second patient.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group 1"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Recording of Serious Adverse Events",
+            "PrimaryOutcomeDescription": "Adverse events will be described with respect to seriousness, intensity, relationship to treatment, action taken and outcome of the adverse event.",
+            "PrimaryOutcomeTimeFrame": "during 365 days following injection"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Functional status of the knee",
+            "SecondaryOutcomeDescription": "Efficacy will be assessed by measuring:\n\nWOMAC (Western Ontario and McMaster Universities osteoarthritis index),\nShort Arthritis assessment Scale (SAS),\nrange of motion of the target knee joint,\nimaging through MRI evaluation, dGEMRIC and T1rho MRI.",
+            "SecondaryOutcomeTimeFrame": "during 365 days following injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of life",
+            "SecondaryOutcomeDescription": "Quality of life will be assessed by measuring:\n\npain-specific assessment\nglobal patient assessment (visual analog scale, Short-Form 8)\ndecrease in rescue paracetamol medication.",
+            "SecondaryOutcomeTimeFrame": "during 365 days following injection"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nOA diagnosis should fulfil the criteria of the American College of Rheumatology (ACR) with moderate or severe medial and/ or external femorotibial knee osteoarthritis (OA) (stage 3 or 4) and indication total knee arthroplasty.\n\nExclusion Criteria:\n\nAny disease or medication affecting the bone or cartilage metabolism, including corticoids.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "50 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Christian Jorgensen, MD",
+            "OverallOfficialAffiliation": "University Hospital, Montpellier",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "UH Montpellier",
+            "LocationCity": "Montpellier",
+            "LocationZip": "34295",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Orthopädische Klinik",
+            "LocationCity": "Würzburg",
+            "LocationZip": "97074",
+            "LocationCountry": "Germany"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "27217345",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Pers YM, Rackwitz L, Ferreira R, Pullig O, Delfour C, Barry F, Sensebe L, Casteilla L, Fleury S, Bourin P, Noël D, Canovas F, Cyteval C, Lisignoli G, Schrauth J, Haddad D, Domergue S, Noeth U, Jorgensen C; ADIPOA Consortium. Adipose Mesenchymal Stromal Cell-Based Therapy for Severe Osteoarthritis of the Knee: A Phase I Dose-Escalation Trial. Stem Cells Transl Med. 2016 Jul;5(7):847-56. doi: 10.5966/sctm.2015-0245. Epub 2016 May 23."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010003",
+            "ConditionMeshTerm": "Osteoarthritis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001168",
+            "ConditionAncestorTerm": "Arthritis"
+          },
+          {
+            "ConditionAncestorId": "D000007592",
+            "ConditionAncestorTerm": "Joint Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012216",
+            "ConditionAncestorTerm": "Rheumatic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12078",
+            "ConditionBrowseLeafName": "Osteoarthritis",
+            "ConditionBrowseLeafAsFound": "Osteoarthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21321",
+            "ConditionBrowseLeafName": "Osteoarthritis, Knee",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3628",
+            "ConditionBrowseLeafName": "Arthritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9773",
+            "ConditionBrowseLeafName": "Joint Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14197",
+            "ConditionBrowseLeafName": "Rheumatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5475",
+            "ConditionBrowseLeafName": "Collagen Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

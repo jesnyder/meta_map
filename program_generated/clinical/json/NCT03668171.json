@@ -1,0 +1,360 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03668171",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "KY20172049-1"
+      },
+      "Organization": {
+        "OrgFullName": "Xijing Hospital of Digestive Diseases",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cell Transplantation for Acute-on-chronic Liver Failure",
+      "OfficialTitle": "Mesenchymal Stem Cell Transplantation for Acute-on-chronic Liver Failure, a Randomized, Double Blind, Placebo Controlled Trial"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2018",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 10, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 31, 2019",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 10, 2018",
+      "StudyFirstSubmitQCDate": "September 10, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "September 12, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 10, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 12, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Han Ying",
+        "ResponsiblePartyInvestigatorTitle": "Prof. Dr.",
+        "ResponsiblePartyInvestigatorAffiliation": "Xijing Hospital of Digestive Diseases"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Xijing Hospital of Digestive Diseases",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Mesenchymal stem cells (MSC) has been reported to improved outcomes of acute-on-chronic liver failure(ACLF). More randomization controlled studies are needed to confirm the effect of MSC treatment for ACLF. This study aimed to investigate the efficacy of mesenchymal stem cells in ACLF patients. This study is an double-blind multicenter randomized and placebo-controlled study. Patients with with ACLF will be randomly assigned to receive MSC treatment (experimental) or standard medical treatment (control). Three times of MSC infusion (0.1-1x10E6cells/kg body weight) via peripheral vein will be given to the experimental group (once per week). The primary outcome is 12 week mortality. Secondary outcomes are clinical remission rate and changes of liver function indices and liver function scores."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Acute-On-Chronic Liver Failure"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Acute-On-Chronic Liver Failure, mesenchymal stem cell,"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignMaskingDescription": "Randomization will be blinded to participant, care provider, investigator and outcome assessors.",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "200",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "MSC group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "mesenchymal stem cell transplantation via peripheral vein: 0.1-1x10E6 MSCs/kg body weight administered via peripheral vein at week 0, 1, 2 weeks",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: mesenchymal stem cell transplantation or placebo infusion via peripheral vein"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "control",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "placebo infusions (placebo infusion differs from the experimental infusion in only that placebo has no mesenchymal stem cells) will be administered via peripheral vein at week 0, 1, 2",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: mesenchymal stem cell transplantation or placebo infusion via peripheral vein"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "mesenchymal stem cell transplantation or placebo infusion via peripheral vein",
+            "InterventionDescription": "0.1-1x10E6 MSCs/kg body weight will be administered via peripheral vein for 3 times at week 0, 4 and 8 mesenchymal stem cell mesenchymal stem cell infusion produced by Cell products of National Engineering Research Center(short for CPNERC), Tianjin, China For control group, placebo infusions will be given to the participants at the same time points",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC group",
+                "control"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Efficacy: 12 week mortality rate",
+            "PrimaryOutcomeDescription": "mortality rate assessed at week 12",
+            "PrimaryOutcomeTimeFrame": "12 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Clinical remission rate at week 12",
+            "SecondaryOutcomeDescription": "Clinical remission define as: significant improvement of symptoms and resolution of hepatoencephalopathy; TBIL decrease to below 5 times of ULN，PTA>40% or INR<1.6",
+            "SecondaryOutcomeTimeFrame": "12 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge between 18-70 years old\nMeeting the criteria of ACLF defined as: 1. definitive chronic liver diseases, acute decompensation within 4 weeks; 2. Significant GI symptom as such fatigue, jaundice,; 3. total bilirubin (TBIL) ≥170 µmo1/L or daily increase of TBIL ≥17.1 µmo1/L; 4. PTA≤40% or INR≥ 1.5; 5. Decompensation of liver functions such as ascites or hepatoencephalopathy;\nMELD score between 17-30. (MELD(i) = 0.957 × ln(Cr) + 0.378 × ln(bilirubin) + 1.120 × ln(INR) + 0.643)\nChronic liver disease with definitive etiology such as viral hepatitis, alcohol liver disease, drug induced liver injury or autoimmune liver diseases\nInformed consent\n\nExclusion Criteria:\n\nSever complications with 30 days ( GI bleeding, severe infection)；\n\n--liver cancer or other malignancies\n\npatients on liver transplantation list\npatients with uncontrolled infections\nsevere renal failure\nSevere chronic obstructive pulmonary disease COPD (GOLD III-IV)\nExtrahepatic cholanstasis patients due to biliary obstruction.\nHIV infection\nPregnant or breast-feeding females.\nEnrolled in other clinical trials with 3 months\nother conditions considered inappropriate for the study",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Ying Han, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "862984771539",
+            "CentralContactEMail": "guochc@fmmu.edu.cn"
+          },
+          {
+            "CentralContactName": "Changcun Guo",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "13991900180",
+            "CentralContactEMail": "guochc@sina.com"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Changcun Guo",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Xi'an",
+            "LocationState": "Shaanxi",
+            "LocationZip": "710032",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Changcun Guo",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "13991900180",
+                  "LocationContactEMail": "guochc@sina.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "Study protocol, statistical analysis processes and clinical data of individual participants will be shared.",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Study Protocol",
+          "Statistical Analysis Plan (SAP)",
+          "Analytic Code"
+        ]
+      },
+      "IPDSharingTimeFrame": "within 12 months after the study completion and before publications of the findings."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000017093",
+            "ConditionMeshTerm": "Liver Failure"
+          },
+          {
+            "ConditionMeshId": "D000048550",
+            "ConditionMeshTerm": "Hepatic Insufficiency"
+          },
+          {
+            "ConditionMeshId": "D000058625",
+            "ConditionMeshTerm": "End Stage Liver Disease"
+          },
+          {
+            "ConditionMeshId": "D000065290",
+            "ConditionMeshTerm": "Acute-On-Chronic Liver Failure"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000008107",
+            "ConditionAncestorTerm": "Liver Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000017114",
+            "ConditionAncestorTerm": "Liver Failure, Acute"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M28321",
+            "ConditionBrowseLeafName": "End Stage Liver Disease",
+            "ConditionBrowseLeafAsFound": "Chronic Liver Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18567",
+            "ConditionBrowseLeafName": "Liver Failure",
+            "ConditionBrowseLeafAsFound": "Liver Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M25123",
+            "ConditionBrowseLeafName": "Hepatic Insufficiency",
+            "ConditionBrowseLeafAsFound": "Liver Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M29651",
+            "ConditionBrowseLeafName": "Acute-On-Chronic Liver Failure",
+            "ConditionBrowseLeafAsFound": "Acute on Chronic Liver Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10259",
+            "ConditionBrowseLeafName": "Liver Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18583",
+            "ConditionBrowseLeafName": "Liver Failure, Acute",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M10262",
+            "InterventionBrowseLeafName": "Liver Extracts",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Hemat",
+            "InterventionBrowseBranchName": "Hematinics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

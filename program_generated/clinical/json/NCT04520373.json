@@ -1,0 +1,398 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04520373",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "19-011706"
+      },
+      "Organization": {
+        "OrgFullName": "Mayo Clinic",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Autologous Adipose Derived Mesenchymal Stem Cells for Spinal Cord Injury Patients",
+      "OfficialTitle": "CELLTOP Part II: A Phase II Clinical Trial of Autologous Adipose Derived Mesenchymal Stem Cells in the Treatment of Paralysis Due to Traumatic Spinal Cord Injury"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 25, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 14, 2020",
+      "StudyFirstSubmitQCDate": "August 18, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 20, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 30, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 5, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Mohamad Bydon",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Mayo Clinic"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Mayo Clinic",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this research study is to investigate the safety and potential therapeutic effects of autologous, culture-expanded, adipose derived mesenchymal stem cell intrathecal injections in the treatment of spinal cord injury."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Spinal Cord Injuries",
+          "Paralysis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Crossover Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Treatment Group 1: AD-MSC Injection",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients will receive a single dose of autologous, adipose derived mesenchymal stem cells one time. The cells are isolated from patient's adipose tissue and expanded for intrathecal delivery.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous, Adipose Derived Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Treatment Group 2: Best Medical Management",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patients will be observed over six months while attending physical and occupational therapy. After six months, patients will receive a single dose of autologous, adipose derived mesenchymal stem cells one time. The cells are isolated from patient's adipose tissue and expanded for intrathecal delivery.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Best Medical Management: Occupational and Physical Therapy",
+                "Biological: Autologous, Adipose Derived Mesenchymal Stem Cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Best Medical Management: Occupational and Physical Therapy",
+            "InterventionDescription": "Observation while undergoing Occupational and Physical Therapy for 6 months",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment Group 2: Best Medical Management"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Autologous, Adipose Derived Mesenchymal Stem Cells",
+            "InterventionDescription": "The mesenchymal stem cells will be collected and expanded from the patients' adipose tissue.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment Group 1: AD-MSC Injection",
+                "Treatment Group 2: Best Medical Management"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "•Change in sensory and motor function following completion of treatment as measured by the American Spinal Injury Association (ASIA) Impairment Scale (AIS)",
+            "PrimaryOutcomeDescription": "The ASIA Impairment Scale describes a person's functional impairment (both motor and sensory) as a result of their spinal cord injury. The scale has 5 levels, ranging from A (complete) to E (normal).",
+            "PrimaryOutcomeTimeFrame": "up to 12 months post injection"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change in sensory and motor function following completion of treatment as measured by Somatosensory Evoked Potentials (SSEPs)",
+            "SecondaryOutcomeDescription": "Somatosensory Evoked Potentials (SSEPs) are electrical responses recorded from the nervous system following electrical stimulation of a peripheral nerve. For example, stimulation of the median nerve at the wrist produces electrical activity that travels along the sensory pathway on its way to the brain. This activity can be recorded with electrodes positioned along that pathway.",
+            "SecondaryOutcomeTimeFrame": "baseline, up to 12 months post injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "change in Neurogenic Bladder Symptom Score (NBSS)",
+            "SecondaryOutcomeDescription": "Neurogenic Bladder Symptom Score (NBSS) The NBSS was designed as an objective and validated way to assess bladder symptoms in patients with neurogenic bladder dysfunction as a result of spinal cord injury, multiple sclerosis, and spinal bifida. The NBSS consists of 24 questions. The first question classifies patients by bladder management, but does not make up part of the numeric score. The remaining questions address 3 domains: incontinence, storage and voiding, and consequences. The final question is an overall quality of life question. The total score can range from 0 (no symptoms at all) to 74 (maximum symptoms).",
+            "SecondaryOutcomeTimeFrame": "up to 24 months post injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "change in Neurogenic Bowel Symptom Score",
+            "SecondaryOutcomeDescription": "The Adult Neurogenic Bowel Dysfunction Score¹, also known as the Adult NBD score has been designed to help healthcare professionals evaluate the effectiveness of their patient's current bowel management routine by assessing the impact it has on the patient's quality of life. By having your patients answer 10 simple questions, the Adult NBD Score can help identify and quantify severity of bowel dysfunction in the adult patients. The Adult NBD score consists of 10 questions and is a symptom-score where each symptom is weighted based on its impact on quality of life. The scores from each question are added together and a total score is calculated. The maximum score is 47 while minimum is 0. Score Severity of bowel dysfunction 0-6 Very minor 7-9 Minor 10-13 Moderate 14+ Severe",
+            "SecondaryOutcomeTimeFrame": "up to 24 months post injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of abnormal CSF composition",
+            "SecondaryOutcomeDescription": "Composition in reference to normal laboratory values.",
+            "SecondaryOutcomeTimeFrame": "up to 4 weeks post injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of subjects who develop a new pathologic mass at the spinal cord area of injection or anywhere along the spinal cord.",
+            "SecondaryOutcomeDescription": "Patients will undergo Magnetic Resonance Imaging of the spine and the spinal cord with and without contrast.",
+            "SecondaryOutcomeTimeFrame": "up to 12 months post injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Correlation of adverse events to study drug",
+            "SecondaryOutcomeDescription": "The relationship of adverse events to study drug will be graded into the following categories: probable, possible, unlikely, unrelated.",
+            "SecondaryOutcomeTimeFrame": "up to 4 weeks post injection"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female aged 18 years and older\n\nFemales of childbearing potential must have a negative pregnancy test prior to receiving the study drug and will agree to use adequate contraception (hormonal/barrier method or abstinence) from the time of screening to a period of 1 year following completion of the drug treatment cycle. Females of childbearing potential are defined as premenopausal and not surgically sterilized, or post-menopausal for fewer than 2 years. If the urine pregnancy test is positive, the study drug will not be administered and the result will be confirmed by a serum pregnancy test. Serum pregnancy tests will be performed at a central clinical laboratory, whereas urine pregnancy tests will be performed by qualified personnel using kit.\nFemales becoming pregnant during the study will continue to be monitored for the duration of the study or completion of the pregnancy, whichever is longer. Monitoring will include perinatal and neonatal outcome. Any SAEs associated with pregnancy will be recorded.\nAIS grade A or B of SCI at the time of injury with or without subsequent improvement within 1 year of injury that has progressed to a higher AIS grade with a plateau in functional improvement\nSCI must be traumatic, blunt/non-penetrating in nature and not degenerative\nFull understanding of the requirements of the study and willingness to comply with the treatment plan, including fat harvesting, laboratory tests, diagnostic imaging, complete physical and neurologic examination and follow-up visits and assessments\nFull understanding of the requirements of home exercise program prescribed by physical and occupational therapists.\nOnce the nature of the study is fully explained and prior to any study-related procedure is initiated the subject is willing to provide written, informed consent and complete HIPAA documentation\n\nExclusion Criteria:\n\nPregnant or nursing, or planning on becoming pregnant during the study period\nAIS grade of SCI other than A or B at the time of injury\nNon-traumatic SCI\nHistory of receiving mesenchymal stem cell, gene or exosome therapy for any indications\nHistory of intra-spinal infection\nHistory of superficial infection in the index spinal level within 6 months of study\nEvidence of current superficial infection affecting the index spinal level at the time of enrollment\nOn chronic, immunosuppressive transplant therapy or having a chronic, immunosuppressive state, including use of systemic steroids/corticosteroids\nTaking anti-rheumatic disease medication (including methotrexate or other antimetabolites) within 3 months prior to study enrollment\nOngoing infectious disease, including but not limited to tuberculosis, HIV, hepatitis, and syphilis\nFever, defined as temperature above 100.4 F/38.0 Celsius, or mental confusion at baseline\nSignificant improvement between the time of adipose tissue harvest and the time of injection, defined as improvement from AIS grade A or B to AIS grade C or greater.\nClinically significant cardiovascular (e.g. history of myocardial infarction, congestive heart failure or uncontrolled hypertension > 90 mmHg diastolic and/or 180 mmHg systolic), neurological (e.g. stroke, TIA) renal, hepatic or endocrine disease (e.g. diabetes, osteoporosis).\nHistory of malignancy including melanoma with the exception of localized skin cancers (with no evidence of metastasis, significant invasion, or re-occurrence within three years of baseline). Any other malignancy will not be allowed.\nHistory of blood dyscrasia, including but not limited to anemia, thrombocytopenia, and monoclonal gammopathy\nParticipation in a study of an experimental drug or medical device within 3 months of study enrollment\nKnown allergy to local anesthetics of other components of the study drug\nAny contraindication to MRI scan according to MRI guidelines, or unwillingness to undergo MRI procedures\nHistory of or current evidence of alcohol or drug abuse or dependence, recreational use of illicit drug or prescription medications, or use of medical marijuana within 30 days of study entry\nDiagnosis of schizophrenia or bipolar disorder\nPatients with baseline depression, diagnosed by the Beck Depression Inventory Assessment\nCurrently taking riluzole for treatment of amyotrophic lateral sclerosis (ALS)",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Mohamad Bydon, MD",
+            "OverallOfficialAffiliation": "Mayo Clinic",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mayo Clinic in Rochester",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Rochester",
+            "LocationState": "Minnesota",
+            "LocationZip": "55905",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Brandon Trammell",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "507-293-0161",
+                  "LocationContactEMail": "trammell.brandon@mayo.edu"
+                },
+                {
+                  "LocationContactName": "Mohamad Bydon, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Wenchun Qu, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Christine Hunt, D.O.",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Mayo Clinic Clinical Trials",
+            "SeeAlsoLinkURL": "https://www.mayo.edu/research/clinical-trials"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000013119",
+            "ConditionMeshTerm": "Spinal Cord Injuries"
+          },
+          {
+            "ConditionMeshId": "D000010243",
+            "ConditionMeshTerm": "Paralysis"
+          },
+          {
+            "ConditionMeshId": "D000014947",
+            "ConditionMeshTerm": "Wounds and Injuries"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000013118",
+            "ConditionAncestorTerm": "Spinal Cord Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000020196",
+            "ConditionAncestorTerm": "Trauma, Nervous System"
+          },
+          {
+            "ConditionAncestorId": "D000009461",
+            "ConditionAncestorTerm": "Neurologic Manifestations"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15068",
+            "ConditionBrowseLeafName": "Spinal Cord Injuries",
+            "ConditionBrowseLeafAsFound": "Spinal Cord Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M12309",
+            "ConditionBrowseLeafName": "Paralysis",
+            "ConditionBrowseLeafAsFound": "Paralysis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafAsFound": "Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M15067",
+            "ConditionBrowseLeafName": "Spinal Cord Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21176",
+            "ConditionBrowseLeafName": "Trauma, Nervous System",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11556",
+            "ConditionBrowseLeafName": "Neurologic Manifestations",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M7343",
+            "InterventionBrowseLeafName": "Etoposide",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M341694",
+            "InterventionBrowseLeafName": "Etoposide phosphate",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

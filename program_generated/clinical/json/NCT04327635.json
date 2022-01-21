@@ -1,0 +1,382 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04327635",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "18-011636"
+      },
+      "Organization": {
+        "OrgFullName": "Mayo Clinic",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Safety Evaluation of Intracoronary Infusion of Extracellular Vesicles in Patients With AMI",
+      "OfficialTitle": "Safety Evaluation of Intracoronary Infusion of Extracellular Vesicles in Patients With AMI (EV-AMI)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 2, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "March 25, 2020",
+      "StudyFirstSubmitQCDate": "March 30, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 31, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 30, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 2, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Christopher J. McLeod",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Mayo Clinic"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Christopher J. McLeod",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Rion LLC",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Determine the safety of up to 3 dose levels of a study drug called PEP in patients who have had a recent (within the last 12 hours) heart attack.",
+      "DetailedDescription": "Patients with Acute Myocardial Infarction (AMI) who undergo percutaneous coronary intervention (PCI) at least 4 hours (but no more than 12 hours) after onset of heart attack symptoms will be treated with a single dose of PEP within 20 minutes after stent placement or post-dilation (whichever is last). Subjects will be screened at the time of emergency room presentation. From the emergency room, subjects will proceed to the cardiac catheterization laboratory where the PCI will be completed and PEP will be administered. Subjects will be followed for one year after PEP administration through clinic visits.\n\nIn the event there are patients enrolled with unknown COVID-19 status or previously negative COVID-19 status and subsequently found to be positive by SARS-Cov-2 PCR testing at visit 1, visit 4, visit 6, or any unscheduled visit within the first 14 days after receiving the study drug, then those patients will be excluded from the primary endpoint analysis."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Heart Attack"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "23",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "PEP in Acute Myocardial Infarction",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients with an acute myocardial infarction who undergo cardiac catheterization at least four hours after onset of symptoms will receive a one-time intracoronary infusion of PEP within 20 minutes after stent placement or post-dilation.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: PEP in Acute Myocardial Infarction"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "PEP in Acute Myocardial Infarction",
+            "InterventionDescription": "PEP dosage will consist of 5%, 10%, or 20% PEP. PEP dose will be infused immediately distal to the newly placed stent over approximately 5 minutes.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "PEP in Acute Myocardial Infarction"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "PEP in AMI",
+                "STEMI",
+                "Heart Attack",
+                "Myocardial Infarction",
+                "Acute Myocardial Infarction"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Dose limiting toxicities (DLTs) and maximum tolerated dose (MTD) of a single dose (10 mL) of PEP at escalating concentrations of extracellular vesicles delivered at a single time point (during PCI for AMI) for the treatment of downstream sequela of AMI.",
+            "PrimaryOutcomeDescription": "Dose limiting toxicities are possibly, probably or definitely related to PEP and are defined as:\n\nSigns of infection present in the judgement of a reviewing physician.\nCTCAE Grade 2 or higher bronchial stricture.\n\nCTCAE Grade 3 or higher:\n\nNew or reoccurring angina after infusion with PEP.\nElevated ALT, AST, total or direct bilirubin, unless due to procedural complications or complications of ischemic cardiomyopathy.\nDecreased hemoglobin or platelet level, unless due to procedural complications or complications of ischemic cardiomyopathy.\nSustained ventricular arrhythmia during PEP infusion\nHypersensitivity or anaphylaxis during PEP infusion.\nAny other grade 3 or higher adverse event.",
+            "PrimaryOutcomeTimeFrame": "Days 1-14 of the study period for each study participant."
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Infarction scar size",
+            "SecondaryOutcomeDescription": "Cardiac MRI will be used to assess myocardial infarction scar size.",
+            "SecondaryOutcomeTimeFrame": "Day 7 and Day 40 of the study period for each study participant."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Ejection fraction",
+            "SecondaryOutcomeDescription": "Cardiac MRI will be used to assess ejection fraction.",
+            "SecondaryOutcomeTimeFrame": "Day 7 and Day 40 of the study period for each study participant."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Abdominal abnormalities",
+            "SecondaryOutcomeDescription": "Complete abdominal ultrasound will be conducted to evaluate for abnormalities.",
+            "SecondaryOutcomeTimeFrame": "Day 7 and Day 365 of the study period for each study participant."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Alloimmune Response",
+            "SecondaryOutcomeDescription": "Class I & II Antibody Single Antigen Bead testing will be completed. Changes will be documented and evaluated.",
+            "SecondaryOutcomeTimeFrame": "Day 1 (Baseline/Screening) visit, Day 40 and Day 365"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAges 21-85\nMales and females\n\nAcute myocardial infarction (ST elevation at the J point in at least 2 contiguous leads of\n\n≥2 mm (0.2 mV) in men or ≥1.5 mm (0.15 mV) in women in leads V2-V3 and/or of ≥1 mm (0.1 mV) in other contiguous chest leads or the limb leads)\n\nSuccessful stent implantation within 4 and 12 hours from onset of AMI symptoms\nAngiographic evidence of TIMI 0 or TIMI 1 flow through culprit lesion prior to stent placement\nAngiographic evidence of residual stenosis visually <30% after stent placement\nWilling and able to provide signed informed consent\n\nExclusion Criteria:\n\nPrior cardiovascular history of systolic or diastolic dysfunction or acute myocardial infarction\nReceived fibrinolytic therapy (i.e. tPA (tissue plasminogen activator)), prior to PCI\nKnown history of stroke or TIA within the past 6 months\nPrior solid organ transplantation at any time\nPregnant or lactating at screening\nKnown presence of chronic systemic inflammatory disorder that requires ongoing therapy with immunosuppressive agents\nKnown immune system compromise including but not limited to human immunodeficiency virus (HIV), hepatitis A, hepatitis B (HBV) or hepatitis C (HCV) infection\nKnown history of malignancy of any type except non-melanoma skin cancer\nKnown serum creatinine >2 mg/dL or GFR ≤30 mL/min within the last twelve months\nKnown AST, ALT, and/or bilirubin (total) elevated twice the upper limit of normal for age & gender within the last twelve months\nKnown Hemoglobin lower than 8.0 g/dL within the last twelve months\nKnown current illicit drug use at screening\nOther major surgical procedure or major trauma within the previous 14 days prior to enrollment\nFemale of child bearing potential who is unwilling to agree to use acceptable contraception methods for 3 months after receiving the investigational drug\nICD implant in place\nAdult lacking decision-making capacity\nPrisoner\nNon-English speaking\nEnglish-speaking but illiterate\nLegally blind\nKnown allergy to heparin or heparin-induced thrombocytopenia\nKnown history of positive SARS-CoV2 PCR nasal swab test",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "21 Years",
+      "MaximumAge": "85 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Amanda M Biddle, RN, BSN, MSN",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "507-538-5428",
+            "CentralContactEMail": "biddle.amanda@mayo.edu"
+          },
+          {
+            "CentralContactName": "Kristi A Kreidermacher, RN",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "507-255-7230",
+            "CentralContactEMail": "kreidermacher.kristi@mayo.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Guy S Reeder, MD",
+            "OverallOfficialAffiliation": "Mayo Clinic",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mayo Clinic",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Rochester",
+            "LocationState": "Minnesota",
+            "LocationZip": "55905",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Guy S Reeder",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "33620904",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Kisby CK, Shadrin IY, Peng LT, Stalboerger PG, Trabuco EC, Behfar A, Occhino JA. Impact of Repeat Dosing and Mesh Exposure Chronicity on Exosome-Induced Vaginal Tissue Regeneration in a Porcine Mesh Exposure Model. Female Pelvic Med Reconstr Surg. 2021 Mar 1;27(3):195-201. doi: 10.1097/SPV.0000000000001017."
+          }
+        ]
+      },
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Mayo Clinic Clinical Trials",
+            "SeeAlsoLinkURL": "https://www.mayo.edu/research/clinical-trials"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "There is a plan to make IPD, related data dictionaries, and all IPD that underlie results in a publication available.",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Study Protocol",
+          "Statistical Analysis Plan (SAP)",
+          "Informed Consent Form (ICF)",
+          "Clinical Study Report (CSR)",
+          "Analytic Code"
+        ]
+      },
+      "IPDSharingTimeFrame": "Prior to study initiation, the study protocol and informed consent form will be provided to Rion, LLC. During the study, all safety reports (as they happen or quarterly), and all SAEs as they happen will be reported to Rion, LLC. At the end of the study after database is locked, a formal clinical study report will be provided to Rion, LLC.",
+      "IPDSharingAccessCriteria": "IPD will only be shared with the collaborator, Rion, LLC."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009203",
+            "ConditionMeshTerm": "Myocardial Infarction"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000017202",
+            "ConditionAncestorTerm": "Myocardial Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007238",
+            "ConditionAncestorTerm": "Infarction"
+          },
+          {
+            "ConditionAncestorId": "D000007511",
+            "ConditionAncestorTerm": "Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000009336",
+            "ConditionAncestorTerm": "Necrosis"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11307",
+            "ConditionBrowseLeafName": "Myocardial Infarction",
+            "ConditionBrowseLeafAsFound": "Heart Attack",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9434",
+            "ConditionBrowseLeafName": "Infarction",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5698",
+            "ConditionBrowseLeafName": "Coronary Artery Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18658",
+            "ConditionBrowseLeafName": "Myocardial Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11436",
+            "ConditionBrowseLeafName": "Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04636788",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "E-sR2020"
+      },
+      "Organization": {
+        "OrgFullName": "Huazhong University of Science and Technology",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Circulating Extracellular Exosomal Small RNA as Potential Biomarker for Human Pancreatic Cancer",
+      "OfficialTitle": "Diagnostic and Prognostic Values of EUS-FNA Specimens and Circulating Exosomal Small RNA in Patients With Pancreatic Cancer"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 1, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 1, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 1, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 4, 2020",
+      "StudyFirstSubmitQCDate": "November 14, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 19, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 14, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 19, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Bin Cheng",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Huazhong University of Science and Technology"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Huazhong University of Science and Technology",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study is for the verification of biomarkers for pancreatic cancer treatment using small RNA liquid biopsy, combined with EUS-FNA tissues.",
+      "DetailedDescription": "CA19-9 is the FDA approved biomarker for the diagnosis of pancreatic cancer. However, the specificity of CA19-9 to differentiate between pancreatic cancer, cholangiocarcinoma, or other pancreatic lesions is not satisfying enough.\n\nTumor cells secret abundant exosomes in the early stage. Circulating tumor cells are detected mainly in the advanced stage. Meanwhile, the role of non-coding RNA draws more and more attention in tumor area. Exosomes protect inside RNA from plasma RNase. Compared with long RNA, small RNA, including miRNA, snoRNA, tRNA, piRNA could exist more stably.\n\nBy means of next-generation sequencing, we look forward to finding new exosomal small RNA biomarkers."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Pancreas Adenocarcinoma"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "exosome",
+          "snoRNA",
+          "endoscopic ultrasound",
+          "liquid biopsy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Diagnostic",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "102",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "pancreatic cancer group",
+            "ArmGroupType": "Other",
+            "ArmGroupDescription": "pancreatic cancer, anticipated participants: 68\n\nother pancreatic lesions including MCN, SCN, IPMN, SPN without malignant pathological finding chronic pancreatitis cholangiocarcinoma healthy control anticipated participants: 34",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Venous sampling"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Venous sampling",
+            "InterventionDescription": "venous sampling of 12ml",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "pancreatic cancer group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "senstivity",
+            "PrimaryOutcomeDescription": "sensitivity of exo-sRNA",
+            "PrimaryOutcomeTimeFrame": "up to 8 weeks"
+          },
+          {
+            "PrimaryOutcomeMeasure": "specificity",
+            "PrimaryOutcomeDescription": "specificity of exo-sRNA to differentiate between PAAD and other benigh or malignant pancreatic occupying lesions",
+            "PrimaryOutcomeTimeFrame": "up to 8 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "survival time",
+            "SecondaryOutcomeDescription": "relationship between expression level of chosen exosomal RNA and patients' survival time in PAAD group",
+            "SecondaryOutcomeTimeFrame": "up to 18 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nage >18\npancreatic cancer patients\npancreatic lesions other than PAAD\nchronic pancreatitis\ncholangiocarcinoma\n\nExclusion Criteria:\n\ndiagnosed with other pathological types of cancer\ntreated with chemo/radio/surgery previously",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Bin Cheng, Professor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "13986097542",
+            "CentralContactEMail": "b.cheng@tjh.tjmu.edu.cn"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Tongji Hospital, Tongji Medical College, HUST",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Wuhan",
+            "LocationState": "Hubei",
+            "LocationZip": "430030",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Bin Cheng, Professor",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "13986097542",
+                  "LocationContactEMail": "b.cheng@tjh.edu.cn"
+                },
+                {
+                  "LocationContactName": "Yuchong Zhao, M.D.",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Bin Cheng, M.D./Ph.D",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2737",
+            "ConditionBrowseLeafName": "Adenocarcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12262",
+            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4387",
+            "ConditionBrowseLeafName": "Pancreatic Cancer",
+            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

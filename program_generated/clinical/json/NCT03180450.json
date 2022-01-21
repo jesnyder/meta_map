@@ -1,0 +1,322 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03180450",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "SCLnow-IMIMH-04"
+      },
+      "Organization": {
+        "OrgFullName": "Sclnow Biotechnology Co., Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "The Study of Heart Failure With Human Umbilical Cord Mesenchymal Stem Cells (hUC-MSC)",
+      "OfficialTitle": "The Study of Heart Failure With Human Umbilical Cord Mesenchymal Stem Cells (hUC-MSC)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2020",
+      "OverallStatus": "Suspended",
+      "WhyStopped": "Others",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 6, 2017",
+      "StudyFirstSubmitQCDate": "June 6, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 8, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 21, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 23, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Sclnow Biotechnology Co., Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purposes of the study is to evaluate the safety and efficacy of human umbilical cord mesenchymal stem cells (hUC-MSC) in treating heart failure patients",
+      "DetailedDescription": "This is a randomized, paralleled study. Patients will be divided into two groups of treatment and control. all of them will receive conventional treatment based on specific condition, including digitalis, milrinone, furosemide, beta-blocker blues, Angiotensin-Converting Enzyme Inhibitors (ACEI), angiotension receptor blocker (ARB), and antiplatelet aggregation etc. Treatment group patients will receive hUC-MSC. Follow-up visit will occur on 3 months, 6 months, and 12 months after the cell transfusion. Vital signs, blood routine test, urine routine test, liver function examination, etc, will be placed to evaluate the safety of hUC-MSC treatment. And the change of symptoms to evaluate the efficacy."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Heart Failure"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Heart Failure",
+          "Human Umbilical Cord Mesenchymal Stem Cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Treatment group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "conventional treatment; Allogeneic umbilical cord mesenchymal stem cells (SCLnow 19#) by i.v.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Allogeneic umbilical cord mesenchymal stem cells (SCLnow 19#)",
+                "Drug: conventional treatment"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Conventional treatment",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: conventional treatment"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Allogeneic umbilical cord mesenchymal stem cells (SCLnow 19#)",
+            "InterventionDescription": "Allogeneic umbilical cord mesenchymal stem cells will transfusion by intravenous transplantation.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "conventional treatment",
+            "InterventionDescription": "The drug and usage will be determined based on patient's condition, including milrinone, furosemide, beta-blocker blues, Angiotensin-Converting Enzyme Inhibitors (ACEI), angiotension receptor blocker (ARB), or antiplatelet aggregation etc.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group",
+                "Treatment group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Heart color ultrasound evaluation",
+            "PrimaryOutcomeDescription": "Criteria:\n\nExcellent: ejection fraction improve to > 50%;\nEfficient: ejection fraction improved;\nInefficient: ejection fraction same as before treatment;\nExacerbation: ejection fraction declined.",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Single therapy effectiveness evaluation",
+            "SecondaryOutcomeDescription": "Evaluate criteria:\n\nRecovery: symptoms disappear\nExcellent: symptoms improved obviously\nEfficient: symptoms improved\nInefficient: symptoms no change or worse",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nvolunteer to participate in clinical trial, and sign informed consent form\nwith cardiac failure symptoms, including oppression in chest, breathe hard, lower limb edema. And new york heart association class as two to four\nheart color ultrasound indicate left ventricular ejection fraction (LVEF) < 40%\ncontent of serum NT-proBNP > 450pg/ml\n\nExclusion Criteria:\n\nwith severe drug allergy history or allergic constitution\npatients were severe infected\nwith malignant tumor or with high tumor marker\nwith severe cardiorespiratory dysfunction, hematological system disease\nwith severe mental disorder, cognitive impairment\nwith persistent atrial fibrillation, valvular heart disease, dilated cardiomyopathy, hypertrophic cardiomyopathy or restrictive cardiomyopathy patients\nend-stage renal insufficiency, pregnancy, or breast feeding women\nbleeding tendency, active gastrointestinal ulcer\nrecent have major surgery, stroke, cancer, hepatic function insufficiency or other life-threatening condition.\nunder other therapy that possibly influence MSC security or efficacy\ndonor: HIV, active hepatitis B/C infection, Syphilitic antibody positive\nparticipant/donor: alcoholism, drug addicted, mental disease",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Nashundalai",
+            "OverallOfficialAffiliation": "Inner Mongolia International Mongolian Hospital",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Lei Guo, Dr.",
+            "OverallOfficialAffiliation": "China-Japan Union Hospital, Jilin University",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Inner Mongolia International Mongolian Hospital",
+            "LocationCity": "Hohhot",
+            "LocationState": "Inner Mongolia",
+            "LocationZip": "010065",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006333",
+            "ConditionMeshTerm": "Heart Failure"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M8573",
+            "ConditionBrowseLeafName": "Heart Failure",
+            "ConditionBrowseLeafAsFound": "Heart Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M2823",
+            "InterventionBrowseLeafName": "Adrenergic beta-Antagonists",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M7936",
+            "InterventionBrowseLeafName": "Furosemide",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M28069",
+            "InterventionBrowseLeafName": "Angiotensin Receptor Antagonists",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3286",
+            "InterventionBrowseLeafName": "Angiotensin-Converting Enzyme Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21096",
+            "InterventionBrowseLeafName": "Milrinone",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "NaAg",
+            "InterventionBrowseBranchName": "Natriuretic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "CaAg",
+            "InterventionBrowseBranchName": "Cardiotonic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "VaDiAg",
+            "InterventionBrowseBranchName": "Vasodilator Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "PlAggInh",
+            "InterventionBrowseBranchName": "Platelet Aggregation Inhibitors"
+          }
+        ]
+      }
+    }
+  }
+}

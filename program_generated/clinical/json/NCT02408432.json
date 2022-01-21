@@ -1,0 +1,295 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02408432",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2014-0519"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "NCI-2015-00969",
+            "SecondaryIdType": "Registry Identifier",
+            "SecondaryIdDomain": "CTRP (Clinical Trial Reporting Program)"
+          },
+          {
+            "SecondaryId": "2014-0519",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "M D Anderson Cancer Center"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "M.D. Anderson Cancer Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Bone Marrow Derived Mesenchymal Stem Cells in Improving Heart Function in Patients With Heart Failure Caused by Anthracyclines",
+      "OfficialTitle": "Intravenous Administration of Allogeneic Bone Marrow Derived Multipotent Mesenchymal Stromal Cells (MSCs) in Patients With Recent Onset Anthracycline-Associated Cardiomyopathy"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 11, 2016",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 8, 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 8, 2021",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "March 31, 2015",
+      "StudyFirstSubmitQCDate": "April 2, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 3, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "December 20, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 21, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "M.D. Anderson Cancer Center",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "National Cancer Institute (NCI)",
+            "CollaboratorClass": "NIH"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This randomized pilot phase I trial studies the side effects and best method of delivery of bone marrow derived mesenchymal stem cells (MSCs) in improving heart function in patients with heart failure caused by anthracyclines (a type of chemotherapy drug used in cancer treatment). MSCs are a type of stem cell that can be removed from bone marrow and grown into many different cell types that can be used to treat cancer and other diseases, such as heart failure. Bone marrow derived MSCs may promote heart muscle cells repair and lead to reverse remodeling and ultimately improve heart function and decrease morbidity and mortality from progression to advanced heart failure.",
+      "DetailedDescription": "PRIMARY OBJECTIVES:\n\nI. To demonstrate the safety of allogeneic human mesenchymal stem cells (hMSCs) administered by intravenous infusion in patients with left ventricular (LV) dysfunction and heart failure secondary to chemotherapy with anthracyclines.\n\nSECONDARY OBJECTIVES:\n\nI. To demonstrate the efficacy of allogeneic hMSCs administered by intravenous infusion in patients with left ventricular dysfunction (left ventricular ejection fraction [LVEF] < 40%) and heart failure secondary to treatment with anthracyclines.\n\nOUTLINE: Patients are randomized to 1 of 2 treatment arms.\n\nARM I: Patients receive allogeneic hMSCs intravenously (IV) over 10-20 minutes once weekly for 4 weeks and standard of care drugs for heart failure.\n\nARM II: Patients receive only standard of care drugs for heart failure.\n\nAfter completion of study treatment, patients are followed up monthly for 6 months and then at 12 months."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Cardiomyopathy",
+          "Heart Failure"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "45",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Arm I (hMSCs)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients receive allogeneic hMSCs IV over 10-20 minutes once weekly for 4 weeks and standard of care drugs for heart failure.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Mesenchymal Stem Cell Transplantation",
+                "Drug: Standard of Care for Heart Failure"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Arm II (standard of care drugs)",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patients receive only standard of care drugs for heart failure.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Standard of Care for Heart Failure"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Mesenchymal Stem Cell Transplantation",
+            "InterventionDescription": "Undergo mesenchymal stem cell infusion Drug: Standard of Care for Heart Failure Both groups will also receive standard of care drugs for heart failure. The study doctor will tell you which drugs you are taking, their risks, and when you should take them.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm I (hMSCs)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Standard of Care for Heart Failure",
+            "InterventionDescription": "Both groups will also receive standard of care drugs for heart failure. The study doctor will tell you which drugs you are taking, their risks, and when you should take them.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm I (hMSCs)",
+                "Arm II (standard of care drugs)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Adverse Events of Allogeneic Human Mesenchymal Stem Cells (hMSCs) Determined by CTCAE version 4",
+            "PrimaryOutcomeDescription": "90% criterion achieved if the first 2 patients on investigational arm die and the single patient assigned to the control arm is still alive. It will also be achieved if 4 of the first 10 investigational patients die and with no deaths among the 5 patients on the control arm; however, the probability of an increased death rate would be less than 90% if 1 of the 5 control patients had died. As a third example, the 90% criterion would be achieved should there be 7 deaths of 20 investigational patients and 1 death of 10 control patients, but not if there had been 6 deaths among the 20 investigational patients. Statistical analyses of safety will be descriptive.",
+            "PrimaryOutcomeTimeFrame": "Up to 6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change in Left Ventricular Ejection Fraction (LVEF)",
+            "SecondaryOutcomeDescription": "Change in left ventricular dysfunction (LVEF) from baseline toa 6 months after randomization, expressed as a percentage. The comparison will be between the two groups of patients.",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with LVEF =< 40% from treatment with anthracyclines for all malignancies at any dose at any time without evidence of other causes of cardiomyopathy\nDocumented New York Heart Association (NYHA) class I, II and III\nBeen treated with appropriate maximal medical therapy for heart failure\nAble to perform 6 minute walk test\nPatient or legally authorized representative able to sign informed consent\nPatients with persistent LV dysfunction 90 days after discontinuation of trastuzumab\n\nExclusion Criteria:\n\nEvidence of ischemic heart disease as determined by study cardiologist\nSignificant valvular disease; (aortic stenosis [AS] with aortic valve area [AVA] < 1.5 and severe aortic regurgitation [AR] and mitral regurgitation [MR])\nHistory of familial cardiomyopathy\nRecent documented myocarditis within 2 months of consent\nHistory of infiltrative cardiomyopathy or restrictive cardiomyopathy\nEpidermal growth factor receptor (eGFR) < 50 by Mayo or Cockcroft formula\nLiver function tests > 3 x upper limit of normal\nNYHA class IV heart failure\nInotropic dependence\nUnstable or life-threatening arrhythmia\nCoagulopathy international normalized ratio (INR) > 1.5\nMechanical or bioprosthetic heart valve\nCardiogenic shock\nBreast feeding and/or pregnant women\nAutoimmune disorders on current immunosuppressive therapy\nActive infection not responding to appropriate therapy as determined by study chair\nTrastuzumab treatment within the last 3 months",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Amanda Olson",
+            "OverallOfficialAffiliation": "M.D. Anderson Cancer Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "M D Anderson Cancer Center",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77030",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "MD Anderson Cancer Center Website",
+            "SeeAlsoLinkURL": "http://www.mdanderson.org"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006333",
+            "ConditionMeshTerm": "Heart Failure"
+          },
+          {
+            "ConditionMeshId": "D000009202",
+            "ConditionMeshTerm": "Cardiomyopathies"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M8573",
+            "ConditionBrowseLeafName": "Heart Failure",
+            "ConditionBrowseLeafAsFound": "Heart Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11306",
+            "ConditionBrowseLeafName": "Cardiomyopathies",
+            "ConditionBrowseLeafAsFound": "Cardiomyopathy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

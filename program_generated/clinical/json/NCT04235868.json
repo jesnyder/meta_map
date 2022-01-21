@@ -1,0 +1,300 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04235868",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MP-01"
+      },
+      "Organization": {
+        "OrgFullName": "Chinese PLA General Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cell-derived Pleiotropic Factor in Treating Non-healing Wounds",
+      "OfficialTitle": "Clinical Trial of Mesenchymal Stem Cell-derived Pleiotropic Factor in Treating Non-healing Wounds"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 20, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 30, 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 30, 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 16, 2020",
+      "StudyFirstSubmitQCDate": "January 18, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 22, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "May 9, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 12, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Xiaobing Fu",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Chinese PLA General Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Chinese PLA General Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Chronic wounds do not heal for prolonged periods of time with the significant financial burden on the healthcare system. It has become increasingly essential to improve our clinical treatments. The most promising potential treatment options rely on stem cell-based therapies. A large body of evidence indicates that mesenchymal stem cells can promote wound closure of chronic wounds in animal models and in preclinical studies. MSCs efficacy depends mostly on their paracrine activity. All the bioactive factors and cytokines in MSCs secretions constitute can be collected in the conditioned medium. In here, stem cell-derived conditioned medium was further made into a lyophilized powder. Patients with chronic wounds were enrolled. The wounds in control group treated with fibroblast growth factor commonly used in clinical practice. The wounds in experimental group treated with lyophilized powder. The effectiveness and safety of lyophilized powder will evaluate for chronic wounds."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Mesenchymal Stem Cell-derived Bioactivator for Treating Chronic Wounds"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "control group",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: fibroblast growth factor"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "experimental group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Stem cell-derived derived pleiotropic factor"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Stem cell-derived derived pleiotropic factor",
+            "InterventionDescription": "After debridement, the wounds in experimental group apply stem cell-derived lyophilized powder, and use foam dressing to wrap the wound; apply once every 2-3 days.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "experimental group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "fibroblast growth factor",
+            "InterventionDescription": "After debridement, the wounds in control group apply fibroblast growth factor to the wound surface, and use foam dressing to wrap the wound; apply once every 2-3 days.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "control group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "wound healing rate",
+            "PrimaryOutcomeDescription": "Original wound area minus unhealed wound area then divided by original wound area",
+            "PrimaryOutcomeTimeFrame": "1 month"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nClinical diagnosis of chronic wounds; Male or female over 17; Psychologically stable and able to complete the experimental process. -\n\nExclusion Criteria:\n\nwound greater than 10cm ×10cm; Exposure to radiation or use of hormones, chemotherapy, growth factor dressings and immunosuppressants within 3 months; Participated in other similar tests within 3 months; Pregnant, or lactating women; Severe infectious disease; Severe heart, liver, and kidney dysfunction; Had a history of cancer -",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Meirong Li, doctor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "010-66936345",
+            "CentralContactEMail": "meirong811225@126.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Xiaobing Fu, doctor",
+            "OverallOfficialAffiliation": "Chinese PLA General Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Chinese PLA General Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Beijing",
+            "LocationZip": "100853",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Meirong Li, doctor",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "01066936345"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "Need to contact the researcher and open sharing after the researcher's consent",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Study Protocol"
+        ]
+      },
+      "IPDSharingTimeFrame": "One year after the experiment",
+      "IPDSharingAccessCriteria": "The way of sharing IPD has not yet been determined"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000014947",
+            "ConditionMeshTerm": "Wounds and Injuries"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafAsFound": "Wound",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000008934",
+            "InterventionMeshTerm": "Mitogens"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000050258",
+            "InterventionAncestorTerm": "Mitosis Modulators"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M11052",
+            "InterventionBrowseLeafName": "Mitogens",
+            "InterventionBrowseLeafAsFound": "Outpatient",
+            "InterventionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

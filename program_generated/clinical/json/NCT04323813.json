@@ -1,0 +1,406 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04323813",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "EMT CRC 1.1"
+      },
+      "Organization": {
+        "OrgFullName": "Istituto Clinico Humanitas",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "\"High Levels of EMT-TFs for the Diagnosis of Colorectal Cancer (CRC)\"",
+      "OfficialTitle": "\"High Levels of EMT-TFs for the Diagnosis of Colorectal Cancer (CRC)\""
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 1, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 19, 2019",
+      "StudyFirstSubmitQCDate": "March 24, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 27, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "March 24, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 27, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Istituto Clinico Humanitas",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Cliniche Gavazzeni spa - Bergamo (BG)",
+            "CollaboratorClass": "UNKNOWN"
+          },
+          {
+            "CollaboratorName": "Istituto Clinico Mater Domini - Castellanza (VA)",
+            "CollaboratorClass": "UNKNOWN"
+          },
+          {
+            "CollaboratorName": "Humanitas Gradenigo - Torino",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The present study is aimed at detecting and measuring mRNA levels of genes involved in epithelial to mesenchymal transition (EMT) in biological samples, i.e. in peripheral blood samples of colorectal cancer (CRC) patients and healthy controls, to determine the presence of disease, its progression and risk of recurrence.",
+      "DetailedDescription": "The investigators first provided evidence that human colorectal cancer (CRC) cells can undergo EMT during local invasion, and that EMT transcription factors (i.e.Twist family basic helix-loop-helix transcription factor 1 (TWIST1)) are increased in the blood of CRC patients. In addressing the relevance of EMT in the metastatic process, the prognostic role of M-like cancer cells entering into the circulation remains to be determined.\n\nCurrently, the notion that cancer disseminates via the circulation led to increased attention on the identification of circulating tumor cells (CTCs) in blood samples (\"liquid biopsy\"; LB), so far mostly based upon epithelial (E) markers. However, an un-biased evaluation of CTCs, providing meaningful information for cancer diagnosis up to therapy, cannot exclude cells with M features. LB data show that circulating TWIST1 mRNAs are significantly and steadily increased in the blood of CRC patients. These findings indicate that EMT players in the circulation change during different phases of CRC progression.\n\nThe present study is aimed at detecting and measuring messenger ribonucleic acid (mRNA) levels of genes involved in epithelial to mesenchymal transition in biological samples, i.e. in peripheral blood samples of tumor patients, to determine the presence of disease, its progression and possibly the risk of recurrence, even in patients who will be treated with adjuvant therapy on clinical ground.\n\nAim of this study is to depict the molecular profile of EMT transcription factor (EMT-TFs) variations in the blood of patients with early, intermediate or advanced CRC, with respect to disease progression and delivered treatments.\n\nPrimary endpoint: To determ the stage, the remission or the progression of a colorectal cancer in a colorectal cancer affected subject not administered with an appropriate antitumor treatment (e.g., neo-adjuvant therapy) comprising the step of assaying a biological sample from said subject for the presence of a panel of mRNAs encoding for transcription factors involved in epithelial to mesenchymal transition.\n\nSecondary endpoint: To identify biomarkers suitable for the selection of patients amenable of responsiveness to medical and surgical treatment."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Colorectal Cancer"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Epithelial to Mesenchymal Transition",
+          "EMT",
+          "CRC",
+          "mRNA",
+          "EMT-TF",
+          "Diagnosis",
+          "Biomarkers",
+          "Liquid biopsy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Control"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples Without DNA",
+        "BioSpecDescription": "mRNA from whole blood"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "900",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Cases",
+            "ArmGroupDescription": "CRC patients: primary, Stage I-IV (localized, node negative or node positive) colon carcinoma confirmed by tissue biopsy, and patients with advanced adenoma (including high-grade dysplasia, HGD).",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Liquid biopsy"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Controls",
+            "ArmGroupDescription": "Controls subjects as well as healthy clean colonoscopy subjects or with hyperplastic polyps, and healthy subjects with diminutive adenoma-low grade dysplasia (LGD) and with inflammatory bowel disease (IBD).",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Liquid biopsy"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "Liquid biopsy",
+            "InterventionDescription": "Detection and quantification of EMT-transcription factor mRNA levels in blood",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cases",
+                "Controls"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Assessments of diagnosis of CRC by EMT-TF mRNA levels in blood",
+            "PrimaryOutcomeDescription": "To determine the stage, the remission or the progression of a colorectal cancer in a colorectal cancer affected subject not administered with an appropriate antitumor treatment (e.g., neo-adjuvant therapy) comprising the step of assaying a biological sample from said subject for the presence of a panel of mRNAs encoding for transcription factors involved in epithelial to mesenchymal transition.",
+            "PrimaryOutcomeTimeFrame": "Analysis at day 0: at diagnosis or before surgery for CRC patients; before colonoscopy in controls"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Prediction of prognosis of CRC by EMT-TF mRNA levels in blood",
+            "SecondaryOutcomeDescription": "To identify biomarkers suitable for the selection of CRC patients amenable of responsiveness to medical and surgical treatment.",
+            "SecondaryOutcomeTimeFrame": "Analysis at least: 7-15 days from surgery (T1), 30 days (T2) from surgery, 6 months (T3) from surgery, 1 year (T4) from surgery"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMales or females over 18 years of age capable of providing informed consent.\nPrimary, Stage I-IV [localized, node negative or node positive] colon carcinoma confirmed by tissue biopsy or colon mass, clinically consistent with cancer and eventually confirmed by pathology.\nPatients free from other neoplastic disease and related chemo / radio / adjuvant or neo-adjuvant therapies for at least 5 years, with documented complete remission.\nControls subjects as well as healthy clean colonoscopy subjects or with hyperplastic polyps, and healthy subjects with low grade dysplasia (LGD) and high grade dysplasia (HGD) and with inflammatory bowel disease (IBD)\n\nExclusion Criteria:\n\nPatients under the age of 18 years or over the age of 80 years.\nPatients unwilling to or unable to give informed consent.\nPatients with a new metacrone tumor (post-operative for previous CRC resection within 5 years before study enrollment).\nPatients who are undergoing to \"sandwich\" surgery between two chemotherapeutic treatments\nPatients diagnosed with invasive cancer of other organs within 5 years before study enrollment .\nPatients with acute inflammatory diseases or under any emergency condition.\nPregnant women.",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "This is a multicenter, prospective cohort study of molecular screening for primary colon cancer. The main objectives of the trial are:\n\nTo develop a specific and reproducible assay for the detection colorectal cancer based on blood RNA and to amplify cancer-specific molecular markers using RT-PCR.\nTo correlate the presence of molecular markers in the samples with the presence of colon cancer or pre-cancerous lesions.\nTo add additional biomarkers to the study panel of biomarkers.",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Luigi AG Laghi, MD, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "02 8224",
+            "CentralContactPhoneExt": "4572",
+            "CentralContactEMail": "luigi.laghi@humanitas.it"
+          },
+          {
+            "CentralContactName": "Luana Greco, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactEMail": "luana.greco@humanitasresearch.it"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Luigi AG Laghi, MD, PhD",
+            "OverallOfficialAffiliation": "Humanitas Clinical Institute",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Istituto Clinico Humanitas",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Rozzano",
+            "LocationState": "Milano",
+            "LocationZip": "20089",
+            "LocationCountry": "Italy",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Laghi AG Luigi, MD, PhD",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "23684708",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Celesti G, Di Caro G, Bianchi P, Grizzi F, Basso G, Marchesi F, Doni A, Marra G, Roncalli M, Mantovani A, Malesci A, Laghi L. Presence of Twist1-positive neoplastic cells in the stroma of chromosome-unstable colorectal tumors. Gastroenterology. 2013 Sep;145(3):647-57.e15. doi: 10.1053/j.gastro.2013.05.011. Epub 2013 May 15."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No",
+      "IPDSharingDescription": "Data patent covered. No. Patent: EP13197367.9 - December 16, 2013"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000015179",
+            "ConditionMeshTerm": "Colorectal Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007414",
+            "ConditionAncestorTerm": "Intestinal Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000005770",
+            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004067",
+            "ConditionAncestorTerm": "Digestive System Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003108",
+            "ConditionAncestorTerm": "Colonic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007410",
+            "ConditionAncestorTerm": "Intestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012002",
+            "ConditionAncestorTerm": "Rectal Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M17042",
+            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+            "ConditionBrowseLeafAsFound": "Colorectal Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9600",
+            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8038",
+            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6408",
+            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5488",
+            "ConditionBrowseLeafName": "Colonic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9596",
+            "ConditionBrowseLeafName": "Intestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13996",
+            "ConditionBrowseLeafName": "Rectal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "T120",
+            "InterventionBrowseLeafName": "Cola",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "HB",
+            "InterventionBrowseBranchName": "Herbal and Botanical"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

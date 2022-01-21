@@ -1,0 +1,413 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02940977",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "XH-16-028"
+      },
+      "Organization": {
+        "OrgFullName": "Xinhua Hospital, Shanghai Jiao Tong University School of Medicine",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Establishment and Clinical Assessment of a Prostate Cancer (PCa) Risk Model Based on the Updated Circulating Tumor Cell (CTC) Detection Technique",
+      "OfficialTitle": "Establishment and Clinical Assessment of a Prostate Cancer (PCa) Risk Model Based on the Updated Circulating Tumor Cell (CTC) Detection Technique"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2018",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 1, 2016",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 30, 2019",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 30, 2019",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 18, 2016",
+      "StudyFirstSubmitQCDate": "October 19, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 21, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "July 8, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 10, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Jun Qi",
+        "ResponsiblePartyInvestigatorTitle": "Head of the Urology Department",
+        "ResponsiblePartyInvestigatorAffiliation": "Xinhua Hospital, Shanghai Jiao Tong University School of Medicine"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Xinhua Hospital, Shanghai Jiao Tong University School of Medicine",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Shanghai Shen Kang Hospital Development Center",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "To elucidate the role of CTC detection in the evaluation of risk level in PCa patients, and establish a mathematic model for predicting the pathological status.\nTo explore the possible subtle change in CTC condition after radical prostatectomy.",
+      "DetailedDescription": "Detect and evaluate the CTC status (a total of 3 times: 1 day before sugery, 3/12 months after surgery) for all of the PCa patients enrolled. Analyze the CTC result with PSA level, needle biopsy and radiological imaging information.\nAnalyze the difference in CTC amount/Epithelial-Mesenchymal ratio between patients in different D'Amico risk level(low/intermediate/high).\nEstablish a mathematic model based on the CTC results and pathological condition observed in operation (OC, organ confined; EPE, extraprostatic extension; SVI, seminal vesicle invasion; LNI, lymph node invasion), and compare this model with the latest version of Partin table.\nDetect and compare the CTC and PSA level 3/12 months after surgery. Evaluate the radiological condition in 12 months after blood draw."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Prostatic Neoplasms",
+          "Prostatic Adenoma"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Circulating tumor cell",
+          "Epithelial to mesenchymal transition",
+          "Prostate specific antigen (PSA)",
+          "Partin table"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Only"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "Fresh blood 5 ml *2"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "120",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Prostate cancer patients",
+            "ArmGroupDescription": "Patients diagnosed with prostate cancer, confirmed with needle biopsy, and suitable for radical prostatectomy, and have not received any treatments before.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Blood draws"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Blood draws",
+            "InterventionDescription": "Blood draws, from peripheral veins, each time 2 tubes, each 5 ml.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Prostate cancer patients"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Circulating tumor cell (CTC) total number and epithelial-intermediate-mesenchymal ratio detected by CTC enrichment and FISH technique",
+            "PrimaryOutcomeDescription": "This step should be completed within the day when the peripheral venous blood is drawn.",
+            "PrimaryOutcomeTimeFrame": "1 day before operation"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Pathological findings (whether the patient has: 1.OC, organ confined; 2.EPE, extraprostatic extension; 3. SVI, seminal vesicle invasion; 4. LNI, lymph node invasion) during the radical prostectomy, confirmed by pathology section result",
+            "PrimaryOutcomeDescription": "The pathology section evaluation will be done by two pathologists independently. A third pathology expert will join to make a final decision if opposite results are given by the two pathologists.",
+            "PrimaryOutcomeTimeFrame": "On the day of operation"
+          },
+          {
+            "PrimaryOutcomeMeasure": "CTC total number and epithelial-intermediate-mesenchymal ratio detected by CTC enrichment and FISH technique",
+            "PrimaryOutcomeDescription": "This step should be completed within the day when the peripheral venous blood is drawn.",
+            "PrimaryOutcomeTimeFrame": "3 months after operation"
+          },
+          {
+            "PrimaryOutcomeMeasure": "CTC total number and epithelial-intermediate-mesenchymal ratio detected by CTC enrichment and FISH technique",
+            "PrimaryOutcomeDescription": "This step should be completed within the day when the peripheral venous blood is drawn.",
+            "PrimaryOutcomeTimeFrame": "12 months after operation"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Prostate specific antigen (PSA) level measurement using peripheral venous blood",
+            "SecondaryOutcomeDescription": "The blood should be drawn together with that for CTC detection",
+            "SecondaryOutcomeTimeFrame": "3 months after operation"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Prostate specific antigen (PSA) level measurement using peripheral venous blood",
+            "SecondaryOutcomeDescription": "The blood should be drawn together with that for CTC detection",
+            "SecondaryOutcomeTimeFrame": "6 months after operation"
+          },
+          {
+            "SecondaryOutcomeMeasure": "PSA level measurement using peripheral venous blood",
+            "SecondaryOutcomeDescription": "The blood should be drawn together with that for CTC detection",
+            "SecondaryOutcomeTimeFrame": "9 months after operation"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Radiological evaluation including isotope bone scanning and pelvic magnetic resonance imaging (MRI) scan",
+            "SecondaryOutcomeDescription": "Radiological evaluation should be conducted after the blood is drawn for CTC and PSA detection.",
+            "SecondaryOutcomeTimeFrame": "12 months after operation"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnosed with PCa by biopsy, for the first time.\nClinical assessed suitable for radical prostatectomy\nAge ≥ 18 years, able to provide written informed consent\nNo prior systematic or regional treatment for PCa.\nNo neuro-endocrine differentiation or small cell PCa pattern.\nECOG status 0-1\nExpected life span ≥ 12 months.\nMultiorgan function (heart, lung, liver, kidney) able to tolerate radical prostatectomy, and meet the standard of this study.\n\nExclusion Criteria:\n\nSevere concomitant disease or infection.\nALT or AST > 2.5 ULN, or total bilirubin > 1.5 ULN; Creatinine >177umol/L(2.5mg/dL)；Plt < 100,000/uL, Neutrophil <1,500/uL.\nKnown or suspected brain metastasis or leptomeningeal carcinomatosis.\nAnother malignancy in the last 5 years, excluding completely cured melanoma.\n\nSevere cardiovascular disease, including:\n\nMyocardial infarct within 6 months; Uncontrolled angina pectoris within 3 months; Congestive heart failure; Ventricular arrhythmia history with clinical significance; Morbiz type Ⅱ or complete heart block\n\nMajor surgery (general anesthesia) within 4 weeks.",
+      "HealthyVolunteers": "No",
+      "Gender": "Male",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Patients diagnosed with prostate cancer, confirmed with needle biopsy, and suitable for radical prostatectomy, and have not received any treatments before.",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Jun Qi, MD.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "021-20578080",
+            "CentralContactEMail": "jasonqi@sh163.net"
+          },
+          {
+            "CentralContactName": "Jie Ding, MD.; Postdoc.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+8613564315425",
+            "CentralContactEMail": "769233885@qq.com"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Xin Hua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Shanghai",
+            "LocationState": "Shanghai",
+            "LocationZip": "200092",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Jun Qi, MD.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+86-021-25078080",
+                  "LocationContactEMail": "qijun@xinhuamed.com.cn"
+                },
+                {
+                  "LocationContactName": "Jun Qi, MD.",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000011471",
+            "ConditionMeshTerm": "Prostatic Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000000236",
+            "ConditionMeshTerm": "Adenoma"
+          },
+          {
+            "ConditionMeshId": "D000009360",
+            "ConditionMeshTerm": "Neoplastic Cells, Circulating"
+          },
+          {
+            "ConditionMeshId": "D000011470",
+            "ConditionMeshTerm": "Prostatic Hyperplasia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000005834",
+            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+          },
+          {
+            "ConditionAncestorId": "D000014565",
+            "ConditionAncestorTerm": "Urogenital Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000011469",
+            "ConditionAncestorTerm": "Prostatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009375",
+            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009362",
+            "ConditionAncestorTerm": "Neoplasm Metastasis"
+          },
+          {
+            "ConditionAncestorId": "D000009385",
+            "ConditionAncestorTerm": "Neoplastic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M13487",
+            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+            "ConditionBrowseLeafAsFound": "Prostatic Neoplasms",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11457",
+            "ConditionBrowseLeafName": "Neoplastic Cells, Circulating",
+            "ConditionBrowseLeafAsFound": "Circulating Tumor Cells",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2743",
+            "ConditionBrowseLeafName": "Adenoma",
+            "ConditionBrowseLeafAsFound": "Adenoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13486",
+            "ConditionBrowseLeafName": "Prostatic Hyperplasia",
+            "ConditionBrowseLeafAsFound": "Prostatic Adenoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9168",
+            "ConditionBrowseLeafName": "Hyperplasia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8098",
+            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16467",
+            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13485",
+            "ConditionBrowseLeafName": "Prostatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11472",
+            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11459",
+            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11482",
+            "ConditionBrowseLeafName": "Neoplastic Processes",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

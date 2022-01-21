@@ -1,0 +1,446 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02687724",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "UCDCRC/15/007"
+      },
+      "Organization": {
+        "OrgFullName": "University College Dublin",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Golimumab (GLM) Dose Optimisation to Adequate Levels to Achieve Response in Colitis",
+      "OfficialTitle": "GLM Dose Optimisation to Adequate Levels to Achieve Response in Colitis (GOAL-ARC). A Nationwide Multi-centred Randomised Controlled Trial (RCT) Investigating the Use of GLM Dose Adjustment in Ulcerative Colitis (UC).",
+      "Acronym": "GOAL-ARC"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2018",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 2016"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "February 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "February 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "February 16, 2016",
+      "StudyFirstSubmitQCDate": "February 19, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "February 22, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "July 18, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 19, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University College Dublin",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "GLM dose Optimisation to Adequate Levels to Achieve Response in Colitis (GOAL-ARC). A nationwide multi-centred randomised controlled trial (RCT) investigating the use of GLM dose adjustment in ulcerative colitis (UC). The primary objective is to ascertain if dose adjustment of GLM based on GLM drug levels and FCP levels results in higher response and remission rates than standard SmPC dosing.",
+      "DetailedDescription": "UC is a chronic inflammatory bowel disease (IBD) in which the lining of the large intestine become inflamed. There is no official database which gives accurate figures but it is thought that at least 20,000 people are living with IBD in Ireland. Males and females are affected equally and patients can be diagnosed at any age, including babies and children. The peak age of incidence is between the ages of 15 and 35, with a second (smaller) peak from the 50s to 70s.\n\nGLM is a human IgG1κ monoclonal antibody produced by a murine hybridoma cell line with recombinant DNA technology. It is part of the immunosuppressants pharmacotherapeutic group of TNF-α inhibitors. It is licensed for use in several chronic inflammatory conditions including UC, Psoriatic arthritis, axial spondylitis, rheumatoid arthritis.\n\nThe design of GOAL-ARC aims to address the impact of dose escalation of GLM immediately following induction and during the subsequent maintenance phase in response to suboptimal drugs levels or persisting inflammatory burden as represented by raised faecal calprotectin (FCP). FCP has been shown to correlate closely to endoscopic disease activity6."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Colitis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 4"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "136",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Standard treatment as per SmPC",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patients will receive standard loading dose of GLM of 200/100 mgs at WKS 0 & 2. They will then receive 100mgs/ 50mgs depending on their weight as per SmPC. Patients will report their modified partial mayo score and SHS score every 4 weeks (PRO) and provide it to the investigator site via a web based application.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Golimumab (GLM)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Intervention Arm",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients will receive standard loading dose of GLM of 200/100 mgs at WKS 0 & 2. As with Group 1, Patients will report their modified partial mayo and SHS score every four weeks ( the window for this will be +/- one week) and provide it to the investigator site via a web based application. In addition FCP, GLM DL and ADA shall be measured every four weeks.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Golimumab (GLM)"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Golimumab (GLM)",
+            "InterventionDescription": "GLM is a human IgG1κ monoclonal antibody produced by a murine hybridoma cell line with recombinant DNA technology",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Intervention Arm",
+                "Standard treatment as per SmPC"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Patient Continuous Clinical Response (pCCR)",
+            "PrimaryOutcomeDescription": "Absence of clinical flare, defined as an increase in modified partial Mayo score of 2 points value with accompanying requirement for treatment intervention",
+            "PrimaryOutcomeTimeFrame": "Wk 14 through to Wk 46"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Total Mayo Score",
+            "SecondaryOutcomeDescription": "The Total Mayo Score is a combined endoscopic and clinical scale used to assess the severity of UC. It is a composite of sub-scores from four categories, including stool frequency, rectal bleeding, findings at endoscopy and physician global assessment (PGA), with a total score ranging from 0 - 12.",
+            "SecondaryOutcomeTimeFrame": "Week 1, Week 46"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Partial Mayo Score",
+            "SecondaryOutcomeDescription": "Partial Mayo score consists of three subscores including stool frequency, rectal bleeding and PGA, a total score ranges from 0 - 9.",
+            "SecondaryOutcomeTimeFrame": "Week 14"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Modified Partial Mayo Score",
+            "SecondaryOutcomeDescription": "A modified partial Mayo score comprises of the two PRO sub-scores, rectal bleeding and stool frequency",
+            "SecondaryOutcomeTimeFrame": "Week 1 to Week 46"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Week 14 Clinical Response",
+            "SecondaryOutcomeDescription": "A decrease from BL in partial Mayo score by ≥30% or a decrease of 3 points. or A decrease from BL in modified partial Mayo of 2 points or a decrease of ≥30% from baseline.",
+            "SecondaryOutcomeTimeFrame": "Week 14"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinical Remission",
+            "SecondaryOutcomeDescription": "Clinical remission is defined as a Mayo score ≤2 points, with no individual sub-score >1.",
+            "SecondaryOutcomeTimeFrame": "Week 46"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinical Flare",
+            "SecondaryOutcomeDescription": "UC symptom recurrence as a defined by modified partial Mayo score increase of 2 points from week 14 value with accompanying requirement for treatment intervention",
+            "SecondaryOutcomeTimeFrame": "Week 14 to Week 46"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Corticosteroid Free Remission",
+            "SecondaryOutcomeDescription": "Clinical remission at WK 46 with no concomitant steroids",
+            "SecondaryOutcomeTimeFrame": "Week 46"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Mucosal healing",
+            "SecondaryOutcomeDescription": "A Mayo endoscopic subscore of 0 or 1",
+            "SecondaryOutcomeTimeFrame": "Week 46"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients ≥ 18 years of age\nSubjects must be able and willing to give written informed consent and to comply with the requirements of this study protocol\nEstablished diagnosis of UC and moderate-to-severe disease activity, defined as a Mayo score of 6-12, with an endoscopic subscore ≥2.\nPatients had an inadequate response to, or had failed to tolerate, 1 or more of the following conventional therapies: oral 5-aminosalicylates, oral corticosteroids, azathioprine (AZA), and/or 6-mercaptopurine (6MP); or corticosteroid dependent (ie, an inability to taper corticosteroids without recurrence of UC symptoms).\nPatients concurrently treated with oral 5-aminosalicylates or corticosteroids were to receive a stable dose for at least 2 weeks before baseline, and patients receiving AZA and/or 6MP were to receive a stable dose for at least 4 weeks before baseline. Patients were required to maintain stable doses of their concomitant UC medications during the study.\nFemale subjects of child bearing potential must be willing to ensure that they or their partner use effective contraception during the study and for 6 months thereafter OR\nSurgical sterilized female patients with documentation of prior hysterectomy, tubal ligation or complete bilateral oophorectomy OR\nPostmenopausal women with postmenopausal defined as permanent cessation >1 year of previously occurring menses.\nFemale subjects' serum pregnancy test performed at the screening visit and urine pregnancy test performed at the baseline visit must be negative.\nSubjects have following investigations within 1 month prior to enrolment.\nRoutine bloods including U&E, FBC, LFTs, inflammatory markers (CRP) and albumin will be measured.\nMedical history, concomitant medications\nIntradermal reaction to Tuberculin (PPD skin test) or Mycobacterium tuberculosis antigenspecific interferon-gamma release assay (IGRA)\nTB screening: chest X-Ray unless performed in the last 6 months\nStool examination for enteric pathogens including Clostridium difficile\nInclusion/exclusion criteria\nInformed consent\nMayo score (including sigmoidoscopy unless performed in previous 3 months)\nPatient's weight and height and abdominal circumference\n\nExclusion Criteria:\n\nFemale subjects who are pregnant or breast-feeding or considering becoming pregnant during the study\nPatients aged <18 years of age\nPatients who cannot give informed consent,\nPregnant patients or those who are breastfeeding will be deemed ineligible.\nPrior treatment with any anti-TNF agent\nContra-indication to use of GLM (Hypersensitivity to the active substance or to any of the excipients; Active tuberculosis (TB), acute or chronic Hepatitis B infection or other severe infections such as sepsis and/or opportunistic infections including HIV infection; Moderate or severe heart failure (NYHA class III/IV)\nHave symptoms or signs suggestive of current active or latent TB upon medical history, physical examination and/or chest radiograph, or positive Mycobacterium tuberculosis antigen-specific interferon-gamma release assay (IGRA)\nPatients with a history of, or at imminent risk for, colectomy; who required gastrointestinal surgery within 2 months before screening;\nHistory of colonic mucosal dysplasia or adenomatous colonic polyps that were not removed\nScreening stool study positive for enteric pathogens or Clostridium difficile toxin.\nOral corticosteroids at a dose >40 mg prednisone or its equivalent per day; receipt of cyclosporine, tacrolimus, sirolimus, or mycophenolate mofetil within 8 weeks before the first study agent injection; or use of an investigational agent within 5 half-lives of that agent before the first study agent injection.\nPatients in recent receipt of live vaccinations within 4 weeks prior to enrolment",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Peter Doran, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactEMail": "peter.doran@ucd.ie"
+          },
+          {
+            "CentralContactName": "Rabia Hussain",
+            "CentralContactRole": "Contact",
+            "CentralContactEMail": "rabia.hussain@ucd.ie"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Glen Doherty",
+            "OverallOfficialAffiliation": "g.doherty@st-vincents.ie",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "St Vincent's University Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Dublin",
+            "LocationCountry": "Ireland",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Glen Doherty",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "g.doherty@st-vincents.ie"
+                },
+                {
+                  "LocationContactName": "Glen Doherty",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003092",
+            "ConditionMeshTerm": "Colitis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000005759",
+            "ConditionAncestorTerm": "Gastroenteritis"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003108",
+            "ConditionAncestorTerm": "Colonic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007410",
+            "ConditionAncestorTerm": "Intestinal Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M16358",
+            "ConditionBrowseLeafName": "Ulcer",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5472",
+            "ConditionBrowseLeafName": "Colitis",
+            "ConditionBrowseLeafAsFound": "Colitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5473",
+            "ConditionBrowseLeafName": "Colitis, Ulcerative",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8027",
+            "ConditionBrowseLeafName": "Gastroenteritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5488",
+            "ConditionBrowseLeafName": "Colonic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9596",
+            "ConditionBrowseLeafName": "Intestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "C000529000",
+            "InterventionMeshTerm": "Golimumab"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000079424",
+            "InterventionAncestorTerm": "Tumor Necrosis Factor Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000000893",
+            "InterventionAncestorTerm": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionAncestorId": "D000007166",
+            "InterventionAncestorTerm": "Immunosuppressive Agents"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3382",
+            "InterventionBrowseLeafName": "Antibodies, Monoclonal",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M150276",
+            "InterventionBrowseLeafName": "Golimumab",
+            "InterventionBrowseLeafAsFound": "Towards",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M1804",
+            "InterventionBrowseLeafName": "Carbamide Peroxide",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2052",
+            "InterventionBrowseLeafName": "Tumor Necrosis Factor Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3369",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9364",
+            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infl",
+            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          }
+        ]
+      }
+    }
+  }
+}

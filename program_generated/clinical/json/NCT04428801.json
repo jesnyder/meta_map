@@ -1,0 +1,441 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04428801",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CTX0020-003"
+      },
+      "Organization": {
+        "OrgFullName": "Celltex Therapeutics Corporation",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Autologous Adipose-derived Stem Cells (AdMSCs) for COVID-19",
+      "OfficialTitle": "Clinical Study for the Prophylactic Efficacy of Autologous Adipose Tissue-Derived Mesenchymal Stem Cells (AdMSCs) Against Coronavirus 2019 (COVID-19)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 8, 2020",
+      "StudyFirstSubmitQCDate": "June 10, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 11, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "July 22, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 23, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Celltex Therapeutics Corporation",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a phase 2 multi-center, double-blind, randomized, placebo-control clinical trial with 200 subjects who have never been infected by COVID-19 (SARS-Cov-2 virus screen test negative, no blood SARS-Cov-2 IgM and IgG antibodies detected during enrollment) followed by a pilot study of 5 subjects to demonstrate the safety of proposed three-dose regimen of autologous AdMSCs infusions. The 100 study subjects who have previously banked their AdMSCs with Celltex, will receive three doses of autologous AdMSCs (approximately 200 million cells) intravenous infusion every three days. The 100 subjects in the control group who have previously banked their AdMSCs with Celltex will not receive any Celltex's AdMSC therapy but placebo treatments. All subjects are monitored for safety (adverse events/severe adverse events), COVID-19 symptoms, SARS-Cov-2 virus test, blood SARS-Cov-2 IgM and IgG antibodies tests, blood cytokine and inflammatory (CRP, IL_6, IL-10, TNFα) tests and disease severity evaluation for 6 months after the last dose of AdMSC infusion for the study group and 6 months after the enrollment for the control group."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID-19"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Autologous Adipose-derived Stem Cells (AdMSCs) for COVID-19 [NCT ID not yet assigned]"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "The Phase 2 study is a randomized, double-blind, placebo-control study conducted in multiple clinic facilities.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignMaskingDescription": "Patients and evaluators",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "200",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Phase 2 AdMSC group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Each subject receives three doses of 200 million autologous adipose derived mesenchymal stem cells via intravenously infusion every three days\n\nOther Names: Celltex-AdMSCs Celltex-AdMSCs",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: autologous adipose-derived stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Phase 2 Placebo group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "The control group- receive three doses of placebo via intravenously infusion every three days.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: autologous adipose-derived stem cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "autologous adipose-derived stem cells",
+            "InterventionDescription": "Culture expanded mesenchymal stem cells isolated from a patient's own abdominal fat tissue",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Phase 2 AdMSC group",
+                "Phase 2 Placebo group"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Celltex-AdMSCs"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Tolerability and acute safety of AdMSC infusion by assessment of the total number of AEs/SAEs related and non-related with the medication",
+            "PrimaryOutcomeDescription": "adverse events and severe adverse events",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "The overall proportion of subjects who develop any AEs/SAEs related and non-related with the AdMSC infusions as compared to the control group",
+            "PrimaryOutcomeDescription": "adverse events and severe adverse events",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "COVID-19 incidence rates in both the study and control groups",
+            "PrimaryOutcomeDescription": "efficacy",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "The proportion of subjects who are infected by SARS-Cov-2 measured by PCR or other nuclear level-based SARS-Cov-2 virus testing in respiratory tract specimens (oropharyngeal samples) collected by oropharyngeal swab using the CDC standard method.",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The proportion of subjects who are infected by SARS-Cov-2 virus develop symptoms including mild, classic, severe and critical sever cases between study group and control group.",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change of proportion of subjects who are infected by SARS-Cov-2 and develop IgM/IgG antibodies against SARS-Cov-2 between study group and control group.",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change of lymphocyte count in white blood cell counts from the baseline",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change of PaO2 arterial blood gases from the baseline",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Compare the proportion of subjects who develop severe COVID-19 pneumonia cases for both study and control groups",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "COVID-19 mortality rates for both study and control groups",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change of C-reactive protein (CRP) (mg/L) from the baseline",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change of D-dimer (mg/L) from the baseline",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change of Procalcitonin (ug)/L from the baseline",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change of pro-type B natriuretic peptide (pro-BNP) (pg/mL) from the baseline",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change of Bilirubin (mg/dL) from the baseline",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change of Creatinine (mg/dL) from the baseline",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in blood test values for cytokine panels (IL-1β, IL-6, IL-8, IL-10, TNFα) from the baseline",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The proportion of subjects from SARS-CoV-2 RT-PCR positive to negativity in respiratory tract specimens (oropharyngeal samples) collected by oropharyngeal swab using the CDC standard method. as compared to control group",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quantifying viral RNA in stool for baseline and final follow-up.",
+            "SecondaryOutcomeDescription": "efficacy",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge above 18 years.\nMale or female\nSubjects should have banked AdMSCs in Celltex (already passed communicable disease screen tests for HIV, syphilis, Hepatitis B and C during banking stage)\nMust understand and voluntarily sign an Informed Consent for study participation obtained prior to undergoing any study-specific procedures\nHighly susceptible to SARS-Cov-2 infections, such as obesity (BMI ≥ 40), early to middle stage of hypertension (systolic pressure ranging above 140 Hg or a diastolic pressure ranging from 90 mm Hg), diabetic mellitus hemoglobin A1c >8%), chronic heart disease (one or more conditions including previously diagnosed as coronary artery disease, chronic heart arrhythmia, cardiomyopathy…) chronic pulmonary disease (COPD, fibrosis), chronic liver disease (Hepatic impairment, defined as any of ALT, AST, LDH or bilirubin > 2 x the upper limit of normal (ULN) range according to local laboratory standards) and kidney diseases (serum creatinine > 133 mmol/L (1.5 mg/dL). No terminal stages of the above medical conditions.\nNo previous COVID-19 history\nSARS-CoV-2 RT-PCR or equivalent tests negative in respiratory tract specimen\nBlood test for SARS-Cov-2 IgM and IgG negative\n\nExclusion Criteria:\n\nParticipation in another clinical study (with use of another Investigational Medical Product) within 3 months prior to study treatment start\nUnwillingness or inability to comply with study procedures\nBlood test for SARS-Cov-2 antibodies IgM and IgG positive\nPatients with serious basic diseases that affect survival, including blood diseases, cachexia, active bleeding, severe malnutrition, etc.\nClinically active malignant disease\nPrevious thrombotic disorder\nHistory of known pulmonary embolism or known secondary anti-phospholipid syndrome\nKnown or suspected hypersensitivity to any components used to culture the AdMSCs, e.g. BSA and sulfur-containing products (e.g., DMSO)\nMajor trauma or surgery within 14 days of study treatment start\nMental condition rendering the subject (or the subject's legally acceptable representative[s]) unable to understand the nature, scope and possible consequences of the study\nAlcohol, drug, or medication abuse within one year prior to study treatment start\nAny condition in the Investigator's opinion that is likely to interfere with evaluation of the AdMSC therapy or satisfactory conduct of the study\nIrreversible severe end-organ failures, such as heart failure/attack, stroke, liver and renal failure due to other disease conditions\nPatients or family history with hypercoagulable states, such as protein C/protein S deficiency, factor V Leiden, prothrombin gene mutation, dysfibrinogenemia, etc.\nHistory of long-term use of immunosuppressive agents\nOrgan transplant in the past 6 months\nPregnant, breastfeeding, or desire to become pregnant or unwilling to practice birth control during participation in the study duration, unless surgically sterilized or postmenopausal during the study\nPatients with severe pulmonary obstructive pneumonia, severe pulmonary interstitial fibrosis, alveolar proteinosis, allergic alveolitis, and other known viral pneumonia or bacterial pneumonia. This includes patients with pulmonary imaging that reveals interstitial lung damage before contracting COVID-19.\nQT interval shows greater than 450 ms in males and 470 ms in females in the medical histories or during screen EKG test.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Sally McGahee",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "7135546847",
+            "CentralContactEMail": "smcgahee@celltexbank.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Derek W Guillory, MD.",
+            "OverallOfficialAffiliation": "Root Causes Medicine",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

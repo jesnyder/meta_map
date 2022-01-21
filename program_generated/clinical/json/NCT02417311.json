@@ -1,0 +1,396 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02417311",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "0174/134/2-1"
+      },
+      "Organization": {
+        "OrgFullName": "Universitätsklinikum Hamburg-Eppendorf",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Individualized Early Risk Assessment for Heart Diseases",
+      "OfficialTitle": "Individualized Early Risk Assessment for Heart Diseases",
+      "Acronym": "IndivuHeart"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2019",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 2014"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2019",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 2019",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "March 16, 2015",
+      "StudyFirstSubmitQCDate": "April 10, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 15, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "April 26, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 29, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Universitätsklinikum Hamburg-Eppendorf",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Heart failure (HF) is the common end-stage of different medical conditions. It is the only growing cardiovascular disease and its prognosis remains worse than that of many malignancies. The lack of evidence-based treatment for patients with diastolic HF (HFpEF) exemplifies that the current \"one for all\" therapy has to be advanced by an individualized approach. Inherited cardiomyopathies can serve as paradigmatic examples of different HF pathogenesis. Both gain- and loss-of-function mutations of the same gene cause disease, calling for disease-specific agonism or antagonism of this gene´s function. However, mutations alone do not predict the severity of cardiomyopathies nor therapy, because their impact on cardiac myocyte function is modified by numerous factors, including the genetic context. Today, patient-specific cardiac myocytes can be evaluated by the induced pluripotent stem cell (hiPSC) technology. Yet, unfolding the true potential of this technology requires robust, quantitative, high content assays. The researchers' recently developed method to generate 3D-engineered heart tissue (EHT) from hiPSC provides an automated, high content analysis of heart muscle function and the response to stressors in the dish. The aim of this project is to make the technology a clinically applicable test. Major steps are (i) in depths clinical phenotyping and genotyping of patients with cardiomyopathies or HFpEF, (ii) follow-up of the clinical course, (iii) generation of hiPSC lines (40 patients, 40 healthy controls), and (iv) quantitative assessment of hiPSC-EHT function under basal conditions and in response to pro-arrhythmic or cardio-active drugs and chronic afterload enhancement. The product of this study is an SOP-based assay with standard values for hiPSC-EHT function/stress responses from healthy volunteers and patients with different heart diseases. The project could change clinical practice and be a step towards individualized risk prediction and therapy of HF.",
+      "DetailedDescription": "At present, heart function in patients can only be analysed by imaging methods or hemodynamic measurements. This has dramatically changed by the discovery that hiPSC can be generated from somatic cells (e.g. fibroblasts) by transduction of pluripotency genes. The investigators and others have shown that pluripotent stem cells can be efficiently differentiated into beating cardiac myocytes. This allows for the first time to study the function of cardiac myocytes from an individual patient. However, at present, only alterations were reproduced in hiPSC cells that were known previously and important limitations have to be resolved:\n\nImmaturity of hiPSC-derived cardiac myocytes\nVariability of hiPSC-generation, cardiac myocyte differentiation and experimental analyses\nNo readout of contractile force, the parameter mostly affected in heart failure\nNo modeling of hemodynamic stress in vitro\nNo statistically valid correlation of hiPSC-cardiac myocyte function with clinical/genetic data\nUncertainty as to standard values and adequate controls\nUnclear predictive value\n\nThe research challenge for the coming years is to resolve these shortcomings. IndivuHeart formulates a number of hypotheses and goals that are based on the researchers' longstanding expertise in tissue engineering and recent, still unpublished data on the pathophysiology of HCM and its modeling in EHT. The study will\n\nreveal standard values for hiPSC-EHT function in a statistically valid manner, both under basal and stress conditions,\ndefine a \"cardiomyopathy phenotype\" in vitro,\nallow new mechanistic insight into the pathogenesis of human HCM and DCM,\nuncover HCM-like abnormalities in HFpEF,\nallow individualized drug testing (acute and chronic)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Cardiomyopathy, Hypertrophic",
+          "Cardiomyopathy, Dilated"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Engineered Heart Tissue (EHT)",
+          "human induced pluripotent stem cells (hiPSC)"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Control"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "Skin biopsy and blood"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "80",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupDescription": "40 healthy volunteers will serve as control group. Skin biopsy, genotyping and disease phenotyping",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Skin biopsy, genotyping and disease phenotyping"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "DCM patients",
+            "ArmGroupDescription": "20 patients with dilated cardiomyopathy",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Skin biopsy, genotyping and disease phenotyping"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "HCM patients",
+            "ArmGroupDescription": "20 patients with hypertrophic cardiomyopathy",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Skin biopsy, genotyping and disease phenotyping"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Skin biopsy, genotyping and disease phenotyping",
+            "InterventionDescription": "Major steps of the project are (i) in depths clinical phenotyping and follow-up of the clinical course of probands (ii) genotyping of candidate genes involved in heart disease development and (iii) in vitro functional tests of engineered heart tissue (EHT), miniature beating heart muscles. These EHTs are generated from hiPSC (human induced pluripotent stem cells) lines derived from skin biopsies of each participant.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group",
+                "DCM patients",
+                "HCM patients"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "generation of hiPSC-EHT and in vitro phenotyping",
+            "PrimaryOutcomeDescription": "After generation of proband-specific 3D-engineered heart tissue (EHT) from hiPSC we will make a quantitative assessment of hiPSC-EHT function under basal conditions and in response to pro-arrhythmic or cardio-active drugs and chronic afterload enhancement.",
+            "PrimaryOutcomeTimeFrame": "up to 60 month"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "clinical phenotyping and disease progression",
+            "SecondaryOutcomeDescription": "All 40 patients will be subjected to (i) high-end echocardiography including tissue Doppler and speckle tracking technology, (ii) MRI, (iii) spiroergometry and (iv) 24 h-holter ECG monitoring. Key parameters are guideline-recommended indices of systolic (e.g. fractional shortening, ejection fraction) and diastolic heart function (e.g. left atrial size, E/A, E'/A' and E/E´ratios), outflow tract gradient and cardiac remodeling (gadolinium late enhancement). The latter will be only done in HCM/DCM for ethical reasons. Technical analyses will be made at study entry and after 4 years, clinical examinations once a year (Cardiomyopathy Outpatient Clinic). Patients and their treating physicians will be prompted to report any clinical event during the course of the study.",
+            "SecondaryOutcomeTimeFrame": "up to 60 month"
+          },
+          {
+            "SecondaryOutcomeMeasure": "genotyping",
+            "SecondaryOutcomeDescription": "The genetic part of this project does not focus on the detection of new HCM/DCM disease genes, but on comprehensively determining the molecular basis of cardiomyopathy in the included patients. DNA samples will first be subjected to sequencing of a panel of about 120 cardiomyopathy-related candidate genes, which detects approximately 75% of all disease-causing mutations. The rest will be analysed by whole genome sequencing.\n\nThe resulting sequence data will be processed using CASAVA, followed by subsequent analyses using the GATK software package provided through the Broad Institute (Boston, USA) and the commercial software CLC-BIO.",
+            "SecondaryOutcomeTimeFrame": "up to 60 month"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nHCM: ProBNP ≥ 300 ng/l; IVSd ≥ 20 mm; E/E´ ≥ 8, LVOT > 30 mmHg\nDCM: presence of signs and/or symptoms of HF (NYHA II-IV); ProBNP ≥ 300 ng/l; LV EF ≤ 40% for > 3 month\n\nExclusion Criteria:\n\nUncontrolled hypertension,\ncoronary artery disease,\npersistent atrial fibrillation,\nenlisted for myectomy",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "60 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      },
+      "StudyPopulation": "Recruitment of patients will be done by the Cardiomyopathy Outpatient Clinic which is led by Dr. M. Patten and Dr. J. Münch at the Department of Cardiology, University Heart Centre, UKE (Prof. Blankenberg).",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Thomas Eschenhagen, Prof.Dr.med.",
+            "OverallOfficialAffiliation": "Universitätsklinikum Hamburg-Eppendorf",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Department of Experimental Pharmacology and Toxicology",
+            "LocationCity": "Hamburg",
+            "LocationZip": "20246",
+            "LocationCountry": "Germany"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "20448218",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Hansen A, Eder A, Bönstrup M, Flato M, Mewe M, Schaaf S, Aksehirlioglu B, Schwoerer AP, Uebeler J, Eschenhagen T. Development of a drug screening platform based on engineered heart tissue. Circ Res. 2010 Jul 9;107(1):35-44. doi: 10.1161/CIRCRESAHA.109.211458. Epub 2010 May 6. Erratum in: Circ Res. 2011 Nov 11;109(11):e54. Schwörer, Alexander [corrected to Schwoerer, Alexander P]."
+          },
+          {
+            "ReferencePMID": "9240969",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Eschenhagen T, Fink C, Remmers U, Scholz H, Wattchow J, Weil J, Zimmermann W, Dohmen HH, Schäfer H, Bishopric N, Wakatsuki T, Elson EL. Three-dimensional reconstitution of embryonic cardiomyocytes in a collagen matrix: a new heart muscle model system. FASEB J. 1997 Jul;11(8):683-94."
+          },
+          {
+            "ReferencePMID": "18035408",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Takahashi K, Tanabe K, Ohnuki M, Narita M, Ichisaka T, Tomoda K, Yamanaka S. Induction of pluripotent stem cells from adult human fibroblasts by defined factors. Cell. 2007 Nov 30;131(5):861-72."
+          },
+          {
+            "ReferencePMID": "32885664",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Madsen A, Höppner G, Krause J, Hirt MN, Laufer SD, Schweizer M, Tan WLW, Mosqueira D, Anene-Nzelu CG, Lim I, Foo RSY, Hansen A, Eschenhagen T, Stenzig J. An Important Role for DNMT3A-Mediated DNA Methylation in Cardiomyocyte Metabolism and Contractility. Circulation. 2020 Oct 20;142(16):1562-1578. doi: 10.1161/CIRCULATIONAHA.119.044444. Epub 2020 Sep 4. Erratum in: Circulation. 2021 Apr 13;143(15):e830."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006331",
+            "ConditionMeshTerm": "Heart Diseases"
+          },
+          {
+            "ConditionMeshId": "D000009202",
+            "ConditionMeshTerm": "Cardiomyopathies"
+          },
+          {
+            "ConditionMeshId": "D000002311",
+            "ConditionMeshTerm": "Cardiomyopathy, Dilated"
+          },
+          {
+            "ConditionMeshId": "D000002312",
+            "ConditionMeshTerm": "Cardiomyopathy, Hypertrophic"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006332",
+            "ConditionAncestorTerm": "Cardiomegaly"
+          },
+          {
+            "ConditionAncestorId": "D000083083",
+            "ConditionAncestorTerm": "Laminopathies"
+          },
+          {
+            "ConditionAncestorId": "D000030342",
+            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+          },
+          {
+            "ConditionAncestorId": "D000001020",
+            "ConditionAncestorTerm": "Aortic Stenosis, Subvalvular"
+          },
+          {
+            "ConditionAncestorId": "D000001024",
+            "ConditionAncestorTerm": "Aortic Valve Stenosis"
+          },
+          {
+            "ConditionAncestorId": "D000082862",
+            "ConditionAncestorTerm": "Aortic Valve Disease"
+          },
+          {
+            "ConditionAncestorId": "D000006349",
+            "ConditionAncestorTerm": "Heart Valve Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafAsFound": "Heart Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9187",
+            "ConditionBrowseLeafName": "Hypertrophy",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11306",
+            "ConditionBrowseLeafName": "Cardiomyopathies",
+            "ConditionBrowseLeafAsFound": "Cardiomyopathy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4719",
+            "ConditionBrowseLeafName": "Cardiomyopathy, Dilated",
+            "ConditionBrowseLeafAsFound": "Cardiomyopathy, Dilated",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4720",
+            "ConditionBrowseLeafName": "Cardiomyopathy, Hypertrophic",
+            "ConditionBrowseLeafAsFound": "Cardiomyopathy, Hypertrophic",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8572",
+            "ConditionBrowseLeafName": "Cardiomegaly",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2393",
+            "ConditionBrowseLeafName": "Laminopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22839",
+            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5627",
+            "ConditionBrowseLeafName": "Constriction, Pathologic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3492",
+            "ConditionBrowseLeafName": "Aortic Valve Stenosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2380",
+            "ConditionBrowseLeafName": "Aortic Valve Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8589",
+            "ConditionBrowseLeafName": "Heart Valve Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T449",
+            "ConditionBrowseLeafName": "Aortic Valve Stenosis",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

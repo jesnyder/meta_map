@@ -1,0 +1,392 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04167722",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "19HH5065"
+      },
+      "Organization": {
+        "OrgFullName": "Imperial College London",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "How Does Prostate Cancer Metastasize? Studying the Role of Secreted Packages (Exosomes) From Fat Tissue in Lean and Obese Patients",
+      "OfficialTitle": "The EXOPRO Study: How Does Prostate Cancer Metastasize? Understanding the Role of Exosomal Communication in Lean vs Obese Patients",
+      "Acronym": "EXOPRO"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 1, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 1, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 1, 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 11, 2019",
+      "StudyFirstSubmitQCDate": "November 14, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 19, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 21, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 22, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Imperial College London",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Imperial College Healthcare NHS Trust",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Experimental Cancer Medicine Centres",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The investigators will be collecting prostate and fat tissue from participants undergoing radical prostatectomy to culture and study in the laboratory.",
+      "DetailedDescription": "Both obesity and prostate cancer are major health problems in the UK, affecting 1 in 3 and 1 in 8 men respectively. Moreover, obesity increases the risk of developing aggressive disease and the risk of prostate cancer spreading. How this happens is not known. The investigators want to understand how fat cells communicate with prostate cancer cells. Investigators will be collecting prostate and fat tissue from radical prostatectomy participants for culture, in particular to look at exosome communication."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Prostate Cancer",
+          "Obesity"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Prostate Cancer",
+          "Obesity",
+          "Exosomes"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Control"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "Prostate cancer tissue, benign prostate tissue, peri-prostatic adipose tissue, omental adipose tissue, blood, urine"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "100",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Obese patients",
+            "ArmGroupDescription": "BMI > 25",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Robotic Radical Prostatectomy"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Lean patients",
+            "ArmGroupDescription": "BMI < or = 25",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Robotic Radical Prostatectomy"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Robotic Radical Prostatectomy",
+            "InterventionDescription": "Routine NHS Radical Prostatectomy",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Lean patients",
+                "Obese patients"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Determine functional differences of peri-prostatic adipose tissue from lean vs obese patients on prostate cancer cell lines",
+            "PrimaryOutcomeDescription": "Proliferation, migration, invasion, apoptosis and epthelial-mesenchymal transition assays will be performed using isolated exosomes on prostate cancer cell lines",
+            "PrimaryOutcomeTimeFrame": "Through to study completion, on average 3 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Identification of exosomal small RNAs transferred between human adipose tissue to prostate cancer cells lines",
+            "PrimaryOutcomeDescription": "Exosomal RNA transferred from human adipose tissue to prostate cancer cell lines will be isolated using a tagged magnetic bead isolation method and sequenced to identify transferred small RNAs",
+            "PrimaryOutcomeTimeFrame": "Through to study completion, on average 3 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Assess how exosomal small RNAs from lean vs obese patients affect cancer regulation",
+            "PrimaryOutcomeDescription": "Prostate cancer cell lines will be treated with isolated exosomes, then parental and treated cells sequenced to identify differentially expressed RNA and underlying changes",
+            "PrimaryOutcomeTimeFrame": "Through to study completion, on average 3 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Attempt to replicate functional changes observed",
+            "PrimaryOutcomeDescription": "Treatment of prostate cancer cell lines with microRNA mimics or inhibitors and comparison of changes with exosome treated cell lines",
+            "PrimaryOutcomeTimeFrame": "Through to study completion, on average 3 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAll men undergoing radical prostatectomy at Charing Cross Hospital\n\nExclusion Criteria:\n\nPatients unable to consent",
+      "HealthyVolunteers": "No",
+      "Gender": "Male",
+      "GenderBased": "Yes",
+      "GenderDescription": "Biological male only (can include transgender women)",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Obese vs lean patients",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Joseph Tam, MBBCh",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+442075942135",
+            "CentralContactEMail": "j.tam18@imperial.ac.uk"
+          },
+          {
+            "CentralContactName": "Becky Ward",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+442075949459",
+            "CentralContactEMail": "becky.ward@imperial.ac.uk"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Charlotte Bevan, PhD",
+            "OverallOfficialAffiliation": "Imperial College London",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Mathias Winkler, FRCS",
+            "OverallOfficialAffiliation": "Imperial College Healthcare NHS Trust",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Charing Cross Hospital, Imperial College Healthcare NHS Trust",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "London",
+            "LocationZip": "W68RF",
+            "LocationCountry": "United Kingdom",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Mathias Winkler, FRCS",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44203311234",
+                  "LocationContactEMail": "mathias.winkler@nhs.net"
+                },
+                {
+                  "LocationContactName": "Joseph Tam, MBBCh",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+442075942135",
+                  "LocationContactEMail": "j.tam18@imperial.ac.uk"
+                },
+                {
+                  "LocationContactName": "Mathias Winkler, FRCS",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Joseph Tam, MBBCh",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Charlotte Bevan, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "EXOPRO Study Website",
+            "SeeAlsoLinkURL": "https://www.imperial.ac.uk/department-surgery-cancer/research/cancer/research-areas/clinical-trials/exopro-study/"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "De-identified individual participant data for all primary and secondary outcomes will be made available.",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Study Protocol",
+          "Statistical Analysis Plan (SAP)",
+          "Informed Consent Form (ICF)",
+          "Clinical Study Report (CSR)",
+          "Analytic Code"
+        ]
+      },
+      "IPDSharingTimeFrame": "Data will be available within 6 to 12 months of study completion.",
+      "IPDSharingAccessCriteria": "Data access requests will be reviewed by an external independent review panel. Regulators will be required to sign a data access agreement.",
+      "IPDSharingURL": "https://www.imperial.ac.uk/department-surgery-cancer/research/cancer/research-areas/clinical-trials/exopro-study/"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000011471",
+            "ConditionMeshTerm": "Prostatic Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000005834",
+            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+          },
+          {
+            "ConditionAncestorId": "D000014565",
+            "ConditionAncestorTerm": "Urogenital Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000011469",
+            "ConditionAncestorTerm": "Prostatic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11853",
+            "ConditionBrowseLeafName": "Obesity",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13487",
+            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11459",
+            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8098",
+            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16467",
+            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13485",
+            "ConditionBrowseLeafName": "Prostatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

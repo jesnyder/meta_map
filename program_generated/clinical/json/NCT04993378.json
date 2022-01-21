@@ -1,0 +1,286 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04993378",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CGOG-EV-1001"
+      },
+      "Organization": {
+        "OrgFullName": "Peking University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Prospectively Predict the Efficacy of Treatment of Gastrointestinal Tumors Based on Peripheral Multi-omics Liquid Biopsy",
+      "OfficialTitle": "A Clinical Study Initiated by Investigator:Prospectively Predict the Efficacy of Precise Treatment of Gastrointestinal Tumors Based on Peripheral Blood Multi-omics Liquid Biopsy"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 1, 2018",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 30, 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 30, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 29, 2021",
+      "StudyFirstSubmitQCDate": "August 5, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 6, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 5, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 6, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Shen Lin",
+        "ResponsiblePartyInvestigatorTitle": "Director of GI oncology Affiliation: Peking University",
+        "ResponsiblePartyInvestigatorAffiliation": "Peking University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Shen Lin",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "To vertify the function of EV-score on predicting & monitoring immunotherapeutic outcomes of GC",
+      "DetailedDescription": "Our previous work identified four plasma EV-derived proteins and combined them to generate a signature score that robustly predicting immunotherapeutic outcomes at baseline and dynamically monitoring disease progressions along with the whole treatment.\n\nHence in this stuty, we plan to recruit a prospective cohort to support our conclusions, and provide possible method to realize predicting and monitoring immunotherapeutic outcomes of GC."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Advanced Gastric Adenocarcinoma",
+          "Immunotherapy"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "plasma-based liquid biopsy protein biomarker",
+          "extracellular vesicles",
+          "protein biomarker"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "GC patients receiving immunotherapy",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Device: EV-array"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Device",
+            "InterventionName": "EV-array",
+            "InterventionDescription": "Collect peripheral blood sample of 40 gastric cancer patients pre-treatment. Blood samples will be transferred to central lab to detect EV-score by EV-array. Tumor response evaluation will be performed after two cycles of chemotherapy by CT/MRI based on RECIST.\n\nClinical data, including tumor stage, metastastic organ, regimen, objective response, progression free survival, overall survival, etc, will be collected according to study protocol.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "GC patients receiving immunotherapy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "EV-Score",
+            "PrimaryOutcomeDescription": "EV-Score was calculated by the expression level of four tumor-associated proteins on plasma EV",
+            "PrimaryOutcomeTimeFrame": "EV-Score was detected, analysis and reported at the baseline of the treatment."
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Survival significance of EV-Score",
+            "SecondaryOutcomeDescription": "Analysis patients' survival with different EV-Score.",
+            "SecondaryOutcomeTimeFrame": "up to 3 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nHaving signed informed consent\nAge≥ 18 years old\nHistologically confirmed gastric adenocarcinoma\nUnresectable recurrent or metastatic disease\nMeasurable disease according to the RECIST criteria\nLife expectancy of ≥3 month\nNo prior chemotherapy of the study more than 4 weeks\nImmunotherapy regimens were included in the treatment\n\nExclusion Criteria:\n\nOther previous malignancy within 5 year\nSurgery (excluding diagnostic biopsy) within 4 weeks prior to study\nPregnancy or lactation period\nLegal incapacity",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "All patients in this study were enrolled by the Department of gastrointestinal oncology, Peking University Cancer Hospital & Institute for conventional therapy or clinical trials",
+      "SamplingMethod": "Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Peking University Cancer Hospital & Institute",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Beijing",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "lin shen, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "(86)10-88196175",
+                  "LocationContactEMail": "lin100@medmail.com.cn"
+                },
+                {
+                  "LocationContactName": "lin shen, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "cheng zhang, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "xiaotian zhang, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000004067",
+            "ConditionMeshTerm": "Digestive System Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000005770",
+            "ConditionMeshTerm": "Gastrointestinal Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2737",
+            "ConditionBrowseLeafName": "Adenocarcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8038",
+            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+            "ConditionBrowseLeafAsFound": "Gastrointestinal Tumors",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6408",
+            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+            "ConditionBrowseLeafAsFound": "Gastrointestinal Tumors",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

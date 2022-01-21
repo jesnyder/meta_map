@@ -1,0 +1,349 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04956744",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "IMS001-01"
+      },
+      "Organization": {
+        "OrgFullName": "ImStem Biotechnology",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "A Study to Evaluate the Safety, Tolerability, and Exploratory Efficacy of IMS001 in Subjects With Multiple Sclerosis",
+      "OfficialTitle": "A Phase 1, Dose-Escalating, Open-label Study to Evaluate the Safety, Tolerability, and Exploratory Efficacy of Single Dose of IV IMS001 in Subjects With Multiple Sclerosis and Treatment Failure to Prior Disease Modifying Treatments (DMTs)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 31, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2027",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2027",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 22, 2021",
+      "StudyFirstSubmitQCDate": "July 8, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 9, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 20, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 21, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "ImStem Biotechnology",
+        "LeadSponsorClass": "INDUSTRY"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Rho, Inc.",
+            "CollaboratorClass": "INDUSTRY"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a Phase 1 study of IMS001, given as a single dose to subjects with Multiple Sclerosis who experience inadequate response and/or intolerability to disease modifying treatments. IMS001 is a human embryonic cell derived (hESC) mesenchymal stem cell (MSC). MSCs have the potential to modulate disease course."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Multiple Sclerosis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Low Dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Low dose of cells/kg of intravenous (IV) IMS001 as a single dose infusion on Day 1.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: IMS001"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "High Dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "High dose of cells/kg of intravenous (IV) IMS001 as a single dose infusion on Day 1.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: IMS001"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Optional Dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "High dose of cells/kg of intravenous (IV) IMS001 as a single dose infusion on Day 1 and at Month 6.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: IMS001"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "IMS001",
+            "InterventionDescription": "IMS001 is a human embryonic cell derived (hESC) mesenchymal stem cell (MSC).",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "High Dose",
+                "Low Dose",
+                "Optional Dose"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety and tolerability",
+            "PrimaryOutcomeDescription": "Frequency of treatment-emergent adverse events (TEAEs).",
+            "PrimaryOutcomeTimeFrame": "Day 1 to Month 60"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Safety and tolerability",
+            "PrimaryOutcomeDescription": "Clinically significant laboratory abnormalities.",
+            "PrimaryOutcomeTimeFrame": "Day 1 to Month 60"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nProvides signed and dated informed consent in accordance with local regulations.\n18 to 65 years of age.\nDiagnosis of MS.\nHas had an inadequate response DMTs.\nEDSS within protocol parameters.\nAble and willing to undergo MRIs.\nMust be clinically stable for 1 month prior to Day 1.\n\nExclusion Criteria:\n\nHas a known or suspected hypersensitivity to human serum albumin, diphenhydramine, acetaminophen, methylprednisolone, or any of the components of IMS001.\nHas history of excluded medications, per protocol, prior to Day 1.\nHas a history of neoplastic disease except for basal cell carcinoma, non-metastatic squamous cell carcinoma of the skin that has been excised with clean margins, or adequately treated in-situ carcinoma of the cervix.\nPrior history of any other autoimmune disease, myelodysplasia, or hematologic disease.\nPrior treatment with any allogeneic cell therapy or tissue transplant.\nPrior history of smoking equivalent to ˃20 cumulative pack years of cigarettes.\nRecent clinically significant infection during the Screening Phase.\nHas any medical or psychiatric condition that would impact outcome or participation in the study.\nHas clinically significant abnormal findings on the electrocardiogram (ECG) during the Screening Phase.\nHas known or documented human immunodeficiency virus (HIV) infection or active Hepatitis B, or C.\nHas an elevated liver function test abnormality during the Screening Phase.\nHas abnormalities of blood count during the Screening Phase.\nHas laboratory abnormalities of renal function during the Screening Phase.\nHas other clinically significant laboratory abnormalities during Screening Phase.\nBody weight ≥120 kg.\nWomen pregnant, breast feeding, or planning to become pregnant during the study.\nIs unavailable for the duration of the trial, is likely to be noncompliant with the protocol, or is generally felt to be unsuitable by the principal investigator.\nCurrent or recent participation in any other clinical or device trials within 3 months prior to Day 1.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Richard Kim, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "860-281-7836",
+            "CentralContactEMail": "richard.kim@imstem.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Richard Kim, MD",
+            "OverallOfficialAffiliation": "ImStem Biotechnology",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Shepherd Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Atlanta",
+            "LocationState": "Georgia",
+            "LocationZip": "30309",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "UMass Memorial Medical Center",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Worcester",
+            "LocationState": "Massachusetts",
+            "LocationZip": "01605",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Rocky Mountain MS Clinic",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Salt Lake City",
+            "LocationState": "Utah",
+            "LocationZip": "84103",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Imstem Biotechnology",
+            "SeeAlsoLinkURL": "http://www.imstem.com/"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009103",
+            "ConditionMeshTerm": "Multiple Sclerosis"
+          },
+          {
+            "ConditionMeshId": "D000012598",
+            "ConditionMeshTerm": "Sclerosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000020278",
+            "ConditionAncestorTerm": "Demyelinating Autoimmune Diseases, CNS"
+          },
+          {
+            "ConditionAncestorId": "D000020274",
+            "ConditionAncestorTerm": "Autoimmune Diseases of the Nervous System"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003711",
+            "ConditionAncestorTerm": "Demyelinating Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M14567",
+            "ConditionBrowseLeafName": "Sclerosis",
+            "ConditionBrowseLeafAsFound": "Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11212",
+            "ConditionBrowseLeafName": "Multiple Sclerosis",
+            "ConditionBrowseLeafAsFound": "Multiple Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21251",
+            "ConditionBrowseLeafName": "Demyelinating Autoimmune Diseases, CNS",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21247",
+            "ConditionBrowseLeafName": "Autoimmune Diseases of the Nervous System",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6061",
+            "ConditionBrowseLeafName": "Demyelinating Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

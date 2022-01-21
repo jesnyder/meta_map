@@ -1,0 +1,471 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04003857",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MP-CR-012-F/U"
+      },
+      "Organization": {
+        "OrgFullName": "Medipost Co Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Follow-up Study of Safety and Efficacy in Subjects Who Completed PNEUMOSTEM® Phase II (MP-CR-012) Clinical Trial",
+      "OfficialTitle": "Follow-up Study of Safety and Efficacy in Subjects Who Completed PNEUMOSTEM® Phase II (MP-CR-012) Clinical Trial"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 5, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 30, 2027",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 30, 2027",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 19, 2019",
+      "StudyFirstSubmitQCDate": "June 28, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 1, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 26, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 28, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Medipost Co Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a follow-up study to investigate the long-term safety and efficacy of PNEUMOSTEM® versus placebo, for the treatment of BPD in premature infants. Subjects who participated in and completed the initial stage of the Phase II trial (NCT03392467) will be followed-up until 60 months of corrected age",
+      "DetailedDescription": "Subjects who completed the initial stage of the Phase II clinical trial will be followed-up at 7 additional visits: 6, 12,18, 24 months corrected age, 36, 48, and 60 months after birth."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Bronchopulmonary Dysplasia"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Human Umbilical Cord Blood Derived Mesenchymal Stem Cells",
+          "Bronchopulmonary dysplasia",
+          "Premature infants"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "PNEUMOSTEM®",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "A single intratracheal administration of Pneumostem® (10.0 x 10^6 cells/kg)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: PNEUMOSTEM®"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "normal saline",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "A single intratracheal administration of normal saline",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: normal saline"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "PNEUMOSTEM®",
+            "InterventionDescription": "A single intratracheal administration of PNEUMOSTEM® (1.0 x 10^7 cells/kg)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "PNEUMOSTEM®"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Human umbilical cord blood-derived mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "normal saline",
+            "InterventionDescription": "A single intratracheal administration of normal saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "normal saline"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Respiratory outcome: Number of hospitalizations",
+            "PrimaryOutcomeDescription": "Total number of hospitalizations and the number of hospital stay due to respiratory infection",
+            "PrimaryOutcomeTimeFrame": "6 months corrected age"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Respiratory outcome: Number of hospitalizations",
+            "PrimaryOutcomeDescription": "Total number of hospitalizations and the number of hospital stay due to respiratory infection",
+            "PrimaryOutcomeTimeFrame": "12 months corrected age"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Respiratory outcome: Number of hospitalizations",
+            "PrimaryOutcomeDescription": "Total number of hospitalizations and the number of hospital stay due to respiratory infection is recorded and compared with control group",
+            "PrimaryOutcomeTimeFrame": "18 months corrected age"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Respiratory outcome: Number of hospitalizations",
+            "PrimaryOutcomeDescription": "Total number of hospitalizations and the number of hospital stay due to respiratory infection",
+            "PrimaryOutcomeTimeFrame": "24 months corrected age"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Respiratory outcome: Number of hospitalizations",
+            "PrimaryOutcomeDescription": "Total number of hospitalizations and the number of hospital stay due to respiratory infection",
+            "PrimaryOutcomeTimeFrame": "36 months after birth"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Respiratory outcome: Number of hospitalizations",
+            "PrimaryOutcomeDescription": "Total number of hospitalizations and the number of hospital stay due to respiratory infection",
+            "PrimaryOutcomeTimeFrame": "39 months after birth"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Respiratory outcome: Number of hospitalizations",
+            "PrimaryOutcomeDescription": "Total number of hospitalizations and the number of hospital stay due to respiratory infection",
+            "PrimaryOutcomeTimeFrame": "42 months after birth"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Respiratory outcome: Number of hospitalizations",
+            "PrimaryOutcomeDescription": "Total number of hospitalizations and the number of hospital stay due to respiratory infection",
+            "PrimaryOutcomeTimeFrame": "45 months after birth"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Respiratory outcome: Number of hospitalizations",
+            "PrimaryOutcomeDescription": "Total number of hospitalizations and the number of hospital stay due to respiratory infection",
+            "PrimaryOutcomeTimeFrame": "48 months after birth"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Respiratory outcome: Number of hospitalizations",
+            "PrimaryOutcomeDescription": "Total number of hospitalizations and the number of hospital stay due to respiratory infection",
+            "PrimaryOutcomeTimeFrame": "51 months after birth"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Respiratory outcome: Number of hospitalizations",
+            "PrimaryOutcomeDescription": "Total number of hospitalizations and the number of hospital stay due to respiratory infection",
+            "PrimaryOutcomeTimeFrame": "54 months after birth"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Respiratory outcome: Number of hospitalizations",
+            "PrimaryOutcomeDescription": "Total number of hospitalizations and the number of hospital stay due to respiratory infection",
+            "PrimaryOutcomeTimeFrame": "57 months after birth"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Respiratory outcome: Number of hospitalizations",
+            "PrimaryOutcomeDescription": "Total number of hospitalizations and the number of hospital stay due to respiratory infection",
+            "PrimaryOutcomeTimeFrame": "60 months after birth"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Mortality",
+            "SecondaryOutcomeDescription": "check whether patient is alive or dead at evaluation time point",
+            "SecondaryOutcomeTimeFrame": "6, 12, 18, 24 months corrected age, 36, 48, and 60 months after birth"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Growth measured by Z-score",
+            "SecondaryOutcomeDescription": "Growth measured by Z-score",
+            "SecondaryOutcomeTimeFrame": "6, 12, 18, 24 months corrected age, 36, 48, and 60 months after birth"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Neurological developmental status: Korean Developmental Screening Test for infants and children(K-DST)",
+            "SecondaryOutcomeDescription": "Neurological developmental status on Korean Developmental Screening Test for infants and children(K-DST)",
+            "SecondaryOutcomeTimeFrame": "6, 12, 18, 24 months corrected age,36, 48, and 60 months after birth"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Deafness or Blindness",
+            "SecondaryOutcomeDescription": "Deafness: audiometry /Blindness: examination of extraocular muscle, fundus photography, optical biometry",
+            "SecondaryOutcomeTimeFrame": "24 months corrected age"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Bayley Scales of Infant and Toddler Development (Third Edition)",
+            "SecondaryOutcomeDescription": "Scale: cognitive, motor, language, social-emotional, adaptive behavior",
+            "SecondaryOutcomeTimeFrame": "18~24months corrected age, 36~42months after birth"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Gross Motor Function Classification System for Cerebral Palsy",
+            "SecondaryOutcomeDescription": "Gross Motor Function Classification System for Cerebral Palsy",
+            "SecondaryOutcomeTimeFrame": "24 months corrected age"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of adverse events",
+            "SecondaryOutcomeDescription": "Number of adverse events",
+            "SecondaryOutcomeTimeFrame": "6, 12, 18, 24 months corrected age,36, 48, and 60 months after birth"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of admissions to Emergency Room (ER)",
+            "SecondaryOutcomeDescription": "Total number of admissions to Emergency Room (ER) and number of admission to Emergency Room (ER) due to respiratory infection at each evaluation time point",
+            "SecondaryOutcomeTimeFrame": "6, 12, 18, 24months corrected age, 36, 39, 42, 45, 48, 51, 54, 57 and 60 months after birth"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Medical treatment records",
+            "SecondaryOutcomeDescription": "whether or not, the patient is receiving medical treatment(use of oxygen, steroid, or bronchodilator, diuretics, Sildenafil) and if receiving treatment, the duration of the treatment at each evaluation time point",
+            "SecondaryOutcomeTimeFrame": "6, 12, 18, 24months corrected age, 36, 39, 42, 45, 48, 51, 54, 57 and 60 months after birth"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSubject who enrolled in phase 2 clinical trial of PNEUMOSTEM® to evaluate efficacy and safety, and were administered with investigational product\nSubject with a written consent form signed by a legal representative or a parent upon explanation of the clinical trial\n\nExclusion Criteria:\n\nSubject whose parent or legal representative does not agree to participate in the study\nSubject who is considered inappropriate to participate in the study by the investigator",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "6 Months",
+      "MaximumAge": "60 Months",
+      "StdAgeList": {
+        "StdAge": [
+          "Child"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Eunyoung LEE",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "82234656748",
+            "CentralContactEMail": "ley0113@medi-post.co.kr"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Wonsoon Park, MD, PhD",
+            "OverallOfficialAffiliation": "Department of Pediatrics, Samsung Medical Center",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Ai-Rhan Kim, MD, PhD",
+            "OverallOfficialAffiliation": "Department of Neonatology, Asan Medical Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Asan Medical Center",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Ai-Rhan Kim, Md, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Samsung Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Woon-Soon Park, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000001997",
+            "ConditionMeshTerm": "Bronchopulmonary Dysplasia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000055397",
+            "ConditionAncestorTerm": "Ventilator-Induced Lung Injury"
+          },
+          {
+            "ConditionAncestorId": "D000055370",
+            "ConditionAncestorTerm": "Lung Injury"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007235",
+            "ConditionAncestorTerm": "Infant, Premature, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007232",
+            "ConditionAncestorTerm": "Infant, Newborn, Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4425",
+            "ConditionBrowseLeafName": "Bronchopulmonary Dysplasia",
+            "ConditionBrowseLeafAsFound": "Bronchopulmonary Dysplasia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27296",
+            "ConditionBrowseLeafName": "Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27305",
+            "ConditionBrowseLeafName": "Ventilator-Induced Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9431",
+            "ConditionBrowseLeafName": "Infant, Premature, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9428",
+            "ConditionBrowseLeafName": "Infant, Newborn, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T874",
+            "ConditionBrowseLeafName": "Bronchopulmonary Dysplasia",
+            "ConditionBrowseLeafAsFound": "Bronchopulmonary Dysplasia",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03700515",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "EPO-EXO"
+      },
+      "Organization": {
+        "OrgFullName": "University of Copenhagen",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Exosome Proteomics to Detect EPO",
+      "OfficialTitle": "Exosome Proteomics to Detect Eyrthropoietin (EPO) Use in Athletes"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2019",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 4, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 15, 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 15, 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 27, 2018",
+      "StudyFirstSubmitQCDate": "October 5, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 9, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 24, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 25, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Morten Hostrup, PhD",
+        "ResponsiblePartyInvestigatorTitle": "Associate Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "University of Copenhagen"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Morten Hostrup, PhD",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "University of Tasmania",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The role of exosomes in cell signalling has only recently been appreciated and is a hugely exciting and rapidly growing area, and combined with LC-MS/MS proteomics, can overcome traditional barriers to proteomics in doping applications. To our knowledge, no research has yet been undertaken to explore whether the highly promising combination of exosome proteomics has utility for rhEPO detection. The applications are extensive; the diagnostic value of differentially regulated proteins could be further validated against the existing IEF EPO WADA accredited tests using samples collected during this study, used to study altitude hypoxia versus exogenous EPO administration (WADA current targeted research 2017), investigated as a platform approach to ESA and HIF agents more generally, as well as facilitate development of direct ELISA high throughput tests."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Healthy"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "EPO"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Basic Science",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "72",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Saline infusion",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "EPO",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Erythropoetin infusion (9 IU/kg)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Erythropoietin"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "EPO II",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Erythropoetin infusion (20 IU/kg)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Erythropoietin"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Erythropoietin",
+            "InterventionDescription": "Subjects receive weekly infusions of EPO",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "EPO",
+                "EPO II"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Subjects receive weekly infusions of saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Blood proteome enrichment pathway analysis in GO annotation",
+            "PrimaryOutcomeDescription": "Change in enrichment (measured in blood and assessed using GO annotation)",
+            "PrimaryOutcomeTimeFrame": "At baseline and after week 3 of treatment"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Blood markers of iron",
+            "SecondaryOutcomeDescription": "Change in blood markers of iron homeostasis",
+            "SecondaryOutcomeTimeFrame": "At baseline and after week 3 of treatment"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nVO2max of at least 55+/-2 for men and 50+/-2 for women\nBMI between 18 and 27\nResting hematocrit of less than 46%\n\nExclusion Criteria:\n\nChronic disease deemed by the medical doctor to affect the outcome\nCompetitive athlete subject to doping control\nUse of other prescription medicine deemed by the medical doctor to interact with the study drug\nAllergy or otherwise unacceptable side effects toward the study drug\nSmoker\nPregnancy",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "45 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "August Krogh Building",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Copenhagen",
+            "LocationCountry": "Denmark",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Morten Hostrup, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+4524474785",
+                  "LocationContactEMail": "mhostrup@nexs.ku.dk"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000068817",
+            "InterventionMeshTerm": "Epoetin Alfa"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000006397",
+            "InterventionAncestorTerm": "Hematinics"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M314",
+            "InterventionBrowseLeafName": "Epoetin Alfa",
+            "InterventionBrowseLeafAsFound": "Seven",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M8637",
+            "InterventionBrowseLeafName": "Hematinics",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Hemat",
+            "InterventionBrowseBranchName": "Hematinics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

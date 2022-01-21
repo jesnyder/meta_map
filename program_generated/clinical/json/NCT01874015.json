@@ -1,0 +1,355 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01874015",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "Royan-GI-003"
+      },
+      "Organization": {
+        "OrgFullName": "Royan Institute",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Transplantation of Bone Marrow Mesenchymal Stem Cell in Crohn's Disease",
+      "OfficialTitle": "Transplantation of Bone Marrow Mesenchymal Stem Cell in Moderate to Severe Fistulizing Crohn's Disease"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2017",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 2013",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2017",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "February 2018",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 6, 2013",
+      "StudyFirstSubmitQCDate": "June 7, 2013",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 10, 2013",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "April 26, 2017",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 27, 2017",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Royan Institute",
+        "LeadSponsorClass": "OTHER_GOV"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study is a prospective, randomized, parallel, phase 1 trial to assess the safety and feasibility of the transplantation of bone marrow derived mesenchymal stem cells (MSCs) in fistulizing Crohn's disease.",
+      "DetailedDescription": "In this study all eligible patients were randomly allocated into two study groups by a permuted block randomization method: group A receives only autologous MSCs suspended in fibrin glue, group B receives autologous MSCs+ Fibroblasts. Both groups receive 4 injections inside the wall and lumen of the fistula. Injections will be repeated every month."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Crohn's Disease"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Crohn's disease",
+          "mesenchymal stem cell",
+          "fistula"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "10",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "mesenchymal cell and fibroblast transplantaion",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "The patients with crohn's disease who underwent mesenchymal cell and fibroblast injection.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: mesenchymal cell and fibroblast injection"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "mesenchymal cell transplantaion",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "The patients with Crohn's disease who underwent mesenchymal cell transplantation.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: mesenchymal cell transplantation"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "mesenchymal cell transplantation",
+            "InterventionDescription": "Mesenchymal cell transplantation in patients with Crohn's disease.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "mesenchymal cell transplantaion"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "mesenchymal cell and fibroblast injection",
+            "InterventionDescription": "Transplantation of mesenchymal cell and fibroblast in patients with crohn's disease.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "mesenchymal cell and fibroblast transplantaion"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "fistula closure",
+            "PrimaryOutcomeDescription": "Evaluation the fistula closure after mesenchymal cell transplantation in patients with crohn's disease.",
+            "PrimaryOutcomeTimeFrame": "4months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "CDAI",
+            "SecondaryOutcomeDescription": "Evaluation the decrease of CDAI after mesenchymal cell transplantation.",
+            "SecondaryOutcomeTimeFrame": "4months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\n1- Poor response to routine treatments in refractory Crohn's disease with fistula.\n\n2- CDAI>220 3- Age 18 to 60 years 4- GFR>30, Cr<2 5- The presence of perinea fistula.\n\nExclusion Criteria:\n\npregnancy",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Nasser Aghdami, MD,PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+9823562000",
+            "CentralContactPhoneExt": "504",
+            "CentralContactEMail": "nasser.aghdami@royaninstitute.org"
+          },
+          {
+            "CentralContactName": "Leila Arab, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+9823562000",
+            "CentralContactPhoneExt": "414",
+            "CentralContactEMail": "Leara91@gmail.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Hamid Gourabi, PhD",
+            "OverallOfficialAffiliation": "Head of Royan Institute",
+            "OverallOfficialRole": "Study Chair"
+          },
+          {
+            "OverallOfficialName": "Nasser Aghdami, MD,PhD",
+            "OverallOfficialAffiliation": "Head of Royan department of degenerative medicine,Head of Royan celltherapy center",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Mahdi Mohammad Nejhad, MD",
+            "OverallOfficialAffiliation": "TUMS DDRI",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Royan Institute",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Tehran",
+            "LocationCountry": "Iran, Islamic Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Nasser Aghdami, MD,PhD",
+                  "LocationContactRole": "Contact"
+                },
+                {
+                  "LocationContactName": "Massoud Vosough, MD,PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "vagihe azimian, MSc",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Related Info",
+            "SeeAlsoLinkURL": "http://Royaninstitute.org"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003424",
+            "ConditionMeshTerm": "Crohn Disease"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000015212",
+            "ConditionAncestorTerm": "Inflammatory Bowel Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005759",
+            "ConditionAncestorTerm": "Gastroenteritis"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007410",
+            "ConditionAncestorTerm": "Intestinal Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M5790",
+            "ConditionBrowseLeafName": "Crohn Disease",
+            "ConditionBrowseLeafAsFound": "Crohn's Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7684",
+            "ConditionBrowseLeafName": "Fistula",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9596",
+            "ConditionBrowseLeafName": "Intestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17069",
+            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8027",
+            "ConditionBrowseLeafName": "Gastroenteritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

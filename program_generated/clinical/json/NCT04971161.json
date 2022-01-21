@@ -1,0 +1,892 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04971161",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "allo-APZ2-CVU-IIb"
+      },
+      "Organization": {
+        "OrgFullName": "RHEACELL GmbH & Co. KG",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Allogeneic ABCB5-positive Dermal Mesenchymal Stromal Cells for Treatment of CVU (Phase IIb)",
+      "OfficialTitle": "A Randomized, Placebo-Controlled, Double-blind, Dose-Ranging, Multicenter, Phase IIb Clinical Trial to Investigate the Efficacy and Safety of Allo-APZ2-CVU on Wound Healing of Therapy-Resistant Chronic Venous Ulcer (CVU)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 18, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 7, 2021",
+      "StudyFirstSubmitQCDate": "July 12, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 21, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 8, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 9, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "RHEACELL GmbH & Co. KG",
+        "LeadSponsorClass": "INDUSTRY"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "FGK Clinical Research GmbH",
+            "CollaboratorClass": "INDUSTRY"
+          },
+          {
+            "CollaboratorName": "Ticeba GmbH",
+            "CollaboratorClass": "INDUSTRY"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The aim of this clinical trial is to investigate the efficacy (by monitoring the wound size reduction of CVUs) and safety (by monitoring adverse events [AEs]) of three dose groups of the investigational medicinal product (IMP) allo-APZ2-CVU, topically administered on target wounds of patients with CVU compared to placebo.",
+      "DetailedDescription": "This is a randomized, placebo-controlled, double-blind, dose-ranging, multicenter, phase IIb clinical trial to investigate the efficacy and safety of the IMP allo-APZ2-CVU on wound healing in patients with therapy-resistant CVU. The allogeneic IMP allo-APZ2-CVU contains skin-derived ABCB5-positive dermal mesenchymal stromal cells isolated from skin tissue of healthy donors and stored in a donor cell bank.\n\nPatients will be randomized to be treated with allo-APZ2-CVU (dose 1, dose 2, dose 3) or placebo (50 patients per dose group). The patients will undergo treatment with the IMP on Day 0 (V3) and will be followed up for efficacy for 18 weeks (V4 until V14). Two safety follow-up visits will be performed at Month 6 (V15) and Month 10 (V16).\n\nThe wound healing process will be documented by standardized photography. The wound size measurement will start at the first Screening Visit (V1) and will be measured at each following on-site visit.\n\nPain will be assessed using a numerical rating scale and quality of life will be investigated with standardized and validated questionnaires."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Skin Ulcer Venous Stasis Chronic"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Chronic Venous Ulcer",
+          "ABCB5",
+          "Allogeneic",
+          "Dermal mesenchymal stromal cells",
+          "varicose ulcer",
+          "skin ulcer",
+          "advanced therapy medicinal product",
+          "somatic cell therapy",
+          "phase IIb"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "Randomized, placebo-controlled, double-blind, dose-ranging, interventional, multicenter, phase IIb clinical trial",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "200",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "allo-APZ2-CVU (dose group 1: 1 x 10e6 cells/cm²)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Application of IMP on patients wound",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: allo-APZ2-CVU"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Application of IMP on patients wound",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "allo-APZ2-CVU (dose group 2: 3 x 10e6 cells/cm²)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Application of IMP on patients wound",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: allo-APZ2-CVU"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "allo-APZ2-CVU (dose group 3: 6 x 10e6 cells/cm²)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Application of IMP on patients wound",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: allo-APZ2-CVU"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "allo-APZ2-CVU",
+            "InterventionDescription": "Suspension of ABCB5-positive dermal mesenchymal stromal cells. One topical application with a syringe.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "allo-APZ2-CVU (dose group 1: 1 x 10e6 cells/cm²)",
+                "allo-APZ2-CVU (dose group 2: 3 x 10e6 cells/cm²)",
+                "allo-APZ2-CVU (dose group 3: 6 x 10e6 cells/cm²)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Skin-derived ABCB5-positive dermal mesenchymal stromal cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "One topical application with a syringe",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Complete wound closure at Week 18 already persisting for at least two weeks",
+            "PrimaryOutcomeDescription": "Complete wound closure at Week 18 already persisting for at least two weeks will be evaluated.",
+            "PrimaryOutcomeTimeFrame": "Week 18"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Assessment of adverse event (AE) occurrence",
+            "PrimaryOutcomeDescription": "All AEs occurring during the clinical trial will be registered, documented and evaluated.",
+            "PrimaryOutcomeTimeFrame": "Up to 10 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Wound size change in percent at each post-baseline follow-up visit",
+            "SecondaryOutcomeDescription": "Wound size change in percent at each post-baseline follow-up visit will be evaluated.",
+            "SecondaryOutcomeTimeFrame": "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to complete wound closure",
+            "SecondaryOutcomeDescription": "Time to complete wound closure will be evaluated.",
+            "SecondaryOutcomeTimeFrame": "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Complete wound closures at each post-baseline follow-up visit",
+            "SecondaryOutcomeDescription": "Complete wound closures at each post-baseline follow-up visit will be evaluated.",
+            "SecondaryOutcomeTimeFrame": "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of wound closure",
+            "SecondaryOutcomeDescription": "Duration of wound closure will be evaluated.",
+            "SecondaryOutcomeTimeFrame": "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Recurrence of the wound",
+            "SecondaryOutcomeDescription": "Recurrence of the wound will be evaluated.",
+            "SecondaryOutcomeTimeFrame": "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of wound healing (wound exudate) at each post-baseline follow-up visit",
+            "SecondaryOutcomeDescription": "The Quality of wound healing will be assessed at each post-baseline follow-up visit on the basis of the amount and type of wound exudate.",
+            "SecondaryOutcomeTimeFrame": "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of wound healing (granulation tissue together with epithelialization) at each post-baseline follow-up visit",
+            "SecondaryOutcomeDescription": "The Quality of wound healing will be assessed at each post-baseline follow-up visit on the basis of the formation of granulation tissue together with epithelialization.",
+            "SecondaryOutcomeTimeFrame": "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of wound healing (scar formation) at each post-baseline follow-up visit",
+            "SecondaryOutcomeDescription": "The Quality of wound healing will be assessed at each post-baseline follow-up visit on the basis of the questions regarding scar formation.",
+            "SecondaryOutcomeTimeFrame": "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Assessment of Quality of Life using the Wound-Quality of Life Questionnaire at V8, V11, V14",
+            "SecondaryOutcomeDescription": "Quality of Life using the Wound-Quality of Life Questionnaire at V8, V11, V14 will be evaluated.",
+            "SecondaryOutcomeTimeFrame": "Week 6, 12, 18"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Pain assessment as per numerical rating scale on each post-baseline efficacy follow-up visit",
+            "SecondaryOutcomeDescription": "Pain assessment as per numerical rating scale on each post-baseline efficacy follow-up visit will be evaluated.",
+            "SecondaryOutcomeTimeFrame": "Day 1-2, Week 1, 2, 4, 6, 8, 10, 12, 14, 16, Month 6 and 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Physical examination and vital signs at V14",
+            "SecondaryOutcomeDescription": "A physical body examination (e.g. general appearance, thyroid, head, lungs and thorax, ears, cardiovascular system, eyes, abdomen, nose-mouth-throat, musculoskeletal system, skin, extremities, lymph nodes, neurological system) will be performed and abnormal physical examination results will be evaluated and reported as AEs.",
+            "SecondaryOutcomeTimeFrame": "Week 18"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female patients at least 18 years old;\nChronic venous leg ulcer (as defined by the current AWMF guidelines: therapy-resistant ulcer that shows no tendency to heal within 3 months despite of optimal phlebological therapies or has not fully healed within 12 months) at lower leg and/or ankle region and has not been present longer than 15 years, diagnosed by doppler or duplex sonography, ankle brachial index (ABI, 0.9-1.3), physical examination and dermatological review;\nWound size of target ulcer between 1 and 50 cm² measured by a standardized photography at the screening visits (Visit 1 and Visit 2);\nIf patients have 2 or more ulcers at the same extremity, the target ulcer has to be separated by a minimum bridge of 1 cm of epithelialized skin from other ulcers (the largest ulcer should be the target ulcer, if not decided otherwise at discretion of the investigator; the target ulcer is defined at Visit 1);\nBody mass index between 15 and 50 kg/m²;\nPatients understand the nature of the procedure and are providing written informed consent prior to any clinical trial procedure;\nWomen of childbearing potential must have a negative blood pregnancy test at Visit 1;\nWomen of childbearing potential and their partner must be willing to use highly effective contraceptive methods during the course of the clinical trial.\n\nExclusion Criteria:\n\nEvidence of the ulcer extending to the underlying muscle, tendon, or bone;\nDiabetes mellitus that has to be confirmed by blood test (Hemoglobin A1c >7.5%);\nPeripheral Artery Disease including claudication with need of treatment;\nAcute deep vein thrombosis (maximum 30 days from diagnosis) or a still untreated deep vein thrombosis;\nUnable to tolerate leg ulcer compression bandage;\nInfection of the target ulcer requiring treatment as judged clinically;\nAll diagnosed disorders, unrelated to CVU, that are influencing wound healing of the target wound at investigator's discretion;\nCurrent use of medications that influence wound healing: systemic immunosuppressives, cytotoxic medicinal products, and systemic steroids (above Cushing-threshold level);\nPatient who, in the opinion of the investigator, for any reason are unable or unwilling to complete the trial per protocol (e.g. alcohol or substance abuse, not mobile, short life expectancy) or there is evidence of any other medical condition (such as psychiatric illness, physical examination, or laboratory findings) that may interfere with the planned treatment, affect the patient's compliance, or place the patient at high risk of complications related to the treatment;\nAny malignancy within the past 5 years, excluding successfully treated carcinoma in situ, basal cell carcinoma or squamous cell carcinoma of the skin without evidence of metastases;\nPregnant or lactating women;\nAny known allergies to components of the IMP;\nPrior surgical procedures such as bypass or mesh-graft treatment at target leg within 2 months prior to Visit 1 at target leg;\nPatients with significant ulcer healing or wound size enlargement of more than 25% at Visit 2 compared to Visit 1;\nTreatment of target ulcer with active wound care agents (e.g. Iruxol®N), which have not been paused 14 days before IMP application;\nCurrent or previous (within 30 days of enrollment) treatment with another IMP, or participation and/or under follow-up in another clinical trial;\nPrevious participation in this clinical trial (except for screening failures due to an inclusion or exclusion criterion);\nEmployees of the sponsor, or employees or relatives of the investigator.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Christoph Ganss, Dr.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+49 6221 71833",
+            "CentralContactPhoneExt": "0",
+            "CentralContactEMail": "office@rheacell.com"
+          },
+          {
+            "CentralContactName": "Anna Mößmer",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+49 6221 71833",
+            "CentralContactPhoneExt": "0",
+            "CentralContactEMail": "anna.moessmer@rheacell.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Andreas Kerstan, Dr.",
+            "OverallOfficialAffiliation": "Klinik und Poliklinik für Dermatologie, Venerologie und Allergologie, Würzburg",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Universitätsklinikum Augsburg, Klinik für Dermatologie und Allergologie, Campus Süd",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Augsburg",
+            "LocationZip": "86179",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Julia Welzel, Prof. Dr.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Fachklinik Bad Bentheim, Dermatologische Ambulanz",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Bad Bentheim",
+            "LocationZip": "48455",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Athanasios Tsianakas, PD Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Franziskus-Krankenhaus Berlin, Klinik für Innere Medizin, Angiologie und Diabetologie",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Berlin",
+            "LocationZip": "10787",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Berthold Amann, Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hautärzte Braunschweig am Altstadtmarkt, Hautärztliche Gemeinschaftspraxis",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Braunschweig",
+            "LocationZip": "38100",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Herms Wittstock, Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Universitätsklinikum \"Carl Gustav Carus\" der Technischen Universität Dresden, Medizinische Klinik und Poliklinik III Angiologie und Gefäßzentrum",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Dresden",
+            "LocationZip": "01307",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Norbert Weiss, Prof. Dr.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Universitätsklinikum Düsseldorf, Heinrich-Heine-Universität Düsseldorf, Klinik für Dermatologie",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Düsseldorf",
+            "LocationZip": "40225",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Norman-Philipp Hoff, Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Universitätsklinikum Erlangen, Hautklinik - Wundzentrum Dermatologie",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Erlangen",
+            "LocationZip": "91054",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Cornelia Erfurt-Berge, PD Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Universitätsklinikum Freiburg, Klinik für Dermatologie und Venerologie",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Freiburg",
+            "LocationZip": "79104",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Dimitra Kiritsi, PD Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Marienhospital Gelsenkirchen GmbH, Klinik für Chirurgie (Allgemein-, Viszeral- und Endokrine Chirurgie, Thorax-, Gefäß- und Endovaskuläre Chirurgie und Kinderchirurgie)",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Gelsenkirchen",
+            "LocationZip": "45886",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Mansur Duran, PD Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "SRH Wald-Klinikum Gera GmbH, Zentrum für Klinische Studien",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Gera",
+            "LocationZip": "07548",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Sabine Sell",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Praxis Dr. med. Abdou Zarzour",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Halle",
+            "LocationZip": "06108",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Abdou Zarzour, Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Universitätsklinikum Hamburg- Eppendorf, Institut für Versorgungsforschung in der Dermatologie und bei Pflegeberufen (IVDP)",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Hamburg",
+            "LocationZip": "20246",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Matthias Augustin, Prof. Dr.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "MVZ Prof. Dr. Ockenfels, Haut und Allergie-Praxisklinik GmbH",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Hanau",
+            "LocationZip": "63450",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Hans Michael Ockenfels, Prof. Dr.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "SRH Klinikum Karlsbad- Langensteinbach GmbH, Interdisziplinäres Gefäßzentrum Innere Medizin",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Karlsbad",
+            "LocationZip": "76307",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Erwin Blessing, Prof. Dr.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Medizinisches Versorgungszentrum DermaKiel GmbH",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Kiel",
+            "LocationZip": "24148",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Harald Brüning, Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Helios Klinikum Krefeld, Klinik für Dermatologie und Venerologie",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Krefeld",
+            "LocationZip": "47805",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Thomas Horn, Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hautarztpraxis Langenau, Studienzentrum",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Langenau",
+            "LocationZip": "89129",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Beate Schwarz, Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "medamed GmbH, Studienambulanz Leipzig",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Leipzig",
+            "LocationZip": "04107",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Christian Schubert, Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Beldio Research GmbH",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Memmingen",
+            "LocationZip": "87700",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Andreas Schwinn, Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Dermazentrum München, Standort Neuhausen, Studienzentrum",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "München",
+            "LocationZip": "80636",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Nicole Bönisch, Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Universitätsklinikum Münster, Klinik für Hautkrankheiten, Allgemeine Dermatologie und Venerologie",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Münster",
+            "LocationZip": "48149",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Tobias Görge, Prof. Dr.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Klinikum Nürnberg Nord, Klinik für Dermatologie",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Nürnberg",
+            "LocationZip": "90419",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Erwin S. Schultz, Prof. Dr.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hautarztpraxis Prof. Dr. med. Khusru Asadullah",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Potsdam",
+            "LocationZip": "14467",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Khusru Asadullah, Prof. Dr.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Caritas-Krankenhaus St. Josef, Klinik für Plastische und Ästhetische, Hand- und Wiederherstellungschirurgie",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Regensburg",
+            "LocationZip": "93053",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Stephan Seitz, PD Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Universitätsmedizin Rostock, Klinik und Poliklinik für Dermatologie und Venerologie",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Rostock",
+            "LocationZip": "18057",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Susen Rode",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Helios Kliniken Schwerin, Plastische, Rekonstruktive und Ästhetische Chirurgie",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Schwerin",
+            "LocationZip": "19049",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Frank Masberg, Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hautärztliche Gemeinschaftspraxis Dr. Leitz und Kollegen",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Stuttgart",
+            "LocationZip": "70178",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Nicolas Leitz, Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Universitätsklinikum Tübingen, Universitäts-Hautklinik Tübingen",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Tübingen",
+            "LocationZip": "72076",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Anke Strölin, Prof. Dr.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Helios Universitätsklinikum Wuppertal, Zentrums für Dermatologie, Allergologie und Dermatochirurgie",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Wuppertal",
+            "LocationZip": "42283",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Silke Carolin Hofmann, Prof. Dr.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Universitätsklinikum Würzburg, Klinik und Poliklinik für Dermatologie, Venerologie und Allergologie",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Würzburg",
+            "LocationZip": "97080",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Andreas Kerstan, PD Dr. med.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000014647",
+            "ConditionMeshTerm": "Varicose Ulcer"
+          },
+          {
+            "ConditionMeshId": "D000012883",
+            "ConditionMeshTerm": "Skin Ulcer"
+          },
+          {
+            "ConditionMeshId": "D000014456",
+            "ConditionMeshTerm": "Ulcer"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000014648",
+            "ConditionAncestorTerm": "Varicose Veins"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007871",
+            "ConditionAncestorTerm": "Leg Ulcer"
+          },
+          {
+            "ConditionAncestorId": "D000012871",
+            "ConditionAncestorTerm": "Skin Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16358",
+            "ConditionBrowseLeafName": "Ulcer",
+            "ConditionBrowseLeafAsFound": "Ulcer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14838",
+            "ConditionBrowseLeafName": "Skin Ulcer",
+            "ConditionBrowseLeafAsFound": "Skin Ulcer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16547",
+            "ConditionBrowseLeafName": "Varicose Ulcer",
+            "ConditionBrowseLeafAsFound": "Venous Stasis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16548",
+            "ConditionBrowseLeafName": "Varicose Veins",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10035",
+            "ConditionBrowseLeafName": "Leg Ulcer",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14826",
+            "ConditionBrowseLeafName": "Skin Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

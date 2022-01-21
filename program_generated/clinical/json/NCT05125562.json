@@ -1,0 +1,396 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05125562",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "DB-EF-EMOTECOVID-0006"
+      },
+      "Organization": {
+        "OrgFullName": "Direct Biologics, LLC",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles Infusion Treatment for Mild-to-Moderate COVID-19: A Phase II Clinical Trial",
+      "OfficialTitle": "Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles Infusion Treatment for Mild-to-Moderate COVID-19: A Phase II Clinical Trial"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "Yes",
+        "ExpandedAccessNCTId": "NCT04657458",
+        "ExpandedAccessStatusForNCTId": "Available"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 7, 2022",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 7, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 7, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 11, 2021",
+      "StudyFirstSubmitQCDate": "November 16, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 18, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 31, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 4, 2022",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Direct Biologics, LLC",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Early Mild Outpatient infusion Therapy with ExoFloTM for COVID-19 (EMOTE COVID-19)\n\nTo evaluate the safety and efficacy of intravenous (IV) administration of bone marrow mesenchymal stem cell derived extracellular vesicles, ExoFlo, as treatment for mild-moderate COVID-19."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID-19"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "ExoFlo",
+          "COVID-19",
+          "Extracellular Vesicle",
+          "Mild"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "100ml normal saline",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: ExoFlo"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "10ml ExoFlo",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "10ml ExoFlo + 90ml normal saline",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: ExoFlo"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "15ml ExoFlo",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "15ml ExoFlo + 85ml normal saline",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: ExoFlo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "ExoFlo",
+            "InterventionDescription": "Patients will be randomized to one of three infusions: (1) Normal Saline 100 mL, (2) Normal saline 90 mL and ExoFlo 10 mL, which is 7x1011 EVs, and (3) Normal saline 85 mL and ExoFlo 15 mL, which is 10.5x1011 EVs. The study intervention will only be dosed on day=1",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "10ml ExoFlo",
+                "15ml ExoFlo",
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change in SARS-CoV-2 log viral load from baseline to Day=7",
+            "PrimaryOutcomeDescription": "Change in SARS-CoV-2 log viral load from baseline to Day=7",
+            "PrimaryOutcomeTimeFrame": "61 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change in viral load area under the curve (AUC) from baseline to Day=29",
+            "SecondaryOutcomeDescription": "Change in viral load area under the curve (AUC) from baseline to Day=29",
+            "SecondaryOutcomeTimeFrame": "61 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Proportion of patients showing symptom improvement or resolution Day=7, 11, 15",
+            "SecondaryOutcomeDescription": "Proportion of patients showing symptom improvement or resolution Day=7, 11, 15",
+            "SecondaryOutcomeTimeFrame": "61 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "- Proportion of patients who required COVID-19 related hospitalization or Emergency Department Visit by Day 29",
+            "SecondaryOutcomeDescription": "- Proportion of patients who required COVID-19 related hospitalization or Emergency Department Visit by Day 29",
+            "SecondaryOutcomeTimeFrame": "61 Days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nEligibility for study enrollment includes meeting all the following criteria:\n\nProvision of signed and dated informed consent form (either by the individual or by the individual's healthcare proxy).\n\nStated willingness to comply with all study procedures and availability for the duration of the study.\n\nMale or female aged 18-85.\n\nCOVID-19 positive as defined by positive Reverse Transcriptase Polymerase Chain Reaction (RT-PCR) SARS-CoV-2 determination < 3 days prior to Day of Randomization.\n\nMust have mild or moderate COVID-19 as consistent with NIH definition:\n\nMild COVID-19: Individuals who have any of the various signs and symptoms of COVID-19 (e.g., fever, cough, sore throat, malaise, headache, muscle pain, nausea, vomiting, diarrhea, loss of taste and smell) but who do not have shortness of breath, dyspnea, or abnormal chest imaging.\n\nModerate COVID-19: Individuals who show evidence of lower respiratory disease during clinical assessment or imaging and who have an oxygen saturation (SpO2) ≥94% on room air at sea level.\n\nDuration of illness from acute COVID-19 symptom onset must be 10 days or less.\n\nOnly subjects who are not at high risk for progression to severe COVID-19 will be included in the study. See Exclusion Criterion #6.\n\nSubjects who received COVID-19 vaccination are eligible for the study if it is more than 28 days since the last dose of vaccination. COVID-19 vaccination is not necessary for inclusion.\n\nAll subjects will need be on < 5 L O2/min to be included or on no oxygen to be enrolled in this study.\n\nIf the candidate is either male or female of reproductive potential, he or she must agree to use of double barrier method of highly effective birth control contraception such as condoms with oral contraceptive pill or choose to remain abstinent if already practicing abstinence during the screening period. The duration of required usage of double barrier method OR maintenance of abstinence must include the time from the beginning of the screening period until 90 days following the last dose of the study treatment.\n\nExclusion Criteria:\n\nExclusion from study enrollment includes meeting one or more of the following criteria:\n\nVulnerable populations such as pregnant patients, children, individuals with severe physical or mental disabilities who cannot provide meaningful consent.\n\nSpO2 < 94% on ambient air.\n\nActive malignancy requiring treatment within the last five years.\n\nMajor surgery or physical trauma in the last 3 months, including motor vehicle accidents, assaults, mechanical falls with sequelae of significant bleeding or craniofacial bruising, and surgeries.\n\nAll subjects with any comorbidities that may be associated with risk of progression to severe COVID-19 including but not limited to renal dysfunction, hepatic disease, substance abuse, fibromyalgia, heart failure, uncontrolled arrhythmias, any level of dementia, depression, connective tissue diseases, major neuromuscular deficits, and endocrine disorders.\n\nSubjects found to be at high risk for progression to severe COVID-19 will be excluded from the study. These subjects will be referred to outpatient internal medicine clinic for SARS-CoV-2 monoclonal antibody treatment. As defined by the CDC and NIH, high risk for progression to severe COVID-19 is defined by meeting at least one of the following criteria:\n\nBody mass index (BMI) >35\n\nHave chronic kidney disease\n\nHave diabetes\n\nHave immunosuppressive disease\n\nAre currently receiving immunosuppressive treatment\n\nAre >65 years of age\n\nAre >55 years of age AND have\n\nCardiovascular disease, OR\n\nHypertension, OR\n\nChronic obstructive pulmonary disease/other chronic respiratory disease.\n\nPatients who received SARS-CoV-2 monoclonal antibody treatment will be excluded from the study.\n\nVital sign abnormalities: temperature ≥ 38 °C, temperature < 35 °C; systolic blood pressure (SBP) < 90 mmHg, SBP ≥ 170 mmHg; diastolic blood pressure (DBP) < 50 mmHg, DBP ≥ 100 mmHg; heart rate (HR) < 50 beats per minute (BPM), HR ≥ 120 BPM.\n\nLab abnormalities: WBC ≥ 12,000 /μL, Creatinine ≥ 1.5 mg/dL, AST ≥ 100 IU/l, and/or ALT ≥ 100 IU/I\n\nPatients who received COVID-19 vaccination within last 28 days.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "85 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Heidi Moran",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "800-791-1021",
+            "CentralContactEMail": "hmoran@directbiologics.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Vikram Sengupta, MD",
+            "OverallOfficialAffiliation": "Direct Biologics",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Direct Biologics",
+            "LocationCity": "Austin",
+            "LocationState": "Texas",
+            "LocationZip": "78746",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Heidi Moran",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "800-791-1021",
+                  "LocationContactEMail": "hmoran@directbiologics.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

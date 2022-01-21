@@ -1,0 +1,400 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05008588",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CT/STROKE/PSI/2021"
+      },
+      "Organization": {
+        "OrgFullName": "PT. Prodia Stem Cell Indonesia",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Combination of Conditioned Medium and Umbilical Cord-Mesenchymal Stem Cells Therapy for Sub-Acute Stroke Infarct",
+      "OfficialTitle": "Safety and Efficacy of Combined Conditioned Medium With Umbilical Cord Mesenchymal Stem Cells as A Novel Strategy for Sub-Acute Stroke Infarct"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "August 1, 2021",
+      "StudyFirstSubmitQCDate": "August 9, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 17, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 9, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 17, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "PT. Prodia Stem Cell Indonesia",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study was to determine the effectiveness of a combination of intranasal conditioned medium (CM) with intraparenchymal umbilical cord mesenchymal stem cells (UC-MSCs) transplantation in sub-acute stroke patients to induce neurogenesis. This study has 3 arms namely CM and UC-MSCs treatment, UC-MSCs treatment only, and control. The investigator hypothesized that group of CM and UC-MSCs combination is the optimal treatment to induce neurogenesis in stroke patients."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Ischemic Stroke"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Ischemic stroke",
+          "Mesenchymal Stem Cells",
+          "Conditioned Medium",
+          "Secretome"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Factorial Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "15",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Conditioned medium combined with Umbilical cord mesenchymal stem cells treatment",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Intranasal of 160 μl of conditioned medium",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Conditioned Medium",
+                "Biological: Umbilical Cord Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Umbilical cord mesenchymal stem cells treatment",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Intra-parenchymal transplantation of 1-2x10^6 UC-MSCs",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Umbilical Cord Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Standard treatment (control)",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Neurologic and Neutrophic Drugs",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Neurologic and Neutrophic Drugs"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Conditioned Medium",
+            "InterventionDescription": "Intranasal of 160 μl of conditioned medium",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Conditioned medium combined with Umbilical cord mesenchymal stem cells treatment"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Secretome"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Umbilical Cord Mesenchymal Stem Cells",
+            "InterventionDescription": "Intra-parenchymal transplantation of 1-2x10^6 UC-MSCs",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Conditioned medium combined with Umbilical cord mesenchymal stem cells treatment",
+                "Umbilical cord mesenchymal stem cells treatment"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Mesenchymal stromal cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Neurologic and Neutrophic Drugs",
+            "InterventionDescription": "Such as clopidogrel, piracetam, citicoline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Standard treatment (control)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change from baseline Brain-Derived Neutrophic Factor at one month, 3 months and 6 months after transplantation",
+            "PrimaryOutcomeDescription": "Venous blood collection",
+            "PrimaryOutcomeTimeFrame": "Before treatment, one month after treatment, 3 months after treatment, and 6 month after treatment"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Change from baseline Vascular endothelial growth factor at one month, 3 months and 6 months after transplantation",
+            "PrimaryOutcomeDescription": "Venous blood collection",
+            "PrimaryOutcomeTimeFrame": "Before treatment, one month after treatment, 3 months after treatment, and 6 month after treatment"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Change baseline Magnetic Resonance Imaging at 6 month after transplantation",
+            "PrimaryOutcomeDescription": "To observe the brain development (neurogenesis)",
+            "PrimaryOutcomeTimeFrame": "Before treatment, 6 month after transplantation"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "The National Institute of Health Stroke Scale (NIHSS) Scoring",
+            "SecondaryOutcomeDescription": "The NIH Stroke Scale (NIHSS) is a 15-item scale that is a well-validated and prognostically important measure of stroke-related neurologic deficits in research and clinical care",
+            "SecondaryOutcomeTimeFrame": "Before treatment, one month after treatment, 3 months after treatment, and 6 month after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "modified Rankin Scale (mRS)",
+            "SecondaryOutcomeDescription": "The Modified Rankin Scale (mRS) is used to measure the degree of disability in patients who have had a stroke",
+            "SecondaryOutcomeTimeFrame": "Before treatment, one month after treatment, 3 months after treatment, and 6 month after treatment"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female aged 60-80 years diagnosed with ischemic stroke acute or subacute phase\nThe patient has had a CT scan/MRI of the brain to assess ischemic territory\nThe patient must have an NIH Stroke score of 8-20\nThe patient or legal assistant has obtained detailed informed consent regarding the study protocol and agreeing to participate in the study\nPatients with The Glasgow Coma Scale (GCS) score > 8\nPatients with Pt-APTT values within normal limits\n\nExclusion Criteria:\n\nPatients with recurrent stroke in the 6 months preceding the episode current stroke\nCT or MRI images show midline shift and bleeding transformation\nParticipate in similar studies using CM and/or UC-MSC\nPatients who are immunocompromised and/or who are receiving therapy immunosuppressive\nPatients who cannot have a CT or MRI examination due to their condition\nPatients with impaired renal and hepatic function after the onset of ischemic stroke: Serum Glutamic Oxaloacetic Transaminase (SGOT) and Serum Glutamic Pyruvic Transaminase (SGPT) > 5x the upper limit of normal values and a significant increase in urea-creatinine values\nPatients with a history of malignant tumors or other severe neurologic conditions.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "60 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Gatot Soebroto Hospital",
+            "LocationCity": "Jakarta Pusat",
+            "LocationState": "DKI Jakarta",
+            "LocationZip": "10410",
+            "LocationCountry": "Indonesia"
+          },
+          {
+            "LocationFacility": "PT Prodia StemCell Indonesia",
+            "LocationCity": "Jakarta",
+            "LocationCountry": "Indonesia"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000020521",
+            "ConditionMeshTerm": "Stroke"
+          },
+          {
+            "ConditionMeshId": "D000083242",
+            "ConditionMeshTerm": "Ischemic Stroke"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000002561",
+            "ConditionAncestorTerm": "Cerebrovascular Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M21459",
+            "ConditionBrowseLeafName": "Stroke",
+            "ConditionBrowseLeafAsFound": "Stroke",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2401",
+            "ConditionBrowseLeafName": "Ischemic Stroke",
+            "ConditionBrowseLeafAsFound": "Ischemic Stroke",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9434",
+            "ConditionBrowseLeafName": "Infarction",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4962",
+            "ConditionBrowseLeafName": "Cerebrovascular Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M5923",
+            "InterventionBrowseLeafName": "Cytidine Diphosphate Choline",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M1669",
+            "InterventionBrowseLeafName": "Clopidogrel",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M12932",
+            "InterventionBrowseLeafName": "Piracetam",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "NootAg",
+            "InterventionBrowseBranchName": "Nootropic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "PlAggInh",
+            "InterventionBrowseBranchName": "Platelet Aggregation Inhibitors"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "NeuroAg",
+            "InterventionBrowseBranchName": "Neuroprotective Agents"
+          }
+        ]
+      }
+    }
+  }
+}

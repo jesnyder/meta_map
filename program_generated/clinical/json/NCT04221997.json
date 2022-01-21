@@ -1,0 +1,429 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04221997",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "Strawn EV-SoPRANO"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "R01HD098757",
+            "SecondaryIdType": "U.S. NIH Grant/Contract",
+            "SecondaryIdLink": "https://projectreporter.nih.gov/reporterapi.cfm?PROJECTNUM=R01HD098757&Fy=all"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "University of Cincinnati",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Trial With the Treatment of Sertraline in Youth With Generalized, Separation and/or Social Anxiety Disorders.",
+      "OfficialTitle": "Extracellular Vesicles as Predictors of Antidepressant Outcomes in Pediatric Anxiety (EV-SOPRANO)",
+      "Acronym": "EV-SoPRANO"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 1, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2024",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 6, 2020",
+      "StudyFirstSubmitQCDate": "January 6, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 9, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 20, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 27, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Jeffrey Strawn, MD",
+        "ResponsiblePartyInvestigatorTitle": "Associate professor",
+        "ResponsiblePartyInvestigatorAffiliation": "University of Cincinnati"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of Cincinnati",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+            "CollaboratorClass": "NIH"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "A Multicenter, acute, randomized, double-blind, placebo-controlled, flexible-dose trial with the treatment of sertraline.",
+      "DetailedDescription": "Randomized, double-blind, placebo-controlled trial of an evidence-based antidepressant, sertraline, in youth (N=120) with generalized, separation and/or social anxiety disorders, seeks to evaluate the predictive value of plasma EV signatures. Patients will be randomized to sertraline (25-200 mg/day) or placebo (3:1) and total plasma EVs will be collected at baseline and serially during the course of the 12-week treatment period."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Anxiety Disorders"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 4"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "During the acute treatment phase, 90 patients will be randomized to sertraline and 30 patients will be randomized to placebo (3:1).",
+        "DesignPrimaryPurpose": "Basic Science",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignMaskingDescription": "Double Blind",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "150",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "sertraline",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "90 patients will be randomized to sertraline",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: sertraline"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "30 patient will be randomized to placebo",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: sertraline"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Healthy Control",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "30 healthy comparison subjects will be followed over the course of 12 weeks"
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "sertraline",
+            "InterventionDescription": "Sertraline is an antidepressant in a group of drugs called selective serotonin reuptake inhibitors (SSRIs)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo",
+                "sertraline"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Zoloft"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of Participants with Clinical Global Impression-Improvement Scale ≤ 2",
+            "PrimaryOutcomeDescription": "Primary response outcome will be treatment response based on patients having attained a score on the Clinical Global Impression-Improvement Scale ≤ 2 at Week 12 or Last-Observation-Carried-Forward (LOCF).",
+            "PrimaryOutcomeTimeFrame": "Week 12"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria for Patients with Anxiety :\n\nWritten, informed assent and consent.\nPatients, parent/guardian/LAR must be fluent in the English.\n8-17 years of age, inclusive, at Visit 1, and who have a parent/guardian/LAR.\nPatients must meet DSM-5 criteria for generalized, social and/or separation anxiety disorder, confirmed by the MINI-KID with no lifetime history of mania, OCD or significant history of trauma exposure.\nPARS score ≥15 at Visits 1 and 2.\nCaregiver who is willing to consent to be responsible for safety monitoring of the patient, provide information about the patient's condition, oversee the administration of the investigational product.\nNo clinically significant abnormalities on physical examination.\nNegative pregnancy test at Visit 1 in females.\nSexually active patients must practice a reliable method of contraception (Section 15.0) that will continue for the duration of the study and within 30 days following the end of study participation.\n\nReliable methods of contraception are defined below; other forms of contraceptives (pharmacological and/or non-pharmacological) are not accepted.\n\nsurgical sterilization\noral contraceptives (e.g., estrogen-progestin combination or progestin)\ntransdermally-delivered contraceptives (e.g., Ortho-Evra), depot injections (e.g.,\nDepo-Provera)\nvaginal contraceptive ring (e.g., NuvaRing), contraceptive implants (e.g., Implanon, Norplant\nII/Jadelle)\nan intrauterine device or\ndiaphragm plus condom.\n\nInclusion Criteria for Healthy Controls:\n\nWritten, informed assent and consent.\nPatients, parent/guardian/LAR must be fluent in the English.\n8 to 17 years of age, inclusive, at Visit 1, and who have a parent/guardian/LAR.\nNo history of any DSM-5 disorders (nicotine use disorder is permitted, history of adjustment disorder is permitted), confirmed by the MINI-KID.\nCaregiver who is willing to consent to be responsible for safety monitoring of the patient, provide information about the patient.\nNo clinically significant abnormalities on physical examination. Negative pregnancy test at Screening in females.\nNegative urine drug screen at Screening.\nNo first-degree relatives with an affective, anxiety or psychotic disorder.\n\nExclusion Criteria for Patients with Anxiety Disorders and Healthy Comparison:\n\nSubjects Co-occurring DSM-5 diagnosis mood (except persistent depressive disorder, unspecified depressive disorder or co- occurring anxiety disorders, provided that the primary diagnosis is generalized, social and/or separation anxiety disorder(s)), eating, bipolar, or psychotic disorders.\nA history of treatment with SSRIs within 12 weeks of Visit 2 (Baseline) or current pharmacotherapy with CNS effects that require >5 half-lives for discontinuation.\nA history of major neurological or medical illness or head trauma with loss of consciousness for ≥5 minutes.\nLifetime history of mania, OCD, or significant history of trauma exposure.\nHistory of hypersensitivity to sertraline.\nLifetime diagnosis of intellectual disability or history of IQ <70.\nHistory of alcohol/substance use disorder or any substance abuse within the past 6 months (nicotine dependence is permitted).\nCurrent psychotherapy stable for <2 months prior to Visit 2 (Baseline).\nFemales will not be eligible to participate if they are pregnant, breast feeding or lactating.\nThe subject lives >100 miles from the University of Cincinnati or >90 minutes from the CU site or is not able to attend the follow-up visits.\nPatients who are unable to swallow capsules.\nIs currently considered at risk of suicide in the opinion of the investigator, represents an inappropriate risk to the participant and/or could confound the interpretation of the study results.",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "8 Years",
+      "MaximumAge": "17 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Heidi K Schroeder, BS",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "513-558-4422",
+            "CentralContactEMail": "heysehk@ucmail.uc.edu"
+          },
+          {
+            "CentralContactName": "Ashley M Specht, BBA",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "513-558-2868",
+            "CentralContactEMail": "huckabam@ucmail.uc.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jeffrey R Strawn, MD, FAACAP",
+            "OverallOfficialAffiliation": "University of Cincinnati",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Columbia, New York State Psychiatric Institute",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10032",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Amir Levine, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "646-774-7331"
+                },
+                {
+                  "LocationContactName": "Amir Levine, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "University of Cincinnati",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Cincinnati",
+            "LocationState": "Ohio",
+            "LocationZip": "45219",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Ashley Specht",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "513-558-2868",
+                  "LocationContactEMail": "huckabam@ucmail.uc.edu"
+                },
+                {
+                  "LocationContactName": "Jeffrey R Strawn,, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000001008",
+            "ConditionMeshTerm": "Anxiety Disorders"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001523",
+            "ConditionAncestorTerm": "Mental Disorders"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M3476",
+            "ConditionBrowseLeafName": "Anxiety Disorders",
+            "ConditionBrowseLeafAsFound": "Anxiety Disorder",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M1117",
+            "ConditionBrowseLeafName": "Phobia, Social",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3967",
+            "ConditionBrowseLeafName": "Mental Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13625",
+            "ConditionBrowseLeafName": "Psychotic Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BXM",
+            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000020280",
+            "InterventionMeshTerm": "Sertraline"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000928",
+            "InterventionAncestorTerm": "Antidepressive Agents"
+          },
+          {
+            "InterventionAncestorId": "D000011619",
+            "InterventionAncestorTerm": "Psychotropic Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000017367",
+            "InterventionAncestorTerm": "Serotonin Uptake Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000014179",
+            "InterventionAncestorTerm": "Neurotransmitter Uptake Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000049990",
+            "InterventionAncestorTerm": "Membrane Transport Modulators"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000018377",
+            "InterventionAncestorTerm": "Neurotransmitter Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018490",
+            "InterventionAncestorTerm": "Serotonin Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3399",
+            "InterventionBrowseLeafName": "Antidepressive Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M14664",
+            "InterventionBrowseLeafName": "Serotonin",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M18801",
+            "InterventionBrowseLeafName": "Serotonin Uptake Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21253",
+            "InterventionBrowseLeafName": "Sertraline",
+            "InterventionBrowseLeafAsFound": "Dementia",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M13626",
+            "InterventionBrowseLeafName": "Psychotropic Drugs",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19657",
+            "InterventionBrowseLeafName": "Neurotransmitter Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PsychDr",
+            "InterventionBrowseBranchName": "Psychotropic Drugs"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

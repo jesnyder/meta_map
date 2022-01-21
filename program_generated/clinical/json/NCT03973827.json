@@ -1,0 +1,377 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03973827",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "ProTrans-Repeat"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2018-004158-11",
+            "SecondaryIdType": "EudraCT Number"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "NextCell Pharma Ab",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Wharton´s Jelly Derived Mesenchymal Stromal Cell Repeated Treatment of Adult Patients Diagnosed With Type I Diabetes",
+      "OfficialTitle": "An Open Label, Parallel Single Center Trial of Wharton's Jelly Derived Allogeneic Mesenchymal Stromal Cells Repeatedly Treated to Preserve Endogenous Insulin Production in Adult Patients Diagnosed With Type 1 Diabetes"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 17, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 10, 2020",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 30, 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 16, 2019",
+      "StudyFirstSubmitQCDate": "June 3, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 4, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 17, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 11, 2022",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "NextCell Pharma Ab",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "An open label, parallel single centre trial of Wharton's Jelly derived allogenic mesenchymal stromal cells repeated treatment to preserve endogenous insulin production in adult patients diagnosed with type 1 diabetes"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Type1diabetes"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "type 1 diabetes",
+          "diabetes",
+          "MSC's",
+          "Mesenchymal",
+          "Stem Cells",
+          "Stromal",
+          "Wharton´s Jelly"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "15",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Low dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "3 patients receiving low dose",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: ProTrans"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Medium dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "3 patients receiving medium dose",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: ProTrans"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "High dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "3 patients receiving high dose",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: ProTrans"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "6 patients"
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "ProTrans",
+            "InterventionDescription": "ProTrans is an pooled allogenic mesenchymal stromal cell treatment",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "High dose",
+                "Low dose",
+                "Medium dose"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "The primary safety endpoint in this study is; safety parameters include adverse events, hypoglycemia and allergic reactions",
+            "PrimaryOutcomeDescription": "To investigate the safety and tolerance after a repeated allogeneic infusion of Whartons Jelly Mesenchymal Stromal Cells (WJMSCs) intravenously in adult patients diagnosed with type 1 diabetes after one year following the repeated treatment.",
+            "PrimaryOutcomeTimeFrame": "372 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Delta-change of C-peptide AreaUnder the Curve (AUC) (0-120 min) for Mixed Meal Tolerance Test (MMTT) at day 372 following WJMSC infusion when compared to test performed before start of treatment.",
+            "PrimaryOutcomeTimeFrame": "372 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Number of patients insulin independent (ADA criteria) at day 372.",
+            "SecondaryOutcomeTimeFrame": "372 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of patients with daily insulin needs <0.25U/kg at day 372.",
+            "SecondaryOutcomeTimeFrame": "372 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "HbA1c at day 372",
+            "SecondaryOutcomeTimeFrame": "372 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Glucose variability (mean amplitude of glycaemic excursions and glycaemic lability index) duration derived from the continuous glucose monitoring system® at day 372",
+            "SecondaryOutcomeTimeFrame": "372 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Delta change of levels of fasting C-peptide at day 372 when compared to test before start of treatment",
+            "SecondaryOutcomeTimeFrame": "372 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Numbers of patients with peak C-peptide >0.20 nmol/l, in response to the MMTT, at day 372.",
+            "SecondaryOutcomeTimeFrame": "372 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nA new written informed consent for participation of the study is required to be given before undergoing any study-specific procedures.\nOnly patients that have previously been dosed by the IMP according to protocol Protrans-1 are eligible for a second dose of Protrans.\nNo identified IMP related on-going adverse event, neither history of any adverse event that is evaluated potentially to be related to the previous IMP dosing in Protrans I.\nClinical history compatible with type 1 diabetes diagnosed less than 3 years before enrolment. This also includes control patients not receiving IMP.\nOnly male patients between 18-41 years of age will be included.\nMentally stable and, in the opinion of the investigator, able to comply with the procedures of the study protocol.\n\nExclusion Criteria:\n\nInability to provide informed consent\nPatients with body mass index (BMI) > 30, or weight >100 kg\nPatients with weight <50 kg\nPatients with unstable cardiovascular status incl. NYHA class III/IV or symptoms of angina pectoris.\nPatients with uncontrolled hypertension (≥160/105 mmHg).\nPatients with active infections unless treatment is not judged necessary by the investigators\nPatients with latent or previous as well as on-going therapy against tuberculosis, or exposed to tuberculosis or has travelled in areas with high risk of tuberculosis or mycosis within the last 3 months.\nPatients with serological evidence of infection with HIV, Treponema pallidum, hepatitis B antigen (patients with serology consistent with previous vaccination and a history of vaccination are acceptable) or hepatitis C.\nPatients with any immune suppressive treatment\nPatients with known demyelinating disease or with symptoms or physical examination findings consistent with possible demyelinating disease.\nPatients with known, or previous, malignancy.\nTaking oral anti-diabetic therapies or any other concomitant medication which may interfere with glucose regulation other than insulin\nPatients with GFR <80 ml/min/1.73 m2 body surface\nPatients with proliferative retinopathy\nPatient with any condition or any circumstance that in the opinion of the investigator would make it unsafe to undergo treatment with MSC.\nKnown hypersensitivity against any excipients, i.e. dimethyl sulfoxide (DMSO).",
+      "HealthyVolunteers": "No",
+      "Gender": "Male",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "41 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Per-Ola Carlsson, PhD",
+            "OverallOfficialAffiliation": "Uppsala University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Karolinska Trial Alliance, Fas 1 enheten, Karolinska Universitetssjukhuset Huddinge",
+            "LocationCity": "Huddinge",
+            "LocationCountry": "Sweden"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003920",
+            "ConditionMeshTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionMeshId": "D000003922",
+            "ConditionMeshTerm": "Diabetes Mellitus, Type 1"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000044882",
+            "ConditionAncestorTerm": "Glucose Metabolism Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafAsFound": "Diabetes",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6269",
+            "ConditionBrowseLeafName": "Diabetes Mellitus, Type 1",
+            "ConditionBrowseLeafAsFound": "Type 1 Diabetes",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24556",
+            "ConditionBrowseLeafName": "Glucose Metabolism Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9517",
+            "InterventionBrowseLeafName": "Insulin",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M172956",
+            "InterventionBrowseLeafName": "Insulin, Globin Zinc",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Hypo",
+            "InterventionBrowseBranchName": "Hypoglycemic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03925324",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "STEMVAD-001"
+      },
+      "Organization": {
+        "OrgFullName": "Medstar Health Research Institute",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Serial Infusions of Allogeneic Mesenchymal Stem Cells in Cardiomyopathy Patients With Left Ventricular Assist Device",
+      "OfficialTitle": "A Randomized, Double-Blind, Placebo-Controlled Phase IIa Study of the Safety and Efficacy of Intravenous Delivery of Allogeneic Mesenchymal Stem Cells in Cardiomyopathy Patients and Implanted Left Ventricular Assist Device",
+      "Acronym": "STEM-VAD"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2020",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 3, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "May 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 1, 2019",
+      "StudyFirstSubmitQCDate": "April 19, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 24, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 15, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 17, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Medstar Health Research Institute",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "A study to assess the safety and preliminary efficacy of serial intravenous dose of Allogeneic Mesenchymal Bone Marrow Cells in subjects with heart failure and implanted left ventricular assist devices.",
+      "DetailedDescription": "A double-blind, placebo-controlled, single-center, randomized study to assess the safety and preliminary efficacy of a three serial intravenous doses of allogeneic mesenchymal bone marrow cells to subjects with heart failure and implanted left ventricular assist devices."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Ischemic Heart Disease",
+          "Non-ischemic Cardiomyopathy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Human Allogeneic Mesenchymal Bone Marrow Cells (aMBMC)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Three intravenous infusions of 1.5 million (aMBMC) per kg administered at approximately 2mL/min. Maximum dose as for 100kg subject or 150 million cells for any subject 100kg or more with each infusion 1 month apart.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Human Allogeneic Mesenchymal Bone Marrow Cells (aMBMC)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Three intravenous infusions of 1.5 mL/kg Lactated Ringer's Solution with each infusion 1 month apart.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Human Allogeneic Mesenchymal Bone Marrow Cells (aMBMC)",
+            "InterventionDescription": "Allogeneic Mesenchymal Bone Marrow Cells (aMBMC) 1.5 million cells/kg",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Human Allogeneic Mesenchymal Bone Marrow Cells (aMBMC)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "1.5 mL/kg Lactated Ringer's Solution",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Temperature",
+            "PrimaryOutcomeDescription": "Temperature",
+            "PrimaryOutcomeTimeFrame": "up to 12 months post enrollment"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Uncontrolled systemic infection",
+            "PrimaryOutcomeDescription": "Number of admission for uncontrolled systemic infection",
+            "PrimaryOutcomeTimeFrame": "up to 12 months post enrollment"
+          },
+          {
+            "PrimaryOutcomeMeasure": "All-cause mortality",
+            "PrimaryOutcomeDescription": "Rate of Death",
+            "PrimaryOutcomeTimeFrame": "up to 12 months post enrollment"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "NK cell depletion",
+            "SecondaryOutcomeDescription": "percent reduction in NK cells",
+            "SecondaryOutcomeTimeFrame": "Baseline to day 90"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in the following cardiac biomarker",
+            "SecondaryOutcomeDescription": "The change in the lab values N-Terminal Prohormone of Brain Natriuretic Peptide (NT-ProBNP)",
+            "SecondaryOutcomeTimeFrame": "Baseline and day 90 post initial infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in RV systolic function",
+            "SecondaryOutcomeDescription": "Change in RV systolic function",
+            "SecondaryOutcomeTimeFrame": "Baseline and day 90 post initial infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Hospitalizations due to right heart failure",
+            "SecondaryOutcomeDescription": "Number of hospitalizations for to right heart failure",
+            "SecondaryOutcomeTimeFrame": "day 90"
+          },
+          {
+            "SecondaryOutcomeMeasure": "6 minute walk distance changes",
+            "SecondaryOutcomeDescription": "6 minute walk distance changes",
+            "SecondaryOutcomeTimeFrame": "Baseline and day 90 post initial infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Gout flares",
+            "SecondaryOutcomeDescription": "Count of gout flares",
+            "SecondaryOutcomeTimeFrame": "Day 90"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge ≥18 years.\nAdvanced Heart Failure\nAdvanced HF defined as HF requiring LVAD implantation and deemed stable on his/her LVAD.\nOn stable medical therapy (per the discretion of the treating physician) including beta-blockers, ACE-inhibitors, angiotensin receptors blockers, angiotensin receptor neprilysin inhibitor, mineralocorticoid receptor antagonists, isosorbide, hydralazine, and mineralocorticoid receptor antagonists) and optimized pump speed for at least a month prior to randomization.\nHS-CRP level≥2 mg/l.\nNYHA class II-III symptoms.\nAbility to understand and provide signed informed consent.\nReasonable expectation that patient will receive standard post-treatment care and attend all scheduled safety follow-up visits\n\nExclusion Criteria:\n\nWomen of childbearing potential. Postmenopausal women or women with permanent contraception method (defined as total hysterectomy) will not be excluded.\nHistory of debilitating stroke (modified Rankin Score > 3) within 3 months.\nThe likelihood of requirement of cardiac surgery during the study period.\nPresence of clinically significant, uncorrected left sided valvular heart disease, active acute myocarditis, or uncontrolled hypertension defined as Persistently elevated mean arterial blood pressure (>100 mmHg). Echocardiography within 12 months of screening. Patients can be re-evaluated, at the discretion of the investigator.\nQTc >550 ms (in the absence of bundle branch block, interventricular conduction delay or ventricular pacing). Electrocardiogram (ECG) within 60 days.\nHistory of cardiac arrest within 3 months.\nHypertrophic or infiltrative cardiomyopathy.\nConsidered or listed for organ transplantation or history of organ transplantation\nIllness other than HF with life expectancy less than 12 months.\nEnrolled in an interventional trial or received an experimental drug or device within 30 days of randomization.\nLeft ventricular assist device implantation >2 years prior to enrollment.\nBiventricular assist device (Bi-VAD) support.\nSevere COPD defined by FEV1<1L, FEV1/FVC<70% within 12 months if known history of COPD, otherwise FEV1<1L, FEV1/FVC<70% within 24 months\nUncontrolled seizure disorder.\n\nClinically significant hematologic, hepatic, or renal impairment as determined by screening clinical laboratory tests within the last 30 days:\n\nLiver disease = ALT or AST > 3x normal, alkaline phosphatase or bilirubin >2x normal Renal disease = on long term dialysis Hematologic = Unexplained persistent leukocytosis (WBC >11 K/UL) or hemoglobin < 8.5 gm/dl\n\nPresence of any other clinically-significant medical condition, psychiatric condition, or laboratory abnormality, that in the judgment of the investigator or sponsor may affect compliance with the study protocol or pose a safety risk to the subject.\nInability to comply with the conditions of the protocol.\nAcute coronary syndrome within 4 weeks (clinical diagnosis, confirmed by electrocardiographic abnormalities and elevation of troponin-I).\nMalignancy within the previous five years, except adequately treated basal cell carcinoma, provided that it is neither infiltrating nor sclerosing, and carcinoma in situ of the cervix.\nActive uncontrolled systemic infection. Positive blood or deep tissue cultures or clinical or imaging evidence of systemic infection despite complete course of effective antimicrobial therapy as determined by infectious diseases. Localized (non-systemic) infection is not an exclusion criterion. Patients can be re-evaluated, at the discretion of the investigator.\nEarly postpartum cardiomyopathy (within six months of diagnosis).\nPresence of inherited or acquired immune deficiency or human immunodeficiency virus infection (HIV). Negative HIV test within the preceding 12 months is required.\nSystemic corticosteroids, immunosuppressive drug therapy (cyclophosphamide, methotrexate, cyclosporine, tacrolimus, azathioprine, mycophenolate, sirolimus, etc.), and DNA depleting or cytotoxic drugs taken within four weeks prior to study treatment.\nKnown Porphyria.\nAllergy to sodium citrate or any caine type of local anesthetic.\nPatient enrolled in hospice care.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "MedStar Washington Hospital Center",
+            "LocationCity": "Washington",
+            "LocationState": "District of Columbia",
+            "LocationZip": "20010",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006331",
+            "ConditionMeshTerm": "Heart Diseases"
+          },
+          {
+            "ConditionMeshId": "D000009202",
+            "ConditionMeshTerm": "Cardiomyopathies"
+          },
+          {
+            "ConditionMeshId": "D000017202",
+            "ConditionMeshTerm": "Myocardial Ischemia"
+          },
+          {
+            "ConditionMeshId": "D000003324",
+            "ConditionMeshTerm": "Coronary Artery Disease"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003327",
+            "ConditionAncestorTerm": "Coronary Disease"
+          },
+          {
+            "ConditionAncestorId": "D000001161",
+            "ConditionAncestorTerm": "Arteriosclerosis"
+          },
+          {
+            "ConditionAncestorId": "D000001157",
+            "ConditionAncestorTerm": "Arterial Occlusive Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafAsFound": "Heart Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5698",
+            "ConditionBrowseLeafName": "Coronary Artery Disease",
+            "ConditionBrowseLeafAsFound": "Ischemic Heart Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18658",
+            "ConditionBrowseLeafName": "Myocardial Ischemia",
+            "ConditionBrowseLeafAsFound": "Ischemic Heart Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11306",
+            "ConditionBrowseLeafName": "Cardiomyopathies",
+            "ConditionBrowseLeafAsFound": "Cardiomyopathy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5701",
+            "ConditionBrowseLeafName": "Coronary Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3621",
+            "ConditionBrowseLeafName": "Arteriosclerosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3617",
+            "ConditionBrowseLeafName": "Arterial Occlusive Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

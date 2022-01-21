@@ -1,0 +1,806 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02048371",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "SARC024"
+      },
+      "Organization": {
+        "OrgFullName": "Sarcoma Alliance for Research through Collaboration",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "SARC024: A Blanket Protocol to Study Oral Regorafenib in Patients With Selected Sarcoma Subtypes",
+      "OfficialTitle": "SARC024: A Blanket Protocol to Study Oral Regorafenib in Patients With Selected Sarcoma Subtypes"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 2014",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "February 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 10, 2014",
+      "StudyFirstSubmitQCDate": "January 27, 2014",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 29, 2014",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "August 9, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 10, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Sarcoma Alliance for Research through Collaboration",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Although regorafenib was approved for use in patients who had progressive GIST despite imatinib and/or sunitinib on the basis of phase II and phase III data, it has not been examined in a systematic fashion in patients with other forms of sarcoma.\n\nGiven the activity of sorafenib, sunitinib and pazopanib in soft tissue sarcomas, and evidence of activity of sorafenib in osteogenic sarcoma and possibly Ewing/Ewing-like sarcoma, there is precedent to examine SMOKIs (small molecule oral kinase inhibitors) such as regorafenib in sarcomas other than GIST. It is also recognized that SMOKIs (small molecule oral kinase inhibitors)such as regorafenib, sorafenib, pazopanib, and sunitinib have overlapping panels of kinases that are inhibited simultaneously. While not equivalent, most of these SMOKIs (small molecule oral kinase inhibitors) block vascular endothelial growth factor and platelet derived growth factors receptors (VEGFRs and PDGFRs), speaking to a common mechanism of action of several of these agents.",
+      "DetailedDescription": "Although regorafenib was approved for use in patients who had progressive GIST despite imatinib and/or sunitinib on the basis of phase II and phase III data, it has not been examined in a systematic fashion in patients with other forms of sarcoma.\n\nGiven the activity of sorafenib, sunitinib and pazopanib in soft tissue sarcomas, and evidence of activity of sorafenib in osteogenic sarcoma and possibly Ewing/Ewing-like sarcoma, there is precedent to examine SMOKIs (small molecule oral kinase inhibitors) such as regorafenib in sarcomas other than GIST. It is also recognized that SMOKIs (small molecule oral kinase inhibitors)such as regorafenib, sorafenib, pazopanib, and sunitinib have overlapping panels of kinases that are inhibited simultaneously. While not equivalent, most of these SMOKIs (small molecule oral kinase inhibitors) block vascular endothelial growth factor and platelet derived growth factors receptors (VEGFRs and PDGFRs), speaking to a common mechanism of action of several of these agents"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Liposarcoma",
+          "Osteogenic Sarcoma",
+          "Ewing/Ewing-like Sarcoma",
+          "Rhabdomyosarcoma",
+          "Mesenchymal Chondrosarcoma"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Crossover Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "150",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Cohort A: Liposarcoma",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Adults: 160 mg daily; 21 days on and 7 days off Pediatrics: 82mg/m2 (rounding to the nearest 20mg) daily; 21 days on and 7 days off\n\nRegorafenib",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Regorafenib"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort A: Liposarcoma, Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "21 days on and 7 days off\n\nPlacebo",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort B: Osteosarcoma",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Adults: 160 mg daily; 21 days on and 7 days off Pediatrics: 82mg/m2 (rounding to the nearest 20mg) daily; 21 days on and 7 days off\n\nRegorafenib",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Regorafenib"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort B: Osteosarcoma, placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "21 days on and 7 days off\n\nPlacebo",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort C: Ewing sarcoma",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Adults: 160 mg daily; 21 days on and 7 days off Pediatrics: 82mg/m2 (rounding to the nearest 20mg) daily; 21 days on and 7 days off\n\nRegorafenib",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Regorafenib"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort D: Rhabdomyosarcoma",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Adults: 160 mg daily; 21 days on and 7 days off Pediatrics: 82mg/m2 (rounding to the nearest 20mg) daily; 21 days on and 7 days off\n\nRegorafenib",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Regorafenib"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort E: Mesenchymal Chondrosarcoma",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Adults: 160 mg daily; 21 days on and 7 days off Pediatrics: 82mg/m2 (rounding to the nearest 20mg) daily; 21 days on and 7 days off\n\nRegorafenib",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Regorafenib"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Regorafenib",
+            "InterventionDescription": "Adults: 160 mg daily; 21 days on and 7 days off Pediatrics: 82mg/m2 (rounding to the nearest 20mg) daily; 21 days on and 7 days off",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cohort A: Liposarcoma",
+                "Cohort B: Osteosarcoma",
+                "Cohort C: Ewing sarcoma",
+                "Cohort D: Rhabdomyosarcoma",
+                "Cohort E: Mesenchymal Chondrosarcoma"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "21 days on and 7 days off",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cohort A: Liposarcoma, Placebo",
+                "Cohort B: Osteosarcoma, placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Progression-free survival (PFS). Cohort A",
+            "PrimaryOutcomeDescription": "The progression-free survival is the length of time during and after the treatment of a disease, such as cancer, that a patient lives with the disease but it does not get worse. Cohort A (liposarcoma). PFS will be evaluated according to RECIST (Response Evaluation Criteria In Solid Tumors) 1.1.",
+            "PrimaryOutcomeTimeFrame": "up to 3 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Progression-free survival (PFS). Cohort B",
+            "PrimaryOutcomeDescription": "The progression-free survival is the length of time during and after the treatment of a disease, such as cancer, that a patient lives with the disease but it does not get worse. Cohort B (osteogenic sarcoma). PFS will be evaluated according to RECIST (Response Evaluation Criteria In Solid Tumors) 1.1.",
+            "PrimaryOutcomeTimeFrame": "up to 3 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Progression-free survival (PFS). Cohort C",
+            "PrimaryOutcomeDescription": "The progression-free survival is the length of time during and after the treatment of a disease, such as cancer, that a patient lives with the disease but it does not get worse. Cohort C (Ewing/Ewing-like sarcoma). PFS will be evaluated according to RECIST (Response Evaluation Criteria In Solid Tumors) 1.1.",
+            "PrimaryOutcomeTimeFrame": "up to 16 weeks"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Progression-free survival (PFS). Cohort D",
+            "PrimaryOutcomeDescription": "The progression-free survival is the length of time during and after the treatment of a disease, such as cancer, that a patient lives with the disease but it does not get worse. Cohort D (Rhabdomyosarcoma). PFS will be evaluated according to RECIST (Response Evaluation Criteria In Solid Tumors) 1.1.",
+            "PrimaryOutcomeTimeFrame": "up to 16 weeks"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Progression-free survival (PFS). Cohort E",
+            "PrimaryOutcomeDescription": "The progression-free survival is the length of time during and after the treatment of a disease, such as cancer, that a patient lives with the disease but it does not get worse. Cohort E (Mesenchymal Chondrosarcoma). PFS will be evaluated according to RECIST (Response Evaluation Criteria In Solid Tumors) 1.1.",
+            "PrimaryOutcomeTimeFrame": "up to 16 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "The incidence of reported CTCAE (Common Terminology Criteria for Adverse Events) version 4.03 adverse events. All cohorts.",
+            "SecondaryOutcomeDescription": "Common Toxicity Criteria, also referred to as the Common Terminology Criteria for Adverse Events (CTCAE), is a standardised classification of side effects used in assessing drugs for cancer therapy. Cohorts A, B, C, and D.",
+            "SecondaryOutcomeTimeFrame": "up to 3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Overall response rate (ORR). All cohorts.",
+            "SecondaryOutcomeDescription": "The overall response rate (ORR) is the percentage of patients whose cancer shrinks or disappears after treatment. ORR will be evaluated according to RECIST (Response Evaluation Criteria In Solid Tumors) 1.1",
+            "SecondaryOutcomeTimeFrame": "up to 3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Progression-free survival (PFS), Cohorts A and B, after crossover.",
+            "SecondaryOutcomeDescription": "The progression-free survival is the length of time during and after the treatment of a disease, such as cancer, that a patient lives with the disease but it does not get worse.",
+            "SecondaryOutcomeTimeFrame": "up to 3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Response rate (RR), Cohorts A and B, after crossover.",
+            "SecondaryOutcomeDescription": "The response rate (RR) is the percentage of patients whose cancer shrinks or disappears after treatment.",
+            "SecondaryOutcomeTimeFrame": "up to 3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to tumor progression (TTP), Cohorts A and B, after crossover.",
+            "SecondaryOutcomeDescription": "Time to tumor progression (TTP) is the length of time from the date of diagnosis or the start of treatment for a disease until the disease starts to get worse or spread to other parts of the body.",
+            "SecondaryOutcomeTimeFrame": "up to 3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "overall survival (OS). Cohorts A and B, after crossover.",
+            "SecondaryOutcomeDescription": "Overall survival (OS) is the length of time from either the date of diagnosis or the start of treatment for a disease, such as cancer, that patients diagnosed with the disease are still alive.",
+            "SecondaryOutcomeTimeFrame": "up to 3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Disease Specific Survival (DSS). Cohorts A and B, after crossover.",
+            "SecondaryOutcomeDescription": "Disease-specific survival refers to the percentage of people in a study or treatment group who have not died from a specific disease in a defined period of time.",
+            "SecondaryOutcomeTimeFrame": "up to 3 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge ≥ 10 year for Liposarcoma, Osteosarcoma, Ewing sarcoma and Mesenchymal Chondrosarcoma; Age ≥ 5 years for Rhabdomyosarcoma cohorts\nWeight ≥ 15 kg (33 lb)\nPatients must have histologically or cytologically confirmed advanced/metastatic liposarcoma, osteogenic sarcoma, Ewing/Ewing-like sarcoma of soft tissue or bone, fusion-positive alveolar rhabdomyosarcoma or embryonal rhabdomyosarcoma/fusion-negative alveolar rhabdomyosarcoma , or mesenchymal chondrosarcoma\nWHO Performance Status 0, 1 or 2. A maximum of 1/3 of patients in cohorts A & B may be WHO performance status 2\nAt least one prior line of systemic therapy for the sarcoma diagnosis (neoadjuvant, adjuvant or metastatic disease)\nAll acute toxic effects of any prior treatment have resolved to NCI-CTCAE v 4.0 Grade 1 or less (except alopecia) at the time of signing the Informed Consent Form (ICF)\nSubject must be able to swallow and retain oral medication\nAt least one site of measurable disease on x-ray/CT/MRI scan as defined by RECIST 1.1\nAdequate organ function within 14 days of registration\nWritten, voluntary informed consent\nFertile men and women of childbearing potential must agree to use an effective method of birth control from Day 1 of study and for 3 months after last study drug administration in both sexes, as assessed by the investigator. Women of childbearing potential include pre-menopausal women and women within the first 2 years of the onset of menopause. Women of childbearing potential must have a negative pregnancy test less than or equal to seven days prior to Day 1 of study. The definition of adequate contraception will be based on the judgement of the investigator.\nEvidence of progression of disease as defined by RECIST 1.1 (i.e. new disease sites or 20% growth of index lesions) within 6 months of registration\nPatients with central nervous system disease are eligible for enrollment if they have received prior radiotherapy or surgery to sites of CNS (central nervous system) metastatic disease and are without evidence of clinical progression for at least 12 weeks after therapy\n\nExclusion Criteria:\n\nPatients with documentation of well differentiated liposarcoma only (of the well differentiated/dedifferentiated liposarcoma family) are specifically excluded, owing to its characteristically slow growth. If high grade areas are suspected (dedifferentiation), but not proved by pathology analysis (e.g. after primary resection of a well-differentiated liposarcoma), a biopsy must be performed to demonstrate the high-grade dedifferentiated disease\nPrior systemic therapy with a small molecule oral kinase inhibitor, including but not limited to: pazopanib, sunitinib, sorafenib, everolimus, sirolimus, vemurafenib, dasatinib and trametinib\nPrevious assignment to treatment during this study. Subjects permanently withdrawn from study participation will not be allowed to re-enter study. Patients who progress on placebo are specifically allowed to enroll on the treatment arm of the study if they meet all other entry criteria\nConcurrent, clinically significant, active malignancies within 12 months of study enrollment\nPatients with severe and/or uncontrolled concurrent medical disease that in the opinion of the investigator could cause unacceptable safety risks or compromise compliance with the protocol\nMajor surgery within 28 days prior to study registration or those patients who have not recovered adequately from prior surgery\nPatients who have received wide field radiotherapy ≤ 28 days (defined as > 50% of volume of pelvis bones or equivalent) or limited field radiation for palliation < 14 days prior to study registration or those patients who have not recovered adequately from side effects of such therapy\nPatients who have received prior systemic therapy < 14 days prior to study registration or have not recovered adequately from toxicities to CTCAE v. 4.03 grade 1 or less; prior investigational therapy may not have been given < 5 half-lives of last dose of treatment, or < 14 days, whichever is greater\nPatients who have had prior autologous, or allogeneic bone marrow transplant\nUncontrolled hypertension (systolic pressure >140 mm Hg or diastolic pressure > 90 mm Hg [NCI-CTCAE v 4.0] on repeated measurement) despite optimal medical management\nActive or clinically significant cardiac disease including: Congestive heart failure-New York Heart Association (NYHA) > class II, Active coronary artery disease, Cardiac arrhythmias requiring anti-arrhythmic therapy other than beta blockers or digoxin, Unstable angina (anginal symptoms at rest), new onset angina within 3 months before randomization, or myocardial infarction within 6 months before randomization\nEvidence or history of bleeding diathesis\nAny hemorrhage or bleeding event ≥ NCI CTCAE Grade 3 within 4 weeks prior to study registration\nSubjects with thrombotic, embolic, venous, or arterial events, such as cerebrovascular accident (including transient ischemic attacks) deep vein thrombosis or pulmonary embolism within 6 months of start of study treatment\nKnown history of human immunodeficiency virus (HIV) infection or current chronic or active hepatitis B or C infection requiring treatment with antiviral therapy.\nOngoing infection > Grade 2 NCI-CTCAE v 4.03\nPresence of a non-healing wound, non-healing ulcer, or benign bone fracture (patients with stress insufficiency fractures e.g. from osteoporosis or pathological fracture from tumor are eligible for study)\nPatients with seizure disorder requiring medication\nProteinuria > 100 mg/dl on urine analysis\nInterstitial lung disease with ongoing signs and symptoms at the time of informed consent\nPleural effusion or ascites that causes respiratory compromise (≥ NCI-CTCAE version 4.03 Grade 2 dyspnea)\nHistory of organ allograft (including corneal transplant).\nKnown or suspected allergy or hypersensitivity to regorafenib, or excipients of the formulations given during the course of this trial\nAny malabsorption condition.\nWomen who are pregnant or breast-feeding.\nAny condition which, in the investigator's opinion, makes the subject unsuitable for trial participation\nSubstance abuse, medical, psychological or social conditions that may interfere with the subject's participation in the study or evaluation of the study results\nInability to comply with protocol required procedures\nUse of any herbal remedy (e.g. St. John wort [Hypericum perforatum])",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "5 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "SARC Office",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "734-930-7600",
+            "CentralContactEMail": "sarc@sarctrials.org"
+          },
+          {
+            "CentralContactName": "SARC Office",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "734-930-7600",
+            "CentralContactEMail": "sarc024@sarctrials.org"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Robert Maki, MD, PhD",
+            "OverallOfficialAffiliation": "University of Pennsylvania",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "City of Hope National Medical Center",
+            "LocationStatus": "Completed",
+            "LocationCity": "Duarte",
+            "LocationState": "California",
+            "LocationZip": "91010",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Children's Hospital Los Angeles",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Los Angeles",
+            "LocationState": "California",
+            "LocationZip": "90027",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Magnolia Manzano",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "323-361-8156",
+                  "LocationContactEMail": "mmanzano@chla.usc.edu"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Sarcoma Oncology Research Center",
+            "LocationStatus": "Completed",
+            "LocationCity": "Santa Monica",
+            "LocationState": "California",
+            "LocationZip": "90403",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Stanford University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Stanford",
+            "LocationState": "California",
+            "LocationZip": "94305",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Maria Ahern",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "650-725-6413",
+                  "LocationContactEMail": "mahern@stanford.edu"
+                },
+                {
+                  "LocationContactName": "Kristen Ganjoo, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Mayo Clinic - Florida",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Jacksonville",
+            "LocationState": "Florida",
+            "LocationZip": "32224",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Clinical Trials Referral Office",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "855-776-0015",
+                  "LocationContactEMail": "mayocliniccancerstudies@mayo.edu"
+                },
+                {
+                  "LocationContactName": "Steven Attia, DO",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "H. Lee Moffitt",
+            "LocationStatus": "Completed",
+            "LocationCity": "Tampa",
+            "LocationState": "Florida",
+            "LocationZip": "33612",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Northwestern University",
+            "LocationStatus": "Completed",
+            "LocationCity": "Chicago",
+            "LocationState": "Illinois",
+            "LocationZip": "60611",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Indiana University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Indianapolis",
+            "LocationState": "Indiana",
+            "LocationZip": "46202",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Michele Niland",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "317-278-0778",
+                  "LocationContactEMail": "mniland@iupui.edu"
+                },
+                {
+                  "LocationContactName": "Daniel Rushing, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Dana Farber/Partners Cancer Care",
+            "LocationStatus": "Completed",
+            "LocationCity": "Boston",
+            "LocationState": "Massachusetts",
+            "LocationZip": "02215",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Mayo Clinic - Minnesota",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Rochester",
+            "LocationState": "Minnesota",
+            "LocationZip": "55905",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Clinical Trials Referral Office",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "855-776-0015",
+                  "LocationContactEMail": "mayocliniccancerstudies@mayo.edu"
+                },
+                {
+                  "LocationContactName": "Scott Okuno, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Carolinas Healthcare System",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Charlotte",
+            "LocationState": "North Carolina",
+            "LocationZip": "28203",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Michelle Treadwell",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "980-442-2332",
+                  "LocationContactEMail": "Michelle.Treadwell@carolinashealthcare.org"
+                },
+                {
+                  "LocationContactName": "Michael Livingston, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Duke University",
+            "LocationStatus": "Completed",
+            "LocationCity": "Durham",
+            "LocationState": "North Carolina",
+            "LocationZip": "27705",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Ohio State University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Columbus",
+            "LocationState": "Ohio",
+            "LocationZip": "43202",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Comprehensive Cancer Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "800-293-5066",
+                  "LocationContactEMail": "Jamesline@osumc.edu"
+                },
+                {
+                  "LocationContactName": "David Liebner, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Oregon Health and Science University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Portland",
+            "LocationState": "Oregon",
+            "LocationZip": "97239",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "David Boody-Alter",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "503-418-9655",
+                  "LocationContactEMail": "boodyalt@ohsu.edu"
+                },
+                {
+                  "LocationContactName": "Lara Davis, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Vanderbilt University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Nashville",
+            "LocationState": "Tennessee",
+            "LocationZip": "37232",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Melissa Sindler",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "615-875-0060",
+                  "LocationContactEMail": "melissa.m.sindler@vanderbilt.edu"
+                },
+                {
+                  "LocationContactName": "Vicky Keedy, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Texas Children's Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77030",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Akudo Anyanwu, BSN",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "832-824-3480",
+                  "LocationContactEMail": "aaanyanw@texaschildrens.org"
+                },
+                {
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "832-822-4242",
+                  "LocationContactEMail": "solidtumor@texaschildrens.org"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Huntsman Cancer Institute",
+            "LocationStatus": "Terminated",
+            "LocationCity": "Salt Lake City",
+            "LocationState": "Utah",
+            "LocationZip": "84112",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Seattle Cancer Care Alliance",
+            "LocationStatus": "Completed",
+            "LocationCity": "Seattle",
+            "LocationState": "Washington",
+            "LocationZip": "98109",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "32701199",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Riedel RF, Ballman KV, Lu Y, Attia S, Loggers ET, Ganjoo KN, Livingston MB, Chow W, Wright J, Ward JH, Rushing D, Okuno SH, Reed DR, Liebner DA, Keedy VL, Mascarenhas L, Davis LE, Ryan C, Reinke DK, Maki RG. A Randomized, Double-Blind, Placebo-Controlled, Phase II Study of Regorafenib Versus Placebo in Advanced/Metastatic, Treatment-Refractory Liposarcoma: Results from the SARC024 Study. Oncologist. 2020 Nov;25(11):e1655-e1662. doi: 10.1634/theoncologist.2020-0679. Epub 2020 Aug 20."
+          },
+          {
+            "ReferencePMID": "31401903",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Hattinger CM, Patrizio MP, Magagnoli F, Luppi S, Serra M. An update on emerging drugs in osteosarcoma: towards tailored therapies? Expert Opin Emerg Drugs. 2019 Sep;24(3):153-171. doi: 10.1080/14728214.2019.1654455. Epub 2019 Aug 14. Review."
+          },
+          {
+            "ReferencePMID": "31013172",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Davis LE, Bolejack V, Ryan CW, Ganjoo KN, Loggers ET, Chawla S, Agulnik M, Livingston MB, Reed D, Keedy V, Rushing D, Okuno S, Reinke DK, Riedel RF, Attia S, Mascarenhas L, Maki RG. Randomized Double-Blind Phase II Study of Regorafenib in Patients With Metastatic Osteosarcoma. J Clin Oncol. 2019 Jun 1;37(16):1424-1431. doi: 10.1200/JCO.18.02374. Epub 2019 Apr 23."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012509",
+            "ConditionMeshTerm": "Sarcoma"
+          },
+          {
+            "ConditionMeshId": "D000012208",
+            "ConditionMeshTerm": "Rhabdomyosarcoma"
+          },
+          {
+            "ConditionMeshId": "D000008080",
+            "ConditionMeshTerm": "Liposarcoma"
+          },
+          {
+            "ConditionMeshId": "D000002813",
+            "ConditionMeshTerm": "Chondrosarcoma"
+          },
+          {
+            "ConditionMeshId": "D000012516",
+            "ConditionMeshTerm": "Osteosarcoma"
+          },
+          {
+            "ConditionMeshId": "D000018211",
+            "ConditionMeshTerm": "Chondrosarcoma, Mesenchymal"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000018204",
+            "ConditionAncestorTerm": "Neoplasms, Connective and Soft Tissue"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009217",
+            "ConditionAncestorTerm": "Myosarcoma"
+          },
+          {
+            "ConditionAncestorId": "D000009379",
+            "ConditionAncestorTerm": "Neoplasms, Muscle Tissue"
+          },
+          {
+            "ConditionAncestorId": "D000018205",
+            "ConditionAncestorTerm": "Neoplasms, Adipose Tissue"
+          },
+          {
+            "ConditionAncestorId": "D000009372",
+            "ConditionAncestorTerm": "Neoplasms, Connective Tissue"
+          },
+          {
+            "ConditionAncestorId": "D000018213",
+            "ConditionAncestorTerm": "Neoplasms, Bone Tissue"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M14479",
+            "ConditionBrowseLeafName": "Sarcoma",
+            "ConditionBrowseLeafAsFound": "Sarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14486",
+            "ConditionBrowseLeafName": "Osteosarcoma",
+            "ConditionBrowseLeafAsFound": "Osteogenic Sarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5205",
+            "ConditionBrowseLeafName": "Chondrosarcoma",
+            "ConditionBrowseLeafAsFound": "Chondrosarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10232",
+            "ConditionBrowseLeafName": "Liposarcoma",
+            "ConditionBrowseLeafAsFound": "Liposarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14189",
+            "ConditionBrowseLeafName": "Rhabdomyosarcoma",
+            "ConditionBrowseLeafAsFound": "Rhabdomyosarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19509",
+            "ConditionBrowseLeafName": "Chondrosarcoma, Mesenchymal",
+            "ConditionBrowseLeafAsFound": "Mesenchymal Chondrosarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19502",
+            "ConditionBrowseLeafName": "Neoplasms, Connective and Soft Tissue",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11321",
+            "ConditionBrowseLeafName": "Myosarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19503",
+            "ConditionBrowseLeafName": "Neoplasms, Adipose Tissue",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11469",
+            "ConditionBrowseLeafName": "Neoplasms, Connective Tissue",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19511",
+            "ConditionBrowseLeafName": "Neoplasms, Bone Tissue",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4340",
+            "ConditionBrowseLeafName": "Osteosarcoma",
+            "ConditionBrowseLeafAsFound": "Osteogenic Sarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T5284",
+            "ConditionBrowseLeafName": "Soft Tissue Sarcoma",
+            "ConditionBrowseLeafAsFound": "Sarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T1172",
+            "ConditionBrowseLeafName": "Chondrosarcoma",
+            "ConditionBrowseLeafAsFound": "Chondrosarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T3479",
+            "ConditionBrowseLeafName": "Liposarcoma",
+            "ConditionBrowseLeafAsFound": "Liposarcoma",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

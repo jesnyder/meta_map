@@ -1,0 +1,248 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02823613",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "RZL-SDU-IMM-CVR"
+      },
+      "Organization": {
+        "OrgFullName": "University of Southern Denmark",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "The Influence of High and Low Salt on Exosomes in the Urine",
+      "OfficialTitle": "The Influence of High and Low Salt on Exosomes in the Urine"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2020",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 2016"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "May 1, 2019",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "May 23, 2019",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "June 23, 2016",
+      "StudyFirstSubmitQCDate": "June 30, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 6, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "April 6, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 7, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Rikke Zachar Langkilde",
+        "ResponsiblePartyInvestigatorTitle": "MD, phd student",
+        "ResponsiblePartyInvestigatorAffiliation": "University of Southern Denmark"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of Southern Denmark",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Danish Diabetes Academy",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Odense University Hospital",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Beckett Foundation",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The hypothesis is that changes in the epithelial sodium channel (ENaC) in the kidney is reflected in urinary exosomes and that the amount of ENaC as well as the cleavage degree is upregulated in conditions with low salt.",
+      "DetailedDescription": "Methods:\n\nExosomes will be isolated from spot urine by ultracentrifugation and tested using western blotting. In-house developed antibodies against different parts of the ENaC gamma subunit as well as commercial antibodies will be used. A marker for exosomes will validate the presence of exosomes in the urine.\n\nPower considerations:\n\nIn this cross over salt-intervention study with quantification of ENaC the investigators refer to a published study regarding the sodium-chloride co-transporter (NCC) in the kidney, were rats where given aldosterone infusion or a low salt diet. In this study n=6 was sufficient to detect a 2-3 fold change in NCC in urinary exosomes. Furthermore 5 patients with primary aldosteronism had a significant increase in NCC in urinary exosomes (N. Lubbe et al, Hypertension 2012).\n\nOn the basis of this the investigators choose to test 10 persons, but are not able to make a regular power calculation."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Healthy"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "ENaC",
+          "Exosomes",
+          "Urinary biomarker",
+          "Salt regulation"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Crossover Assignment",
+        "DesignPrimaryPurpose": "Basic Science",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)",
+          "DesignMaskingDescription": "open label"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "10",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Healthy male test subjects 1-5",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "High salt diet followed by low salt diet",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Dietary Supplement: High salt diet followed by low salt diet"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Healthy male test subjects 6-10",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Low salt diet followed by high salt diet",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Dietary Supplement: Low salt diet followed by high salt diet"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Dietary Supplement",
+            "InterventionName": "High salt diet followed by low salt diet",
+            "InterventionDescription": "High salt diet (250 mmol/day) in 5 days followed by low salt diet (60-70 mmol/day) in 5 days.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Healthy male test subjects 1-5"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Dietary Supplement",
+            "InterventionName": "Low salt diet followed by high salt diet",
+            "InterventionDescription": "Low salt diet (60-70 mmol/day) in 5 days followed by high salt diet (250 mmol/day) in 5 days.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Healthy male test subjects 6-10"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Changes in epithelial sodium channel (ENaC) appearance in urinary exosomes",
+            "PrimaryOutcomeDescription": "Semiquantitative western blotting",
+            "PrimaryOutcomeTimeFrame": "After 5 days on high or low salt diet"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Plasma aldosterone",
+            "SecondaryOutcomeDescription": "Concentration in plasma.",
+            "SecondaryOutcomeTimeFrame": "Before study start and after 5 days on high or low salt diet"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Renin",
+            "SecondaryOutcomeDescription": "Concentration in plasma.",
+            "SecondaryOutcomeTimeFrame": "Before study start and after 5 days on high or low salt diet"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nHealthy men aged 20-40\nBody Mass Index (BMI, weight/height^2) between 18 and 25.\n\nExclusion Criteria:\n\nIncreased blood pressure (hypertension) or in treatment for high blood pressure\nDiabetes\nRegular medical intake\nSmoking\nExpectation of lacking cooperation or lack of understanding of the experiment\nClinical relevant organic or systemic disease including malign disease\nDecreased kidney function",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "Male",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "40 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Boye L Jensen, dr.med., phd",
+            "OverallOfficialAffiliation": "Cardiovascular and Renal Research, Institute of Moleculare Medicine, University of Southern Denmark",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Southern Denmark",
+            "LocationCity": "Odense",
+            "LocationZip": "5000",
+            "LocationCountry": "Denmark"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "25060057",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Zachar RM, Skjødt K, Marcussen N, Walter S, Toft A, Nielsen MR, Jensen BL, Svenningsen P. The epithelial sodium channel γ-subunit is processed proteolytically in human kidney. J Am Soc Nephrol. 2015 Jan;26(1):95-106. doi: 10.1681/ASN.2013111173. Epub 2014 Jul 24."
+          },
+          {
+            "ReferencePMID": "22851731",
+            "ReferenceType": "background",
+            "ReferenceCitation": "van der Lubbe N, Jansen PM, Salih M, Fenton RA, van den Meiracker AH, Danser AH, Zietse R, Hoorn EJ. The phosphorylated sodium chloride cotransporter in urinary exosomes is superior to prostasin as a marker for aldosteronism. Hypertension. 2012 Sep;60(3):741-8. doi: 10.1161/HYPERTENSIONAHA.112.198135. Epub 2012 Jul 30."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    }
+  }
+}

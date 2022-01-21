@@ -1,0 +1,411 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05095441",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MVR-C5252-001"
+      },
+      "Organization": {
+        "OrgFullName": "ImmVira Pharma Co. Ltd",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "A Clinical Study of Intratumoral MVR-C5252 (C5252) in Patients With Recurrent or Progressive Glioblastoma",
+      "OfficialTitle": "A Phase 1 Open-Label Study of Genetically Engineered Oncolytic HSV-1 (C5252) Expressing IL-12 and Anti-PD-1 Antibody in Patients With Recurrent or Progressive Glioblastoma"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 31, 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 30, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 30, 2026",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 15, 2021",
+      "StudyFirstSubmitQCDate": "October 14, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 27, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 14, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 27, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "ImmVira Pharma Co. Ltd",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a Phase 1 open label, first in human study of C5252 monotherapy designed to determine the safety and tolerability of a single intratumoral (IT) injection of C5252 in patients with recurrent or progressive glioblastoma (GBM).",
+      "DetailedDescription": "This is a Phase 1 open label, first in human study of C5252 monotherapy designed to determine the safety and tolerability of a single IT injection of C5252 in patients with recurrent or progressive GBM. The Part 1 portion of the study is a 3+3 design to evaluate escalating doses of C5252. Total enrollment will depend on the toxicities and/or activity observed, with approximately 36 evaluable participants enrolled. Once the recommended dose (RD) is identified from Part 1, Part 2 Dose Expansion will enroll up to 15 additional participants to further assess the safety, tolerability, and preliminary efficacy of a single IT injection of C5252 monotherapy."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Solid Tumor",
+          "Glioblastoma",
+          "Glioblastoma Multiforme",
+          "Glioblastoma Multiforme of Brain"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "51",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Part 1: Dose Escalation",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "C5252 single agent dose escalation in participants with glioblastoma",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: C5252"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Part 2: Dose Expansion",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Recommended dose of C5252 as determined in Part 1 Dose Escalation in participants with glioblastoma",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: C5252"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "C5252",
+            "InterventionDescription": "A single dose of C5252 will be administered up to 2mL as intratumoral injection on Day 1.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Part 1: Dose Escalation",
+                "Part 2: Dose Expansion"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Evaluate the safety and tolerability of C5252",
+            "PrimaryOutcomeDescription": "Number of participants in dose escalating cohorts with dose limiting toxicities (DLTs), treatment-emergent adverse events (TEAEs), and/or changes in clinical laboratory abnormalities.",
+            "PrimaryOutcomeTimeFrame": "Up to 28 days from C5252 injection"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Characterize Dose Limiting Toxicities",
+            "PrimaryOutcomeDescription": "Incidence of DLTs",
+            "PrimaryOutcomeTimeFrame": "Up to 28 days from C5252 injection"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Identify the maximum tolerated dose (MTD) and/or the RD of C5252",
+            "PrimaryOutcomeDescription": "Incidence of DLTs",
+            "PrimaryOutcomeTimeFrame": "Up to 28 days from C5252 injection"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Evaluate the PK of C5252",
+            "SecondaryOutcomeDescription": "Measure anti-PD-1 antibody concentration in blood using Anti-PD-1 antibody ELISA test and IL-12 concentration in blood using IL-12p70 ELISA test.",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years from C5252 injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Evaluate the viral shedding of C5252",
+            "SecondaryOutcomeDescription": "Measure viral shedding of C5252 after intratumoral injection in saliva, nasopharyngeal mucus, and urine using qPCR (quantitative polymerase chain reaction) test.",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years from C5252 injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Overall response rate (ORR)",
+            "SecondaryOutcomeDescription": "ORR is defined as the proportion of participants who have had a partial response (PR), or complete response (CR) to intervention, based on Investigator Assessment for Neuro-oncology (RANO).",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years from C5252 injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Progression-free survival (PFS)",
+            "SecondaryOutcomeDescription": "PFS is defined as the time from Day 1 to the first documentation of progressive disease (PD) or death from any cause, whichever occurs first per RANO.",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years from C5252 injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Overall Survival (OS)",
+            "SecondaryOutcomeDescription": "OS is defined as the time from enrollment to death from any cause.",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years from C5252 injection"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Evaluate blood cytokines",
+            "OtherOutcomeDescription": "Measure blood cytokines using MSD V-Plex Electrochemiluminescence Immunoassay test.",
+            "OtherOutcomeTimeFrame": "Up to 28 days from C5252 injection"
+          },
+          {
+            "OtherOutcomeMeasure": "Evaluate lymphocyte profiling",
+            "OtherOutcomeDescription": "Conduct lymphocyte profiling using PBMC Flow cytometry test.",
+            "OtherOutcomeTimeFrame": "Up to 28 days from C5252 injection"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Key Inclusion Criteria:\n\nSigned and dated approved informed consent form (ICF) before any protocol-directed screening procedures are performed.\nParticipants must have histopathologically confirmed recurrent supratentorial glioblastoma.\nParticipants must have progressed after at least 1 line but no more than 2 lines of therapy.\nEvidence of progression by RANO criteria based on MRI scan.\nResidual lesion must be ≥ 1.0 cm and < 5.5 cm contrast-enhancing in diameter as determined by MRI.\nAge ≥ 18 years.\nKarnofsky Performance Score (KPS) ≥ 70.\nLife expectancy > 12 weeks.\nParticipants must have normal organ and marrow function.\nParticipants must commit to the use of a reliable method of birth control.\nResolution of all AEs due to previous therapies to ≤ Grade 1 or baseline.\nCapable of understanding and complying with protocol requirements.\n\nKey Exclusion Criteria:\n\nInability to undergo MRI examination for any reason.\nA contrast-enhancing brain tumor that does not meet protocol criteria.\nPrior history of encephalitis, multiple sclerosis, or other CNS infection.\nClinical diagnosis of Li-Fraumeni Syndrome or with a known germ line deficit in the retinoblastoma gene or its related pathways.\nRequired steroid increase within 2 weeks prior to date of C5252 administration.\nSystemic therapy with immunosuppressive agents within 28 days prior to date of C5252 administration.\nUncontrolled intercurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or any other medical condition that precludes surgery. Also, psychiatric illness/social situations that would limit compliance with study requirements.\nBleeding diathesis, or requirement for anticoagulants, or antiplatelet agents, including NSAIDs that cannot be stopped for surgery or biopsy.\nCurrent diagnosis of other cancer except in situ cervical cancer, basal or squamous cell carcinoma of the skin.\nRequires continued concurrent therapy with any drug active against HSV (acyclovir, valaciclovir, penciclovir, famciclovir, ganciclovir, foscarnet, cidofovir).\nPregnant or lactating.\nPrior organ transplantation.\nActive hepatitis B virus, hepatitis C virus, or a positive serological test at Screening.\nActive oral herpes lesion at Screening.\nCongestive heart failure (> New York Heart Association Class II), active coronary artery disease, unevaluated new onset angina within 3 months or unstable angina (angina symptoms at rest), or clinically significant cardiac arrhythmias.\nHistory of allergic reactions attributed to compounds of similar biological composition to HSV-1, IL-12, or anti-PD-1 monoclonal antibody.\nActive infection with SARS-CoV-2 virus.\nOther systemic conditions or organ abnormalities that, in the opinion of the Investigator, may interfere with the conduct and/or interpretation of the current study.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "ImmVira Pharma Co., LTD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "17817185121",
+            "CentralContactEMail": "MVRC5252001@immviragroup.com"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Related Info",
+            "SeeAlsoLinkURL": "http://www.immvira-theravir.com/"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000005909",
+            "ConditionMeshTerm": "Glioblastoma"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001254",
+            "ConditionAncestorTerm": "Astrocytoma"
+          },
+          {
+            "ConditionAncestorId": "D000005910",
+            "ConditionAncestorTerm": "Glioma"
+          },
+          {
+            "ConditionAncestorId": "D000018302",
+            "ConditionAncestorTerm": "Neoplasms, Neuroepithelial"
+          },
+          {
+            "ConditionAncestorId": "D000017599",
+            "ConditionAncestorTerm": "Neuroectodermal Tumors"
+          },
+          {
+            "ConditionAncestorId": "D000009373",
+            "ConditionAncestorTerm": "Neoplasms, Germ Cell and Embryonal"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009375",
+            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "ConditionAncestorId": "D000009380",
+            "ConditionAncestorTerm": "Neoplasms, Nerve Tissue"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M8171",
+            "ConditionBrowseLeafName": "Glioblastoma",
+            "ConditionBrowseLeafAsFound": "Glioblastoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3713",
+            "ConditionBrowseLeafName": "Astrocytoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8172",
+            "ConditionBrowseLeafName": "Glioma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19599",
+            "ConditionBrowseLeafName": "Neoplasms, Neuroepithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18997",
+            "ConditionBrowseLeafName": "Neuroectodermal Tumors",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19540",
+            "ConditionBrowseLeafName": "Neuroectodermal Tumors, Primitive",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11470",
+            "ConditionBrowseLeafName": "Neoplasms, Germ Cell and Embryonal",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11472",
+            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11477",
+            "ConditionBrowseLeafName": "Neoplasms, Nerve Tissue",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2518",
+            "ConditionBrowseLeafName": "Glioblastoma",
+            "ConditionBrowseLeafAsFound": "Glioblastoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T2519",
+            "ConditionBrowseLeafName": "Glioma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4092",
+            "ConditionBrowseLeafName": "Neuroepithelioma",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19900",
+            "InterventionBrowseLeafName": "Interleukin-12",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          }
+        ]
+      }
+    }
+  }
+}

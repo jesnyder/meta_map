@@ -1,0 +1,326 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04042844",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CLDD-001"
+      },
+      "Organization": {
+        "OrgFullName": "BioRestorative Therapies",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "A Single Dose of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)",
+      "OfficialTitle": "A Phase 2, Double-Blind, Saline-Controlled, Randomized Study to Evaluate the Safety and Preliminary Efficacy of a Single Dose Intradiscal Injection of BRTX 100 for Patients With Chronic Lumbar Disc Disease (cLDD)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2020",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 2, 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 31, 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 31, 2019",
+      "StudyFirstSubmitQCDate": "July 31, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 2, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "July 10, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 14, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "BioRestorative Therapies",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a double-blind, saline-controlled, and randomized study with blinded assessments using a single dose. Subjects that have a current diagnosis of chronic lumbar disc disease and meet eligibility criteria will be enrolled.",
+      "DetailedDescription": "This is a double-blind, saline-controlled, and randomized study with blinded assessments using a single dose. Subjects that have a current diagnosis of chronic lumbar disc disease and meet eligibility criteria will be enrolled.\n\nSubjects randomized to active treatment will undergo bone marrow harvest for processing into BRTX-100 for intradiscal injection. Subjects randomized to control will undergo sham bone marrow harvest and intradiscal injection procedures. Subjects will return to the study site for a visit at Week 2, Week 12, Week 26, Week 52 and Week 104/Early Termination.\n\nAn independent, chartered, Data Safety Monitoring Board (DSMB) will review all unblinded safety data for the first 10 subjects through Study visit 4 (day 14 post dosing) and prior to dosing of the 11th subject. All subjects will be randomized (2:1) to receive either intradiscal BRTX-100 or saline. A central randomization will be used."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Lumbar Disc Disease"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "All subjects will be randomized (2:1) to receive either intradiscal BRTX-100 or saline.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "99",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Active Treatment- BRTX-100",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "BRTX-100 consists of a population of hypoxic-cultured bone marrow mononuclear cells highly enriched in mesenchymal stem cells from autologous bone marrow with autologous platelet lysate.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: BRTX-100"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Saline",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Isotonic saline will be used as a control in this study. Drug: saline (0.9% sodium chloride).",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Saline"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "BRTX-100",
+            "InterventionDescription": "Hypoxic cultured mesenchymal stem cells (MSCs) from autologous bone marrow with autologous platelet lysate.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Active Treatment- BRTX-100"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Saline",
+            "InterventionDescription": "Sodium Chloride (0.9%) intravenous infusion preparation is a sterile and non-pyrogenic solution",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Saline"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of study participants with treatment related adverse events (TEAES) and serious adverse events (SAEs) from baseline through Week 104.",
+            "PrimaryOutcomeDescription": "Number of study participants with treatment related adverse events (TEAES) and serious adverse events (SAEs) from baseline through Week 104.",
+            "PrimaryOutcomeTimeFrame": "104 Weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Visual Analogue Scale for Pain Assessment - Changes from Baseline in pain as assessed with the VAS score through Week 52",
+            "SecondaryOutcomeDescription": "Visual Analogue Scale for Pain Assessment -the number (percentage) of responders, defined as subjects who have at least a 30% decrease in pain as measured on the VAS scale Changes from Baseline in pain as assessed with the VAS score through Week 52",
+            "SecondaryOutcomeTimeFrame": "52 Weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Oswestry Disability Index for Functional Assessment -- Changes from Baseline in function as assessed with the Oswestry Disability Index through Week 52.",
+            "SecondaryOutcomeDescription": "Oswestry Disability Index for Functional Assessment --the number (percentage) of responders, defined as subjects who have at least a 30% increase in function as measured on the Oswestry Disability Index through Week 52.",
+            "SecondaryOutcomeTimeFrame": "52 Weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nA high index of suspicion for discogenic pain, (i.e., painful degenerative disc(s) with or without protrusions < 5 mm)\n\nChronic Lower Back Pain for at least 6 months\nPain commonly provoked by prolonged sitting, forward bending, lifting, twisting, coughing, sneezing, or Valsalva maneuvers\nFailure of at least 6 months of conservative back pain care (can include any or all of the following: rest, anti-inflammatory medication, analgesics, narcotics, epidural injections or selective nerve root injections at the target level, facet joint injections, muscle relaxers, massage, acupuncture, chiropractic care)\nFailure of supervised therapy and education\nNo significant thigh or leg pain (less than 20 mm on VAS)\nBaseline of greater than or equal to 40 mm and less than or equal to 80 mm on low back pain visual analog scales (VAS) (average pain in the last week)\nBaseline Oswestry Disability Index (ODI) score greater than or equal to 30 and less than 90 on a 100-point scale\nNo localized and significant pain below beltline (i.e., potential sacroiliac joint pain) without lumbar pain component\nLeg pain, if present, is of nonradicular origin, (i.e., not due to stimulation of nerve roots or dorsal root ganglion of a spinal nerve by compressive forces)\nDiagnostic medial branch block or facet joint injection in the last 18 months prior to the study screening indicates no prevailing facet joint involvement\n\nHas degenerative disc disease (DDD) as defined by the following:\n\nChanges from normal disc morphology of the affected disc as defined by radiographic evaluation\nModified Pfirrmann score of 2 to 6 on MRI\nModic Grade I or II changes, or no change, on MRI\nMay contain a contained protrusion and/or annular tear on MRI\nMaintained intervertebral disc heights of at least 50%\nDiscography, if not performed within the last 6 months, has to be performed if more than one degenerative disc is identified by MRI, and the symptomatic disc cannot be otherwise reasonably determined\nIf more than one degenerative disc is identified by MRI, no disc shall demonstrate greater degenerative change than the symptomatic disc or contain a protrusion greater than 5mm\nAged 18 to 60 years\nWilling and able to provide written informed consent\nNo evidence of contraindications to the procedure such as pregnancy, active infection, bleeding disorder, or metastatic cancer\n\nExclusion Criteria:\n\nSpinal Deformity (Scoliosis >10 degrees, spondylolysis, spondylolisthesis, retrolisthesis)\nDisc extrusions, sequestered fragments, facet cysts, or greater than mild spinal stenosis, or more severe disc degeneration by MRI\nPresence of a Grade V annular fissure on discography in a subject for whom provocation discography has been performed, and no intervertebral disc with radiographic evidence of Modified Pfirrmann Grade 7 or greater\nAny bleeding disorder, intrinsic or extrinsic\nRequired anticoagulation (with either antiplatelet agents or antithrombotics) that cannot be interrupted for harvest and injection procedures\nPlatelet count < 100,000\nInternational Normalized Ratio (INR) > 1.5\nExtreme obesity, as defined by NIH Clinical Guidelines Body Mass Index (BMI >40\nClinically relevant instability on flexion-extension as determined by the investigator by overlaying films (flexion & extension films)\nHas undergone any previous lumbosacral spine surgery (e.g. discectomy, laminectomy, foraminotomy, fusion, intradiscal electrothermal therapy, intradiscal radiofrequency thermocoagulation.) or therapeutic percutaneous disc intervention\nHave any acute or chronic lumbosacral spine fracture\nHave a history of lumbosacral epidural steroid injections within 1 month prior to study treatment\nHave received systemic or local nonsteroidal anti-inflammatory drugs (NSAIDS) injections into the index and/or adjacent vertebral levels within 72 hours prior to study treatment\nHave a known history of hypersensitivity or anaphylactic reaction to dimethyl sulfoxide (DMSO)\nActive significant non lumbosacral spinal orthopedic pain generators including, not limited to arthritic hip and/or knee, cervical disc disease\nMore widespread and ill-defined myofascial pain\nHave had treatment with any cellular or biological investigational therapy or device within 6 months of study procedure and/or plans to participate in any other autologous or allogeneic stem cell/progenitor cell therapy trial during the 3-year follow-up period\nHave been a recipient of prior stem cell/progenitor cell therapy or other biological intervention to repair a lumbosacral intervertebral disc\nAre transient or has been treated in the last 6 months before enrollment for alcohol and/or drug abuse in an inpatient substance abuse program\nApparent ongoing and poorly controlled psychological or somatic disease that may impact treatment outcomes\nSocial, familial, or geographical hindrances to compliance with the study protocol or the informed consent process.\nKnown autoimmune disease (e.g., systemic lupus erythematosus)\nRequired chronic immunosuppression\nPositive hepatitis C virus (HCV) antibody test\nPositive human immunodeficiency virus (HIV) Ag/Ab Combo test\nPregnant or lactating women\nWomen of childbearing potential not protected by a highly-effective method of birth control\n\nClinically significant hematology and chemistry including, but not limited to:\n\nTotal bilirubin level greater than or equal to 1.5 times institutional upper limit of normal (ULN)\nAlanine aminotransferase (ALT) or aspartate aminotransferase (AST) greater than or equal to 2 x ULN\nAbsolute neutrophil count (ANC) < 1000/mm3\nHemoglobin less than or equal to 10 g/dL\nCreatinine clearance use calculated clearance (Cockcroft-Gault equation) of less than or equal to 50 mL/min or estimated plasma creatinine clearance of greater than or equal to 50 mL/min\nAny other condition which in the judgment of the Investigator would preclude adequate evaluation of the safety and efficacy of the study drug\nInability to comply with the requirements of the study protocol\nHistory of smoking (active within 3 months of study treatment)\nActively on workers compensation or no-fault case for this complaint or any other active case or litigation pertaining to their lumbosacral pain\nHistory of drug abuse or documented history of noncompliance with controlled substances\nHistory of regular, long term, daily opioid drug use (>30 MME)",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "60 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Catherine MacLaren",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "9196495822",
+            "CentralContactEMail": "crossmaclaren@biorestorative.com"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000013122",
+            "ConditionMeshTerm": "Spinal Diseases"
+          },
+          {
+            "ConditionMeshId": "D000007405",
+            "ConditionMeshTerm": "Intervertebral Disc Displacement"
+          },
+          {
+            "ConditionMeshId": "D000055959",
+            "ConditionMeshTerm": "Intervertebral Disc Degeneration"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001847",
+            "ConditionAncestorTerm": "Bone Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006547",
+            "ConditionAncestorTerm": "Hernia"
+          },
+          {
+            "ConditionAncestorId": "D000020763",
+            "ConditionAncestorTerm": "Pathological Conditions, Anatomical"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15071",
+            "ConditionBrowseLeafName": "Spinal Diseases",
+            "ConditionBrowseLeafAsFound": "Disc Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9591",
+            "ConditionBrowseLeafName": "Intervertebral Disc Displacement",
+            "ConditionBrowseLeafAsFound": "Lumbar Disc Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27558",
+            "ConditionBrowseLeafName": "Intervertebral Disc Degeneration",
+            "ConditionBrowseLeafAsFound": "Lumbar Disc Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4278",
+            "ConditionBrowseLeafName": "Bone Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8777",
+            "ConditionBrowseLeafName": "Hernia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21672",
+            "ConditionBrowseLeafName": "Pathological Conditions, Anatomical",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

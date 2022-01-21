@@ -1,0 +1,338 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03635294",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "49RC17_0224"
+      },
+      "Organization": {
+        "OrgFullName": "University Hospital, Angers",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Multi-Omics and IPSCs to Improve Diagnosis of Rare Intellectual Disabilities",
+      "OfficialTitle": "Multi-Omics and IPSCs to Improve the Diagnosis of Rare Intellectual Disabilities",
+      "Acronym": "MIDRID"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2020",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 9, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "August 10, 2018",
+      "StudyFirstSubmitQCDate": "August 14, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 17, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 2, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 3, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Hospital, Angers",
+        "LeadSponsorClass": "OTHER_GOV"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Background Genetic factors play a major role in intellectual disability (ID) but the underlying cause is not determined in many cases.\n\nThis proposal is the continuation of the previous interregional project HUGODIMS, the aim of which was to perform whole exome sequencing (WES) in 69 thoroughly selected simplex ID parent-child trios. Thanks to HUGODIMS consortium, the underlying genetic cause of ID was determined or highly suspected in 48 cases (69.5%) and 7 novel ID genes were identified.\n\nHypothesis Investigators hypothesize that an approach combining genomics, transcriptomics, metabolomics and morphological analyses performed on induced pluripotent stem cell (iPSC)-derived neural cells would improve diagnosis of ID. The current proposal is therefore a proof-of concept project aiming at assessing the relevance and effectiveness of this multi-omics approach.\n\nAims and Methods Ten individuals with ID recruited through HUGODIMS, in whom WES have failed to identify pathogenic variants will be included.\n\nThe workflow is the following:\n\nWhole genome sequencing (WGS) (Nantes) of these 10 negative trios.\nBio-informatics analyses\n\nIn 3 WGS negative cases, 3 positive controls bearing distinct mutations in CAMK2a (a novel ID gene identified thanks to HUGODIMS), and 3 healthy negative controls:\n\nDerivation of induced pluripotent stem cell (iPSC)-derived neural progenitors (iPSC core facility at Nantes)\nTargeted and non-targeted metabolomics analyses performed on iPSC-derived neuronal cells (Angers)\nRNA sequencing performed on the 9 cell lines (Rennes)\nMorphological analyses of differentiated neuronal cell lines derived from 3 affected individuals and 3 positive controls bearing CMK2a mutations (Tours)\nIntegration and validation of data from multi-omics and morphological approaches\n\nExpected results and impact Investigatrors expect that this approach combining multi-omics and iPSC will help to improve diagnosis and understanding of genetic ID of unknown cause"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Rare Intellectual Disabilities"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Diagnostic",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "6",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Blood sample",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Blood sample for analyses",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Blood sample"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Blood sample",
+            "InterventionDescription": "combining genomics, transcriptomics, metabolomics and morphological analyses performed on induced pluripotent stem cell (iPSC)-derived neural cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Blood sample"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "To evaluate the relevance and effectiveness of a multi-omics approach to the diagnosis of ID of unknown genetic origin.",
+            "PrimaryOutcomeDescription": "Whole genome sequencing : de novo variants in non-coding regions of the genome, WGS will be performed using the HiSeq X Five System 5; Bionformatics analysis of WGS data; neuronal progenitors derived from iPSC",
+            "PrimaryOutcomeTimeFrame": "Day 1"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "The assessment of metabolomics consequences of CAMK2a mutations in human neuronal progenitors and differentiated neuronal cell lines",
+            "SecondaryOutcomeDescription": "Coupled to high-resolution mass spectrometry ; Transcriptomics analyses: quality of the RNA will be evaluated with the Bioanalyzer (Agilent) on the basis of the RIN (RNA integrity number) as well as by taking into account the DV200, i.e. the percentage of RNA fragments with more than 200 nucleotides Non-targeted metabolomic analyses will be performed using a method based on ultra-high-performance liquid chromatography Flow injection analysis-tandem mass spectrometry for quantifying acylcarnitines, glycerophospholipids, sphingolipids and sugar, whereas liquid chromatography",
+            "SecondaryOutcomeTimeFrame": "Day 1"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The assessment of morphological consequences of CAMK2a mutations in human neuronal progenitors and differentiated neuronal cell lines",
+            "SecondaryOutcomeDescription": "immunocytochemistry and protein expression approaches using confocal microscopy and Western blotting with antibodies specific for proteins expressed in neurons (MAP2, Tubulin beta 3, PSD95, SNAP25), astrocytes (GFAP) or oligodendrocytes (Gal-C)",
+            "SecondaryOutcomeTimeFrame": "Day 1"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\n3 Whole Genome Sequencing negative cases\n3 positive controls bearing distinct mutations in CAMK2a\n\nExclusion Criteria:\n\nno informed consent/refusal",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "2 Years",
+      "MaximumAge": "25 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Dominique BONNEAU",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "0241353883",
+            "CentralContactEMail": "dobonneau@chu-angers.fr"
+          },
+          {
+            "CentralContactName": "Dominique BONNEAU",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "0241353883"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "CHU Angers",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Angers",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Dominique Bonneau",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "HCL Lyon",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Bron",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Gaëtan Lesca",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "CHU de Bourgogne",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Dijon",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Anne-Sophie Denommée-Pichon",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "CHU Nantes",
+            "LocationStatus": "Completed",
+            "LocationCity": "Nantes",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "CHU Poitiers",
+            "LocationStatus": "Completed",
+            "LocationCity": "Poitiers",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "CHU Rennes",
+            "LocationStatus": "Completed",
+            "LocationCity": "Rennes",
+            "LocationCountry": "France"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008607",
+            "ConditionMeshTerm": "Intellectual Disability"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000019954",
+            "ConditionAncestorTerm": "Neurobehavioral Manifestations"
+          },
+          {
+            "ConditionAncestorId": "D000009461",
+            "ConditionAncestorTerm": "Neurologic Manifestations"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000065886",
+            "ConditionAncestorTerm": "Neurodevelopmental Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001523",
+            "ConditionAncestorTerm": "Mental Disorders"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10741",
+            "ConditionBrowseLeafName": "Intellectual Disability",
+            "ConditionBrowseLeafAsFound": "Intellectual Disability",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M20979",
+            "ConditionBrowseLeafName": "Neurobehavioral Manifestations",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11556",
+            "ConditionBrowseLeafName": "Neurologic Manifestations",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M29797",
+            "ConditionBrowseLeafName": "Neurodevelopmental Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3967",
+            "ConditionBrowseLeafName": "Mental Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13625",
+            "ConditionBrowseLeafName": "Psychotic Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXM",
+            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

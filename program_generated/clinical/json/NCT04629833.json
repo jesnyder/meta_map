@@ -1,0 +1,990 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04629833",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MC-MSC.1/aGvHD"
+      },
+      "Organization": {
+        "OrgFullName": "medac GmbH",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Treatment Of Steroid-Refractory Acute Graft-versus-host Disease With Mesenchymal Stromal Cells Versus Best Available Therapy",
+      "OfficialTitle": "A Randomised, Open-label, Multicentre, Phase 3 Trial of First-line Treatment With Mesenchymal Stromal Cells MC0518 Versus Best Available Therapy in Adult and Adolescent Subjects With Steroid-refractory Acute Graft-versus-host Disease After Allogeneic Haematopoietic Stem Cell Transplantation (IDUNN Trial)",
+      "Acronym": "IDUNN"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 16, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 28, 2024",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2025",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 9, 2020",
+      "StudyFirstSubmitQCDate": "November 9, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 16, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 6, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 7, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "medac GmbH",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The primary purpose of this trial is to demonstrate the superiority of MC0518 compared to the first used best available therapy (BAT) with respect to overall response rate (ORR) in adult and adolescent participants with steroid-refractory acute graft-versus-host disease (SR-aGvHD) at Day 28."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Steroid-refractory Acute Graft-versus-host Disease"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "210",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "MC0518",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Participants will receive MC0518 1-2 million cells/ kilogram infusions (based on body weight at the Screening Visit) once a week for 4 weeks (Visit Day 1, 8, 15, and 22). Participants with partial response (PR) on Day 28 will have 2 additional MC0518 infusions administered on Day 29 and 36.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: MC0518"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Best Available Therapy (BAT)",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Participants will receive any one of the following systemic BATs based on the Investigator's decision: mycophenolate mofetil (MMF), extracorporeal photopheresis (ECP), anti-thymocyte globulin (ATG), everolimus, and ruxolitinib (RUX).",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: BAT"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "MC0518",
+            "InterventionDescription": "MC0518 will be intravenously infused immediately after thawing.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MC0518"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "BAT",
+            "InterventionDescription": "BAT including MMF, ECP, ATG, everolimus, and RUX will be administered based on Investigator's decision.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Best Available Therapy (BAT)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Overall Response (OR)",
+            "PrimaryOutcomeDescription": "OR is defined as complete response (CR) or partial response (PR) at Day 28 relative to aGvHD status at baseline. CR is defined as resolution of aGvHD in all involved organs. PR is defined as improvement in 1 stage in 1 or more organs involved with aGvHD symptoms without progression in others. Number of participants with OR will be reported.",
+            "PrimaryOutcomeTimeFrame": "Day 28"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Freedom from Treatment Failure (FFTF)",
+            "SecondaryOutcomeDescription": "FFTF is defined as death, relapse or progression of the underlying disease, or addition or change to any further systemic immunosuppressive aGvHD therapy. Number of participants with FFTF will be reported.",
+            "SecondaryOutcomeTimeFrame": "Up to 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Overall Survival",
+            "SecondaryOutcomeDescription": "Overall survival is defined as the time from randomization to the date of death due to any cause.",
+            "SecondaryOutcomeTimeFrame": "Up to Month 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Acute Graft-versus-host Disease (aGvHD) Response",
+            "SecondaryOutcomeDescription": "Number of participants with aGvHD response will be reported. aGvHD response will be categorized as OR (CR + PR), CR, PR, and NR. NR is defined as the absence of CR or PR.",
+            "SecondaryOutcomeTimeFrame": "Days 28, 60, 100 and 180"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change from Baseline in aGvHD Grades",
+            "SecondaryOutcomeDescription": "aGvHD grades: Grade 0- no organ involvement (ie, Stage 0 skin, Stage 0 liver, and Stage 0 GI); Grade I-Stage 1 - 2 skin without liver/GI involvement; Grade II- Stage 3 skin and / or Stage 1 liver and / or Stage 1 GI; Grade III- Stage 2 - 3 liver and / or Stage 2 - 3 GI; Grade IV- Stage 4 skin and / or Stage 4 liver and/or Stage 4 GI.",
+            "SecondaryOutcomeTimeFrame": "Baseline and Days 8, 15, 22, 28, 60, 100 and 180"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to Response",
+            "SecondaryOutcomeDescription": "Time to response is defined as the time from the date of the first treatment administration to the date of response.",
+            "SecondaryOutcomeTimeFrame": "Up to Month 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of Response",
+            "SecondaryOutcomeDescription": "Duration is calculated from time from the first OR (CR or PR) until the time point of no aGvHD response in comparison to baseline.",
+            "SecondaryOutcomeTimeFrame": "Up to Month 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Best Overall Response (OR)",
+            "SecondaryOutcomeDescription": "Best OR is defined as the achievement of an OR at any time point up to and including Day 28. Number of participants with best OR will be reported.",
+            "SecondaryOutcomeTimeFrame": "Up to Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cumulative Dose of Steroids for SR-aGvHD per Kilogram (kg) of Body Weight",
+            "SecondaryOutcomeDescription": "The cumulative dose of steroids given for SR-aGvHD per kg of body weight from baseline until Day 60 and until Visit Month 24 will be analyzed.",
+            "SecondaryOutcomeTimeFrame": "Up to Day 60 and Month 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of Participants with Chronic Graft-versus-host Disease (cGvHD)",
+            "SecondaryOutcomeDescription": "Number of participants with cGvHD will be reported.",
+            "SecondaryOutcomeTimeFrame": "Day 60 to Month 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to Chronic Graft-versus-host Disease (cGvHD)",
+            "SecondaryOutcomeDescription": "Time to cGvHD is defined as the time between the last day of haematopoietic stem cell transplantation (HSCT) to the first episode of cGvHD.",
+            "SecondaryOutcomeTimeFrame": "Day 60 to Month 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of Participants with Graft Failure (GF)",
+            "SecondaryOutcomeDescription": "Number of participants with GF will be reported.",
+            "SecondaryOutcomeTimeFrame": "Up to Month 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of Participants with Relapse or Progression in Participants with Underlying Malignant Disease",
+            "SecondaryOutcomeDescription": "Number of participants with relapse or progression in participants with underlying malignant disease will be reported.",
+            "SecondaryOutcomeTimeFrame": "Up to Month 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to Relapse or Progression in Participants with Underlying Malignant Disease",
+            "SecondaryOutcomeDescription": "Time to relapse or progression in participants with underlying malignant disease will be reported.",
+            "SecondaryOutcomeTimeFrame": "Up to Month 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Event-free survival (EFS)",
+            "SecondaryOutcomeDescription": "EFS is defined as the time from the date of randomization to the date of the event. An event is defined as GF, relapse or progression of the underlying disease, or death due to any cause.",
+            "SecondaryOutcomeTimeFrame": "Up to Month 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Non-relapse Mortality (NRM)",
+            "SecondaryOutcomeDescription": "NRM is defined as the time from the date of randomisation to the date of the event. An event is defined as death without previous relapse or progression of the underlying disease.",
+            "SecondaryOutcomeTimeFrame": "Up to Month 24"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of Participants with Adverse Events (AEs) and Adverse Reactions (ARs)",
+            "SecondaryOutcomeTimeFrame": "Until Day 60 or until 30 days after last administration of trial treatment, whichever is later (Up to Month 24)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of Participants with Adverse Events (AEs) and Adverse Reactions (ARs) by Severity",
+            "SecondaryOutcomeDescription": "Severity will be graded based on Common Terminology Criteria for Adverse Events (CTCAE) v5.0: Grade 1- Mild; Grade 2- Moderate; Grade 3- Severe; Grade 4- Life-threatening consequences; urgent intervention indicated; Grade 4- Death related to the AE.",
+            "SecondaryOutcomeTimeFrame": "Until Day 60 or until 30 days after last administration of trial treatment, whichever is later (Up to Month 24)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change from Baseline in Performance score based on Karnofsky scale (recipient age >= 16 years)",
+            "SecondaryOutcomeDescription": "The Karnofsky performance score (KPS), which is reported on an ordinal scale from 0 to 100, provides a rough measure of the participant's well-being, including their ability to conduct activities of daily living and functional capacity. Higher score indicates normal, no complaints and no evidence of disease.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Days 8, 15, 22, 28, 60 and 100"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change from Baseline in Performance score based on Lansky Scale",
+            "SecondaryOutcomeDescription": "A Lansky score (recipient age greater than or equal to [>=] 1 years and less than [<] 16 years) will be recorded pre-treatment and measured serially at regular intervals after treatment. The score is a standard performance score that measures overall function of the child with a scale range from 0 to 100. Higher score indicates full activeness.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Days 8, 15, 22, 28, 60 and 100"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change from Baseline in EuroQol-5D-5L (EQ-5D-5L): Health Status Index (HSI)",
+            "SecondaryOutcomeDescription": "EQ-5D-5L is a 2-part instrument for use as a measure of health outcome, designed for self-completion by respondents. It consists of EQ-5D-5L descriptive system and EQ VAS. EQ-5D-5L descriptive system comprises of 5 dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each has 5 levels of perceived problems (1-no problem, 2-slight problems, 3-moderate problems, 4-severe problems, 5-extreme problems). Participant selects answer for each of 5 dimensions considering response that best matches his/her health \"TODAY\". Responses were used to generate a HSI. HSI ranges from 0 (dead) to 1.00 (full health).",
+            "SecondaryOutcomeTimeFrame": "Baseline, Days 28, 60, 100 and 180"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change from Baseline in EuroQol-5D-5L (EQ-5D-5L): Visual Analogue Scale (VAS)",
+            "SecondaryOutcomeDescription": "EQ-5D-5L is a 2-part instrument for use as a measure of health outcome, designed for self-completion by respondents. It consists of EQ-5D-5L descriptive system and EQ VAS. The EQ VAS self-rating records the respondent's own assessment of his or her overall health status at the time of completion, on a scale of 0 (the worst health you can imagine) to 100 (the best health you can imagine).",
+            "SecondaryOutcomeTimeFrame": "Baseline, Days 28, 60, 100 and 180"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change from Baseline in Functional Assessment of Cancer Therapy-Bone Marrow Transplantation (FACT-BMT) Score",
+            "SecondaryOutcomeDescription": "The FACT-BMT questionnaire was designed to measure the quality of life in subjects undergoing bone marrow (BM) transplantation. It consists of the following categories of assessment: physical well-being, social / family well-being, emotional well-being, functional well-being, and additional miscellaneous concerns that the subject may have concerning their healthcare, persons involved in their life, and other emotions and incapabilities. Score ranges from 0-164, with higher score indicating better quality of life.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Days 28, 60, 100 and 180"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nParticipant had a previous allogeneic HSCT as indicated for malignant or non-malignant haematological disease, irrespective of human leukocyte antigen match\nParticipant has been clinically diagnosed with Grade II to IV aGvHD at the Screening Visit\nParticipant has experienced failure of previous first-line aGvHD treatment (ie, SR-aGvHD), defined as: a) aGvHD progression within 3 to 5 days of therapy onset with >= 2 mg/kg/day of prednisone equivalent or b) failure to improve within 5 to 7 days of treatment initiation with >= 2 mg/kg/day of prednisone equivalent or c) incomplete response after > 28 days of immunosuppressive treatment including at least 5 days with >= 2 mg/kg/day of prednisone equivalent\nParticipant has an estimated life expectancy > 28 days at the Screening Visit\nMale or female participant who is >= 12 years of age at the Screening Visit\n\nExclusion Criteria:\n\nParticipant has overt relapse or progression or persistence of the underlying disease at the Screening Visit\nParticipant has received the last HSCT for a solid tumour disease\nParticipant has GvHD overlap syndrome at the Screening Visit\nParticipant has received systemic first-line treatment for aGvHD other than steroids and a prophylaxis with other than calcineurin inhibitors, anti-thymocyte globulin (ATG), mycophenolate mofetil (MMF), methotrexate (MTX), and or cyclophosphamide before the Screening Visit\nParticipant has a known pregnancy (as confirmed by a positive pregnancy test at the Screening Visit) and or is breastfeeding at the Screening Visit\nParticipant has received treatment with any other investigational agent within 30 days or 5 half-lives (whichever is longer) before the Screening Visit (compliance to be confirmed for the period between the Screening Visit and the Baseline Visit at the Baseline Visit).",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "12 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jolanda Neele",
+            "OverallOfficialAffiliation": "Syneos Health",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Grenoble Cedex",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Grenoble",
+            "LocationZip": "38700",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Claude-Eric Bulabois",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "33-476 76 56 63",
+                  "LocationContactEMail": "cebulabois@chu-grenoble.fr"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Lille",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Lille",
+            "LocationZip": "59000",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Ibrahim Yakoub Agha",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "33-3-20445713",
+                  "LocationContactEMail": "Ibrahim.YAKOUBAGHA@CHRU-LILLE.FR"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Nice",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Nice",
+            "LocationZip": "06200",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Michael Loschi",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "33-33-0492035558",
+                  "LocationContactEMail": "loschi.m@chu-nice.fr"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Pierre Benite Cedex",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Pierre Benite Cedex",
+            "LocationZip": "69630",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Helene Labussiere-Wallet",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "33-33-478862210",
+                  "LocationContactEMail": "helene.labussiere-wallet@chu-lyon.fr"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Rennes",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Rennes",
+            "LocationZip": "35000",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Marc Bernard",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "33-299-289522",
+                  "LocationContactEMail": "marc.bernard@chu-rennes.fr"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Vandoeuvre les Nancy",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Vandoeuvre les Nancy",
+            "LocationZip": "54511",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Maud D'Aveni-Piney",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "33-383-153-282",
+                  "LocationContactEMail": "m.daveni-piney@chru-nancy.fr"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Tuebingen, Baden-Wuerttemberg",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Tuebingen",
+            "LocationState": "Baden-Wuerttemberg",
+            "LocationZip": "72076",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Wolfgang Bethge",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-7071-29-83176",
+                  "LocationContactEMail": "wolfgang.bethge@med.uni-tuebingen.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Munich, Bavaria",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Munich",
+            "LocationState": "Bavaria",
+            "LocationZip": "81675",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Mareike Verbeek",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-89-41405336",
+                  "LocationContactEMail": "mareike.verbeek@tum.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Wuerzburg",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Würzburg",
+            "LocationState": "Bavaria",
+            "LocationZip": "97080",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Sabrina Kraus",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-931 201-40141",
+                  "LocationContactEMail": "kraus_s3@klinik-uni-wuerzburg.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Frankfurt am Main, Hessen",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Frankfurt am Main",
+            "LocationState": "Hessen",
+            "LocationZip": "60590",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Gesine Bug",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49--69--6301",
+                  "LocationContactEMail": "g.bug@em.uni-frankfurt.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hannover, Niedersachsen",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Hannover",
+            "LocationState": "Niedersachsen",
+            "LocationZip": "30625",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Gernot Beutel",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-511-532-3020",
+                  "LocationContactEMail": "Beutel.Gernot@mh-hannover.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Muenster, Nordrhein-Westfalen",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Münster",
+            "LocationState": "Nordrhein-Westfalen",
+            "LocationZip": "48149",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Matthias Stelljes",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-251-8352801",
+                  "LocationContactEMail": "matthias.stelljes@ukmuenster.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Essen, North Rhine-Westphalia",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Essen",
+            "LocationState": "North Rhine-Westphalia",
+            "LocationZip": "45147",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Rudolf Trenschel",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49201-723",
+                  "LocationContactEMail": "Rudolf.Trenschel@uk-essen.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Koeln, North Rhine-Westphalia",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Koeln",
+            "LocationState": "North Rhine-Westphalia",
+            "LocationZip": "50937",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Udo Holtick",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-221-478 4407",
+                  "LocationContactEMail": "udo.holtick@uk-koeln.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Dresden",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Dresden",
+            "LocationState": "Sachsen",
+            "LocationZip": "01307",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Friedrich Stolzel",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-351-4584673",
+                  "LocationContactEMail": "friedrich.stoelzel@uniklinikum-dresden.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Leipzig, Saxony",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Leipzig",
+            "LocationState": "Saxony",
+            "LocationZip": "04103",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Georg-Nikolaus Franke",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49 341-97-12633",
+                  "LocationContactEMail": "georg-nikolaus.franke@medizin.uni-leipzig.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Jena, Thüringen",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Jena",
+            "LocationState": "Thüringen",
+            "LocationZip": "07740",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Inken Hilgendorf",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-3641-9-324513",
+                  "LocationContactEMail": "inken.hilgendorf@med.uni-jena.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Jena, Thüringen",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Jena",
+            "LocationState": "Thüringen",
+            "LocationZip": "07747",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Bernd Gruhn",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-3641-9329574",
+                  "LocationContactEMail": "bernd.gruhn@med.uni-jena.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Berlin, Berlin",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Berlin",
+            "LocationZip": "13353",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Johannes Schulte",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-030-450 566 132",
+                  "LocationContactEMail": "johannes.schulte@charite.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Bonn",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Bonn",
+            "LocationZip": "53127",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Tobias Holderried",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-228-287 17233",
+                  "LocationContactEMail": "tobias.holderried@ukbonn.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Frankfurt",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Frankfurt",
+            "LocationZip": "60590",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Peter Bader",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-69 6301 7541",
+                  "LocationContactEMail": "peter.bader@kgu.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Freiburg",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Freiburg",
+            "LocationZip": "79106",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Robert Zeiser",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-076-127034580",
+                  "LocationContactEMail": "robert.zeiser@uniklinik-freiburg.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Mainz",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Mainz",
+            "LocationZip": "55131",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Eva Wagner-Drouet",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-6131-172712",
+                  "LocationContactEMail": "eva.wagner@unimedizin-mainz.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Mannheim",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Mannheim",
+            "LocationZip": "68167",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Stefan Klein",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-621-383",
+                  "LocationContactEMail": "stefan.klein@umm.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Tuebingen",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Tuebingen",
+            "LocationZip": "72076",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Peter Lang",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "49-07071-2985770",
+                  "LocationContactEMail": "peter.lang@med.uni-tuebingen.de"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Wroclaw",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Wrocław",
+            "LocationState": "Dolnoslaskie",
+            "LocationZip": "50-556",
+            "LocationCountry": "Poland",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Krzysztof Kalwak",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "48-4871-7332840",
+                  "LocationContactEMail": "krzysztof.kalwak@gmail.com"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Barcelona",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Barcelona",
+            "LocationZip": "08035",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Guillermo Orti",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "34-34-934 89 30 00",
+                  "LocationContactEMail": "gorti@vhio.net"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Barcelona",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Barcelona",
+            "LocationZip": "08041",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Irene Garcia Cadenas",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "34-93-556 5649",
+                  "LocationContactEMail": "igarciaca@santpau.cat"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Barcelona",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Barcelona",
+            "LocationZip": "08908",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Rocio Parody",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "0034-932607244",
+                  "LocationContactEMail": "rparody@iconcologia.net"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Barcelona",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Barcelona",
+            "LocationZip": "08909",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Isabel Sanchez Ortega",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "34-932607750",
+                  "LocationContactEMail": "isanchez-ortega@iconcologia.net"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Barcelona",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Barcelona",
+            "LocationZip": "08916",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Anna Torrent Catarineu",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "34-93-497-89-87",
+                  "LocationContactEMail": "atorrent@iconcologia.net"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Madrid",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Madrid",
+            "LocationZip": "28034",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Francisco Javier Lopez Jimenez",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "34-91-3368637",
+                  "LocationContactEMail": "jljimenez@salud.madrid.org"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Madrid",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Madrid",
+            "LocationZip": "28222",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Rafael Duarte",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "34-34-911916303",
+                  "LocationContactEMail": "rduarte.work@gmail.com"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Valencia",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Valencia",
+            "LocationZip": "46010",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Carlos Solano",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "34-96-1973838",
+                  "LocationContactEMail": "carlos.solano@uv.es"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006086",
+            "ConditionMeshTerm": "Graft vs Host Disease"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M8341",
+            "ConditionBrowseLeafName": "Graft vs Host Disease",
+            "ConditionBrowseLeafAsFound": "Graft Versus Host Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2832",
+            "ConditionBrowseLeafName": "Homologous Wasting Disease",
+            "ConditionBrowseLeafAsFound": "Graft Versus Host Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T170",
+            "ConditionBrowseLeafName": "Acute Graft Versus Host Disease",
+            "ConditionBrowseLeafAsFound": "Acute Graft Versus Host Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3431",
+            "InterventionBrowseLeafName": "Antilymphocyte Serum",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M11280",
+            "InterventionBrowseLeafName": "Mycophenolic Acid",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M255",
+            "InterventionBrowseLeafName": "Everolimus",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          }
+        ]
+      }
+    }
+  }
+}

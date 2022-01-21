@@ -1,0 +1,624 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02633163",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MUSC-UCMSC-001"
+      },
+      "Organization": {
+        "OrgFullName": "Medical University of South Carolina",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Phase 2 Trial of Mesenchymal Stem Cells in Systemic Lupus Erythematosus (MiSLE)",
+      "OfficialTitle": "A Phase II Controlled Trial of Allogeneic Mesenchymal Stem Cells for the Treatment of Refractory Lupus"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 26, 2018",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 15, 2015",
+      "StudyFirstSubmitQCDate": "December 16, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 17, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "September 24, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 28, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Medical University of South Carolina",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to evaluate the efficacy and safety of mesenchymal stem cells (MSCs) obtained from umbilical cords for the treatment of adults with systemic lupus erythematosus (SLE). The goal of this study is to determine if patients receiving an MSC infusion plus standard of care respond better than patients receiving placebo infusion plus standard of care.",
+      "DetailedDescription": "A phase 2 multicenter (several medical research centers participating), placebo controlled, randomized (assigned by chance), double blind (neither the participant nor the investigator will know if active drug or placebo is assigned) trial to evaluate the safety and efficacy of mesenchymal stem cells (MSCs) for the treatment of systemic lupus erythematosus (SLE) in adults.\n\nThe MSCs will be obtained from healthy donor umbilical cords and two doses of MSCs will be tested. The cells will be produced at the Medical University of South Carolina (MUSC) and will be shipped to other participating centers for patients with SLE. Participants will receive either active drug or placebo through a single IV infusion. All participants will receive standard of care and their safety will be monitored throughout the study."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Systemic Lupus Erythematosus"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Systemic Lupus Erythematosus",
+          "Stem Cell",
+          "Lupus"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "81",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Low Dose Mesenchymal Stem Cells (MSCs)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Mesenchymal Stem Cells (MSCs) 1 x 10^6 cells/kg in Plasma-Lyte A solution",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Low Dose Mesenchymal Stem Cells (MSCs)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "High Dose Mesenchymal Stem Cells (MSCs)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Mesenchymal Stem Cells MSCs 5 x 10^6 cells/kg in Plasma-Lyte A solution",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: High Dose Mesenchymal Stem Cells (MSCs)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Plasma Lyte A Solution",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Placebo Infusion (Plasma-Lyte A solution only)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo Infusion"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Low Dose Mesenchymal Stem Cells (MSCs)",
+            "InterventionDescription": "Participants will receive a single IV infusion of Mesenchymal Stem Cells (MSCs) 1 x 10^6 cells/kg in Plasma-Lyte A solution. All participants will receive the infusion at the Baseline (Day 0) visit. All participants will continue on their standard-of-care therapy during the trial.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Low Dose Mesenchymal Stem Cells (MSCs)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "High Dose Mesenchymal Stem Cells (MSCs)",
+            "InterventionDescription": "Participants will receive a single IV infusion of Mesenchymal Stem Cells MSCs 5 x 10^6 cells/kg in Plasma-Lyte A solution.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "High Dose Mesenchymal Stem Cells (MSCs)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo Infusion",
+            "InterventionDescription": "Participants will receive a placebo infusion that does not contain any mesenchymal stem cells.The placebo infusion will consist of Plasma-Lyte A, which is the same vehicle used to deliver the MSCs in the experimental groups.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Plasma Lyte A Solution"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Clinical response at Week 24 as defined by the SLE Responder Index (SRI):",
+            "PrimaryOutcomeDescription": "Systemic Lupus Erythematosus Responder Index (SRI) is defined as a greater than or equal to (≥) 4 point reduction in the Systemic Lupus Erythematosus Disease Activity Index score (SLEDAI), no new British Isles Lupus Assessment Group (BILAG) A or no more than 1 new BILAG B domain score, and no deterioration from Baseline in the Physician's Global Assessment (PGA) by greater than or equal to (≥) 0.3 points.\n\nAdditionally, to be a \"responder\", corticosteroid dose must be less than of equal to (≤)10 mg/day of prednisone or equivalent by the Week 20 visit and be maintained at less than or equal to 10 mg/day through Week 24.",
+            "PrimaryOutcomeTimeFrame": "Week 24"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change in SLEDAI score between groups",
+            "SecondaryOutcomeDescription": "Changes in Systemic Lupus Erythematosus Disease Activity Index (SLEDAI) between the experimental and placebo group.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 12, 24, and 52"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Renal and non-renal organ system flares",
+            "SecondaryOutcomeDescription": "Frequency of renal and non-renal organ system flares at or before Weeks 12, 24, and 52, defined by the BILAG criteria.",
+            "SecondaryOutcomeTimeFrame": "At or before Weeks 12, 24, and 52"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in SLICC-DI",
+            "SecondaryOutcomeDescription": "• Change in SLICC-DI from Baseline to Week 52 to assess for accumulation of new damage (SLE-related or treatment-related)",
+            "SecondaryOutcomeTimeFrame": "Baseline to Week 52"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in HR-QOL",
+            "SecondaryOutcomeDescription": "Changes in HR-QOL (measured by SF36 v2) from Baseline to Weeks 12, 24, and 52",
+            "SecondaryOutcomeTimeFrame": "Baseline to Week 52"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Fatigue",
+            "SecondaryOutcomeDescription": "Changes in fatigue (measured by PROMIS Fatigue Short Form (SF)) from Baseline to Weeks 12, 24, and 52",
+            "SecondaryOutcomeTimeFrame": "Baseline to Week 52"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Pain",
+            "SecondaryOutcomeDescription": "Changes in pain (measured by PROMIS Pain SF) from Baseline to Weeks 12, 24, and 52",
+            "SecondaryOutcomeTimeFrame": "Baseline to Week 52"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Depression",
+            "SecondaryOutcomeDescription": "Changes in depression (measured by PROMIS Depression SF) from Baseline to Weeks 12, 24, and 52",
+            "SecondaryOutcomeTimeFrame": "Baseline to Week 52"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in patient-reported lupus-specific disease status",
+            "SecondaryOutcomeDescription": "Changes in patient-reported lupus-specific disease status (measured by the LupusPro and LIT) from Baseline to Weeks 12, 24, and 52",
+            "SecondaryOutcomeTimeFrame": "Baseline to Week 52"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Steroid-sparing effect",
+            "SecondaryOutcomeDescription": "Steroid-sparing effect (measured by discontinuation of corticosteroids and time to discontinuation among those taking corticosteroids)",
+            "SecondaryOutcomeTimeFrame": "Baseline to Week 52"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cumulative systemic steroid dose",
+            "SecondaryOutcomeDescription": "Cumulative systemic steroid dose (PO, IV, IM) at Week 52",
+            "SecondaryOutcomeTimeFrame": "Week 52"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in the presence of serum and urine biomarkers of SLE activity:",
+            "SecondaryOutcomeDescription": "Changes in the presence of serum and urine biomarkers of SLE activity: SLE-related cytopenias, low serum complement levels, anti-dsDNA levels or urine protein measures from Baseline to Weeks 12, 24, and 52.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Week 52"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients between 18 and 65 years old, male or female, of any race\nHistorical presence of at least 4 of 11 of the ACR Classification Criteria\nEvidence of a positive ANA (≥1:80 titer) or positive dsDNA antibody test within 6 months of screening\nClinically active SLE determined by SLEDAI score ≥6 and the presence of at least one BILAG A or BILAG B at screening, despite standard-of-care therapy\nIf the patient has a BILAG A or BILAG B score in the renal organ system, he/she must have completed at least 6 months of therapy for the current episode of nephritis prior to Screening. Therapy must include at least 6 months of mycophenolate or at least 3 months of cyclophosphamide followed by mycophenolate or azathioprine\nAble and willing to give written informed consent\n\nExclusion Criteria:\n\nActive CNS lupus affecting mental status\nActive lupus nephritis requiring dialysis\nLaboratory exclusions: eGFR <30, WBC <2.0/mm3, hemoglobin <8 g/dL, platelet count <30,000/mm3, liver enzymes AST or ALT >4 times upper limit normal.\nPositive testing for HIV, hepatitis B or hepatitis C, tuberculosis (TB), or chest X-ray (CXR) findings consistent with TB or latent fungal infection.\nHistory of malignant neoplasm within the last 5 years, except for adequately treated cancers of the skin (basal or squamous cell) or carcinoma in situ of the uterine cervix\nPregnant or breast feeding\nA woman of childbearing potential (not post-menopausal or surgically sterile) who is not willing to use adequate contraception\nHistory of renal transplantation\nHerpes zoster within the past 90 days or any infection requiring hospitalization or intravenous or intramuscular antibiotics within the past 60 days\nClinically significant EKG or chest X-ray changes\nAny other medical condition, related or unrelated to SLE, that in the opinion of the investigator would render the patient inappropriate or too unstable to complete study protocol\nUse of prednisone >0.5 mg/kg/day (or equivalent corticosteroid) within 1 month of Baseline visit\nChange or addition to immunosuppressant regimen within 3 months of Baseline visit (except corticosteroids); Use of other experimental therapeutic agents within 3 months of Baseline visit\nHaving received belimumab within 2 months of Baseline, or having received rituximab or other B cell depleting biologic therapy within 6 months of Baseline.\nComorbidities requiring corticosteroid therapy\nCurrent substance abuse or recent (within one year) history of substance abuse",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Gary Gilkeson",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "(843) 792 - 6043",
+            "CentralContactEMail": "gilkeson@musc.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Gary S. Gilkeson, MD",
+            "OverallOfficialAffiliation": "Medical University of South Carolina",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Diane L. Kamen, MD, MSCR",
+            "OverallOfficialAffiliation": "Medical University of South Carolina",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Cedars-Sinai Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Los Angeles",
+            "LocationState": "California",
+            "LocationZip": "90048",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Marianne Bernardo",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "310-423-3032",
+                  "LocationContactEMail": "marianne.bernardo@cshs.org"
+                },
+                {
+                  "LocationContactName": "Mariko L. Ishimori, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Daniel J. Wallace, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "University of California - San Diego",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "San Diego",
+            "LocationState": "California",
+            "LocationZip": "92093",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Erica Brodie",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "858-246-2386",
+                  "LocationContactEMail": "sychin@health.ucsd.edu"
+                },
+                {
+                  "LocationContactName": "Kenneth Kalunian, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Emory University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Atlanta",
+            "LocationState": "Georgia",
+            "LocationZip": "30322",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Karla Caylor, RN",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "404-616-7553",
+                  "LocationContactEMail": "kcaylor@emory.edu"
+                },
+                {
+                  "LocationContactName": "S. Sam Lim, MD, MPH",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Arezou Khosroshahi, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Northwestern University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Chicago",
+            "LocationState": "Illinois",
+            "LocationZip": "60611",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Holly Milaeger, MPH",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "312-503-0251",
+                  "LocationContactEMail": "holly.milaeger@northwestern.edu"
+                },
+                {
+                  "LocationContactName": "Rosalind Ramsey-Goldman, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Mary Mahieu, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "The Feinstein Institute for Medical Research",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Manhasset",
+            "LocationState": "New York",
+            "LocationZip": "11030",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Andrew Shaw",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "516-562-2591",
+                  "LocationContactEMail": "anshaw@northwell.edu"
+                },
+                {
+                  "LocationContactName": "Meggan Mackay, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Cynthia Aranow, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Giovanni Franchin, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Erik Anderson, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "University of Rochester Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Rochester",
+            "LocationState": "New York",
+            "LocationZip": "14642",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Maria Allen",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "585-275-7167",
+                  "LocationContactEMail": "Maria_Allen@urmc.Rochester.edu"
+                },
+                {
+                  "LocationContactName": "Ummara Shah, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "R. John Looney, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "University of North Carolina at Chapel Hill",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Chapel Hill",
+            "LocationState": "North Carolina",
+            "LocationZip": "27599",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Julie Walker",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "919-843-6619",
+                  "LocationContactEMail": "julie.walker@med.unc.edu"
+                },
+                {
+                  "LocationContactName": "Saira Z Sheikh, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Oklahoma Medical Research Foundation",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Oklahoma City",
+            "LocationState": "Oklahoma",
+            "LocationZip": "73104",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Kallena Haynes",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "405-271-8001",
+                  "LocationContactPhoneExt": "34400",
+                  "LocationContactEMail": "Kallena-Haynes@omrf.org"
+                },
+                {
+                  "LocationContactName": "Christina Arriens, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Medical University of South Carolina",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Charleston",
+            "LocationState": "South Carolina",
+            "LocationZip": "29425",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Gary Gilkeson, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "843-792-6043",
+                  "LocationContactEMail": "gilkeson@musc.edu"
+                },
+                {
+                  "LocationContactName": "Susannah C Wakefield, MA",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "843-792-5290",
+                  "LocationContactEMail": "wakefies@musc.edu"
+                },
+                {
+                  "LocationContactName": "Gary S. Gilkeson, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Diane L. Kamen, MD, MSCR",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008180",
+            "ConditionMeshTerm": "Lupus Erythematosus, Systemic"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000003240",
+            "ConditionAncestorTerm": "Connective Tissue Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10329",
+            "ConditionBrowseLeafName": "Lupus Erythematosus, Systemic",
+            "ConditionBrowseLeafAsFound": "Systemic Lupus Erythematosus",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5616",
+            "ConditionBrowseLeafName": "Connective Tissue Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M85407",
+            "InterventionBrowseLeafName": "Plasma-lyte 148",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03362424",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2.335.243"
+      },
+      "Organization": {
+        "OrgFullName": "University of Sao Paulo",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cells in Rotator Cuff Repair",
+      "OfficialTitle": "Mesenchymal Stem Cells in Rotator Cuff Repair - a Randomized Prospective Study"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 1, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 1, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 1, 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 29, 2017",
+      "StudyFirstSubmitQCDate": "December 4, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 5, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "April 28, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 29, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Eduardo Angeli Malavolta",
+        "ResponsiblePartyInvestigatorTitle": "Principal investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "University of Sao Paulo"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of Sao Paulo",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Randomized clinical study involving 44 patients, evaluating the effect of mesenchymal cells on rotator cuff repair. The primary outcome will be post-operative MRI tendon integrity and secondary outcomes clinical assessment by the UCLA and American Shoulder and Elbow Surgeons (ASES) scales and pain by visual analog scale (VAS).",
+      "DetailedDescription": "Rotator cuff tendinopathy is the main cause of shoulder pain and tear of these tendons affects 20% of the population. Although arthroscopic repair leads to satisfactory clinical results, the retear rates varies from 4 to 94%. The main cause of failure after rotator cuff repair is not related to the material used, but to the tissue deficiency and the healing process between the tendon and the bone. After the intervention, the rotator cuff does not restore its original histological characteristics and its fixation occurs through scar tissue with lower biomechanical resistance. There are few clinical studies on the use of mesenchymal cells in rotator cuff repair,, with good results.\n\nThe investigators will perform a randomized clinical study involving 44 patients, evaluating the effect of mesenchymal cells on rotator cuff repair. The primary outcome will be post-operative MRI tendon integrity and secondary outcomes clinical assessment by the UCLA and American Shoulder and Elbow Surgeons (ASES) scales and pain by visual analog scale (VAS)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Rotator Cuff Tear",
+          "Tendon Injuries",
+          "Mesenchymal Stem Cell"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "Randomized controlled trial",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignMaskingDescription": "Surgeon and patients not blinded",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "44",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Mesenchymal stem cell group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "rotator cuff repair stem cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Mesenchymal stem cell",
+                "Procedure: Rotator cuff repair"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "rotator cuff repair",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Rotator cuff repair"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Mesenchymal stem cell",
+            "InterventionDescription": "Mesenchymal stem cells applies at the end of rotator cuff repair in de active group",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Mesenchymal stem cell group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Rotator cuff repair",
+            "InterventionDescription": "Rotator cuff repair",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group",
+                "Mesenchymal stem cell group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "MRI integrity",
+            "PrimaryOutcomeDescription": "Sugaya classification",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "American Shoulder and Elbow Surgeons Standardized Shoulder Assessment Form (ASES)",
+            "SecondaryOutcomeDescription": "minimum 0 points, maximum 100 points. Higher values are considered best outcomes.",
+            "SecondaryOutcomeTimeFrame": "6, 12 and 24-months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "University at California at Los Angeles Shouder Rating Scale (UCLA)",
+            "SecondaryOutcomeDescription": "minimum 3 points, maximum 35 points. Higher values are considered best outcomes.",
+            "SecondaryOutcomeTimeFrame": "6, 12 and 24-months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Visual Analog Scale for Pain (VAS)",
+            "SecondaryOutcomeDescription": "miminum 0 points, maximum 10 points. Higher values are considered worst outcomes.",
+            "SecondaryOutcomeTimeFrame": "6, 12 and 24-months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nFull thickness posterosuperior rotator cuff tear, of small or medium size, fully repairable at the time of surgery, regardless of size;\nPain and / or decreased shoulder function for at least 3 months, with no improvement with non-surgical treatment;\nAbsence of the following changes in MRI:\nFat degeneration of the rotator cuff musculature of grade 3 according to the classification of Fuchs (presence of equal or superior amount of fat compared to muscle fibers);\nAbsence of the following changes in radiographs\nAdvanced glenohumeral arthrosis (grades 2, 3 and 4 of Samilson and Prieto\nSigns of rotator cuff arthropathy, according to Seebauer classification;\nSkeletal maturity;\nAbsence of surgeries or previous fractures in the shoulder in question;\nAbsence of psychiatric illnesses, fibromyalgia or painful pathologies of the cervical spine;\nAbsence of rheumatic diseases or chronic use of corticosteroids;\nAbsence of active or recent infection;\nAbsence of thrombocytopenia, coagulopathies or chronic use of anticoagulants;\nAbsence of vascular or neurological lesions affecting the upper limb;\nAbsence of pregnancy;\nClinical non-compensated comorbidities;\nChronic use of corticosteroids;\nConsent to free and informed consent;\nLive in Brazil.\n\nExclusion Criteria:\n\nVisualization during the operative event of one or more of the findings:\nIrreparable rupture of rotator cuff;\nSubsecapularis tear involving two thirds or more of its extension;\nNeed to open surgery.",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "35 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Eduardo A Malavolta, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+5511998329862",
+            "CentralContactEMail": "eduardomalavolta@gmail.com"
+          },
+          {
+            "CentralContactName": "Thais P Vasques",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+5511 2661-2486",
+            "CentralContactEMail": "thaiscpvasques@gmail.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "EDUARDO ANGELI MALAVOLTA A Malavolta, PhD",
+            "OverallOfficialAffiliation": "MD, PhD, Associate Professor",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Universidade de São Paulo",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "São Paulo",
+            "LocationState": "SP",
+            "LocationZip": "05403-010",
+            "LocationCountry": "Brazil",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Eduardo A Malavolta, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+5511998329862",
+                  "LocationContactEMail": "eduardomalavolta@gmail.com"
+                },
+                {
+                  "LocationContactName": "Thais Vasques",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+551126612486",
+                  "LocationContactEMail": "thaiscpvasques@gmail.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000070636",
+            "ConditionMeshTerm": "Rotator Cuff Injuries"
+          },
+          {
+            "ConditionMeshId": "D000013708",
+            "ConditionMeshTerm": "Tendon Injuries"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012421",
+            "ConditionAncestorTerm": "Rupture"
+          },
+          {
+            "ConditionAncestorId": "D000014947",
+            "ConditionAncestorTerm": "Wounds and Injuries"
+          },
+          {
+            "ConditionAncestorId": "D000070599",
+            "ConditionAncestorTerm": "Shoulder Injuries"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M14393",
+            "ConditionBrowseLeafName": "Rupture",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15631",
+            "ConditionBrowseLeafName": "Tendon Injuries",
+            "ConditionBrowseLeafAsFound": "Tendon Injuries",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21938",
+            "ConditionBrowseLeafName": "Lacerations",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M624",
+            "ConditionBrowseLeafName": "Rotator Cuff Injuries",
+            "ConditionBrowseLeafAsFound": "Rotator Cuff Tear",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M602",
+            "ConditionBrowseLeafName": "Shoulder Injuries",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,3090 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03021642",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MS200095-0012"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2015-004369-95",
+            "SecondaryIdType": "EudraCT Number"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Merck KGaA, Darmstadt, Germany",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Relative Bioavailability of Two Tepotinib Film-Coated Tablet Formulations in Healthy Volunteers",
+      "OfficialTitle": "A Phase I, Open-label, Randomized, Cross-over Trial to Investigate the Relative Bioavailability of Two Tepotinib Film-Coated Tablet Formulations in Healthy Volunteers"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2018",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 31, 2016",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 31, 2016",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 31, 2016",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "January 12, 2017",
+      "StudyFirstSubmitQCDate": "January 12, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 16, 2017",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "ResultsFirstSubmitDate": "August 23, 2018",
+      "ResultsFirstSubmitQCDate": "August 23, 2018",
+      "ResultsFirstPostDateStruct": {
+        "ResultsFirstPostDate": "January 25, 2019",
+        "ResultsFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 23, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 25, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Merck KGaA, Darmstadt, Germany",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a Phase I, open label, randomized, crossover trial to investigate the relative bioavailability of tepotinib in healthy volunteers. Twenty-four volunteers will be randomized to one of the two treatment sequences: Sequence A: test, reference, Sequence B: reference, test. The reference treatment refers to the current Phase II film-coated tablet (5 * 100 milligram (mg) tepotinib film-coated tablets) and the test treatment to the new Phase III film-coated tablet (1 * 500 mg film-coated tepotinib tablet)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Healthy"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Healthy volunteer",
+          "Tepotinib",
+          "Mesenchymal-epithelial transition factor",
+          "Translocated promoter region"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Crossover Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "24",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "First Tepotinib Test, Then Tepotinib Reference",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Tepotinib test (Treatment Period 1)",
+                "Drug: Tepotinib reference (Treatment Period 2)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "First Tepotinib Reference, Then Tepotinib Test",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Tepotinib reference (Treatment Period 1)",
+                "Drug: Tepotinib test (Treatment Period 2)"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Tepotinib test (Treatment Period 1)",
+            "InterventionDescription": "Subjects will be administered a single oral dose of test treatment of film-coated tepotinib tablet (1 * 500 mg tablet) in Treatment period 1 (Day 1)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "First Tepotinib Test, Then Tepotinib Reference"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Tepotinib reference (Treatment Period 2)",
+            "InterventionDescription": "Followed by a 21-day washout after Treatment period 1 (Day 1), subjects will be administered a single oral dose of reference treatment of film-coated tepotinib tablet (5 * 100 mg tablet) in Treatment period 2 (Day 22)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "First Tepotinib Test, Then Tepotinib Reference"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Tepotinib reference (Treatment Period 1)",
+            "InterventionDescription": "Subjects will be administered a single oral dose of reference treatment of film-coated tepotinib tablet (5 * 100 mg tablet) in Treatment period 1 (Day 1)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "First Tepotinib Reference, Then Tepotinib Test"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Tepotinib test (Treatment Period 2)",
+            "InterventionDescription": "Followed by a 21-day washout after Treatment period 1 (Day 1), subjects will be administered a single oral dose of test treatment of film-coated tepotinib tablet (1 * 500 mg tablet) in Treatment period 2 (Day 22)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "First Tepotinib Reference, Then Tepotinib Test"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Area Under the Plasma Concentration-Time Curve From Time Zero to the Last Sampling Time (AUC0-t) at Concentration at or Above Lower Limit of Quantitation (LLOQ) of Tepotinib",
+            "PrimaryOutcomeDescription": "AUC0-t was calculated according to the mixed log linear trapezoidal rule.",
+            "PrimaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Area Under the Plasma Concentration-Time Curve From Time Zero to Infinity (AUC0-inf) of Tepotinib",
+            "PrimaryOutcomeDescription": "AUC0-inf was calculated as AUC0-t + AUCextra. AUCextra represents the extrapolated part of AUC0-inf calculated by Clastcalc/λz, where Clastcalc was the calculated plasma concentration at the last sampling time point at which the measured plasma concentration was at or above the LLOQ and λz was the apparent terminal rate constant determined from the terminal slope of the log-transformed plasma concentration curve.",
+            "PrimaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Maximum Plasma Concentration Observed (Cmax) of Tepotinib",
+            "PrimaryOutcomeDescription": "Cmax was obtained directly from the concentration versus time curve.",
+            "PrimaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Time to Reach the Maximum Plasma Concentration (Tmax) of Tepotinib",
+            "PrimaryOutcomeDescription": "Time to reach the maximum plasma concentration (Tmax) was obtained directly from the concentration versus time curve.",
+            "PrimaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Area Under the Plasma Concentration-Time Curve From Time Zero to the Last Sampling Time (AUC0-t) of Tepotinib Metabolites (MSC2571109A and MSC2571107A)",
+            "SecondaryOutcomeDescription": "AUC0-t at which the concentration was at or above LLOQ was calculated according to the mixed log linear trapezoidal rule.",
+            "SecondaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Area Under the Plasma Concentration-Time Curve From Time Zero to Infinity (AUC0-inf) of Tepotinib Metabolites (MSC2571109A and MSC2571107A)",
+            "SecondaryOutcomeDescription": "AUC0-inf was calculated as AUC0-t + AUCextra. AUCextra represents the extrapolated part of AUC0-inf calculated by Clastcalc/λz, where Clastcalc was the calculated plasma concentration at the last sampling time point at which the measured plasma concentration was at or above the LLOQ and λz was the apparent terminal rate constant determined from the terminal slope of the log-transformed plasma concentration curve.",
+            "SecondaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Maximum Plasma Concentration Observed (Cmax) of Tepotinib Metabolites (MSC2571109A and MSC2571107A)",
+            "SecondaryOutcomeDescription": "Cmax was obtained directly from the concentration versus time curve.",
+            "SecondaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to Reach the Maximum Plasma Concentration (Tmax) of Tepotinib Metabolites (MSC2571109A and MSC2571107A)",
+            "SecondaryOutcomeDescription": "Tmax was obtained directly from the concentration versus time curve.",
+            "SecondaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Apparent Terminal Half-Life (t1/2) of Tepotinib and Metabolites (MSC2571109A and MSC2571107A) in Plasma",
+            "SecondaryOutcomeDescription": "t1/2 was defined as the time taken for the plasma concentration or the amount of drug in the body to be reduced by half.",
+            "SecondaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Apparent Terminal Rate Constant (λz) of Tepotinib and Metabolites (MSC2571109A and MSC2571107A) in Plasma",
+            "SecondaryOutcomeDescription": "Apparent terminal rate constant was determined from the terminal slope of the log-transformed plasma concentration curve using linear regression on terminal data points of the curve.",
+            "SecondaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Total Body Clearance of Drug From Plasma (CL/f) for Tepotinib",
+            "SecondaryOutcomeDescription": "CL/f following oral administration was calculated as Dose/AUC0-inf, where AUC0-inf calculated as AUC0-t + AUCextra. AUCextra represents the extrapolated part of AUC0-inf calculated by Clastcalc/λz, where Clastcalc was the calculated plasma concentration at the last sampling time point at which the measured plasma concentration was at or above the LLOQ and λz was the apparent terminal rate constant determined from the terminal slope of the log-transformed plasma concentration curve.",
+            "SecondaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Apparent Volume of Distribution (Vz/f) for Tepotinib",
+            "SecondaryOutcomeDescription": "Vz/f is defined as the theoretical volume in which the total amount of drug would need to be uniformly distributed to produce the desired plasma concentration of a drug. Vz/f during the terminal phase was reported.",
+            "SecondaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Extrapolated Area Under the Plasma Concentration-Time Curve From Time t to Infinity (%AUCextra) of Tepotinib and Metabolites (MSC2571109A and MSC2571107A)",
+            "SecondaryOutcomeDescription": "%AUCextra was defined as a percentage of AUC0-inf obtained by extrapolation: %AUCextra = (1- [AUC0-t / AUC0-inf])*100. %AUCextra was reported in terms of percentage of AUC0-inf.",
+            "SecondaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Ratio of Area Under the Plasma Concentration-Time Curve From Time Zero to Infinity (AUC0-inf) of Metabolite (MSC2571109A or MSC2571107A) to AUC0-inf of Tepotinib",
+            "SecondaryOutcomeDescription": "Ratio of AUC0-inf of Metabolite (MSC2571109A or MSC2571107A) to AUC0-inf of tepotinib was reported.",
+            "SecondaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Ratio of Maximum Plasma Concentration Observed (Cmax) of Metabolite (MSC2571109A or MSC2571107A) to Cmax of Tepotinib",
+            "SecondaryOutcomeDescription": "Ratio of Cmax of metabolite (MSC2571109A or MSC2571107A) to Cmax of tepotinib was reported.",
+            "SecondaryOutcomeTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of Subjects With Treatment-emergent Adverse Events (TEAEs), Serious TEAEs, TEAEs Leading to Death, TEAEs Leading to Discontinuation",
+            "SecondaryOutcomeDescription": "An adverse event (AE) was defined as any untoward medical occurrence in a subject which does not necessarily have a causal relationship with the treatment. An AE was any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease temporally associated with use of a medicinal product, whether or not considered related to the medicinal product. A serious adverse event (SAE) was an AE that resulted in any of the following outcomes: death; life threatening; persistent/significant disability/incapacity; initial or prolonged inpatient hospitalization; congenital anomaly/birth defect or was otherwise considered medically important. The term TEAE is defined as AEs starting or worsening after the first intake of the study drug.",
+            "SecondaryOutcomeTimeFrame": "Baseline up to end of trial (up to Day 43)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of Subjects With Clinically Significant Change From Baseline in Vital Signs, Electrocardiogram (ECG) and Laboratory Parameters",
+            "SecondaryOutcomeDescription": "Number of subjects with clinically significant change from baseline in vital signs, ECG and laboratory parameters were reported. Clinical Significance was decided by the investigator. Vital signs included oral body temperature, systolic blood pressure, diastolic blood pressure, and pulse rate. The 12-lead ECGs were recorded after the subjects have rested for at least 5 minutes in supine position. The parameters included heart rate (HR), RR, PR, QRS, QT and QTcB calculated by the Bazett formula. Laboratory investigation included hematology, biochemistry, urinalysis, and coagulation.",
+            "SecondaryOutcomeTimeFrame": "Baseline up to end of trial (up to Day 43)"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nHealthy male and non-fertile, healthy female volunteers, 18 to 60 years of age (both inclusive) at the time of informed consent.\nWritten informed consent given before any trial related activities are performed.\nBody weight greater than 50 kg and a body mass index (BMI) above 18 kilogram per meter square (kg/m^2) and below 30 kg/m^2 (BMI = weight [kg]/height [m^2]) at screening.\n\nHas vital signs in the following normal range:\n\nOral body temperature: 35.5 to 37.5 degree celsius (°C)\nBlood pressure (BP) and pulse rate after at least 5 minutes of rest, measured in the supine position: Systolic blood pressure: 90 to 150 millimeter of mercury (mm Hg); Diastolic blood pressure: 40 to 90 mm Hg\nPulse rate: 35 to 110 beats per minute (bpm)\nNon-smoker (= 0 cigarettes, pipes, cigars, e-cigarettes, or others) for at least 6 months prior to screening\nWomen must be postmenopausal for at least 2 years, as confirmed by luteinizing hormone (LH) and follicle-stimulating hormone (FSH) assessments performed at screening, or surgically sterile (that is, hysterectomy, oophorectomy). Pregnancy assessments will also be performed on female volunteers at screening and at admission.\nMales must agree to use and to have their female partners use highly effective medically acceptable methods of contraception during the period of participation in the trial and for at least 3 months after the last treatment administration. Men must refrain from donating sperm up to 3 months after the last treatment administration.\nAbility to understand the full nature and purpose of the trial, including possible risks and adverse effects; ability to cooperate with the Investigator and to comply with the requirements of the entire trial, including dietary restrictions.\n\nExclusion Criteria:\n\nAny condition, including findings in the medical history, physical examination or in pretrial assessments that in the opinion of the Investigator, constitutes a risk or a contraindication for the participation of the volunteer in the trial or that could interfere with the trial objectives, conduct or evaluation.\nAny clinically relevant abnormality in the results of the screening safety laboratory parameters. Specifically Alanine transaminase (ALT), aspartate aminotransferase (AST), total bilirubin, Alkaline phosphatase (ALP), amylase, and lipase must not exceed the upper limit of the normal range.\nAny clinically relevant abnormality on the 12-lead electrocardiogram recording.\nPositive result from virology tests for hepatitis B surface antigen (HBsAg), hepatitis C virus antibody (anti-HCV), or human immunodeficiency virus antibody (anti-HIV 1 and 2) at screening.\nHistory of clinically relevant renal, cardiovascular, and pulmonary disease, or endocrinology disorder.\nHistory of clinically relevant gastrointestinal disease, in particular pancreatic disease, cholecystitis, liver diseases or hepatic dysfunction.\nHistory of psychiatric or neurological disorders (depression, epilepsy etc.).\nKnown hypersensitivity to tepotinib or its excipients.\nPresence or history of any serious allergy (requiring hospitalization or prolonged systemic treatment).\nPresence of drug or alcohol abuse, confirmed by positive test results for drugs of abuse or alcohol or history of drug and alcohol abuse in the past 3 years. Volunteers who consume more than 14 (female volunteers) or 21 (male volunteers) units of alcohol a week (unit = 1 glass of wine (125 milliliter [mL]) = 1 measure of spirits = ½ pint of beer).\nLoss or donation of more than 400 mL of blood within 12 weeks prior to entry into the trial.\nParticipation in another clinical trial within the past 60 days.\nAny prescription or over the counter medication intake within 2 weeks prior to the first administration of tepotinib, including multivitamins and herbal products (St. John's wort), with the exception of acetaminophen and ibuprofen.\nConsumption of enzyme inducing or inhibiting herbal drugs, fruit juices and beverages (eg, grapefruit, grapefruit juice, Seville orange, quinine [tonic water], star fruit), and consumption of poppy seed within 3 days prior to the first administration of the investigational medicinal product.\nExcessive consumption of beverages containing xanthine (more than (>) 5 cups of coffee a day or equivalent) or inability to stop caffeine consumption while resident in the trial site. Continued use of caffeine (less than or equal to (=<)3 cups/day) or caffeine containing drinks or food, eg, coffee, tea, chocolate, Red Bull, or cola (1 caffeine unit is contained in the following items: 1 [6 ounces (oz)] cup of coffee, 2 [12 oz] cans of cola, 1 [12 oz] cup of tea, ½ [4 oz] cup of energy drink [eg, Red Bull], or 3 oz of chocolate).\nLegal incapacity or limited legal capacity.\nUnlikely to comply with the protocol requirements, instructions and trial related restrictions; eg, uncooperative attitude, inability to return for follow-up visits, and improbability of completing the trial.\nVolunteer is the Investigator or Sub-Investigator, research assistant, pharmacist, trial coordinator, other staff or relative thereof directly involved in the conduct of the trial.\nVulnerable volunteers (eg, persons kept in detention).",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "60 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Medical Responsible",
+            "OverallOfficialAffiliation": "Merck KGaA, Darmstadt, Germany",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "For Recruiting Locations outside US, please Contact Merck KGaA Communication Center",
+            "LocationCity": "Darmstadt",
+            "LocationCountry": "Germany"
+          }
+        ]
+      }
+    }
+  },
+  "ResultsSection": {
+    "ParticipantFlowModule": {
+      "FlowPreAssignmentDetails": "Overall, 65 subjects were screened for this study. Of which, 24 subjects were randomized into the study.",
+      "FlowGroupList": {
+        "FlowGroup": [
+          {
+            "FlowGroupId": "FG000",
+            "FlowGroupTitle": "First Tepotinib Test, Then Tepotinib Reference",
+            "FlowGroupDescription": "Subjects received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 milligram [mg]) in Treatment period 1 (Day 1) followed by a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in Treatment period 2 (Day 22). A washout period of 21 days was maintained between the 2 treatment periods."
+          },
+          {
+            "FlowGroupId": "FG001",
+            "FlowGroupTitle": "First Tepotinib Reference, Then Tepotinib Test",
+            "FlowGroupDescription": "Subjects received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in Treatment period 1 (Day 1) followed by a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg) in Treatment period 2 (Day 22). A washout period of 21 days was maintained between the 2 treatment periods."
+          }
+        ]
+      },
+      "FlowPeriodList": {
+        "FlowPeriod": [
+          {
+            "FlowPeriodTitle": "Treatment Period 1 (Day 1)",
+            "FlowMilestoneList": {
+              "FlowMilestone": [
+                {
+                  "FlowMilestoneType": "STARTED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "12"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "12"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "FlowMilestoneType": "COMPLETED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "12"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "12"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "FlowMilestoneType": "NOT COMPLETED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "0"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "0"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "FlowPeriodTitle": "Washout Period (21 Days)",
+            "FlowMilestoneList": {
+              "FlowMilestone": [
+                {
+                  "FlowMilestoneType": "STARTED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "12"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "12"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "FlowMilestoneType": "COMPLETED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "11"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "11"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "FlowMilestoneType": "NOT COMPLETED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "1"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "1"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "FlowDropWithdrawList": {
+              "FlowDropWithdraw": [
+                {
+                  "FlowDropWithdrawType": "Adverse Event",
+                  "FlowReasonList": {
+                    "FlowReason": [
+                      {
+                        "FlowReasonGroupId": "FG000",
+                        "FlowReasonNumSubjects": "1"
+                      },
+                      {
+                        "FlowReasonGroupId": "FG001",
+                        "FlowReasonNumSubjects": "1"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "FlowPeriodTitle": "Treatment Period 2 (Day 22)",
+            "FlowMilestoneList": {
+              "FlowMilestone": [
+                {
+                  "FlowMilestoneType": "STARTED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "11"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "11"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "FlowMilestoneType": "COMPLETED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "11"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "11"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "FlowMilestoneType": "NOT COMPLETED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "0"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "0"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "BaselineCharacteristicsModule": {
+      "BaselinePopulationDescription": "The safety analysis set (SAF) included all subjects who received at least one dose of the Investigational Medicinal Product (IMP) and had follow up safety data.",
+      "BaselineGroupList": {
+        "BaselineGroup": [
+          {
+            "BaselineGroupId": "BG000",
+            "BaselineGroupTitle": "Entire Study Population",
+            "BaselineGroupDescription": "All subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg) or a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment Period 1 or 2."
+          }
+        ]
+      },
+      "BaselineDenomList": {
+        "BaselineDenom": [
+          {
+            "BaselineDenomUnits": "Participants",
+            "BaselineDenomCountList": {
+              "BaselineDenomCount": [
+                {
+                  "BaselineDenomCountGroupId": "BG000",
+                  "BaselineDenomCountValue": "24"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "BaselineMeasureList": {
+        "BaselineMeasure": [
+          {
+            "BaselineMeasureTitle": "Age, Continuous",
+            "BaselineMeasureParamType": "Mean",
+            "BaselineMeasureDispersionType": "Standard Deviation",
+            "BaselineMeasureUnitOfMeasure": "years",
+            "BaselineClassList": {
+              "BaselineClass": [
+                {
+                  "BaselineCategoryList": {
+                    "BaselineCategory": [
+                      {
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "37.8",
+                              "BaselineMeasurementSpread": "10.03"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "BaselineMeasureTitle": "Sex: Female, Male",
+            "BaselineMeasureParamType": "Count of Participants",
+            "BaselineMeasureUnitOfMeasure": "Participants",
+            "BaselineClassList": {
+              "BaselineClass": [
+                {
+                  "BaselineCategoryList": {
+                    "BaselineCategory": [
+                      {
+                        "BaselineCategoryTitle": "Female",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "BaselineCategoryTitle": "Male",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "24"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomeMeasuresModule": {
+      "OutcomeMeasureList": {
+        "OutcomeMeasure": [
+          {
+            "OutcomeMeasureType": "Primary",
+            "OutcomeMeasureTitle": "Area Under the Plasma Concentration-Time Curve From Time Zero to the Last Sampling Time (AUC0-t) at Concentration at or Above Lower Limit of Quantitation (LLOQ) of Tepotinib",
+            "OutcomeMeasureDescription": "AUC0-t was calculated according to the mixed log linear trapezoidal rule.",
+            "OutcomeMeasurePopulationDescription": "The pharmacokinetic (PK) analysis set included all subjects who received at least 1 dose of IMP and had at least 1 post-dose PK measurement without important protocol deviations/violations or events that could have affected the PK. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Geometric Mean",
+            "OutcomeMeasureDispersionType": "Geometric Coefficient of Variation",
+            "OutcomeMeasureUnitOfMeasure": "nanograms*hour per milliliter (ng*h/mL)",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "23"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "23"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "25159.2",
+                              "OutcomeMeasurementSpread": "27.0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "25983.7",
+                              "OutcomeMeasurementSpread": "24.0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeAnalysisList": {
+              "OutcomeAnalysis": [
+                {
+                  "OutcomeAnalysisGroupIdList": {
+                    "OutcomeAnalysisGroupId": [
+                      "OG000",
+                      "OG001"
+                    ]
+                  },
+                  "OutcomeAnalysisNonInferiorityType": "Superiority or Other",
+                  "OutcomeAnalysisParamType": "Geometric Least square (LS) mean ratio",
+                  "OutcomeAnalysisParamValue": "98.68",
+                  "OutcomeAnalysisCIPctValue": "90",
+                  "OutcomeAnalysisCINumSides": "2-Sided",
+                  "OutcomeAnalysisCILowerLimit": "93.67",
+                  "OutcomeAnalysisCIUpperLimit": "103.96"
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Primary",
+            "OutcomeMeasureTitle": "Area Under the Plasma Concentration-Time Curve From Time Zero to Infinity (AUC0-inf) of Tepotinib",
+            "OutcomeMeasureDescription": "AUC0-inf was calculated as AUC0-t + AUCextra. AUCextra represents the extrapolated part of AUC0-inf calculated by Clastcalc/λz, where Clastcalc was the calculated plasma concentration at the last sampling time point at which the measured plasma concentration was at or above the LLOQ and λz was the apparent terminal rate constant determined from the terminal slope of the log-transformed plasma concentration curve.",
+            "OutcomeMeasurePopulationDescription": "The PK analysis set included all subjects who received at least 1 dose of IMP and had at least 1 post-dose PK measurement without important protocol deviations/violations or events that could have affected the PK. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Geometric Mean",
+            "OutcomeMeasureDispersionType": "Geometric Coefficient of Variation",
+            "OutcomeMeasureUnitOfMeasure": "ng*h/mL",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "18"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "17"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "25709.6",
+                              "OutcomeMeasurementSpread": "29.6"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "26990.3",
+                              "OutcomeMeasurementSpread": "26.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeAnalysisList": {
+              "OutcomeAnalysis": [
+                {
+                  "OutcomeAnalysisGroupIdList": {
+                    "OutcomeAnalysisGroupId": [
+                      "OG000",
+                      "OG001"
+                    ]
+                  },
+                  "OutcomeAnalysisNonInferiorityType": "Superiority or Other",
+                  "OutcomeAnalysisParamType": "Geometric LS mean ratio",
+                  "OutcomeAnalysisParamValue": "95.71",
+                  "OutcomeAnalysisCIPctValue": "90",
+                  "OutcomeAnalysisCINumSides": "2-Sided",
+                  "OutcomeAnalysisCILowerLimit": "88.43",
+                  "OutcomeAnalysisCIUpperLimit": "103.59"
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Primary",
+            "OutcomeMeasureTitle": "Maximum Plasma Concentration Observed (Cmax) of Tepotinib",
+            "OutcomeMeasureDescription": "Cmax was obtained directly from the concentration versus time curve.",
+            "OutcomeMeasurePopulationDescription": "The PK analysis set included all subjects who received at least 1 dose of IMP and had at least 1 post-dose PK measurement without important protocol deviations/violations or events that could have affected the PK. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Geometric Mean",
+            "OutcomeMeasureDispersionType": "Geometric Coefficient of Variation",
+            "OutcomeMeasureUnitOfMeasure": "ng/mL",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "23"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "23"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "463.0",
+                              "OutcomeMeasurementSpread": "26.2"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "486.3",
+                              "OutcomeMeasurementSpread": "19.8"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeAnalysisList": {
+              "OutcomeAnalysis": [
+                {
+                  "OutcomeAnalysisGroupIdList": {
+                    "OutcomeAnalysisGroupId": [
+                      "OG000",
+                      "OG001"
+                    ]
+                  },
+                  "OutcomeAnalysisNonInferiorityType": "Superiority or Other",
+                  "OutcomeAnalysisParamType": "Geometric LS mean ratio",
+                  "OutcomeAnalysisParamValue": "96.88",
+                  "OutcomeAnalysisCIPctValue": "90",
+                  "OutcomeAnalysisCINumSides": "2-Sided",
+                  "OutcomeAnalysisCILowerLimit": "90.8",
+                  "OutcomeAnalysisCIUpperLimit": "103.36"
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Primary",
+            "OutcomeMeasureTitle": "Time to Reach the Maximum Plasma Concentration (Tmax) of Tepotinib",
+            "OutcomeMeasureDescription": "Time to reach the maximum plasma concentration (Tmax) was obtained directly from the concentration versus time curve.",
+            "OutcomeMeasurePopulationDescription": "The PK analysis set included all subjects who received at least 1 dose of IMP and had at least 1 post-dose PK measurement without important protocol deviations/violations or events that could have affected the PK. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Median",
+            "OutcomeMeasureDispersionType": "Full Range",
+            "OutcomeMeasureUnitOfMeasure": "hours",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "23"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "23"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "8.000",
+                              "OutcomeMeasurementLowerLimit": "4.00",
+                              "OutcomeMeasurementUpperLimit": "24.00"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "8.000",
+                              "OutcomeMeasurementLowerLimit": "4.00",
+                              "OutcomeMeasurementUpperLimit": "16.00"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeAnalysisList": {
+              "OutcomeAnalysis": [
+                {
+                  "OutcomeAnalysisGroupIdList": {
+                    "OutcomeAnalysisGroupId": [
+                      "OG000",
+                      "OG001"
+                    ]
+                  },
+                  "OutcomeAnalysisNonInferiorityType": "Superiority or Other",
+                  "OutcomeAnalysisPValue": "0.8981",
+                  "OutcomeAnalysisStatisticalMethod": "Wilcoxon signed-rank test",
+                  "OutcomeAnalysisParamType": "Median Difference (Net)",
+                  "OutcomeAnalysisParamValue": "0.000",
+                  "OutcomeAnalysisCIPctValue": "90",
+                  "OutcomeAnalysisCINumSides": "2-Sided",
+                  "OutcomeAnalysisCILowerLimit": "-1.000",
+                  "OutcomeAnalysisCIUpperLimit": "1.025"
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Area Under the Plasma Concentration-Time Curve From Time Zero to the Last Sampling Time (AUC0-t) of Tepotinib Metabolites (MSC2571109A and MSC2571107A)",
+            "OutcomeMeasureDescription": "AUC0-t at which the concentration was at or above LLOQ was calculated according to the mixed log linear trapezoidal rule.",
+            "OutcomeMeasurePopulationDescription": "The PK analysis set included all subjects who received at least 1 dose of IMP and had at least 1 post-dose PK measurement without important protocol deviations/violations or events that could have affected the PK. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Geometric Mean",
+            "OutcomeMeasureDispersionType": "Geometric Coefficient of Variation",
+            "OutcomeMeasureUnitOfMeasure": "ng*h/mL",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "23"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "23"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeClassTitle": "MSC2571109A",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "13637.3",
+                              "OutcomeMeasurementSpread": "30.4"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "14164.7",
+                              "OutcomeMeasurementSpread": "27.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "MSC2571107A",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "846.2",
+                              "OutcomeMeasurementSpread": "42.4"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "849.5",
+                              "OutcomeMeasurementSpread": "36.3"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Area Under the Plasma Concentration-Time Curve From Time Zero to Infinity (AUC0-inf) of Tepotinib Metabolites (MSC2571109A and MSC2571107A)",
+            "OutcomeMeasureDescription": "AUC0-inf was calculated as AUC0-t + AUCextra. AUCextra represents the extrapolated part of AUC0-inf calculated by Clastcalc/λz, where Clastcalc was the calculated plasma concentration at the last sampling time point at which the measured plasma concentration was at or above the LLOQ and λz was the apparent terminal rate constant determined from the terminal slope of the log-transformed plasma concentration curve.",
+            "OutcomeMeasurePopulationDescription": "The PK analysis set. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure and \"Number Analyzed\" signifies those subjects who were evaluable for specified category.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Geometric Mean",
+            "OutcomeMeasureDispersionType": "Geometric Coefficient of Variation",
+            "OutcomeMeasureUnitOfMeasure": "ng*h/mL",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "21"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "22"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeClassTitle": "MSC2571109A",
+                  "OutcomeClassDenomList": {
+                    "OutcomeClassDenom": [
+                      {
+                        "OutcomeClassDenomUnits": "Participants",
+                        "OutcomeClassDenomCountList": {
+                          "OutcomeClassDenomCount": [
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG000",
+                              "OutcomeClassDenomCountValue": "21"
+                            },
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG001",
+                              "OutcomeClassDenomCountValue": "22"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "13932.6",
+                              "OutcomeMeasurementSpread": "31.0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "14541.7",
+                              "OutcomeMeasurementSpread": "25.5"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "MSC2571107A",
+                  "OutcomeClassDenomList": {
+                    "OutcomeClassDenom": [
+                      {
+                        "OutcomeClassDenomUnits": "Participants",
+                        "OutcomeClassDenomCountList": {
+                          "OutcomeClassDenomCount": [
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG000",
+                              "OutcomeClassDenomCountValue": "20"
+                            },
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG001",
+                              "OutcomeClassDenomCountValue": "20"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "865.0",
+                              "OutcomeMeasurementSpread": "39.7"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "830.4",
+                              "OutcomeMeasurementSpread": "35.6"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Maximum Plasma Concentration Observed (Cmax) of Tepotinib Metabolites (MSC2571109A and MSC2571107A)",
+            "OutcomeMeasureDescription": "Cmax was obtained directly from the concentration versus time curve.",
+            "OutcomeMeasurePopulationDescription": "The PK analysis set included all subjects who received at least 1 dose of IMP and had at least 1 post-dose PK measurement without important protocol deviations/violations or events that could have affected the PK. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Geometric Mean",
+            "OutcomeMeasureDispersionType": "Geometric Coefficient of Variation",
+            "OutcomeMeasureUnitOfMeasure": "ng/mL",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "23"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "23"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeClassTitle": "MSC2571109A",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "160.40",
+                              "OutcomeMeasurementSpread": "28.6"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "160.86",
+                              "OutcomeMeasurementSpread": "24.4"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "MSC2571107A",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "11.630",
+                              "OutcomeMeasurementSpread": "38.2"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "11.299",
+                              "OutcomeMeasurementSpread": "29.9"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Time to Reach the Maximum Plasma Concentration (Tmax) of Tepotinib Metabolites (MSC2571109A and MSC2571107A)",
+            "OutcomeMeasureDescription": "Tmax was obtained directly from the concentration versus time curve.",
+            "OutcomeMeasurePopulationDescription": "The PK analysis set included all subjects who received at least 1 dose of IMP and had at least 1 post-dose PK measurement without important protocol deviations/violations or events that could have affected the PK. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Median",
+            "OutcomeMeasureDispersionType": "Full Range",
+            "OutcomeMeasureUnitOfMeasure": "hours",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "23"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "23"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeClassTitle": "MSC2571109A",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "24.00",
+                              "OutcomeMeasurementLowerLimit": "24.0",
+                              "OutcomeMeasurementUpperLimit": "48.0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "24.02",
+                              "OutcomeMeasurementLowerLimit": "24.0",
+                              "OutcomeMeasurementUpperLimit": "97.3"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "MSC2571107A",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "24.00",
+                              "OutcomeMeasurementLowerLimit": "16.0",
+                              "OutcomeMeasurementUpperLimit": "48.0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "24.00",
+                              "OutcomeMeasurementLowerLimit": "16.0",
+                              "OutcomeMeasurementUpperLimit": "48.0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Apparent Terminal Half-Life (t1/2) of Tepotinib and Metabolites (MSC2571109A and MSC2571107A) in Plasma",
+            "OutcomeMeasureDescription": "t1/2 was defined as the time taken for the plasma concentration or the amount of drug in the body to be reduced by half.",
+            "OutcomeMeasurePopulationDescription": "The PK analysis set. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure and \"Number Analyzed\" signifies those subjects who were evaluable for specified category.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Geometric Mean",
+            "OutcomeMeasureDispersionType": "Geometric Coefficient of Variation",
+            "OutcomeMeasureUnitOfMeasure": "hours",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "21"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "22"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeClassTitle": "Tepotinib",
+                  "OutcomeClassDenomList": {
+                    "OutcomeClassDenom": [
+                      {
+                        "OutcomeClassDenomUnits": "Participants",
+                        "OutcomeClassDenomCountList": {
+                          "OutcomeClassDenomCount": [
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG000",
+                              "OutcomeClassDenomCountValue": "18"
+                            },
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG001",
+                              "OutcomeClassDenomCountValue": "17"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "35.27",
+                              "OutcomeMeasurementSpread": "18.1"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "34.27",
+                              "OutcomeMeasurementSpread": "22.5"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "MSC2571109A",
+                  "OutcomeClassDenomList": {
+                    "OutcomeClassDenom": [
+                      {
+                        "OutcomeClassDenomUnits": "Participants",
+                        "OutcomeClassDenomCountList": {
+                          "OutcomeClassDenomCount": [
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG000",
+                              "OutcomeClassDenomCountValue": "21"
+                            },
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG001",
+                              "OutcomeClassDenomCountValue": "22"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "47.33",
+                              "OutcomeMeasurementSpread": "25.4"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "46.39",
+                              "OutcomeMeasurementSpread": "28.8"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "MSC2571107A",
+                  "OutcomeClassDenomList": {
+                    "OutcomeClassDenom": [
+                      {
+                        "OutcomeClassDenomUnits": "Participants",
+                        "OutcomeClassDenomCountList": {
+                          "OutcomeClassDenomCount": [
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG000",
+                              "OutcomeClassDenomCountValue": "20"
+                            },
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG001",
+                              "OutcomeClassDenomCountValue": "20"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "42.39",
+                              "OutcomeMeasurementSpread": "17.0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "40.18",
+                              "OutcomeMeasurementSpread": "21.3"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Apparent Terminal Rate Constant (λz) of Tepotinib and Metabolites (MSC2571109A and MSC2571107A) in Plasma",
+            "OutcomeMeasureDescription": "Apparent terminal rate constant was determined from the terminal slope of the log-transformed plasma concentration curve using linear regression on terminal data points of the curve.",
+            "OutcomeMeasurePopulationDescription": "The PK analysis set. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure and \"Number Analyzed\" signifies those subjects who were evaluable for specified category.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Geometric Mean",
+            "OutcomeMeasureDispersionType": "Geometric Coefficient of Variation",
+            "OutcomeMeasureUnitOfMeasure": "1/h",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "21"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "22"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeClassTitle": "Tepotinib",
+                  "OutcomeClassDenomList": {
+                    "OutcomeClassDenom": [
+                      {
+                        "OutcomeClassDenomUnits": "Participants",
+                        "OutcomeClassDenomCountList": {
+                          "OutcomeClassDenomCount": [
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG000",
+                              "OutcomeClassDenomCountValue": "18"
+                            },
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG001",
+                              "OutcomeClassDenomCountValue": "17"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0.019652",
+                              "OutcomeMeasurementSpread": "18.1"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0.020229",
+                              "OutcomeMeasurementSpread": "22.5"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "MSC2571109A",
+                  "OutcomeClassDenomList": {
+                    "OutcomeClassDenom": [
+                      {
+                        "OutcomeClassDenomUnits": "Participants",
+                        "OutcomeClassDenomCountList": {
+                          "OutcomeClassDenomCount": [
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG000",
+                              "OutcomeClassDenomCountValue": "21"
+                            },
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG001",
+                              "OutcomeClassDenomCountValue": "22"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0.014643",
+                              "OutcomeMeasurementSpread": "25.4"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0.014942",
+                              "OutcomeMeasurementSpread": "28.8"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "MSC2571107A",
+                  "OutcomeClassDenomList": {
+                    "OutcomeClassDenom": [
+                      {
+                        "OutcomeClassDenomUnits": "Participants",
+                        "OutcomeClassDenomCountList": {
+                          "OutcomeClassDenomCount": [
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG000",
+                              "OutcomeClassDenomCountValue": "20"
+                            },
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG001",
+                              "OutcomeClassDenomCountValue": "20"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0.016350",
+                              "OutcomeMeasurementSpread": "17.0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0.017252",
+                              "OutcomeMeasurementSpread": "21.3"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Total Body Clearance of Drug From Plasma (CL/f) for Tepotinib",
+            "OutcomeMeasureDescription": "CL/f following oral administration was calculated as Dose/AUC0-inf, where AUC0-inf calculated as AUC0-t + AUCextra. AUCextra represents the extrapolated part of AUC0-inf calculated by Clastcalc/λz, where Clastcalc was the calculated plasma concentration at the last sampling time point at which the measured plasma concentration was at or above the LLOQ and λz was the apparent terminal rate constant determined from the terminal slope of the log-transformed plasma concentration curve.",
+            "OutcomeMeasurePopulationDescription": "The PK analysis set included all subjects who received at least 1 dose of IMP and had at least 1 post-dose PK measurement without important protocol deviations/violations or events that could have affected the PK. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Geometric Mean",
+            "OutcomeMeasureDispersionType": "Geometric Coefficient of Variation",
+            "OutcomeMeasureUnitOfMeasure": "liter/hour",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "18"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "17"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "17.503",
+                              "OutcomeMeasurementSpread": "29.6"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "16.673",
+                              "OutcomeMeasurementSpread": "26.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Apparent Volume of Distribution (Vz/f) for Tepotinib",
+            "OutcomeMeasureDescription": "Vz/f is defined as the theoretical volume in which the total amount of drug would need to be uniformly distributed to produce the desired plasma concentration of a drug. Vz/f during the terminal phase was reported.",
+            "OutcomeMeasurePopulationDescription": "The PK analysis set included all subjects who received at least 1 dose of IMP and had at least 1 post-dose PK measurement without important protocol deviations/violations or events that could have affected the PK. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Geometric Mean",
+            "OutcomeMeasureDispersionType": "Geometric Coefficient of Variation",
+            "OutcomeMeasureUnitOfMeasure": "liters",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "18"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "17"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "890.7",
+                              "OutcomeMeasurementSpread": "27.7"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "824.2",
+                              "OutcomeMeasurementSpread": "21.4"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Extrapolated Area Under the Plasma Concentration-Time Curve From Time t to Infinity (%AUCextra) of Tepotinib and Metabolites (MSC2571109A and MSC2571107A)",
+            "OutcomeMeasureDescription": "%AUCextra was defined as a percentage of AUC0-inf obtained by extrapolation: %AUCextra = (1- [AUC0-t / AUC0-inf])*100. %AUCextra was reported in terms of percentage of AUC0-inf.",
+            "OutcomeMeasurePopulationDescription": "The PK analysis set. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure and \"Number Analyzed\" signifies those subjects who were evaluable for specified category.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Geometric Mean",
+            "OutcomeMeasureDispersionType": "Geometric Coefficient of Variation",
+            "OutcomeMeasureUnitOfMeasure": "percentage of AUC0-inf",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "21"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "22"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeClassTitle": "Tepotinib",
+                  "OutcomeClassDenomList": {
+                    "OutcomeClassDenom": [
+                      {
+                        "OutcomeClassDenomUnits": "Participants",
+                        "OutcomeClassDenomCountList": {
+                          "OutcomeClassDenomCount": [
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG000",
+                              "OutcomeClassDenomCountValue": "18"
+                            },
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG001",
+                              "OutcomeClassDenomCountValue": "17"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "1.5025",
+                              "OutcomeMeasurementSpread": "36.7"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "1.5394",
+                              "OutcomeMeasurementSpread": "44.7"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "MSC2571109A",
+                  "OutcomeClassDenomList": {
+                    "OutcomeClassDenom": [
+                      {
+                        "OutcomeClassDenomUnits": "Participants",
+                        "OutcomeClassDenomCountList": {
+                          "OutcomeClassDenomCount": [
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG000",
+                              "OutcomeClassDenomCountValue": "21"
+                            },
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG001",
+                              "OutcomeClassDenomCountValue": "22"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0.4040",
+                              "OutcomeMeasurementSpread": "45.9"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0.4257",
+                              "OutcomeMeasurementSpread": "48.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "MSC2571107A",
+                  "OutcomeClassDenomList": {
+                    "OutcomeClassDenom": [
+                      {
+                        "OutcomeClassDenomUnits": "Participants",
+                        "OutcomeClassDenomCountList": {
+                          "OutcomeClassDenomCount": [
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG000",
+                              "OutcomeClassDenomCountValue": "20"
+                            },
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG001",
+                              "OutcomeClassDenomCountValue": "20"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0.9715",
+                              "OutcomeMeasurementSpread": "49.1"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0.9748",
+                              "OutcomeMeasurementSpread": "46.3"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Ratio of Area Under the Plasma Concentration-Time Curve From Time Zero to Infinity (AUC0-inf) of Metabolite (MSC2571109A or MSC2571107A) to AUC0-inf of Tepotinib",
+            "OutcomeMeasureDescription": "Ratio of AUC0-inf of Metabolite (MSC2571109A or MSC2571107A) to AUC0-inf of tepotinib was reported.",
+            "OutcomeMeasurePopulationDescription": "The PK analysis set. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure and \"Number Analyzed\" signifies those subjects who were evaluable for specified category.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Geometric Mean",
+            "OutcomeMeasureDispersionType": "Geometric Coefficient of Variation",
+            "OutcomeMeasureUnitOfMeasure": "ratio",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "21"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "22"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeClassTitle": "MSC2571109A",
+                  "OutcomeClassDenomList": {
+                    "OutcomeClassDenom": [
+                      {
+                        "OutcomeClassDenomUnits": "Participants",
+                        "OutcomeClassDenomCountList": {
+                          "OutcomeClassDenomCount": [
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG000",
+                              "OutcomeClassDenomCountValue": "21"
+                            },
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG001",
+                              "OutcomeClassDenomCountValue": "22"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0.5362",
+                              "OutcomeMeasurementSpread": "16.3"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0.5353",
+                              "OutcomeMeasurementSpread": "18.0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "MSC2571107A",
+                  "OutcomeClassDenomList": {
+                    "OutcomeClassDenom": [
+                      {
+                        "OutcomeClassDenomUnits": "Participants",
+                        "OutcomeClassDenomCountList": {
+                          "OutcomeClassDenomCount": [
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG000",
+                              "OutcomeClassDenomCountValue": "20"
+                            },
+                            {
+                              "OutcomeClassDenomCountGroupId": "OG001",
+                              "OutcomeClassDenomCountValue": "20"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0.03397",
+                              "OutcomeMeasurementSpread": "25.9"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0.03216",
+                              "OutcomeMeasurementSpread": "22.0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Ratio of Maximum Plasma Concentration Observed (Cmax) of Metabolite (MSC2571109A or MSC2571107A) to Cmax of Tepotinib",
+            "OutcomeMeasureDescription": "Ratio of Cmax of metabolite (MSC2571109A or MSC2571107A) to Cmax of tepotinib was reported.",
+            "OutcomeMeasurePopulationDescription": "The PK analysis set included all subjects who received at least 1 dose of IMP and had at least 1 post-dose PK measurement without important protocol deviations/violations or events that could have affected the PK. Here 'Overall number of participants analyzed' = overall number of subjects evaluable for this outcome measure.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Geometric Mean",
+            "OutcomeMeasureDispersionType": "Geometric Coefficient of Variation",
+            "OutcomeMeasureUnitOfMeasure": "ratio",
+            "OutcomeMeasureTimeFrame": "Pre-dose, 0.25, 0.50, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 10, 16, 24, 30, 36, 48, 54, 60, 72, 96, 120, 144, 168, 216, 288, 336, and 504 hours post-dose during Treatment Periods 1 and 2",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "23"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "23"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeClassTitle": "MSC2571109A",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0.3464",
+                              "OutcomeMeasurementSpread": "22.4"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0.3308",
+                              "OutcomeMeasurementSpread": "23.4"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "MSC2571107A",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0.02512",
+                              "OutcomeMeasurementSpread": "29.0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0.02323",
+                              "OutcomeMeasurementSpread": "29.3"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Number of Subjects With Treatment-emergent Adverse Events (TEAEs), Serious TEAEs, TEAEs Leading to Death, TEAEs Leading to Discontinuation",
+            "OutcomeMeasureDescription": "An adverse event (AE) was defined as any untoward medical occurrence in a subject which does not necessarily have a causal relationship with the treatment. An AE was any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease temporally associated with use of a medicinal product, whether or not considered related to the medicinal product. A serious adverse event (SAE) was an AE that resulted in any of the following outcomes: death; life threatening; persistent/significant disability/incapacity; initial or prolonged inpatient hospitalization; congenital anomaly/birth defect or was otherwise considered medically important. The term TEAE is defined as AEs starting or worsening after the first intake of the study drug.",
+            "OutcomeMeasurePopulationDescription": "SAF population. A total of 24 subjects were evaluated for adverse events. Because 1 subject in each treatment sequence discontinued before receiving the second treatment, only 23 subjects received Test Treatment and 23 subjects received Reference Treatment.Thus, number of subjects analyzed per treatment is mentioned as 23.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Count of Participants",
+            "OutcomeMeasureUnitOfMeasure": "Participants",
+            "OutcomeMeasureTimeFrame": "Baseline up to end of trial (up to Day 43)",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "23"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "23"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeClassTitle": "TEAEs",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "10"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "9"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "Serious TEAEs",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "TEAEs Leading to Death",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "TEAE leading to Discontinuation",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "1"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Number of Subjects With Clinically Significant Change From Baseline in Vital Signs, Electrocardiogram (ECG) and Laboratory Parameters",
+            "OutcomeMeasureDescription": "Number of subjects with clinically significant change from baseline in vital signs, ECG and laboratory parameters were reported. Clinical Significance was decided by the investigator. Vital signs included oral body temperature, systolic blood pressure, diastolic blood pressure, and pulse rate. The 12-lead ECGs were recorded after the subjects have rested for at least 5 minutes in supine position. The parameters included heart rate (HR), RR, PR, QRS, QT and QTcB calculated by the Bazett formula. Laboratory investigation included hematology, biochemistry, urinalysis, and coagulation.",
+            "OutcomeMeasurePopulationDescription": "SAF population. A total of 24 subjects were evaluated for adverse events. Because 1 subject in each treatment sequence discontinued before receiving the second treatment, only 23 subjects received Test Treatment and 23 subjects received Reference Treatment. Thus, number of subjects analyzed per treatment is mentioned as 23.",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Count of Participants",
+            "OutcomeMeasureUnitOfMeasure": "Participants",
+            "OutcomeMeasureTimeFrame": "Baseline up to end of trial (up to Day 43)",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Tepotinib Test Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2."
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Tepotinib Reference Treatment",
+                  "OutcomeGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2."
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "23"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "23"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeClassTitle": "Vital Signs",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "ECG Values",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "Laboratory Values",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "AdverseEventsModule": {
+      "EventsFrequencyThreshold": "0",
+      "EventsTimeFrame": "Baseline up to end of trial (up to Day 43)",
+      "EventsDescription": "The safety analysis set included all subjects who received at least 1 dose of the IMP and had follow up safety data. A total of 24 subjects were evaluated for adverse events. Because 1 subject in each treatment sequence discontinued before receiving the second treatment, only 23 subjects received Test Treatment and 23 subjects received Reference Treatment. Thus, number of subjects analyzed per treatment is mentioned as 23.",
+      "EventGroupList": {
+        "EventGroup": [
+          {
+            "EventGroupId": "EG000",
+            "EventGroupTitle": "Tepotinib Test Treatment",
+            "EventGroupDescription": "Subjects who received a single oral dose of test treatment of film-coated tepotinib tablet (1*500 mg tablet) in either Treatment period 1 or 2.",
+            "EventGroupDeathsNumAffected": "0",
+            "EventGroupDeathsNumAtRisk": "23",
+            "EventGroupSeriousNumAffected": "0",
+            "EventGroupSeriousNumAtRisk": "23",
+            "EventGroupOtherNumAffected": "10",
+            "EventGroupOtherNumAtRisk": "23"
+          },
+          {
+            "EventGroupId": "EG001",
+            "EventGroupTitle": "Tepotinib Reference Treatment",
+            "EventGroupDescription": "Subjects who received a single oral dose of reference treatment of film-coated tepotinib tablet (5*100 mg tablet) in either Treatment period 1 or 2.",
+            "EventGroupDeathsNumAffected": "0",
+            "EventGroupDeathsNumAtRisk": "23",
+            "EventGroupSeriousNumAffected": "0",
+            "EventGroupSeriousNumAtRisk": "23",
+            "EventGroupOtherNumAffected": "9",
+            "EventGroupOtherNumAtRisk": "23"
+          }
+        ]
+      },
+      "OtherEventList": {
+        "OtherEvent": [
+          {
+            "OtherEventTerm": "Arthropod Bite",
+            "OtherEventOrganSystem": "Injury, poisoning and procedural complications",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Foreign Body In Eye",
+            "OtherEventOrganSystem": "Injury, poisoning and procedural complications",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Amylase Increased",
+            "OtherEventOrganSystem": "Investigations",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Lipase Increased",
+            "OtherEventOrganSystem": "Investigations",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Dry Throat",
+            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Headache",
+            "OtherEventOrganSystem": "Nervous system disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Catheter Site Inflammation",
+            "OtherEventOrganSystem": "General disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Catheter Site Related Reaction",
+            "OtherEventOrganSystem": "General disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Chills",
+            "OtherEventOrganSystem": "General disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Influenza Like Illness",
+            "OtherEventOrganSystem": "General disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Abdominal Pain",
+            "OtherEventOrganSystem": "Gastrointestinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Diarrhoea",
+            "OtherEventOrganSystem": "Gastrointestinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Dyspepsia",
+            "OtherEventOrganSystem": "Gastrointestinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Mouth Ulceration",
+            "OtherEventOrganSystem": "Gastrointestinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Nausea",
+            "OtherEventOrganSystem": "Gastrointestinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Toothache",
+            "OtherEventOrganSystem": "Gastrointestinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Vomiting",
+            "OtherEventOrganSystem": "Gastrointestinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Hepatic Function Abnormal",
+            "OtherEventOrganSystem": "Hepatobiliary disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Dermatitis Contact",
+            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Dry Skin",
+            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Eczema",
+            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Rash Maculo-Papular",
+            "OtherEventOrganSystem": "Skin and subcutaneous tissue disorders",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Influenza",
+            "OtherEventOrganSystem": "Infections and infestations",
+            "OtherEventSourceVocabulary": "MedDRA 18.1",
+            "OtherEventAssessmentType": "Non-systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "23"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "23"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "MoreInfoModule": {
+      "CertainAgreement": {
+        "AgreementPISponsorEmployee": "No",
+        "AgreementRestrictionType": "OTHER",
+        "AgreementRestrictiveAgreement": "Yes",
+        "AgreementOtherDetails": "Any publications and presentations of the results (abstracts in journals or newspapers, oral presentations, etc.), either in whole or in part, by Investigators or their representatives will require review by the Sponsor before submission. The Sponsor will not suppress publication, but maintains the right to delay publication in order to protect intellectual property rights."
+      },
+      "PointOfContact": {
+        "PointOfContactTitle": "Merck KGaA Communication Center",
+        "PointOfContactOrganization": "Merck Healthcare, a business of Merck KGaA, Darmstadt, Germany",
+        "PointOfContactEMail": "service@merckgroup.com",
+        "PointOfContactPhone": "+49-6151-72-5200"
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "T4202",
+            "ConditionBrowseLeafName": "Oculocerebral Syndrome With Hypopigmentation",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "C000707607",
+            "InterventionMeshTerm": "Tepotinib"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M346816",
+            "InterventionBrowseLeafName": "Tepotinib",
+            "InterventionBrowseLeafAsFound": "Bile Acid",
+            "InterventionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04362189",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "HBCOV03"
+      },
+      "Organization": {
+        "OrgFullName": "Hope Biosciences",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Efficacy and Safety Study of Allogeneic HB-adMSCs for the Treatment of COVID-19",
+      "OfficialTitle": "A Randomized, Placebo-Controlled, Double-Blind, Efficacy and Safety Study of Allogeneic HB-adMSCs for the Treatment of COVID-19"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2020",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 30, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 31, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 31, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 21, 2020",
+      "StudyFirstSubmitQCDate": "April 23, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 24, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "July 2, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 6, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Hope Biosciences Stem Cell Research Foundation",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Advanced Diagnostics Healthcare",
+            "CollaboratorClass": "UNKNOWN"
+          },
+          {
+            "CollaboratorName": "Hope Biosciences",
+            "CollaboratorClass": "INDUSTRY"
+          },
+          {
+            "CollaboratorName": "United Memorial Medical Center",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Hope Biosciences is conducting a research study of an investigational product called allogeneic adipose-derived mesenchymal stem cells (abbreviated as HB-adMSCs) as treatment for patients suspected to have COVID-19. The study purpose is to evaluate the safety and efficacy of four IV infusions of either placebo or HB-adMSCs in subjects with COVID-19.",
+      "DetailedDescription": "This is a Phase II, Randomized, Placebo-Controlled, Double-Blinded, Clinical Trial to Assess Efficacy of HB-adMSCs to treat COVID-19 patients. 100 patients will be enrolled. Eligible participants are suspected to have COVID-19 and consent to participate. The primary endpoints of this study are to detect change from baseline in inflammatory markers (IL-6, IL-10, TNF-alpha, C Reactive protein), improving oxygenation, and decreasing time to return to room air (RTRA). In addition, participants will be monitored for overall clinical status by standard clinical laboratories, change from baseline in exploratory markers (D-dimer, myoglobin, troponin, creatinine kinase MB, serum ferritin, CD4:CD8 ratio, CD3-CD56+), time to negative PCR results and clinical improvement according to 7-point ordinal scale, as well as incidence of adverse events."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID-19"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Coronavirus",
+          "Stem cells",
+          "Mesenchymal stem cells",
+          "Adipose-derived mesenchymal stem cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "100",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "HB-adMSCs",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects assigned to this arm will receive 4 intravenous infusions of HB-adMSCs at 100 million cells/dose. HB-adMSC infusions will occur at day 0, 3, 7, and 10.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: HB-adMSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Subjects assigned to this arm will receive 4 intravenous infusions of placebo (saline solution). Infusions will occur at day 0, 3, 7, and 10.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "HB-adMSC",
+            "InterventionDescription": "Hope Biosciences allogeneic adipose-derived mesenchymal stem cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "HB-adMSCs"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Interleukin-6",
+            "PrimaryOutcomeDescription": "change from baseline in interleukin-6",
+            "PrimaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "PrimaryOutcomeMeasure": "C Reactive protein",
+            "PrimaryOutcomeDescription": "Change from baseline in C Reactive protein",
+            "PrimaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Oxygenation",
+            "PrimaryOutcomeDescription": "change from baseline oxygenation (%)",
+            "PrimaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "PrimaryOutcomeMeasure": "TNF alpha",
+            "PrimaryOutcomeDescription": "change from baseline in TNF alpha",
+            "PrimaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "PrimaryOutcomeMeasure": "IL-10",
+            "PrimaryOutcomeDescription": "change from baseline level of IL-10 in the blood (pg/mL)",
+            "PrimaryOutcomeTimeFrame": "screening, day 0, 7. 10"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Return to room air (RTRA)",
+            "PrimaryOutcomeDescription": "Time to return to room air",
+            "PrimaryOutcomeTimeFrame": "Day 0, 3, 7, 10, 28"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "EKG qt interval",
+            "SecondaryOutcomeDescription": "Monitoring for changes in qt interval",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 3, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Leukocyte differential",
+            "SecondaryOutcomeDescription": "change from baseline in leukocyte differential",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Glucose",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of glucose in the blood (mg/dL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Calcium",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of calcium in the blood (mg/dL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Albumin",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of albumin in the blood (g/dL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Total protein",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of total protein in the blood (g/dL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Sodium",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of sodium in the blood (mol/L)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Total carbon dioxide",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of total carbon dioxide in the blood (mmol/L)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Potassium",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of potassium in the blood (mmol/L)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Chloride",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of chloride in the blood (mmol/L)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "BUN",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of BUN in the blood (mg/dL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Creatinine",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of creatinine in the blood (mg/dL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Alkaline phosphatase",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of alkaline phosphatase in the blood (IU/L)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Alanine aminotransferase",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of alanine aminotransferase in the blood (IU/L)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Total bilirubin",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of total bilirubin in the blood (mg/dL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "White blood cells",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of white blood cells in the blood (x10^3/uL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Red blood cells",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of red blood cells in the blood (x10^6/uL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Hemoglobin",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of hemoglobin in the blood (g/dL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Hematocrit",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of hematocrit in the blood (%)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Mean corpuscular volume",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of mean corpuscular volume in the blood (fL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Mean corpuscular hemoglobin",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of mean corpuscular hemoglobin in the blood (pg)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Mean corpuscular hemoglobin concentration",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of mean corpuscular hemoglobin concentration in the blood (g/dL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Red cell distribution width",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of red cell distribution width in the blood (%)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Neutrophils",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of neutrophils in the blood (%)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Lymphs",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of lymphocytes in the blood (%)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Monocytes",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of monocytes in the blood (%)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Eosinophils",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of eosinophils in the blood (%)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Basophils",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of basophils in the blood (%)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Absolute neutrophils",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of absolute neutrophils in the blood (x10^3/uL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Absolute lymphs",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of absolute lymphocytes in the blood (x10^3/uL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Absolute monocytes",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of absolute monocytes in the blood (x10^3/uL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Absolute eosinophils",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of absolute eosinophils in the blood (x10^3/uL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Absolute basophils",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of absolute basophils in the blood (x10^3/uL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Immature granulocytes",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of immature granulocytes in the blood (x10^3/uL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Platelets",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of platelets in the blood (x10^3/uL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Prothrombin time",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of time for blood to coagulate (seconds)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "INR",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of international normalized ratio of blood coagulation (no unit)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "NK cell surface antigen (CD3-CD54+)",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of percentage of cells CD3- and CD54+ (%)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "CD4+/CD8+ ratio",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of ratio of CD4+ cells to CD8+ cells (no unit)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Myoglobin",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of myoglobin in the blood (ng/mL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Troponin",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of myoglobin in the blood (ng/mL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Creatinine kinase MB",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of creatinine kinase in the blood (U/L)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Serum ferritin",
+            "SecondaryOutcomeDescription": "clinical lab evaluation of level of serum ferritin in the blood (ng/mL)",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Adverse events",
+            "SecondaryOutcomeDescription": "incidence of adverse events",
+            "SecondaryOutcomeTimeFrame": "screening through day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "7-point ordinal scale",
+            "SecondaryOutcomeDescription": "change from baseline in ordinal scale score; scale of 1-7; a score of 1 indicates death and 7 indicates subject is not hospitalized and has no limitations on activities.",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 3, 7, 10, 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "D-dimer",
+            "SecondaryOutcomeDescription": "change from baseline in D-dimer",
+            "SecondaryOutcomeTimeFrame": "screening, day 0, 7, 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Chest X-ray",
+            "SecondaryOutcomeDescription": "change from baseline chest x-ray result",
+            "SecondaryOutcomeTimeFrame": "Day 0, Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "CT scan",
+            "SecondaryOutcomeDescription": "change from baseline CT scan result",
+            "SecondaryOutcomeTimeFrame": "Day 0, Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "PCR test for SARS-CoV-2",
+            "SecondaryOutcomeDescription": "time to achieve negative PCR test results",
+            "SecondaryOutcomeTimeFrame": "day 0, 3, 7, 10"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMen, and women, over 18 years of age inclusively\nPatient is hospitalized due to suspected COVID-19 infection\nAgrees to the collection of venous blood per protocol\n\nExclusion Criteria:\n\nPregnancy, lactation and those who are not pregnant but do not take effective contraceptive measures.\nPatients who are participating in other clinical trials or have intake of investigational drug within the previous 30 days.\nInability to provide informed consent or to comply with test requirements.\nAcute intercurrent infections such as Hepatitis C Virus (HCV), Hepatitis B Virus (HBV), Human Immunodeficiency Virus (HIV) or Syphilis.\nAny medical disease or condition that, in the opinion of the site Principal Investigator or sub-investigator, precludes study participation. Including acute, subacute, intermittent or chronic medical disease or condition that would place the subject at an unacceptable risk of injury, render the subject unable to meet the requirements of the protocol, or may interfere with the evaluation of responses or the subject's successful completion of this trial.\nReceipt of any other SARS-CoV-2 or other experimental coronavirus vaccine at any time prior to or during the study.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Rajiv Thakur, MD",
+            "OverallOfficialAffiliation": "Advanced Diagnostics Healthcare",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "River Oaks Hospital and Clinics",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77027",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "United Memorial Medical Center",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77091",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01803347",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2012-001178-28"
+      },
+      "Organization": {
+        "OrgFullName": "Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Clinical Trial to Evaluate the Efficacy and Safety of Stem Cells",
+      "OfficialTitle": "Multicentre,Randomized,Comparative,Add-on,Into Two Parallel Groups Clinical Trial to Evaluate Efficacy and Safety of Autologous Mesenchymal Stem Cells Derived From Expanded Adipose Tissue (ASC), for Treatment of Complex Perianal Fistulizing Disease in Patients Without IBD.",
+      "Acronym": "FISPAC"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2017",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 2013"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 2017",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 2017",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "March 1, 2013",
+      "StudyFirstSubmitQCDate": "March 1, 2013",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 4, 2013",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "April 17, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 19, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Efficacy of treatment of perianal fistula with mesenchymal stem cells and surgery",
+      "DetailedDescription": "Study of efficacy of adipose derived mesenchimals stem cells and surgery to treat complex perianal fistula"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Anal Fistula"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "phase III",
+          "Adipose derived stem cells",
+          "Anal fistula",
+          "Cell therapy",
+          "Stem cell therapy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "80",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "ASC + fibrin glue",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Intervention: drug: ASC + fibrin glue Experimental: ASCs+fibrin glue: Subjects will be treated with a dose of 100 million ASCs plus fibrin glue plus a deep curettage and closure of the internal orifice and evaluated after 16 weeks. If needed a second dose of 100 million ASCs plus fibrin glue will be applied then.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: ◦Drug: ASCs. + fibrin glue"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Fibrin glue",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Intervention: fibrin glue Fibrin glue: Subjects will be treated with a dose fibrin glue plus a deep curettage and closure of the internal orifice, and evaluated after 16 weeks. If needed a second dose of fibrin glue will be applied then.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: fibrin glue"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "◦Drug: ASCs. + fibrin glue",
+            "InterventionDescription": "Experimental group",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "ASC + fibrin glue"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Experimental Drug: ASCs + fibrin glue"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "fibrin glue",
+            "InterventionDescription": "•Active Comparator: Fibrin glue Intervention: Drug: Fibrin adhesive",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Fibrin glue"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety/efficacy",
+            "PrimaryOutcomeDescription": "Closure of fistulas defined as absence of suppuration and re-epithelization of the external opening and absence of collections>2 cm directly related to the fistula tract treated, as measured by MRI (healing) [ Time Frame: weeks 1, 4, 12 and 16. Week 28 in patients with a second dose ]",
+            "PrimaryOutcomeTimeFrame": "2014, march"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Safety/efficacy",
+            "SecondaryOutcomeDescription": "Clinical complexity of fistula (complexity of fistula score) • Safety: Cumulative incidence of adverse effects. • Quality of life (SF-36 score) • Degree of anal incontinence (Wexner incontinence score) [ Time Frame: weeks 1, 4, 12 and 16. Week 28 in patients with a second dose ]",
+            "SecondaryOutcomeTimeFrame": "2015, march"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSignature of informed consent.\n\nComplex perianal fistula cryptoglandular. Understood as a fistula in which at least one of the following circumstances is present:\n\nsome degree of fecal incontinence associated\nextrasphinterics fistulas,\nfistulas supraresfinterianas\nhigh transsphincteric fistulas.\nPatients of both genders, with more that 18 years.\nGood overall health, according to data from the clinical history and physical examination.\n\nExclusion Criteria:\n\nPatient diagnosed with inflammatory bowel disease.\nSubjects with abscess, except if a complete cleaning of the drainage area of collections is performed and the absence of abscess and other collections larger than 2 cm in maximum diameter before treatment is started is confirmed.\nHistory of alcohol or substance abuse in the 6 months prior to inclusion.\nMalignancy, except in the case of basal cell carcinoma or squamous cell skin or a history of malignancy, unless they have been found in remission during the previous 5 years.\nmedical or psychiatric illness of any kind which, in the opinion of the investigator, may be a reason for exclusion from the study.\nSubjects with congenital or acquired immunodeficiencies. Treponema, Hepatitis B and / or C or tuberculosis diagnosed at the time of inclusion.\nMajor surgery or severe trauma of the subject in the previous semester.\nPregnant or lactating women.\nAdult women of childbearing potential not using effective contraception during the trial.\nAdministration of any investigational drug at present to three months prior to enrollment for this trial.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Damián García-Olmo, Prof.",
+            "OverallOfficialAffiliation": "Instituto de Investigación Hospital Universitario La Paz",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Hospital Clínico Lozano Blesa",
+            "LocationCity": "Zaragoza",
+            "LocationState": "Aragón",
+            "LocationZip": "59009",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Clínico Universitario",
+            "LocationCity": "Salamanca",
+            "LocationState": "Castilla-Leon",
+            "LocationZip": "37007",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital General Universitario",
+            "LocationCity": "Valencia",
+            "LocationState": "Comunidad Valenciana",
+            "LocationZip": "46014",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Hospital Universitario La Paz",
+            "LocationCity": "Madrid",
+            "LocationZip": "28046",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Clínica Universitaria de Navarra",
+            "LocationCity": "Pamplona",
+            "LocationZip": "31008",
+            "LocationCountry": "Spain"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "23053677",
+            "ReferenceType": "result",
+            "ReferenceCitation": "de la Portilla F, Alba F, García-Olmo D, Herrerías JM, González FX, Galindo A. Expanded allogeneic adipose-derived stem cells (eASCs) for the treatment of complex perianal fistula in Crohn's disease: results from a multicenter phase I/IIa clinical trial. Int J Colorectal Dis. 2013 Mar;28(3):313-23. doi: 10.1007/s00384-012-1581-9. Epub 2012 Sep 29."
+          },
+          {
+            "ReferencePMID": "22065114",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Guadalajara H, Herreros D, De-La-Quintana P, Trebol J, Garcia-Arranz M, Garcia-Olmo D. Long-term follow-up of patients undergoing adipose-derived adult stem cell administration to treat complex perianal fistulas. Int J Colorectal Dis. 2012 May;27(5):595-600. doi: 10.1007/s00384-011-1350-1. Epub 2011 Nov 9."
+          },
+          {
+            "ReferencePMID": "20636801",
+            "ReferenceType": "result",
+            "ReferenceCitation": "García-Arranz M, Gómez-Pinedo U, Hardisson D, Herreros D, Guadalajara H, García-Gómez I, García-Verdugo JM, García-Olmo D. Histopathological analysis of human specimens removed from the injection area of expanded adipose-derived stem cells. Histopathology. 2010 Jun;56(7):979-82. doi: 10.1111/j.1365-2559.2010.03573.x."
+          },
+          {
+            "ReferencePMID": "19273960",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Garcia-Olmo D, Herreros D, Pascual I, Pascual JA, Del-Valle E, Zorrilla J, De-La-Quintana P, Garcia-Arranz M, Pascual M. Expanded adipose-derived stem cells for the treatment of complex perianal fistula: a phase II clinical trial. Dis Colon Rectum. 2009 Jan;52(1):79-86. doi: 10.1007/DCR.0b013e3181973487."
+          },
+          {
+            "ReferencePMID": "18694359",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Garcia-Olmo D, Garcia-Arranz M, Herreros D. Expanded adipose-derived stem cells for the treatment of complex perianal fistula including Crohn's disease. Expert Opin Biol Ther. 2008 Sep;8(9):1417-23. doi: 10.1517/14712598.8.9.1417 . Review."
+          },
+          {
+            "ReferencePMID": "15933795",
+            "ReferenceType": "result",
+            "ReferenceCitation": "García-Olmo D, García-Arranz M, Herreros D, Pascual I, Peiro C, Rodríguez-Montes JA. A phase I clinical trial of the treatment of Crohn's fistula by adipose mesenchymal stem cell transplantation. Dis Colon Rectum. 2005 Jul;48(7):1416-23."
+          }
+        ]
+      }
+    }
+  },
+  "AnnotationSection": {
+    "AnnotationModule": {
+      "UnpostedAnnotation": {
+        "UnpostedResponsibleParty": "Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz",
+        "UnpostedEventList": {
+          "UnpostedEvent": [
+            {
+              "UnpostedEventType": "Release",
+              "UnpostedEventDate": "November 19, 2019"
+            },
+            {
+              "UnpostedEventType": "Reset",
+              "UnpostedEventDate": "December 6, 2019"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012003",
+            "ConditionMeshTerm": "Rectal Fistula"
+          },
+          {
+            "ConditionMeshId": "D000005402",
+            "ConditionMeshTerm": "Fistula"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000020763",
+            "ConditionAncestorTerm": "Pathological Conditions, Anatomical"
+          },
+          {
+            "ConditionAncestorId": "D000007412",
+            "ConditionAncestorTerm": "Intestinal Fistula"
+          },
+          {
+            "ConditionAncestorId": "D000016154",
+            "ConditionAncestorTerm": "Digestive System Fistula"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007410",
+            "ConditionAncestorTerm": "Intestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012002",
+            "ConditionAncestorTerm": "Rectal Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M7684",
+            "ConditionBrowseLeafName": "Fistula",
+            "ConditionBrowseLeafAsFound": "Fistula",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13997",
+            "ConditionBrowseLeafName": "Rectal Fistula",
+            "ConditionBrowseLeafAsFound": "Anal Fistula",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21672",
+            "ConditionBrowseLeafName": "Pathological Conditions, Anatomical",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9598",
+            "ConditionBrowseLeafName": "Intestinal Fistula",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17768",
+            "ConditionBrowseLeafName": "Digestive System Fistula",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9596",
+            "ConditionBrowseLeafName": "Intestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13996",
+            "ConditionBrowseLeafName": "Rectal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000015718",
+            "InterventionMeshTerm": "Fibrin Tissue Adhesive"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000006490",
+            "InterventionAncestorTerm": "Hemostatics"
+          },
+          {
+            "InterventionAncestorId": "D000003029",
+            "InterventionAncestorTerm": "Coagulants"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M17443",
+            "InterventionBrowseLeafName": "Fibrin Tissue Adhesive",
+            "InterventionBrowseLeafAsFound": "Exception",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M8728",
+            "InterventionBrowseLeafName": "Hemostatics",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M5411",
+            "InterventionBrowseLeafName": "Coagulants",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Coag",
+            "InterventionBrowseBranchName": "Coagulants"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

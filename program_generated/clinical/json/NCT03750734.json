@@ -1,0 +1,367 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03750734",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "P02437"
+      },
+      "Organization": {
+        "OrgFullName": "Papworth Hospital NHS Foundation Trust",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Target Validation and Discovery in Idiopathic Bronchiectasis",
+      "OfficialTitle": "Target Validation and Discovery in Idiopathic Bronchiectasis"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 10, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 20, 2018",
+      "StudyFirstSubmitQCDate": "November 21, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 23, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 10, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 12, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Papworth Hospital NHS Foundation Trust",
+        "LeadSponsorClass": "OTHER_GOV"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "GlaxoSmithKline",
+            "CollaboratorClass": "INDUSTRY"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Bronchiectasis is a long-term lung condition where the airways become abnormally enlarged, leading to a build-up of mucus and inflammation that makes the lungs more susceptible to recurrent infection. Patients with bronchiectasis have subtle abnormalities in the way their airway cells respond to infection that are, in part, responsible for the development of their condition. At present there are no licensed treatments for bronchiectasis.\n\nThis study will aim to characterise in depth some of these abnormalities with a view to future studies that will try to develop treatments that can directly target those abnormalities at a molecular level.\n\nPatients known to have bronchiectasis who have provided written informed consent will be enrolled alongside healthy volunteers and patients with chronic obstructive pulmonary disease and cystic fibrosis, for comparison. Participants will give a blood sample and have a bronchoscopy. This is a thin telescopic tube, passed through the nose or mouth, under sedation, into the airways that will allow a sample of bronchial epithelial cells to be taken.\n\nThe main objective of the study is to achieve a greater understanding of some of the key biological processes/pathways and disease marker genes that play a role in the development of bronchiectasis. This is important because, at present, little is known about the underlying disease mechanisms and there are no licensed treatments for bronchiectasis.\n\nThe investigator's hope this in-depth characterisation of specific bronchial epithelial cell abnormalities in bronchiectasis will shed light on novel targets for future drug discovery."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Bronchiectasis",
+          "Idiopathic Bronchiectasis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "Whole blood, bronchial biopsy, bronchial brushings, bronchoalveolar lavage"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "50",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Idiopathic bronchiectasis",
+            "ArmGroupDescription": "Idiopathic bronchiectasis participants",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Bronchoscopy",
+                "Diagnostic Test: Blood test"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "COPD",
+            "ArmGroupDescription": "Chronic obstructive pulmonary disease participants",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Bronchoscopy",
+                "Diagnostic Test: Blood test"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cystic fibrosis",
+            "ArmGroupDescription": "Cystic fibrosis participants",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Bronchoscopy",
+                "Diagnostic Test: Blood test"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Healthy volunteers",
+            "ArmGroupDescription": "Healthy volunteers",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Bronchoscopy",
+                "Diagnostic Test: Blood test"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "Bronchoscopy",
+            "InterventionDescription": "Flexible bronchoscopy will be performed under sedation (typically a sedative such as intravenous midazolam and/or fentanyl) with local anaesthetic to the throat and vocal cords. Bronchial epithelial tissue (via bronchial brushing and biopsy forceps) and bronchial lavage samples will be taken for analysis.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "COPD",
+                "Cystic fibrosis",
+                "Healthy volunteers",
+                "Idiopathic bronchiectasis"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "Blood test",
+            "InterventionDescription": "Peripheral blood will be taken to collect peripheral blood monocytes, which will then allow the production of induced pluripotent stem cell derived bronchial epithelial tissues.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "COPD",
+                "Cystic fibrosis",
+                "Healthy volunteers",
+                "Idiopathic bronchiectasis"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Identification and comparison of molecular pathways, including through gene expression analysis of airway tissues.",
+            "PrimaryOutcomeDescription": "Identification and comparison of molecular pathways, including through gene expression analysis of airway tissues.",
+            "PrimaryOutcomeTimeFrame": "2 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Generation of air liquid interface cultures from primary bronchial epithelial cells/IPSC derived bronchial epithelial cells",
+            "SecondaryOutcomeDescription": "Generation of air liquid interface cultures from primary bronchial epithelial cells/IPSC derived bronchial epithelial cells",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Functional characterisation of airway epithelium",
+            "SecondaryOutcomeDescription": "Functional characterisation of airway epithelium",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nBronchiectasis participants\n\nConfirmed HRCT diagnosis of bronchiectasis in more than 1 lobe\nBronchiectasis not attributable to another cause, e.g. cystic fibrosis/ABPA/PCD\nAbsence of significant emphysema, COPD or asthma\nHave provided written informed consent that they are willing to participate in the study prior to sample collection\n\nCOPD participants (disease controls)\n\nConfirmed diagnosis of COPD according to GOLD (Global Initiative for Chronic Obstructive Lung Disease) criteria (FEV1/FVC ratio < 0.70)\nAbsence of significant bronchiectasis on HRCT\nHave provided written informed consent that they are willing to participate in the study prior to sample collection\n\nCystic fibrosis participants (disease controls)\n\nHave a confirmed diagnosis of cystic fibrosis\nHave provided written informed consent that they are willing to participate in the study prior to sample collection\n\nHealthy controls\n\nNo history or diagnosis of clinically significant lung disease\nBe a non-smoker for > 1 year at screening and have < 5 pack year history of smoking\nHave provided written informed consent that they are willing to participate in the study prior to sample collection\n\nExclusion Criteria:\n\nAny clinically significant acute illness, including recent exacerbation of lung disease requiring treatment with oral or intravenous antibiotics, in 6 weeks prior to screening\nAny contraindication to safe bronchoscopy as judged by CI or clinical team (FEV1 < 30% predicted, oxygen saturations < 92% on room air etc.)\nAny clinically significant bleeding disorder or use of anticoagulant/antiplatelet therapy that could place participants at risk of bleeding\nAny contraindication to sedation or local anaesthetic medications used for bronchoscopy\nCurrent smoking within 6 months prior to screening (defined as someone who has smoked at least one cigarette per day (or pipe, cigar, or cannabis) for ≥ 30 days within 6 months prior to screening)\nAcute MI, acute stroke or major surgery within 6 months prior to screening\nHistory of uncontrolled ischaemic heart disease that place participants at risk during bronchoscopy\nHistory of ventilatory failure or hypercapnia that may complicate bronchoscopy\nAny known active tuberculous or non-tuberculous mycobacterial infection\nAny use of oral corticosteroids within 4 weeks of screening\nAny systemic immunomodulatory or immunosuppressive therapy within 3 months of screening\nKnown current malignancy or current evaluation for a potential malignancy\nAny other clinically significant medical disease that is uncontrolled despite treatment, that is likely, in the opinion of the investigators, to impact the patient's ability to safely participate in the study",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Secondary care respiratory clinics",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Dr W Flowers",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "01223638000",
+            "CentralContactEMail": "wflowers@nhs.net"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Dr W Flowers",
+            "OverallOfficialAffiliation": "Royal Papworth Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Royal Papworth Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Cambridge",
+            "LocationCountry": "United Kingdom"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000001987",
+            "ConditionMeshTerm": "Bronchiectasis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001982",
+            "ConditionAncestorTerm": "Bronchial Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M4415",
+            "ConditionBrowseLeafName": "Bronchiectasis",
+            "ConditionBrowseLeafAsFound": "Bronchiectasis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4410",
+            "ConditionBrowseLeafName": "Bronchial Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3259",
+            "InterventionBrowseLeafName": "Anesthetics",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3261",
+            "InterventionBrowseLeafName": "Anesthetics, Local",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9195",
+            "InterventionBrowseLeafName": "Hypnotics and Sedatives",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M10997",
+            "InterventionBrowseLeafName": "Midazolam",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M7570",
+            "InterventionBrowseLeafName": "Fentanyl",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "CNSDep",
+            "InterventionBrowseBranchName": "Central Nervous System Depressants"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "AdjAn",
+            "InterventionBrowseBranchName": "Adjuvants, Anesthesia"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "PsychDr",
+            "InterventionBrowseBranchName": "Psychotropic Drugs"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Analg",
+            "InterventionBrowseBranchName": "Analgesics"
+          }
+        ]
+      }
+    }
+  }
+}

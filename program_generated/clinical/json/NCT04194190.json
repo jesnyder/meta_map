@@ -1,0 +1,135 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04194190",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "20-C-9956"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "209956",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "NIHCC"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "National Institutes of Health Clinical Center (CC)",
+        "OrgClass": "NIH"
+      },
+      "BriefTitle": "A Single Patient Will be Treated With Individual Patient TCR-Transduced PBL",
+      "OfficialTitle": "Single Patient Protocol: A Phase II Study Using the Administration of Autologous T-Cells Genetically Engineered to Express T-Cell Receptors Reactive Against Mutated Neoantigens in a Patient With Metastatic Cancer Plus the Administration of Pembrolizumab"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2020",
+      "OverallStatus": "No longer available",
+      "StudyFirstSubmitDate": "December 10, 2019",
+      "StudyFirstSubmitQCDate": "December 10, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 11, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 3, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 4, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "National Institutes of Health Clinical Center (CC)",
+        "LeadSponsorClass": "NIH"
+      }
+    },
+    "OversightModule": {},
+    "DescriptionModule": {
+      "BriefSummary": "A single patient will be treated with Individual Patient TCR-Transduced PBL",
+      "DetailedDescription": "Background:\n\n-Please refer to National Cancer Institute Surgery Branch (NCI-SB) protocol 18-C-0049, Amendment F.\n\nObjective:\n\n-Under Individual Patient Expanded Access, to treat a patient with metastatic breast cancer with autologous peripheral blood lymphocytes (PBL) that have been transduced with genes encoding T-cell receptors that recognize mutated neoantigens in the autologous cancer.\n\nEligibility:\n\nMust have measurable, metastatic disease as assessed per RECIST v1.1 criteria.\nMust sign the informed consent document.\nWilling to sign Durable Power of Attorney Form.\nMust have all regulatory approvals prior to start of treatment.\n\nDesign:\n\nPlease refer to NCI-SB protocol 18-C-0049, Amendment F.\nThe patient will be treated with a non-myeloablative, lymphodepleting preparative regimen of cyclophosphamide and fludarabine, followed by the infusion of autologous transduced PBL and then high-dose aldesleukin. The patient will also receive pembrolizumab on Day -2 prior to cell administration and additional doses every 3 weeks following cell infusion until the time of disease progression."
+    },
+    "DesignModule": {
+      "StudyType": "Expanded Access",
+      "ExpandedAccessTypes": {
+        "ExpAccTypeIndividual": "Yes"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Individual Patient TCR-Transduced PBL"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\n-\n\nExclusion Criteria:\n\n-",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11459",
+            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M289070",
+            "InterventionBrowseLeafName": "Pembrolizumab",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

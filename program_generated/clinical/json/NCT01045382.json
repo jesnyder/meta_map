@@ -1,0 +1,841 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01045382",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "TJB0909"
+      },
+      "Organization": {
+        "OrgFullName": "University of Liege",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "MSC and HSC Coinfusion in Mismatched Minitransplants",
+      "OfficialTitle": "Co-transplantation of Mesenchymal Stem Cells and HLA-mismatched Allogeneic Hematopoietic Cells After Nonmyeloablative Conditioning: a Phase II Randomized Double-blind Study"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Terminated",
+      "WhyStopped": "recruitment too slow",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 2010",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 2021",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "January 8, 2010",
+      "StudyFirstSubmitQCDate": "January 8, 2010",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 11, 2010",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "August 31, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 8, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Yves Beguin",
+        "ResponsiblePartyInvestigatorTitle": "Prof",
+        "ResponsiblePartyInvestigatorAffiliation": "University of Liege"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of Liege",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "AZ Sint-Jan AV",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Ziekenhuis Netwerk Antwerpen (ZNA)",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Jules Bordet Institute",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Universiteit Antwerpen",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "AZ-VUB",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Cliniques universitaires Saint-Luc- Université Catholique de Louvain",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "University Hospital, Ghent",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The present project aims at evaluating the capacity of MSC to improve one-year overall survival of patients transplanted with HLA-mismatched PBSC from related or unrelated donors after non-myeloablative conditioning.\n\nCo-infusion of MSC has been shown to facilitate engraftment of hematopoietic stem cell (HSC) in an immunodeficient mouse model. In addition, it has been shown that infusion of third party MSC in HSC transplantation could be successfully used as treatment for grade II-IV steroid-refractory acute graft versus host disease.\n\nOne hundred and twenty patients with HLA-mismatched donors will be included over 6 years at multiple centers across Belgium through the transplant committee of the Belgian Hematological Society. The conditioning regimen will consist of fludarabine and 2 Gy TBI, followed by the infusion of donor HSC. Patients will be randomized 1/1 in double-blind fashion to receive or not MSC (1.5-.3.0 x106/kg) from third-party (either haploidentical family members or unrelated volunteer) donors on day 0. Postgrafting immunosuppression will combine tacrolimus and MMF. Except for the collection, expansion and infusion of MSC, the clinical management of the patient will not differ from that of routine NM-HCT."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Leukemia, Myeloid, Acute",
+          "Leukemia, Lymphoblastic, Acute",
+          "Leukemia, Myelocytic, Chronic",
+          "Myeloproliferative Disorders",
+          "Myelodysplastic Syndromes",
+          "Multiple Myeloma",
+          "Leukemia, Lymphocytic, Chronic",
+          "Hodgkin's Disease",
+          "Lymphoma, Non-Hodgkin"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "HSC transplantation",
+          "HLA-mismatched",
+          "Mesenchymal stem cells",
+          "GVHD",
+          "co-infusion"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "39",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Mensenchymal Stem Cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Efficacy of MSC infusion on one-year overall survival of patients transplanted with HLA-mismatched PBSC.\n\nPatients will receive a conditioning regimen consisting in fludarabine (total dose 90 mg/square meter) and 2 Gy total body irradiation.\n\nMSC cells (1,5-3,0 x 10E6 MSC/Kg BW) will be injected, followed, at least one hour later, by the infusion of HLA-mismatched PBSC from related or unrelated donor.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Patients will receive a conditioning regimen consisting in fludarabine (total dose 90 mg/square meter) and 2Gy total body irradiation.\n\nIsotonic solution will be injected will be injected, followed, at least one hour later, by the infusion of HLA-mismatched PBSC from related or unrelated donor.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Isotonic solution"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Mesenchymal stem cells",
+            "InterventionDescription": "Mesenchymal stem cell injection",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Mensenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Isotonic solution",
+            "InterventionDescription": "Isotonic solution injection",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "One-year overall survival in the 2 arms.",
+            "PrimaryOutcomeTimeFrame": "One year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Incidence of grade II-IV and grade III-IV acute GVDH",
+            "SecondaryOutcomeTimeFrame": "100 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of absolute donor T cells after HCT in each arm",
+            "SecondaryOutcomeTimeFrame": "28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cumulative incidence of non-relapse mortality",
+            "SecondaryOutcomeTimeFrame": "100, 365 and 730 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of extensive chronic GVHD in each arm",
+            "SecondaryOutcomeTimeFrame": "365 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of graft rejection in each arm.",
+            "SecondaryOutcomeTimeFrame": "365 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality and timing of immunologic reconstitution in each arm.",
+            "SecondaryOutcomeTimeFrame": "100, 365 and 730 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Detection of MSC from donor origin in recipient marrow after HCT in patients given MSC",
+            "SecondaryOutcomeTimeFrame": "40 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Proportion of patients with measurable disease at HCT who achieve a complete response in each arm.",
+            "SecondaryOutcomeTimeFrame": "100, 365 and 730 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cumulative incidence of relapse",
+            "SecondaryOutcomeTimeFrame": "365 and 730 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of progression-free survival",
+            "SecondaryOutcomeTimeFrame": "365 and 730 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of infections",
+            "SecondaryOutcomeTimeFrame": "100 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nTheoretical indication for a standard allo-transplant, but not feasible because: Age > 55 yrs. Unacceptable end organ performance. Patient's refusal.\nIndication for a standard auto-transplant: perform mini-allotransplantation 2-6 months after standard autotransplant.\nMale or female; fertile female patients must use a reliable contraception method\nAge ≤ 75 year old\nInformed consent given by patient or his/her guardian if of minor age.\n\nOne or two HLA mismatches with PBSC:\n\nOne antigenic mismatch at HLA-A or -B or -C or -DRB1 or -DQB1\nTwo allelic mismatches at HLA-A or -B or -C or -DRB1 or -DQB1\nOne antigenic mismatch: 1 allelic mismatch at HLA-A or -B or -C or -DRB1 or -DQB1.\nOne antigenic mismatch at -DQB1 and one other antigenic mismatch at HLA-A or -B or -C or -DRB1\nPatients with one single allelic mismatch at HLA-A or -B or -C or -DRB1 or -DQB1 can also be included in the protocol.\n\nHematological malignancies confirmed histologically and not rapidly progressing:\n\nAML in complete remission\nALL in complete remission\nCML unresponsive/intolerant to Imatinib but not in blast crisis\nOther myeloproliferative disorders not in blast crisis and not with extensive myelofibrosis\nMDS with <5% blasts\nMultiple myeloma not rapidly progressing\nCLL\nNon-Hodgkin's lymphoma (aggressive NHL should be chemosensitive)\nHodgkin's disease\n\nExclusion Criteria:\n\nAny condition not fulfilling inclusion criteria\nHIV positive\n\nTerminal organ failure, except for renal failure (dialysis acceptable)\n\nCardiac: Symptomatic coronary artery disease or other cardiac failure requiring therapy; ejection fraction <35%; uncontrolled arrhythmia; uncontrolled hypertension\nPulmonary: DLCO < 35% and/or receiving supplementary continuous oxygen\nHepatic: Fulminant liver failure, cirrhosis of the liver with evidence of portal hypertension, alcoholic hepatitis, esophageal varices, a history of bleeding esophageal varices, hepatic encephalopathy, uncorrectable hepatic synthetic dysfunction evinced by prolongation of the prothrombin time, ascites related to portal hypertension, bacterial or fungal liver abscess, biliary obstruction, chronic viral hepatitis with total serum bilirubin > 3 mg/dL, and symptomatic biliary disease\nUncontrolled infection, arrhythmia or hypertension\nPrevious radiation therapy precluding the use of 2 Gy TBI\n10/10 HLA-A, -B, -C, DRB1 and DQBI allele-matched donor fit to/willing to donate PBSC.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Yves Beguin, MD, PhD",
+            "OverallOfficialAffiliation": "CHU-ULg",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Frédéric Baron, MD, PhD",
+            "OverallOfficialAffiliation": "CHU-ULg",
+            "OverallOfficialRole": "Study Chair"
+          },
+          {
+            "OverallOfficialName": "Evelyne Willems, MD",
+            "OverallOfficialAffiliation": "CHU-ULg",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Dominik Selleslag, MD, PhD",
+            "OverallOfficialAffiliation": "AZ Brugge",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Pierre Zachée, MD, PhD",
+            "OverallOfficialAffiliation": "ZNA Antwerpen",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Philippe Lewalle, MD, PhD",
+            "OverallOfficialAffiliation": "Bordet Institute, Brussels",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Dominique Bron, MD, PhD",
+            "OverallOfficialAffiliation": "Bordet Institute, Brussels",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Wilfried Schroyens, MD, PhD",
+            "OverallOfficialAffiliation": "UZA Antwerpen",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Chantal Lechanteur, PhD",
+            "OverallOfficialAffiliation": "CHU-ULg",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Etienne Baudoux, MD",
+            "OverallOfficialAffiliation": "CHU-ULg",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Johan Maertens, MD",
+            "OverallOfficialAffiliation": "KUL, Leuven",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Rik Schots, MD, PhD",
+            "OverallOfficialAffiliation": "AZ VUB, Brussels",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Augustin Ferrant, MD, PhD",
+            "OverallOfficialAffiliation": "UCL St. LUC, Brussels",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Lucien Noens, MD, PhD",
+            "OverallOfficialAffiliation": "UZG Gent",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Chantal Doyen, MD, PhD",
+            "OverallOfficialAffiliation": "Cliiques Universitaire Mont-Godinne, Yvoir",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Tessa Kerre, MD, PhD",
+            "OverallOfficialAffiliation": "UZA, Antwerpen",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Carlos Graux, MD, PhD",
+            "OverallOfficialAffiliation": "Cliniques Universitaires, Mont-Godinne",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "UZA",
+            "LocationCity": "Edeghem",
+            "LocationState": "Antwerpen",
+            "LocationZip": "2650",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "St-Luc UCL",
+            "LocationCity": "Brussels",
+            "LocationState": "Brabant",
+            "LocationZip": "1200",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "AZ Gasthuisberg Leuven",
+            "LocationCity": "Leuven",
+            "LocationState": "Flamish Brabant",
+            "LocationZip": "3000",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "UZ Gent",
+            "LocationCity": "Gent",
+            "LocationState": "Flanders Ost",
+            "LocationZip": "9000",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "AZ St-Jan",
+            "LocationCity": "Brugge",
+            "LocationState": "Flanders West",
+            "LocationZip": "8000",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "Cliniques Universitaires Mont-Godinne",
+            "LocationCity": "Yvoir",
+            "LocationState": "Namur",
+            "LocationZip": "5530",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "Hôpital Stuyvenberg",
+            "LocationCity": "Antwerpen",
+            "LocationZip": "2060",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "Bordet Institute",
+            "LocationCity": "Brussels",
+            "LocationZip": "1000",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "Vrije Universiteit Brussel",
+            "LocationCity": "Brussels",
+            "LocationZip": "1050",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "CHU-ULg",
+            "LocationCity": "Liège",
+            "LocationZip": "4000",
+            "LocationCountry": "Belgium"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007938",
+            "ConditionMeshTerm": "Leukemia"
+          },
+          {
+            "ConditionMeshId": "D000009101",
+            "ConditionMeshTerm": "Multiple Myeloma"
+          },
+          {
+            "ConditionMeshId": "D000006689",
+            "ConditionMeshTerm": "Hodgkin Disease"
+          },
+          {
+            "ConditionMeshId": "D000008228",
+            "ConditionMeshTerm": "Lymphoma, Non-Hodgkin"
+          },
+          {
+            "ConditionMeshId": "D000007951",
+            "ConditionMeshTerm": "Leukemia, Myeloid"
+          },
+          {
+            "ConditionMeshId": "D000015470",
+            "ConditionMeshTerm": "Leukemia, Myeloid, Acute"
+          },
+          {
+            "ConditionMeshId": "D000007945",
+            "ConditionMeshTerm": "Leukemia, Lymphoid"
+          },
+          {
+            "ConditionMeshId": "D000015451",
+            "ConditionMeshTerm": "Leukemia, Lymphocytic, Chronic, B-Cell"
+          },
+          {
+            "ConditionMeshId": "D000054198",
+            "ConditionMeshTerm": "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+          },
+          {
+            "ConditionMeshId": "D000015464",
+            "ConditionMeshTerm": "Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+          },
+          {
+            "ConditionMeshId": "D000009190",
+            "ConditionMeshTerm": "Myelodysplastic Syndromes"
+          },
+          {
+            "ConditionMeshId": "D000009196",
+            "ConditionMeshTerm": "Myeloproliferative Disorders"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000054219",
+            "ConditionAncestorTerm": "Neoplasms, Plasma Cell"
+          },
+          {
+            "ConditionAncestorId": "D000020141",
+            "ConditionAncestorTerm": "Hemostatic Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000010265",
+            "ConditionAncestorTerm": "Paraproteinemias"
+          },
+          {
+            "ConditionAncestorId": "D000001796",
+            "ConditionAncestorTerm": "Blood Protein Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000006402",
+            "ConditionAncestorTerm": "Hematologic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006474",
+            "ConditionAncestorTerm": "Hemorrhagic Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008232",
+            "ConditionAncestorTerm": "Lymphoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007160",
+            "ConditionAncestorTerm": "Immunoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001855",
+            "ConditionAncestorTerm": "Bone Marrow Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000008223",
+            "ConditionAncestorTerm": "Lymphoma"
+          },
+          {
+            "ConditionAncestorId": "D000008206",
+            "ConditionAncestorTerm": "Lymphatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000015448",
+            "ConditionAncestorTerm": "Leukemia, B-Cell"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10372",
+            "ConditionBrowseLeafName": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11210",
+            "ConditionBrowseLeafName": "Multiple Myeloma",
+            "ConditionBrowseLeafAsFound": "Multiple Myeloma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M26741",
+            "ConditionBrowseLeafName": "Neoplasms, Plasma Cell",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11301",
+            "ConditionBrowseLeafName": "Myeloproliferative Disorders",
+            "ConditionBrowseLeafAsFound": "Myeloproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10097",
+            "ConditionBrowseLeafName": "Leukemia",
+            "ConditionBrowseLeafAsFound": "Leukemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10107",
+            "ConditionBrowseLeafName": "Leukemia, Myeloid",
+            "ConditionBrowseLeafAsFound": "Leukemia, Myeloid",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17279",
+            "ConditionBrowseLeafName": "Leukemia, Myeloid, Acute",
+            "ConditionBrowseLeafAsFound": "Leukemia, Myeloid, Acute",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10374",
+            "ConditionBrowseLeafName": "Lymphoma, Non-Hodgkin",
+            "ConditionBrowseLeafAsFound": "Lymphoma, Non-Hodgkin",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8903",
+            "ConditionBrowseLeafName": "Hodgkin Disease",
+            "ConditionBrowseLeafAsFound": "Hodgkin's Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11297",
+            "ConditionBrowseLeafName": "Myelodysplastic Syndromes",
+            "ConditionBrowseLeafAsFound": "Myelodysplastic Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13316",
+            "ConditionBrowseLeafName": "Preleukemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10103",
+            "ConditionBrowseLeafName": "Leukemia, Lymphoid",
+            "ConditionBrowseLeafAsFound": "Leukemia, Lymphocytic",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17268",
+            "ConditionBrowseLeafName": "Leukemia, Lymphocytic, Chronic, B-Cell",
+            "ConditionBrowseLeafAsFound": "Leukemia, Lymphocytic, Chronic",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M26738",
+            "ConditionBrowseLeafName": "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+            "ConditionBrowseLeafAsFound": "Leukemia, Lymphoblastic, Acute",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17275",
+            "ConditionBrowseLeafName": "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+            "ConditionBrowseLeafAsFound": "Leukemia, Myelocytic, Chronic",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21130",
+            "ConditionBrowseLeafName": "Hemostatic Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4211",
+            "ConditionBrowseLeafName": "Blood Coagulation Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12330",
+            "ConditionBrowseLeafName": "Paraproteinemias",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4229",
+            "ConditionBrowseLeafName": "Blood Protein Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8642",
+            "ConditionBrowseLeafName": "Hematologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8712",
+            "ConditionBrowseLeafName": "Hemorrhagic Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10377",
+            "ConditionBrowseLeafName": "Lymphoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9358",
+            "ConditionBrowseLeafName": "Immunoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4286",
+            "ConditionBrowseLeafName": "Bone Marrow Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10355",
+            "ConditionBrowseLeafName": "Lymphatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17267",
+            "ConditionBrowseLeafName": "Leukemia, B-Cell",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3543",
+            "ConditionBrowseLeafName": "Lymphosarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3947",
+            "ConditionBrowseLeafName": "Multiple Myeloma",
+            "ConditionBrowseLeafAsFound": "Multiple Myeloma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T1311",
+            "ConditionBrowseLeafName": "Chronic Myeloproliferative Disorders",
+            "ConditionBrowseLeafAsFound": "Myeloproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T1308",
+            "ConditionBrowseLeafName": "Chronic Lymphocytic Leukemia",
+            "ConditionBrowseLeafAsFound": "Leukemia, Lymphocytic, Chronic",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T2817",
+            "ConditionBrowseLeafName": "Hodgkin Lymphoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3993",
+            "ConditionBrowseLeafName": "Myelodysplastic Syndromes",
+            "ConditionBrowseLeafAsFound": "Myelodysplastic Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T175",
+            "ConditionBrowseLeafName": "Acute Lymphoblastic Leukemia",
+            "ConditionBrowseLeafAsFound": "Leukemia, Lymphoblastic, Acute",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T3533",
+            "ConditionBrowseLeafName": "Lymphoblastic Lymphoma",
+            "ConditionBrowseLeafAsFound": "Leukemia, Lymphoblastic, Acute",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M283219",
+            "InterventionBrowseLeafName": "Fludarabine",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M225481",
+            "InterventionBrowseLeafName": "Fludarabine phosphate",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03902067",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "ShanghaiLST-ucmsc-ami01"
+      },
+      "Organization": {
+        "OrgFullName": "Shanghai Life Science & Technology",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "UC-MSC Transplantation for Left Ventricular Dysfunction After AMI",
+      "OfficialTitle": "Safety and Efficacy Evaluation of Umbilical Cord Mesenchymal Stem Cells Transcatheter Transplantation to Treat Left Ventricular Dysfunction After Acute Myocardial Infarction"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2020",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 1, 2020",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 31, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "March 28, 2019",
+      "StudyFirstSubmitQCDate": "April 2, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 3, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 21, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 22, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Shanghai Life Science & Technology",
+        "LeadSponsorClass": "INDUSTRY"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Shanghai Jiao Tong University Affiliated Sixth People's Hospital",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "A pilot study to evaluate the safety and feasibility of umbilical cord mesenchymal stem cells in the treatment of acute myocardial infarction by catheter transplantation",
+      "DetailedDescription": "In this study, 40 patients with cardiac insufficiency after acute myocardial infarction were selected and randomly divided into umbilical cord MSCs transplantation treatment group and non-intervention control group to preliminarily observe the safety and effectiveness of MSCs cell transplantation treatment."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Left Ventricular Dysfunction",
+          "Acute Myocardial Infarction"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "AMI"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "UC-MSC",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "UC-MSC transplantation",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: UC-MSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control Group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Routine treatment",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Control Group"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "UC-MSC",
+            "InterventionDescription": "0.25ml Shanghai Life UC-MSC injection is resuspended into 10ml of cell suspension and slowly infused into infarct-related blood vessels through an administration catheter in 2 minutes, and the number of cells transplanted each time is 5x10(6) cells. The UC-MSC products are manufactured by Shanghai Life with viability>80%, and endotoxin<0.1 EU， at the concentration of 2x10(7) cells/ml.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "UC-MSC"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Transplantation Group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Control Group",
+            "InterventionDescription": "Routine treatment without catheter infusion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control Group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety measured as the number of Major Adverse Cardiac Events (MACE)",
+            "PrimaryOutcomeDescription": "Possible adverse events, including adverse events that may occur during angiography and infusion of transplanted cells such as chest pain, arrhythmia, slow blood flow, myocardial injury, fever, allergic reaction, postoperative infection, etc.",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Difference in left ventricular ejection fraction measured by magnetic resonance imaging at baseline and 12 months follow-up",
+            "SecondaryOutcomeDescription": "left ventricular ejection fraction measured by magnetic resonance imaging",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with acute extensive anterior myocardial infarction were successfully treated with emergency interventional therapy within 12 hours after onset. LVEF was less than 0.35 by echocardiography 30 days after operation, scar area was more than 25% by MRI, and cardiac function was NYHA III-IV grade.\nFully inform the purpose, method and possible side effects of the test, agree to the test, and sign an informed consent form;\nGood compliance, willing to take drugs and follow up according to the requirements of the plan;\nLife expectancy exceeds one year.\n\nExclusion Criteria:\n\nThose who cannot tolerate cell therapy;\nPatients with severe hepatic and renal insufficiency (ALT>1.5 times the upper limit of normal value, Cr >1.5 times the upper limit of normal value);\nPatients with malignant tumors or extremely weak patients;\nPatients with severe infection;\nPatients who are expected to have the second coronary intervention or bypass grafting within 3 months;\nPatients with other serious systemic diseases and organ dysfunction;\nPatients with cardiogenic shock;\nPatients with hemorrhagic diseases;\nResearchers believe that anyone who is not suitable for inclusion",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "50 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Chengxing Shen",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86-18501664545",
+            "CentralContactEMail": "shencx@sjtu.edu.cn"
+          },
+          {
+            "CentralContactName": "Gang LU",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+862134712825",
+            "CentralContactEMail": "glu@shlifestemcell.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Chengxing Shen, Dr.",
+            "OverallOfficialAffiliation": "Shanghai Jiao Tong University Affiliated Sixth People's Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Shanghai Jiao Tong University Affiliated Sixth People's Hospital",
+            "LocationCity": "Shanghai",
+            "LocationState": "Shanghai",
+            "LocationZip": "200233",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Chengxing Shen",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+86-18501664545",
+                  "LocationContactEMail": "shencx@sjtu.edu.cn"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009203",
+            "ConditionMeshTerm": "Myocardial Infarction"
+          },
+          {
+            "ConditionMeshId": "D000018754",
+            "ConditionMeshTerm": "Ventricular Dysfunction"
+          },
+          {
+            "ConditionMeshId": "D000018487",
+            "ConditionMeshTerm": "Ventricular Dysfunction, Left"
+          },
+          {
+            "ConditionMeshId": "D000007238",
+            "ConditionMeshTerm": "Infarction"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007511",
+            "ConditionAncestorTerm": "Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000009336",
+            "ConditionAncestorTerm": "Necrosis"
+          },
+          {
+            "ConditionAncestorId": "D000017202",
+            "ConditionAncestorTerm": "Myocardial Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11307",
+            "ConditionBrowseLeafName": "Myocardial Infarction",
+            "ConditionBrowseLeafAsFound": "Myocardial Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9434",
+            "ConditionBrowseLeafName": "Infarction",
+            "ConditionBrowseLeafAsFound": "Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19977",
+            "ConditionBrowseLeafName": "Ventricular Dysfunction",
+            "ConditionBrowseLeafAsFound": "Ventricular Dysfunction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19744",
+            "ConditionBrowseLeafName": "Ventricular Dysfunction, Left",
+            "ConditionBrowseLeafAsFound": "Left Ventricular Dysfunction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11436",
+            "ConditionBrowseLeafName": "Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5698",
+            "ConditionBrowseLeafName": "Coronary Artery Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18658",
+            "ConditionBrowseLeafName": "Myocardial Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

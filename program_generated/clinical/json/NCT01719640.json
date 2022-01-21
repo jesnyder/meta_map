@@ -1,0 +1,369 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01719640",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MSC-BMMNC-DM"
+      },
+      "Organization": {
+        "OrgFullName": "Fuzhou General Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "MSC and BMMNC in Type 2 Diabetes Mellitus",
+      "OfficialTitle": "Autologous Bone Marrow Mesenchymal Stem Cell and Bone Marrow Mononuclear Cell Infusion in Type 2 Diabetes Mellitus"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2018",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 2011",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2014",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2015",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "October 6, 2012",
+      "StudyFirstSubmitQCDate": "October 30, 2012",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 1, 2012",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "April 23, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 25, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Jianming Tan",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Fuzhou General Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Fuzhou General Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Cell injury in human islets induced by non-immune mediated inflammation occur in vitro upon hyperglycemia in type 2 diabetes mellitus. Infusion of autologous bone marrow mononuclear cells (BMMNCs) is an emerging therapeutic approach for DM, which showed promising outcomes with mild side effects. Infusion of BMMNCs and autologous bone marrow mesenchymal stem cells in combination might exert enhanced repairing effects. We hypothesized that infusion of these two classes of cells might provide multiple signals for regeneration and improve recovery from inflammation-induced lesion. The effects might be maximized by intra-arterial pancreatic infusion."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Diabetes Mellitus, Type 2"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "mesenchymal stem cells",
+          "bone marrow mononeclear cells",
+          "type 2 diabetes mellitus"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "22",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "BMMSC+BMMNC",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "infusion of BMMSC+BMMNC and insulin injection",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: infusion of BMMSCs",
+                "Drug: infusion BMMNCs",
+                "Drug: insulin"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "BMMNC",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "infusion of BMMNC and insulin injection",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: infusion BMMNCs",
+                "Drug: insulin"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Insulin",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "insulin injection",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: insulin"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "infusion of BMMSCs",
+            "InterventionDescription": "infusion of BMMSCs",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "BMMSC+BMMNC"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "infusion BMMNCs",
+            "InterventionDescription": "infusion of BMMNCs",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "BMMNC",
+                "BMMSC+BMMNC"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "insulin",
+            "InterventionDescription": "intensive insulin care",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "BMMNC",
+                "BMMSC+BMMNC",
+                "Insulin"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "HbA1c",
+            "PrimaryOutcomeTimeFrame": "1y"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "exogenous insulin requirements",
+            "SecondaryOutcomeTimeFrame": "1y"
+          },
+          {
+            "SecondaryOutcomeMeasure": "fasting hemoglucose",
+            "SecondaryOutcomeTimeFrame": "1y"
+          },
+          {
+            "SecondaryOutcomeMeasure": "fasting c-peptide",
+            "SecondaryOutcomeTimeFrame": "1y"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The incidence and severity of adverse events related to the stem cell infusion procedure",
+            "SecondaryOutcomeTimeFrame": "1y"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAbility to provide written informed consent.\nMentally stable and able to comply with the procedures of the study protocol.\nClinical history compatible with type 2 diabetes (T2DM) as defined by the Expert Committee on the Diagnosis and classification of Diabetes Mellitus\nOnset of T2DM disease at ≥ 35 years of age.\nT2DM duration ≥ 3 and ≤ 20 years at the time of enrollment.\nBasal C-peptide 0.3-2.0 ng/mL\nHbA1c ≥ 7.5 and ≤ 12% before standard medical therapy (SMT). Patients must have been treated with SMT for minimum of 4 months prior to randomization.\n\nInsulin dose and metformin doses should be stable over the 3 months prior to randomization.\n\nHbA1c ≥ 7.5 and ≤ 9.5% at time of randomization.\nTotal insulin daily dose (TDD) at time of randomization should not exceed 1.0 units/day/kg\n\nExclusion Criteria:\n\nBMI >35 kg/m2.\nInsulin requirements of > 100 U/day.\nHbA1c >9.5%. (at the time of randomization)\nC-reactive protein (hs-CRP) >3.00\nUncontrolled blood Pressure: SBP >160 mmHg or DBP >100 mmHg at the time of randomization.\nEvidence of renal dysfunction, serum creatinine > 1.5 mg/dl (males) and 1.4 mg/dl (females).\nProteinuria > 300 mg/day\nEvidence of cardiovascular disease, existing congestive cardiac failure on physical exam and/or acute coronary syndrome in past 6 months.\nFor female participants: Positive pregnancy test, presently breast-feeding, or unwillingness to use effective contraceptive measures for the duration of the study.For male participants: intent to procreate 3 months before or after the intervention or unwillingness to use effective measures of contraception. Oral contraceptives,Norplant®, Depo-Provera®, and barrier devices with spermicide are acceptable contraceptive methods; condoms used alone are not acceptable\nActive infection including hepatitis C, HIV, or TB as determined by a positive skin test or clinical presentation, or under treatment for suspected TB. Positive tests are acceptable only if associated with a history of previous vaccination in the absence of any sign of active infection. Positive tests are otherwise not acceptable, even in the absence of any active infection at the time of evaluation\nKnown active alcohol or substance abuse including cigarette/cigar smoking\nBaseline Hgb below the lower limits of normal at the local laboratory; lymphopenia (<1,000/L), neutropenia (<1,500/L), or thrombocytopenia (platelets <100,000/L).\nA history of Factor V deficiency or other coagulopathy defined by INR >1.5, PTT>40, PT >15.\nAny coagulopathy or medical condition requiring long-term anticoagulant therapy(e.g., warfarin) after transplantation (low-dose aspirin treatment is allowed) or patients with an INR >1.5.\nAcute or chronic pancreatitis.\nSymptomatic peptic ulcer disease.\nHyperlipidemia despite medical therapy (fasting LDL cholesterol >130 mg/dl, treated or untreated; and/or fasting triglycerides > 200 mg/dl).\nReceiving treatment for a medical condition requiring chronic use of systemic steroids.\nSymptomatic cholecystolithiasis.\nUse of any investigational agents within 4 weeks of enrollment.\nAdmission to hospital for any reason in the 14 days prior to enrollment (signing consent).\nPresence of active proliferative diabetic retinopathy or macular edema\nAny malignancy\nAbnormal liver function >1.5 x ULN\nAbdominal aortic aneurysm\nHistory of cerebro-vascular accident\nAny patient with acute or subacute decompensation from diabetes\nAny acute or chronic infectious condition that in the criteria of the investigator would be a risk for the patient.\nSubjects with hypoproteinemia, cachexia or terminal states\nSubjects with history of anorexia/bulimia\nSubjects with respiratory insufficiency\nSubjects that are being treated with any medication that could interfere with the outcome of the study such as: Sulfonylureas, Thiazolidinediones and glucagon like peptide 1 (GLP-1) analogues (Exenatide, Byetta), Pramlintide (Amylin), Dipeptidylpeptidase IV (DPP-IV) inhibitors (i.e. Sitagliptin, Januvia)\nAny medical condition that, in the opinion of the investigator, will interfere with thesafe completion of the trial.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "40 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Fuzhou General Hospital, Xiamen Univ",
+            "LocationCity": "Fuzhou",
+            "LocationState": "Fujian",
+            "LocationZip": "350025",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003920",
+            "ConditionMeshTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionMeshId": "D000003924",
+            "ConditionMeshTerm": "Diabetes Mellitus, Type 2"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000044882",
+            "ConditionAncestorTerm": "Glucose Metabolism Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafAsFound": "Diabetes Mellitus",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6271",
+            "ConditionBrowseLeafName": "Diabetes Mellitus, Type 2",
+            "ConditionBrowseLeafAsFound": "Type 2 Diabetes Mellitus",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24556",
+            "ConditionBrowseLeafName": "Glucose Metabolism Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000007328",
+            "InterventionMeshTerm": "Insulin"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000007004",
+            "InterventionAncestorTerm": "Hypoglycemic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9517",
+            "InterventionBrowseLeafName": "Insulin",
+            "InterventionBrowseLeafAsFound": "Cycle",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M172956",
+            "InterventionBrowseLeafName": "Insulin, Globin Zinc",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9206",
+            "InterventionBrowseLeafName": "Hypoglycemic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Hypo",
+            "InterventionBrowseBranchName": "Hypoglycemic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,527 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01591200",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "SRPL/LC/09-10/001"
+      },
+      "Organization": {
+        "OrgFullName": "Stempeutics Research Pvt Ltd",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Dose Finding Study to Assess Safety and Efficacy of Stem Cells in Liver Cirrhosis",
+      "OfficialTitle": "A Parallel Group Randomized Open Blinded End Point Evaluation, Multicentric, Dose Escalation, Phase -II Study Assessing the Safety and Efficacy of Intraarterial (Hepatic) Ex-vivo Cultured Adult Allogenic Mesenchymal Stem Cells in Patients With Alcoholic Liver Cirrhosis"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2016",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 2012"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 2016",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 2016",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "April 15, 2012",
+      "StudyFirstSubmitQCDate": "May 1, 2012",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 3, 2012",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "September 14, 2016",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 15, 2016",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Stempeutics Research Pvt Ltd",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study will evaluate the safety and efficacy of mesenchymal stem cells in patients with cirrhosis of liver. Stem cells will be injected into the hepatic artery. Improvement in various parameters will be observed over 2 years."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Alcoholic Liver Cirrhosis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Alcoholic",
+          "Liver",
+          "Cirrhosis",
+          "Stem",
+          "Cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Control",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "This arm will receive standard protocol of care alone"
+          },
+          {
+            "ArmGroupLabel": "Stem cells high dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "This arm will receive high dose of Allogeneic Mesenchymal Stem Cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Allogeneic Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Stem cells intermediate dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "This arm will receive intermediate dose of Allogeneic Mesenchymal Stem Cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Allogeneic Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Stem cells low dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "This arm will receive low dose of Allogeneic Mesenchymal Stem Cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Allogeneic Mesenchymal Stem Cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Allogeneic Mesenchymal Stem Cells",
+            "InterventionDescription": "High dose of Bone Marrow Derived Allogeneic Mesenchymal Stem Cells will be administered through the hepatic artery",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Stem cells high dose"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Allogeneic Mesenchymal Stem Cells",
+            "InterventionDescription": "Intermediate dose of Bone Marrow Derived Allogeneic Mesenchymal Stem Cells will be administered through the hepatic artery",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Stem cells intermediate dose"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Allogeneic Mesenchymal Stem Cells",
+            "InterventionDescription": "Low dose of Bone Marrow Derived Allogeneic Mesenchymal Stem Cells will be administered through the hepatic artery",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Stem cells low dose"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety",
+            "PrimaryOutcomeDescription": "The type of adverse events, number of adverse events and proportion of patients with adverse events",
+            "PrimaryOutcomeTimeFrame": "2 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Liver function tests.",
+            "SecondaryOutcomeDescription": "To assess the improvement in liver function",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "CT scan of abdomen.",
+            "SecondaryOutcomeDescription": "To assess the improvement in liver structure",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in MELD score",
+            "SecondaryOutcomeDescription": "To assess the clinical improvement",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Improvement in quality of life as assessed by SF 36 questionnaire",
+            "SecondaryOutcomeDescription": "To assess the improvement in quality of life",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Histological evaluation of liver biopsy by immunohistochemical staining for AFP, PCNA, SMA",
+            "SecondaryOutcomeDescription": "To assess the improvement in histopathology",
+            "SecondaryOutcomeTimeFrame": "6 Months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Child-Pugh score",
+            "SecondaryOutcomeDescription": "To assess clinical improvement",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAlcoholic cirrhotics between 18-65 years of age (diagnosed by clinical, biochemical, sonographic, radiological [CT scan] or histological evidence of cirrhosis and portal hypertension).\nEvidence of decompensated liver disease at screening (e.g. Child class B or C, Child-Pugh scores of ≥7 and <14).\nMELD scores of at least 10 (UNOS Meld calculator).\nNormal AFP Level\nHb>10gm/dl.\nFemale patients of childbearing age must be willing to use accepted methods of contraception during the course of the study\nSigned informed consent.\n\nExclusion Criteria:\n\nPatients likely to undergo liver transplantation during the duration of the study.\nPresence of advanced hepatic encephalopathy Grades 3 & 4 (West Haven criteria for grading of hepatic encephalopathy) at the time of screening\nActive variceal bleed.\nRefractory ascites.\nEvidences of autoimmune liver disease- ANA or Anti-LKM positivity.\nPlatelet count < 30,000/mm3.\nSerum Sodium <129mEq/L.\nSerum Creatinine > 2 mg/dl.\nHepatocellular carcinoma or other malignancies\nActive infectious disease.\nPresence of severe underlying cardiac, pulmonary or renal disease.\nExcessive alcohol (>30 gm of alcohol/day) use in the last 3 months before screening.\nPositive HbSAg or antibodies to HIV or HCV.\nPregnancy or lactation.\nParticipation in other clinical trials.\nUnwilling/unable to sign the informed consent.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Dr. BV Tantry, MD., DM",
+            "OverallOfficialAffiliation": "KMC, Mangalore",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Dr. Samir Shah, MD., DM",
+            "OverallOfficialAffiliation": "Breach Candy Hospital, Mumbai",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Dr. Dinesh Kini, MD., DM",
+            "OverallOfficialAffiliation": "Manipal Hospital, India",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Dr.Deepak N Amarapuraka, MD., DM",
+            "OverallOfficialAffiliation": "Bombay Hospital & Medical Research Center, Mumbai",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Dr. VA Saraswat, MD., DM",
+            "OverallOfficialAffiliation": "SGPGI, Kucknow",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Dr. Aejaz Habeeb, MD., DM",
+            "OverallOfficialAffiliation": "Centre for Liver Research & Diagnostics, Hyderabad",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Dr Uma Devi, MD",
+            "OverallOfficialAffiliation": "Mediciti Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Dr Sanjay Kolte Kolte, DNB., FCPS",
+            "OverallOfficialAffiliation": "Sahyadri Speciality Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Dr Sandeep Nijhwan Nijhwan, MD., DM",
+            "OverallOfficialAffiliation": "SMS Medical College and Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Dr. Nitin Pai, MD., DM",
+            "OverallOfficialAffiliation": "Ruby Hall clinic",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Centre for Liver Research & Diagnostics",
+            "LocationCity": "Hyderabad",
+            "LocationState": "Andhra Pradesh",
+            "LocationZip": "500058",
+            "LocationCountry": "India"
+          },
+          {
+            "LocationFacility": "Mediciti Hospital",
+            "LocationCity": "Hyderabad",
+            "LocationState": "Andhra Pradesh",
+            "LocationZip": "500063",
+            "LocationCountry": "India"
+          },
+          {
+            "LocationFacility": "Manipal Hospital",
+            "LocationCity": "Bangalore",
+            "LocationState": "Karnataka",
+            "LocationZip": "560017",
+            "LocationCountry": "India"
+          },
+          {
+            "LocationFacility": "KMC Hospital",
+            "LocationCity": "Mangalore",
+            "LocationState": "Karnataka",
+            "LocationZip": "575001",
+            "LocationCountry": "India"
+          },
+          {
+            "LocationFacility": "Institute of liver disease, HPB surgery and transplant Global Hospitals",
+            "LocationCity": "Mumbai",
+            "LocationState": "Maharashtra",
+            "LocationZip": "400012",
+            "LocationCountry": "India"
+          },
+          {
+            "LocationFacility": "Bombay Hospital & Medical Research Center",
+            "LocationCity": "Mumbai",
+            "LocationState": "Maharashtra",
+            "LocationZip": "400020",
+            "LocationCountry": "India"
+          },
+          {
+            "LocationFacility": "Ruby Hall clinic",
+            "LocationCity": "Pune",
+            "LocationState": "Maharashtra",
+            "LocationZip": "411001",
+            "LocationCountry": "India"
+          },
+          {
+            "LocationFacility": "Sahyadri Speciality Hospital",
+            "LocationCity": "Pune",
+            "LocationState": "Maharashtra",
+            "LocationZip": "411004",
+            "LocationCountry": "India"
+          },
+          {
+            "LocationFacility": "SMS Medical college and Hospital",
+            "LocationCity": "Jaipur",
+            "LocationState": "Rajasthan",
+            "LocationZip": "302004",
+            "LocationCountry": "India"
+          },
+          {
+            "LocationFacility": "SGPGI Lucknow",
+            "LocationCity": "Lucknow",
+            "LocationState": "Uttar Pradesh",
+            "LocationZip": "226014",
+            "LocationCountry": "India"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008103",
+            "ConditionMeshTerm": "Liver Cirrhosis"
+          },
+          {
+            "ConditionMeshId": "D000008104",
+            "ConditionMeshTerm": "Liver Cirrhosis, Alcoholic"
+          },
+          {
+            "ConditionMeshId": "D000005355",
+            "ConditionMeshTerm": "Fibrosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000008107",
+            "ConditionAncestorTerm": "Liver Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000008108",
+            "ConditionAncestorTerm": "Liver Diseases, Alcoholic"
+          },
+          {
+            "ConditionAncestorId": "D000020751",
+            "ConditionAncestorTerm": "Alcohol-Induced Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000019973",
+            "ConditionAncestorTerm": "Alcohol-Related Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000019966",
+            "ConditionAncestorTerm": "Substance-Related Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000064419",
+            "ConditionAncestorTerm": "Chemically-Induced Disorders"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10255",
+            "ConditionBrowseLeafName": "Liver Cirrhosis",
+            "ConditionBrowseLeafAsFound": "Liver Cirrhosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10256",
+            "ConditionBrowseLeafName": "Liver Cirrhosis, Alcoholic",
+            "ConditionBrowseLeafAsFound": "Alcoholic Liver Cirrhosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7637",
+            "ConditionBrowseLeafName": "Fibrosis",
+            "ConditionBrowseLeafAsFound": "Cirrhosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10259",
+            "ConditionBrowseLeafName": "Liver Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10260",
+            "ConditionBrowseLeafName": "Liver Diseases, Alcoholic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21661",
+            "ConditionBrowseLeafName": "Alcohol-Induced Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20995",
+            "ConditionBrowseLeafName": "Alcohol-Related Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20990",
+            "ConditionBrowseLeafName": "Substance-Related Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M29455",
+            "ConditionBrowseLeafName": "Chemically-Induced Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC25",
+            "ConditionBrowseBranchName": "Substance Related Disorders"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXM",
+            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M10262",
+            "InterventionBrowseLeafName": "Liver Extracts",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Hemat",
+            "InterventionBrowseBranchName": "Hematinics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

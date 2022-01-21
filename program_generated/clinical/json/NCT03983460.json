@@ -1,0 +1,558 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03983460",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "18082A0002"
+      },
+      "Organization": {
+        "OrgFullName": "Association pour la Recherche Clinique et Immunologique",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Dupilumab Impact on Skin Resident Memory T Cells",
+      "OfficialTitle": "Dupilumab Impact on Skin Resident Memory T Cells",
+      "Acronym": "DupiTrem"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 9, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 21, 2019",
+      "StudyFirstSubmitQCDate": "June 11, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 12, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "March 20, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 24, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Association pour la Recherche Clinique et Immunologique",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The main objective of the study consists in characterizing the immune cells that are present/persist in the skin and the blood of atopic dermatitis (AD) patients treated with Dupilumab, as well as with potent/very potent topical corticosteroids (TCS: betamethasone valerate cream 0.1% or clobetasol propionate cream 0.05%). A specific attention will be paid on the presence/persistence of skin Trm and ILCs.\n\nThe study population will consist of 20 adult patients suffering from moderate to severe Atopic Dermatitis and eligible for Dupilumab treatment. (Patients should have inadequate response, intolerance or contraindication to systemic anti-inflammatory treatments).\n\nThis is an exploratory, prospective, single-site, randomized, open labeled study. There is a treatment period of 168 days (24 weeks) and a post-treatment follow-up period of maximum 102 days."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Atopic Dermatitis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Basic Science",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "20",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Dupimulab arm",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "At Day 0, patients will receive Dupilumab treatment. The recommended dose of Dupilumab for adult patients is an initial dose of 600mg followed by 300mg given every two weeks administered as subcutaneous injection. Dupilumab could be self-administered by subcutaneous injection into thigh or abdomen or injected in the upper arm in case of administration by the patient's caregiver. It is recommended to rotate the injection site with each injection.\n\nAt the end of treatment period, patient with AD IGA >1 will stop the study and patient with AD IGA≤1 will enter in a 3 months-follow-up period. During this period, they will stop treatment initiated at Day 0 and apply rescue TCS if appearance of AD lesion within 3 months. Patients will note in their diary the applications of rescue TCS. The relapse is defined as the necessity to apply TCS rescues.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Dupilumab",
+                "Procedure: Biopsies",
+                "Procedure: Skin prick-test",
+                "Procedure: Blood sample collection"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Optimized TCS treatment arm",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "At Day 0, patients will receive topical corticosteroid treatment (TCS) adapted to the AD severity (potent and very potent TCS) with a personal therapeutic education for treatment optimization. It will be asked to perform, every day, an application of topical corticosteroid (TCS) (betamethasone valerate cream 0.1%, and if not active, clobetasol propionate cream 0.05%) on active lesions. Once the AD lesion is cleared, the patients will continue to apply TCS on healed lesions, twice a week until the end of the treatment period to prevent relapse.\n\nAt the end of treatment period, patient with AD IGA >1 will stop the study and patient with AD IGA≤1 will enter in a 3 months-follow-up period. During this period, they will stop treatment initiated at Day 0 and apply rescue TCS if appearance of AD lesion within 3 months. Patients will note in their diary the applications of rescue TCS. The relapse is defined as the necessity to apply TCS rescues.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Optimized TCS treatment",
+                "Procedure: Biopsies",
+                "Procedure: Skin prick-test",
+                "Procedure: Blood sample collection"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Dupilumab",
+            "InterventionDescription": "Each single used prefilled syringe contains 300 mg of Dupilumab in 2 mL solution (150mg/mL) Dupilumab is a fully human monoclonal antibody against interleukin (IL)-4 receptor alpha that inhibits IL-4/IL-13 signaling, produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Dupimulab arm"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Optimized TCS treatment",
+            "InterventionDescription": "Application of betamethasone valerate 0.1% (Betneval 0.1% cream), a potent topical corticosteroid, and if not active, application of clobetasol propionate 0.05% (Dermoval 0.05% cream), a very potent topical corticosteroid. TCS treatment will be associated with a personal therapeutic education for treatment optimization.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Optimized TCS treatment arm"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Betamethasone valerate 0.1% and Clobetasol propionate 0.05%"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Biopsies",
+            "InterventionDescription": "Four skin biopsies (5 mm diameter) and ten microbiopsies (2 & 3 mm diameter) will be performed according the following schedule:\n\nDay 0\n\na 5 mm section biopsy from a non-lesional skin\na 5 mm section biopsy from an active lesion\na 3 mm section microbiopsies from a non-lesional skin\na 3 mm section microbiopsies from an active lesion\na 2 mm section microbiopsies from a non-lesional skin\na 2 mm section microbiopsies from an active lesion\n\nDay 28\n\na 5 mm section biopsy on improved/healed lesion\na 3 mm section microbiopsies on improved/healed lesion\na 2 mm section microbiopsies from non lesional skin identified at V1\na 2 mm section microbiopsies on improved/healed lesion\n\nDay 168\n\na 5 mm section biopsy on improved/healed lesion\na 3 mm section microbiopsies on improved/healed lesion\na 2 mm section microbiopsies from non-lesional skin identified at V1\na 2 mm section microbiopsies on improved/healed lesion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Dupimulab arm",
+                "Optimized TCS treatment arm"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Skin prick-test",
+            "InterventionDescription": "Skin prick test is a method for medical diagnosis of allergy consisting in introducing a small amount of an allergen into the patient's skin. The allergen penetrates the epidermis by pricking the skin with a pin.\n\nSkin Prick test for Derp and Derf will be performed at Day 0, preferentially on the forearms, avoiding lesional areas.\n\nFor the results interpretation, the two allergen Derp/Derf will be compared to 2 controls:\n\nNegative control : saline solution\nPositive control : histamine solution\n\nPositive criteria of prick tests results are:\n\nPositive control's diameter ≥ 3mm\nAnd negative control's diameter < 3 mm\nAnd tested allergen with wheal ≥ positive control, i.e. 3mm",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Dupimulab arm",
+                "Optimized TCS treatment arm"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Blood sample collection",
+            "InterventionDescription": "A 50ml blood sample will be collected by venipuncture at Day 0, Day 28 and Day 168.\n\nMore specifically a 40 ml blood sample will be drawn on heparinized tubes for immunophenotyping and a 10 mL on serum blood collection tube for analysis of AD biomarkers by mass cytometry and ELISA.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Dupimulab arm",
+                "Optimized TCS treatment arm"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "To assess the change of the number (per biopsy or per mL of blood) and/or frequency (among live hematopoietic cells CD45+) of immune cells that are present in the skin and the blood of AD patients after Dupilumab or TCS treatment.",
+            "PrimaryOutcomeDescription": "In this exploratory study, comprehensive immunophenotyping investigations will be conducted on the immune cells extracted from blood, and from the lesional, healed and non lesional skin biopsies of each patient. Capitalizing on the use of mass cytometry technology, which allows comprehensive analysis of 35-40 different markers on the same cell, we will establish a precise mapping of immune cells that circulate or infiltrate/persist the different lesions.\n\nA specific focus will determine the frequency/number of Trms and ILCs inside the skin, notably type-2 Trms (such as IL-4/IL-13 producing TH2) and ILC2.",
+            "PrimaryOutcomeTimeFrame": "At Day 0, Day 28 and Day 168."
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "To investigate correlations between each immunological parameter and each clinical score as a continuous quantitative variable, as well as each immunological parameter and quality of life index as a continuous quantitative variable.",
+            "SecondaryOutcomeDescription": "In order to determine the immunological parameters associated with the clinical state of patients (measured using IGA, EASI, SCORAD, lesional area score and life quality index), the following procedure will be done for each clinical score, and at each time. First, the correlation between the clinical score and each immunological parameter will be tested using linear regression models, including the type of treatment as a co-variable (one model for each immunological parameter). Then, a multiple linear regression model will be performed, where explanatory variables will include the treatment as well as some of the immunological parameters, based on statistical considerations as well as on clinical considerations. Immunological parameters with p-value<0.05 from the multiple linear regression model will be considered as significantly associated with the clinical state of patients.",
+            "SecondaryOutcomeTimeFrame": "At Day 0, Day 28 and Day 168"
+          },
+          {
+            "SecondaryOutcomeMeasure": "To investigate correlations between each immunological parameter and change in clinical score as a qualitative variable with 2 modalities as well as each immunological parameter and quality of life index, as a qualitative variable with 2 modalities.",
+            "SecondaryOutcomeDescription": "In order to determine the immunological parameters associated with the clinical efficacy of Dupilumab and TCS treatments (measured using IGA, EASI, SCORAD and life quality index considered as qualitative variables with two modalities: good or bad responders), the following procedure will be done for each clinical score, and at each time. First, the correlation between the clinical score and each immunological parameter will be tested using logistic regression models, including the type of treatment as a co-variable (one model for each immunological parameter). Then, a multiple logistic regression model will be performed, where explanatory variables will include the treatment as well as some of the immunological parameters, based on statistical considerations as well as on clinical considerations. Immunological parameters with p-value<0.05 from the multiple logistic regression model will be considered as significantly associated with the clinical state of patients.",
+            "SecondaryOutcomeTimeFrame": "At Day 28 and Day 168."
+          },
+          {
+            "SecondaryOutcomeMeasure": "To investigate correlations between each immunological parameter and the development of new AD lesions in the 3 following months, as well as each immunological parameter and the interval of time between the end of treatment and AD relapse.",
+            "SecondaryOutcomeDescription": "In order to determine the immunological parameters associated with the development of new AD lesions, a logistic regression model, will be used for each immunological parameter and at each time. Then, a multiple logistic regression model will be performed for each time. Immunological parameters with p-value<0.05 from the multiple regression model will be considered as significantly associated with the clinical state of patients. In order to determine the correlation between the immunological parameters and the interval of time between the end of treatment and AD relapse, a linear regression model, will be used for each immunological parameter and at each time. Then, a multiple regression model will be performed for each time. Immunological parameters with p-value<0.05 from the multiple regression model will be considered as significantly associated with the clinical state of patients.",
+            "SecondaryOutcomeTimeFrame": "At Day 0, Day 28,Day 168 and during the 3 months follow-up period."
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSubject over 18 years of age\nSubject able to read, understand and give documented informed consent\nSubject willing and able to comply with the protocol requirements for the duration of the study\nSubject with health insurance coverage according to local regulations\n\nFor woman with childbearing potential :\n\nUse of a highly effective method of birth control from at least 1 month prior to study enrollment until the last visit\nNegative urine pregnancy test at inclusion visit A highly effective method of birth controlled is defined as one which results in a low failure rate (i.e. less than 1% per year) when used consistently and correctly, such as implants, combined oral contraceptives, intrauterine device, double barrier methods (e.g. condom with spermicide), sexual abstinence or vasectomized partner. Woman with no childbearing potential is defined as: woman with amenorrhea for at least 12 months (without an alternative medical cause); woman who had undergone a permanent sterilization method (eg bilateral tubal occlusion which includes tubal ligation procedures, hysterectomy, bilateral salpingectomy, bilateral oophorectomy); or otherwise be incapable of pregnancy.\nSubject diagnosed with moderate-to-severe AD, defined as SCORAD≥20 and/or EASI≥7 (Eichenfield et al., 2014)\nSubject with AD involvement of 10% (or more) Body Surface Area (BSA) according to component A of SCORAD\nSubject with I, II, III or IV skin phototype (according to Fitzpatrick scale)\nSubject accepting skin prick-tests and skin biopsies\nSubject having a least one non lesional area on the body (off head and neck, feet and hands)\nSubject eligible for systemic treatment\nFailure, intolerance or contraindication to available systemic treatments (i.e. cyclosporine/methotrexate)\n\nExclusion Criteria:\n\nPregnancy or breast-feeding women, or planning to become pregnant or breastfeed during the study\nWomen unwilling to use adequate birth control, if of reproductive potential and sexually active.\nSubject currently experiencing or having a history of other concomitant skin conditions that would interfere with evaluation of AD\nHistory of allergic reaction to local anesthetic product\nHistory of wound healing disorders (e.g. hypertrophic scars, keloids)\nSubject with known active infection to HBV, HCV or HIV\nSubject with known helminth infection\nSubject with known blood dyscrasia\nSubject having an allergen immunotherapy within 3 months before study\nSubject treated by antihistamine 5 days before study. Please note, antihistamine administered to treat allergic rhino conjunctivitis is allowed after V1.\nSubject treated with an investigational drug within 8 weeks or within 5 half-life (if known), whichever is longer, before the baseline visit\nSubject treated with cyclosporine, methotrexate oral corticosteroids, azathioprine, mycophenolate mofetil, and/or any other systemic immunosuppressor/immunomodulator within 4 weeks before the study\nSubject treated by a biologic therapy within 5 half-life before the study\nSubject treated with ultraviolet therapy within 4 weeks before study\nSubject treated with a live (attenuated) vaccine within 12 weeks before baseline visit\nSubject having a planned surgery during the study\nSubject presenting clinically significant medical disease that is uncontrolled despite treatment that is likely, in the opinion of the investigator, to impact patient's ability to participate in the study or to impact the study efficacy or safety assessments\nSubject with any additional condition that, in the opinion of the investigator, may interfere with the assessment or put the subject at risk\nLinguistic or mentally incapacity to sign the consent form\nSubject protect by the law (adult under guardianship, or hospitalized in a public or private institution for a reason other than study, or incarcerated)\nSubject in an exclusion period from a previous study or who is participating in another clinical trial",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Sophie Gilibert, Ph.D.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+33478861859",
+            "CentralContactEMail": "sophie.gilibert@lyonrechercheclinique.com"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Service d'Allergologie et Immunologie Clinique - Hôpital Lyon Sud",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Pierre-Bénite",
+            "LocationZip": "69495",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Audrey Nosbaum, MD PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+33478861859"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003876",
+            "ConditionMeshTerm": "Dermatitis, Atopic"
+          },
+          {
+            "ConditionMeshId": "D000003872",
+            "ConditionMeshTerm": "Dermatitis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012871",
+            "ConditionAncestorTerm": "Skin Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012873",
+            "ConditionAncestorTerm": "Skin Diseases, Genetic"
+          },
+          {
+            "ConditionAncestorId": "D000030342",
+            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+          },
+          {
+            "ConditionAncestorId": "D000017443",
+            "ConditionAncestorTerm": "Skin Diseases, Eczematous"
+          },
+          {
+            "ConditionAncestorId": "D000006969",
+            "ConditionAncestorTerm": "Hypersensitivity, Immediate"
+          },
+          {
+            "ConditionAncestorId": "D000006967",
+            "ConditionAncestorTerm": "Hypersensitivity"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6223",
+            "ConditionBrowseLeafName": "Dermatitis, Atopic",
+            "ConditionBrowseLeafAsFound": "Atopic Dermatitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6219",
+            "ConditionBrowseLeafName": "Dermatitis",
+            "ConditionBrowseLeafAsFound": "Dermatitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6807",
+            "ConditionBrowseLeafName": "Eczema",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14826",
+            "ConditionBrowseLeafName": "Skin Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14828",
+            "ConditionBrowseLeafName": "Skin Diseases, Genetic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22839",
+            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18864",
+            "ConditionBrowseLeafName": "Skin Diseases, Eczematous",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9170",
+            "ConditionBrowseLeafName": "Hypersensitivity",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9172",
+            "ConditionBrowseLeafName": "Hypersensitivity, Immediate",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000001623",
+            "InterventionMeshTerm": "Betamethasone"
+          },
+          {
+            "InterventionMeshId": "D000001624",
+            "InterventionMeshTerm": "Betamethasone Valerate"
+          },
+          {
+            "InterventionMeshId": "D000002990",
+            "InterventionMeshTerm": "Clobetasol"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000893",
+            "InterventionAncestorTerm": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionAncestorId": "D000005938",
+            "InterventionAncestorTerm": "Glucocorticoids"
+          },
+          {
+            "InterventionAncestorId": "D000006728",
+            "InterventionAncestorTerm": "Hormones"
+          },
+          {
+            "InterventionAncestorId": "D000006730",
+            "InterventionAncestorTerm": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018927",
+            "InterventionAncestorTerm": "Anti-Asthmatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000019141",
+            "InterventionAncestorTerm": "Respiratory System Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3382",
+            "InterventionBrowseLeafName": "Antibodies, Monoclonal",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8860",
+            "InterventionBrowseLeafName": "Histamine",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M4061",
+            "InterventionBrowseLeafName": "Betamethasone",
+            "InterventionBrowseLeafAsFound": "Interleukin-",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M4062",
+            "InterventionBrowseLeafName": "Betamethasone Valerate",
+            "InterventionBrowseLeafAsFound": "NPS",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M229281",
+            "InterventionBrowseLeafName": "Betamethasone-17,21-dipropionate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M259082",
+            "InterventionBrowseLeafName": "Betamethasone benzoate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M248671",
+            "InterventionBrowseLeafName": "Betamethasone sodium phosphate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M5375",
+            "InterventionBrowseLeafName": "Clobetasol",
+            "InterventionBrowseLeafAsFound": "Cabozantinib",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M212140",
+            "InterventionBrowseLeafName": "Histamine phosphate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9270",
+            "InterventionBrowseLeafName": "Immunoglobulin A",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3369",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8199",
+            "InterventionBrowseLeafName": "Glucocorticoids",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8941",
+            "InterventionBrowseLeafName": "Hormones",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8940",
+            "InterventionBrowseLeafName": "Hormone Antagonists",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20116",
+            "InterventionBrowseLeafName": "Anti-Asthmatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20290",
+            "InterventionBrowseLeafName": "Respiratory System Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infl",
+            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Resp",
+            "InterventionBrowseBranchName": "Respiratory System Agents"
+          }
+        ]
+      }
+    }
+  }
+}

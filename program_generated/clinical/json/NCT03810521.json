@@ -1,0 +1,353 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03810521",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CLT-OA1"
+      },
+      "Organization": {
+        "OrgFullName": "Universidad de los Andes, Chile",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Dose-escalation of Cellistem-OA in Patients With Knee Osteoarthritis",
+      "OfficialTitle": "A Phase I Dose-escalation Trial to Assess Safety and Efficacy of Cellistem-OA in Patients With Knee Osteoarthritis (CLT-OA1)",
+      "Acronym": "CLT-OA1"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2019",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 1, 2019",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 30, 2019",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 30, 2019",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 17, 2019",
+      "StudyFirstSubmitQCDate": "January 17, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 18, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 17, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 18, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Francisco Espinoza",
+        "ResponsiblePartyInvestigatorTitle": "Associate Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Universidad de los Andes, Chile"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Universidad de los Andes, Chile",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "A phase I dose-escalation trial to assess safety and efficacy of allogeneic MSC based-treatment (cellistem-OA) in patients with symptomatic knee osteoarthritis"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Osteoarthritis, Knee"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "mesenchymal stromal cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "24",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "CLT low-dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Umbilical cord derived-mesenchymal stromal cells at a dose of 2x10e6 cells / 3mL injected by an intra-articular infiltration of affected knee",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: umbilical cord derived-mesenchymal stromal cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "CLT medium-dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Umbilical cord derived-mesenchymal stromal cells at a dose of 20x10e6 cells / 3mL injected by an intra-articular infiltration of affected knee",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: umbilical cord derived-mesenchymal stromal cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "CLT high-dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Umbilical cord derived-mesenchymal stromal cells at a dose of 80x10e6 cells / 3mL injected by an intra-articular infiltration of affected knee",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: umbilical cord derived-mesenchymal stromal cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "umbilical cord derived-mesenchymal stromal cells",
+            "InterventionDescription": "Intra-articular infiltration of umbilical cord derived-mesenchymal stromal cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "CLT high-dose",
+                "CLT low-dose",
+                "CLT medium-dose"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Incidence of adverse events",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change in WOMAC score",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in VAS score",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in structural joint assessment by MRI",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatient between 30 and 75 years old\nKnee-OA Kellgren Lawrence grade I to III\nPain density according to visual analogue scale superior or equal to 50 mm\nPatelar condromalacia grade I to III\nStable joint with normal physical exploration\n\nExclusion Criteria:\n\nBilateral symptomatic disease\nLocal or systemic infection\nNeoplasia\nImmunosuppression state\nPregnancy\nAnticoagulant therapy\nOther types of arthritis\nSymptomatic disease of hip and/or spine\nIntra-articular infiltration with steroids in the last 3 months\nIntra-articular infiltration with hyaluronic acid in the last 12 months",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "30 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Francisco Espinoza, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "56226181008",
+            "CentralContactEMail": "fespinoza@uandes.cl"
+          },
+          {
+            "CentralContactName": "Roberto Bobadilla",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "56226181000",
+            "CentralContactEMail": "rbobadilla@c4c.cl"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Francisco Espinoza, MD",
+            "OverallOfficialAffiliation": "CMO",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Clínica Universidad de los Andes",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Santiago",
+            "LocationState": "Xiii",
+            "LocationZip": "7620001",
+            "LocationCountry": "Chile",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Jose Matas, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "56226181000",
+                  "LocationContactEMail": "jmatas@uandes.cl"
+                },
+                {
+                  "LocationContactName": "Eduardo Carrasco, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "56226181000",
+                  "LocationContactEMail": "ecarrasco@clinicauandes.cl"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010003",
+            "ConditionMeshTerm": "Osteoarthritis"
+          },
+          {
+            "ConditionMeshId": "D000020370",
+            "ConditionMeshTerm": "Osteoarthritis, Knee"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001168",
+            "ConditionAncestorTerm": "Arthritis"
+          },
+          {
+            "ConditionAncestorId": "D000007592",
+            "ConditionAncestorTerm": "Joint Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012216",
+            "ConditionAncestorTerm": "Rheumatic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12078",
+            "ConditionBrowseLeafName": "Osteoarthritis",
+            "ConditionBrowseLeafAsFound": "Osteoarthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21321",
+            "ConditionBrowseLeafName": "Osteoarthritis, Knee",
+            "ConditionBrowseLeafAsFound": "Osteoarthritis, Knee",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3628",
+            "ConditionBrowseLeafName": "Arthritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9773",
+            "ConditionBrowseLeafName": "Joint Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14197",
+            "ConditionBrowseLeafName": "Rheumatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5475",
+            "ConditionBrowseLeafName": "Collagen Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

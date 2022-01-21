@@ -1,0 +1,382 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04216849",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "DFSC-2019(CR)-06"
+      },
+      "Organization": {
+        "OrgFullName": "Shanghai East Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Clinical Study of Umbilical Cord Mesenchymal Stem Cells in the Treatment of Type 2 Diabetic Nephropathy",
+      "OfficialTitle": "Clinical Study of Umbilical Cord Mesenchymal Stem Cells in the Treatment of Type 2 Diabetic Nephropathy"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 1, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "February 1, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 1, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 17, 2019",
+      "StudyFirstSubmitQCDate": "December 30, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 3, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 16, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 17, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Shanghai East Hospital",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Chinese PLA General Hospital",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The study was a 48-week multicenter, randomized, double-blind, placebo-controlled trial that included 8 weeks of pre-screening and lifestyle education, 32 weeks of treatment, and 16 weeks of follow-up.To observe the efficacy and safety of umbilical cord mesenchymal stem cell infusion in Chinese patients with type 2 diabetic nephropathy who received traditional hypoglycemic therapy.",
+      "DetailedDescription": "The study was a 48-week multicenter, randomized, double-blind, placebo-controlled trial that included 8 weeks of pre-screening and lifestyle education, 32 weeks of treatment, and 16 weeks of follow-up.We plan to recruit 54 subjects，which were divided into experimental group and control group. The volunteers of the experimental group will be given peripheral intravenously a dose of 1.5*10^6/kg human umbilical cord mesenchymal stem cell (HUC-MSC) at 0,8,16,24,32 week. The control group will be given the same dose of saline. Then centralization visit was conducted every 8 weeks until the 48th week.The primary end points include estimated glomerular filtration rate and urinary albumin creatinine ratio(UACR). The secondary end points include HbA1C,plasma insulin and C-peptide, and insulin dose."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Type 2 Diabetes With Renal Manifestations"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "human umbilical cord mesenchymal stem cells",
+          "type 2 diabetic nephropathy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "54",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "experimental group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "The volunteers of the experimental group will be given peripheral intravenously a dose of 1.5*10^6/kg human umbilical cord mesenchymal stem cells at 0,8,16,24,32 week.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: human umbilical cord mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "control group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "The control group will be given the same dose of saline containing human albumin.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: saline"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "human umbilical cord mesenchymal stem cells",
+            "InterventionDescription": "human umbilical cord mesenchymal stem cells were peripheral intravenous infused to experimental group",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "experimental group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "saline",
+            "InterventionDescription": "Saline solution containing human serum albumin will be infused to the control group",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "control group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "UACR",
+            "PrimaryOutcomeDescription": "urinary albumin creatinine ratio",
+            "PrimaryOutcomeTimeFrame": "48weeks after treatment"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "HbA1c",
+            "SecondaryOutcomeDescription": "HbA1c",
+            "SecondaryOutcomeTimeFrame": "48weeks after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "insulin/C peptide",
+            "SecondaryOutcomeDescription": "serum level of insulin/C peptide",
+            "SecondaryOutcomeTimeFrame": "48weeks after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "insulin dosage",
+            "SecondaryOutcomeDescription": "insulin dosage",
+            "SecondaryOutcomeTimeFrame": "48weeks after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "eGFR",
+            "SecondaryOutcomeDescription": "estimated glomerular filtration rate",
+            "SecondaryOutcomeTimeFrame": "48weeks after treatment"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria (in brief):\n\nType 2 diabetes mellitus\nDiabetes duration≤20 years\n18.5kg/m^2 ≤ BMI< 30 kg/m^2\n7.5%≤HbA1C≤10%\nUACR≥30mg/gCr\neGFR ≥45/milliliter/1.73m^2\n\nExclusion Criteria (in brief):\n\nType 1 diabetes mellitus\ntumor history\nOther causes of chronic kidney disease\nAbnormal liver function",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "30 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Congrong Wang, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86-021-38804518",
+            "CentralContactEMail": "wcr601@163.com"
+          },
+          {
+            "CentralContactName": "Zhongming Liu, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86-021-38804518",
+            "CentralContactEMail": "liu.zhongmin@tongji.edu.cn"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Zhongming Liu, MD",
+            "OverallOfficialAffiliation": "Shanghai East Hospital, Shanghai Tongji University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Shanghai East Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Shanghai",
+            "LocationState": "Shanghai",
+            "LocationZip": "200124",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Congrong Wang, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+86-021-38804518",
+                  "LocationContactEMail": "wcr601@163.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007674",
+            "ConditionMeshTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionMeshId": "D000003928",
+            "ConditionMeshTerm": "Diabetic Nephropathies"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000048909",
+            "ConditionAncestorTerm": "Diabetes Complications"
+          },
+          {
+            "ConditionAncestorId": "D000003920",
+            "ConditionAncestorTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6271",
+            "ConditionBrowseLeafName": "Diabetes Mellitus, Type 2",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafAsFound": "Nephropathy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6275",
+            "ConditionBrowseLeafName": "Diabetic Nephropathies",
+            "ConditionBrowseLeafAsFound": "Diabetic Nephropathy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25157",
+            "ConditionBrowseLeafName": "Diabetes Complications",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

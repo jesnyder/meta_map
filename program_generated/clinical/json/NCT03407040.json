@@ -1,0 +1,328 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03407040",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "180043"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "18-C-0043"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "National Institutes of Health Clinical Center (CC)",
+        "OrgClass": "NIH"
+      },
+      "BriefTitle": "Generation of Cancer Antigen-Specific T-cells From Human Induced Pluripotent Stem Cells (iPSC) for Research and Potential FutureTherapy",
+      "OfficialTitle": "Generation of Cancer Antigen-Specific T-cells From Human Induced Pluripotent Stem Cells (iPSC) for Research and Potential Future Therapy"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Terminated",
+      "WhyStopped": "Investigator left NIH",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 30, 2018",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 27, 2019",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 30, 2019",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "January 20, 2018",
+      "StudyFirstSubmitQCDate": "January 20, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 23, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 9, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 10, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "National Cancer Institute (NCI)",
+        "LeadSponsorClass": "NIH"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Background:\n\nResearchers want to test if certain cells can be re-programmed into stem cells. Stem cells can keep reproducing for a long time. Cells made by stem cells can be turned into different types of cells. These include cancer-fighting cells, skin cells, etc. The stem cells generated in this study will be used to make specific tumor-fighting cells that can recognize different types of mutations in cancer cells. They may also help identify new tumor mutations that may not have been identified yet.\n\nObjectives:\n\nTo test if a certain type of tumor-fighting cells can be re-programmed into stem cells.\n\nEligibility:\n\nParticipants in another Surgery Branch protocol who are at least 16 years old\n\nDesign:\n\nParticipants already gave samples of blood and/or tumor tissue in the other protocol. They do not need to come back to the clinic or give any other samples.\n\nParticipants will give consent for their samples to be used in this study.\n\nResearchers will obtain cells from the samples. They will grow those cells in the lab. They will create stem cells from them.\n\nResearchers will do genetic tests on the samples.\n\nMost tests will not show important health results. But if they do, the participant will be invited to talk to a genetic counselor and get more detailed testing to confirm the results.\n\nSome of the samples and results will be stored indefinitely. They may be used in future research. No personal information will be stored with them.\n\n...",
+      "DetailedDescription": "Background:\n\nT-cells are potentially curative for patients with metastatic cancer, but many patients with cancer have T-cells that are terminally differentiated , a condition associated with treatment failure. We have observed that less differentiated T-cells have a greater capacity to proliferate, persist, and destroy large cancer deposits. Advances in regenerative medicine might allow the generation of rejuvenated T-cells from induced pluripotent stem cells (iPSC).\n\nObjectives:\n\nTo reprogram patient specimens into induced pluripotent stem cells (iPSC) and differentiate them into different types of somatic cells with the goal to produce cancer antigen-specific T-cells.\n\nTo make stored specimens and/or data available to approved research laboratories and investigators.\n\nEligibility:\n\nPatients enrolled on the National Cancer Institute Surgery Branch (NCI-SB) Cell Harvest protocol 03-C-0277 (Cell Harvest and Preparation for Surgery Branch Adoptive Cell Therapy Protocols).\n\nPatients willing to be consented on this protocol.\n\nDesign:\n\nCells and tissue obtained previously under protocol 03-C-2077.\n\nReprogramming of cells and tissue into iPSC lines.\n\nDerivation of iPSC lines into T-cells and iPSC progeny capable of supporting T-cell differentiation.\n\nGeneration of an iPSC-derived thymic organoid.\n\nScreening of tumor antigen specificity for regenerated T-cells.\n\nIn vivo analysis of regenerated T-cells."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Gastrointestinal Cancers",
+          "Breast Cancer",
+          "Pancreatic Cancer",
+          "Melanoma",
+          "Lung Cancer"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Blood",
+          "Tissue",
+          "Immunotherapy",
+          "Tumor",
+          "Somatic"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Retrospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "Peripheral blood lymphocytes, tumor-infiltrating lymphocytes, tissue"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "98",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "1/Cancer Patients",
+            "ArmGroupDescription": "Patients with a cancer diagnosis enrolled on protocol 03-C-0277"
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Production of cancer antigen-specific T-cells",
+            "PrimaryOutcomeDescription": "Reprogram patient specimens into induced pluripotent stem cells (iPSC) and differentiate them into different types of somatic cells",
+            "PrimaryOutcomeTimeFrame": "Approximately 10 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Availability of stored specimens and/or data",
+            "PrimaryOutcomeDescription": "Availability of stored specimens and/or data to approved research laboratories and investigators",
+            "PrimaryOutcomeTimeFrame": "Approximately 10 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "INCLUSION CRITERIA:\nPatients with a cancer diagnosis enrolled on protocol 03-C-0277.\nWilling and able to provide informed consent\nPatients must be greater than or equal to 15 years of age.\n\nEXCLUSION CRITERIA:\n\n-Healthy donors enrolled on protocol 03-C-0277.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "15 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Patients with a cancer diagnosis enrolled on protocol 03-C-0277",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Steven A Rosenberg, M.D.",
+            "OverallOfficialAffiliation": "National Cancer Institute (NCI)",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "National Institutes of Health Clinical Center",
+            "LocationCity": "Bethesda",
+            "LocationState": "Maryland",
+            "LocationZip": "20892",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "23290140",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Nishimura T, Kaneko S, Kawana-Tachikawa A, Tajima Y, Goto H, Zhu D, Nakayama-Hosoya K, Iriguchi S, Uemura Y, Shimizu T, Takayama N, Yamada D, Nishimura K, Ohtaka M, Watanabe N, Takahashi S, Iwamoto A, Koseki H, Nakanishi M, Eto K, Nakauchi H. Generation of rejuvenated antigen-specific T cells by reprogramming to pluripotency and redifferentiation. Cell Stem Cell. 2013 Jan 3;12(1):114-26. doi: 10.1016/j.stem.2012.11.002."
+          },
+          {
+            "ReferencePMID": "23290135",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Vizcardo R, Masuda K, Yamada D, Ikawa T, Shimizu K, Fujii S, Koseki H, Kawamoto H. Regeneration of human tumor antigen-specific T cells from iPSCs derived from mature CD8(+) T cells. Cell Stem Cell. 2013 Jan 3;12(1):31-6. doi: 10.1016/j.stem.2012.12.006."
+          },
+          {
+            "ReferencePMID": "23684540",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Parent AV, Russ HA, Khan IS, LaFlam TN, Metzger TC, Anderson MS, Hebrok M. Generation of functional thymic epithelium from human embryonic stem cells that supports host T cell development. Cell Stem Cell. 2013 Aug 1;13(2):219-29. doi: 10.1016/j.stem.2013.04.004. Epub 2013 May 16."
+          }
+        ]
+      },
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "NIH Clinical Center Detailed Web Page",
+            "SeeAlsoLinkURL": "https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2018-C-0043.html"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000005770",
+            "ConditionMeshTerm": "Gastrointestinal Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004067",
+            "ConditionAncestorTerm": "Digestive System Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10324",
+            "ConditionBrowseLeafName": "Lung Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10680",
+            "ConditionBrowseLeafName": "Melanoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4372",
+            "ConditionBrowseLeafName": "Breast Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12262",
+            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8038",
+            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+            "ConditionBrowseLeafAsFound": "Gastrointestinal Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6408",
+            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4387",
+            "ConditionBrowseLeafName": "Pancreatic Cancer",
+            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05116761",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "DB-EF-POSTCOVID-0002"
+      },
+      "Organization": {
+        "OrgFullName": "Direct Biologics, LLC",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "ExoFlo™ Infusion for Post-Acute COVID-19 and Chronic Post-COVID-19 Syndrome",
+      "OfficialTitle": "Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles Infusion Treatment for Post-Acute and Chronic Post-COVID-19 Syndrome: A Phase I/II Clinical Trial"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 9, 2021",
+      "StudyFirstSubmitQCDate": "November 9, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 11, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 23, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 6, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Direct Biologics, LLC",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a Phase I/II trial to evaluate the safety and efficacy of intravenous (IV) administration of bone marrow mesenchymal stem cell derived extracellular vesicles (EV), ExoFlo, as treatment for Post-Acute COVID-19 and Chronic Post-COVID-19 syndrome.",
+      "DetailedDescription": "To evaluate the safety and efficacy of intravenous (IV) administration of bone marrow mesenchymal stem cell derived extracellular vesicles (EV), ExoFlo, as treatment for Post-Acute COVID-19 and Chronic Post-COVID-19 syndrome."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Covid19",
+          "Postviral Syndrome",
+          "Dyspnea"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignMaskingDescription": "Double-blinded",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Treatment Arm 1",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Normal Saline 100 mL",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Saline"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Treatment Arm 2",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Normal saline 85 mL and ExoFlo 15 mL, which is 10.5 x 10^8 EV",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles",
+            "InterventionDescription": "Intravenous administration of Bone Marrow Mesenchymal Stem Cell Derived Extracellular Vesicles",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment Arm 2"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Saline",
+            "InterventionDescription": "Placebo Saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment Arm 1"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Increased distance on Six Minute Walk Test (6MWT)",
+            "PrimaryOutcomeDescription": "Meters walked in a self-paced test in which the subject is instructed to walk as fast as possible during 6 minutes.",
+            "PrimaryOutcomeTimeFrame": "61 Days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of Serious Adverse Events (SAEs)",
+            "PrimaryOutcomeDescription": "Rate of SAEs observed over the duration of the study.",
+            "PrimaryOutcomeTimeFrame": "61 Days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "EuroQol-5D (EQ-5D)",
+            "SecondaryOutcomeDescription": "Five dimensions include mobility, self-care, usual activities, pain/discomfort, and anxiety/depression",
+            "SecondaryOutcomeTimeFrame": "61 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Medical Research Council (MRC) Dyspnea Scale",
+            "SecondaryOutcomeDescription": "Degree of breathlessness related to activity, graded 1-5.",
+            "SecondaryOutcomeTimeFrame": "61 Days"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "C-Reactive Protein (CRP), D-dimer, Atrial Natriuretic Peptides (ANP)",
+            "OtherOutcomeDescription": "Acute phase reactants",
+            "OtherOutcomeTimeFrame": "61 Days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nProvision of signed and dated informed consent form (either by the individual or by the individual's healthcare proxy).\nStated willingness to comply with all study procedures and availability for the duration of the study\nMale or female aged 18-85.\nDischarged from recent hospitalization for severe COVID-19 disease requiring supplemental oxygen but not requiring mechanical ventilation or ECMO or dialysis.\nMust be between 4 to 20 weeks since onset of acute COVID-19 symptoms onset.\nNo return to baseline health or hiatus between acute COVID-19 and onset of post-acute COVID-19 or chronic post-COVID-19 syndrome.\nCurrent SARS-CoV-2 RT PCR must be negative prior to enrollment.\nAt least 2 or more persistent symptoms frequently reported for post-acute COVID-19 or chronic post-COVID-19 syndrome such as fatigue, cough, headache, body aches, fever, chills, loss of taste, loss of smell, diarrhea, congestion, dyspnea, sore throat, chest pain, abdominal pain, confusion, or vomiting must be moderate in severity based on modified CDC Symptoms Questionnaire (See Section 11.1 for severity scoring system).\nMedical Resource Council Dyspnea Score of < 3 out of 5.\nBaseline EQ-5D-5L must be higher than 21211. (Of note: EQ-5D-5L has 5 dimensions: mobility, self-care, usual activities, pain/discomfort, anxiety/depression. Each dimension is scored from 1 (full) to 5 (worst), such that a score of 11111 is reflective of full quality-of-life and a score of 55555 is reflective of worst quality-of-life.)\nBaseline 6-Minute Walk Test (6-MWT) is 500 meters or less.\nSupplemental oxygen should be ≤5 L O2/min.\nIf the candidate is either male or female of reproductive potential, he or she must agree to use of double barrier method of highly effective birth control contraception such as condoms with oral contraceptive pill or choose to remain abstinent if already practicing abstinence during the screening period. The duration of required usage of double barrier method OR maintenance of abstinence must include the time from the beginning of the screening period until 90 days following the last dose of the study treatment.\n\nExclusion Criteria:\n\nVulnerable populations such as pregnant patients, children, individuals with severe physical or mental disabilities who cannot provide meaningful consent.\nActive malignancy requiring treatment within the last five years.\nMajor physical trauma in the last 3 months, including motor vehicle accidents, assaults, mechanical falls with sequelae of significant bleeding or craniofacial bruising, and surgeries.\nPatients with persistent symptoms due to any of the following chronic comorbidities such as active tuberculosis or cystic fibrosis, chronic respiratory disease including chronic obstructive pulmonary disease or pulmonary fibrosis requiring baseline home oxygen > 5 L O2/min, history of unstable angina or a heart attack during the last 12 months, pulmonary hypertension, hepatic impairment, chronic kidney disease, uncontrolled diabetes, substance abuse, severe osteoarthritis, HIV, migraine disorder, fibromyalgia, dementia, connective tissue disorders, and endocrine disorders.\nDepression as screened by positive Patient Health Questionnaire (PHQ2) and confirmed as moderate or higher severity on PHQ9 (See Appendix 11.5). Of note, subjects found to have moderate or higher on PHQ-9 will be referred for appropriate outpatient psychiatric evaluation and intervention for their depression.\nVital sign abnormalities: temperature ≥ 38 °C, temperature < 35 °C; systolic blood pressure (SBP) < 90 mmHg, SBP ≥ 170 mmHg; diastolic blood pressure (DBP) < 50 mmHg, DBP ≥ 100 mmHg; heart rate (HR) < 50 beats per minute (BPM), HR ≥ 120 BPM.\nLab abnormalities: WBC ≥ 12,000 /μL, Creatinine ≥ 1.5 mg/dL, AST ≥ 100 IU/l, and/or ALT ≥ 100 IU/I\nPatients who require rolling walker or wheelchair or higher level of assistance for ambulation.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "85 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Heidi Moran",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "800-791-1021",
+            "CentralContactEMail": "hmoran@directbiologics.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Vikram Sengupta, MD",
+            "OverallOfficialAffiliation": "Direct Biologics",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000004417",
+            "ConditionMeshTerm": "Dyspnea"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000012818",
+            "ConditionAncestorTerm": "Signs and Symptoms, Respiratory"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6743",
+            "ConditionBrowseLeafName": "Dyspnea",
+            "ConditionBrowseLeafAsFound": "Dyspnea",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14775",
+            "ConditionBrowseLeafName": "Signs and Symptoms, Respiratory",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

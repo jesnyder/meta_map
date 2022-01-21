@@ -1,0 +1,450 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04847739",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "STOMP-II"
+      },
+      "Organization": {
+        "OrgFullName": "Avobis Bio, LLC",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Seeded Cells on Matrix Plug Treating Crohn's Perianal Fistulas (STOMP-II)",
+      "OfficialTitle": "Seeded Cells on Matrix Plug Treating Crohn's Perianal Fistulas (STOMP-II)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 2022",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2025",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 1, 2021",
+      "StudyFirstSubmitQCDate": "April 14, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 19, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 1, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 15, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Avobis Bio, LLC",
+        "LeadSponsorClass": "INDUSTRY"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Alimentiv Inc.",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "A Phase II study to assess the safety and efficacy of AVB-114 in treatment of complex Crohn's perianal fistulas in subjects with quiescent rectal disease and whose fistula has failed to respond to biologic or conventional therapy. Combined remission of treated perianal fistula in the investigational treatment arm will be compared to a standard of care control arm.\n\nThe study has 2 parts:\n\nPart 1: All required study visits for subjects who initially receive study treatment and those who receive standard of care therapy (control arm).\n\nPart 2: Subjects who are enrolled in the control arm may receive treatment with AVB-114 following week 36. Those subjects then will be followed as specified in the clinical protocol.",
+      "DetailedDescription": "AVB-114 is an investigational therapy which offers a new therapeutic approach to treating this unmet medical need. The drug product is a mesenchymal cell substrate system comprised of autologous mesenchymal cells incubated with a 3-dimensional bioabsorbable substrate. The drug substance is expanded, pure mesenchymal stem cells (MSC) which are known to modulate local inflammation and orchestrate tissue healing. By incubating cells with a 3-dimensional bioabsorbable substrate designed for anal fistula geometry, cells are locally delivered into the fistula tract to promote healing."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Perianal Fistula",
+          "Crohn's Disease"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Matrix plug",
+          "Mesenchymal stem cells",
+          "Fistula plug",
+          "Refractory",
+          "Recurrent",
+          "STOMP",
+          "Autologous"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Standard of Care Treatment + AVB-114",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects receive the standard of care treatment (seton placement) prior to Day 0, when it is removed and the AVB-114 study treatment is inserted.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Seton Placement",
+                "Drug: AVB-114"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Standard of Care Treatment",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Subjects receive the standard of care treatment (seton placement) prior to Day 0, when it is removed and then replaced.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Seton Placement"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Seton Placement",
+            "InterventionDescription": "This treatment consists of inserting a seton (a soft flexible tube or nonabsorbable string) into the subject's perianal fistula. The seton will be removed by a study doctor at study visits as applicable.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Standard of Care Treatment",
+                "Standard of Care Treatment + AVB-114"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "AVB-114",
+            "InterventionDescription": "AVB-114 consists of stem cells taken from a subject's fat tissue seeded into a bioabsorbable plug. AVB-114 will be inserted into the subject's fistula by a study doctor on Day 0.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Standard of Care Treatment + AVB-114"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change in proportions of subjects with combined remission of treated perianal fistula between the AVB-114 and standard of care groups.",
+            "PrimaryOutcomeTimeFrame": "36 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change in proportions of subjects with fistula clinical remission between the AVB-114 and standard of care groups.",
+            "SecondaryOutcomeTimeFrame": "Week 12 to Week 104"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in the means of durability of clinical remission between the AVB-114 and standard of care groups.",
+            "SecondaryOutcomeDescription": "Length of time fistula meets clinical remission definition.",
+            "SecondaryOutcomeTimeFrame": "Week 12 to Week 104"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in means of time to clinical remission between the AVB-114 and standard of care groups.",
+            "SecondaryOutcomeTimeFrame": "Week 12 to Week 104"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in proportions of subjects with fistula relapse between the AVB-114 and standard of care groups.",
+            "SecondaryOutcomeTimeFrame": "Week 12 to Week 104"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in means of time to fistula relapse between the AVB-114 and standard of care groups.",
+            "SecondaryOutcomeTimeFrame": "Week 12 to Week 104"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in proportions of radiologic response of treated fistula between the AVB-114 and standard of care groups.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Week 12 to Week 52"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in means of disease activity index scores using the Perianal Disease Activity Index (PDAI) between the AVB-114 and standard of care groups.",
+            "SecondaryOutcomeDescription": "Perianal Disease Activity Index (PDAI). Possible scores range from 0-20, with a higher score indicating more severe perianal disease activity",
+            "SecondaryOutcomeTimeFrame": "Baseline, Week 36"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in means of disease activity index scores using the short Crohn's Disease Activity Index (sCDAI) between the AVB-114 and standard of care groups.",
+            "SecondaryOutcomeDescription": "Short Crohn's Disease Activity Index (sCDAI). Possible scores range from 44 to >450, with a higher score representing more severe disease activity",
+            "SecondaryOutcomeTimeFrame": "Baseline, Week 36"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in means of patient quality of life assessment scores using the Euroqol 5 Diumention 5, level measure of health status (Eq-5Q-5L) between the AVB-114 and standard of care groups.",
+            "SecondaryOutcomeDescription": "Euroqol 5 Dimension 5, level measure of health status (EQ-5D-5L). The scale ranges in scores from 0 to 100, with a higher score indicating a more severe health status.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Week 36"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in means of patient quality of life assessment scores using the Inflammatory Bowel Disease Questionnaire (IBDQ) between the AVB-114 and standard of care groups.",
+            "SecondaryOutcomeDescription": "Inflammatory Bowel Disease Questionnaire (IBDQ). Possible scores range from 32-224, with a higher score indicating a better health-related quality of life.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Week 36"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in patient assessment of impact to daily functionality related to treated fistula between the AVB-114 and standard of care groups.",
+            "SecondaryOutcomeDescription": "Days of missed work or activity and reason why will be captured.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Week 12 to Week 36"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in the evaluations of patient care trajectory related to treated fistula between the AVB-114 and standard of care groups.",
+            "SecondaryOutcomeDescription": "Number and type of healthcare resources utilized will be captured.",
+            "SecondaryOutcomeTimeFrame": "Week 12 to Week 36"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in number of adverse events between the AVB-114 and standard of care groups.",
+            "SecondaryOutcomeTimeFrame": "Day 1 to Week 104"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in number of serious adverse events between the AVB-114 and standard of care groups.",
+            "SecondaryOutcomeTimeFrame": "Day 1 to Week 104"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nProvision of signed and dated ICF.\nAbility and willingness to comply with study protocol and study requirements for the duration of the study.\nMale or female, 18-70 years of age\nSubjects with CD diagnosed at least 6 months prior to screening visit.\nSubjects with a single fistula tract with one internal opening and one external opening, including a previously performed conversion of a branching fistula tract to a single fistula tract where the branching occurred outside the sphincter complex.\nSubjects whose perianal fistula(s) were previously treated with either biologic or conventional therapy whose fistula has demonstrated a failed response or who have documented medication intolerance.\nWomen of childbearing potential (WCBP) must have negative serum pregnancy test at screening (sensitive to 25 IU human chorionic gonadotropin). WCBP participating in this study must agree to use an adequate method of contraception during the entire duration of the study. Males who have sexual partners that are women of childbearing potential must be willing to use a barrier method for contraception for the duration of study.\n\nExclusion Criteria:\n\nClinically significant medical conditions within the six months before screening that would, in the opinion of the investigator, compromise the safety of the subject with study participation and/or the ability of the subject to follow study protocol.\nEvidence of hepatitis B, C, or HIV or subjects with congenital or acquired immunodeficiencies.\nParticipation in an investigational drug study (within 30 days of last administration from screening visit) or investigational medical device study (within 1 year of implant from screening visit) where investigational treatment (drug or device) is placed in rectum, vagina, or near fistula location, or that may potentially interact with study treatment.\nHistory (within previous 5 years of screening visit) of invasive cancer including melanoma (with the exception of localized skin cancers).\nSubjects pregnant, trying to become pregnant, or are breast feeding.\nSubjects with contraindications to Magnetic Resonance (MR) evaluations and/or to MR contrast.\nHistory of clinically significant fat-directed autoimmunity.\nConcomitant recto-vaginal fistula\nConcomitant ileal anal pouch perineal fistulas.\nActive, unresolved infection requiring parenteral antibiotics.\nAny major surgery of the gastrointestinal tract (including one or more segments of the colon or terminal ileum) within 3 months prior to screening visit. Presence of stoma is not exclusionary.\nSubjects who had a definitive surgical procedure for the target fistula or a perianal procedure that resulted in a large soft tissue defect within 6 months prior to screening visit.\nA compromised abdominal region due to a previous cool sculpting procedure, abdominal radiation, chemotherapy, recent tattoos, local infection, or other reasons that may compromise the adipose tissue for study use.\nSubjects previously treated with Cx601/Alofisel or other allogeneic or autologous stem-cell therapy within the past 6 months.\nContraindications to the anesthetic procedure (local and general) or to the adipose tissue collection procedure.\n\nSubjects with one or more of the following fistula types or anatomic presentations:\n\nHorseshoe fistulas\nFistulas that do not have an opening inside the anal canal or low rectum\nBlind ending sinus tracts (no external opening)\nBranching fistulas that involve or are near the sphincter complex and cannot be converted to single tracts without risk to injury to the sphincter complex\n>1 internal opening\nModerate or severe proctitis\nSevere rectal mucosal fibrosis surrounding the internal opening preventing the securing of the fistula plug cap.\nAny anatomical limitation to successfully securing the fistula plug cap\nEvidence by colonoscopy of moderately or greater active luminal CD.\nSubject with ongoing systemic or rectal steroids for CD in the last 2 weeks prior to screening and baseline study visits.\nHistory of, or concurrent high-grade dysplasia, adenocarcinoma, and carcinoma in situ on colonoscopy within 5 years of screening visit.\nSubjects with renal insufficiency (creatinine value > 1.8 mg/dL, eGFR < 44, or patient undergoing dialysis).\nSubjects with a hemoglobin less than 8 gm/dL.\nSubjects with serum aspartate transaminase (AST) or alanine transaminase (ALT) > 2 times the upper limit of normal (ULN).\nSubjects with undrained peri-anal sepsis.\nSubjects with known coagulopathy (abnormal INR) or thrombocytopenia as indicated by a platelet count < 75,000.\nSubjects with history of substance abuse (drug or alcohol) that would interfere with the ability to comply with the study protocol and study requirements.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Louie Cabigao",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "(226) 270-7868",
+            "CentralContactEMail": "STOMP2PM@alimentiv.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Joan Morris",
+            "OverallOfficialAffiliation": "Alimentiv Inc.",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mayo Clinic",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Rochester",
+            "LocationState": "Minnesota",
+            "LocationZip": "55905",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Papadakis Konstantinos, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "507-266-0873",
+                  "LocationContactEMail": "Papadakis.Konstantinos@mayo.edu"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003424",
+            "ConditionMeshTerm": "Crohn Disease"
+          },
+          {
+            "ConditionMeshId": "D000012003",
+            "ConditionMeshTerm": "Rectal Fistula"
+          },
+          {
+            "ConditionMeshId": "D000005402",
+            "ConditionMeshTerm": "Fistula"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000015212",
+            "ConditionAncestorTerm": "Inflammatory Bowel Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005759",
+            "ConditionAncestorTerm": "Gastroenteritis"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007410",
+            "ConditionAncestorTerm": "Intestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000020763",
+            "ConditionAncestorTerm": "Pathological Conditions, Anatomical"
+          },
+          {
+            "ConditionAncestorId": "D000007412",
+            "ConditionAncestorTerm": "Intestinal Fistula"
+          },
+          {
+            "ConditionAncestorId": "D000016154",
+            "ConditionAncestorTerm": "Digestive System Fistula"
+          },
+          {
+            "ConditionAncestorId": "D000012002",
+            "ConditionAncestorTerm": "Rectal Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M7684",
+            "ConditionBrowseLeafName": "Fistula",
+            "ConditionBrowseLeafAsFound": "Fistula",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5790",
+            "ConditionBrowseLeafName": "Crohn Disease",
+            "ConditionBrowseLeafAsFound": "Crohn's Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13997",
+            "ConditionBrowseLeafName": "Rectal Fistula",
+            "ConditionBrowseLeafAsFound": "Perianal Fistula",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9596",
+            "ConditionBrowseLeafName": "Intestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17069",
+            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8027",
+            "ConditionBrowseLeafName": "Gastroenteritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21672",
+            "ConditionBrowseLeafName": "Pathological Conditions, Anatomical",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9598",
+            "ConditionBrowseLeafName": "Intestinal Fistula",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17768",
+            "ConditionBrowseLeafName": "Digestive System Fistula",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13996",
+            "ConditionBrowseLeafName": "Rectal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

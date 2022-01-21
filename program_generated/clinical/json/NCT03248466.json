@@ -1,0 +1,463 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03248466",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "endocrine department of TMMU"
+      },
+      "Organization": {
+        "OrgFullName": "Third Military Medical University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "PRG Combined With Autologous BMMSCs for Treatment of Diabetic Foot Ulcer",
+      "OfficialTitle": "Transplantation of Autologous Platelet Rich Gel Combined With Autologous Bone Marrow Mesenchymal Stem Cells for Treatment of Diabetic Foot Ulcer"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2017",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 30, 2017",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 1, 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 1, 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "August 9, 2017",
+      "StudyFirstSubmitQCDate": "August 11, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 14, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 11, 2017",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 14, 2017",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Wu Qinan",
+        "ResponsiblePartyInvestigatorTitle": "Doctor",
+        "ResponsiblePartyInvestigatorAffiliation": "Third Military Medical University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Third Military Medical University",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "To investigate the treatment effect between Traditional treatment and transplantation of autologous PRG combined with autologous BMMSCs for treatment of diabetic foot ulcer.",
+      "DetailedDescription": "60 diabetic foot ulcer in our hospital will divide into 3 groups: group A (20 diabetic foot ulcer who give Traditional treatment), group B (20 diabetic foot ulcer who give Traditional treatment and transplantation of autologous platelet rich gel)，group C (20 diabetic foot ulcer who give Traditional treatment and transplantation of autologous platelet rich gel combined with autologous bone marrow mesenchymal stem cells). The age, height, weight, blood glucose, glycosylated hemoglobin A1c（HbA1c）, lipid, blood pressure, course of disease, Wound healing rate,transcutaneous oxygen pressure,Amputation rate,Hospital stay will record respectively. And High-sensitive C-reactive protein (HsCRP) and Tumor necrosis factor-α（TNF-α） will detect as Baseline. After each group's treatment, Change from baseline of all indexes will record, one way Analysis of Variance will be analyzed the significantion among 3 groups."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Diabetic Foot Ulcer"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "platelet rich gel",
+          "BMMSCs",
+          "diabetic foot ulcer"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Early Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "diabetic foot ulcer which Wagner classification at 2-3 grade.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Traditional treatment",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Traditional treatment such as insulin,antidiabetes,dressing",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: PRG combined with BMMSCs transplantation"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "PRG combined with BMMSCs transplantation",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Traditional treatment such as insulin,antidiabetes,dressing and Autologous PRG combined with BMMSCs",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: PRG combined with BMMSCs transplantation"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "PRG treatment",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "Traditional treatment such as insulin,antidiabetes,dressing and Autologous PRG"
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "PRG combined with BMMSCs transplantation",
+            "InterventionDescription": "PRG combined with BMMSCs transplantation",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "PRG combined with BMMSCs transplantation",
+                "Traditional treatment"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "PRG"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Amputation rate",
+            "PrimaryOutcomeDescription": "Amputation rate up to 6 months",
+            "PrimaryOutcomeTimeFrame": "up to 6 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "hospital stay",
+            "PrimaryOutcomeDescription": "hospital stay",
+            "PrimaryOutcomeTimeFrame": "up to 6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Wound healing time",
+            "SecondaryOutcomeDescription": "Wound healing time",
+            "SecondaryOutcomeTimeFrame": "up to 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Transcutaneous oxygen partial pressure",
+            "SecondaryOutcomeDescription": "Transcutaneous oxygen partial pressure",
+            "SecondaryOutcomeTimeFrame": "Transcutaneous oxygen partial pressure up to 6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nDiabetic foot according to The Wagner is 2-3 graded;\n\nExclusion Criteria:\n\nType 1 diabetes mellitus,presence of autoimmune diabetes;\nGestational diabetes;\nPatients with heart, liver, or renal function impairment;presence of severe infections or cerebrovascular disease.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Southwest Hospital of the Third Military Medical University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Chongqing",
+            "LocationState": "Chongqing",
+            "LocationZip": "+86",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "wu qinan, doctor",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "13452867542",
+                  "LocationContactEMail": "wqn11@126.com"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Endocrine Department, the First Affiliated Hospital of the Third Military Medical University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Chongqing",
+            "LocationState": "Chongqing",
+            "LocationZip": "400038",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "qinan wu, master",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "02368765217",
+                  "LocationContactPhoneExt": "86",
+                  "LocationContactEMail": "wqn11@126.com"
+                },
+                {
+                  "LocationContactName": "qinan wu, master",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000017719",
+            "ConditionMeshTerm": "Diabetic Foot"
+          },
+          {
+            "ConditionMeshId": "D000016523",
+            "ConditionMeshTerm": "Foot Ulcer"
+          },
+          {
+            "ConditionMeshId": "D000014456",
+            "ConditionMeshTerm": "Ulcer"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000003925",
+            "ConditionAncestorTerm": "Diabetic Angiopathies"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007871",
+            "ConditionAncestorTerm": "Leg Ulcer"
+          },
+          {
+            "ConditionAncestorId": "D000012883",
+            "ConditionAncestorTerm": "Skin Ulcer"
+          },
+          {
+            "ConditionAncestorId": "D000012871",
+            "ConditionAncestorTerm": "Skin Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000048909",
+            "ConditionAncestorTerm": "Diabetes Complications"
+          },
+          {
+            "ConditionAncestorId": "D000003920",
+            "ConditionAncestorTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003929",
+            "ConditionAncestorTerm": "Diabetic Neuropathies"
+          },
+          {
+            "ConditionAncestorId": "D000005534",
+            "ConditionAncestorTerm": "Foot Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M16358",
+            "ConditionBrowseLeafName": "Ulcer",
+            "ConditionBrowseLeafAsFound": "Ulcer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19085",
+            "ConditionBrowseLeafName": "Diabetic Foot",
+            "ConditionBrowseLeafAsFound": "Diabetic Foot",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18071",
+            "ConditionBrowseLeafName": "Foot Ulcer",
+            "ConditionBrowseLeafAsFound": "Foot Ulcers",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6272",
+            "ConditionBrowseLeafName": "Diabetic Angiopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10035",
+            "ConditionBrowseLeafName": "Leg Ulcer",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14838",
+            "ConditionBrowseLeafName": "Skin Ulcer",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14826",
+            "ConditionBrowseLeafName": "Skin Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25157",
+            "ConditionBrowseLeafName": "Diabetes Complications",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6276",
+            "ConditionBrowseLeafName": "Diabetic Neuropathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7810",
+            "ConditionBrowseLeafName": "Foot Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9517",
+            "InterventionBrowseLeafName": "Insulin",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M172956",
+            "InterventionBrowseLeafName": "Insulin, Globin Zinc",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Hypo",
+            "InterventionBrowseBranchName": "Hypoglycemic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

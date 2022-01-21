@@ -1,0 +1,597 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02414269",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "15-007"
+      },
+      "Organization": {
+        "OrgFullName": "Memorial Sloan Kettering Cancer Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Malignant Pleural Disease Treated With Autologous T Cells Genetically Engineered to Target the Cancer-Cell Surface Antigen Mesothelin",
+      "OfficialTitle": "A Phase I/II Clinical Trial of Malignant Pleural Disease Treated With Autologous T Cells Genetically Engineered to Target the Cancer-Cell Surface Antigen Mesothelin"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 2015",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 2, 2015",
+      "StudyFirstSubmitQCDate": "April 9, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 10, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "October 29, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 1, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Bellicum Pharmaceuticals",
+            "CollaboratorClass": "INDUSTRY"
+          },
+          {
+            "CollaboratorName": "United States Department of Defense",
+            "CollaboratorClass": "FED"
+          }
+        ]
+      }
+    },
+    "OversightModule": {},
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this Phase I study is to test the safety of different doses of specially prepared immune cells (called \"T cells\") collected from blood. The Investigators want to find a safe dose of these modified T cells for patients who have malignant pleural disease. They want to find out what effects these T cells have on the patient and the cancer (MPD).\n\nPhase 2 part of the study, the investigators will test the dose in combination with another drug, pembrolizumab, to see what effects the study treatment has on malignant pleural mesothelioma.",
+      "DetailedDescription": "This is an open-label, dose-escalating, non randomized, single-center, phase I/II study of mesothelin-targeted T cells administered intrapleurally as an infusion in patients with a diagnosis (histologically or cytologically documented) of MPD from mesothelioma, lung cancer, or breast cancer. Patients receiving pembrolizumab in cohort 9 only includes patients with a diagnosis of mesothelioma. The total number of patients studied will depend on the number of dose levels tested, up to a maximum dose of 6×10^7 mesothelin-targeted T cells/kg or until the maximum tolerated dose (MTD) is reached. In Phase I of this study, we anticipate infusing a minimum of 4 and a maximum of 54 evaluable patients. The total number of enrolled patients in Phase II of this study depends on the number of observed responses and ranges from 13-21 evaluable patients, including 6 patients treated at the final dose in Phase I.\n\nFor patients who were treated and were removed from study, duplicate enrollment is permitted if it is determined the patients could receive benefit. If the patients meet all eligibility criteria, they may receive treatment in a higher dose level cohort. Patients who are re-treated with CAR T cell therapy will not be considered new accruals. Outcomes of re-treated patients will be analyzed separately.\n\nPatients may receive palliative radiotherapy for symptom management prior to or following the CAR T cell infusion. If a patient receives palliative radiotherapy, the study PI, treating Radiation Oncologist, and treating Medical Oncologist will decide whether to proceed with the infusion. Palliative radiotherapy must be completed at least 2 days prior to the administration of cyclophosphamide.\n\nPatients in cohort 9 and in the Phase II portion of the study will begin treatment with pembrolizumab 4 weeks (+3/-1 week window) after completing CAR T cell administration. Patients will receive 3 doses of pembrolizumab given on a recurring schedule followed by reassessment. Patients responding or deriving clinical benefit, without unacceptable toxicity, will be followed for up to 6 months after the first dose of pembrolizumab and may continue pembrolizumab. Patients who cannot receive all 6 doses of pembrolizumab at MSK will be followed and medical records including images will be obtained from the treating physician."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Malignant Pleural Disease",
+          "Mesothelioma",
+          "Metastases",
+          "Lung Cancer",
+          "Breast Cancer"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "modified T cells",
+          "cyclophosphamide",
+          "CAR T cells",
+          "15-007",
+          "CAR",
+          "immunotherapy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "113",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "modified T cells alone (without chemotherapy)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Following enrollment, leukapheresis product will be obtained in the blood donor facility at MSKCC and cryopreserved in the Cell Therapy and Cell Engineering Facility (CTCEF). Before protocol treatment, the leukapheresis product will be thawed, and T cell isolation, transduction, and expansion of iCasp928z T cells will be performed in the MSKCC CTCEF Facility. It is estimated that it will take approximately 3 to 6 weeks to generate T cells for treatment.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Genetic: iCasp9M28z T cell infusions"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "modified T cells with cyclophosphamide",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients will receive cyclophosphamide intravenously (at 1.5 g/m^2) , 2 - 7 (Day (-7) -(-2) days before T cell infusion. On Day 1 , patients will be admitted to the MSKCC Inpatient Service (if not already inpatients) for intravenous hydration, clinical monitoring, and blood work for immune monitoring. Standard MSKCC antiemetic therapy will be administered prior to chemotherapy to prevent nausea/vomiting. Administration of corticosteroids will be avoided as steroids may impede the efficacy of CAR T cells.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Genetic: iCasp9M28z T cell infusions",
+                "Drug: cyclophosphamide"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "CAR T cell and pembrolizumab",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Pembrolizumab 4 weeks (+3/-1 week window) after completing CAR T cell administration. Patients will receive 3 doses of pembrolizumab given on a recurring schedule followed by reassessment. Those responding or deriving clinical benefit, without unacceptable toxicity, will continue pembrolizumab. Patients will be followed weekly for the first four weeks. Patients in cohorts 9 and in Phase II will receive pembrolizumab 4 weeks(+3/- 1 week window) following CAR T cell administration.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: pembrolizumab"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Genetic",
+            "InterventionName": "iCasp9M28z T cell infusions",
+            "InterventionDescription": "Administration through the pleural catheter- On day 0 patients will be treated with genetically modified T cells. Thirty to 60 minutes before T cell infusion, patients will be given 650 mg of acetaminophen orally and 25- 50 mg of diphenhydramine orally or intravenously, to prevent infusion-related reactions. The genetically modified T cells will be infused for at least 15 minutes and no more than 2 hours through the indwelling pleural catheter depending on the volume of the T cells. A physician will be available during the infusion. Please note, during formulation of iCasp9M28z T cells, under or over estimation of CAR modified T Cells may occur. Patient may receive an altered fractionation of the total dose or up to 35% over or under total cell dose with approval of the PI. Patients who do not have enough cells to match the current dose cohort will be treated in the cohort in which they have cells available",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "modified T cells alone (without chemotherapy)",
+                "modified T cells with cyclophosphamide"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "cyclophosphamide",
+            "InterventionDescription": "Patients will receive cyclophosphamide intravenously (at 1.5 g/m^2)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "modified T cells with cyclophosphamide"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "pembrolizumab",
+            "InterventionDescription": "Pembrolizumab will be given as 200 mg flat dose infusion intravenously.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "CAR T cell and pembrolizumab"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Composite measure of severity and number of adverse events (AEs); changes in (clinical laboratory test findings (hematologic and chemistry); and physical examination. (Phase I)",
+            "PrimaryOutcomeDescription": "All AEs and laboratory toxicities will be graded using version 4 of the CTCAE.",
+            "PrimaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "PrimaryOutcomeMeasure": "clinical benefit rate (phase II)",
+            "PrimaryOutcomeDescription": "rate will be defined as the proportion of patients with a response of complete response (CR), partial response (PR), and stable disease (SD) as measured by mRECIST criteria.",
+            "PrimaryOutcomeTimeFrame": "at 12 weeks following the first dose of pembrolizumab"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Changes in serum levels of the biomarker soluble mesothelin related peptide (SMRP) (Phase I)",
+            "SecondaryOutcomeDescription": "Mesothelin is an immunogenic cell surface antigen, that is expressed at high levels in MPD and mesothelioma pleural fluid will be drained from the chest by thoracentesis or through a pleural catheter and will be preserved for analysis .",
+            "SecondaryOutcomeTimeFrame": "60 days (+/-5 days) after treatment"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with MPD aged ≥18 years\nKarnofsky performance status ≥70%\n\nPatients with malignant pleural disease (MPD), pathologically confirmed at MSKCC (radiographic confirmation is acceptable for screening phase eligibility), and defined as one of the following (patients who have not yet received treatment may enroll in the screening portion only):\n\nMalignant pleural mesothelioma - previously treated with at least one prior treatment regimen.\nNon-small cell lung cancer metastatic to the pleura-previously treated with at least one prior treatment regimen (chemotherapy or targeted agent) and documented progression of disease. Patients with disease outside of the pleura will be discussed among study PI and Co-PIs prior to considered eligible for the study. Disease outside of the pleura must not require any immediate therapy per PI's discretion.\nBreast cancer metastatic to the pleura- previously treated with at least one prior treatment regimen (chemotherapy or targeted agent) and documented progression of disease. Patients with disease outside of the pleura will be discussed among study PI and Co-PIs prior to be considered eligible for the study. Disease outside of the pleura must not require any immediate therapy per PI's discretion.\nOnly patients with a diagnosis of malignant pleural mesothelioma will be included in cohort 9 and in the Phase II portion of the study\n\nExpression of mesothelin must be confirmed by meeting one of the following criteria.\n\nMesothelin expression (>10% of the tumor expressing mesothelin) by immunohistochemical (IHC) analysis\nElevated serum SMRP levels (>1.0 nM/L).\nFree flowing pleural effusion requiring management by placement of a pleural catheter. Patients with a functional pleural catheter already in place are eligible for the study, as long as there are no clinical concerns of infection.\n\nOR\n\nNo free-flowing pleural effusion: an Interventional Radiologist has agreed that radiology-guided intrapleural or peritumoral injection of the CAR T cells is feasible.\nChemotherapy, targeted therapy (such as a tyrosine kinase inhibitor) or therapeutic radiotherapy must have been completed at least 14 days prior to administration of T cells. Continuation of hormonal therapy (ie for breast cancer) is acceptable. Prior immunotherapy with checkpoint blockade (i.e. PD1 inhibitor, PDL1 inhibitor or CTL4-antagonist or similar agent) must have been completed more than 1 month1prior to the T cell infusion.\nChemotherapy must have been completed at least 7 days prior to leukapheresis\nPalliative radiotherapy must be completed at least 2 days prior to administration of cyclophosphamide\nAny major thoracic (thoracotomy with lung or esophageal resection) or abdominal (laparotomy with organ resection) operation must have occurred at least 28 days before study enrollment. Patients who have undergone diagnostic VATS or laparoscopy can be included in the study.\nAll acute toxic effects of any previous therapeutic or palliative radiotherapy, chemotherapy, or surgical procedures must have resolved to grade I or lower according to CTCAE (version 4.0).\nLab requirements (hematology)\nWhite blood cell (WBC) count ≥3000 cells/mm3\nAbsolute neutrophil count ≥1500 neutrophils/mm3\nPlatelet count ≥100,000 platelets/mm3 Lab requirements (serum chemistry)\nBilirubin ≤ 1.5x upper limit of normal (ULN)\nSerum alanine aminotransferase and serum aspartate aminotransferase (ALT/AST) ≤.5x ULN\nSerum creatinine ≤ 1.5x ULN or Cr > 1.5x ULN, but calculated clearances of >60\nNegative screen for human immunodeficiency virus (HIV), hepatitis B virus (HBV) antigen, and hepatitis C virus (HCV). If testing was performed during the previous 3 months, there is no need to repeat testing, as long as documentation of results is provided to the study site. Subjects must receive counseling and sign a separate informed consent form for HIV testing.\nSubjects and their partners with reproductive potential must agree to use an effective form of contraception during the period of drug administration and for 4 weeks after completion of the last administration of the study drug. An effective form of contraception is defined as oral contraceptives plus 1 form of barrier or double-barrier method contraception (condom with spermicide or condom with diaphragm).\nSubjects must be able to understand the potential risks and benefits of the study and must be able to read and provide written, informed consent for the study\n\nExclusion Criteria:\n\nUntreated or active CNS metastases (progressing or requiring anticonvulsants or corticosteroids for symptomatic control); patients with a history of treated CNS metastases are eligible, provided that all of the following criteria are met:\n\nPresence of measurable or evaluable disease outside of the CNS;\nRadiographic demonstration of improvement upon completion of CNS-directed therapy and no evidence of interim progression between completion of CNS-directed therapy and the screening radiographic study;\nCompletion of radiotherapy ≥8 weeks prior to the screening radiographic study;\nDiscontinuation of corticosteroids and anticonvulsants ≥4 weeks prior to the screening radiographic study.\nNon-small cell lung cancer metastatic to the pleura that extends outside of the pleura requiring immediate therapy\nBreast cancer metastatic to the pleura that extends outside of the pleura requiring immediate therapy\nPrior history of seizure disorder\nPatients currently receiving treatment for concurrent active malignancy Continuation of hormonal therapy (i.e. for breast cancer) is acceptable. Prior immunotherapy with checkpoint blockade (i.e. PD1 inhibitor, PDL1 inhibitor or CTL4-antagonist or similar agent) must have been completed more than 1 month prior to the T cell infusion.\nAutoimmune or antibody-mediated disease, including but not limited to systemic lupus erythematosus, rheumatoid arthritis, ulcerative colitis, Crohn's disease, and temporal arteritis (Patients with a history of hypothyroidism will not be excluded)\nHistory of myocarditis or congestive heart failure (as defined by New York Heart Association Functional Classification III or IV), as well as unstable angina, serious uncontrolled cardiac arrhythmia, uncontrolled infection, or myocardial infarction 6 months prior to study entry\nSubjects with left ventricular ejection fraction (LVEF) less than 50%\nPatients with active interstitial lung disease (ILD)/pneumonitis or a history of ILD/pneumonitis requiring treatment with systemic steroids\nBaseline pulse oximetry is less than 92% on Room air\nPregnant or lactating women\nAn infection requiring antibiotic treatment within 7 days before the start of treatment (day 0)\nA requirement for daily systemic corticosteroids for any reason or a requirement for other immunosuppressive or immunomodulatory agents. Topical, nasal, and inhaled steroids are permitted.\nAdministration of live, attenuated vaccine within 8 weeks before the start of treatment (day 0) and throughout the study\nAny other medical condition that, in the opinion of the PI, may interfere with a subject's participation in or compliance with the study",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Marjorie Zauderer, MD",
+            "OverallOfficialAffiliation": "Memorial Sloan Kettering Cancer Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Memoral Sloan Kettering Basking Ridge (Consent and Follow-Up)",
+            "LocationCity": "Basking Ridge",
+            "LocationState": "New Jersey",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Memorial Sloan Kettering Monmouth (Consent and Follow-Up)",
+            "LocationCity": "Middletown",
+            "LocationState": "New Jersey",
+            "LocationZip": "07748",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Memorial Sloan Kettering Bergen (Consent and Follow-Up)",
+            "LocationCity": "Montvale",
+            "LocationState": "New Jersey",
+            "LocationZip": "07645",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Memorial Sloan Kettering Commack (Consent and Follow-Up)",
+            "LocationCity": "Commack",
+            "LocationState": "New York",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Memorial Sloan Kettering Westchester (Consent and Follow-Up)",
+            "LocationCity": "Harrison",
+            "LocationState": "New York",
+            "LocationZip": "10604",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Memorial Sloan Kettering Cancer Center (Consent and Follow-Up)",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10065",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Memorial Sloan Kettering Cancer Center",
+            "SeeAlsoLinkURL": "http://www.mskcc.org/"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008654",
+            "ConditionMeshTerm": "Mesothelioma"
+          },
+          {
+            "ConditionMeshId": "D000010995",
+            "ConditionMeshTerm": "Pleural Diseases"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000000236",
+            "ConditionAncestorTerm": "Adenoma"
+          },
+          {
+            "ConditionAncestorId": "D000009375",
+            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000018301",
+            "ConditionAncestorTerm": "Neoplasms, Mesothelial"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10324",
+            "ConditionBrowseLeafName": "Lung Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4372",
+            "ConditionBrowseLeafName": "Breast Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11459",
+            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10786",
+            "ConditionBrowseLeafName": "Mesothelioma",
+            "ConditionBrowseLeafAsFound": "Mesothelioma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2538",
+            "ConditionBrowseLeafName": "Mesothelioma, Malignant",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13037",
+            "ConditionBrowseLeafName": "Pleural Diseases",
+            "ConditionBrowseLeafAsFound": "Pleural Diseases",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2743",
+            "ConditionBrowseLeafName": "Adenoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11472",
+            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19598",
+            "ConditionBrowseLeafName": "Neoplasms, Mesothelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3584",
+            "ConditionBrowseLeafName": "Malignant Mesothelioma",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000003520",
+            "InterventionMeshTerm": "Cyclophosphamide"
+          },
+          {
+            "InterventionMeshId": "C000582435",
+            "InterventionMeshTerm": "Pembrolizumab"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000007166",
+            "InterventionAncestorTerm": "Immunosuppressive Agents"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018906",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+          },
+          {
+            "InterventionAncestorId": "D000000477",
+            "InterventionAncestorTerm": "Alkylating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000019653",
+            "InterventionAncestorTerm": "Myeloablative Agonists"
+          },
+          {
+            "InterventionAncestorId": "D000074322",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Immunological"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M289070",
+            "InterventionBrowseLeafName": "Pembrolizumab",
+            "InterventionBrowseLeafAsFound": "200",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M5879",
+            "InterventionBrowseLeafName": "Cyclophosphamide",
+            "InterventionBrowseLeafAsFound": "Months",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M2341",
+            "InterventionBrowseLeafName": "Acetaminophen",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M6490",
+            "InterventionBrowseLeafName": "Diphenhydramine",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M13420",
+            "InterventionBrowseLeafName": "Promethazine",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3403",
+            "InterventionBrowseLeafName": "Antiemetics",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9364",
+            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20095",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2972",
+            "InterventionBrowseLeafName": "Alkylating Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M1346",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Immunological",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Antipy",
+            "InterventionBrowseBranchName": "Antipyretics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Analg",
+            "InterventionBrowseBranchName": "Analgesics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "AAll",
+            "InterventionBrowseBranchName": "Anti-Allergic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "AnEm",
+            "InterventionBrowseBranchName": "Antiemetics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "CNSDep",
+            "InterventionBrowseBranchName": "Central Nervous System Depressants"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Gast",
+            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Derm",
+            "InterventionBrowseBranchName": "Dermatologic Agents"
+          }
+        ]
+      }
+    }
+  }
+}

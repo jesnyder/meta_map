@@ -1,0 +1,365 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02398604",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "20140718"
+      },
+      "Organization": {
+        "OrgFullName": "Longeveron Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Allogeneic hMSC Injection in Patients With Hypoplastic Left Heart Syndrome",
+      "OfficialTitle": "Allogeneic Human MEsenchymal Stem Cell (hMSC) Injection in Patients With Hypoplastic Left Heart Syndrome: An Open Label Pilot Study.",
+      "Acronym": "ELPIS"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2021",
+      "OverallStatus": "Terminated",
+      "WhyStopped": "Study was closed due to Sponsor switched to Longeveron. New Identifier is NTC03525418",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 2015"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 2019",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 2019",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "December 24, 2014",
+      "StudyFirstSubmitQCDate": "March 24, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 25, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "July 13, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 19, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Longeveron Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study is intended to evaluate the safety and feasibility of intramyocardial injection of allogeneic mesenchymal cells during the Bi-Directional Cavopulmonary Anastomosis (BDCPA) surgery for hypoplastic left heart syndrome (HLHS) pediatric patients.",
+      "DetailedDescription": "This is an open label study, intended as a safety and efficacy assessment prior to a full comparator study. In this Phase I study, cells administered will be delivered in 6-10 intramyocardial injections that will be tested in 20 patients and 10 patients will be controls with a total of 30 HLHS patients.\n\nA total of 30 patients with HLHS will be enrolled in a staged enrollment process. In this open-labeled study, a maximum of 20 patients will eventually receive intramyocardial injection of the allogeneic mesenchymal stem cells and 10 control patients with no cell injection. The enrollment of the patients will occur in two stages groups: Group A and Group B. In Group A, 10 consecutive HLHS patients will be initially enrolled in the allogenic MSCs treatment arm to determine feasibility and safety. After 6 months of the last enrolled patient in Group A, all Group A patients will be assessed in order to determine whether it is feasible and safe, including the harvesting, processing, and administering of the allogeneic MSCs. Thereafter, Group B will start enrolling a total of 20 HLHS patients which will be randomized to the treatment and control arms in a 1:1 ratio, respectively, in order to have 10 allogeneic MSCs-treated patient and 10 control patients. At the completion of this Phase I clinical study, the total enrolled cohort will be 20 patients treated with allogeneic MSCs and 10 patients in the control arm."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Hypoplastic Left Heart Syndrome"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Pediatrics",
+          "HLHS"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "20 patients and 10 patients will be controls with a total of 30 HLHS patients.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)",
+          "DesignMaskingDescription": "HLHS patients which will be randomized to the treatment and control arms in a 1:1 ratio"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "5",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Group A - Allo-hMSCs",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Group A: Fifteen (20) patients will be treated with Allogenic human mesenchymal stem cells (Allo-hMSCs): A concentration of 5 million cells/ml delivered in a dose of 2.5 x 10^5 cells per kg of recipient (5 million/20kg) Allo-hMSCs. The entire dose of the cells will be divided and delivered in 6-10 open intramyocardial injections during the BDCPA operation.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Allo-hMSCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group B",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Group B: Fifteen (10) patients will be treated with a placebo comparator. The placebo will be divided and delivered in 6-10 open intramyocardial injections during the BDCPA operation.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Allo-hMSCs",
+            "InterventionDescription": "Allogeneic Human Mesenchymal Stem Cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group A - Allo-hMSCs"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "stem cells; Allogeneic Human Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Placebo",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group B"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Placebo comparator"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Monitor major adverse cardiac events",
+            "PrimaryOutcomeDescription": "Monitoring of events includes death, sustained/symptomatic ventricular tachycardia requiring intervention with inotropic support, aggravation of heart failure, new myocardial infarction, unplanned cardiovascular operation for cardiac tamponade and infection in the first month after injection, and serially afterwards.",
+            "PrimaryOutcomeTimeFrame": "1 month after injection"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Composite Change from baseline in right ventricular function, right ventricular end-diastolic volume, right ventricular end-systolic volume, right ventricular end-systolic diameter and tricuspid regurgitation",
+            "SecondaryOutcomeDescription": "as measured by serial echocardiograms and MRI scans.",
+            "SecondaryOutcomeTimeFrame": "baseline, 24 weeks and 1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants with incidence of mortality or need for transplantation after the BDCPA operation",
+            "SecondaryOutcomeDescription": "Assessed through the number of participants with adverse events, hospitalizations, or transplantations.",
+            "SecondaryOutcomeTimeFrame": "One year after injections"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Composite Changes in somatic growth velocity over time (weight, height, head circumference) from the BDCPA operation",
+            "SecondaryOutcomeDescription": "Changes in weight, height, and head circumference will be measured",
+            "SecondaryOutcomeTimeFrame": "12 months post operative"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Assessment of Co-morbidity",
+            "SecondaryOutcomeDescription": "Assessment of cardiovascular mortality, all-cause morbidity, Cardiovascular morbidity, re-hospitalizations, need for transplantation.",
+            "SecondaryOutcomeTimeFrame": "up to 12 months follow-up"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSubjects with hypoplastic left heart syndrome (all types) requiring BDCPA surgery.\n\nExclusion Criteria:\n\nHave HLHS and restrictive or intact atrial septum.\nBe undergoing the Norwood procedure that do not have HLHS.\nHave significant coronary artery sinusoids.\nRequire mechanical circulatory support prior to surgery.\nHave an underlying evidence of arrhythmia requiring anti-arrhythmia therapy.\nParent or guardian unwilling or unable to comply with necessary follow-up(s)\nBe serum positive for HIV, hepatitis BsAg (B Surface Antigen) or viremic hepatitis C.\nBe unsuitable for inclusion in the study, in the opinion of the investigator.\nNeed for concomitant surgery for aortic coarctation or tricuspid valve repair.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MaximumAge": "30 Days",
+      "StdAgeList": {
+        "StdAge": [
+          "Child"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Anthony Oliva, MD",
+            "OverallOfficialAffiliation": "Longeveron Inc.",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Maryland Medical Center",
+            "LocationCity": "Baltimore",
+            "LocationState": "Maryland",
+            "LocationZip": "21201",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Johns Hopkins Hospital",
+            "LocationCity": "Baltimore",
+            "LocationState": "Maryland",
+            "LocationZip": "21287",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Interdisciplinary Stem Cell Institute",
+            "SeeAlsoLinkURL": "http://isci.med.miami.edu"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000018636",
+            "ConditionMeshTerm": "Hypoplastic Left Heart Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000006330",
+            "ConditionAncestorTerm": "Heart Defects, Congenital"
+          },
+          {
+            "ConditionAncestorId": "D000018376",
+            "ConditionAncestorTerm": "Cardiovascular Abnormalities"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000000013",
+            "ConditionAncestorTerm": "Congenital Abnormalities"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19878",
+            "ConditionBrowseLeafName": "Hypoplastic Left Heart Syndrome",
+            "ConditionBrowseLeafAsFound": "Hypoplastic Left Heart Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8570",
+            "ConditionBrowseLeafName": "Heart Defects, Congenital",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12",
+            "ConditionBrowseLeafName": "Congenital Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19656",
+            "ConditionBrowseLeafName": "Cardiovascular Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2957",
+            "ConditionBrowseLeafName": "Hypoplastic Left Heart Syndrome",
+            "ConditionBrowseLeafAsFound": "Hypoplastic Left Heart Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01394432",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "RBI-1749"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "RU8HM86-54N",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "State Research Institute of Circulation Pathology"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Meshalkin Research Institute of Pathology of Circulation",
+        "OrgClass": "NETWORK"
+      },
+      "BriefTitle": "\"ESTIMATION Study\" for Endocardial Mesenchymal Stem Cells Implantation in Patients After Acute Myocardial Infarction",
+      "OfficialTitle": "Endocardial Mesenchymal Stem Cells Implantation in Patients After Acute Myocardial Infarction",
+      "Acronym": "ESTIMATION"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2015",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 2011"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 2012",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 2016",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 8, 2011",
+      "StudyFirstSubmitQCDate": "July 13, 2011",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 14, 2011",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "September 21, 2015",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 23, 2015",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Meshalkin Research Institute of Pathology of Circulation",
+        "LeadSponsorClass": "NETWORK"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The investigators hypothesised that endocardial stem cells implantation following after percutaneous coronary intervention (PCI) could reduce the scar formation and increase reverse remodeling in patients with primary acute myocardial infarction."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Acute Myocardial Infarction",
+          "Heart Failure"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Endocardial Stem Cells Injection",
+          "Percutaneous Coronary Intervention"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "50",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Group 1 (PCI+SC implantation)",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Endocardial Stem cells implantation with Noga system",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: PCI and Stem Cells or Placebo injections"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group 2 (PCI+Placebo)",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Placebo",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: PCI and Stem Cells or Placebo injections"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "PCI and Stem Cells or Placebo injections",
+            "InterventionDescription": "Conventional percutaneous coronary intervention after acute myocardial infarction. Harvest of bone marrow from iliac crest. Mesenchymal autologous stem cells preparation (7-10 days after PCI). LV mapping with Noga system (7-10 days after PCI). Randomization 1:1. Stem Cells or placebo implantation.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group 1 (PCI+SC implantation)",
+                "Group 2 (PCI+Placebo)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Reduction in left ventricle systolic volume on 15% mesured by MRI",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "All-cause death",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "number of patients with thromboembolic events",
+            "SecondaryOutcomeDescription": "comparison the number of patients with thromboembolic events between two groups",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "number of heart failure hospitalizations",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Distance during 6-minute walking test",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "number of patients with life-threatening arrhythmias",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "BNP level",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "SPECT and Echo data",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with acute Q-wave myocardial infarction after thrombolitic therapy during 6-36 hours from the onsent of signs\nOclusion or significant stenosis of infarct-related left anterior descending artery (LAD)\nLeft ventricle ejection fraction (LVEF) < 50% measured by Echo\n\nExclusion Criteria:\n\nThrombolysis of pyrrolase or streptokinase\nSurgical unsignificant stenosis of LAD\nIndications for CABG\nCardiogenic shock\nUncontrolled hypertension\nThrombocytopenia\nOngoing bleeding\nAnemia < 100 g/l\nOncology\nPatients, who required anticoagulation therapy at the time of inclusion\nObesity, BMI>40\nSevere comorbidities\nUnwillingness to participate",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "30 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Evgeny Pokushalov, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+79139254858",
+            "CentralContactEMail": "E.Pokushalov@gmail.com"
+          },
+          {
+            "CentralContactName": "Alexander Romanov, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+79137172652",
+            "CentralContactEMail": "abromanov@mail.ru"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Evgeny A Pokushalov, MD, PhD",
+            "OverallOfficialAffiliation": "State Research Institute of Circulation Pathology",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "State Research Institute of Circulation Pathology",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Novosibirsk",
+            "LocationZip": "630055",
+            "LocationCountry": "Russian Federation",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Evgeny Pokushalov, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+79139254858",
+                  "LocationContactEMail": "E.Pokushalov@gmail.com"
+                },
+                {
+                  "LocationContactName": "Alexander Romanov, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+79137172652",
+                  "LocationContactEMail": "abromanov@mail.ru"
+                },
+                {
+                  "LocationContactName": "Evgeny Pokushalov, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Alexander Romanov, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Igor Grazhdankin, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009203",
+            "ConditionMeshTerm": "Myocardial Infarction"
+          },
+          {
+            "ConditionMeshId": "D000007238",
+            "ConditionMeshTerm": "Infarction"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007511",
+            "ConditionAncestorTerm": "Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000009336",
+            "ConditionAncestorTerm": "Necrosis"
+          },
+          {
+            "ConditionAncestorId": "D000017202",
+            "ConditionAncestorTerm": "Myocardial Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11307",
+            "ConditionBrowseLeafName": "Myocardial Infarction",
+            "ConditionBrowseLeafAsFound": "Myocardial Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9434",
+            "ConditionBrowseLeafName": "Infarction",
+            "ConditionBrowseLeafAsFound": "Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8573",
+            "ConditionBrowseLeafName": "Heart Failure",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11436",
+            "ConditionBrowseLeafName": "Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5698",
+            "ConditionBrowseLeafName": "Coronary Artery Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18658",
+            "ConditionBrowseLeafName": "Myocardial Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

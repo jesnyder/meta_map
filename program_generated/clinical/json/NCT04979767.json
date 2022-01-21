@@ -1,0 +1,383 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04979767",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "STUDY#00145638"
+      },
+      "Organization": {
+        "OrgFullName": "University of Kansas Medical Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Function of Circulating Exosomes in Sepsis-induced Immunosuppression",
+      "OfficialTitle": "Function of Circulating Exosomes in Sepsis-induced Immunosuppression"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 15, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 31, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 30, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 14, 2021",
+      "StudyFirstSubmitQCDate": "July 16, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 28, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "July 16, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 28, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Nicholas Britt",
+        "ResponsiblePartyInvestigatorTitle": "Assistant Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "University of Kansas Medical Center"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of Kansas Medical Center",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "University of Kansas",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a single-center prospective bio-specimen analysis and observational study aiming to define immune pathways disrupted in bacterial sepsis and to identify clinically useful biomarkers of immune status."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Sepsis",
+          "Septic Shock",
+          "Sepsis Syndrome",
+          "Sepsis Bacterial",
+          "Sepsis, Severe",
+          "Sepsis Bacteremia"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples Without DNA",
+        "BioSpecDescription": "Whole Blood, Plasma, PBMCs, Serum"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "80",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Sepsis",
+            "ArmGroupDescription": "I. ≥ 50 years with ≥ 2 chronic comorbidities II. Highly suspected bacterial infection based on clinical or radiologic evidence III. ≥ 2 systemic inflammatory response syndrome (SIRS) criteria IV. Actual/anticipated admission to intensive care unit (ICU) V. Anticipated length of hospital stay ≥ 5 days"
+          },
+          {
+            "ArmGroupLabel": "Control",
+            "ArmGroupDescription": "I. ≥ 50 years with ≥ 2 chronic comorbidities II. No suspected bacterial infection III. Actual/anticipated admission to intensive care unit (ICU) IV. Anticipated length of hospital stay ≥ 5 days"
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "28-day mortality",
+            "PrimaryOutcomeDescription": "All-cause mortality",
+            "PrimaryOutcomeTimeFrame": "From enrollment to 28 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Hospital mortality",
+            "SecondaryOutcomeDescription": "All-cause mortality",
+            "SecondaryOutcomeTimeFrame": "From enrollment until hospital discharge, up to 90 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "90-day mortality",
+            "SecondaryOutcomeDescription": "All-cause mortality",
+            "SecondaryOutcomeTimeFrame": "From enrollment to 90 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Length of stay",
+            "SecondaryOutcomeDescription": "Hospital length of stay",
+            "SecondaryOutcomeTimeFrame": "From enrollment until hospital discharge, up to 90 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of infection",
+            "SecondaryOutcomeDescription": "Time to resolution of infection",
+            "SecondaryOutcomeTimeFrame": "From enrollment until resolution of SIRS, up to 90 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\n≥ 50 years with ≥ 2 chronic comorbidities\nHighly suspected bacterial infection based on clinical or radiologic evidence\n≥ 2 systemic inflammatory response syndrome (SIRS) criteria\nActual/anticipated admission to intensive care unit (ICU)\nAnticipated length of hospital stay ≥ 5 days\n\nExclusion Criteria:\n\nPregnancy\nUnderlying immunosuppression (solid organ transplant, hematopoietic stem cell transplant, neutropenia, HIV infection, long-term corticosteroid use (≥ 20 mg prednisone equivalents for ≥ 14 days), immunosuppressants, radiation, chemotherapy, immune-modifying biologics, viral hepatitis, or systemic autoimmune diseases)\nCurrent immunotherapy use\nConfirmed COVID-19 infection",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "50 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Hospitalized adult patients admitted to the intensive care unit with sepsis",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Luigi R Boccardi, BS",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "913-588-4022",
+            "CentralContactEMail": "lboccardi@kumc.edu"
+          },
+          {
+            "CentralContactName": "Vaughn D Craddock, BS",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "316-708-7352",
+            "CentralContactEMail": "vcraddock2@kumc.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Nicholas S Britt, PharmD",
+            "OverallOfficialAffiliation": "University of Kansas Medical Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Kansas Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Kansas City",
+            "LocationState": "Kansas",
+            "LocationZip": "66160",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Luigi R Boccardi, BS",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "913-588-4022",
+                  "LocationContactEMail": "lboccardi@kumc.edu"
+                },
+                {
+                  "LocationContactName": "Vaughn D Craddock, BS",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "316-708-7352",
+                  "LocationContactEMail": "vcraddock2@kumc.edu"
+                },
+                {
+                  "LocationContactName": "Leslie A Spikes, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Navneet K Dhillon, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000018805",
+            "ConditionMeshTerm": "Sepsis"
+          },
+          {
+            "ConditionMeshId": "D000014115",
+            "ConditionMeshTerm": "Toxemia"
+          },
+          {
+            "ConditionMeshId": "D000016470",
+            "ConditionMeshTerm": "Bacteremia"
+          },
+          {
+            "ConditionMeshId": "D000018746",
+            "ConditionMeshTerm": "Systemic Inflammatory Response Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007249",
+            "ConditionAncestorTerm": "Inflammation"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000012769",
+            "ConditionAncestorTerm": "Shock"
+          },
+          {
+            "ConditionAncestorId": "D000001424",
+            "ConditionAncestorTerm": "Bacterial Infections"
+          },
+          {
+            "ConditionAncestorId": "D000001423",
+            "ConditionAncestorTerm": "Bacterial Infections and Mycoses"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18029",
+            "ConditionBrowseLeafName": "Bacteremia",
+            "ConditionBrowseLeafAsFound": "Bacteremia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M20017",
+            "ConditionBrowseLeafName": "Sepsis",
+            "ConditionBrowseLeafAsFound": "Sepsis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16021",
+            "ConditionBrowseLeafName": "Toxemia",
+            "ConditionBrowseLeafAsFound": "Sepsis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14732",
+            "ConditionBrowseLeafName": "Shock, Septic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14729",
+            "ConditionBrowseLeafName": "Shock",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19971",
+            "ConditionBrowseLeafName": "Systemic Inflammatory Response Syndrome",
+            "ConditionBrowseLeafAsFound": "Sepsis Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9445",
+            "ConditionBrowseLeafName": "Inflammation",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3874",
+            "ConditionBrowseLeafName": "Bacterial Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11288",
+            "ConditionBrowseLeafName": "Mycoses",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3873",
+            "ConditionBrowseLeafName": "Bacterial Infections and Mycoses",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04992832",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "DFSC-2018(CR)-08"
+      },
+      "Organization": {
+        "OrgFullName": "Shanghai East Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Multi-intravenous Infusion of Umbilical Cord Mesenchymal Stem Cells in Heart Failure With Reduced Ejection Fraction（PRIME-HFrEF Study）",
+      "OfficialTitle": "Multi-intravenous Infusion of Umbilical Cord Mesenchymal Stem Cells for Treatment in Heart Failure Patients With Reduced Ejection Fraction: A Randomized, Double Blind, Placebo-Controlled, Prospective Clinical Study",
+      "Acronym": "PRIME-HFrEF"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 28, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 31, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 13, 2021",
+      "StudyFirstSubmitQCDate": "July 29, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 5, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 10, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 18, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Shanghai East Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study is an exploratory clinical study to observe the safety and efficacy of the Intravenous Infusion of Umbilical Cord Mesenchymal Stem Cells in the heart failure patients with reduced ejection fraction. The study was a 12 months single center, randomized, double-blind, placebo-controlled trial that included 12 weeks of treatment, and 9 months of follow-up.",
+      "DetailedDescription": "The study was a 12-month single center, randomized, double-blind, placebo-controlled trial that included 12 weeks of treatment, and 9 months of follow-up.We plan to recruit 40 subjects，which were divided into experimental group and control group. The volunteers of the experimental group will be given peripheral intravenously infusion a dose of 1.0*10^6/kg human umbilical cord mesenchymal stem cell (HUC-MSC) respectively at 0,6,12 week. The control group will be given the same dose of 1 percent human serum albumin injection. Then centralization visit was conducted at 0,7 day, 6,12 week, 6 and 12 month. The primary end points include cardiac function improvement and adverse events."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Heart Failure, Systolic"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Human Umbilical Cord Mesenchymal Stem Cells",
+          "Heart Failure"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "experimental group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "The volunteers of the experimental group will be given peripheral intravenously a dose of 1.0*10^6/kg human umbilical cord mesenchymal stem cells at 0,6,12 week.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: human umbilical cord mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "control group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "The control group will be given the same dose of saline containing human albumin.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: human serum albumin"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "human umbilical cord mesenchymal stem cells",
+            "InterventionDescription": "Human umbilical cord mesenchymal stem cells were peripheral intravenous infused to experimental group.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "experimental group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "human serum albumin",
+            "InterventionDescription": "Saline solution containing 1 percent human serum albumin will be infused to the control group.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "control group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Left ventricular ejection fraction",
+            "PrimaryOutcomeDescription": "The change in Left ventricular ejection fraction (LVEF) % after the infusion.",
+            "PrimaryOutcomeTimeFrame": "Day 7, Day 43, Day 91, Day 180, Day 360"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Mortality",
+            "SecondaryOutcomeDescription": "The comparison of the mortality between the two groups.",
+            "SecondaryOutcomeTimeFrame": "12 month after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "NT-proBNP",
+            "SecondaryOutcomeDescription": "The change in NT-proBNP after the infusion.",
+            "SecondaryOutcomeTimeFrame": "Day 7, Day 43, Day 91, Day 180, Day 360"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Left ventricular end diastolic diameter",
+            "SecondaryOutcomeDescription": "The change in Left ventricular end diastolic diameter(LVEDD) after the infusion",
+            "SecondaryOutcomeTimeFrame": "Day 7, Day 43, Day 91, Day 180, Day 360"
+          },
+          {
+            "SecondaryOutcomeMeasure": "6 minutes walking distance",
+            "SecondaryOutcomeDescription": "The change in 6 minutes walking distance after the infusion.",
+            "SecondaryOutcomeTimeFrame": "Day 7, Day 43, Day 91, Day 180, Day 360"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Minnesota Living with Heart Failure Questionnaire（MLHFQ）",
+            "SecondaryOutcomeDescription": "The change in MLHFQ after the infusion.",
+            "SecondaryOutcomeTimeFrame": "Day 43, Day 91, Day 180, Day 360"
+          },
+          {
+            "SecondaryOutcomeMeasure": "PET/CMR",
+            "SecondaryOutcomeDescription": "The change in PET/CMR after the infusion",
+            "SecondaryOutcomeTimeFrame": "Day 43, Day 180"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nLVEF≤40％;\nNYHA II-IV;\nReceived maximally tolerated guideline-directed medical therapy ( GDMT) for at least 3 months before enrollment;\nAngiography or coronary CT within 6 months shows that there is no indication for PCI / CABG; Or PCI / CABG indications, but refused.\n\nExclusion Criteria:\n\nSevere valvular heart disease, congenital heart disease, acute viral myocarditis and acute coronary syndrome.\nPCI / CABG, ICD / permanent pacemaker / CRT implantation within 3 months.\nRecent cerebrovascular disease (<6 months).\neGFR<30ml/min, or ALT/AST>120U/L.\nHematologic disease: anemia (hemoglobin ≤9.0 g/dL); leukopenia (<3500/μL); thrombocytopenia (<70000/μL); myeloproliferative disorders, myelodysplastic syndrome, acute or chronic leukemia, and plasma cell dyscrasias (multiple myeloma, amyloidosis) .\nMalignant tumor within 5 years.\nLife expectancy <1 year according any disease.\nUncontrolled acute infectious diseases.\nKnown or suspected of being sensitive to the study drugs or its ingredients.\nNot suitable for inclusion according to the evaluation of the sponsors or unwilling to comply with the study protocol.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Zhongmin Liu, Doctor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86-021-3880451",
+            "CentralContactEMail": "liu.zhongmin@tongji.edu.cn"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Zhongmin Liu, Doctor",
+            "OverallOfficialAffiliation": "Shanghai East Hospital, Shanghai Tongji University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Heart Failure Department, East Hospital Affiliated to Tongji University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Shanghai",
+            "LocationState": "Shanghai",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Wei Han, Pro",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+862138804518",
+                  "LocationContactEMail": "dr.hanwei@foxmail.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006333",
+            "ConditionMeshTerm": "Heart Failure"
+          },
+          {
+            "ConditionMeshId": "D000054143",
+            "ConditionMeshTerm": "Heart Failure, Systolic"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M8573",
+            "ConditionBrowseLeafName": "Heart Failure",
+            "ConditionBrowseLeafAsFound": "Heart Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M26732",
+            "ConditionBrowseLeafName": "Heart Failure, Systolic",
+            "ConditionBrowseLeafAsFound": "Heart Failure, Systolic",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M26736",
+            "ConditionBrowseLeafName": "Systolic Murmurs",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

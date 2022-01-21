@@ -1,0 +1,375 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02982915",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "00-0000-03"
+      },
+      "Organization": {
+        "OrgFullName": "Longeveron Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Lomecel-B on Vaccine-Specific Antibody- Response in Subjects With Aging Frailty",
+      "OfficialTitle": "Effects of Intravenous Delivery of Lomecel-B on Vaccine-Specific Antibody Responses in Subjects With Aging Frailty",
+      "Acronym": "HERA"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 2016"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 17, 2016",
+      "StudyFirstSubmitQCDate": "December 1, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 6, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "December 13, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 3, 2022",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Longeveron Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a phase I/II, randomized, blinded and placebo-controlled study to test the safety and efficacy of Lomecel-B for improving vaccine immune response.",
+      "DetailedDescription": "A pilot phase will consist of a 3 subject safety run-in, followed by 20 subject randomized phase to evaluate influenza vaccine response at 1 week and 4 weeks post infusion of Lomecel-B (Formerly LMSCs). This will be followed by a double-blinded, randomized, placebo-controlled phase."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Aging Frailty"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "83",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Pilot Phase- Cohort A",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Single dose of 20 million Longeveron Mesenchymal Stem Cells (LMSCs) will be delivered followed by vaccination with Fluzone High-Dose at 1 week post-infusion.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Longeveron Mesenchymal Stem Cells (LMSCs)",
+                "Biological: Fluzone High Dose Vaccine"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Pilot Phase Cohort B & C",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Single dose of 100 million Longeveron Mesenchymal Stem Cells (LMSCs) followed by vaccination with Fluzone High-Dose at either 1 week (Cohort B) or 4 weeks (Cohort C) post infusion.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Longeveron Mesenchymal Stem Cells (LMSCs)",
+                "Biological: Fluzone High Dose Vaccine"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Double-Blind,Randomized,Placebo Phase",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "2 cohorts to receive a single infusion of 100 million Longeveron Mesenchymal Stem Cells (LMSCs) (Cohort A: 30 subjects) or placebo (Cohort B:30 subjects) followed by vaccination with Fluzone High-Dose.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Longeveron Mesenchymal Stem Cells (LMSCs)",
+                "Biological: Fluzone High Dose Vaccine"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Longeveron Mesenchymal Stem Cells (LMSCs)",
+            "InterventionDescription": "Intravenously delivered",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Double-Blind,Randomized,Placebo Phase",
+                "Pilot Phase Cohort B & C",
+                "Pilot Phase- Cohort A"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Lomecel-B"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Fluzone High Dose Vaccine",
+            "InterventionDescription": "Intramuscular injection",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Double-Blind,Randomized,Placebo Phase",
+                "Pilot Phase Cohort B & C",
+                "Pilot Phase- Cohort A"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "The incidence of any treatment-emergent serious adverse event (TE-SAE), defined as one or more of the following untoward medical occurrences within 30 days after infusion as assessed by the following:",
+            "PrimaryOutcomeDescription": "Is life-threatening (e.g., stroke or non-fatal pulmonary embolism).\nRequires inpatient hospitalization or prolongation of existing hospitalization.\nResults in persistent or significant disability/incapacity.\nResults in death\nResults in other clinically significant untoward laboratory test result(s) or medical condition(s), determined per Investigator's judgment.",
+            "PrimaryOutcomeTimeFrame": "30 days after infusion"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Prevention of the illness caused by any influenza viral type/subtype in association with influenza like symptoms:",
+            "PrimaryOutcomeDescription": "Number of participants with sore throat, cough, sputum production, wheezing or difficulty breathing concurrent with fever, chills, tiredness, headaches and myalgia.",
+            "PrimaryOutcomeTimeFrame": "Within 7 months after vaccination"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Changes from baseline between the LMSC and placebo cohorts as assessed by plasma cytokine levels:",
+            "SecondaryOutcomeDescription": "Plasma levels of interleukins measured in pg/mL.",
+            "SecondaryOutcomeTimeFrame": "Month 6 and month 12 after infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Differences in rate of decline from Aging Frailty",
+            "SecondaryOutcomeDescription": "Change in Clinical Frailty rating",
+            "SecondaryOutcomeTimeFrame": "Baseline, month 6 and month 12 after infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Assessed by the Falls Efficacy Scale-International and Performance Oriented Mobility Assessment",
+            "SecondaryOutcomeDescription": "Change in risk of falling",
+            "SecondaryOutcomeTimeFrame": "Baseline, month 6 and month 12 after infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "PROMIS Short Form 20a questionnaire",
+            "SecondaryOutcomeDescription": "Change in subject quality of life as assessed by participant-reported outcomes.",
+            "SecondaryOutcomeTimeFrame": "Baseline, month 6 and month 12 after infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "PROMIS Mobility questionnaire",
+            "SecondaryOutcomeDescription": "Change in subject quality of life as assessed by participant-reported outcomes.",
+            "SecondaryOutcomeTimeFrame": "Baseline, month 6 and month 12 after infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "PROMIS Upper Extremity questionnaire",
+            "SecondaryOutcomeDescription": "Change in subject quality of life as assessed by participant-reported outcomes.",
+            "SecondaryOutcomeTimeFrame": "Baseline, month 6 and month 12 after infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Short Form 36 questionnaire",
+            "SecondaryOutcomeDescription": "Change in subject quality of life as assessed by participant-reported outcomes.",
+            "SecondaryOutcomeTimeFrame": "Baseline, month 6 and month 12 after infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "IIEF questionnaire",
+            "SecondaryOutcomeDescription": "Change in subject quality of life as assessed by participant-reported outcomes.",
+            "SecondaryOutcomeTimeFrame": "Baseline, month 6 and month 12 after infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "SQOL-F questionnaire",
+            "SecondaryOutcomeDescription": "Change in subject quality of life as assessed by participant-reported outcomes.",
+            "SecondaryOutcomeTimeFrame": "Baseline, month 6 and month 12 after infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Death from any cause",
+            "SecondaryOutcomeDescription": "Number of participants that die from any cause while enrolled on the trial and after being treated with LMSCs.",
+            "SecondaryOutcomeTimeFrame": "Within 12 months after infusion"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nbe willing and able to provide written informed consent and comply with all procedures required by the protocol.\nbe 65 - 90 years of age at the time of signing the Informed Consent Form.\nhave a diagnosis of Aging Frailty, with a score of 4 to 7 using the Canadian Frailty Scale.\nhave a six-minute walk test (6MWT) distance of 200m - 400m for each of 2 trials, and the 2 trials must be within 15% of each other.\nhave total bilirubin between 0.3 - 1.9 mg/dL.\n\nExclusion Criteria:\n\nbe unwilling or unable to perform any of the assessments required by the Protocol.\nscore ≤24 on the Mini Mental State Examination (MMSE).\nhave previously received current year's flu-vaccine.\nhave any contraindication to receiving a vaccine.\nhave a Hemoglobin A1c (HbA1c) level >9.0%.\nbe diagnosed with malignancy (subjects without a recurrence in the last 2.5 years will be allowed) except curatively-treated basal cell carcinoma, melanoma in situ, or cervical carcinoma.\nhave a condition that projected to limit the life-expectancy to ≤1 year.\nhave autoimmune disease (e.g., rheumatoid arthritis).\nbe using medication(s) known to alter immune response, e.g., high-dose corticosteroids.\nhave HIV, AIDS, or other immunodeficiency.\n\ntest positive for hepatitis B virus\n\nIf the subject tests positive for anti-HBc or anti-HBs, they must be receiving treatment for Hepatitis B virus prior to infusion and remain on treatment throughout the study.\ntest positive for viremic hepatitis C, HIV1, HIV2, or syphilis.\nhave a resting blood oxygen saturation of <93% (measured by pulse oximetry).\nbe a female who is pregnant, nursing, or of childbearing potential while not practicing effective contraception.\nhave documented current substance and/or alcohol abuse.\nhave known allergies to latex or eggs.\nhave a known hypersensitivity to dimethyl sulfoxide (DMSO).\nbe an organ transplant recipient (other than corneal, bone, skin, ligament, or tendon transplant).\nbe actively listed (or expected to be listed) for transplant of any organ (other than corneal, bone, skin, ligament, or tendon transplant).\n\nhave any clinically important abnormal screening laboratory values, including but not limited to:\n\nhemoglobin <10.0 g/dL.\nwhite blood cell count < 2500/mm3.\nplatelets < 100,000/mm3.\nprothrombin time/international normalized ratio (PT/INR) ˃ 1.5 not due to a reversible cause (i.e. Coumadin).\naspartate transaminase, alanine transaminase, or alkaline phosphatase ˃ 2 times upper limit of normal.\nhave a sitting or resting systolic blood pressure >180 mm Hg or diastolic blood pressure >110 mm Hg at Screening.\nhave any serious illness or any other condition that, in the opinion of the investigator, may compromise the safety or compliance of the subject or preclude successful completion of the study, or that may compromise the validity of the study.\nbe currently participating in an investigational therapeutic or device trial, or have participated in an investigational therapeutic or device trial within the previous 30 days, or participate in any other clinical trial for the duration of the time that the subject actively participates in this trial.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "65 Years",
+      "MaximumAge": "90 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Clinical Research of South Florida",
+            "LocationCity": "Coral Gables",
+            "LocationState": "Florida",
+            "LocationZip": "33134",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Clinical Physiology Associates",
+            "LocationCity": "Fort Myers",
+            "LocationState": "Florida",
+            "LocationZip": "33912",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Miami",
+            "LocationCity": "Miami",
+            "LocationState": "Florida",
+            "LocationZip": "33136",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Vista Health Research",
+            "LocationCity": "Miami",
+            "LocationState": "Florida",
+            "LocationZip": "33176",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Johns Hopkins University",
+            "LocationCity": "Baltimore",
+            "LocationState": "Maryland",
+            "LocationZip": "21224",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Optimal Research LLC",
+            "LocationCity": "Rockville",
+            "LocationState": "Maryland",
+            "LocationZip": "20850",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000073496",
+            "ConditionMeshTerm": "Frailty"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M1175",
+            "ConditionBrowseLeafName": "Frailty",
+            "ConditionBrowseLeafAsFound": "Frailty",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M16512",
+            "InterventionBrowseLeafName": "Vaccines",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

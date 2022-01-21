@@ -1,0 +1,606 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04490486",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "20200575"
+      },
+      "Organization": {
+        "OrgFullName": "University of Miami",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Umbilical Cord Tissue (UC) Derived Mesenchymal Stem Cells (MSCs) Versus Placebo to Treat Acute Pulmonary Inflammation Due to COVID-19",
+      "OfficialTitle": "Phase I, Randomized, Double Blinded, Placebo Control Study to Evaluate the Safety and Potential Efficacy of Intravenous Infusion of Umbilical Cord Tissue (UC) Derived Mesenchymal Stem Cells (MSCs) Versus Placebo to Treat Acute Pulmonary Inflammation Due to COVID-19 With Moderate to Severe Symptoms",
+      "Acronym": "COVID-19"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 1, 2022",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 1, 2024",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 1, 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 27, 2020",
+      "StudyFirstSubmitQCDate": "July 28, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 29, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 17, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 20, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Joshua M Hare",
+        "ResponsiblePartyInvestigatorTitle": "Director of ISCI, Louis Lemberg Professor of Medicine",
+        "ResponsiblePartyInvestigatorAffiliation": "University of Miami"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Joshua M Hare",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to demonstrate the safety of Umbilical Cord Tissue Derived Mesenchymal Stem Cells (UCMSCs) administered intravenously in patients with acute pulmonary inflammation due to COVID-19 with moderately severe symptoms"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID-19",
+          "Acute Respiratory Distress Syndrome",
+          "Corona Virus Infection"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Acute Pulmonary Inflammation"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "21",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Group 1: (UCMSCs)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Participants in this group will receive the 2 intravenous (IV) UCMSCs intervention on day 0 and day 3.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: UCMSCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group 2: (Placebo)",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Participants in this group will receive the placebo, a solution of 1% human serum albumin in Plasmalyte A, on day 0 and day 3.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "UCMSCs",
+            "InterventionDescription": "100 x 106 (100 million) UCMSCs delivered via peripheral intravenous infusion.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group 1: (UCMSCs)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Placebo, a solution of 1% human serum albumin in Plasmalyte A, delivered via peripheral intravenous infusion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group 2: (Placebo)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Percent of participants with treatment related Serious Adverse Events (SAE)",
+            "PrimaryOutcomeDescription": "Safety of UCMSCs will be reported as the percentage of participants in each treatment group that experienced a treatment related SAEs.",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change in inflammatory marker levels",
+            "SecondaryOutcomeDescription": "Change in serum inflammatory marker levels including Interleukin (IL) IL-6, IL-2, Tumor Necrosis Factor Alpha (TNF-a) and procalcitonin will be evaluated in ng/L.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Day 30"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in systemic inflammatory marker levels",
+            "SecondaryOutcomeDescription": "Change in serum systemic inflammatory marker levels including D-dimer, high sensitivity C-reactive protein (hsCRP) and ferritin will be evaluated in mg/L.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Day 30"
+          },
+          {
+            "SecondaryOutcomeMeasure": "COVID-19 Viral Load",
+            "SecondaryOutcomeDescription": "Assessed using blood samples or nose/throat swabs.",
+            "SecondaryOutcomeTimeFrame": "Up to 30 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in SOFA score",
+            "SecondaryOutcomeDescription": "Sequential Organ Failure Assessment (SOFA) will be used to assess organ failure including the cardiovascular system, coagulation system, liver, kidney and other extra-pulmonary organs. SOFA score ranges from 0-24 with the higher score indicating worse outcomes.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Up to 30 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in electrolytes levels",
+            "SecondaryOutcomeDescription": "Sodium, Potassium, Chloride and Carbon Dioxide (CO2) will be evaluated in mmol/L. Changes from baseline to Day 30 will be compared between groups.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Up to 30 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in LDH levels",
+            "SecondaryOutcomeDescription": "Serum Lactate Dehydrogenase (LDH) levels assessed in U/L. Changes in LDH from baseline to Day 30 will be compared between groups.",
+            "SecondaryOutcomeTimeFrame": "Baseline, Up to 30 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of subjects discharged from the ICU",
+            "SecondaryOutcomeDescription": "ICU monitoring status will be reported as the number of subjects discharged from the ICU within 7 days.",
+            "SecondaryOutcomeTimeFrame": "Up to 7 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Percentage of participants with less requirement for vasoactive agents",
+            "SecondaryOutcomeDescription": "Percentage of participants requiring less use of vasoactive agents will be reported.",
+            "SecondaryOutcomeTimeFrame": "Up to 30 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Rate of Mortality",
+            "SecondaryOutcomeDescription": "Percentage of participant deaths throughout the study period.",
+            "SecondaryOutcomeTimeFrame": "Up to 30 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Percentage of participants with changes in immune marker expression",
+            "SecondaryOutcomeDescription": "The percentage of participants with changes in serum immune marker levels including Cluster of Differentiation (CD) CD 4+ and CD 8+, as evaluated by treating physician will be reported.",
+            "SecondaryOutcomeTimeFrame": "Up to 30 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Percentage of participants with changes in radiologic findings",
+            "SecondaryOutcomeDescription": "Percentage of participants with changes in their chest imaging such as ground-glass opacity, local patch shadowing, bilateral patch shadowing and interstitial abnormalities will be reported. Imaging will be assessed by treating physician using chest radiography or chest Computed Tomography (CT).",
+            "SecondaryOutcomeTimeFrame": "Up to 30 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Percentage of participants with less pneumonia symptoms",
+            "SecondaryOutcomeDescription": "Percentage of participants showing less pneumonia symptoms will be reported as evaluated by treating physician using chest radiography or chest CT.",
+            "SecondaryOutcomeTimeFrame": "Up to 30 Days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nProvide written informed consent\nMale or female subjects age > 18 years at the time of signing the Informed Consent Form.\nCOVID-19 positive according to diagnosis (evaluated by reverse transcription (RT)-polymerase chain reaction (PCR) test confirming infection with severe acute respiratory syndrome coronavirus and clinical management of COVID-19 criteria (refer to appendix B)\n\nIndividuals with moderate to severe COVID-19 symptoms.\n\nModerate:\nPatients with moderate disease are symptomatic (e.g. fever, cough, headache, myalgia, sore throat, nasal congestion, nausea, vomiting, diarrhea, fatigue, anosmia, or dysgeusia) and have abnormal chest imaging or some degree of hypoxia requiring supplemental oxygen but not intubation.\nModerate-severe:\nThe Moderately Severe disease category includes patients who are symptomatic (as described above), have abnormal chest imaging, but also have worsening hypoxia compatible with mild acute respiratory distress syndrome (ARDS) (Partial Pressure of Oxygen (PaO2)/Fraction of Inspired Oxygen (FiO2) </= 300 but > 200) - Berlin criteria; but do not yet require intubation .\nAdequate venous access\nFor female patients only, willingness to use FDA-recommended birth control until 6 months post treatment.\nMust agree to comply with all study requirements and be willing to complete all study visits.\nNeed in-patient admission\n\nExclusion Criteria:\n\nPaO2/FiO2 </= 200\nAnticipated intubation within 24h\nBe a female who is pregnant, nursing, or of childbearing potential while not practicing effective contraceptive methods. Female subjects must undergo a blood pregnancy test at screening and prior to infusion.\nInability to perform any of the assessments required for endpoint analysis.\nSubjects that are unsuitable with the study requirements .\nActive listing (or expected future listing) for transplant of any organ.\nHave known allergies to penicillin or streptomycin.\nBe a solid organ transplant recipient. This does not include prior cell-based therapy (>12 months prior to enrollment), bone, skin, ligament, tendon or corneal grafting.\nHave a history of organ or cell transplant rejection\nHas a history of an adverse response to cell-based therapy\nHave presence of any active malignancy (other than non-melanoma skin cancer) that required treatment within the last 1 year.\nHistory of active drug abuse (illegal \"street\" drugs except marijuana, or prescription medications not being used appropriately for a pre-existing medical condition) or alcohol abuse (≥ 5 drinks/day for ˃ 3 months), or documented medical, occupational, or legal problems arising from the use of alcohol or drugs within the past 24 months\nBe serum positive for HIV, Surface antigen of Hepatitis B virus (HBsAg) or Viremic hepatitis C.\nSevere hepatic impairment (defined as liver cirrhosis Child stage B or C);\nStage 4 chronic kidney disease or currently receiving chronic dialysis;\nAdvanced cardiac (eg, severe heart failure [New York Heart Association (NYHA) III-IV]) or pulmonary diseases;\nHas uncontrolled hypertension as defined by BP systolic above 180 and diastolic above 110 which, in the Investigator's judgment, would not make participation appropriate;\nKnown allergy or hypersensitivity to stem cell infusions or its components;\nCurrent enrollment in an investigational drug or participation in such a study within 15 days of entry into this study;\nModerate to severe liver failure (Childs-Pugh Score > 10) Alanine Aminotransferase (ALT)/Aspartate Aminotransferase (AST) > 5 times the upper limit of normal;\nCongenital prolonged QT syndrome;\nCurrent QT corrected (QTc) above 490 msec. If patient has Q, R and S waves (QRS) interval greater or equal to 120 msec, then the QT/QTc will be normalized to a QRS interval of 110 msec. (For instance, if the patient has a bundle branch block with QRS of 140 msec and QT/QTc of 470 msec, the normalized QTc will be 470;\nSubjects taking drugs that could affect the QT interval (e.g. procainamide, disopyramide, mexiletine, flecainide, propafenone, amiodarone, sotalol, cimetidine, dronedarone, dofetilide, levofloxacin, ciprofloxacin, moxifloxacin);\nAnticipated transfer to another hospital which is not a study site within 72 hours;\nCoagulopathy (Platelets less than 80,000, or Prothrombin Time (PT)/Partial Thromboplastin time (PTT) twice normal range without systemic anticoagulation;\nGreater than 24h since first meeting ARDS criteria (Berlin definition) or 72h of ICU admission;\nSubjects who are legally detained in an official institution;\nA previous MSC infusion in last 30 days not related to this trial;\nHistory of Pulmonary Hypertension (WHO Class III/IV);\nUnstable arrhythmia or uncontrolled hypertension not responding to best ICU treatment;\nPatients currently receiving Extracorporeal Membrane Oxygenation (ECMO);\nAny other irreversible disease or condition for which 6-month mortality is estimated to be greater than 50%;\nMoribund patient not expected to survive > 24 hours;\nThe investigator believes that participating in the trial is not in the best interest of the patient, or the investigator considers patient unsuitable for enrollment (such as unpredictable risks or subject compliance issues)",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Joshua M Hare, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "305-243-5579",
+            "CentralContactEMail": "Jhare@med.miami.edu"
+          },
+          {
+            "CentralContactName": "Yvenie Desire, BS",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "305-243-7273",
+            "CentralContactEMail": "Ydesire@miami.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Joshua M Hare, MD",
+            "OverallOfficialAffiliation": "ISCI/University of Miami Miller School of Medicine",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Miami",
+            "LocationCity": "Miami",
+            "LocationState": "Florida",
+            "LocationZip": "33136",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Joshua M Hare, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "305-243-5579",
+                  "LocationContactEMail": "jhare@miami.edu"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Interdisciplinary Stem Cell Institute at the University of Miami Miller School website",
+            "SeeAlsoLinkURL": "http://isci.med.miami.edu/"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000018352",
+            "ConditionMeshTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionMeshId": "D000011014",
+            "ConditionMeshTerm": "Pneumonia"
+          },
+          {
+            "ConditionMeshId": "D000012128",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000012127",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome, Newborn"
+          },
+          {
+            "ConditionMeshId": "D000055371",
+            "ConditionMeshTerm": "Acute Lung Injury"
+          },
+          {
+            "ConditionMeshId": "D000007249",
+            "ConditionMeshTerm": "Inflammation"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007235",
+            "ConditionAncestorTerm": "Infant, Premature, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007232",
+            "ConditionAncestorTerm": "Infant, Newborn, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000055370",
+            "ConditionAncestorTerm": "Lung Injury"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9445",
+            "ConditionBrowseLeafName": "Inflammation",
+            "ConditionBrowseLeafAsFound": "Inflammation",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafAsFound": "Pulmonary Inflammation",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafAsFound": "Corona Virus Infection",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27296",
+            "ConditionBrowseLeafName": "Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9431",
+            "ConditionBrowseLeafName": "Infant, Premature, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9428",
+            "ConditionBrowseLeafName": "Infant, Newborn, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M85407",
+            "InterventionBrowseLeafName": "Plasma-lyte 148",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

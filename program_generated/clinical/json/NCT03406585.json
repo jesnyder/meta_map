@@ -1,0 +1,380 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03406585",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "ProTrans-T1D"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2017-002766-50",
+            "SecondaryIdType": "EudraCT Number"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "NextCell Pharma Ab",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Wharton´s Jelly Derived Mesenchymal Stromal Cell Treatment of Adult Patients Diagnosed With Type I Diabetes",
+      "OfficialTitle": "A Double-blinded, Randomized, Placebo-controlled Trial With Wharton's Jelly Derived Allogeneic Mesenchymal Stromal Cells (WJMSCs) for Preserving Endogenous Insulin Production in Adult Patients Diagnosed for Type 1 Diabetes"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 28, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 1, 2020",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 4, 2020",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "November 27, 2017",
+      "StudyFirstSubmitQCDate": "January 15, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 23, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 17, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 11, 2022",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "NextCell Pharma Ab",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "To investigate the safety and tolerance after allogeneic infusion of WJMSCs intravenously in adult patients diagnosed with type 1 diabetes.",
+      "DetailedDescription": "This is a combined phase I and phase II study, where the first part is an open, dose escalating study consisting of 6 male patients, 18-40 years of age. The second part is a randomized, double-blinded, placebo-controlled, phase I/II study in parallel design comparing allogeneic WJMSC treatment to placebo in adult patients diagnosed with type 1 diabetes. Besides safety, preservation of endogenous insulin production (measured as C-peptide concentrations) together with metabolic control, diabetes treatment satisfaction and immunological profile will be assessed.\n\nA total number of 24 patients will be enrolled in the study and followed for one year after WJMSC/placebo treatment. Patients 18-40 years of age, both male and female, diagnosed for type 1 diabetes will be eligible. Providing informed consent and fulfillment of inclusion criteria and no exclusion criteria, they will within two years of diagnosis be randomized."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Type1 Diabetes Mellitus"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "24",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Allogeneic transplantation with WJMSCs",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Single infusion of 200 million cells per patient.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: ProTrans: Allogeneic transplantation with WJMSCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Sham transplantation (placebo)",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Single infusion with albumin and dmso in sodium chloride (identical concentrations as active treatment)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebos"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "ProTrans: Allogeneic transplantation with WJMSCs",
+            "InterventionDescription": "The drug is a cell suspension with allogeneic mesenchymal stromal cells derived from umbilical cord tissue.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Allogeneic transplantation with WJMSCs"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebos",
+            "InterventionDescription": "Placebo treatment",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Sham transplantation (placebo)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety; measured through set safety parameters",
+            "PrimaryOutcomeDescription": "measured through the registration of adverse events and other safety parameters such as hypoglycemia, allergic reactions, ophthalmologic examination, ECG, vital signs and laboratory assessments.",
+            "PrimaryOutcomeTimeFrame": "throughout the study untill day 372"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Efficacy; comparison of the intervention versus placebo at day 372 versus start of treatment",
+            "PrimaryOutcomeDescription": "Delta-change of C-peptide Area Under the Curve (AUC) (0-120 min) for Mixed Meal Tolerance Test (MMTT) at day 372 following WJMSC/Placebo infusion when compared to test performed before start of treatment.",
+            "PrimaryOutcomeTimeFrame": "Day 372"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Number of patients insulin independent (ADA criteria) at days 187 and 372",
+            "SecondaryOutcomeDescription": "Insulin doses and measured plasma glucose values are written down in the subject's diary every day by the subject. Amount of insulin, recorded plasma glucose values, time and date will be included",
+            "SecondaryOutcomeTimeFrame": "Days 187 and 372 following WJMSC/Placebo infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of patients with daily insulin needs <0.25U/kg at days 187 and 372",
+            "SecondaryOutcomeDescription": "Insulin doses and measured plasma glucose values are written down in the subject's diary every day by the subject. Amount of insulin, recorded plasma glucose values, time and date will be included",
+            "SecondaryOutcomeTimeFrame": "Days 187 and 372 following WJMSC/Placebo infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Insulin requirement/kg BW at days 187 and 372",
+            "SecondaryOutcomeDescription": "Insulin doses and measured plasma glucose values are written down in the subject's diary every day by the subject. Amount of insulin, recorded plasma glucose values, time and date will be included",
+            "SecondaryOutcomeTimeFrame": "Days 187 and 372 following WJMSC/Placebo infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "HbA1c at days 187 and 372.",
+            "SecondaryOutcomeDescription": "Measurements of HbA1c will be performed to assess metabolic control during study.",
+            "SecondaryOutcomeTimeFrame": "Days 187 and 372 following WJMSC/Placebo infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Glucose variability at day 372",
+            "SecondaryOutcomeDescription": "Measurements of HbA1c will be performed to assess metabolic control during study.",
+            "SecondaryOutcomeTimeFrame": "Day 372 following WJMSC/Placebo infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Delta change of levels of fasting C-peptide at day 372",
+            "SecondaryOutcomeDescription": "Measured at day 372 compared to before start of treatment",
+            "SecondaryOutcomeTimeFrame": "Day 372 following WJMSC/Placebo infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Numbers of patients with peak C-peptide >0.20 nmol/l, in response to the MMTT, at day 372",
+            "SecondaryOutcomeDescription": "Measured at day 372 compared to before start of treatment",
+            "SecondaryOutcomeTimeFrame": "Day 372 following WJMSC/Placebo infusion"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nWritten informed consent for participation of the study, given before undergoing any study-specific procedures\nClinical history compatible with type 1 diabetes diagnosed less than 2 years before enrolment\nIn the first part of the study patients 1-6 only male patients between 18-40 years of age will be included. In the second part of the study, patients 7-21, both male and female patients 18 to 40 years of age (inclusive at both ends) will be included.\nMentally stable and, in the opinion of the investigator, able to comply with the procedures of the study protocol\nFasting plasma C-peptide concentration >0.12 nmol/L.\n\nWomen of child-bearing potential, defined as all women physiologically capable of becoming pregnant, if they are using effective methods of contraception during the study. Acceptable birth control methods are those with a failure rate of less than 1% per year when used consistently and correctly. Such methods include (in \"Recommendations related to contraception and pregnancy testing in clinical trials\", supplied from www.hma.eu/):\n\nCombined (estrogen and progestogen containing hormonal contraception associated with inhibition of ovulation.\n\noral\nintravaginal\ntransdermal\n\nprogestogen-only hormonal contracption associated with inhibition of ovulation\n\noral\ninjectable\nimplantable\nintrauterine device (IUD)\nintrauterine hormone-releasing system (IUS)\nbilateral tubal occlusion\ntotal abstinence or vasectomized partner.\n\nExclusion Criteria:\n\nInability to provide informed consent\nPatients with body mass index (BMI) > 30, or weight >100 kg\nPatients with weight <50 kg\nPatients with unstable cardiovascular status incl. NYHA class III/IV\nPatients with active infections unless treatment is not judged necessary by the investigators\nPatients exposed to tuberculosis or has travelled in areas with high risk of tuberculosis or mycosis within the last 3 months\nPatients with serological evidence of infection with HIV, Treponema pallidum, hepatitis B antigen (patients with serology consistent with previous vaccination and a history of vaccination are acceptable) or hepatitis C.\nPatients with any immune suppressive treatment\nPatients with known demyelinating disease\nPregnant or nursing (lactating) women, where pregnancy is defined as the state of a female after conception and until the termination of gestation, confirmed by a positive hCG laboratory test\nPatients with known, or previous, malignancy.\nTaking oral anti-diabetic therapies or any other concomitant medication which may interfere with glucose regulation other than insulin\nPatient with any condition or any circumstance that in the opinion of the investigator would make it unsafe to undergo treatment with MSC.\nKnown hypersensitivity against any excipients, i.e. dimethyl sulfoxide (DMSO).",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "40 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Per-Ola Carlsson, MD, PhD",
+            "OverallOfficialAffiliation": "NextCell Pharma",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Karolinska Trial Alliance, Fas 1 enheten, Karolinska Universitetssjukhuset Huddinge",
+            "LocationCity": "Stockholm",
+            "LocationZip": "141 86",
+            "LocationCountry": "Sweden"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003920",
+            "ConditionMeshTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionMeshId": "D000003922",
+            "ConditionMeshTerm": "Diabetes Mellitus, Type 1"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000044882",
+            "ConditionAncestorTerm": "Glucose Metabolism Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafAsFound": "Diabetes",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6269",
+            "ConditionBrowseLeafName": "Diabetes Mellitus, Type 1",
+            "ConditionBrowseLeafAsFound": "Type 1 Diabetes",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24556",
+            "ConditionBrowseLeafName": "Glucose Metabolism Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9517",
+            "InterventionBrowseLeafName": "Insulin",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M172956",
+            "InterventionBrowseLeafName": "Insulin, Globin Zinc",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Hypo",
+            "InterventionBrowseBranchName": "Hypoglycemic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

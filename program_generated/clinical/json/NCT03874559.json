@@ -1,0 +1,362 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03874559",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "Protocol IIT-RE-0"
+      },
+      "Organization": {
+        "OrgFullName": "University of Kansas Medical Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Exosomes in Rectal Cancer",
+      "OfficialTitle": "Exosomal as Correlative Biomarker in Clinical Outcomes in Patients Undergoing Neoadjuvant Chemoradiation Therapy for Rectal Cancer"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2019",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 13, 2018",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "February 1, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "February 1, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "March 11, 2019",
+      "StudyFirstSubmitQCDate": "March 12, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 14, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "March 12, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 14, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Andrew Hoover",
+        "ResponsiblePartyInvestigatorTitle": "Principle Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "University of Kansas Medical Center"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of Kansas Medical Center",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "Yes",
+      "IsUSExport": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The primary aims of this study is to characterize exosomal biomarker levels in patients with locally advanced rectal cancer undergoing neoadjuvant chemoradiation therapy. Compare rates of exosomal expression before during and after chemoradiation therapy with pathologic response rates at the time of APR or LAR. The researchers will also examine the functionality of these exosomes in malignant colonic organoids and mouse models of colorectal cancer.",
+      "DetailedDescription": "All male and female patients, aged 18 and older with a histologically proven diagnosis of rectal adenocarcinoma, treated on this study will receive neo adjuvant chemotherapy (consisting of 5 FU or capecitabine) given concurrently with external beam radiation therapy to a dose of 50.4 Gy in 28 fractions. Radiation treatments will be administered daily, Monday thru Friday. Within one week prior to beginning chemotherapy and radiation treatments, a serum sample will be obtained from each patient. Patients will also have serum samples collected every two weeks during radiation, and on the last day of radiation therapy, as well as at their one month follow up visit after completion of radiation and prior to planned surgery. A final serum sample will be collected within one month after definitive surgery. Each serum sample collected will be less than 50 mL.\n\nThe study will involve obtaining serum samples from patients before during and after chemoradiation therapy. These serum samples will be analyzed to determine exosomal biomarker levels, which will be correlated with clinical, imaging, laboratory, and pathologic data obtained from the medical record.\n\nAdditional data from the patients' medical records will be collected, including demographic data, clinical information from notes in the medical record, radiology images and reports, results of diagnositic tests, and information from procedure notes and pathology reports."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Rectal Cancer"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "neoadjuvant chemoradiation therapy",
+          "Low anterior resection",
+          "abdominoperineal resection",
+          "exosomes",
+          "biomarkers",
+          "external beam radiation"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "Yes",
+      "TargetDuration": "1 Month",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "blood serum samples will be collected from patients before, during, and after chemoradiation therapy. These samples will be analyzed and stored for 10 years"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Arm A",
+            "ArmGroupDescription": "All patients enrolled will be placed in Arm A. Serum blood draw samples will be collected as well as additional data from medical records will be collected. This data includes demographic data, clinical information from notes, radiology images and reports, diagnostic test results, and procedure and pathology reports.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Blood Draw"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "Blood Draw",
+            "InterventionDescription": "Serum samples will be obtained from each patient enrolled",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm A"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Exosomal Biomarkers Assessment",
+            "PrimaryOutcomeDescription": "Characterize exosomal biomarker levels in patients with locally advanced rectal cancer undergoing neoadjuvant chemoradiation therapy.",
+            "PrimaryOutcomeTimeFrame": "up to 10 years after treatment completion"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Exosomal Expression",
+            "SecondaryOutcomeDescription": "Compare rates of exosomal expression before during and after chemoradiation therapy with pathologic response rates at the time of APR or LAR. Response rates will be graded based on College of American Pathologists Guidelines on neoadjuvant treatment effect, which consist of a 4 tiered grading system categorizing response to neoadjuvant chemoradiation as \"complete\", \"moderate\", \"minimal\", or \"poor\". These grades are routinely documented in pathology reports for patients undergoing neoadjuvant chemoradiation for rectal cancer and will be obtained from review of pathology reports in the patient medical records.",
+            "SecondaryOutcomeTimeFrame": "up to 10 years after treatment completion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Exosomal Functionality Assessment",
+            "SecondaryOutcomeDescription": "Examine the functionality of these exosomes in malignant colonic organoids and mouse models of colorectal cancer.",
+            "SecondaryOutcomeTimeFrame": "up to 10 years after treatment completion"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale and Female Patients aged 18 and older\nhistologically proven diagnosis of rectal adenocarcinoma\nwill be receiving neoadjuvant chemoradiation therapy prior to a planned definitive surgical resection\n\nExclusion Criteria:\n\nAge less than 18.\nPatients who are unable or unwilling to undergo definitive surgery.\nPatients with a prior history of pelvic external beam radiation, brachytherapy, or chemotherapy.\nPatients with a prior history of cancer (excluding non-melanoma skin cancers).\nPatients who are immunocompromised.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "All patients seen in the Department of Radiation Oncology at The University of Kansas Health System that are over the age of 18 and have a histologically proven diagnosis of rectal adenocarcinoma and will be receiving neoadjuvant chemoradiation therapy before a planned, definitive surgical resection has been performed.",
+      "SamplingMethod": "Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Leah K Miller, MS",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "913-588-3670",
+            "CentralContactEMail": "lmiller25@kumc.edu"
+          },
+          {
+            "CentralContactName": "Michelle Faucheux, RN",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "913-588-9927",
+            "CentralContactEMail": "mfaucheux@kumc.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Andrew Hoover, MD",
+            "OverallOfficialAffiliation": "The University of Kansas Medical Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Kansas Medical Center/ Cancer Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Kansas City",
+            "LocationState": "Kansas",
+            "LocationZip": "66190",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Leah Miller, MS",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "913-588-3670",
+                  "LocationContactEMail": "lmiller25@kumc.edu"
+                },
+                {
+                  "LocationContactName": "Mindi TenNapel, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "913-945-9547",
+                  "LocationContactEMail": "mtennapel@kumc.edu"
+                },
+                {
+                  "LocationContactName": "Andrew Hoover, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012004",
+            "ConditionMeshTerm": "Rectal Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000015179",
+            "ConditionAncestorTerm": "Colorectal Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000007414",
+            "ConditionAncestorTerm": "Intestinal Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000005770",
+            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004067",
+            "ConditionAncestorTerm": "Digestive System Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007410",
+            "ConditionAncestorTerm": "Intestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012002",
+            "ConditionAncestorTerm": "Rectal Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M13998",
+            "ConditionBrowseLeafName": "Rectal Neoplasms",
+            "ConditionBrowseLeafAsFound": "Rectal Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17042",
+            "ConditionBrowseLeafName": "Colorectal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9600",
+            "ConditionBrowseLeafName": "Intestinal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8038",
+            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6408",
+            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9596",
+            "ConditionBrowseLeafName": "Intestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13996",
+            "ConditionBrowseLeafName": "Rectal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

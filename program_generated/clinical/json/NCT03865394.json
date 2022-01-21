@@ -1,0 +1,466 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03865394",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "1ABC Therapy"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "267976/13/NCBR/2015",
+            "SecondaryIdType": "Other Grant/Funding Number",
+            "SecondaryIdDomain": "The National Center for Research and Development, Poland"
+          },
+          {
+            "SecondaryId": "2016-004109-15",
+            "SecondaryIdType": "EudraCT Number"
+          },
+          {
+            "SecondaryId": "PL008125",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "EU tissue establishment code"
+          },
+          {
+            "SecondaryId": "Z4217",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "ISBT128 (Facility Identification Number)"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Medical University of Warsaw",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Treatment of Chronic Wounds in Diabetic Foot Syndrome With Allogeneic Adipose Derived Mesenchymal Stem Cells",
+      "OfficialTitle": "Evaluation of the Safety and Efficacy of the Treatment of Chronic Wounds in Diabetic Foot Syndrome With the Use of Allogeneic Stem Cells Isolated From Adipose Tissue",
+      "Acronym": "1ABC"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 1, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 31, 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 30, 2021",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "November 8, 2018",
+      "StudyFirstSubmitQCDate": "March 5, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 6, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 8, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 14, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Medical University of Warsaw",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Polish Stem Cells Bank S.A.",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The aim of this study is to investigate efficiency of applying of adipose-derived mesenchymal stem cells (ADSC) in treatment of chronic wounds in diabetic foot syndrome.",
+      "DetailedDescription": "The product will contain an active ingredient- human allogeneic adipose-derived mesenchymal stem cells (ADSC) cells suspended in the fibrin solution applied directly onto prepared wound bed, to form thin gel layer on the wound surface."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Diabetic Foot Ulcer"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "stromal vascular fraction",
+          "adipose-derived mesenchymal stem cells",
+          "chronic wounds",
+          "diabetes",
+          "foot ulcer"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "46",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Allogeneic ADSC cells in fibrin solution",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Application of allogeneic ADSC stem cells in fibrin gel, to cover wound surface with thin cells layer.\n\nTherapy is based on standard procedure of diabetic foot ulcer treatment combined with application of allogeneic ADSC stem cells in fibrin solution onto the wound surface.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Application of allogeneic ADSC stem cells in fibrin gel"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Standard care in diabetic foot ulcer with aplication of fibrin gel to cover wound surface.",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Application of fibrin gel to cover wound surface.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Standard care in diabetic foot ulcer"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Application of allogeneic ADSC stem cells in fibrin gel",
+            "InterventionDescription": "Chronic wounds in diabetic foot ulcer will be covered with ADSC suspended in fibrin gel - single dose will be administered followed by weekly wound control.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Allogeneic ADSC cells in fibrin solution"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Standard care in diabetic foot ulcer",
+            "InterventionDescription": "Chronic wounds in diabetic foot ulcer will be covered with fibrin gel followed by weekly wound control.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Standard care in diabetic foot ulcer with aplication of fibrin gel to cover wound surface."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Changes in wound size",
+            "PrimaryOutcomeDescription": "The comparison of the time required for the 50% reduction of initial wound size between patients in both study arms.\n\nThe wound size changes will be assessed using digital 3D wound imaging medical device with image processing software, according to the following rules:\n\nfor wounds deeper than 0.5 cm - measurement of wound volume, or\nfor shallow wounds (less than 0.5 cm depth) - measurement of wound surface.",
+            "PrimaryOutcomeTimeFrame": "8 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Changes in wound morphology",
+            "SecondaryOutcomeDescription": "Clinical assessment of wound morphology (and its changes during the treatment) in each treated patient, as well, as between patients in both study arms, expressed as:\n\nthe amount (1) and features (2) of wound exudate,\nthe presence of redness (3) and/or edema (4) in the wound surrounding skin,\nthe presence of granular tissue and fibrin (5) or epithelium (6) in the wound bed.\n\nThe listed parameters will be assessed using simplified questionnaire adopted from Bates-Jensen Wound Assessment Tool (positions 7-13 from B-JWAT).\n\nEach of 6 abovementioned features will be assessed semiquantitatively using 1-5 points scale, (with \"1\" for a best state, and \"5\" for a worst state). The sum of points allocated to each parameter will be recorded as the wound score and used for further analysis.\n\nThe healthy skin/healed wound should receive 6 points, whereas active wound, with exudate and inflammation will receive 30 points (the lower = the better / the higher = the worse).",
+            "SecondaryOutcomeTimeFrame": "8 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in pro-angiogenic factors expression",
+            "SecondaryOutcomeDescription": "Evaluation of the expression (and its changes during the treatment) of selected pro-angiogenic factors, measured in wound biopsies.\n\nThe changes will be analyzed for each tested individual separately, and compared between both study arms.",
+            "SecondaryOutcomeTimeFrame": "8 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in wound-associated pain",
+            "SecondaryOutcomeDescription": "Evaluation of the wound-associated pain, assessed by the patient using visual analogue scale. The minimum value is 0 and means \"no pain\" and the maximum value is 10 and means \"the worst possible pain\". The lower value the better outcome.\n\nThe changes will be analyzed for each tested individual separately, and compared between both study arms.",
+            "SecondaryOutcomeTimeFrame": "8 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in the quality of life",
+            "SecondaryOutcomeDescription": "Evaluation of the patient's quality of life, assessed by the dedicated QoL questionnaire. The QoL questionnaire consists of 10 questions. Each question is scored 1 to 5. The minimum score is 10 and it means \"the best possible state of health\", and the maximum score is 50, which means ,,the worst possible state of health\".\n\nThe changes will be analyzed for each tested individual separately, and compared between both study arms.",
+            "SecondaryOutcomeTimeFrame": "8 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Record of adverse events",
+            "SecondaryOutcomeDescription": "Evaluation of the safety of ADSC application, assessed by the occurrence of any adverse events.",
+            "SecondaryOutcomeTimeFrame": "8 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSigning informed consent form.\nAbove the age of 18\nVoluntary participation in the research, following the requirements of the protocol and acceptance for procedures related with its implementation\nChronic wound in the course of diabetic foot syndrome, with the wound surface between 1 - 25 sq. cm, without evidence of active infection of the wound at the time of qualification to participate in the study\nBlood level of glycated haemoglobin (HbA1c) <=11%\nSatisfactory blood supply to the wound verified by the measurement of the oxygen level in the foot tissue (>=30 mmHg), or by the measurement of systolic blood pressure in posterior or anterior tibial artery (>=50 mmHg) of the affected limb.\nGeneral health condition, which according to the investigator's opinion, allows patient's participation in all study procedures.\n\nExclusion Criteria:\n\nLack of patient's cooperation\nWound etiology other than diabetic foot syndrome\nClinicaly significant limb ischemia as verified by the measurement of the oxygen level in the foot tissue (<30 mmHg), or by the measurement of systolic blood pressure in posterior or anterior tibial artery (<50 mmHg)\nActive wound infection, which would require the treatment with antibiotics\nKnown allergy to ingredients of study product (thrombin, penicillin).\nActive venous thromboembolism\nAny systemic disease (acute or chronic) in the stage of exacerbation or not stabilized, that in the opinion of the investigator may hinder or make impossible a patient's participation in the study\nActive cancer during chemotherapy or radiotherapy, or recent cancer, if the remission occured less than 5 years before joining the study",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Beata Mrozikiewicz-Rakowska, . Assoc.Prof.",
+            "OverallOfficialAffiliation": "Medical University of Warsaw, Department of Diabetology and Internal Diseases",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Medical University of Warsaw, Department of Diabetology and Internal Diseases",
+            "LocationCity": "Warsaw",
+            "LocationCountry": "Poland"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000017719",
+            "ConditionMeshTerm": "Diabetic Foot"
+          },
+          {
+            "ConditionMeshId": "D000016523",
+            "ConditionMeshTerm": "Foot Ulcer"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000003925",
+            "ConditionAncestorTerm": "Diabetic Angiopathies"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007871",
+            "ConditionAncestorTerm": "Leg Ulcer"
+          },
+          {
+            "ConditionAncestorId": "D000012883",
+            "ConditionAncestorTerm": "Skin Ulcer"
+          },
+          {
+            "ConditionAncestorId": "D000012871",
+            "ConditionAncestorTerm": "Skin Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000048909",
+            "ConditionAncestorTerm": "Diabetes Complications"
+          },
+          {
+            "ConditionAncestorId": "D000003920",
+            "ConditionAncestorTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003929",
+            "ConditionAncestorTerm": "Diabetic Neuropathies"
+          },
+          {
+            "ConditionAncestorId": "D000005534",
+            "ConditionAncestorTerm": "Foot Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16358",
+            "ConditionBrowseLeafName": "Ulcer",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19085",
+            "ConditionBrowseLeafName": "Diabetic Foot",
+            "ConditionBrowseLeafAsFound": "Diabetic Foot",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18071",
+            "ConditionBrowseLeafName": "Foot Ulcer",
+            "ConditionBrowseLeafAsFound": "Foot Ulcers",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6272",
+            "ConditionBrowseLeafName": "Diabetic Angiopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10035",
+            "ConditionBrowseLeafName": "Leg Ulcer",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14838",
+            "ConditionBrowseLeafName": "Skin Ulcer",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14826",
+            "ConditionBrowseLeafName": "Skin Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25157",
+            "ConditionBrowseLeafName": "Diabetes Complications",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6276",
+            "ConditionBrowseLeafName": "Diabetic Neuropathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7810",
+            "ConditionBrowseLeafName": "Foot Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04377334",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "RESCOVID"
+      },
+      "Organization": {
+        "OrgFullName": "University Hospital Tuebingen",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cells (MSCs) in Inflammation-Resolution Programs of Coronavirus Disease 2019 (COVID-19) Induced Acute Respiratory Distress Syndrome (ARDS)",
+      "OfficialTitle": "Prospective Phase II Study: MSCs in Inflammation-Resolution Programs of SARS-CoV-2 Induced ARDS"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 16, 2020",
+      "StudyFirstSubmitQCDate": "May 4, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 6, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "June 4, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 7, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Hospital Tuebingen",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "To evaluate the safety, toxicity and immunological effects of infusion of allogeneic bone marrow-derived human mesenchymal stem (stromal) cells (MSCs) and whether this therapy has an influence on the resolution processes in ARDS patients infected with Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "ARDS",
+          "COVID-19"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "MSC Treatment",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: MSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "control",
+            "ArmGroupType": "No Intervention"
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "MSC",
+            "InterventionDescription": "infusion of allogeneic bone marrow-derived human mesenchymal stem (stromal) cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC Treatment"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "lung injury score",
+            "PrimaryOutcomeDescription": "improvement of lung injury score (LIS), 0-16 points, severity increasing with higher points",
+            "PrimaryOutcomeTimeFrame": "day 10"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "D-dimers",
+            "SecondaryOutcomeDescription": "D-dimers blood levels",
+            "SecondaryOutcomeTimeFrame": "day 0, 1, 2, 3, 10 and 15"
+          },
+          {
+            "SecondaryOutcomeMeasure": "phenotype",
+            "SecondaryOutcomeDescription": "distribution of phenotypes of immune cells",
+            "SecondaryOutcomeTimeFrame": "day 0, 1, 2, 3, 10 and 15"
+          },
+          {
+            "SecondaryOutcomeMeasure": "pro-resolving lipid mediators",
+            "SecondaryOutcomeDescription": "Levels of specialized pro-resolving lipid mediators within alveolar macrophages and bronchoalveolar lavage",
+            "SecondaryOutcomeTimeFrame": "day 0, 1, 2, 3, 10 and 15"
+          },
+          {
+            "SecondaryOutcomeMeasure": "cytokines",
+            "SecondaryOutcomeDescription": "Cytokine concentration within bronchoalveolar lavage and Serum prior and after MSC infusions",
+            "SecondaryOutcomeTimeFrame": "day 0, 1, 2, 3, 10 and 15"
+          },
+          {
+            "SecondaryOutcomeMeasure": "chemokines",
+            "SecondaryOutcomeDescription": "Chemokine concentration within bronchoalveolar lavage and Serum prior and after MSC infusions",
+            "SecondaryOutcomeTimeFrame": "day 0, 1, 2, 3, 10 and 15"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Survival",
+            "SecondaryOutcomeDescription": "Survival at 10 days and 28 days",
+            "SecondaryOutcomeTimeFrame": "day 10 and 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "extubation",
+            "SecondaryOutcomeDescription": "Time to removal of endotracheal tube",
+            "SecondaryOutcomeTimeFrame": "day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "lymphocyte subpopulations",
+            "SecondaryOutcomeDescription": "lymphocyte subpopulations in peripheral blood by flow cytometry prior and after MSC infusion (day 0,3,5,10)",
+            "SecondaryOutcomeTimeFrame": "day 0, 3, 5 and 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "SARS-CoV-2-specific antibody titers",
+            "SecondaryOutcomeDescription": "evaluate SARS-CoV-2-specific antibody titers in the serum of patients prior and post MSC infusion.",
+            "SecondaryOutcomeTimeFrame": "day 0, 5 and 10"
+          },
+          {
+            "SecondaryOutcomeMeasure": "complement molecules (C5-C9)",
+            "SecondaryOutcomeDescription": "evaluate levels of complement molecules (C5-C9) in the serum of patients prior and post MSC infusion",
+            "SecondaryOutcomeTimeFrame": "day 0, 5 and 10"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nCOVID-19-positive subject\nHorowitz index ≤ 200\nBilateral opacities on frontal chest radiograph, and\nrequirement for positive pressure ventilation via an endotracheal tube or non-invasive ventilation\nno clinical signs of left atrial hypertension detected via echocardiography, or if measured, a Pulmonary Arterial Wedge Pressure (PAOP) less than or equal to 18 mmHg.\nSubject's Age ≥ 18 years\n\nExclusion Criteria:\n\nCOVID-19-negative subject\nSubject's Age < 18 years\nMore than 7 days since initiation of mechanical ventilation\nPatient, surrogate or physician not committed to full intensive care support.\nPositive Pregnancy test at the time of screening.\nPatients dependent on the sponsor, investigator and their employees, as well as persons dependent on the manufacturer of the investigational drug",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Peter Rosenberger, Prof.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+49707129",
+            "CentralContactPhoneExt": "86622",
+            "CentralContactEMail": "peter.rosenberger@med.uni-tuebingen.de"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Peter Rosenberger, Prof.",
+            "OverallOfficialAffiliation": "University hospital Tübingen",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University Hospital Tuebingen",
+            "LocationCity": "Tuebingen",
+            "LocationZip": "72076",
+            "LocationCountry": "Germany",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Peter Rosenberger, MD",
+                  "LocationContactRole": "Contact"
+                },
+                {
+                  "LocationContactName": "Peter Rosenberger, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000007249",
+            "ConditionMeshTerm": "Inflammation"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9445",
+            "ConditionBrowseLeafName": "Inflammation",
+            "ConditionBrowseLeafAsFound": "Inflammation",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

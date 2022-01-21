@@ -1,0 +1,324 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01314092",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "ANTG-ASC-210"
+      },
+      "Organization": {
+        "OrgFullName": "Anterogen Co., Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Clinical Trials of Autologous Cultured Adipose-derived Stem Cells (ANTG-ASC) on Complex Fistula",
+      "OfficialTitle": "Phase II Study to Evaluate Efficacy and Safety of ANTG-ASC (Autologous Cultured Adipose-derived Stem Cells) on the Complex Fistula Patients",
+      "Acronym": "ANTG-ASC-210"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2011",
+      "OverallStatus": "Terminated",
+      "WhyStopped": "Difficulty recruiting subjects.",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 2011"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2014",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2014",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "March 8, 2011",
+      "StudyFirstSubmitQCDate": "March 11, 2011",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 14, 2011",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "November 21, 2016",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 23, 2016",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Anterogen Co., Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Mesenchymal stem cells derived from adipose tissue are pluripotent to differentiate into myocytes, adipocytes or others. They have an immunosuppressive activity. Complex perianal fistula is difficult to cure and easy to relapse. Autologous adipose stem cells have shown efficacy and safety on Crohn's fistula in phase 1 study. Based on these results, the investigators would apply autologous adipose stem cells on complex perianal fistula to evaluate their efficacy and safety."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Complex Perianal Fistula"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "crohn's disease",
+          "fistula",
+          "complex"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "15",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Group 1",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Low dose group",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous cultured adipose derived stem cells(low dose group)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group 2",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "high dose group",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous cultured adipose derived stem cells(high dose group)"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Autologous cultured adipose derived stem cells(low dose group)",
+            "InterventionDescription": "low dose group: 1x10e7 cells/mL At 6 weeks after first stem cell injection, fistula closing was assessed. If it is not completely closed, second injection would be applied in 2 weeks. Additional dosage would be doubled to first dosage.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group 1"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "mesenchymal stem cell, ANTG-ASC, adipose derived stem cell",
+                "Group1: low dose group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Autologous cultured adipose derived stem cells(high dose group)",
+            "InterventionDescription": "high dose group: 2x10e7 cells/mL At 6 weeks after first stem cell injection, fistula closing was assessed. If it is not completely closed, second injection would be applied in 2 weeks. Additional dosage would be doubled to first dosage.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group 2"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "mesenchymal stem cell, ANTG-ASC, adipose derived stem cell",
+                "Group2: high dose group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of patients with complete closure of fistula (week 8)",
+            "PrimaryOutcomeDescription": "Proportion of patients with completely closed fistula (week 8)",
+            "PrimaryOutcomeTimeFrame": "8 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Grade of investigator's satisfaction",
+            "SecondaryOutcomeDescription": "Grade of investigator's satisfaction (8 weeks after final dose)\n\nvery satisfaction\nsatisfaction\nsomewhat satisfaction\nunsatisfaction\nvery unsatisfaction",
+            "SecondaryOutcomeTimeFrame": "8 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of patients with closed fistula",
+            "SecondaryOutcomeDescription": "proportion of patients with completely closed fistula (every visits)\nproportion of patients with more than 50 % closed fistula (every visits)",
+            "SecondaryOutcomeTimeFrame": "8 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Photo of target fistula",
+            "SecondaryOutcomeDescription": "Taking picture of target fistula at Day 0 and Week 4, 6, 8",
+            "SecondaryOutcomeTimeFrame": "8 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of patients with adverse events",
+            "SecondaryOutcomeDescription": "Number of patients with any kinds of adverse events (Day 0, every visits)",
+            "SecondaryOutcomeTimeFrame": "8 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\na patient who has complex perianal fistula\na patient who is negative in pregnancy test\na patient who has submitted a written consent\n\nExclusion Criteria:\n\na patient who has participated in other clinical studies within 30 days before this clinical trial or has not passed 5 fold period of a half-life of other investigational drugs.\na patient who has a history of variant Creutzfeldt Jacobs disease or related diseases\na patient who is allergic to anesthetics, bovine derived proteins or a fibrin glue\na patient who has an autoimmune disease\na patient who has infectious diseases such as hepatitis B virus (HBV), hepatitis C virus (HCV) or human immunodeficiency virus (HIV)\na patient who has sepsis or active tuberculosis\na patient who is pregnant or breast feeding\na patient who has inflammatory Bowel disease\nover 2cm in diameter of fistula",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "KJ Park, MD, PhD",
+            "OverallOfficialAffiliation": "Seoul National University Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "DS Kim",
+            "OverallOfficialAffiliation": "Daehang Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Soon cheun Hyang university bucheon hospital",
+            "LocationCity": "Bucheon-si",
+            "LocationZip": "420-767",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Ewha womwn university mokdong hospital",
+            "LocationCity": "Seoul",
+            "LocationZip": "158-710",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "DaeHang Hospital",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Samsung seoul Hospital",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Seoul National University Hospital",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Seoul Saint Mary's Hospital",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000005402",
+            "ConditionMeshTerm": "Fistula"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000020763",
+            "ConditionAncestorTerm": "Pathological Conditions, Anatomical"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M5790",
+            "ConditionBrowseLeafName": "Crohn Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7684",
+            "ConditionBrowseLeafName": "Fistula",
+            "ConditionBrowseLeafAsFound": "Fistula",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21672",
+            "ConditionBrowseLeafName": "Pathological Conditions, Anatomical",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

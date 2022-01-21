@@ -1,0 +1,488 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01824121",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "032011"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2011-004051-39",
+            "SecondaryIdType": "EudraCT Number"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Clinical Trial to Evaluate Bone Marrow Stem Cell Therapy for PSP, a Rare Form of Parkinsonism",
+      "OfficialTitle": "Autologous Mesenchymal Stem Cell Therapy in Progressive Supranuclear Palsy: a Randomized, Double-blind, Controlled Clinical Trial"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2013",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 2012"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2014",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2014",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "March 31, 2013",
+      "StudyFirstSubmitQCDate": "March 31, 2013",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 4, 2013",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "March 31, 2013",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 4, 2013",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "There is evidence suggesting that stem cells harvested from the bone marrow and transplanted into the brain may be effective in slowing down the progression of parkinsonism. Mesenchymal stem cells are able to produce growth factors that provide support to diseased nervous cells.\n\nIn this study mesenchymal stem cells will be harvested from the bone marrow, cultivated in a test tube so that they multiply and then infused into the arteries that supply blood to the brain in 20 patients suffering from a rare form of parkinsonism, Progressive Supranuclear Palsy. Each patient will undergo two infusions, one with the stem cells and one without, at an interval of 6 months. The sequence of the two infusions will be assigned randomly; patients and assessors will not know the sequence (double-blind). Patients will be followed-up for up to 1 year after the last infusion, with regular assessments to assess safety, efficacy on motor and cognitive functions, and effects on the brain by neuroimaging techniques.\n\nThe study has a preliminary phase with 5 patients all given stem cell therapy alone, designed to assess safety"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Progressive Supranuclear Palsy"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Progressive Supranuclear palsy",
+          "stem cell therapy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Crossover Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "25",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "immediate stem cell therapy",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "patients will undergo active intervention i.e. they will be given stem cell therapy immediately. After 6 months they will undergo a sham procedure.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: stem cell therapy"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "delayed stem cell therapy",
+            "ArmGroupType": "Sham Comparator",
+            "ArmGroupDescription": "patients allocated to delayed stem cell therapy will undergo a sham procedure (incannulation of the femoral vein and infusion of saline solution). They will receive stem cell therapy after 6 months",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: stem cell therapy"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "stem cell therapy",
+            "InterventionDescription": "Bone marrow will be collected from the iliac crest under local anesthesia. Mesenchymal Stem Cells (MSCs) will be isolated and cultivated in vitro. Patients will be catheterized and the MSCs will then be administered by intra-arterial route via the internal carotid artery and the vertebral artery that is largest in caliber, injecting small boluses manually through a microcatheter.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "delayed stem cell therapy",
+                "immediate stem cell therapy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "incidence of adverse events",
+            "PrimaryOutcomeDescription": "incidence of adverse events collected by clinical monitoring and performing routine laboratory tests",
+            "PrimaryOutcomeTimeFrame": "one year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "changes in brain images",
+            "SecondaryOutcomeDescription": "change vs baseline in the striatal density of dopamine transporters in SPECT brain images and in the normalized regional cerebral flow / glucose metabolism in the gray matter in PET brain images after one year",
+            "SecondaryOutcomeTimeFrame": "one year"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "changes in motor function",
+            "OtherOutcomeDescription": "changes vs baseline in total and motor UPDRS scores, Hoehn & Yahr staging, SEADL score, CGI and multifactorial movement analysis",
+            "OtherOutcomeTimeFrame": "one year"
+          },
+          {
+            "OtherOutcomeMeasure": "changes in cognitive functions",
+            "OtherOutcomeDescription": "changes vs baseline in MMSE score and in a series of neuropsychological measures (verbal comprehension, perceptual organization, immediate memory, delayed memory, word list recognition, language attention / concentration, visuospatial ability, processing speed, executive function)",
+            "OtherOutcomeTimeFrame": "one year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\ndiagnosis of 'probable Progressive Supranuclear Palsy - Richardson's disease subtype' according to current diagnostic criteria (Litvan et al. 1996 and 2003)\n\nage at onset at least 40 years;\ndisease duration 12 months to 8 years;\nsupranuclear ophthalmoplegia;\npostural instability or falls within 3 years from disease onset\npositive MRI for PSP criteria (Quattrone et al, 2008)\nStable pharmacological treatment for at least 90 days\nLack of response to chronic levodopa (at least 12-month treatment).\nAble to stand in upright posture without assistance for at least 30 seconds\nWritten informed consent (including video taping)\n\nExclusion Criteria:\n\nIdiopathic Parkinson's disease;\nCerebellar ataxia\nSymptomatic autonomic dysfunction\nEvidence of any other neurological disease that could explain signs;\nHistory of repeated strokes with stepwise progression of parkinsonian features;\nHistory of major stroke;\nAny history of severe or repeated head injury;\nA history of encephalitis;\nA history of neuroleptic use for a prolonged period of time or within the past 6 months;\nStreet-drug related parkinsonism;\nSignificant other neurological disease on CT-scan/MRI;\nOculogyric crises;\nMajor signs of corticobasal degeneration;\nSigns of Lewy body disease;\nOther life-threatening disease likely to interfere with the main outcome measure;\nAny clinically significant laboratory abnormality, with the exception of cholesterol, triglycerides and glucose;\nRenal failure (serum creatinine more than 300 mM/l);\nTransaminase elevation more than twice the upper limit of normal;\nAny concomitant disorder associated with bone marrow function impairment\nAny concomitant disorder that requires chronic treatment with immunosuppressors, anti-inflammatory agents, and/or growth factors\ndementia (MMSE < 24 according to Folstein 1975 or defined according to DSM-IV TR criteria)\nany other disorder that could interfere with the evaluation of treatment or that could make intra-arterial infusion inadvisable\nany other features that, according to the investigator, could reduce adherence to protocol procedures or prevent rapid access in case of emergency;\nwomen of child-bearing age\nparticipation in another clinical trial with experimental treatment in the last 30 days\nbrain MRI evidence of severe vascular abnormalities, space-occupying lesions or normal pressure hydrocephalus",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "40 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Margherita Canesi, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "0039 02 5799",
+            "CentralContactPhoneExt": "3353",
+            "CentralContactEMail": "canesi@parkinson.it"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Rosaria Giordano, MD",
+            "OverallOfficialAffiliation": "IRCCS Ca' Granda Ospedale Maggiore Policlinico",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "ICP Parkinson Institute",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Milano",
+            "LocationZip": "20126",
+            "LocationCountry": "Italy",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Gianni Pezzoli, MD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Margherita Canesi, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "34712113",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Giordano R, Canesi M, Isalberti M, Marfia G, Campanella R, Vincenti D, Cereda V, Ranghetti A, Palmisano C, Isaias IU, Benti R, Marotta G, Lazzari L, Montemurro T, Viganò M, Budelli S, Montelatici E, Lavazza C, Rivera-Ordaz A, Pezzoli G. Safety and Effectiveness of Cell Therapy in Neurodegenerative Diseases: Take-Home Messages From a Pilot Feasibility Phase I Study of Progressive Supranuclear Palsy. Front Neurosci. 2021 Oct 12;15:723227. doi: 10.3389/fnins.2021.723227. eCollection 2021."
+          },
+          {
+            "ReferencePMID": "27160012",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Canesi M, Giordano R, Lazzari L, Isalberti M, Isaias IU, Benti R, Rampini P, Marotta G, Colombo A, Cereda E, Dipaola M, Montemurro T, Viganò M, Budelli S, Montelatici E, Lavazza C, Cortelezzi A, Pezzoli G. Finding a new therapeutic approach for no-option Parkinsonisms: mesenchymal stromal cells for progressive supranuclear palsy. J Transl Med. 2016 May 10;14(1):127. doi: 10.1186/s12967-016-0880-2."
+          },
+          {
+            "ReferencePMID": "24438512",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Giordano R, Canesi M, Isalberti M, Isaias IU, Montemurro T, Viganò M, Montelatici E, Boldrin V, Benti R, Cortelezzi A, Fracchiolla N, Lazzari L, Pezzoli G. Autologous mesenchymal stem cell therapy for progressive supranuclear palsy: translation into a phase I controlled, randomized clinical study. J Transl Med. 2014 Jan 17;12:14. doi: 10.1186/1479-5876-12-14."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000013494",
+            "ConditionMeshTerm": "Supranuclear Palsy, Progressive"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010243",
+            "ConditionAncestorTerm": "Paralysis"
+          },
+          {
+            "ConditionAncestorId": "D000009461",
+            "ConditionAncestorTerm": "Neurologic Manifestations"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001480",
+            "ConditionAncestorTerm": "Basal Ganglia Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009069",
+            "ConditionAncestorTerm": "Movement Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000009886",
+            "ConditionAncestorTerm": "Ophthalmoplegia"
+          },
+          {
+            "ConditionAncestorId": "D000015835",
+            "ConditionAncestorTerm": "Ocular Motility Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000003389",
+            "ConditionAncestorTerm": "Cranial Nerve Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000024801",
+            "ConditionAncestorTerm": "Tauopathies"
+          },
+          {
+            "ConditionAncestorId": "D000019636",
+            "ConditionAncestorTerm": "Neurodegenerative Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005128",
+            "ConditionAncestorTerm": "Eye Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12309",
+            "ConditionBrowseLeafName": "Paralysis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21647",
+            "ConditionBrowseLeafName": "Parkinsonian Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15427",
+            "ConditionBrowseLeafName": "Supranuclear Palsy, Progressive",
+            "ConditionBrowseLeafAsFound": "Progressive Supranuclear Palsy",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11556",
+            "ConditionBrowseLeafName": "Neurologic Manifestations",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24756",
+            "ConditionBrowseLeafName": "Ganglion Cysts",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15510",
+            "ConditionBrowseLeafName": "Synovial Cyst",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3926",
+            "ConditionBrowseLeafName": "Basal Ganglia Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11181",
+            "ConditionBrowseLeafName": "Movement Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11969",
+            "ConditionBrowseLeafName": "Ophthalmoplegia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17538",
+            "ConditionBrowseLeafName": "Ocular Motility Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5757",
+            "ConditionBrowseLeafName": "Cranial Nerve Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22155",
+            "ConditionBrowseLeafName": "Tauopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20711",
+            "ConditionBrowseLeafName": "Neurodegenerative Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7423",
+            "ConditionBrowseLeafName": "Eye Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4741",
+            "ConditionBrowseLeafName": "Progressive Supranuclear Palsy",
+            "ConditionBrowseLeafAsFound": "Progressive Supranuclear Palsy",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC11",
+            "ConditionBrowseBranchName": "Eye Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3259",
+            "InterventionBrowseLeafName": "Anesthetics",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "CNSDep",
+            "InterventionBrowseBranchName": "Central Nervous System Depressants"
+          }
+        ]
+      }
+    }
+  }
+}

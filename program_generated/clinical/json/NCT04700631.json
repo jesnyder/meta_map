@@ -1,0 +1,325 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04700631",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "PI2020_843_0104"
+      },
+      "Organization": {
+        "OrgFullName": "Centre Hospitalier Universitaire, Amiens",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Extracellular Vesicles as Biomarkers for Chronic Renal Failure",
+      "OfficialTitle": "Extracellular Vesicles as Biomarkers for Chronic Renal Failure",
+      "Acronym": "VE-IRC"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 1, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 6, 2021",
+      "StudyFirstSubmitQCDate": "January 6, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 8, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "July 20, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 21, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Centre Hospitalier Universitaire, Amiens",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The recent discovery of extracellular vesicles (EV) as a mechanism of intercellular communication has made it possible to develop a new field of health research and could bring new information on the pathological mechanisms of renal diseases. Definition of physiologic and pathologic values of urinary extracellular vesicles (EVu) between healthy subjects and chronic kidney diseases (CKD) patients could be a new tool for follow up of renal diseases. EV are found in all biological fluids including urine, that's why they are increasingly analyzed in renal pathologies. The main objective of this study is to determine the physiological values and the pathological thresholds of EVu."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Chronic Renal Failure",
+          "Urinary Extracellular Vesicle"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "urinary extracellular vesicle",
+          "Chronic Renal Failure"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Basic Science",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "healthy subject",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "healthy subjects : no medical history, in particular cardiovascular, without drug treatment, without proteinuria, normal BMI",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: urinary extracellular vesicle concentration",
+                "Diagnostic Test: blood sample"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "CRF patients",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "CRF patients : eGFR estimated according to the MRDR formula less than 89 mL/min/1,73m²",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: urinary extracellular vesicle concentration",
+                "Diagnostic Test: blood sample"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "urinary extracellular vesicle concentration",
+            "InterventionDescription": "urinary extracellular vesicle concentration will be determined in urine samples from CRF and healthy patients",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "CRF patients",
+                "healthy subject"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "blood sample",
+            "InterventionDescription": "blood sample in order to determine creatin level",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "CRF patients",
+                "healthy subject"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "variation of urinary extracellular vesicle concentration between both groups",
+            "PrimaryOutcomeDescription": "variation of urinary extracellular vesicle concentration between both groups : healthy and CRF patients Urinary extracellular vesicle concentrations will be measured as number of extracellular vesicles per mL of urine",
+            "PrimaryOutcomeTimeFrame": "one day"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nsubject > 18 years old\nhealthy subjects : no medical history, in particular cardiovascular, without drug treatment, without proteinuria, normal BMI\nCRF patients : eGFR estimated according to the MRDR formula less than 89 mL/min/1,73m²\n\nExclusion Criteria:\n\npatients under dialysis protocols\nrenal transplant patients",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Nicolas GUILLAUME, Pr",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "(33)3.22.08.70.46",
+            "CentralContactEMail": "guillaume.nicolas@chu-amiens.fr"
+          },
+          {
+            "CentralContactName": "Claire PRESNE, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "(33)3.22.45.62.19",
+            "CentralContactEMail": "presne.claire@chu-amiens.fr"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "CHU Amiens",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Amiens",
+            "LocationZip": "80480",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Nicolas Guillaume, Pr",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "(33)3.22.08.70.46",
+                  "LocationContactEMail": "guillaume.nicolas@chu-amiens.fr"
+                },
+                {
+                  "LocationContactName": "Claire PRESNE",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "(33)3.22.45.62.19",
+                  "LocationContactEMail": "presne.claire@chu-amiens.fr"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000051437",
+            "ConditionMeshTerm": "Renal Insufficiency"
+          },
+          {
+            "ConditionMeshId": "D000007676",
+            "ConditionMeshTerm": "Kidney Failure, Chronic"
+          },
+          {
+            "ConditionMeshId": "D000051436",
+            "ConditionMeshTerm": "Renal Insufficiency, Chronic"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007674",
+            "ConditionAncestorTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M25871",
+            "ConditionBrowseLeafName": "Renal Insufficiency",
+            "ConditionBrowseLeafAsFound": "Renal Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9851",
+            "ConditionBrowseLeafName": "Kidney Failure, Chronic",
+            "ConditionBrowseLeafAsFound": "Chronic Renal Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M25870",
+            "ConditionBrowseLeafName": "Renal Insufficiency, Chronic",
+            "ConditionBrowseLeafAsFound": "Chronic Renal Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "T385",
+            "InterventionBrowseLeafName": "Creatine",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Ot",
+            "InterventionBrowseBranchName": "Other Dietary Supplements"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

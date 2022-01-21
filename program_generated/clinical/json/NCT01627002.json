@@ -1,0 +1,4752 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01627002",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "PA401/01"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2012-001189-14",
+            "SecondaryIdType": "EudraCT Number"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "ProtAffin Biotechnologie AG",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "A Phase 1, First in Human Study to Investigate the Safety and Tolerability of PA401",
+      "OfficialTitle": "A Phase 1, FIH, Double-blind, Randomised Placebo-controlled Study to Investigate the Safety, Tolerability, Immunogenicity and Pharmacokinetics of PA401, and the Effects of PA401 Following LPS Challenge, in Healthy Subjects"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2013",
+      "OverallStatus": "Terminated",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 2012"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 2013",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 2013",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "June 12, 2012",
+      "StudyFirstSubmitQCDate": "June 20, 2012",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 25, 2012",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "ResultsFirstSubmitDate": "July 18, 2013",
+      "ResultsFirstSubmitQCDate": "July 18, 2013",
+      "ResultsFirstPostDateStruct": {
+        "ResultsFirstPostDate": "September 23, 2013",
+        "ResultsFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "July 18, 2013",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 23, 2013",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "ProtAffin Biotechnologie AG",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to examine the safety, tolerability, immunogenicity and the way the body absorbs, distributes, breaks down and excretes various increasing single and multiple subcutaneous doses of PA401 in healthy subjects.\n\nThis study will also look at the effect of PA401 on inflammation in the lungs following an inhaled lipopolysaccharide (LPS) challenge (LPS is a bacterial cell wall fragment) and sputum induction (a procedure performed to help to cough up sputum (phlegm)) after a single subcutaneous dose of two dose levels."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Healthy Volunteers"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Phase 1",
+          "First in Human",
+          "Healthy Volunteers",
+          "Lipopolysaccharide Challenge"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "49",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "PA401",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "PA401 is a potent inhibitor of neutrophil activation and transmigration under development as a novel parenteral anti-inflammatory therapy for respiratory indications such as chronic obstructive pulmonary disease (COPD) and Cystic Fibrosis (CF). PA401 is a genetically engineered and recombinantly expressed mutant of the bioactive form of human interleukin-8.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: PA401"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Placebo",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "PA401",
+            "InterventionDescription": "Part A of Study: Subcutaneous, 0.1mg to 50mg, single ascending doses Part B of Study: Subcutaneous, up to 17.1mg, single dose",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "PA401"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Subcutaneous",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Treatment Emergent Adverse Events",
+            "PrimaryOutcomeTimeFrame": "up to 14 days post dose"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Immunogenicity",
+            "PrimaryOutcomeDescription": "Anti-drug antibody data",
+            "PrimaryOutcomeTimeFrame": "Up to 28 days post dose"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Assessment of the Effect of PA401 on Induced Sputum Total Neutrophils",
+            "PrimaryOutcomeDescription": "Induced sputum was collected 6 hours after lipopolysaccharide challenge (5.5 hours following dosing) and assessed for neutrophils",
+            "PrimaryOutcomeTimeFrame": "5.5 hours post dose"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Pharmacokinetic Parameters: Maximum Observed Plasma Concentration (Cmax)",
+            "SecondaryOutcomeTimeFrame": "Up to 12 time-points up to 48 hours post dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Pharmacokinetic Parameters: Time of Occurrence of the Maximum Observed Plasma Concentration (Tmax)",
+            "SecondaryOutcomeTimeFrame": "Up to 12 time-points up to 48 hours post dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Pharmacokinetic Parameters: Terminal Half-life (t1/2)",
+            "SecondaryOutcomeTimeFrame": "Up to 12 time-points up to 48 hours post dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Pharmacokinetic Parameters: Area Under the Plasma Concentration-time Curve From Zero to Infinity",
+            "SecondaryOutcomeTimeFrame": "Up to 12 time-points up to 48 hours post dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Assessment of the Effect of PA401 on Induced Sputum Percentage Neutrophils",
+            "SecondaryOutcomeDescription": "Induced sputum was collected 6 hours after lipopolysaccharide challenge (5.5 hours following dosing) and assessed for neutrophils",
+            "SecondaryOutcomeTimeFrame": "5.5 hours post dose"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nHealthy adult males aged 18 to 65 years\n\nExclusion Criteria:\n\nSubjects with a clinically relevant medical history",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "Male",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jim Ritter, MD",
+            "OverallOfficialAffiliation": "Quintiles, Inc.",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Quintiles",
+            "LocationCity": "London",
+            "LocationZip": "SE1 1YR",
+            "LocationCountry": "United Kingdom"
+          }
+        ]
+      }
+    }
+  },
+  "ResultsSection": {
+    "ParticipantFlowModule": {
+      "FlowPreAssignmentDetails": "In Part B, subjects were included at baseline if they had a baseline neutrophil level in induced sputum of ≤70%",
+      "FlowRecruitmentDetails": "The study was conducted from June 2012 (first subject dosed) to April 2013 (last subject visit). The study was conducted in 2 parts; Part A was a single ascending dose study, Part B was a randomised placebo-controlled study to investigate the effect of a single dose of PA401 on sputum neutrophils following inhaled lipopolysaccharide challenge",
+      "FlowGroupList": {
+        "FlowGroup": [
+          {
+            "FlowGroupId": "FG000",
+            "FlowGroupTitle": "Part A PA401 0.1 mg"
+          },
+          {
+            "FlowGroupId": "FG001",
+            "FlowGroupTitle": "Part A PA401 0.3 mg"
+          },
+          {
+            "FlowGroupId": "FG002",
+            "FlowGroupTitle": "Part A PA401 1.0 mg"
+          },
+          {
+            "FlowGroupId": "FG003",
+            "FlowGroupTitle": "Part A PA401 3.0 mg"
+          },
+          {
+            "FlowGroupId": "FG004",
+            "FlowGroupTitle": "Part A PA401 10 mg"
+          },
+          {
+            "FlowGroupId": "FG005",
+            "FlowGroupTitle": "Part A Placebo"
+          },
+          {
+            "FlowGroupId": "FG006",
+            "FlowGroupTitle": "Part B PA401 1.0 mg",
+            "FlowGroupDescription": "PA401 1.0 mg was administered 30 minutes after lipopolysaccharide challenge"
+          },
+          {
+            "FlowGroupId": "FG007",
+            "FlowGroupTitle": "Part B PA401 3.0 mg",
+            "FlowGroupDescription": "PA401 3.0 mg was administered 30 minutes after lipopolysaccharide challenge"
+          },
+          {
+            "FlowGroupId": "FG008",
+            "FlowGroupTitle": "Part B Placebo",
+            "FlowGroupDescription": "Placebo was administered 30 minutes after lipopolysaccharide challenge"
+          }
+        ]
+      },
+      "FlowPeriodList": {
+        "FlowPeriod": [
+          {
+            "FlowPeriodTitle": "Overall Study",
+            "FlowMilestoneList": {
+              "FlowMilestone": [
+                {
+                  "FlowMilestoneType": "STARTED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "4"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "4"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG002",
+                        "FlowAchievementNumSubjects": "4"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG003",
+                        "FlowAchievementNumSubjects": "4"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG004",
+                        "FlowAchievementNumSubjects": "2"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG005",
+                        "FlowAchievementNumSubjects": "9"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG006",
+                        "FlowAchievementNumSubjects": "10"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG007",
+                        "FlowAchievementNumSubjects": "5"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG008",
+                        "FlowAchievementNumSubjects": "7"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "FlowMilestoneType": "COMPLETED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "4"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "4"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG002",
+                        "FlowAchievementNumSubjects": "4"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG003",
+                        "FlowAchievementNumSubjects": "4"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG004",
+                        "FlowAchievementNumSubjects": "2"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG005",
+                        "FlowAchievementNumSubjects": "9"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG006",
+                        "FlowAchievementNumSubjects": "10"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG007",
+                        "FlowAchievementNumSubjects": "5"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG008",
+                        "FlowAchievementNumSubjects": "7"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "FlowMilestoneType": "NOT COMPLETED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "0"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "0"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG002",
+                        "FlowAchievementNumSubjects": "0"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG003",
+                        "FlowAchievementNumSubjects": "0"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG004",
+                        "FlowAchievementNumSubjects": "0"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG005",
+                        "FlowAchievementNumSubjects": "0"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG006",
+                        "FlowAchievementNumSubjects": "0"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG007",
+                        "FlowAchievementNumSubjects": "0"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG008",
+                        "FlowAchievementNumSubjects": "0"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "BaselineCharacteristicsModule": {
+      "BaselineGroupList": {
+        "BaselineGroup": [
+          {
+            "BaselineGroupId": "BG000",
+            "BaselineGroupTitle": "Part A"
+          },
+          {
+            "BaselineGroupId": "BG001",
+            "BaselineGroupTitle": "Part B"
+          },
+          {
+            "BaselineGroupId": "BG002",
+            "BaselineGroupTitle": "Total",
+            "BaselineGroupDescription": "Total of all reporting groups"
+          }
+        ]
+      },
+      "BaselineDenomList": {
+        "BaselineDenom": [
+          {
+            "BaselineDenomUnits": "Participants",
+            "BaselineDenomCountList": {
+              "BaselineDenomCount": [
+                {
+                  "BaselineDenomCountGroupId": "BG000",
+                  "BaselineDenomCountValue": "27"
+                },
+                {
+                  "BaselineDenomCountGroupId": "BG001",
+                  "BaselineDenomCountValue": "22"
+                },
+                {
+                  "BaselineDenomCountGroupId": "BG002",
+                  "BaselineDenomCountValue": "49"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "BaselineMeasureList": {
+        "BaselineMeasure": [
+          {
+            "BaselineMeasureTitle": "Age, Categorical",
+            "BaselineMeasureParamType": "Count of Participants",
+            "BaselineMeasureUnitOfMeasure": "Participants",
+            "BaselineClassList": {
+              "BaselineClass": [
+                {
+                  "BaselineCategoryList": {
+                    "BaselineCategory": [
+                      {
+                        "BaselineCategoryTitle": "<=18 years",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "0"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "0"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "BaselineCategoryTitle": "Between 18 and 65 years",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "27"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "22"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "49"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "BaselineCategoryTitle": ">=65 years",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "0"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "0"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "BaselineMeasureTitle": "Sex: Female, Male",
+            "BaselineMeasureParamType": "Count of Participants",
+            "BaselineMeasureUnitOfMeasure": "Participants",
+            "BaselineClassList": {
+              "BaselineClass": [
+                {
+                  "BaselineCategoryList": {
+                    "BaselineCategory": [
+                      {
+                        "BaselineCategoryTitle": "Female",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "0"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "0"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "BaselineCategoryTitle": "Male",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "27"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "22"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "49"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "BaselineMeasureTitle": "Region of Enrollment",
+            "BaselineMeasureParamType": "Number",
+            "BaselineMeasureUnitOfMeasure": "participants",
+            "BaselineClassList": {
+              "BaselineClass": [
+                {
+                  "BaselineClassTitle": "United Kingdom",
+                  "BaselineCategoryList": {
+                    "BaselineCategory": [
+                      {
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "27"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "22"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "49"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomeMeasuresModule": {
+      "OutcomeMeasureList": {
+        "OutcomeMeasure": [
+          {
+            "OutcomeMeasureType": "Primary",
+            "OutcomeMeasureTitle": "Treatment Emergent Adverse Events",
+            "OutcomeMeasurePopulationDescription": "Safety analyses were performed on all subjects who receive a dose of PA401 or placebo and who had any post-dose measurements",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Number",
+            "OutcomeMeasureUnitOfMeasure": "Participants",
+            "OutcomeMeasureTimeFrame": "up to 14 days post dose",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Part A PA401 0.1 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Part A PA401 0.3 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG002",
+                  "OutcomeGroupTitle": "Part A PA401 1.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG003",
+                  "OutcomeGroupTitle": "Part A PA401 3.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG004",
+                  "OutcomeGroupTitle": "Part A PA401 10 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG005",
+                  "OutcomeGroupTitle": "Part A Placebo"
+                },
+                {
+                  "OutcomeGroupId": "OG006",
+                  "OutcomeGroupTitle": "Part B PA401 1.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG007",
+                  "OutcomeGroupTitle": "Part B PA401 3.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG008",
+                  "OutcomeGroupTitle": "Part B Placebo"
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG002",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG003",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG004",
+                        "OutcomeDenomCountValue": "2"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG005",
+                        "OutcomeDenomCountValue": "9"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG006",
+                        "OutcomeDenomCountValue": "10"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG007",
+                        "OutcomeDenomCountValue": "5"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG008",
+                        "OutcomeDenomCountValue": "7"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "3"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "3"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "4"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG003",
+                              "OutcomeMeasurementValue": "2"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG004",
+                              "OutcomeMeasurementValue": "2"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG005",
+                              "OutcomeMeasurementValue": "3"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG006",
+                              "OutcomeMeasurementValue": "7"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG007",
+                              "OutcomeMeasurementValue": "5"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG008",
+                              "OutcomeMeasurementValue": "4"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Primary",
+            "OutcomeMeasureTitle": "Immunogenicity",
+            "OutcomeMeasureDescription": "Anti-drug antibody data",
+            "OutcomeMeasurePopulationDescription": "Safety analyses were performed on all subjects who received a dose of PA401 or placebo and who had any post-dose assessments",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Number",
+            "OutcomeMeasureUnitOfMeasure": "participants",
+            "OutcomeMeasureTimeFrame": "Up to 28 days post dose",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Part A PA401 0.1 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Part A PA401 0.3 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG002",
+                  "OutcomeGroupTitle": "Part A PA401 1.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG003",
+                  "OutcomeGroupTitle": "Part A PA401 3.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG004",
+                  "OutcomeGroupTitle": "Part A PA401 10 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG005",
+                  "OutcomeGroupTitle": "Part A Placebo"
+                },
+                {
+                  "OutcomeGroupId": "OG006",
+                  "OutcomeGroupTitle": "Part B PA401 1.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG007",
+                  "OutcomeGroupTitle": "Part B PA401 3.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG008",
+                  "OutcomeGroupTitle": "Part B Placebo"
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG002",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG003",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG004",
+                        "OutcomeDenomCountValue": "2"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG005",
+                        "OutcomeDenomCountValue": "9"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG006",
+                        "OutcomeDenomCountValue": "10"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG007",
+                        "OutcomeDenomCountValue": "5"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG008",
+                        "OutcomeDenomCountValue": "7"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeClassTitle": "Day 1 anti-drug antibody (ADA) positive",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG003",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG004",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG005",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG006",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG007",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG008",
+                              "OutcomeMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "Day 1 ADA positive and cross-reactive with IL-8",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG003",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG004",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG005",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG006",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG007",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG008",
+                              "OutcomeMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "Day 1 Pre-existing IL-8 autoantibodies",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "1"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG003",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG004",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG005",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG006",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG007",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG008",
+                              "OutcomeMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "Day 15 ADA positive",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG003",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG004",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG005",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG006",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG007",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG008",
+                              "OutcomeMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "Day 15 ADA positive and cross-reactive with IL-8",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG003",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG004",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG005",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG006",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG007",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG008",
+                              "OutcomeMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "Day 15 Pre-existing IL-8 autoantibodies",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "1"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG003",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG004",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG005",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG006",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG007",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG008",
+                              "OutcomeMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "Day 29 ADA positive",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG003",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG004",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG005",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG006",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG007",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG008",
+                              "OutcomeMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "Day 29 ADA positive and cross-reactive with IL-8",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG003",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG004",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG005",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG006",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG007",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG008",
+                              "OutcomeMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "OutcomeClassTitle": "Day 29 Pre-existing IL-8 autoantibodies",
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "1"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG003",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG004",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG005",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG006",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG007",
+                              "OutcomeMeasurementValue": "0"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG008",
+                              "OutcomeMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Pharmacokinetic Parameters: Maximum Observed Plasma Concentration (Cmax)",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Mean",
+            "OutcomeMeasureDispersionType": "Standard Deviation",
+            "OutcomeMeasureUnitOfMeasure": "ng/mL",
+            "OutcomeMeasureTimeFrame": "Up to 12 time-points up to 48 hours post dose",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Part A PA401 1.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Part A PA401 3.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG002",
+                  "OutcomeGroupTitle": "Part B PA401 1.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG003",
+                  "OutcomeGroupTitle": "Part B PA401 3.0 mg"
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG002",
+                        "OutcomeDenomCountValue": "8"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG003",
+                        "OutcomeDenomCountValue": "5"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "1.88",
+                              "OutcomeMeasurementSpread": "0.587"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "7.51",
+                              "OutcomeMeasurementSpread": "2.64"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "1.29",
+                              "OutcomeMeasurementSpread": "0.411"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG003",
+                              "OutcomeMeasurementValue": "2.85",
+                              "OutcomeMeasurementSpread": "0.805"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Pharmacokinetic Parameters: Time of Occurrence of the Maximum Observed Plasma Concentration (Tmax)",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Mean",
+            "OutcomeMeasureDispersionType": "Standard Deviation",
+            "OutcomeMeasureUnitOfMeasure": "hours",
+            "OutcomeMeasureTimeFrame": "Up to 12 time-points up to 48 hours post dose",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Part A PA401 1.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Part A PA401 3.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG002",
+                  "OutcomeGroupTitle": "Part B PA401 1.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG003",
+                  "OutcomeGroupTitle": "Part B PA401 3.0 mg"
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG002",
+                        "OutcomeDenomCountValue": "8"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG003",
+                        "OutcomeDenomCountValue": "5"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "2.75",
+                              "OutcomeMeasurementSpread": "0.87"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "2.02",
+                              "OutcomeMeasurementSpread": "0.40"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "2.09",
+                              "OutcomeMeasurementSpread": "0.53"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG003",
+                              "OutcomeMeasurementValue": "2.20",
+                              "OutcomeMeasurementSpread": "1.10"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Pharmacokinetic Parameters: Terminal Half-life (t1/2)",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Mean",
+            "OutcomeMeasureDispersionType": "Standard Deviation",
+            "OutcomeMeasureUnitOfMeasure": "hours",
+            "OutcomeMeasureTimeFrame": "Up to 12 time-points up to 48 hours post dose",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Part A PA401 1.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Part A PA401 3.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG002",
+                  "OutcomeGroupTitle": "Part B PA401 1.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG003",
+                  "OutcomeGroupTitle": "Part B PA401 3.0 mg"
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG002",
+                        "OutcomeDenomCountValue": "8"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG003",
+                        "OutcomeDenomCountValue": "3"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "9.26",
+                              "OutcomeMeasurementSpread": "2.57"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "8.44",
+                              "OutcomeMeasurementSpread": "0.846"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "6.17",
+                              "OutcomeMeasurementSpread": "1.79"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG003",
+                              "OutcomeMeasurementValue": "10.1",
+                              "OutcomeMeasurementSpread": "4.47"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Pharmacokinetic Parameters: Area Under the Plasma Concentration-time Curve From Zero to Infinity",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Mean",
+            "OutcomeMeasureDispersionType": "Standard Deviation",
+            "OutcomeMeasureUnitOfMeasure": "ng.h/mL",
+            "OutcomeMeasureTimeFrame": "Up to 12 time-points up to 48 hours post dose",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Part A PA401 1.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Part A PA401 3.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG002",
+                  "OutcomeGroupTitle": "Part B PA401 1.0 mg"
+                },
+                {
+                  "OutcomeGroupId": "OG003",
+                  "OutcomeGroupTitle": "Part B PA401 3.0 mg"
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "3"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "4"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG002",
+                        "OutcomeDenomCountValue": "7"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG003",
+                        "OutcomeDenomCountValue": "3"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "23.9",
+                              "OutcomeMeasurementSpread": "9.72"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "93.2",
+                              "OutcomeMeasurementSpread": "12.1"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "12.2",
+                              "OutcomeMeasurementSpread": "3.82"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG003",
+                              "OutcomeMeasurementValue": "29.3",
+                              "OutcomeMeasurementSpread": "5.66"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Primary",
+            "OutcomeMeasureTitle": "Assessment of the Effect of PA401 on Induced Sputum Total Neutrophils",
+            "OutcomeMeasureDescription": "Induced sputum was collected 6 hours after lipopolysaccharide challenge (5.5 hours following dosing) and assessed for neutrophils",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Least Squares Mean",
+            "OutcomeMeasureDispersionType": "95% Confidence Interval",
+            "OutcomeMeasureUnitOfMeasure": "x10e6 cells/g",
+            "OutcomeMeasureTimeFrame": "5.5 hours post dose",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Part B 3.0 mg PA401"
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Part B 1.0 mg PA401"
+                },
+                {
+                  "OutcomeGroupId": "OG002",
+                  "OutcomeGroupTitle": "Part B Placebo"
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "5"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "10"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG002",
+                        "OutcomeDenomCountValue": "7"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "11.6882",
+                              "OutcomeMeasurementLowerLimit": "2.8474",
+                              "OutcomeMeasurementUpperLimit": "20.5290"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "7.7274",
+                              "OutcomeMeasurementLowerLimit": "1.4038",
+                              "OutcomeMeasurementUpperLimit": "14.0511"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "12.7241",
+                              "OutcomeMeasurementLowerLimit": "5.1749",
+                              "OutcomeMeasurementUpperLimit": "20.2733"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Assessment of the Effect of PA401 on Induced Sputum Percentage Neutrophils",
+            "OutcomeMeasureDescription": "Induced sputum was collected 6 hours after lipopolysaccharide challenge (5.5 hours following dosing) and assessed for neutrophils",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Least Squares Mean",
+            "OutcomeMeasureDispersionType": "95% Confidence Interval",
+            "OutcomeMeasureUnitOfMeasure": "percentage of total cells",
+            "OutcomeMeasureTimeFrame": "5.5 hours post dose",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Part B 3.0 mg PA401"
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Part B 1.0 mg PA401"
+                },
+                {
+                  "OutcomeGroupId": "OG002",
+                  "OutcomeGroupTitle": "Part B Placebo"
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "5"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "10"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG002",
+                        "OutcomeDenomCountValue": "7"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "32.9429",
+                              "OutcomeMeasurementLowerLimit": "26.0955",
+                              "OutcomeMeasurementUpperLimit": "39.7902"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "36.7007",
+                              "OutcomeMeasurementLowerLimit": "31.7343",
+                              "OutcomeMeasurementUpperLimit": "41.6670"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG002",
+                              "OutcomeMeasurementValue": "34.3856",
+                              "OutcomeMeasurementLowerLimit": "28.4360",
+                              "OutcomeMeasurementUpperLimit": "40.3352"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "AdverseEventsModule": {
+      "EventsFrequencyThreshold": "5",
+      "EventsTimeFrame": "Up to 14 days post dose",
+      "EventsDescription": "Adverse events were monitored by the clinical staff asking non-leading questions during the period of confinement to the clinic.",
+      "EventGroupList": {
+        "EventGroup": [
+          {
+            "EventGroupId": "EG000",
+            "EventGroupTitle": "Part A PA401 0.1 mg",
+            "EventGroupSeriousNumAffected": "0",
+            "EventGroupSeriousNumAtRisk": "4",
+            "EventGroupOtherNumAffected": "3",
+            "EventGroupOtherNumAtRisk": "4"
+          },
+          {
+            "EventGroupId": "EG001",
+            "EventGroupTitle": "Part A PA401 0.3 mg",
+            "EventGroupSeriousNumAffected": "0",
+            "EventGroupSeriousNumAtRisk": "4",
+            "EventGroupOtherNumAffected": "3",
+            "EventGroupOtherNumAtRisk": "4"
+          },
+          {
+            "EventGroupId": "EG002",
+            "EventGroupTitle": "Part A PA401 1.0 mg",
+            "EventGroupSeriousNumAffected": "0",
+            "EventGroupSeriousNumAtRisk": "4",
+            "EventGroupOtherNumAffected": "4",
+            "EventGroupOtherNumAtRisk": "4"
+          },
+          {
+            "EventGroupId": "EG003",
+            "EventGroupTitle": "Part A PA401 3.0 mg",
+            "EventGroupSeriousNumAffected": "0",
+            "EventGroupSeriousNumAtRisk": "4",
+            "EventGroupOtherNumAffected": "2",
+            "EventGroupOtherNumAtRisk": "4"
+          },
+          {
+            "EventGroupId": "EG004",
+            "EventGroupTitle": "Part A PA401 10 mg",
+            "EventGroupSeriousNumAffected": "1",
+            "EventGroupSeriousNumAtRisk": "2",
+            "EventGroupOtherNumAffected": "2",
+            "EventGroupOtherNumAtRisk": "2"
+          },
+          {
+            "EventGroupId": "EG005",
+            "EventGroupTitle": "Part A Placebo",
+            "EventGroupSeriousNumAffected": "0",
+            "EventGroupSeriousNumAtRisk": "9",
+            "EventGroupOtherNumAffected": "3",
+            "EventGroupOtherNumAtRisk": "9"
+          },
+          {
+            "EventGroupId": "EG006",
+            "EventGroupTitle": "Part B PA401 1.0 mg",
+            "EventGroupSeriousNumAffected": "0",
+            "EventGroupSeriousNumAtRisk": "10",
+            "EventGroupOtherNumAffected": "7",
+            "EventGroupOtherNumAtRisk": "10"
+          },
+          {
+            "EventGroupId": "EG007",
+            "EventGroupTitle": "Part B PA401 3.0 mg",
+            "EventGroupSeriousNumAffected": "0",
+            "EventGroupSeriousNumAtRisk": "5",
+            "EventGroupOtherNumAffected": "5",
+            "EventGroupOtherNumAtRisk": "5"
+          },
+          {
+            "EventGroupId": "EG008",
+            "EventGroupTitle": "Part B Placebo",
+            "EventGroupSeriousNumAffected": "0",
+            "EventGroupSeriousNumAtRisk": "7",
+            "EventGroupOtherNumAffected": "4",
+            "EventGroupOtherNumAtRisk": "7"
+          }
+        ]
+      },
+      "SeriousEventList": {
+        "SeriousEvent": [
+          {
+            "SeriousEventTerm": "Atrial Fibrillation",
+            "SeriousEventOrganSystem": "Cardiac disorders",
+            "SeriousEventSourceVocabulary": "MedDRA (15.0)",
+            "SeriousEventAssessmentType": "Systematic Assessment",
+            "SeriousEventStatsList": {
+              "SeriousEventStats": [
+                {
+                  "SeriousEventStatsGroupId": "EG000",
+                  "SeriousEventStatsNumEvents": "0",
+                  "SeriousEventStatsNumAffected": "0",
+                  "SeriousEventStatsNumAtRisk": "3"
+                },
+                {
+                  "SeriousEventStatsGroupId": "EG001",
+                  "SeriousEventStatsNumEvents": "0",
+                  "SeriousEventStatsNumAffected": "0",
+                  "SeriousEventStatsNumAtRisk": "4"
+                },
+                {
+                  "SeriousEventStatsGroupId": "EG002",
+                  "SeriousEventStatsNumEvents": "0",
+                  "SeriousEventStatsNumAffected": "0",
+                  "SeriousEventStatsNumAtRisk": "4"
+                },
+                {
+                  "SeriousEventStatsGroupId": "EG003",
+                  "SeriousEventStatsNumEvents": "0",
+                  "SeriousEventStatsNumAffected": "0",
+                  "SeriousEventStatsNumAtRisk": "4"
+                },
+                {
+                  "SeriousEventStatsGroupId": "EG004",
+                  "SeriousEventStatsNumEvents": "1",
+                  "SeriousEventStatsNumAffected": "1",
+                  "SeriousEventStatsNumAtRisk": "2"
+                },
+                {
+                  "SeriousEventStatsGroupId": "EG005",
+                  "SeriousEventStatsNumEvents": "0",
+                  "SeriousEventStatsNumAffected": "0",
+                  "SeriousEventStatsNumAtRisk": "9"
+                },
+                {
+                  "SeriousEventStatsGroupId": "EG006",
+                  "SeriousEventStatsNumEvents": "0",
+                  "SeriousEventStatsNumAffected": "0",
+                  "SeriousEventStatsNumAtRisk": "10"
+                },
+                {
+                  "SeriousEventStatsGroupId": "EG007",
+                  "SeriousEventStatsNumEvents": "0",
+                  "SeriousEventStatsNumAffected": "0",
+                  "SeriousEventStatsNumAtRisk": "5"
+                },
+                {
+                  "SeriousEventStatsGroupId": "EG008",
+                  "SeriousEventStatsNumEvents": "0",
+                  "SeriousEventStatsNumAffected": "0",
+                  "SeriousEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "OtherEventList": {
+        "OtherEvent": [
+          {
+            "OtherEventTerm": "Tinnitus",
+            "OtherEventOrganSystem": "Ear and labyrinth disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Vision Blurred",
+            "OtherEventOrganSystem": "Eye disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Photophobia",
+            "OtherEventOrganSystem": "Eye disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Vomiting",
+            "OtherEventOrganSystem": "Gastrointestinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "12",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Nausea",
+            "OtherEventOrganSystem": "Gastrointestinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Gastrointestinal Disorder",
+            "OtherEventOrganSystem": "Gastrointestinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Abdominal Pain",
+            "OtherEventOrganSystem": "Gastrointestinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Mouth Ulceration",
+            "OtherEventOrganSystem": "Gastrointestinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Diarrhoea",
+            "OtherEventOrganSystem": "Gastrointestinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Abdominal Discomfort",
+            "OtherEventOrganSystem": "Gastrointestinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "4",
+                  "OtherEventStatsNumAffected": "4",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Pyrexia",
+            "OtherEventOrganSystem": "General disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Injection Site Pruritus",
+            "OtherEventOrganSystem": "General disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Injection Site Erythema",
+            "OtherEventOrganSystem": "General disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "3",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Influenza Like Illness",
+            "OtherEventOrganSystem": "General disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "4",
+                  "OtherEventStatsNumAffected": "3",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Chills",
+            "OtherEventOrganSystem": "General disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Chest Discomfort",
+            "OtherEventOrganSystem": "General disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Oedema Peripheral",
+            "OtherEventOrganSystem": "General disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Injection Site Reaction",
+            "OtherEventOrganSystem": "General disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Viral Infection",
+            "OtherEventOrganSystem": "Infections and infestations",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Nasopharyngitis",
+            "OtherEventOrganSystem": "Infections and infestations",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Rhinitis",
+            "OtherEventOrganSystem": "Infections and infestations",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Excoriation",
+            "OtherEventOrganSystem": "Injury, poisoning and procedural complications",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Contusion",
+            "OtherEventOrganSystem": "Injury, poisoning and procedural complications",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "C-Reactive Protein Increased",
+            "OtherEventOrganSystem": "Investigations",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Hypoglycaemia",
+            "OtherEventOrganSystem": "Metabolism and nutrition disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Pain In Extremity",
+            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Musculoskeletal Stiffness",
+            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Back Pain",
+            "OtherEventOrganSystem": "Musculoskeletal and connective tissue disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Headache",
+            "OtherEventOrganSystem": "Nervous system disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "3",
+                  "OtherEventStatsNumAffected": "3",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "3",
+                  "OtherEventStatsNumAffected": "3",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "3",
+                  "OtherEventStatsNumAffected": "3",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Dizziness",
+            "OtherEventOrganSystem": "Nervous system disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Disturbance In Attention",
+            "OtherEventOrganSystem": "Nervous system disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Syncope",
+            "OtherEventOrganSystem": "Nervous system disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Presyncope",
+            "OtherEventOrganSystem": "Nervous system disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "2",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Paraesthesia",
+            "OtherEventOrganSystem": "Nervous system disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Lethargy",
+            "OtherEventOrganSystem": "Nervous system disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "3",
+                  "OtherEventStatsNumAffected": "3",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Dysuria",
+            "OtherEventOrganSystem": "Renal and urinary disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Epistaxis",
+            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Throat Irritation",
+            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Rhinorrhoea",
+            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Oropharyngeal Pain",
+            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Dry Throat",
+            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "1",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          },
+          {
+            "OtherEventTerm": "Cough",
+            "OtherEventOrganSystem": "Respiratory, thoracic and mediastinal disorders",
+            "OtherEventSourceVocabulary": "MedDRA (15.0)",
+            "OtherEventAssessmentType": "Systematic Assessment",
+            "OtherEventStatsList": {
+              "OtherEventStats": [
+                {
+                  "OtherEventStatsGroupId": "EG000",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG001",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG002",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG003",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "4"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG004",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "2"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG005",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "9"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG006",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "10"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG007",
+                  "OtherEventStatsNumEvents": "0",
+                  "OtherEventStatsNumAffected": "0",
+                  "OtherEventStatsNumAtRisk": "5"
+                },
+                {
+                  "OtherEventStatsGroupId": "EG008",
+                  "OtherEventStatsNumEvents": "2",
+                  "OtherEventStatsNumAffected": "1",
+                  "OtherEventStatsNumAtRisk": "7"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "MoreInfoModule": {
+      "CertainAgreement": {
+        "AgreementPISponsorEmployee": "No",
+        "AgreementRestrictionType": "OTHER",
+        "AgreementRestrictiveAgreement": "Yes",
+        "AgreementOtherDetails": "After completion of the study, the Investigator may prepare a joint publication with the Sponsor. The Investigator must undertake not to submit any part of the individual data from this protocol for publication without prior consent of the Sponsor at a mutually agreed time."
+      },
+      "PointOfContact": {
+        "PointOfContactTitle": "ProtAffin Biotechnologie AG",
+        "PointOfContactOrganization": "ProtAffin Biotechnologie AG",
+        "PointOfContactEMail": "office@protaffin.com"
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3369",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Infl",
+            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02336646",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2012-02-070B"
+      },
+      "Organization": {
+        "OrgFullName": "Taiwan Bio Therapeutics Co., Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Cell Therapy With Mesenchymal Stem Cell in Ischemic Limb Disease",
+      "OfficialTitle": "Cell Therapy With Mesenchymal Stem Cell in Ischemic Limb Disease"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2015",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 1, 2015",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 27, 2018",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 20, 2018",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "January 8, 2015",
+      "StudyFirstSubmitQCDate": "January 12, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 13, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "August 19, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 25, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Taiwan Bio Therapeutics Co., Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Bone marrow MSCs will be isolated from allogenic donors, expanded under hypoxic conditions using medium containing no serum or animal-derived reagents, and applies for Phase Ⅰ/Ⅱ study in treating 18 recipients with ischemic limb diseases.",
+      "DetailedDescription": "Ischemic limb disease remains one of the major causes of morbidity and mortality in the industrialized world despite the development of several new therapeutic modalities. Based on experimental data demonstrating that infusion or injection of stem/progenitor cells enhances blood flow in models of cardiovascular diseases, clinical trials were initiated in 2001 to treat patients with critical limb ischemia or cardiac ischemia with circulating blood or bone marrow-derived cells. Despite all promises, pending uncertainties and practical limitations attenuate the therapeutic use of stem/progenitor cells for ischemic limb disease. The main theme and method in the current program project, based on expertise, track record, and preliminary results of PI's laboratory, is to focus on clinical studies of using allogenic mesenchymal stem cells (MSCs), expanded under hypoxic conditions (1% O2), in treating ischemic limbs. This project is an integrated and coordinated effort aimed to overcome the regulation of cell product, and the barriers of preclinical and clinical studies. For the purposes, we have specially set up the core laboratory for stem/progenitor cells production and quality control in Cell Therapy Clean Room on the 9th floor of Medical Science Technology Building in Taipei Veterans General Hospital. We have also completed the preclinical studies in using allogenic hypoxic mouse MSCs in treating limb ischemia. In the current project, bone marrow MSCs will be isolated from allogenic donors, expanded under hypoxic conditions using medium containing no serum or animal-derived reagents, and applies for Phase Ⅰ/Ⅱ study in treating 18 recipients with ischemic limb diseases in three years."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Critical Limb Ischemia"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "18",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Low Dose Allogenic MSC",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Low dose allogenic mesenchymal stem cells with IM injection",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Allogenic MSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "High Dose Allogenic MSC",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "High dose allogenic mesenchymal stem cells with IM injection",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Allogenic MSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "normal saline with Intramuscular injection",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Normal saline"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Allogenic MSC",
+            "InterventionDescription": "Hypoxia-cultured human bone marrow derived mesenchymal stem cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "High Dose Allogenic MSC",
+                "Low Dose Allogenic MSC"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Biochymal"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Normal saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Adverse events",
+            "PrimaryOutcomeDescription": "Number of adverse events reported",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Efficacy-The Wong Baker FACES® pain rating scale",
+            "SecondaryOutcomeDescription": "The Wong Baker FACES® pain rating scale, for evaluation of ischemic pain in the diseased lower limb of subjects receiving cell injection compared to placebo",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Efficacy-Transcutaneous oxygen pressure(TcPO2)",
+            "SecondaryOutcomeDescription": "The Transcutaneous oxygen pressure (TcPO2) on foot of subjects receiving cell injection compared to placebo",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Efficacy-walking distance (TWD)",
+            "SecondaryOutcomeDescription": "Total walking distance (TWD) on a standardized treadmill test compared to placebo",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Efficacy-Ankle Brachial Pressure Index (ABPI)",
+            "SecondaryOutcomeDescription": "The Ankle Brachial Pressure Index (ABPI) in the lower limb of subjects receiving cell injection compared to placebo",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nFontaine stage > II, total walking distance < 100 m, stair < 1 floor, or ulcer / necrosis\nEstablished critical limb ischemia, clinically and hemodynamically confirmed as per Rutherford- Ⅱ-4, Ⅲ-5, or Ⅲ-6; Patients having Infra-inguinal arterial occlusive disease with rest pain or ischemic ulcer/necrosis, who are not eligible for or have failed traditional revascularization treatment\nAnkle Brachial Pressure Index (ABPI) ≤ 0.8，ankle pressure ≤ 70 mm Hg, or TcPO2 ≤ 70 mmHg in the foot\nNo response to medication (aspirin and cilostazol)\nNormal liver and renal function\nOn regular medication for hypertension if any\n\nExclusion Criteria:\n\nThe above mentioned patients combined with infection or systemic septicemia. (ps, patients with poor control of diabetes, hypertension and hyperlipidemia will also be excluded\nPatient with Immunocompromised or immunosuppressed\nType I Diabetes\nPatients having stroke or myocardial infarction within last 3 months\nHb% < 10 gm%, Serum Creatinine ≥ 2mg%, Serum Total Bilirubin ≥2mg%, HbA1c > 8%",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Chun Che Shih",
+            "OverallOfficialAffiliation": "Taipei Veterans General Hospital, Taipei, Taiwan",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Taipei Veterans General Hospital",
+            "LocationCity": "Taipei",
+            "LocationCountry": "Taiwan"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007511",
+            "ConditionMeshTerm": "Ischemia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafAsFound": "Ischemia",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

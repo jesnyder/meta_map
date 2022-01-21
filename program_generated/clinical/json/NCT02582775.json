@@ -1,0 +1,927 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02582775",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2015LS076"
+      },
+      "Organization": {
+        "OrgFullName": "Masonic Cancer Center, University of Minnesota",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "MT2015-20: Biochemical Correction of Severe EB by Allo HSCT and Serial Donor MSCs",
+      "OfficialTitle": "MT2015-20: Biochemical Correction of Severe Epidermolysis Bullosa by Allogeneic Cell Transplantation and Serial Donor Mesenchymal Cell Infusions"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 2016",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 16, 2015",
+      "StudyFirstSubmitQCDate": "October 19, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 21, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "October 6, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 8, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Masonic Cancer Center, University of Minnesota",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a single-institution, phase II study to determine the event-free survival at 1 year post allogeneic transplant and serial mesenchymal stem cell (MSC) infusions from a related donor (HLA identical, mismatched or haploidentical) or matched unrelated donor for the biochemical correction of severe epidermolysis bullosa (EB)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Epidermolysis Bullosa"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "84",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "CLOSED TO ACCRUAL Arm A: HCT with 300 cGy of TBI",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Epidermolysis bullosa patients treated per study regimen with chemotherapy and stem cell transplant without mesenchymal stem cell infusions.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Thymoglobulin",
+                "Drug: Cyclophosphamide",
+                "Drug: Fludarabine",
+                "Radiation: Total Body Irradiation",
+                "Procedure: Bone marrow infusion",
+                "Drug: Tacrolimus",
+                "Drug: Mycophenolate Mofetil"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "CLOSED TO ACCRUAL Arm B: HCT plus MSC, 300 cGy of TBI",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Epidermolysis bullosa patients treated per study regimen with chemotherapy and hematopoietic stem cell transplant with mesenchymal stem cell infusions using 300 cGY of TBI.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Thymoglobulin",
+                "Drug: Cyclophosphamide",
+                "Drug: Fludarabine",
+                "Radiation: Total Body Irradiation",
+                "Procedure: Bone marrow infusion",
+                "Drug: Tacrolimus",
+                "Drug: Mycophenolate Mofetil",
+                "Biological: Donor mesenchymal stem cell infusions"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Arm C: Re-Transplant with 300 cGy of TBI",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Epidermolysis bullosa patients treated regardless of original transplant arm with re-transplant using 300 cGy of TBI.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Thymoglobulin",
+                "Drug: Cyclophosphamide",
+                "Drug: Fludarabine",
+                "Radiation: Total Body Irradiation",
+                "Procedure: Bone marrow infusion",
+                "Drug: Tacrolimus",
+                "Drug: Mycophenolate Mofetil",
+                "Biological: Donor mesenchymal stem cell infusions"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Arm D: HCT with 200 cGy BID of TBI",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "HLA-matched epidermolysis bullosa patients treated with hematopoietic cell transplant alone using 200 cGY BID of TBI (400 cGy total).",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Thymoglobulin",
+                "Drug: Cyclophosphamide",
+                "Drug: Fludarabine",
+                "Radiation: Total Body Irradiation",
+                "Procedure: Bone marrow infusion",
+                "Drug: Mycophenolate Mofetil"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Arm E: HCT plus MSC, 200 cGy BID of TBI",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "HLA-matched epidermolysis bullosa patients treated with hematopoietic cell transplant plus serial MSC infusions using 200 cGY BID of TBI (400 cGy total)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Thymoglobulin",
+                "Drug: Cyclophosphamide",
+                "Drug: Fludarabine",
+                "Radiation: Total Body Irradiation",
+                "Procedure: Bone marrow infusion",
+                "Drug: Mycophenolate Mofetil",
+                "Biological: Donor mesenchymal stem cell infusions"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Arm F: HCT Alone, 200 cGy BID of TBI",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "HLA-mismatched epidermolysis bullosa patients treated with hematopoietic cell transplant alone using 200 cGy BID of TBI (400 cGy total) + addition of low dose busulfan for recipients of HLA-mismatched bone marrow",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Thymoglobulin",
+                "Drug: Cyclophosphamide",
+                "Drug: Fludarabine",
+                "Radiation: Total Body Irradiation",
+                "Procedure: Bone marrow infusion",
+                "Drug: Tacrolimus",
+                "Drug: Mycophenolate Mofetil",
+                "Drug: Busulfan"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Arm G: HCT plus MSC, 200 cGy",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "HLA-mismatched epidermolysis bullosa patients treated with hematopoietic cell transplant plus serial MSC infusions using 200 cGy BID of TBI (400 cGy total) + addition of low dose busulfan for recipients of HLA-mismatched bone marrow",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Thymoglobulin",
+                "Drug: Cyclophosphamide",
+                "Drug: Fludarabine",
+                "Radiation: Total Body Irradiation",
+                "Procedure: Bone marrow infusion",
+                "Drug: Tacrolimus",
+                "Drug: Mycophenolate Mofetil",
+                "Biological: Donor mesenchymal stem cell infusions",
+                "Drug: Busulfan"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Thymoglobulin",
+            "InterventionDescription": "0.5 mg/kg IV over 6 hours on day -9 and 2 mg/kg IV over 4 hours on day -8 and day -7 with premeds and solumedrol through day -2",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm C: Re-Transplant with 300 cGy of TBI",
+                "Arm D: HCT with 200 cGy BID of TBI",
+                "Arm E: HCT plus MSC, 200 cGy BID of TBI",
+                "Arm F: HCT Alone, 200 cGy BID of TBI",
+                "Arm G: HCT plus MSC, 200 cGy",
+                "CLOSED TO ACCRUAL Arm A: HCT with 300 cGy of TBI",
+                "CLOSED TO ACCRUAL Arm B: HCT plus MSC, 300 cGy of TBI"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "ATG",
+                "anti-thymocyte globulin"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cyclophosphamide",
+            "InterventionDescription": "14.5 mg/kg IV over 1 hour day -6 and -5 50 mg/kg IV over 2 hours with mesna 40 mg/kg IV day +2 and +3",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm C: Re-Transplant with 300 cGy of TBI",
+                "Arm D: HCT with 200 cGy BID of TBI",
+                "Arm E: HCT plus MSC, 200 cGy BID of TBI",
+                "Arm F: HCT Alone, 200 cGy BID of TBI",
+                "Arm G: HCT plus MSC, 200 cGy",
+                "CLOSED TO ACCRUAL Arm A: HCT with 300 cGy of TBI",
+                "CLOSED TO ACCRUAL Arm B: HCT plus MSC, 300 cGy of TBI"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Cytoxan"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Fludarabine",
+            "InterventionDescription": "30 mg/m2 IV over 60 minutes days -6 through day -2",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm C: Re-Transplant with 300 cGy of TBI",
+                "Arm D: HCT with 200 cGy BID of TBI",
+                "Arm E: HCT plus MSC, 200 cGy BID of TBI",
+                "Arm F: HCT Alone, 200 cGy BID of TBI",
+                "Arm G: HCT plus MSC, 200 cGy",
+                "CLOSED TO ACCRUAL Arm A: HCT with 300 cGy of TBI",
+                "CLOSED TO ACCRUAL Arm B: HCT plus MSC, 300 cGy of TBI"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "fludarabine phosphate",
+                "Fludara"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Radiation",
+            "InterventionName": "Total Body Irradiation",
+            "InterventionDescription": "See arm description for dosing.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm C: Re-Transplant with 300 cGy of TBI",
+                "Arm D: HCT with 200 cGy BID of TBI",
+                "Arm E: HCT plus MSC, 200 cGy BID of TBI",
+                "Arm F: HCT Alone, 200 cGy BID of TBI",
+                "Arm G: HCT plus MSC, 200 cGy",
+                "CLOSED TO ACCRUAL Arm A: HCT with 300 cGy of TBI",
+                "CLOSED TO ACCRUAL Arm B: HCT plus MSC, 300 cGy of TBI"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "TBI"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Bone marrow infusion",
+            "InterventionDescription": "Bone marrow infusion on Day 0",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm C: Re-Transplant with 300 cGy of TBI",
+                "Arm D: HCT with 200 cGy BID of TBI",
+                "Arm E: HCT plus MSC, 200 cGy BID of TBI",
+                "Arm F: HCT Alone, 200 cGy BID of TBI",
+                "Arm G: HCT plus MSC, 200 cGy",
+                "CLOSED TO ACCRUAL Arm A: HCT with 300 cGy of TBI",
+                "CLOSED TO ACCRUAL Arm B: HCT plus MSC, 300 cGy of TBI"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "HCT"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Tacrolimus",
+            "InterventionDescription": "Day +5 through day +100 with goals of 5-10 ug/L (not used for HLA-identical related donors)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm C: Re-Transplant with 300 cGy of TBI",
+                "Arm F: HCT Alone, 200 cGy BID of TBI",
+                "Arm G: HCT plus MSC, 200 cGy",
+                "CLOSED TO ACCRUAL Arm A: HCT with 300 cGy of TBI",
+                "CLOSED TO ACCRUAL Arm B: HCT plus MSC, 300 cGy of TBI"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Prograf"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Mycophenolate Mofetil",
+            "InterventionDescription": "15 mg/kg IV q8h (based upon actual body weight) with the maximum total daily dose not to exceed 3 grams. Day +5 through day 35",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm C: Re-Transplant with 300 cGy of TBI",
+                "Arm D: HCT with 200 cGy BID of TBI",
+                "Arm E: HCT plus MSC, 200 cGy BID of TBI",
+                "Arm F: HCT Alone, 200 cGy BID of TBI",
+                "Arm G: HCT plus MSC, 200 cGy",
+                "CLOSED TO ACCRUAL Arm A: HCT with 300 cGy of TBI",
+                "CLOSED TO ACCRUAL Arm B: HCT plus MSC, 300 cGy of TBI"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "MMF"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Donor mesenchymal stem cell infusions",
+            "InterventionDescription": "Day 60, 100 and 180 (collected during donor BM harvest for graft)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm C: Re-Transplant with 300 cGy of TBI",
+                "Arm E: HCT plus MSC, 200 cGy BID of TBI",
+                "Arm G: HCT plus MSC, 200 cGy",
+                "CLOSED TO ACCRUAL Arm B: HCT plus MSC, 300 cGy of TBI"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Busulfan",
+            "InterventionDescription": "busulfan IV over 3 hours on days -3 and -2 for HLA-mismatched BM recipients only (Arms F and G)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm F: HCT Alone, 200 cGy BID of TBI",
+                "Arm G: HCT plus MSC, 200 cGy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Event-free survival",
+            "PrimaryOutcomeDescription": "An event defined as death or a 50% increase in a patient's IScoreEB from baseline",
+            "PrimaryOutcomeTimeFrame": "1 year post-transplant"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Percentage change of a patient's iscorEB",
+            "SecondaryOutcomeDescription": "iscorEB surveys are a validated, standard of care tool used to assess disease status in patients with Epidermolysis Bullosa.",
+            "SecondaryOutcomeTimeFrame": "1 and 2 year post-transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Transplant-related mortality",
+            "SecondaryOutcomeDescription": "Cumulative incidence will be used to estimate the probability of relapse treating non-relapse death as a competing risk and transplant-related mortality conversely treating relapse as a competing risk.",
+            "SecondaryOutcomeTimeFrame": "180 days post-transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of life",
+            "SecondaryOutcomeDescription": "Measured by the Lansky or Karnofsky score (10-100)",
+            "SecondaryOutcomeTimeFrame": "1 year post-transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of life",
+            "SecondaryOutcomeDescription": "Measured by the Lansky or Karnofsky score (10-100)",
+            "SecondaryOutcomeTimeFrame": "2 years post-transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Lymphoid Chimerism",
+            "SecondaryOutcomeDescription": "Proportion of lymphoid chimerism at various time-points.",
+            "SecondaryOutcomeTimeFrame": "Day 28, 60, 100, 180, and year 1 and 2 post-transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Myeloid Chimerism",
+            "SecondaryOutcomeDescription": "Proportion of myeloid chimerism at various time points.",
+            "SecondaryOutcomeTimeFrame": "Day 28, 60, 100, 180, and year 1 and 2 post-transplant"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnosis of severe form of EB characterized by collagen, laminin, integrin, keratin or plakin deficiency (by immunofluorescence staining with protein specific antibodies or Western blotting and by mutation analysis).\n\nAdequate organ function within 4 weeks of study registration defined as:\n\nRenal: glomerular filtration rate within normal range for age\nHepatic: Hepatic: bilirubin, AST/ALT, ALP < 5 x upper limit of normal\nPulmonary: adequate pulmonary function in the opinion of the enrolling investigator\nCardiac: left ventricular ejection fraction ≥ 45%, normal EKG or approved by Cardiology for transplant\nSexually active participants must agree to use adequate birth control for the during the study period (from before the start of the preparative chemotherapy through 1 year post-transplant)\nAvailable donor per section 5: targeted MFI < 1,000 (MFI exceeding 1000 must be approved by the PI and treatment team.)\nVoluntary written consent - adult or parent (with information sheet for minors, if applicable) prior to any research related procedures or treatment\n\nExclusion Criteria:\n\nbeta 3 laminin JEB mutants\nActive untreated systemic infection at time of transplantation (including active infection with Aspergillus or other mold within 30 days)\nHistory of HIV infection\nEvidence of squamous cell carcinoma\nPregnant or breast feeding. Females of child-bearing potential must have a negative pregnancy test prior to study registration as the agents administered in this study are Pregnancy Category C and D.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MaximumAge": "25 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Lisa Burke, RN",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "612-273-8482",
+            "CentralContactEMail": "lburke3@Fairview.org"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jakub Tolar, MD, PhD",
+            "OverallOfficialAffiliation": "Masonic Cancer Center, University of Minnesota",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Minnesota Masonic Cancer Center and Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Minneapolis",
+            "LocationState": "Minnesota",
+            "LocationZip": "55455",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Lisa Burke, RN",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "612-273-8482",
+                  "LocationContactEMail": "lburke3@Fairview.org"
+                },
+                {
+                  "LocationContactName": "Jakub Tolar, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "30843184",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Ebens CL, McGrath JA, Tamai K, Hovnanian A, Wagner JE, Riddle MJ, Keene DR, DeFor TE, Tryon R, Chen M, Woodley DT, Hook K, Tolar J. Bone marrow transplant with post-transplant cyclophosphamide for recessive dystrophic epidermolysis bullosa expands the related donor pool and permits tolerance of nonhaematopoietic cellular grafts. Br J Dermatol. 2019 Dec;181(6):1238-1246. doi: 10.1111/bjd.17858. Epub 2019 Jun 28."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000004820",
+            "ConditionMeshTerm": "Epidermolysis Bullosa"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012868",
+            "ConditionAncestorTerm": "Skin Abnormalities"
+          },
+          {
+            "ConditionAncestorId": "D000000013",
+            "ConditionAncestorTerm": "Congenital Abnormalities"
+          },
+          {
+            "ConditionAncestorId": "D000012873",
+            "ConditionAncestorTerm": "Skin Diseases, Genetic"
+          },
+          {
+            "ConditionAncestorId": "D000030342",
+            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+          },
+          {
+            "ConditionAncestorId": "D000012871",
+            "ConditionAncestorTerm": "Skin Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012872",
+            "ConditionAncestorTerm": "Skin Diseases, Vesiculobullous"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M7128",
+            "ConditionBrowseLeafName": "Epidermolysis Bullosa",
+            "ConditionBrowseLeafAsFound": "Epidermolysis Bullosa",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M12",
+            "ConditionBrowseLeafName": "Congenital Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14824",
+            "ConditionBrowseLeafName": "Skin Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14826",
+            "ConditionBrowseLeafName": "Skin Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14828",
+            "ConditionBrowseLeafName": "Skin Diseases, Genetic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22839",
+            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14827",
+            "ConditionBrowseLeafName": "Skin Diseases, Vesiculobullous",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2098",
+            "ConditionBrowseLeafName": "Epidermolysis Bullosa",
+            "ConditionBrowseLeafAsFound": "Epidermolysis Bullosa",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000014740",
+            "InterventionMeshTerm": "Vidarabine"
+          },
+          {
+            "InterventionMeshId": "D000009173",
+            "InterventionMeshTerm": "Mycophenolic Acid"
+          },
+          {
+            "InterventionMeshId": "D000003520",
+            "InterventionMeshTerm": "Cyclophosphamide"
+          },
+          {
+            "InterventionMeshId": "D000002066",
+            "InterventionMeshTerm": "Busulfan"
+          },
+          {
+            "InterventionMeshId": "C000024352",
+            "InterventionMeshTerm": "Fludarabine"
+          },
+          {
+            "InterventionMeshId": "C000042382",
+            "InterventionMeshTerm": "Fludarabine phosphate"
+          },
+          {
+            "InterventionMeshId": "D000016559",
+            "InterventionMeshTerm": "Tacrolimus"
+          },
+          {
+            "InterventionMeshId": "C000512542",
+            "InterventionMeshTerm": "Thymoglobulin"
+          },
+          {
+            "InterventionMeshId": "D000000961",
+            "InterventionMeshTerm": "Antilymphocyte Serum"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000007166",
+            "InterventionAncestorTerm": "Immunosuppressive Agents"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018906",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+          },
+          {
+            "InterventionAncestorId": "D000000477",
+            "InterventionAncestorTerm": "Alkylating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000019653",
+            "InterventionAncestorTerm": "Myeloablative Agonists"
+          },
+          {
+            "InterventionAncestorId": "D000000964",
+            "InterventionAncestorTerm": "Antimetabolites, Antineoplastic"
+          },
+          {
+            "InterventionAncestorId": "D000000963",
+            "InterventionAncestorTerm": "Antimetabolites"
+          },
+          {
+            "InterventionAncestorId": "D000000998",
+            "InterventionAncestorTerm": "Antiviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          },
+          {
+            "InterventionAncestorId": "D000065095",
+            "InterventionAncestorTerm": "Calcineurin Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000000903",
+            "InterventionAncestorTerm": "Antibiotics, Antineoplastic"
+          },
+          {
+            "InterventionAncestorId": "D000000904",
+            "InterventionAncestorTerm": "Antibiotics, Antitubercular"
+          },
+          {
+            "InterventionAncestorId": "D000000995",
+            "InterventionAncestorTerm": "Antitubercular Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000900",
+            "InterventionAncestorTerm": "Anti-Bacterial Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M5879",
+            "InterventionBrowseLeafName": "Cyclophosphamide",
+            "InterventionBrowseLeafAsFound": "Months",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3431",
+            "InterventionBrowseLeafName": "Antilymphocyte Serum",
+            "InterventionBrowseLeafAsFound": "Exposed",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M255749",
+            "InterventionBrowseLeafName": "Thymoglobulin",
+            "InterventionBrowseLeafAsFound": "Older Adults",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M11280",
+            "InterventionBrowseLeafName": "Mycophenolic Acid",
+            "InterventionBrowseLeafAsFound": "Plasma",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M13272",
+            "InterventionBrowseLeafName": "Prednisolone",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M1833",
+            "InterventionBrowseLeafName": "Methylprednisolone Acetate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M10901",
+            "InterventionBrowseLeafName": "Methylprednisolone",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M10902",
+            "InterventionBrowseLeafName": "Methylprednisolone Hemisuccinate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M229437",
+            "InterventionBrowseLeafName": "Prednisolone acetate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M211896",
+            "InterventionBrowseLeafName": "Prednisolone hemisuccinate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M248768",
+            "InterventionBrowseLeafName": "Prednisolone phosphate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M283219",
+            "InterventionBrowseLeafName": "Fludarabine",
+            "InterventionBrowseLeafAsFound": "Medical",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M4488",
+            "InterventionBrowseLeafName": "Busulfan",
+            "InterventionBrowseLeafAsFound": "Airway",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M18102",
+            "InterventionBrowseLeafName": "Tacrolimus",
+            "InterventionBrowseLeafAsFound": "Coronary",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M225481",
+            "InterventionBrowseLeafName": "Fludarabine phosphate",
+            "InterventionBrowseLeafAsFound": "Medical",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M16963",
+            "InterventionBrowseLeafName": "Mesna",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M16637",
+            "InterventionBrowseLeafName": "Vidarabine",
+            "InterventionBrowseLeafAsFound": "Medical",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M9364",
+            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20095",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2972",
+            "InterventionBrowseLeafName": "Alkylating Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3433",
+            "InterventionBrowseLeafName": "Antimetabolites",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3466",
+            "InterventionBrowseLeafName": "Antiviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M29605",
+            "InterventionBrowseLeafName": "Calcineurin Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3374",
+            "InterventionBrowseLeafName": "Anti-Bacterial Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3376",
+            "InterventionBrowseLeafName": "Antibiotics, Antitubercular",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3463",
+            "InterventionBrowseLeafName": "Antitubercular Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infl",
+            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "AnEm",
+            "InterventionBrowseBranchName": "Antiemetics"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "NeuroAg",
+            "InterventionBrowseBranchName": "Neuroprotective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Gast",
+            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04664738",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "18-004995"
+      },
+      "Organization": {
+        "OrgFullName": "Mayo Clinic",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "PEP on a Skin Graft Donor Site Wound",
+      "OfficialTitle": "A Phase I Open-Label Trial to Determine the Safety of PEP on Skin Graft Wounds"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2022",
+      "OverallStatus": "Enrolling by invitation",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 16, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 7, 2020",
+      "StudyFirstSubmitQCDate": "December 7, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 11, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 3, 2022",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 5, 2022",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Steven L. Moran",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Mayo Clinic"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Steven L. Moran",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Rion LLC",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to determine the safety of a biological agent called PEP in people who have a skin graft donor site wound.",
+      "DetailedDescription": "This is an open label phase 1 study of PEP (a leukocyte depleted blood preparation derived from human U.S. sourced pooled apheresed platelets) in patients with at least two donor split-thickness skin graft wounds. One donor site will be treated with the standard post-operative dressing, while the other site will be treated with PEP or PEP+TISSEEL and covered with a standard dressing. TISSEEL is a commercially available fibrin sealant."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Skin Graft"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "24",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "10 % PEP only",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Cohort 1: Subjects will receive 10% PEP to the skin graft donor wound.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: 10% PEP"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "20% PEP only",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Cohort 2: Subjects will receive 20% PEP to the skin graft donor wound",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: 20% PEP"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "10% PEP and TISSEEL",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Cohort 3: Subjects will receive 10% PEP and TISSEEL to the skin graft donor wound.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: 10% PEP",
+                "Drug: TISSEEL"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "20% PEP and TISSEEL",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Cohort 4: Subjects will receive 20% PEP and TISSEEL to the skin graft donor wound.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: TISSEEL",
+                "Biological: 20% PEP"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "10% PEP",
+            "InterventionDescription": "PEP is comprised of platelet derived extracellular vesicles enriched in anti-inflammatory and angiogenic growth factors.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "10 % PEP only",
+                "10% PEP and TISSEEL"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "TISSEEL",
+            "InterventionDescription": "Fibrin sealant made from pooled human plasma",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "10% PEP and TISSEEL",
+                "20% PEP and TISSEEL"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "fibrin sealant"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "20% PEP",
+            "InterventionDescription": "PEP is comprised of platelet derived extracellular vesicles enriched in anti-inflammatory and angiogenic growth factors.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "20% PEP and TISSEEL",
+                "20% PEP only"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Acute dose limiting toxicities (DLTs)",
+            "PrimaryOutcomeDescription": "Number of participants who experience DLTs of grade 3 or higher adverse reaction identified within the first 2 weeks of study intervention.",
+            "PrimaryOutcomeTimeFrame": "Up to 2 weeks (within the first 14 days) for each dosing cohort"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Maximum Tolerated Dose (MTD) of PEP",
+            "PrimaryOutcomeDescription": "Determined by testing increasing doses of PEP from 10% to 20% on dose escalation cohorts 1 to 2. The first cohort of three patients will be treated at the starting dose of 10% PEP and observed for at least two weeks from start of treatment to assess toxicity. If dose-limiting toxicity (DLT) is not seen in any of the first 3 patients, up to 3 new patients will be accrued and treated at the next higher dose level of 20% PEP.",
+            "PrimaryOutcomeTimeFrame": "Up to 2 weeks (within the first 14 days) for each dosing cohort"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Adverse events",
+            "SecondaryOutcomeDescription": "Number of treatment-related adverse events",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMales and females 18 years of age or older.\nRequiring at least two 40 cm^2 or larger split-thickness skin grafts by a Mayo Clinic plastic surgeon or dermatologist.\nSkin graft that meets all of the following criteria:\nEach graft site has a size of 40 cm^2 ;\nLocated anywhere on the body (with exception of oral mucosal membranes);\nSplit-thickness skin graft wound depth of between 8/1000-14/1000 inch.\nAbility to safely undergo skin graft harvest procedure.\nCapacity to provide informed consent\nAbility to comply with protocol.\nSubject is judged, by the clinical investigator, to be healthy as evidenced by lack of clinically significant abnormal findings on medical history, physical examination, vital signs, and clinical laboratory tests.\nPatient is able and willing to return to study site for all follow-up visits.\n\nExclusion Criteria:\n\nActively undergoing cancer treatment.\nKnown history of MRSA (methicillin-resistant staphylococcus aureus).\nKnown hypersensitivity to aprotinin (Trasylol®).\nSubjects who are positive for hepatitis B surface antigen (HbsAg), hepatitis C antibody or HIV.\nAny known allergy or sensitivity to adhesive dressings (e.g., Tegaderm).\nClinically significant cardiovascular, pulmonary, renal, endocrine, hepatic, neurological, psychiatric, immunological, gastrointestinal, hematological, or metabolic disease that is, in the opinion of the investigator, not stabilized or may otherwise impact the results of the study.\nPatients on systemic immunosuppression, or have systemic autoimmune or chronic inflammatory disease.\nSubjects with hepatic impairment.\nParticipation in another clinical study in the past 30 days or concurrent participation in another clinical trial.\nPatients with poorly controlled diabetes mellitus (HbA1C ≥ 8%).\nPatients with known peripheral neuropathy, or known concomitant vascular problems (such as peripheral artery disease, arterial insufficiency, or venous hypertension) or calciphylaxis.\nCurrently on or planned to receive hyperbaric wound therapy.\nPregnant or lactating female patients.\nSexually active woman of child bearing potential who is unwilling to use approved contraception method for three months after receiving dose of investigational drug\nPrisoners.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Steven Moran, MD",
+            "OverallOfficialAffiliation": "Mayo Clinic",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mayo Clinic in Rochester",
+            "LocationCity": "Rochester",
+            "LocationState": "Minnesota",
+            "LocationZip": "55905",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Mayo Clinic Clinical Trials",
+            "SeeAlsoLinkURL": "https://www.mayo.edu/research/clinical-trials"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "ALL IPD that underlie the results in a publication.",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Study Protocol",
+          "Statistical Analysis Plan (SAP)",
+          "Informed Consent Form (ICF)",
+          "Clinical Study Report (CSR)",
+          "Analytic Code"
+        ]
+      },
+      "IPDSharingTimeFrame": "Prior to study initiation, the study protocol and informed consent form will be provided to Rion, LLC. During the study, all safety reports (as they happen or quarterly), and all SAEs as they happen will be reported to Rion, LLC. At the end of the study after database is locked, a formal clinical study report will be provided to Rion, LLC.",
+      "IPDSharingAccessCriteria": "IPD will only be shared with the collaborator Rion LLC"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000015718",
+            "InterventionMeshTerm": "Fibrin Tissue Adhesive"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000006490",
+            "InterventionAncestorTerm": "Hemostatics"
+          },
+          {
+            "InterventionAncestorId": "D000003029",
+            "InterventionAncestorTerm": "Coagulants"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M11052",
+            "InterventionBrowseLeafName": "Mitogens",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3369",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M17443",
+            "InterventionBrowseLeafName": "Fibrin Tissue Adhesive",
+            "InterventionBrowseLeafAsFound": "Antithymocyte Globulin",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M8728",
+            "InterventionBrowseLeafName": "Hemostatics",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M5411",
+            "InterventionBrowseLeafName": "Coagulants",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infl",
+            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Coag",
+            "InterventionBrowseBranchName": "Coagulants"
+          }
+        ]
+      }
+    }
+  }
+}

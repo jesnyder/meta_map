@@ -1,0 +1,670 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04745299",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "NEURONATA-R_ALS301"
+      },
+      "Organization": {
+        "OrgFullName": "Corestem, Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Evaluation the Efficacy and Safety of Mutiple Lenzumestrocel (Neuronata-R® Inj.) Treatment in Patients With ALS",
+      "OfficialTitle": "A Double-blind, Randomized, Multicenter, Placebo-Controlled, Parallel, Phase III Clinical Trial to Evaluate the Efficacy and Safety of Lenzumestrocel(Neuronata-R® Inj.) in Patients With Amyotrophic Lateral Sclerosis",
+      "Acronym": "ALSummit"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "February 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 23, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 30, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "May 3, 2026",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 27, 2021",
+      "StudyFirstSubmitQCDate": "February 7, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "February 9, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 4, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 11, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Corestem, Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "ALSUMMIT is a double-blind, randomized, placebo-controlled, multi-center, parallel, phase III clinical trial to evaluate and confirm the efficacy and long-term safety of repeated Lenzumestrocel (Neuronata-R® inj.) treatment.",
+      "DetailedDescription": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder characterized by selective and progressive loss of motor neurons. Disease progression leads to death within 2-4 years, but there exists no definite treatment so far.\n\nBased on phase I/II clinical trial(NCT01363401), twice intrathecal autologous bone marrow-derived mesenchymal stem cells (Lenzumestrocel) injections showed significant therapeutic benefit lasting at least six months with safety in patients with ALS.\n\nAdditionally, the switch from pro- to anti-inflammatory conditions, which was indicated from the inverse correlation between TGF-β1 and MCP-1 levels after Lenzumestrocel injections in the good responder, has been considered a plausible beneficial action mechanism.\n\nThis study is designed to investigate the following. First, to reconfirm and evaluate the long-term efficacy of twice injections (single cycle) of Lenzumestrocel, group 1 will receive a single cycle injection with a 26-day interval.\n\nSecond, to evaluate the long-term safety and efficacy of Lenzumestrocel repeated injections, group 2 will receive a single cycle injection a 26-day apart followed by three times injections every three-month interval.\n\nGroup 3 will receive comparator injections."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Amyotrophic Lateral Sclerosis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Amyotrophic lateral sclerosis",
+          "Mesenchymal stem cell",
+          "cell therapy",
+          "ALS",
+          "neuroprotection",
+          "Phase 3 clinical trial"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "115",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Single cycle administration group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Study drug injections twice in a 26-day interval followed by three times comparator injections every three months.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Lenzumestrocel",
+                "Drug: Riluzole",
+                "Drug: Placebo Comparator"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Multiple administation group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Study drug injections twice in a 26-day interval followed by repeated three times study drug injections every three months.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Lenzumestrocel",
+                "Drug: Riluzole"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Comparator injections twice in a 26-day interval followed by three times comparator injections every three months.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Riluzole",
+                "Drug: Placebo Comparator"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Lenzumestrocel",
+            "InterventionDescription": "Single cycle administration group : injections twice in a 26-day interval Multiple administration group : injections twice in a 26-day interval followed by repeated three times injections every three months",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Multiple administation group",
+                "Single cycle administration group"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Neuronata-R inj",
+                "Autologous Bone Marrow derived Mesenchymal Stem Cell"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Riluzole",
+            "InterventionDescription": "concomitant administration of Riluzole to all groups, except subjects to whom Riluzole administration is deemed impossible owing to adverse events as determined by medical experts",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group",
+                "Multiple administation group",
+                "Single cycle administration group"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Rilutek"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo Comparator",
+            "InterventionDescription": "Single cycle administration group: Placebo comparator is injected three times every three months after injection of Lenzumestrocel twice in a 26-day interval.\n\nControl group: Placebo comparator is injected twice in a 26-day interval followed by repeated three times injcections every three months",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group",
+                "Single cycle administration group"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Normal Saline Inj."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Joint rank scores (CAFS, Combined Assessment of Functional and Survival)",
+            "PrimaryOutcomeDescription": "Joint rank score is derived from Combined Assessment of Function and Survival. Functional assessment is based on ALSFRS-R scores and survival assessment is based on the period from randomization to physical death. Joint rank score will be calculated with ALSFRS-R score data and survival. For each pairwise comparison, a study participant is assigned a score and then the summed scores are ranked for all participants.\n\nThe higher ranking, the higher score, and the lower ranking, the lower score. And the average rank score is then calculated for each treatment group. A higher mean rank score indicates that participants in that treatment group, on average, fared better.\n\nThe difference in joint rank scores between multiple administration group and control group at 12 months.\nThe difference in joint rank scores between single cycle administration group and control group at 6 months",
+            "PrimaryOutcomeTimeFrame": "at 12 months, and 6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Joint rank scores (CAFS, Combined Assessment of Functional and Survival)",
+            "SecondaryOutcomeDescription": "Joint rank score is derived from Combined Assessment of Function and Survival. Functional assessment is based on ALSFRS-R scores and survival assessment is based on the period from randomization to physical death. Joint rank score will be calculated with ALSFRS-R score data and survival. For each pairwise comparison, a study participant is assigned a score and then the summed scores are ranked for all participants.\n\nThe higher ranking, the higher score, and the lower ranking, the lower score. And the average rank score is then calculated for each treatment group. A higher mean rank score indicates that participants in that treatment group, on average, fared better.\n\nThe difference in joint rank scores between multiple administration group and control group at 6 months.",
+            "SecondaryOutcomeTimeFrame": "at 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Amyotrophic Lateral Sclerosis Functional Rating Scale-Revised (ALSFRS-R) score",
+            "SecondaryOutcomeDescription": "ALSFRS-R is an instrument designed to evaluate functional status of subjects with amyotrophic lateral sclerosis (Lou Gehrig's disease), such as gross motor activity, fine motor activity, bulbar function and respiration function. It consists of 12 items; 3 items for mouth functions, 4 items for upper limb and overall fine motor functions, 2 items for lower limb functions and 3 items for respiration functions. Each item is evaluated in 5-point scale (0~4). A higher score means a better functional status.\n\nChange of ALSFRS-R score measured at baseline and 12 months (multiple administration group and control group)\nChange of ALSFRS-R score measured at baseline and 6 months (single cycle administration and control group)",
+            "SecondaryOutcomeTimeFrame": "at 12 months, 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to event",
+            "SecondaryOutcomeDescription": "Time to Event is defined as physical death, tracheostomy recognized as the point where disease progression functionally stops or chronic use of ventilator, whichever comes earlier. Chronic use of ventilator means that ventilator is used for more than 20 hours in a day and such use is continued for more than 30 days and that a subject in vegetative state requires full supports from other persons to maintain living.\n\nTime to event for 12 months (multiple administration group and control group)\nTime to event for 6 months (single cycle administration group and control group)",
+            "SecondaryOutcomeTimeFrame": "at 12 months, 6 months"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Slow Vital Capacity (SVC)",
+            "OtherOutcomeDescription": "Change to SVC measured at 6, 12 months and 36 months",
+            "OtherOutcomeTimeFrame": "6 months, 12 months, 36 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Muscular strength",
+            "OtherOutcomeDescription": "Change of Muscular strength which is measured by Hand Held Dynamometer (HHD)",
+            "OtherOutcomeTimeFrame": "6 months, 12 months, 36 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Time to event",
+            "OtherOutcomeDescription": "Time to event for 36 months",
+            "OtherOutcomeTimeFrame": "36 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Time to death",
+            "OtherOutcomeDescription": "Time to death means the period from randomization of a subject to physical death.\n\nThe comparison with the time to death between treatment groups and control group.",
+            "OtherOutcomeTimeFrame": "6 months, 12 months, 36 months"
+          },
+          {
+            "OtherOutcomeMeasure": "EuroQol Short Form (EQ-5D-5L)",
+            "OtherOutcomeDescription": "EQ-5D-5L is designed to measure health conditions and it consists of 5 questions relating to mobility, self-care, usual activities, pain/discomfort and anxiety/depression. 1~5 points are given for each question and a higher score means worse condition.\n\nChange of EQ-5D-5L from baseline to 6 month, 12 months, and 36 months.",
+            "OtherOutcomeTimeFrame": "6 month, 12 months, 36 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Amyotrophic Lateral Sclerosis Assessment Questionnaire (ALSAQ-40)",
+            "OtherOutcomeDescription": "ALSAQ-40 is designed to evaluate disease-specific health conditions of subjects with ALS/motor neural disease. It consists of 40 questions to evaluate 5 aspects of health conditions affected by the disease. Subjects are asked to think about the difficulties they may have experienced during the last 2 weeks. Subjects are asked to indicate the frequency of each event by selecting one of 5 options (0~4): never/rarely/sometimes/often/always or cannot do at all.",
+            "OtherOutcomeTimeFrame": "6 month, 12 months, 36 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Biological test",
+            "OtherOutcomeDescription": "Tests on blood samples and cerebrospinal fluid samples for exploratory investigation of biological markers in plasma, blood and CSF.\n\nComparison of change before and after treatment.\n\nMeasurement cytokines : TGF-β1, IL-10, IL-6, TNF-α, MCP-1, IL-8, IL-1RA, MIP-1β, RANTES and IP-10 etc.\nUnits of Measure: pg/mL\nComparative Analysis of how much each cytokine increases or decreases after treatment compared to before treatment.",
+            "OtherOutcomeTimeFrame": "up to 12 months after administration"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "[Inclusion Criteria]\n\nSubjects who show both upper motor neuron signs and lower motor neuron signs at the same time in neurological tests.\nAmong subjects diagnosed with familial or sporadic ALS, subjects falling into clinically definite ALS, probable ALS and probable ALS-lab supported according to The revised World Federation of Neurology El Escorial Criteria[Rix Brooks, 2000], during 17-weeks period prior to the administration and ALSFRS-R score (progression rate) of 1.03 ± 50%/month (meaning mean value in that total period).\nFor subjects who are under Riluzole treatment, those who have received stable dose of Riluzole for more than 28 days before screening visit.\nSubjects with duration of disease of no more than 2 years from the first diagnosis date.\nSubjects whose ALSFRS-R scores are in the range of 31~46 at the time of screening (P-V0).\n\n[Exclusion Criteria]\n\nSubjects who received tracheostomy or use ventilators (including positive pressure ventilators; subjects who use non-invasive ventilation for sleep apnea may be allowed after review) at the time of screening (P-V0).\nSubjects who received gastrotomy at the time of screening (P-V0).\nSubjects for whom clinical efficacy evaluation is not possible because pulmonary functional tests cannot be conducted at the time of screening (P-V0) or subjects whose forced vital capacity is found to be not greater than 40%of the expected value.\nSubjects who fall into above Class II according to the New York Heart Association's functional classification, who have showed myocardial infarction, unstable arrhythmia and/or other significant cardiovascular diseases such as unstable angina in the past 3 months, or who show electrocardiographic signs of myocardial infarction or angina at the time of screening (P-V0) or who received stent insertion or coronary artery bypass grafting.\nSubjects who have received other investigational products or edaravone within 3 month or 5 half-lives at the time of screening (P-V0) and lead in period visit L-V1 (evaluated by whichever is longer).\nSubjects who have experienced epileptic seizure.\nSubjects with severe renal disorder (serum creatinine: not less than 2.0 mg/dL).\nSubjects with severe hepatic disorder (ALT, AST, or bilirubin: over 2.0 times of the normal upper limit).\nSubjects who show hemorrhagic tendency at the time of screening (PT and aPTT > 1.5 x ULN)\nSubjects who are found to have active viral infections (HBsAg, HCV Ab, HIV Ab, CMV IgM, EBV IgM, HSV IgM and Treponema pallidum) at the time of screening.\nSubjects with hypersensitivity to antibiotics (penicillin or streptomycin).\nSubjects who have ever received any cell therapy product for the same disease.\nSubjects with any malignant tumor in the past 5 years before screening, except malignant tumors with very low risk of metastasis or death.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "25 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Kwijoo Kim",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+82-2-497-3711",
+            "CentralContactEMail": "kwjkim@corestem.com"
+          },
+          {
+            "CentralContactName": "Yerim Jung",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+82-70-4706-9612",
+            "CentralContactEMail": "yrjung@corestem.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Seung Hyun Kim, MD, PhD",
+            "OverallOfficialAffiliation": "Hanyang University Seoul Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Pusan National University Yangsan Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Yangsan",
+            "LocationState": "Kyungsangnam-do",
+            "LocationZip": "50612",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Jin-Hong Shin, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "shinzh@gmail.com"
+                },
+                {
+                  "LocationContactName": "Jin-Hong Shin, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Korea University Anam Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seoul",
+            "LocationZip": "02841",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Byung-Jo Kim, MD,PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "neurokbj@gmail.com"
+                },
+                {
+                  "LocationContactName": "Byung-Jo Kim, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hanyang university hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seoul",
+            "LocationZip": "04763",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Seung Hyun Kim, M.D.,PhD.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "kimsh1@hanyang.ac.kr"
+                },
+                {
+                  "LocationContactName": "Seung Hyun Kim, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Samsung Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seoul",
+            "LocationZip": "06351",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Byoung Joon Kim, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "bjmyo.kim@samsung.com"
+                },
+                {
+                  "LocationContactName": "Byoung Joon Kim, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Seoul National University Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Jung-Joon Sung, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "jjsaint@snu.ac.kr"
+                },
+                {
+                  "LocationContactName": "Jung-Joon Sung, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000016472",
+            "ConditionMeshTerm": "Motor Neuron Disease"
+          },
+          {
+            "ConditionMeshId": "D000000690",
+            "ConditionMeshTerm": "Amyotrophic Lateral Sclerosis"
+          },
+          {
+            "ConditionMeshId": "D000012598",
+            "ConditionMeshTerm": "Sclerosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000019636",
+            "ConditionAncestorTerm": "Neurodegenerative Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009468",
+            "ConditionAncestorTerm": "Neuromuscular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000013118",
+            "ConditionAncestorTerm": "Spinal Cord Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000057177",
+            "ConditionAncestorTerm": "TDP-43 Proteinopathies"
+          },
+          {
+            "ConditionAncestorId": "D000057165",
+            "ConditionAncestorTerm": "Proteostasis Deficiencies"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M18031",
+            "ConditionBrowseLeafName": "Motor Neuron Disease",
+            "ConditionBrowseLeafAsFound": "Lateral Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3176",
+            "ConditionBrowseLeafName": "Amyotrophic Lateral Sclerosis",
+            "ConditionBrowseLeafAsFound": "Amyotrophic Lateral Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14567",
+            "ConditionBrowseLeafName": "Sclerosis",
+            "ConditionBrowseLeafAsFound": "Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M20711",
+            "ConditionBrowseLeafName": "Neurodegenerative Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11563",
+            "ConditionBrowseLeafName": "Neuromuscular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15067",
+            "ConditionBrowseLeafName": "Spinal Cord Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27912",
+            "ConditionBrowseLeafName": "TDP-43 Proteinopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27900",
+            "ConditionBrowseLeafName": "Proteostasis Deficiencies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4699",
+            "ConditionBrowseLeafName": "Primary Lateral Sclerosis",
+            "ConditionBrowseLeafAsFound": "Lateral Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T349",
+            "ConditionBrowseLeafName": "Amyotrophic Lateral Sclerosis",
+            "ConditionBrowseLeafAsFound": "Amyotrophic Lateral Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000019782",
+            "InterventionMeshTerm": "Riluzole"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000927",
+            "InterventionAncestorTerm": "Anticonvulsants"
+          },
+          {
+            "InterventionAncestorId": "D000018691",
+            "InterventionAncestorTerm": "Excitatory Amino Acid Antagonists"
+          },
+          {
+            "InterventionAncestorId": "D000018683",
+            "InterventionAncestorTerm": "Excitatory Amino Acid Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018377",
+            "InterventionAncestorTerm": "Neurotransmitter Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018696",
+            "InterventionAncestorTerm": "Neuroprotective Agents"
+          },
+          {
+            "InterventionAncestorId": "D000020011",
+            "InterventionAncestorTerm": "Protective Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M20833",
+            "InterventionBrowseLeafName": "Riluzole",
+            "InterventionBrowseLeafAsFound": "Multivitamin",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3398",
+            "InterventionBrowseLeafName": "Anticonvulsants",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19924",
+            "InterventionBrowseLeafName": "Excitatory Amino Acid Antagonists",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19657",
+            "InterventionBrowseLeafName": "Neurotransmitter Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19926",
+            "InterventionBrowseLeafName": "Neuroprotective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21022",
+            "InterventionBrowseLeafName": "Protective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "AntiConv",
+            "InterventionBrowseBranchName": "Anticonvulsants"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "NeuroAg",
+            "InterventionBrowseBranchName": "Neuroprotective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

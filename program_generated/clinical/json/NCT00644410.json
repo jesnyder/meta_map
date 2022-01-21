@@ -1,0 +1,280 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT00644410",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MSC heart failure"
+      },
+      "Organization": {
+        "OrgFullName": "Rigshospitalet, Denmark",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Autologous Mesenchymal Stromal Cell Therapy in Heart Failure",
+      "OfficialTitle": "A Single Centre, Randomised Controlled Study of the Effect of NOGA-guided Direct Intramyocardial Injection of Mesenchymal Stromal Cells on the Development of New Myocardium and Blood Vessels in Patients With Heart Failure"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2015",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 2008"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 2015",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 2015",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "March 20, 2008",
+      "StudyFirstSubmitQCDate": "March 25, 2008",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 26, 2008",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "March 16, 2015",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 17, 2015",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "JKastrup",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Rigshospitalet, Denmark"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Rigshospitalet, Denmark",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "It is a single centre, randomised controlled study of the effect of NOGA-guided direct intramyocardial injection of mesenchymal stromal cells on the development of new myocardium and blood vessels in patients with heart failure.\n\nStem cells will be obtained from the bone marrow and culture expanded for 6 - 8 weeks before injected into the myocardium.\n\nThe patients will be followed with safety, clinical, MRI and CT endpoints for 1 year.",
+      "DetailedDescription": "The primary objective is to investigate the regenerative capacity of direct intra-myocardial injection of mesenchymal stromal cells in patients with reduced left ventricular EF (≤45%) and heart failure NYHA 2-3.\n\nA total of 60 patients with will be enrolled in the study and randomised 2: 1 to cells or placebo (saline).\n\nThe patients will be followed for 12 months. The primary endpoint is changes in left ventricle end-systolic volume (LVESV) at 6 months follow-up.\n\nThe secondary endpoints are changes in left ventricular ejection fraction (LVEF), end-diastolic volume and end-systolic mass at 6 months follow-up.\n\nOther secondary endpoints are NYHA, CCS, Kansas City Cardiomyopathy Questionnaire (KCCQ), 6 min walking test, and major adverse events endpoints: all-causes death, cardiovascular death, and hospitalization for worsening heart failure and MI at 12 months follow-up."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Congestive Heart Failure"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "heart failure",
+          "stem cell",
+          "mesenchymal stromal cell",
+          "mesenchymal stem cell"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "59",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "1",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "The number of mesenchymal stromal cells reached after two culture expansion passages.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Mesenchymal stromal cell"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "2",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Saline",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Saline"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Mesenchymal stromal cell",
+            "InterventionDescription": "Mesenchymal stromal cells 20 - 40 mill.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "1"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Saline",
+            "InterventionDescription": "12 injection with 0.2 ml saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "2"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Improvements in left ventricular function",
+            "PrimaryOutcomeTimeFrame": "6 and 12 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Clinical improvements",
+            "SecondaryOutcomeTimeFrame": "6 and 12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nEF < 45 %\nNYHA 2 - 3\n\nExclusion Criteria:\n\nAcute coronary syndrome within last 6 weeks.\nPregnancy\nFEV1 <1.0\nCancer\nAny severe disease which could interfere with the treatment or the outcome",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "30 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jens Kastrup, MD DMSc",
+            "OverallOfficialAffiliation": "Rigshospitalet, Denmark",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "The Heart Centre, Rigshospitalet University Hospital Copenhagen,",
+            "LocationCity": "Copenhagen",
+            "LocationZip": "2100",
+            "LocationCountry": "Denmark"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "25926562",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Mathiasen AB, Qayyum AA, Jørgensen E, Helqvist S, Fischer-Nielsen A, Kofoed KF, Haack-Sørensen M, Ekblond A, Kastrup J. Bone marrow-derived mesenchymal stromal cell treatment in patients with severe ischaemic heart failure: a randomized placebo-controlled trial (MSC-HF trial). Eur Heart J. 2015 Jul 14;36(27):1744-53. doi: 10.1093/eurheartj/ehv136. Epub 2015 Apr 29."
+          },
+          {
+            "ReferencePMID": "22980293",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Mathiasen AB, Jørgensen E, Qayyum AA, Haack-Sørensen M, Ekblond A, Kastrup J. Rationale and design of the first randomized, double-blind, placebo-controlled trial of intramyocardial injection of autologous bone-marrow derived Mesenchymal Stromal Cells in chronic ischemic Heart Failure (MSC-HF Trial). Am Heart J. 2012 Sep;164(3):285-91. doi: 10.1016/j.ahj.2012.05.026."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006333",
+            "ConditionMeshTerm": "Heart Failure"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M8573",
+            "ConditionBrowseLeafName": "Heart Failure",
+            "ConditionBrowseLeafAsFound": "Heart Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

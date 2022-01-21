@@ -1,0 +1,346 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01449032",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MyStromalCell"
+      },
+      "Organization": {
+        "OrgFullName": "Rigshospitalet, Denmark",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "MesenchYmal STROMAL CELL Therapy in Patients With Chronic Myocardial Ischemia (MyStromalCell Trial)",
+      "OfficialTitle": "MesenchYmal STROMAL CELL Therapy in Patients With Chronic Myocardial Ischemia (MyStromalCell Trial)",
+      "Acronym": "MyStromalCell"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2014",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 2010"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2014",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2014",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "October 6, 2011",
+      "StudyFirstSubmitQCDate": "October 6, 2011",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 7, 2011",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "June 7, 2014",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 10, 2014",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "JKastrup",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Rigshospitalet, Denmark"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Rigshospitalet, Denmark",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Coronary artery disease (CAD) is the most common cause of death and a major cause of hospital admissions for acute chest pain. In spite of improved treatments still many patients with CAD have daily attacks of severe chest pain and severely reduced life quality.\n\nThe investigators have established a double-blind placebo-controlled trial in patients with CAD to test efficacy and safety of treatment with adipose derived stem cells to improve perfusion in the heart muscle and exercise capacity, and reduce the patient's symptoms.",
+      "DetailedDescription": "In an open single centre pilot study we have evaluated the safety and efficacy of MSC treatment to improve heart muscle perfusion in patients with chronic CAD. Patients treated with MSCs had significant increased exercise capacity, reduction in angina, angina attacks and medication and in life quality at 6 months follow-up. For all the parameters there was a tendency towards improved outcome with increasing number of cells. The treatment with MSCs was safe.\n\nThe investigators have now established a double-blind placebo-controlled trial in patients with CAD to test efficacy and safety of treatment with MSCs to improve perfusion in the heart muscle and exercise capacity, and reduce the patient's symptoms."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Chronic Ischemic Heart Disease"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Patients"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "MSC",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Adipose derived stem cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: MSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Saline",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Saline"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "MSC",
+            "InterventionDescription": "No of cells after culture expansion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Adipose derived stem cells",
+                "Mesenchymal stromal cells",
+                "Mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Saline",
+            "InterventionDescription": "3 cc saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Saline"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Exercise test",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Clinical evaluation",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nCCS III - IV\nCoronary artery stenosis/occlusion not treatable with invasive procedures\nLVEF > 40%\nETT between 2 - 10 min\n\nExclusion Criteria:\n\nValvular heart disease\nFEV1 < 1\nSevere systemic disease\nAcute coronary syndrome > 2 months",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "30 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jens Kastrup, MD Professor",
+            "OverallOfficialAffiliation": "Department of Cardiology, Rigshospitalet",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Rigshospitalet University Hospital Copenhagen",
+            "LocationCity": "Copenhagen",
+            "LocationZip": "210",
+            "LocationCountry": "Denmark"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "31711513",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Qayyum AA, Mathiasen AB, Helqvist S, Jørgensen E, Haack-Sørensen M, Ekblond A, Kastrup J. Autologous adipose-derived stromal cell treatment for patients with refractory angina (MyStromalCell Trial): 3-years follow-up results. J Transl Med. 2019 Nov 12;17(1):360. doi: 10.1186/s12967-019-2110-1."
+          },
+          {
+            "ReferencePMID": "29333165",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Qayyum AA, Mathiasen AB, Mygind ND, Kühl JT, Jørgensen E, Helqvist S, Elberg JJ, Kofoed KF, Vejlstrup NG, Fischer-Nielsen A, Haack-Sørensen M, Ekblond A, Kastrup J. Adipose-Derived Stromal Cells for Treatment of Patients with Chronic Ischemic Heart Disease (MyStromalCell Trial): A Randomized Placebo-Controlled Study. Stem Cells Int. 2017;2017:5237063. doi: 10.1155/2017/5237063. Epub 2017 Dec 3."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006331",
+            "ConditionMeshTerm": "Heart Diseases"
+          },
+          {
+            "ConditionMeshId": "D000017202",
+            "ConditionMeshTerm": "Myocardial Ischemia"
+          },
+          {
+            "ConditionMeshId": "D000003324",
+            "ConditionMeshTerm": "Coronary Artery Disease"
+          },
+          {
+            "ConditionMeshId": "D000007511",
+            "ConditionMeshTerm": "Ischemia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003327",
+            "ConditionAncestorTerm": "Coronary Disease"
+          },
+          {
+            "ConditionAncestorId": "D000001161",
+            "ConditionAncestorTerm": "Arteriosclerosis"
+          },
+          {
+            "ConditionAncestorId": "D000001157",
+            "ConditionAncestorTerm": "Arterial Occlusive Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafAsFound": "Heart Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafAsFound": "Ischemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5698",
+            "ConditionBrowseLeafName": "Coronary Artery Disease",
+            "ConditionBrowseLeafAsFound": "Myocardial Ischemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18658",
+            "ConditionBrowseLeafName": "Myocardial Ischemia",
+            "ConditionBrowseLeafAsFound": "Myocardial Ischemia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5701",
+            "ConditionBrowseLeafName": "Coronary Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3621",
+            "ConditionBrowseLeafName": "Arteriosclerosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3617",
+            "ConditionBrowseLeafName": "Arterial Occlusive Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

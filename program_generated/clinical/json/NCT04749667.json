@@ -1,0 +1,519 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04749667",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "159326"
+      },
+      "Organization": {
+        "OrgFullName": "Haukeland University Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Study of Mesenchymal Autologous Stem Cells as Regenerative Treatment for Multiple Sclerosis",
+      "OfficialTitle": "Study of Mesenchymal Autologous Stem Cells as Regenerative Treatment for Multiple Sclerosis",
+      "Acronym": "SMART-MS"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 9, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 4, 2024",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 4, 2025",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 20, 2021",
+      "StudyFirstSubmitQCDate": "February 8, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "February 11, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 7, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 8, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Haukeland University Hospital",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "University of Bergen",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "University Hospital Ulm",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "University Hospital, Akershus",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "St. Olavs Hospital",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "University Hospital of North Norway",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The primary objective of the study is to investigate neuroregenerative efficacy (proof of concept) of intrathecal treatment with autologous MSCs as measured by neurophysiological parameters in patients with progressive MS.\n\nSecondary objectives are to assess neuroregenerative efficacy as measured by other neurophysiological parameters as well as clinical, opthalmological and MRI modalities, and to assess safety of the treatment procedure.",
+      "DetailedDescription": "Prospective, interventional, randomized, placebo-controlled, cross-over study. Patients are randomized to either treatment arm A or B.\n\nPatients in both treatment arms receive intrathecal autologous MSCs, arm A at baseline and arm B at six months.\n\nAll patients undergo bone marrow (BM) aspiration prior to baseline. Patients in treatment arm A receive intrathecal autologous MSCs whereas patients in treatment arm B receive placebo. The treatment is blinded for the patients. The BM aspirate from patients in treatment arm B is processed, cryopreserved and stored in a biobank.\n\nAt six months, all patients undergo a second BM aspiration. Patients in treatment arm A now receive placebo. The BM aspirate from patients in treatment arm A is processed, cryopreserved and stored in a biobank. Patients in treatment arm B receive intrathecal autologous MSCs. The treatment is blinded for the patients.\n\nPrimary outcome is assessed at six months and secondary outcomes are assessed at six, twelve and eighteen months post baseline. Investigator assessing outcomes are blinded to patient treatment allocation."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Multiple Sclerosis",
+          "Progressive Multiple Sclerosis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Mesenchymal stem cells",
+          "Multiple sclerosis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Crossover Assignment",
+        "DesignInterventionModelDescription": "Prospective, randomized, placebo-controlled, cross-over study",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "18",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Arm A - Crossover with MSCs at baseline and placebo at 6 months",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Receives mesenchymal stem cells at baseline and placebo at 6 months",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: MSCs",
+                "Drug: Saline"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Arm B - Crossover with placebo at baseline and MSCs at 6 months",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Receives placebo at baseline and mesenchymal stem cells at 6 months",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: MSCs",
+                "Drug: Saline"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Other",
+            "InterventionName": "MSCs",
+            "InterventionDescription": "Autologous bone-marrow derived mesenchymal stem cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm A - Crossover with MSCs at baseline and placebo at 6 months",
+                "Arm B - Crossover with placebo at baseline and MSCs at 6 months"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Saline",
+            "InterventionDescription": "Isotonic saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm A - Crossover with MSCs at baseline and placebo at 6 months",
+                "Arm B - Crossover with placebo at baseline and MSCs at 6 months"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Neurophysiological parameters - Combined evoked potentials",
+            "PrimaryOutcomeDescription": "Somatosensoric evoked potentials (SEP) + visual evoked potentials (VEP) + motor evoked potentials (MEP), latency (ms) and amplitude (mV)",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Neurophysiological parameters - Somatosensoric evoked potantials",
+            "SecondaryOutcomeDescription": "SEP, latency (ms) and amplitude (mV)",
+            "SecondaryOutcomeTimeFrame": "6 and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Neurophysiological parameters - Motor evoked potentials",
+            "SecondaryOutcomeDescription": "MEP, latency (ms) and amplitude (mV)",
+            "SecondaryOutcomeTimeFrame": "6 and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Neurophysiological parameters - Visual evoked potentials",
+            "SecondaryOutcomeDescription": "VEP, latency (ms) and amplitude (mV)",
+            "SecondaryOutcomeTimeFrame": "6 and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "MRI-Lesion volumes",
+            "SecondaryOutcomeDescription": "T1- and T2-weighted hyperintense lesion volume",
+            "SecondaryOutcomeTimeFrame": "6 and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "MR- Brain volumes",
+            "SecondaryOutcomeDescription": "Brain volumes",
+            "SecondaryOutcomeTimeFrame": "6 and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Expanded disability status scale",
+            "SecondaryOutcomeDescription": "EDSS",
+            "SecondaryOutcomeTimeFrame": "6, 12 and 18 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Patient reported outcomes (PROs)",
+            "SecondaryOutcomeDescription": "Brief International Cognitive Assessment for Multiple Sclerosis (BICAMS), European Quality of Life 5 dimensions (EQ-5D-5L), Multiple Sclerosis Impact Scale (MSIS) and Fatigue severity scale (FSS)",
+            "SecondaryOutcomeTimeFrame": "6, 12 and 18 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Nine-Hole-Peg Test (9-HPT)",
+            "SecondaryOutcomeDescription": "Nine-Hole-Peg Test (9-HPT)",
+            "SecondaryOutcomeTimeFrame": "6, 12 and 18 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Timed 25 Foot Walk (T25FW)",
+            "SecondaryOutcomeDescription": "Timed 25 Foot Walk (T25FW)",
+            "SecondaryOutcomeTimeFrame": "6, 12 and 18 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Visual function",
+            "SecondaryOutcomeDescription": "Visual acuity, visual field, color vision and contrast sensitivity",
+            "SecondaryOutcomeTimeFrame": "6, 12 and 18 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Optical coherence tomography (OCT)",
+            "SecondaryOutcomeDescription": "Retinal thickness",
+            "SecondaryOutcomeTimeFrame": "6, 12 and 18 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Rate and nature of adverse- and serious adverse events",
+            "SecondaryOutcomeDescription": "Adverse events",
+            "SecondaryOutcomeTimeFrame": "6, 12 and 18 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge ≥18 to ≤55, both genders\nDiagnosis of secondary progressive or primary progressive MS using revised McDonald criteria of clinically definite MS\nAn EDSS score of 4 to 7\nDisease duration 2 - 15 years\nSigned, written informed consent\n\nExclusion Criteria:\n\nAny illness or prior/ongoing treatment that in the opinion of the investigators would jeopardize the ability of the patient to tolerate autologous stem cell treatment\nAny ongoing infection, including Tbc, CMV, EBV, HSV, VZV, hepatitis virus, toxoplasmosis, HIV or syphilis infections, as well as heaptitis B surface antigen positivity and/or hepatitis C PCR positivity\nCurrent immunomodulatory/immunosuppressive treatment\nImmunomodulatory/immunosuppressive treatment within 6 months prior to inclusion. This includes, but is not restricted to treatment with natalizumab, fingolimod, dimetylfumurat, glatiramer acetate, interferon beta medications, teriflunomide, and siponimod.\nTreatment with kladribin, ocrelizumab, rituximab, and alemtuzumab within 12 months prior to inclusion\nTreatment with hematopoietic stem cell therapy within 12 months prior to inclusion\nTreatment with glucocorticoids or ACTH within three months prior to start of inclusion\nHaving experienced an MS relapse within 2 years prior to study inclusion\nCurrent treatment with fampridin\nHistory of malignancy other than basal cell carcinoma of the skin or carcinoma in situ that has been in remission for more than one year\nSeverely limited life expectancy by another co-morbid illness\nHistory of previous diagnosis of myelodysplasia or previous hematologic disease (including lymphoproliferative disease, bone marrow insufficiency or previous lymphoid irradiation) or current clinically relevant abnormalities of white blood cell counts\nImmunocompromised patients\nEstimated glomerular filtration rate <60 ml/min/1.73 m2 or known renal failure\nBleeding or clotting diathesis or the use of antithrombotic or anticoagulative treatment\nPlatelet (thrombocyte) count <100 x 10*9/L\nParticipation in another experimental clinical study within the preceding 12 months\nContraindications to MRI\nPrior or current major depression\nPrior or current psychiatric illness, mental deficiency or cognitive dysfunction influencing the patient ability to make an informed consent or comply with the treatment and follow-up phases of this protocol.\nPregnancy or risk of pregnancy (this includes patients that are unwilling to practice active contraception during the duration of the study), breastfeeding or lactation\nHistory of autologous/allogenic bone marrow transplantation or peripheral blood cell transplant\nKnown hypersensitivity against paracetamol, codein or xylocain\nDiagnosis or strong suspicion of polyneuropathy\nPrior or current alcohol or drug dependencies\nInability to give informed consent",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "55 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Lars Bø, Prof",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "559750000",
+            "CentralContactPhoneExt": "0047",
+            "CentralContactEMail": "lars.bo@helse-bergen.no"
+          },
+          {
+            "CentralContactName": "Christopher Elnan Kvistad, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "559750000",
+            "CentralContactPhoneExt": "0047",
+            "CentralContactEMail": "echr@helse-bergen.no"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Lars Bø, Prof",
+            "OverallOfficialAffiliation": "Haukeland University Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University hospital of North Norway",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Tromsø",
+            "LocationState": "Troms Og Finnmark",
+            "LocationCountry": "Norway",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Margitta Kampman, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "77626000",
+                  "LocationContactPhoneExt": "0047",
+                  "LocationContactEMail": "margitta.kampman@unn.no"
+                },
+                {
+                  "LocationContactName": "Margitta Kampman, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "St.Olav university hospital",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Trondheim",
+            "LocationState": "Trøndelag",
+            "LocationCountry": "Norway",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Kristin Wesnes, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "72573000",
+                  "LocationContactPhoneExt": "0047",
+                  "LocationContactEMail": "Kristin.wesnes@stolav.no"
+                },
+                {
+                  "LocationContactName": "Kristin Wesens, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Haukeland University Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Bergen",
+            "LocationState": "Vestland",
+            "LocationCountry": "Norway",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Christopher Elnan Kvistad, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "559750000",
+                  "LocationContactEMail": "echr@helse-bergen.no"
+                },
+                {
+                  "LocationContactName": "Christopher Elnan Kvistad, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Akershus university hospital",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Lørenskog",
+            "LocationState": "Viken",
+            "LocationCountry": "Norway",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Trygve Hospital, Prof",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "67960000",
+                  "LocationContactEMail": "trygve.holmoy@medisin.uio.no"
+                },
+                {
+                  "LocationContactName": "Trygve Holmøy, Prof",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009103",
+            "ConditionMeshTerm": "Multiple Sclerosis"
+          },
+          {
+            "ConditionMeshId": "D000020528",
+            "ConditionMeshTerm": "Multiple Sclerosis, Chronic Progressive"
+          },
+          {
+            "ConditionMeshId": "D000012598",
+            "ConditionMeshTerm": "Sclerosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000020278",
+            "ConditionAncestorTerm": "Demyelinating Autoimmune Diseases, CNS"
+          },
+          {
+            "ConditionAncestorId": "D000020274",
+            "ConditionAncestorTerm": "Autoimmune Diseases of the Nervous System"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003711",
+            "ConditionAncestorTerm": "Demyelinating Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M14567",
+            "ConditionBrowseLeafName": "Sclerosis",
+            "ConditionBrowseLeafAsFound": "Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11212",
+            "ConditionBrowseLeafName": "Multiple Sclerosis",
+            "ConditionBrowseLeafAsFound": "Multiple Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21466",
+            "ConditionBrowseLeafName": "Multiple Sclerosis, Chronic Progressive",
+            "ConditionBrowseLeafAsFound": "Progressive Multiple Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21251",
+            "ConditionBrowseLeafName": "Demyelinating Autoimmune Diseases, CNS",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21247",
+            "ConditionBrowseLeafName": "Autoimmune Diseases of the Nervous System",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6061",
+            "ConditionBrowseLeafName": "Demyelinating Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

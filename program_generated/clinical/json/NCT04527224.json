@@ -1,0 +1,358 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04527224",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "ASVP1N2A-US"
+      },
+      "Organization": {
+        "OrgFullName": "Nature Cell Co. Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Study to Evaluate the Efficacy and Safety of AstroStem-V in Treatment of COVID-19 Pneumonia",
+      "OfficialTitle": "A Phase I/Ⅱa Trial to Explore the Safety and Efficacy of Allogenic Adipose Tissue-derived Mesenchymal Stem Cell (AstroStem-V) Therapy in Patients With COVID-19 Pneumonia"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 1, 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 1, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 1, 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "August 21, 2020",
+      "StudyFirstSubmitQCDate": "August 24, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 26, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "March 26, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 1, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Nature Cell Co. Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study is an open-label, single-arm study to evaluate the safety and efficacy of Astrostem-V, allogenic adipose tissue derived mesenchymal stem cells (AdMSC), in patients with COVID-19 pneumonia. After each subject completes 12-Weeks visit (Visit 12) and the data management team confirms all individual data have no issue, the individual database will be locked and the blinding will be open for the statistical analysis."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Covid19 Pneumonia"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "10",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "AstroStem-V",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Allogenic adipose tissue-derived mesenchymal stem cells (AdMSCs)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: AstroStem-V"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "AstroStem-V",
+            "InterventionDescription": "Allogenic adipose tissue-derived mesenchymal stem cells (AdMSCs)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "AstroStem-V"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Treatment related adverse events",
+            "PrimaryOutcomeDescription": "Number of subjects with treatment related adverse events as assessed by analysis of adverse events including symptoms.",
+            "PrimaryOutcomeTimeFrame": "From baseline to Week 12"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of subjects with treatment related abnormal variation of vital signs, physical examination and laboratory test values",
+            "PrimaryOutcomeDescription": "Number of subjects with treatment related adverse events as assessed by analysis of adverse events including abnormal findings on physical examination, vital signs, ECG, and standard laboratory examination.",
+            "PrimaryOutcomeTimeFrame": "From baseline to Week 12"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Oxygenation index (PaO2 / FiO2 ratio)",
+            "SecondaryOutcomeDescription": "Change from baseline in Oxygenation index (PaO2 / FiO2 ratio) at every week",
+            "SecondaryOutcomeTimeFrame": "From baseline to Week 12"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Mortality rate",
+            "SecondaryOutcomeDescription": "Check survival status of the subject at Visit 6, 10(Week 4, 8 and Week 12 if follow-up is possible) and record the status on eCRF.",
+            "SecondaryOutcomeTimeFrame": "Week 4, Week 8, and Week 12"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Ventilator treatment status",
+            "SecondaryOutcomeDescription": "Check the duration of the ventilator retention, check when the ventilator treatment has been completed after the baseline.",
+            "SecondaryOutcomeTimeFrame": "From Week 1 to Week 12"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Improvement of pneumonia",
+            "SecondaryOutcomeDescription": "Perform chest X-ray or CT every week (W1 - W4) after screening, baseline, and W4 followed by 2 - week intervals (W6, W8). The investigator of each clinical trial organ shall check chest X-ray or CT for bilateral shading and evaluate them.",
+            "SecondaryOutcomeTimeFrame": "From baseline to Week 12"
+          },
+          {
+            "SecondaryOutcomeMeasure": "SOFA score (Sequential Organ Failure Assessment)",
+            "SecondaryOutcomeDescription": "Check the SOFA score every week from the baseline to the W4 (W1 - W4) and 2 weeks after the W4 (W6, W8). The Sequential Organ Failure Assessment (SOFA) is a simple and clinically useful indicator that can be used to assess, predict, and monitor long-term failure in patients with multiple organ failure, and therefore increase in SOFA score can be expected to result in multiple organ failure and worse prognosis.",
+            "SecondaryOutcomeTimeFrame": "From baseline to Week 12"
+          },
+          {
+            "SecondaryOutcomeMeasure": "2019 nCOV nucleic acid test",
+            "SecondaryOutcomeDescription": "The Real-time PCR (RT-PCR) test for COVID-19 is measured at weekly intervals (W1 - W4) from baseline to baseline to W4 and 2 weeks after W4.",
+            "SecondaryOutcomeTimeFrame": "From baseline to Week 12"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAdults aged 19 to 80 years at the time of signing the written consent form\nSubjects diagnosed with pneumonia by radiologic examination (Chest X-ray or CT) at screening and baseline\nA subject who are hospitalized for pneumonia caused by COVID-19 infection at screening\n\nsubject who has moderate COVID-19 disease:\n\nSubjects diagnosed with COVID-19 by authorized a reverse-transcription polymerase chain reaction (RT-PCR) or equivalent testing at baseline\nA subject who has symptoms of moderate illness with COVID-19, which could include any symptom of mild illness or shortness of breath with exertion\nA subject who has clinical signs suggestive of moderate illness with COVID-19, such as respiratory rate ≤ 20 breaths per minute, SaO2 ≥ 93% on room air at sea level, heart rate ≤ 90 beats per minute\nNo clinical signs indicative of severe COVID-19 disease severity\nSubjects or representatives of subjects voluntarily participate in the clinical trial with written informed consent\n\nExclusion Criteria:\n\nSubjects who have pulmonary disease except COVID-19 pneumonia\nPaO2/FiO2 ≤ 100mmHg\nSubjects who have uncontrolled shock\nSubjects diagnosed with COVID-19 with CPR or requires treatment of Extra Corporeal Membrane Oxygenation (ECMO)\nSubjects with an irreversible brain lesion or medical history of malignant tumors\nSubjects treated for heart disease within 3 months prior to screening\nSubjects who are receiving immunosuppressant therapy for transplantation or who are taking immunosuppressive drugs such as steroids, TNF-alpha inhibitors\nSubject treated with stem cells.\nSubjects with end-stage renal failure who need renal replacement therapy or cirrhosis patients with complications\nSubjects who have an average life expectancy to be less than 2 months due to the underlying disease\nSubjects who have history of thromboembolism or pulmonary arterial hypertension\nSubjects who currently have positive HIV test results\nPregnant or breast-feeding women\n\nSubjects with pregnancy planned during clinical trials. Women or men of childbearing age who do not agree to maintain contraception by choosing, or who do not agree to use the appropriate method of contraception\n\nsuitable contraceptive methods: condom, sponge, foam, gel, diaphragm for contraception, intrauterine device, etc. Periodic abstinence (eg, calendar method, ovulation method, symptom body temperature method, post ovulation method) and restraint is not considered an accepted method of contraception, and hormonal contraceptives are not allowed. However, women having no potential are pregnancy due to menopause (amenorrhea more than 12 months after the last menstruation) or surgical infertility is possible to participate in the study only the pregnancy test is negative\nSubjects who administered other investigational products within 12 weeks prior to IP administration\nSubject who the principal investigator considers inappropriate for the study due to any other reasons than those listed above",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "19 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Won Ho CHUN",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "424-227-9568",
+            "CentralContactEMail": "chun@stemcellbio.com"
+          },
+          {
+            "CentralContactName": "Hugh Lee",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "301-540-2600",
+            "CentralContactEMail": "hughlee@kcrnresearch.com"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000011014",
+            "ConditionMeshTerm": "Pneumonia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafAsFound": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02808208",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "15-009053"
+      },
+      "Organization": {
+        "OrgFullName": "Mayo Clinic",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Autologous Adipose Derived Mesenchymal Stem Cells (AMSC) in Reducing Hemodialysis Arteriovenous Fistula Failure",
+      "OfficialTitle": "A Phase I, Open Label, Randomized Study of Autologous Adipose Derived Mesenchymal Stem Cells (AMSC) in Reducing Hemodialysis Arteriovenous Fistula Failure"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2022",
+      "OverallStatus": "Enrolling by invitation",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 7, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 2, 2016",
+      "StudyFirstSubmitQCDate": "June 16, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 21, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "January 19, 2022",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 20, 2022",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Sanjay Misra, M.D.",
+        "ResponsiblePartyInvestigatorTitle": "M.D.",
+        "ResponsiblePartyInvestigatorAffiliation": "Mayo Clinic"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Mayo Clinic",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The aim of this phase 1 study is to determine the role of autologous adipose derived mesenchymal stem cells in the reduction of hemodialysis arteriovenous fistula failure when applied during the time of surgical creation."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "End Stage Renal Disease (ESRD)",
+          "Vascular Access Complication"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "74",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Single dose AMSC treatment in Radiocephalic (RCF)or brachiocepahlic (BCF) arteriovenous fistula",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects who receive a radiocephalic (RCF)or brachiocepahlic (BCF) arteriovenous fistula through standard of care procedure for dialysis, will receive a single dose of Autologous Adipose Derived Mesenchymal Stem Cells (AMSC)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Single Application of Adipose Derived Mesenchymal Stem Cells (AMSC)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "No Treatment in Radiocephalic (RCF)or brachiocepahlic (BCF) arteriovenous fistula",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "Patients receive standard of care."
+          },
+          {
+            "ArmGroupLabel": "Single dose AMSC treatment at first stage of brachiobasilic arteriovenous fistula",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects who receive a brachiobasilic arteriovenous fistula (BBF) through standard of care procedure for dialysis, will receive a single dose of Autologous Adipose Derived Mesenchymal Stem Cells (AMSC) at time of first stage of BBF",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Single Application of Adipose Derived Mesenchymal Stem Cells (AMSC)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "AMSC treatment at first and second stage of brachiobasilic arteriovenous fistula",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects who receive a brachiobasilic arteriovenous fistula (BBF) through standard of care procedure for dialysis, will receive Autologous Adipose Derived Mesenchymal Stem Cells (AMSC) at first and second stage of BBF",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Two Applications of Adipose Derived Mesenchymal Stem Cells (AMSC)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo treatment in brachiobasilic arteriovenous fistula",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Subjects will receive placebo at first and second stage of BBF",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Single Application of Adipose Derived Mesenchymal Stem Cells (AMSC)",
+            "InterventionDescription": "A single topical application of mesenchymal stem cells derived from own fat biopsy to the surface of the outflow vein (right next to the fistula) over a five-minute period.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Single dose AMSC treatment at first stage of brachiobasilic arteriovenous fistula",
+                "Single dose AMSC treatment in Radiocephalic (RCF)or brachiocepahlic (BCF) arteriovenous fistula"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "5-mL of Lactated Ringers solution topical application to the surface of the outflow vein (right next to the fistula) over a five-minute period.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo treatment in brachiobasilic arteriovenous fistula"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Two Applications of Adipose Derived Mesenchymal Stem Cells (AMSC)",
+            "InterventionDescription": "Two topical applications of mesenchymal stem cells derived from own fat biopsy to the surface of the outflow vein (right next to the fistula) over a five-minute period at stage one and two of fistula surgery",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "AMSC treatment at first and second stage of brachiobasilic arteriovenous fistula"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Hemodialysis outflow vein diameter",
+            "PrimaryOutcomeDescription": "Diameter of outflow vein by ultrasound",
+            "PrimaryOutcomeTimeFrame": "Baseline to 12 months after AVF creation"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Hemodialysis AVF Blood flow",
+            "SecondaryOutcomeDescription": "blood flow by ultrasound or dialysis",
+            "SecondaryOutcomeTimeFrame": "Baseline to 12 months after AVF creation"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria\n\nPatient between 18 and 85 years old\nPatient currently on hemodialysis or pre-dialysis and planned creation of an upper extremity AV fistula with suitable anatomy\nAbility to communicate meaningfully with investigative staff, competence to give written informed consent, and ability to comply with entire study procedures\nLife expectancy of at least 24 months\n\nExclusion Criteria\n\nMalignancy or treatment for malignancy within the previous 6 months\nImmunodeficiency including AIDS / HIV or Active autoimmune disease\nDocumented hypercoagulable state or history of 2 or more DVTs or other spontaneous intravascular thrombotic events\nPregnancy or breast feeding\nTreatment with any investigational drug/ device within 60 days prior to study entry or Any other condition which in the judgment of the investigator would preclude adequate evaluation of the safety and efficacy of AMSCs and the AVF\nEmployees of the sponsor or patients who are employees or relatives of the investigator\nHistory of failed organ transplant on immunosuppression",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "85 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Sanjay Misra, M.D.",
+            "OverallOfficialAffiliation": "Mayo Clinic",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mayo Clinic in Rochester",
+            "LocationCity": "Rochester",
+            "LocationState": "Minnesota",
+            "LocationZip": "55905",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Mayo Clinic Clinical Trials",
+            "SeeAlsoLinkURL": "https://www.mayo.edu/research/clinical-trials"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007676",
+            "ConditionMeshTerm": "Kidney Failure, Chronic"
+          },
+          {
+            "ConditionMeshId": "D000001164",
+            "ConditionMeshTerm": "Arteriovenous Fistula"
+          },
+          {
+            "ConditionMeshId": "D000005402",
+            "ConditionMeshTerm": "Fistula"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007674",
+            "ConditionAncestorTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000020763",
+            "ConditionAncestorTerm": "Pathological Conditions, Anatomical"
+          },
+          {
+            "ConditionAncestorId": "D000051436",
+            "ConditionAncestorTerm": "Renal Insufficiency, Chronic"
+          },
+          {
+            "ConditionAncestorId": "D000051437",
+            "ConditionAncestorTerm": "Renal Insufficiency"
+          },
+          {
+            "ConditionAncestorId": "D000001165",
+            "ConditionAncestorTerm": "Arteriovenous Malformations"
+          },
+          {
+            "ConditionAncestorId": "D000054079",
+            "ConditionAncestorTerm": "Vascular Malformations"
+          },
+          {
+            "ConditionAncestorId": "D000018376",
+            "ConditionAncestorTerm": "Cardiovascular Abnormalities"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000016157",
+            "ConditionAncestorTerm": "Vascular Fistula"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000000013",
+            "ConditionAncestorTerm": "Congenital Abnormalities"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9851",
+            "ConditionBrowseLeafName": "Kidney Failure, Chronic",
+            "ConditionBrowseLeafAsFound": "End Stage Renal Disease (ESRD)",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7684",
+            "ConditionBrowseLeafName": "Fistula",
+            "ConditionBrowseLeafAsFound": "Fistula",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3624",
+            "ConditionBrowseLeafName": "Arteriovenous Fistula",
+            "ConditionBrowseLeafAsFound": "Arteriovenous Fistula",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M25871",
+            "ConditionBrowseLeafName": "Renal Insufficiency",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21672",
+            "ConditionBrowseLeafName": "Pathological Conditions, Anatomical",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25870",
+            "ConditionBrowseLeafName": "Renal Insufficiency, Chronic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12",
+            "ConditionBrowseLeafName": "Congenital Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3625",
+            "ConditionBrowseLeafName": "Arteriovenous Malformations",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M26711",
+            "ConditionBrowseLeafName": "Vascular Malformations",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19656",
+            "ConditionBrowseLeafName": "Cardiovascular Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17771",
+            "ConditionBrowseLeafName": "Vascular Fistula",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

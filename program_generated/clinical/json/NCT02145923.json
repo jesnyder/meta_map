@@ -1,0 +1,418 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02145923",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "RU-FMBC-05-01-14"
+      },
+      "Organization": {
+        "OrgFullName": "Burnasyan Federal Medical Biophysical Center",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Effectiveness and Safety of MMSCs for Enhancing Hematopoietic Recovery and Prophylaxis of Neutropenic Enterocolitis",
+      "OfficialTitle": "Effectiveness and Safety of Intravenous Infusion of Bone Marrow Derived Allogeneic Multipotent Mesenchymal Stromal Cells for Enhancing Hematopoietic Recovery and Prophylaxis of Neutropenic Enterocolitis in Hematological Patients With Aplasia After High-dose Chemotherapy."
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2015",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Enrolling by invitation",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 2014"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2016",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2016",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 21, 2014",
+      "StudyFirstSubmitQCDate": "May 22, 2014",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 23, 2014",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "June 9, 2015",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 10, 2015",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Zarui Simavonyan",
+        "ResponsiblePartyInvestigatorTitle": "MD",
+        "ResponsiblePartyInvestigatorAffiliation": "Burnasyan Federal Medical Biophysical Center"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Burnasyan Federal Medical Biophysical Center",
+        "LeadSponsorClass": "OTHER_GOV"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Subjects will undergo peripheral blood stem cell mobilisation and collection with subsequent high-dose chemotherapy. After finalization of high-dose chemotherapy subjects will receive bone marrow derived allogeneic multipotent mesenchymal stromal cells intravenous infusion two hours prior to autologous peripheral blood cells infusion. This is a single arm study with no control. All patients receive cell therapy.",
+      "DetailedDescription": "Patients with verified diagnosis Hodgkin's lymphoma or non-Hodgkin's lymphoma will undergo peripheral blood stem cell mobilisation and collection (chemotherapy + G-CSF or G-CSF+Plerixafor).\n\nAfter that high-dose chemotherapy will be performed according to protocols ICE and BEAM (standard scheme).\n\nPatient will receive bone marrow derived allogeneic multipotent mesenchymal stromal cells infusion 48 hours after last administration of cytotoxic agent . Number of cells calculated according to patient's body weight (1,5-2,0 mln of cells/kg), time of infusion - 30 minutes. Two hours later patient will receive autologous peripheral blood cells infusion."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Neutropenic Enterocolitis",
+          "Myeloablative Chemotherapy Induced Bone Marrow Aplasia"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Hodgkin Lymphoma",
+          "Non-Hodgkin's Lymphomas",
+          "Allogeneic Mesenchymal Stem Cell Transplantation",
+          "Autologous Peripheral Blood Stem Cell Transplantation",
+          "Neutropenic Enterocolitis",
+          "Myeloablative Chemotherapy",
+          "Bone Marrow Aplasia"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Prevention",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "16",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "allogeneic MMSCs infusion",
+            "ArmGroupType": "Other",
+            "ArmGroupDescription": "Subjects will undergo peripheral blood stem cell mobilisation and collection with subsequent high-dose chemotherapy. After finalization of high-dose chemotherapy subjects will receive bone marrow derived allogeneic multipotent mesenchymal stromal cells intravenous infusion two hours prior to autologous peripheral blood cells infusion.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Peripheral blood stem cell mobilisation and collection",
+                "Drug: High-dose chemotherapy",
+                "Drug: Bone marrow derived allogeneic MMSCs infusion",
+                "Procedure: Autologous peripheral blood stem cells infusion"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Peripheral blood stem cell mobilisation and collection",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "allogeneic MMSCs infusion"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "High-dose chemotherapy",
+            "InterventionDescription": "High-dose chemotherapy will be performed according to protocols ICE and BEAM (standard scheme)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "allogeneic MMSCs infusion"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Bone marrow derived allogeneic MMSCs infusion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "allogeneic MMSCs infusion"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Autologous peripheral blood stem cells infusion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "allogeneic MMSCs infusion"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of serious adverse events (SAEs) and serious adverse reactions (SARs)",
+            "PrimaryOutcomeTimeFrame": "2 weeks after treatment"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Time of hematopoietic recovery",
+            "SecondaryOutcomeDescription": "Monitoring of time of hematopoietic recovery assessed by complete blood count",
+            "SecondaryOutcomeTimeFrame": "Follow up to completion (up to 3 months after treatment)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Neutropenic enterocolitis",
+            "SecondaryOutcomeDescription": "Monitoring of frequency (number of participants) and severity of neutropenic enterocolitis during the study period",
+            "SecondaryOutcomeTimeFrame": "Follow up to completion (up to 3 months after treatment)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Infectious complications",
+            "SecondaryOutcomeDescription": "Monitoring of frequency and severity of infectious complications during the study period. Frequency of infectious complications will be represented in number of infections verified by clinical, instrumental examination and/or laboratory methods.",
+            "SecondaryOutcomeTimeFrame": "Follow up to completion (up to 3 months after treatment)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Transfusion needs",
+            "SecondaryOutcomeDescription": "Monitoring of frequency (number of participants) of transfusion needs during neutropenic period",
+            "SecondaryOutcomeTimeFrame": "Follow up to completion (up to 3 weeks after treatment)"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatient suffers from Hodgkin's lymphoma, non-Hodgkin's lymphoma with complete or partial remission.\nPatient is candidate to high-dose chemotherapy with subsequent autologous hematopoietic stem cell transplantation.\nAbsence of infection, cardiovascular, respiratory, renal and hepatic dysfunctions, focal neurological symptoms.\nKarnofsky score at least 70.\nPatient successfully undergone mobilization of peripheral blood stem cells.\nPatient is familiar with Participant information sheet.\nPatient signed informed consent form.\n\nNon-inclusion Criteria:\n\nSevere chronic comorbidity with symptoms of organ or system failure.\nSignificant abnormalities in laboratory tests.\nParticipation in other clinical trials (or intake of study drugs) within prior 3 months.\nConditions restricting commitment to participating in the trial (dementia, neuropsychiatric disorders, drug and alcohol abuse)\nPatients with malignant solid tumors.\nPatients with medical history of heterotopic ossification.\n\nExclusion Criteria:\n\nProgression or relapse of lymphoma during therapy.\nConfirmed syphilis, HIV, hepatitis B or C infection\nAbsence of clinical and laboratory signs of hematopoietic recovery and persistent enterocolitis at day 14 after the manipulation (Visit 15). While the patient remains in the hospital and continues treatment according to requirements of standard therapy",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Zaryi Simavonyan, MD",
+            "OverallOfficialAffiliation": "Burnasyan Federal Medical Biophysical Center",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Ilya I Eremin, MD, PhD",
+            "OverallOfficialAffiliation": "Burnasyan Federal Medical Biophysical Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "State Research Center Burnasyan Federal Medical Biophysical Center FMBA of Russia",
+            "LocationCity": "Moscow",
+            "LocationZip": "123182",
+            "LocationCountry": "Russian Federation"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000004760",
+            "ConditionMeshTerm": "Enterocolitis"
+          },
+          {
+            "ConditionMeshId": "D000044504",
+            "ConditionMeshTerm": "Enterocolitis, Neutropenic"
+          },
+          {
+            "ConditionMeshId": "D000000741",
+            "ConditionMeshTerm": "Anemia, Aplastic"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000005759",
+            "ConditionAncestorTerm": "Gastroenteritis"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007410",
+            "ConditionAncestorTerm": "Intestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000000740",
+            "ConditionAncestorTerm": "Anemia"
+          },
+          {
+            "ConditionAncestorId": "D000006402",
+            "ConditionAncestorTerm": "Hematologic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000080983",
+            "ConditionAncestorTerm": "Bone Marrow Failure Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001855",
+            "ConditionAncestorTerm": "Bone Marrow Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10372",
+            "ConditionBrowseLeafName": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8903",
+            "ConditionBrowseLeafName": "Hodgkin Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7074",
+            "ConditionBrowseLeafName": "Enterocolitis",
+            "ConditionBrowseLeafAsFound": "Enterocolitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3223",
+            "ConditionBrowseLeafName": "Anemia, Aplastic",
+            "ConditionBrowseLeafAsFound": "Bone Marrow Aplasia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M24502",
+            "ConditionBrowseLeafName": "Enterocolitis, Neutropenic",
+            "ConditionBrowseLeafAsFound": "Neutropenic Enterocolitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3222",
+            "ConditionBrowseLeafName": "Anemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8027",
+            "ConditionBrowseLeafName": "Gastroenteritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9596",
+            "ConditionBrowseLeafName": "Intestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8642",
+            "ConditionBrowseLeafName": "Hematologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2241",
+            "ConditionBrowseLeafName": "Bone Marrow Failure Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12270",
+            "ConditionBrowseLeafName": "Pancytopenia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4286",
+            "ConditionBrowseLeafName": "Bone Marrow Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3543",
+            "ConditionBrowseLeafName": "Lymphosarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2817",
+            "ConditionBrowseLeafName": "Hodgkin Lymphoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T460",
+            "ConditionBrowseLeafName": "Aplastic Anemia",
+            "ConditionBrowseLeafAsFound": "Bone Marrow Aplasia",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

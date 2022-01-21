@@ -1,0 +1,230 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03585855",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "P3-0323"
+      },
+      "Organization": {
+        "OrgFullName": "University Medical Centre Ljubljana",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cell Transplantation in the Treatment of Chronic Antibody Mediated Kidney Graft Rejection (ABMR)",
+      "OfficialTitle": "Autologous Mesenchymal Stem Cell Transplantation in the Treatment of Chronic Antibody Mediated Kidney Graft Rejection (ABMR)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2019",
+      "OverallStatus": "Terminated",
+      "WhyStopped": "Safety reasons",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 1, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 23, 2019",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 23, 2019",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "June 25, 2018",
+      "StudyFirstSubmitQCDate": "July 9, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 13, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "July 24, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 25, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Veceric-Haler Zeljka",
+        "ResponsiblePartyInvestigatorTitle": "Principal investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "University Medical Centre Ljubljana"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Medical Centre Ljubljana",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Slovenian Research Agency",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Transplant rejection is one of the biggest limitations in renal transplant procedures, where the kidney can undergo an acute, late acute, or chronic transplant rejection. With the advancement in transplantation protocols, acute survival of renal transplants has improved, but long-term survival is still unsatisfactory, as most of the renal transplants develop chronic graft rejection. Unfortunately, there is little the investigators know when it comes to improving long-term survival of renal transplants. Mesenchymal stem cells (MSC) have been shown to have immunosuppressive and repairing properties. The purpose of this study is to find out whether MSC in combination with standard therapy of antibody mediated rejection (ABMR) are more effective in preventing organ deterioration and maintaining kidney function.",
+      "DetailedDescription": "Participants will be assigned to receive the full immunosuppressive therapy indicated to treat chronic ABMR (including plasmapheresis (PF) 7x, intravenous immune globulins 100 mg/kg 7x, corticosteroid) and MSC infusions (2x106cells/kg bw after PF) (Group 1) and be compared to historic controls according to \"propensity score matching\" (treated with immunosuppressive therapy alone (Group 2)). Patients will undergo MSC infusions at the start of the study after each PF. One year post- infusions, patients will be evaluated and undergo kidney biopsies. Blood collection will occur at regular intervals, serum creatinine and the estimated creatinine clearance will be monthly recorded. The transplanted kidney function and morphology (US Doppler) will be evaluated."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Interventional"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignInterventionModelDescription": "comparison with historic control",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "4",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Historic control",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "historic cohort of patients with ABMR treated with standard of care therapy"
+          },
+          {
+            "ArmGroupLabel": "MSC transplantation",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "patients with ABMR treated with MSC transplantation",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: MSC transplantation"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Other",
+            "InterventionName": "MSC transplantation",
+            "InterventionDescription": "MSC transplantation: patients with ABMR treated with MSC transplantation",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSC transplantation"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety of MSC transplantation as assessed by adverse events according to CTCAE Version 5Estimated glomerular filtration rate (eGFR)",
+            "PrimaryOutcomeDescription": "Adverse events according to CTCAE Version 5",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Estimated glomerular filtration rate (eGFR)",
+            "SecondaryOutcomeDescription": "eGFR at up to 12 months post MSC transplantation",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Graft survival rate",
+            "SecondaryOutcomeDescription": "Graft survival rate at 12 months post MSC transplantation",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nRecipients of a renal allograft, male and female patients age >18\nThe eGF>20 ml/min/1.73 m2,\nRenal biopsy Criteria: chronic active ABMR.\nWritten informed consent, compliant with local regulations.\n\nExclusion Criteria:\n\nRecipients of multiple organs.\nPregnant women.\nMalignant disease in last 5 years\nActive autoimmune disease\nActive infection including hepatitis B, hepatitis C, HIV, or tuberculosis\nEvidence of congestive cardiac failure and/or acute coronary syndrome in past 6 months.\nEvidence of liver disease\nInadequate compliance to treatment.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Željka Večerić-Haler, MDPhD",
+            "OverallOfficialAffiliation": "assist.prof.Željka Večerić-Haler, MDPhD",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University Medical Centre Ljubljana",
+            "LocationCity": "Ljubljana",
+            "LocationZip": "1000",
+            "LocationCountry": "Slovenia"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No",
+      "IPDSharingDescription": "12 months"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

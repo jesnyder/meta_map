@@ -1,0 +1,508 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04577326",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "20-328"
+      },
+      "Organization": {
+        "OrgFullName": "Memorial Sloan Kettering Cancer Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesothelin-targeted CAR T-cell Therapy in Patients With Mesothelioma",
+      "OfficialTitle": "A Single-Arm, Open-Label, Phase I Trial to Assess the Safety of Genetically Engineered Autologous T Cells Targeting the Cell Surface Antigen Mesothelin With Cell-Intrinsic Checkpoint Inhibition in Patients With Mesothelioma"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2021",
+      "OverallStatus": "Recruiting",
+      "StartDateStruct": {
+        "StartDate": "September 30, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 30, 2020",
+      "StudyFirstSubmitQCDate": "September 30, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 6, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "July 19, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 20, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Atara Biotherapeutics",
+            "CollaboratorClass": "INDUSTRY"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study will test the safety of MSLN-targeted CAR-T cells at different doses to find the safest dose to give to people with MPM. The researchers want to see what effects, if any, the study treatment has on people with this type of cancer. This study is the first time that an MSLN-targeted CAR-T cell treatment with an anti-PD1 component is being given to people."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Malignant Pleural Mesothelioma (MPM)"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Genetically Engineered Autologous T Cells",
+          "20-328"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignInterventionModelDescription": "This is a phase I dose-escalation trial.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Engineered Autologous T Cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Following eligibility screening and enrollment, patients will undergo leukapheresis for the collection of peripheral blood mononuclear cells (PBMCs), to enable generation of M28z1XXPD1DNR. Following successful M28z1XXPD1DNR CAR T-cell manufacturing, patients will be reevaluated for eligibility. A preconditioning regimen of one dose of intravenous (IV) cyclophosphamide 1.5 g/m2 will be administered 2-7 days before the infusion. A single dose of M28z1XXPD1DNR CAR T cells will be instilled into the pleural cavity via a pleural catheter or through an interventional radiology-guided needle. All patients will be monitored in the hospital for a minimum of 48 h following the administration of CAR T cells.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: cyclophosphamide",
+                "Biological: CAR T cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "cyclophosphamide",
+            "InterventionDescription": "A preconditioning regimen of one dose of intravenous (IV) cyclophosphamide 1.5 g/m^2 will be administered 2-7 days before the infusion.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Engineered Autologous T Cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "CAR T cells",
+            "InterventionDescription": "A single dose of M28z1XXPD1DNR CAR T cells will be instilled into the pleural cavity via a pleural catheter or through an interventional radiology-guided needle. Cohorts of 3 patients will be treated at each dose level, up to a maximum of 3 x 10^7 T cells/kg or until the MTD has been reached.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Engineered Autologous T Cells"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "MTD of M28z1XXPD1DNR",
+            "PrimaryOutcomeDescription": "CTCAE v5.0 will be used to assess the severity of all treatment emerging toxicities/adverse events regardless",
+            "PrimaryOutcomeTimeFrame": "2 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "overall response rate (ORR)",
+            "SecondaryOutcomeDescription": "modified RECIST (mRECIST; v1.0)",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAged ≥18 years\nKarnofsky performance status ≥70%\n\nPathologically confirmed MPM\n\nEpithelioid or biphasic histologic diagnosis provided that ≥10% of the tumor expresses MSLN by IHC analysis\nPatients with peritoneal mesothelioma with pleural involvement are eligible only if there is radiographic and pathologic confirmation of mesothelioma in the pleural cavity and ≥10% of the tumor expresses MSLN by IHC analysis.\nPreviously treated with at least 1 treatment regimen\nMeasurable or evaluable disease (disease is considered evaluable but not measurable if it does not meet the eligibility criteria for mRECIST but is a manifestation of malignancy that can be followed qualitatively as an indicator of disease progression or treatment response)\n\nChemotherapy, targeted therapy, or radiotherapy must be completed at least 7 days before leukapheresis.\n\na. CPI must be completed at least 21 days before leukapheresis.\n\nChemotherapy, targeted therapy, or therapeutic radiotherapy must be completed at least 14 days before administration of T cells.\n\nPalliative radiotherapy can be completed 2 days before lymphodepletion. Immunotherapy with CPI must be completed at least 42 days before administration of T cells.\n\n9. Any major thoracic (thoracotomy with lung or esophageal resection) or abdominal (laparotomy with organ resection) operation must have occurred at least 28 days before study enrollment. Patients who have undergone diagnostic VATS or laparoscopy can be included in the study.\n\n10. All acute toxic effects of any previous therapeutic or palliative radiotherapy, chemotherapy, or surgical procedures must have resolved to grade 1 (CTCAE v5.0).\n\n11. Lab requirements (hematology):\n\na. Absolute neutrophil count ≥1.5 K/mcL b. Platelet count ≥100 K/mcL\n\n12. Lab requirements (serum chemistry):\n\na. Bilirubin ≤1.5x upper limit of normal (ULN) b. Serum alanine aminotransferase and serum aspartate aminotransferase (ALT/AST) level ≤5x ULN c. Serum creatinine level ≤1.5x ULN or creatinine >1.5x ULN but calculated clearances of >60 by Cockcroft-Gault Equation\n\n13. Negative screen for infectious disease markers including Hepatitis B core antibody, Hepatitis B surface antigen, Hepatitis C antibody, HIV 1-2 antibody, HTLV 1-2 and Syphilis (rapid plasma regain profile) Note - Patients with history of prior hepatitis B virus (HBV) infection are eligible if the HBV viral load is undetectable. Patients with a history of hepatitis C virus (HCV) infection who were treated for hepatitis C and cured are eligible if hepatitis C viral load is undetectable.\n\n14. Life expectancy at the time of screening ≥4 months\n\nExclusion Criteria:\n\nPatients receiving therapy for concurrent active malignancy\n\na. Patients receiving treatment for in situ skin malignancies are not excluded.\n\nPatients who received prior CAR T-cell therapy\nUntreated or active central nervous system (CNS) metastases (progressing or requiring\n\nanticonvulsants or corticosteroids for symptomatic control). Patients with a history of treated CNS metastases are eligible if all the following criteria are met:\n\nPresence of measurable or evaluable disease outside of the CNS\nRadiographic demonstration of improvement upon completion of CNS-directed therapy and no evidence of interim progression between completion of CNSdirected therapy and the screening radiographic study\nCompletion of radiotherapy ≥8 weeks before the screening radiographic study\nDiscontinuation of corticosteroids and anticonvulsants ≥4 weeks before the screening radiographic study\nHistory of seizure disorder\n\nActive autoimmune disease that has required systemic treatment in the past year (with use of disease-modifying agents, corticosteroids, or immunosuppressive drugs)\n\na. Replacement therapy (e.g., thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency) is not considered a form of systemic treatment and is allowed.\n\nPatients who are receiving daily systemic corticosteroids that are above physiological doses for any reason or who are under immunosuppressive or immunomodulatory treatment\n\nPatients with the below cardiac conditions:\n\nNew York Heart Association stage III or IV congestive heart failure\nMyocardial infarction ≤6 months before enrollment\nHistory of myocarditis\nSerious uncontrolled cardiac arrhythmia, unstable angina, or uncontrolled infection\nPatients with left ventricular ejection fraction ≤40%\nPatients with active interstitial lung disease/pneumonitis or a history of interstitial lung disease/pneumonitis requiring treatment with systemic steroids\nBaseline pulse oximetry <90% on room air at the screening timepoint\n\nPregnant or lactating women\n\na. Subjects and their partners with reproductive potential must agree to use an effective form of contraception during treatment and for 1 year following treatment.\n\nKnown active infection requiring antibiotic treatment 7 days before the start of treatment (Day 0). Note: treatment can be delayed at the discretion of the treating physician to allow the patient to recover from the infection.\nAdministration of live, attenuated vaccine within 8 weeks before the start of treatment (Day 0) and for 100 days following treatment.\nAny other medical condition that, in the opinion of the PI, may interfere with a subject's participation in or compliance with the study\nAny patient deemed to be noncompliant by the study team for administration of a high risk treatment agent and for close follow-up after treatment as required by the protocol",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Roisin O'Cearbhaill, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "646-888-4227",
+            "CentralContactEMail": "cart@mskcc.org"
+          },
+          {
+            "CentralContactName": "Jason Beattie, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "212-639-7843"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Roisin O'Cearbhaill, MD",
+            "OverallOfficialAffiliation": "Memorial Sloan Kettering Cancer Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Memorial Sloan Kettering Cancer Center (All Protocol Activities)",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10065",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Roisin O'Cearbhaill, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "646-888-4227"
+                },
+                {
+                  "LocationContactName": "Jason Beattie, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "212-639-7843"
+                },
+                {
+                  "LocationContactName": "Roisin O'Cearbhaill, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Memorial Sloan Kettering Cancer Center",
+            "SeeAlsoLinkURL": "http://www.mskcc.org/mskcc/html/44.cfm"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "Memorial Sloan Kettering Cancer Center supports the international committee of medical journal editors (ICMJE) and the ethical obligation of responsible sharing of data from clinical trials. The protocol summary, a statistical summary, and informed consent form will be made available on clinicaltrials.gov when required as a condition of Federal awards, other agreements supporting the research and/or as otherwise required. Requests for deidentified individual participant data can be made beginning 12 months after publication and for up to 36 months post publication. Deidentified individual participant data reported in the manuscript will be shared under the terms of a Data Use Agreement and may only be used for approved proposals. Requests may be made to: crdatashare@mskcc.org."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008654",
+            "ConditionMeshTerm": "Mesothelioma"
+          },
+          {
+            "ConditionMeshId": "D000086002",
+            "ConditionMeshTerm": "Mesothelioma, Malignant"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000000236",
+            "ConditionAncestorTerm": "Adenoma"
+          },
+          {
+            "ConditionAncestorId": "D000009375",
+            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000018301",
+            "ConditionAncestorTerm": "Neoplasms, Mesothelial"
+          },
+          {
+            "ConditionAncestorId": "D000008175",
+            "ConditionAncestorTerm": "Lung Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000012142",
+            "ConditionAncestorTerm": "Respiratory Tract Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000013899",
+            "ConditionAncestorTerm": "Thoracic Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000010997",
+            "ConditionAncestorTerm": "Pleural Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10786",
+            "ConditionBrowseLeafName": "Mesothelioma",
+            "ConditionBrowseLeafAsFound": "Mesothelioma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2538",
+            "ConditionBrowseLeafName": "Mesothelioma, Malignant",
+            "ConditionBrowseLeafAsFound": "Mesothelioma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2743",
+            "ConditionBrowseLeafName": "Adenoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11472",
+            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19598",
+            "ConditionBrowseLeafName": "Neoplasms, Mesothelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10324",
+            "ConditionBrowseLeafName": "Lung Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14131",
+            "ConditionBrowseLeafName": "Respiratory Tract Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15810",
+            "ConditionBrowseLeafName": "Thoracic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13039",
+            "ConditionBrowseLeafName": "Pleural Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3584",
+            "ConditionBrowseLeafName": "Malignant Mesothelioma",
+            "ConditionBrowseLeafAsFound": "Mesothelioma",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000003520",
+            "InterventionMeshTerm": "Cyclophosphamide"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000007166",
+            "InterventionAncestorTerm": "Immunosuppressive Agents"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018906",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+          },
+          {
+            "InterventionAncestorId": "D000000477",
+            "InterventionAncestorTerm": "Alkylating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000019653",
+            "InterventionAncestorTerm": "Myeloablative Agonists"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M5879",
+            "InterventionBrowseLeafName": "Cyclophosphamide",
+            "InterventionBrowseLeafAsFound": "Months",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M9364",
+            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20095",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2972",
+            "InterventionBrowseLeafName": "Alkylating Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

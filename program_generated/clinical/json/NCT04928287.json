@@ -1,0 +1,629 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04928287",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "HBPD03"
+      },
+      "Organization": {
+        "OrgFullName": "Hope Biosciences",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Randomized, Double-Blind Clinical Trial for Parkinson's Disease (Early and Moderate)",
+      "OfficialTitle": "\"A Randomized, Double-Blind, Single Center, Phase 2, Efficacy and Safety Study of Autologous HB-adMSCs vs Placebo for the Treatment of Patients With Parkinson's Disease\"",
+      "Acronym": "PD"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 28, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "May 28, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "May 28, 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 26, 2021",
+      "StudyFirstSubmitQCDate": "June 14, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 16, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 27, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 29, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Hope Biosciences Stem Cell Research Foundation",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Hope Biosciences",
+            "CollaboratorClass": "INDUSTRY"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a randomized, double-blind, single center, phase 2 study to assess efficacy and safety of multiple HB-adMSCs vs Placebo for the treatment of Parkinson's disease.\n\nThe trial includes a screening period of up to 4 weeks, a 32-week treatment period, and a safety Follow-up period of 20 weeks after the last investigational product administration.\n\nThis clinical trial will be open to enroll 24 eligible participants diagnosed with Parkinson's disease. Patients' recruitment will be conducted by the study team, if eligible participants are identified based on eligibility criteria, a screening visit will be scheduled. Informed consent form will be given to the study participants and signed before any study procedures. Informed consent form will include information about the clinical trial and some aspects should be considered during this process."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Parkinson Disease"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "A parallel study is a type of clinical study where two groups of treatments, A (HB-adMSCs) and B (Placebo), are given so that one group receives only A while another group receives only B.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignMaskingDescription": "Study subjects, investigators and study staff will be blinded to the assigned treatment.",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "24",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "HB-adMSCs",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Autologous Hope Biosciences adipose derived mesenchymal stem cells.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: HB-adMSCs",
+                "Other: Placebo"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Sterile Saline Solution 0.9%",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: HB-adMSCs",
+                "Other: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "HB-adMSCs",
+            "InterventionDescription": "HB-adMSCs will be administered intravenously to study participants who qualify.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "HB-adMSCs",
+                "Placebo"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Autologous Hope Biosciences adipose derived mesenchymal stem cells."
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Placebo will be administered intravenously to study participants who qualify.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "HB-adMSCs",
+                "Placebo"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Sterile Saline Solution 0.9%"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Changes in MDS-UPDRS Part II.",
+            "PrimaryOutcomeDescription": "MDS-UPDRS Part II.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of treatment-emergent Adverse Event (TEAEs).",
+            "PrimaryOutcomeDescription": "treatment-emergent Adverse Event.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of treatment-emergent Serious Adverse Events (SAEs).",
+            "PrimaryOutcomeDescription": "SSAEs.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "AEs of special interest (serious or non-serious) - thromboembolic events.",
+            "PrimaryOutcomeDescription": "Incidence of thromboembolic events.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "AEs of special interest (serious or non-serious) - thromboembolism of the extremities",
+            "PrimaryOutcomeDescription": "Incidence and risk of AEs of special interest (serious or non-serious), including peripheral events defined as, thromboembolism of the extremities.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "AEs of special interest (serious or non-serious) - infections",
+            "PrimaryOutcomeDescription": "Incidence and risk of AEs of special interest (serious or non-serious), including infections.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "AEs of special interest (serious or non-serious) - hypersensitivities.",
+            "PrimaryOutcomeDescription": "Incidence and risk of AEs of special interest (serious or non-serious), including hypersensitivities.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "Laboratory values. CBC",
+            "PrimaryOutcomeDescription": "Clinically significant changes in CBC values.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "Laboratory values. CMP",
+            "PrimaryOutcomeDescription": "Clinically significant changes in CMP values.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "Laboratory values. Coagulation Panel",
+            "PrimaryOutcomeDescription": "Clinically significant changes in Coagulation Panel values.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "Vital signs. - Respiratory Rate (breaths per minute)",
+            "PrimaryOutcomeDescription": "Clinically significant changes in Respiratory Rate.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "Vital signs. - Heart Rate (beats per minute)",
+            "PrimaryOutcomeDescription": "Clinically significant changes in Heart Rate.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "Vital signs. - Body Temperature (Fahrenheit )",
+            "PrimaryOutcomeDescription": "Clinically significant changes in Heart Rate.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "Vital signs. - Blood Pressure (mmHg)",
+            "PrimaryOutcomeDescription": "Clinically significant changes in Blood Pressure.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "Weight in lb.",
+            "PrimaryOutcomeDescription": "Clinically significant changes in Weight in lb.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "Physical examination results. General",
+            "PrimaryOutcomeDescription": "Clinically significant changes in general physical examination results.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          },
+          {
+            "PrimaryOutcomeMeasure": "Physical examination results. Body Systems.",
+            "PrimaryOutcomeDescription": "Clinically significant changes in body systems physical examination results.",
+            "PrimaryOutcomeTimeFrame": "Baseline to Weeks 52."
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Changes in MDS-UPDS total score.",
+            "SecondaryOutcomeDescription": "MDS-UPDS Parts I, II, III and IV.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in MDS-UPDRS Part I.",
+            "SecondaryOutcomeDescription": "Non-Motor Aspects of Experiences of Daily Living (nM-EDL), including complex behaviors such as, cognitive impairment, hallucinations and psychosis, depressed mood, anxious mood, apathy, features of dopamine dysregulation syndrome, sleep problems, daytime sleepiness, pain and other sensations, urinary problems, constipation problems, light headedness on standing and fatigue.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in MDS-UPDRS Part III.",
+            "SecondaryOutcomeDescription": "Motor Examination, including speech, facial expression, rigidity, finger tapping, hand movements, pronation-supination movements of hands, toe tapping, leg agility, arising from chair, gait, freezing of gait, postural stability, posture, global spontaneity of movement (body bradykinesia), postural tremor of the hands, kinetic tremor of the hands, rest tremor amplitude, constancy of rest tremor, dyskinesias impact and Hoehn and Yahr stage.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in MDS-UPDRS Part IV.",
+            "SecondaryOutcomeDescription": "Motor Complications, including time spent with dyskinesias and others.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Neuro-QOL. - Communication",
+            "SecondaryOutcomeDescription": "Communication - Short Form",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Neuro-QOL. - Social Roles and Activities",
+            "SecondaryOutcomeDescription": "Ability to Participate in Social Roles and Activities - Short Form",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Neuro-QOL. - Anxiety",
+            "SecondaryOutcomeDescription": "Anxiety - Short Form",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Neuro-QOL. - Depression",
+            "SecondaryOutcomeDescription": "Depression - Short Form",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Neuro-QOL. - Dyscontrol",
+            "SecondaryOutcomeDescription": "Emotional and Behavioral Dyscontrol - Short Form",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Neuro-QOL. - Fatigue",
+            "SecondaryOutcomeDescription": "Fatigue - Short Form",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Neuro-QOL. - Mobility",
+            "SecondaryOutcomeDescription": "Lower Extremity Function (Mobility) - Short Form",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Neuro-QOL. - Well-Being",
+            "SecondaryOutcomeDescription": "Positive Affect and Well-Being - Short Form",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Neuro-QOL. - Sleep",
+            "SecondaryOutcomeDescription": "Sleep Disturbance - Short Form",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Neuro-QOL. - Fine Motor",
+            "SecondaryOutcomeDescription": "Upper Extremity Function (Fine Motor, ADL) - Short Form",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Neuro-QOL. - Stigma",
+            "SecondaryOutcomeDescription": "Stigma-Short Form",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Neuro-QOL. - Social Roles",
+            "SecondaryOutcomeDescription": "Satisfaction with Social Roles and Activities - Short Form",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Neuro-QOL. - Cognition",
+            "SecondaryOutcomeDescription": "Cognition Function- Short Form",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Parkinson's disease fatigue scale (PFS-16).",
+            "SecondaryOutcomeDescription": "Score of ≥8 indicates the presence of significant fatigue.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Parkinson's disease Questionnaire (PDQ-39).",
+            "SecondaryOutcomeDescription": "Difficulties across the 8 quality of life dimensions of functioning of wellbeing.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Visual Analog Scale for Pain.",
+            "SecondaryOutcomeDescription": "Visual Analog Scale for Pain.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Dosage of medications taken to treat Parkinson's disease.",
+            "SecondaryOutcomeDescription": "Dosage of medications.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of treatment-emergent Adverse Event (TEAEs) and serious Adverse Events (SAEs).",
+            "SecondaryOutcomeDescription": "Adverse Event (TEAEs)",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence and risk of AEs of special interest (serious or non-serious),",
+            "SecondaryOutcomeDescription": "Including thromboembolic events, peripheral events defined as, thromboembolism of the extremities, also infections and hypersensitivities.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinically significant changes in laboratory values. - CBC",
+            "SecondaryOutcomeDescription": "CBC",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Visual Analog Scale for muscle spasms.",
+            "SecondaryOutcomeDescription": "Visual Analog Scale for muscle spasms.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinically significant changes in vital signs. - Respiratory Rate",
+            "SecondaryOutcomeDescription": "Changes in Respiratory Rate.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinically significant changes in vital signs. - Heart Rate",
+            "SecondaryOutcomeDescription": "Changes in Heart Rate.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinically significant changes in vital signs. - Body Temperature.",
+            "SecondaryOutcomeDescription": "Changes in Body Temperature.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinically significant changes in vital signs. - Blood Pressure.",
+            "SecondaryOutcomeDescription": "Changes in Blood Pressure.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinically significant changes in vital signs. - Oxygen Saturation.",
+            "SecondaryOutcomeDescription": "Changes in Oxygen Saturation.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinically significant changes in physical examination results.",
+            "SecondaryOutcomeDescription": "Physical examination results.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinically significant changes in weight in lb.",
+            "SecondaryOutcomeDescription": "Weight in lb.",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinically significant changes in laboratory values. - CMP",
+            "SecondaryOutcomeDescription": "CMP",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinically significant changes in laboratory values. - Coagulation Panel",
+            "SecondaryOutcomeDescription": "Coagulation Panel",
+            "SecondaryOutcomeTimeFrame": "Baseline to Weeks 4, 8, 16, 24, 32, 42 and 52."
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nA study participant will be eligible for inclusion in this study only if all of the following criteria apply:\n\nMale and female participants 18 - 75 years of age.\nStudy participant must have been diagnosed with early and/or moderate Parkinson's disease at least 6 months before study participation.\nStudy participants must have previously banked their mesenchymal stem cells with Hope Biosciences.\nStudy participants should be able to read, understand and to provide written consent.\nVoluntarily signed informed consent obtained before any clinical-trial related procedures are performed.\nFemale study participants should not be pregnant or plan to become pregnant during study participation and for 6 months after last investigational product administration.\nMale participants if their sexual partners can become pregnant should use a method of contraception during study participation and for 6 months after the last administration of the investigated product.\nStudy participant is able and willing to comply with the requirements of this clinical trial.\n\nExclusion Criteria:\n\nA study participant will not be eligible for inclusion in this clinical trial if any of the following criteria apply:\n\nPregnancy, lactation. Women of childbearing age who are not pregnant but do not take effective contraceptive measures.\nStudy participants with advanced Parkinson's disease described as, severe disability, wheelchair bound or bedridden.\nStudy participant has any active malignancy, including evidence of cutaneous basal, squamous cell carcinoma or melanoma.\nStudy participant has known alcoholic addiction or dependency or has current substance use or abuse.\n\nStudy participant has 1 or more significant concurrent medical conditions (verified by medical records), including the following:\n\nPoorly controlled diabetes mellitus (PCDM) defined as history of deficient standard of care treatment and/or pre-prandial glucose >130mg/dl during screening visit or post-prandial glucose >200mg/dl.\nMedical History of Chronic kidney disease (CKD) diagnosis and/or screening results of eGFR < 59mL/min/1.73m2.\nPresence of New York Heart Association (NYHA) Class III/IV heart failure during screening visit.\nAny medical history of myocardial infarction in any of the different types, such as ST-elevation myocardial infarction (STEMI) or non-ST-elevated myocardial infarction (NSTEMI), coronary spasm, or unstable angina.\nMedical history of uncontrolled high blood pressure defined as a deficient standard of care treatment and/or blood pressure > 180/120 mm/Hg during screening visit.\nMedical history of inherited thrombophilias, recent major general surgery, (within 12 months before the Screening), lower extremity paralysis due to spinal cord injury, fracture of the pelvis, hips or femur, cancer of the lung, brain, lymphatic, gynecologic system (ovary or uterus), or gastrointestinal tract (like pancreas or stomach).\nHistory of brain surgery for Parkinson's disease.\nStudy participant has received any stem cell treatment within 6 months before first dose of investigational product other than stem cells produced by Hope Biosciences.\nReceiving any investigational therapy or any approved therapy for investigational use within 1 year prior first dose of the investigational product other than COVID-19 vaccines.\n\nStudy participant has a laboratory abnormality during screening, including the following:\n\nWhite blood cell count < 3000/mm3\nPlatelet count < 80,000mm3\nAbsolute neutrophil count < 1500/mm3\nAlanine aminotransferase (ALT) or aspartate aminotransferase (AST) 10 upper limit of normal (ULN) x 1.5\nStudy participant has any other laboratory abnormality or medical condition which, in the opinion of the investigator, poses a safety risk or will prevent the subject from completing the study.\nStudy participant is unlikely to complete the study or adhere to the study procedures.\nStudy participant with known concurrent acute or chronic viral hepatitis B or C or human immunodeficiency virus (HIV) infection.\nStudy participant has a previously diagnosed psychiatric condition which in the opinion of the investigator may affect self-assessments.\nStudy participant with any systemic infection requiring treatment with antibiotics, antivirals, or antifungals within 30 days prior to first dose of the investigational product.\nMale study participants who plan to donate sperm during the study or within 6 months after the last dose. Female patients who plan to donate eggs or undergo in vitro fertilization treatment during the study or within 6 months after the last dose.\nStudy participants who are determined by the Investigator to be unsuitable for study enrollment for other reasons",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Djamchid Lotfi, MD",
+            "OverallOfficialAffiliation": "Hope Biosciences Stem Cell Research Foundation",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Hope Biosciences Stem Cell Research Foundation",
+            "LocationCity": "Sugar Land",
+            "LocationState": "Texas",
+            "LocationZip": "77478",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010300",
+            "ConditionMeshTerm": "Parkinson Disease"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000020734",
+            "ConditionAncestorTerm": "Parkinsonian Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001480",
+            "ConditionAncestorTerm": "Basal Ganglia Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009069",
+            "ConditionAncestorTerm": "Movement Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000080874",
+            "ConditionAncestorTerm": "Synucleinopathies"
+          },
+          {
+            "ConditionAncestorId": "D000019636",
+            "ConditionAncestorTerm": "Neurodegenerative Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12365",
+            "ConditionBrowseLeafName": "Parkinson Disease",
+            "ConditionBrowseLeafAsFound": "Parkinson's Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21647",
+            "ConditionBrowseLeafName": "Parkinsonian Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24756",
+            "ConditionBrowseLeafName": "Ganglion Cysts",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15510",
+            "ConditionBrowseLeafName": "Synovial Cyst",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3926",
+            "ConditionBrowseLeafName": "Basal Ganglia Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11181",
+            "ConditionBrowseLeafName": "Movement Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2217",
+            "ConditionBrowseLeafName": "Synucleinopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20711",
+            "ConditionBrowseLeafName": "Neurodegenerative Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

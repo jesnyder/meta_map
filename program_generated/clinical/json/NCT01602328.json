@@ -1,0 +1,514 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01602328",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "AC 6071103"
+      },
+      "Organization": {
+        "OrgFullName": "AlloCure Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "A Study to Evaluate the Safety and Efficacy of AC607 for the Treatment of Kidney Injury in Cardiac Surgery Subjects",
+      "OfficialTitle": "A Randomized, Multicenter, Double-Blind, Placebo-Controlled Study of AC607 for the Treatment of Acute Kidney Injury in Cardiac Surgery Subjects",
+      "Acronym": "ACT-AKI"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2014",
+      "OverallStatus": "Terminated",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 2012"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2014",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 2014",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "May 17, 2012",
+      "StudyFirstSubmitQCDate": "May 17, 2012",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 21, 2012",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "August 5, 2014",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 6, 2014",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "AlloCure Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Subjects entering the study will have undergone cardiac surgery. Those who experience kidney injury within 48 hours of their surgery will be enrolled into the study. Once enrolled, subjects will receive a single administration of AC607 or placebo. Kidney recovery will be evaluated over the subsequent 30 days and death or the need for dialysis will be evaluated within 90 days of dosing. After 90 days (evaluation period), subjects will enter a 3-year extension phase of the study to monitor safety and long-term outcomes (follow-up period).",
+      "DetailedDescription": "The study will enroll post-cardiac surgery subjects (CABG and/or valve) with laboratory evidence of AKI within 48 hrs of removal from cardiopulmonary bypass. Subjects will be randomly assigned (1:1 ratio) to treatment with a single administration of AC607 or placebo (approximately 100 subjects per group).\n\nSafety and efficacy assessments will be performed daily during the post-operative hospital stay from the day randomized into the study until discharge, at 30 days, and at 90 days after study drug administration (evaluation phase). Safety and long-term clinical outcomes will be assessed at 6, 12, 24 and 36 months (long-term follow-up phase)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Acute Kidney Injury"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Acute Kidney Injury",
+          "Acute renal failure",
+          "Human mesenchymal stem cells",
+          "Allogeneic stem cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "156",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "AC607",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Treatment with AC607",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: AC607"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Treatment with Placebo",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Vehicle Only"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "AC607",
+            "InterventionDescription": "AC607 will be a single administration at a target dose of 2 x 10E6 hMSC/kg body weight",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "AC607"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "allogeneic bone marrow-derived human mesenchymal",
+                "stem cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Vehicle Only",
+            "InterventionDescription": "The dose will be calculated and recorded in the same way as for AC607.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Time to Kidney Recovery defined as a post-operative serum creatinine return to pre-operative baseline values.",
+            "PrimaryOutcomeDescription": "The first occurrence of a post-dosing serum creatinine level that is equal to or less than the subject's pre-operative baseline level.",
+            "PrimaryOutcomeTimeFrame": "Within 30 days of dosing."
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "All-Cause Mortality or Dialysis (composite endpoint).",
+            "SecondaryOutcomeTimeFrame": "Subjects who died or received dialysis within 30 and 90 days after dosing."
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge ≥ 21 years\nHad cardiovascular surgery utilizing cardiopulmonary bypass\nHave a pre-operative (baseline) serum creatinine value collected within 30 days of surgery (if multiple laboratory results are available within this time window, the most recent serum creatinine value prior to surgery will be used to establish the baseline)\nWilling and able to comply with visit schedule and study procedures including post-hospitalization discharge follow-up\nAbility to give informed consent or have a legally acceptable representative do so for them\nHave AKI defined as ≥ 0.5 mg/dL rise in serum creatinine from baseline within 48 hours of removal from cardiopulmonary bypass\n\nExclusion Criteria:\n\nActive cancer and/or receiving active treatment for cancer, with the exception of squamous cell or basal cell carcinoma of the skin\nHad surgery for thoraco-abdominal aortic aneurysm (TAAA)\nCurrently participating in another interventional drug or device clinical study\nPrisoner or other detainee\nHas a current medical condition that would preclude or compromise femoral artery catheter placement\nHas an intra-aortic balloon pump (IABP) in place within 2 hours of catheter placement\nHas a ventricular assist device (VAD) or extracorporeal membrane oxygenation (ECMO) in place at the time of the study catheter placement\nPrior history of solid organ or bone marrow transplant\nStage 5 CKD or currently on dialysis\nAre expected to receive dialysis within 24 hours of enrollment or dosing\nHad a complication during surgery or post-operatively that, in the opinion of the principal investigator (PI), significantly increases the risk of complications to the subject and therefore precludes dosing the subject\nAre pregnant or lactating. A woman with child-bearing potential may be tested for pregnancy at the discretion of the PI.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "21 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Viken Paragamian",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Alabama at Birmingham",
+            "LocationCity": "Birmingham",
+            "LocationState": "Alabama",
+            "LocationZip": "35294",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of California, San Diego",
+            "LocationCity": "San Diego",
+            "LocationState": "California",
+            "LocationZip": "92103",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Stanford Hospital and Clinics",
+            "LocationCity": "Stanford",
+            "LocationState": "California",
+            "LocationZip": "94305-2299",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "MedStar Washington Hospital Center",
+            "LocationCity": "Washington",
+            "LocationState": "District of Columbia",
+            "LocationZip": "20010",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Northwestern University",
+            "LocationCity": "Chicago",
+            "LocationState": "Illinois",
+            "LocationZip": "60611",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Maine Medical Center",
+            "LocationCity": "Portland",
+            "LocationState": "Maine",
+            "LocationZip": "04102",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Johns Hopkins University",
+            "LocationCity": "Baltimore",
+            "LocationState": "Maryland",
+            "LocationZip": "21287",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Brigham and Women's Hospital",
+            "LocationCity": "Boston",
+            "LocationState": "Massachusetts",
+            "LocationZip": "02115",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Beth Israel Deaconess Medical Center",
+            "LocationCity": "Boston",
+            "LocationState": "Massachusetts",
+            "LocationZip": "02215",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Henry Ford Hospital",
+            "LocationCity": "Detroit",
+            "LocationState": "Michigan",
+            "LocationZip": "48202",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Mayo Clinic",
+            "LocationCity": "Rochester",
+            "LocationState": "Minnesota",
+            "LocationZip": "55905",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Rutgers Robert Wood Johnson Medical School",
+            "LocationCity": "New Brunswick",
+            "LocationState": "New Jersey",
+            "LocationZip": "08903",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Columbia University Medical Center",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10032",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Duke University Medical Center",
+            "LocationCity": "Durham",
+            "LocationState": "North Carolina",
+            "LocationZip": "27710",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Ohio State University",
+            "LocationCity": "Columbus",
+            "LocationState": "Ohio",
+            "LocationZip": "43210",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Lankenau Medical Center",
+            "LocationCity": "Wynnewood",
+            "LocationState": "Pennsylvania",
+            "LocationZip": "19096",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "UTHealth, The University of Texas Health Science Center at Houston",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77030",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Fletcher Allen Health Care - Renal Services",
+            "LocationCity": "Burlington",
+            "LocationState": "Vermont",
+            "LocationZip": "05401",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Virginia Health System",
+            "LocationCity": "Charlottesville",
+            "LocationState": "Virginia",
+            "LocationZip": "22908",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Washington Medical Center",
+            "LocationCity": "Seattle",
+            "LocationState": "Washington",
+            "LocationZip": "98195",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "CAMC Clinical Trials Center",
+            "LocationCity": "Charleston",
+            "LocationState": "West Virginia",
+            "LocationZip": "25304",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Foothills Medical Centre",
+            "LocationCity": "Calgary",
+            "LocationState": "Alberta",
+            "LocationZip": "T2N 2T9",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "University of Alberta Hospital",
+            "LocationCity": "Edmonton",
+            "LocationState": "Alberta",
+            "LocationZip": "T6G 2B7",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "University of Manitoba - St. Boniface Hospital",
+            "LocationCity": "Winnipeg",
+            "LocationState": "Manitoba",
+            "LocationZip": "R2H 2A6",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "CDHA Queen Elizabeth II Health Sciences Centre",
+            "LocationCity": "Halifax",
+            "LocationState": "Nova Scotia",
+            "LocationZip": "B3H 3A7",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "McMaster - Hamilton General Hospital / TAARI",
+            "LocationCity": "Hamilton",
+            "LocationState": "Ontario",
+            "LocationZip": "L8L 2X2",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "London Health Sciences Centre, University Hospital",
+            "LocationCity": "London",
+            "LocationState": "Ontario",
+            "LocationZip": "N6J 1S1",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "St. Michael's Hospital",
+            "LocationCity": "Toronto",
+            "LocationState": "Ontario",
+            "LocationZip": "M5B 1W8",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "Toronto General Hospital",
+            "LocationCity": "Toronto",
+            "LocationState": "Ontario",
+            "LocationZip": "M5G 2C4",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "Montreal Heart Institute",
+            "LocationCity": "Montreal",
+            "LocationState": "Quebec",
+            "LocationZip": "H1T 1C8",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "Institut Universitaire de Cardiologie et de Pneumologie de Quebec",
+            "LocationCity": "Quebec",
+            "LocationZip": "G1V 4G5",
+            "LocationCountry": "Canada"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "30484934",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Zhao L, Hu C, Zhang P, Jiang H, Chen J. Preconditioning strategies for improving the survival rate and paracrine ability of mesenchymal stem cells in acute kidney injury. J Cell Mol Med. 2019 Feb;23(2):720-730. doi: 10.1111/jcmm.14035. Epub 2018 Nov 28. Review."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000058186",
+            "ConditionMeshTerm": "Acute Kidney Injury"
+          },
+          {
+            "ConditionMeshId": "D000014947",
+            "ConditionMeshTerm": "Wounds and Injuries"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000051437",
+            "ConditionAncestorTerm": "Renal Insufficiency"
+          },
+          {
+            "ConditionAncestorId": "D000007674",
+            "ConditionAncestorTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M25871",
+            "ConditionBrowseLeafName": "Renal Insufficiency",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M28151",
+            "ConditionBrowseLeafName": "Acute Kidney Injury",
+            "ConditionBrowseLeafAsFound": "Acute Kidney Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16837",
+            "ConditionBrowseLeafName": "Wounds and Injuries",
+            "ConditionBrowseLeafAsFound": "Injury",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          }
+        ]
+      }
+    }
+  }
+}

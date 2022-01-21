@@ -1,0 +1,1838 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01697072",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "20070622"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2011-004923-11",
+            "SecondaryIdType": "EudraCT Number"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Amgen",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "First-Line Treatment for Locally Advanced or Metastatic Mesenchymal Epithelial Transition Factor (MET) - Positive Gastric, Lower Esophageal, or Gastroesophageal Junction (GEJ) Adenocarcinoma",
+      "OfficialTitle": "A Phase 3, Multicenter, Randomized, Double-Blind, Placebo Controlled Study of Rilotumumab (AMG102) With Epirubicin, Cisplatin, and Capecitabine (ECX) as First-line Therapy in Advanced MET-Positive Gastric or Gastroesophageal Junction Adenocarcinoma",
+      "Acronym": "RILOMET-1"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2016",
+      "OverallStatus": "Terminated",
+      "WhyStopped": "All Amgen sponsored AMG102 clinical studies were terminated following a pre-planned Data Monitoring Committee safety review of study 20070622.",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 2012"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 2014",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 2015",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "September 26, 2012",
+      "StudyFirstSubmitQCDate": "September 28, 2012",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 2, 2012",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "DispFirstSubmitDate": "October 22, 2015",
+      "DispFirstSubmitQCDate": "October 22, 2015",
+      "DispFirstPostDateStruct": {
+        "DispFirstPostDate": "November 13, 2015",
+        "DispFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "January 18, 2016",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "February 9, 2016",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Amgen",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a phase 3, multicenter, randomized, double-blind, placebo controlled study of epirubicin, cisplatin & capecitabine (ECX) with rilotumumab or placebo for untreated advanced MET-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Gastric Cancer"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Gastric Cancer",
+          "First Line Treatment Gastroesophageal Junction (GEJ)",
+          "Gastroesophageal Junction Cancer (GEJ)",
+          "GEJ Cancer"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "609",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Rilotumumab",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Rilotumumab (15 mg/kg, IV every 21 days) plus Epirubicin, Cisplatin and Capecitabine (ECX)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Rilotumumab",
+                "Drug: Epirubicin",
+                "Drug: Cisplatin",
+                "Drug: Capecitabine"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Rilotumumab-placebo (15 mg/kg, IV every 21 days) plus Epirubicin, Cisplatin and Capecitabine (ECX)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo",
+                "Drug: Epirubicin",
+                "Drug: Cisplatin",
+                "Drug: Capecitabine"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Rilotumumab",
+            "InterventionDescription": "Rilotumumab is a fully human monoclonal antibody immunoglobulin G, type 2 (IgG2) against human hepatocyte growth factor/scatter factor (HGF/SF) that blocks binding of HGF/SF to its receptor MET, inhibiting HGF/MET-driven activities in cells.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Rilotumumab"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "AMG102"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Placebo",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "sterile protein-free solution"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Epirubicin",
+            "InterventionDescription": "Epirubicin is an anthracycline cytotoxic agent.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo",
+                "Rilotumumab"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Ellence",
+                "Pharmorubicin PFS",
+                "Pharmorubicin RDF"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cisplatin",
+            "InterventionDescription": "Cisplatin is a non-cell cycle specific chemotherapeutic agent.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo",
+                "Rilotumumab"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Platinol",
+                "Platinol-AQ"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Capecitabine",
+            "InterventionDescription": "Capecitabine is an oral fluoropyrimidine.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo",
+                "Rilotumumab"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Xeloda"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Overall Survival",
+            "PrimaryOutcomeDescription": "To determine if the treatment of rilotumumab in combination with ECX significantly improves overall survival in subjects with unresectable locally advanced or metastatic MET positive gastric or GEJ cancer",
+            "PrimaryOutcomeTimeFrame": "3 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "PFS",
+            "SecondaryOutcomeDescription": "Progression Free Survival (PFS)",
+            "SecondaryOutcomeTimeFrame": "3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "TTP",
+            "SecondaryOutcomeDescription": "Time to Progression (TTP)",
+            "SecondaryOutcomeTimeFrame": "3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "ORR",
+            "SecondaryOutcomeDescription": "Objective Response Rate (ORR)",
+            "SecondaryOutcomeTimeFrame": "3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "DCR",
+            "SecondaryOutcomeDescription": "Disease Control Rate (DCR)",
+            "SecondaryOutcomeTimeFrame": "3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "TTR",
+            "SecondaryOutcomeDescription": "Time to Response (TTR)",
+            "SecondaryOutcomeTimeFrame": "3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Safety",
+            "SecondaryOutcomeTimeFrame": "3 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Immunogenicity",
+            "SecondaryOutcomeTimeFrame": "3 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Key Inclusion Criteria:\n\nPathologically confirmed unresectable locally advanced or metastatic gastric or GEJ adenocarcinoma •Eastern Cooperative Oncology Group (ECOG) performance status (0 or 1)\nTumor MET-positive by immunohistochemistry (IHC)\nEvaluable (measurable or non-measurable) disease by Response Evaluation Criteria In Solid Tumors (RECIST) 1.1 criteria\n\nKey exclusion criteria:\n\nHuman Epidermal Growth Factor Receptor 2 (HER2) -overexpressing locally advanced or metastatic gastric or GEJ adenocarcinoma •Previous systemic therapy for locally advanced or metastatic gastric or GEJ adenocarcinoma\nLess than 6 months have elapsed from completion of prior neoadjuvant or adjuvant chemotherapy or chemoradiotherapy to randomization\nPrevious treatment with anthracyclines must not exceed total cumulative dose of epirubicin of 400 mg/m2\nSquamous cell histology\nLeft ventricular ejection fraction (LVEF) < 50%",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "99 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "MD",
+            "OverallOfficialAffiliation": "Amgen",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Tucson",
+            "LocationState": "Arizona",
+            "LocationZip": "85724",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Aurora",
+            "LocationState": "Colorado",
+            "LocationZip": "80045",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Pueblo",
+            "LocationState": "Colorado",
+            "LocationZip": "81008",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Chicago",
+            "LocationState": "Illinois",
+            "LocationZip": "60637",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Baltimore",
+            "LocationState": "Maryland",
+            "LocationZip": "21231",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Woodbury",
+            "LocationState": "Minnesota",
+            "LocationZip": "55125",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Henderson",
+            "LocationState": "Nevada",
+            "LocationZip": "89052",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10065",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Rochester",
+            "LocationState": "New York",
+            "LocationZip": "14642",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Greensboro",
+            "LocationState": "North Carolina",
+            "LocationZip": "27403",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Winston Salem",
+            "LocationState": "North Carolina",
+            "LocationZip": "27103",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Pittsburgh",
+            "LocationState": "Pennsylvania",
+            "LocationZip": "15232",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Nashville",
+            "LocationState": "Tennessee",
+            "LocationZip": "37232",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Bedford",
+            "LocationState": "Texas",
+            "LocationZip": "76022",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Dallas",
+            "LocationState": "Texas",
+            "LocationZip": "75246",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Seattle",
+            "LocationState": "Washington",
+            "LocationZip": "98109",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Randwick",
+            "LocationState": "New South Wales",
+            "LocationZip": "2031",
+            "LocationCountry": "Australia"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "St Leonards",
+            "LocationState": "New South Wales",
+            "LocationZip": "2065",
+            "LocationCountry": "Australia"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Tweed Heads",
+            "LocationState": "New South Wales",
+            "LocationZip": "2485",
+            "LocationCountry": "Australia"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Douglas",
+            "LocationState": "Queensland",
+            "LocationZip": "4814",
+            "LocationCountry": "Australia"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Elizabeth Vale",
+            "LocationState": "South Australia",
+            "LocationZip": "5112",
+            "LocationCountry": "Australia"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Kurralta Park",
+            "LocationState": "South Australia",
+            "LocationZip": "5037",
+            "LocationCountry": "Australia"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Heidelberg",
+            "LocationState": "Victoria",
+            "LocationZip": "3084",
+            "LocationCountry": "Australia"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Ringwood East",
+            "LocationState": "Victoria",
+            "LocationZip": "3135",
+            "LocationCountry": "Australia"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Graz",
+            "LocationZip": "8036",
+            "LocationCountry": "Austria"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Innsbruck",
+            "LocationZip": "6020",
+            "LocationCountry": "Austria"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Linz",
+            "LocationZip": "4010",
+            "LocationCountry": "Austria"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Salzburg",
+            "LocationZip": "5020",
+            "LocationCountry": "Austria"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Wien",
+            "LocationZip": "1090",
+            "LocationCountry": "Austria"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Bruxelles",
+            "LocationZip": "1180",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Bruxelles",
+            "LocationZip": "1200",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Charleroi",
+            "LocationZip": "6000",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Edegem",
+            "LocationZip": "2650",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Liege",
+            "LocationZip": "4000",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Roeselare",
+            "LocationZip": "8800",
+            "LocationCountry": "Belgium"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Belo Horizonte",
+            "LocationState": "Minas Gerais",
+            "LocationZip": "30150-321",
+            "LocationCountry": "Brazil"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Pelotas",
+            "LocationState": "Rio Grande do Sul",
+            "LocationZip": "96015-280",
+            "LocationCountry": "Brazil"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Santo Andre",
+            "LocationState": "São Paulo",
+            "LocationZip": "09060-650",
+            "LocationCountry": "Brazil"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Sao Paulo",
+            "LocationState": "São Paulo",
+            "LocationZip": "01209-000",
+            "LocationCountry": "Brazil"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Sao Paulo",
+            "LocationState": "São Paulo",
+            "LocationZip": "01509-900",
+            "LocationCountry": "Brazil"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "São Paulo",
+            "LocationZip": "01246-000",
+            "LocationCountry": "Brazil"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Plovdiv",
+            "LocationZip": "4000",
+            "LocationCountry": "Bulgaria"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Shumen",
+            "LocationZip": "9700",
+            "LocationCountry": "Bulgaria"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Sofia",
+            "LocationZip": "1233",
+            "LocationCountry": "Bulgaria"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Sofia",
+            "LocationZip": "1527",
+            "LocationCountry": "Bulgaria"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Sofia",
+            "LocationZip": "1606",
+            "LocationCountry": "Bulgaria"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Sofia",
+            "LocationZip": "1756",
+            "LocationCountry": "Bulgaria"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Varna",
+            "LocationZip": "9010",
+            "LocationCountry": "Bulgaria"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Vancouver",
+            "LocationState": "British Columbia",
+            "LocationZip": "V5Z 4E6",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "London",
+            "LocationState": "Ontario",
+            "LocationZip": "N6A 4L6",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Toronto",
+            "LocationState": "Ontario",
+            "LocationZip": "M4C 3E7",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Greenfield Park",
+            "LocationState": "Quebec",
+            "LocationZip": "J4V 2H1",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Laval",
+            "LocationState": "Quebec",
+            "LocationZip": "H7M 3L9",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Montreal",
+            "LocationState": "Quebec",
+            "LocationZip": "H2L 4M1",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Horovice",
+            "LocationZip": "268 31",
+            "LocationCountry": "Czech Republic"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Hradec Kralove",
+            "LocationZip": "500 05",
+            "LocationCountry": "Czech Republic"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Olomouc",
+            "LocationZip": "775 20",
+            "LocationCountry": "Czech Republic"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Praha 2",
+            "LocationZip": "120 00",
+            "LocationCountry": "Czech Republic"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Usti nad Labem",
+            "LocationZip": "401 13",
+            "LocationCountry": "Czech Republic"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Aalborg",
+            "LocationZip": "9000",
+            "LocationCountry": "Denmark"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Copenhagen",
+            "LocationZip": "2100",
+            "LocationCountry": "Denmark"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Odense",
+            "LocationZip": "5000",
+            "LocationCountry": "Denmark"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Århus C",
+            "LocationZip": "8000",
+            "LocationCountry": "Denmark"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Bayonne",
+            "LocationZip": "64109",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Bordeaux",
+            "LocationZip": "33075",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Clermont Ferrand Cedex 1",
+            "LocationZip": "63003",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Dijon cedex",
+            "LocationZip": "21079",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Le Mans",
+            "LocationZip": "72000",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Limoges Cedex",
+            "LocationZip": "87042",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Lyon Cedex 03",
+            "LocationZip": "69437",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Lyon Cedex 08",
+            "LocationZip": "69373",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Marseille cedex 5",
+            "LocationZip": "13385",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Montpellier Cedex 5",
+            "LocationZip": "34298",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Nice cedex 2",
+            "LocationZip": "06189",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Périgueux cedex",
+            "LocationZip": "24004",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Saint Priest en Jarez Cedex",
+            "LocationZip": "42270",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Saint Priest en Jarez",
+            "LocationZip": "42270",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Strasbourg",
+            "LocationZip": "67000",
+            "LocationCountry": "France"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Berlin",
+            "LocationZip": "13125",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Bielefeld",
+            "LocationZip": "33611",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Dresden",
+            "LocationZip": "01307",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Essen",
+            "LocationZip": "45276",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Frankfurt am Main",
+            "LocationZip": "60488",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Leipzig",
+            "LocationZip": "04103",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Magdeburg",
+            "LocationZip": "39104",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Mainz",
+            "LocationZip": "55131",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "München",
+            "LocationZip": "81377",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "München",
+            "LocationZip": "81737",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Oldenburg",
+            "LocationZip": "26133",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Schweinfurt",
+            "LocationZip": "97422",
+            "LocationCountry": "Germany"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Athens",
+            "LocationZip": "18547",
+            "LocationCountry": "Greece"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Heraklion - Crete",
+            "LocationZip": "71110",
+            "LocationCountry": "Greece"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Larissa",
+            "LocationZip": "41110",
+            "LocationCountry": "Greece"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Nea Kifissia, Athens",
+            "LocationZip": "14564",
+            "LocationCountry": "Greece"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Patra",
+            "LocationZip": "26500",
+            "LocationCountry": "Greece"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Thessaloniki",
+            "LocationZip": "54645",
+            "LocationCountry": "Greece"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Thessaloniki",
+            "LocationZip": "56429",
+            "LocationCountry": "Greece"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Budapest",
+            "LocationZip": "1097",
+            "LocationCountry": "Hungary"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Budapest",
+            "LocationZip": "1106",
+            "LocationCountry": "Hungary"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Gyor",
+            "LocationZip": "9023",
+            "LocationCountry": "Hungary"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Nyiregyhaza",
+            "LocationZip": "4400",
+            "LocationCountry": "Hungary"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Szeged",
+            "LocationZip": "6725",
+            "LocationCountry": "Hungary"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Szolnok",
+            "LocationZip": "5000",
+            "LocationCountry": "Hungary"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Aviano PN",
+            "LocationZip": "33081",
+            "LocationCountry": "Italy"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Brescia",
+            "LocationZip": "25124",
+            "LocationCountry": "Italy"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Catania",
+            "LocationZip": "95122",
+            "LocationCountry": "Italy"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Firenze",
+            "LocationZip": "50134",
+            "LocationCountry": "Italy"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Napoli",
+            "LocationZip": "80131",
+            "LocationCountry": "Italy"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Pisa",
+            "LocationZip": "56126",
+            "LocationCountry": "Italy"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Roma",
+            "LocationZip": "00168",
+            "LocationCountry": "Italy"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Mexico",
+            "LocationState": "Distrito Federal",
+            "LocationZip": "14000",
+            "LocationCountry": "Mexico"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Cuernavaca",
+            "LocationState": "Morelos",
+            "LocationZip": "62290",
+            "LocationCountry": "Mexico"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Distrito Federal",
+            "LocationZip": "04380",
+            "LocationCountry": "Mexico"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Toluca",
+            "LocationZip": "50080",
+            "LocationCountry": "Mexico"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Bialystok",
+            "LocationZip": "15-027",
+            "LocationCountry": "Poland"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Elblag",
+            "LocationZip": "82-300",
+            "LocationCountry": "Poland"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Gdansk",
+            "LocationZip": "80-219",
+            "LocationCountry": "Poland"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Konin",
+            "LocationZip": "62-500",
+            "LocationCountry": "Poland"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Lodz",
+            "LocationZip": "93-513",
+            "LocationCountry": "Poland"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Warszawa",
+            "LocationZip": "02-781",
+            "LocationCountry": "Poland"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Aveiro",
+            "LocationZip": "3814-501",
+            "LocationCountry": "Portugal"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Guimaraes",
+            "LocationZip": "4835-044",
+            "LocationCountry": "Portugal"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Lisboa",
+            "LocationZip": "1649-035",
+            "LocationCountry": "Portugal"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Porto",
+            "LocationZip": "4200-072",
+            "LocationCountry": "Portugal"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Santa Maria da Feira",
+            "LocationZip": "4520-211",
+            "LocationCountry": "Portugal"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Vila Real",
+            "LocationZip": "5000-508",
+            "LocationCountry": "Portugal"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Alba Iulia",
+            "LocationZip": "510077",
+            "LocationCountry": "Romania"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Baia Mare",
+            "LocationZip": "430241",
+            "LocationCountry": "Romania"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Brasov",
+            "LocationZip": "500091",
+            "LocationCountry": "Romania"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Bucharest",
+            "LocationZip": "010719",
+            "LocationCountry": "Romania"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Bucharest",
+            "LocationZip": "011461",
+            "LocationCountry": "Romania"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Bucharest",
+            "LocationZip": "022328",
+            "LocationCountry": "Romania"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Cluj Napoca",
+            "LocationZip": "400015",
+            "LocationCountry": "Romania"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Cluj-Napoca",
+            "LocationZip": "400015",
+            "LocationCountry": "Romania"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Cluj-Napoca",
+            "LocationZip": "400058",
+            "LocationCountry": "Romania"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Lasi",
+            "LocationZip": "700106",
+            "LocationCountry": "Romania"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Timisoara",
+            "LocationZip": "300167",
+            "LocationCountry": "Romania"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Chelyabinsk",
+            "LocationZip": "454087",
+            "LocationCountry": "Russian Federation"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Ivanovo",
+            "LocationZip": "153013",
+            "LocationCountry": "Russian Federation"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Kazan",
+            "LocationZip": "420029",
+            "LocationCountry": "Russian Federation"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Krasnodar",
+            "LocationZip": "350040",
+            "LocationCountry": "Russian Federation"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Moscow",
+            "LocationZip": "115478",
+            "LocationCountry": "Russian Federation"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Saint-Petersburg",
+            "LocationZip": "197758",
+            "LocationCountry": "Russian Federation"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Samara",
+            "LocationZip": "443031",
+            "LocationCountry": "Russian Federation"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Vladimir",
+            "LocationZip": "600020",
+            "LocationCountry": "Russian Federation"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Bardejov",
+            "LocationZip": "085 01",
+            "LocationCountry": "Slovakia"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Bratislava",
+            "LocationZip": "833 10",
+            "LocationCountry": "Slovakia"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Poprad",
+            "LocationZip": "058 01",
+            "LocationCountry": "Slovakia"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Trencin",
+            "LocationZip": "911 71",
+            "LocationCountry": "Slovakia"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Groenkloof",
+            "LocationState": "Gauteng",
+            "LocationZip": "0181",
+            "LocationCountry": "South Africa"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Cape Town",
+            "LocationZip": "7925",
+            "LocationCountry": "South Africa"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Johannesburg",
+            "LocationZip": "2193",
+            "LocationCountry": "South Africa"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Kraaifontein",
+            "LocationZip": "7570",
+            "LocationCountry": "South Africa"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Pretoria",
+            "LocationZip": "0002",
+            "LocationCountry": "South Africa"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Oviedo",
+            "LocationState": "Asturias",
+            "LocationZip": "33011",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Barcelona",
+            "LocationState": "Cataluña",
+            "LocationZip": "08035",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "L'Hospitalet de Llobregat",
+            "LocationState": "Cataluña",
+            "LocationZip": "08907",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Terrassa",
+            "LocationState": "Cataluña",
+            "LocationZip": "08221",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "A Coruña",
+            "LocationState": "Galicia",
+            "LocationZip": "15006",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Pamplona",
+            "LocationState": "Navarra",
+            "LocationZip": "31008",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Madrid",
+            "LocationZip": "28050",
+            "LocationCountry": "Spain"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Eskilstuna",
+            "LocationZip": "631 88",
+            "LocationCountry": "Sweden"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Stockholm",
+            "LocationZip": "171 76",
+            "LocationCountry": "Sweden"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Bellinzona",
+            "LocationZip": "6500",
+            "LocationCountry": "Switzerland"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Bern",
+            "LocationZip": "3010",
+            "LocationCountry": "Switzerland"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Chur",
+            "LocationZip": "7000",
+            "LocationCountry": "Switzerland"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Ankara",
+            "LocationZip": "06100",
+            "LocationCountry": "Turkey"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Gaziantep",
+            "LocationZip": "27100",
+            "LocationCountry": "Turkey"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Istanbul",
+            "LocationZip": "34390",
+            "LocationCountry": "Turkey"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Izmir",
+            "LocationZip": "35100",
+            "LocationCountry": "Turkey"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Dnipropetrovsk",
+            "LocationZip": "49102",
+            "LocationCountry": "Ukraine"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Kharkiv",
+            "LocationZip": "61070",
+            "LocationCountry": "Ukraine"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Kherson",
+            "LocationZip": "73035",
+            "LocationCountry": "Ukraine"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Kyiv",
+            "LocationZip": "03115",
+            "LocationCountry": "Ukraine"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Lutsk",
+            "LocationZip": "43018",
+            "LocationCountry": "Ukraine"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Lviv",
+            "LocationZip": "79031",
+            "LocationCountry": "Ukraine"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Mariupol",
+            "LocationZip": "87500",
+            "LocationCountry": "Ukraine"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Sumy",
+            "LocationZip": "40022",
+            "LocationCountry": "Ukraine"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Uzhgorod",
+            "LocationZip": "88000",
+            "LocationCountry": "Ukraine"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Belfast",
+            "LocationZip": "BT9 7AB",
+            "LocationCountry": "United Kingdom"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Edinburgh",
+            "LocationZip": "EH4 2XU",
+            "LocationCountry": "United Kingdom"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Guildford",
+            "LocationZip": "GU2 7XX",
+            "LocationCountry": "United Kingdom"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Leicester",
+            "LocationZip": "LE1 5WW",
+            "LocationCountry": "United Kingdom"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "London",
+            "LocationZip": "NW1 2PQ",
+            "LocationCountry": "United Kingdom"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "London",
+            "LocationZip": "SE1 9RT",
+            "LocationCountry": "United Kingdom"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "London",
+            "LocationZip": "SW3 6JJ",
+            "LocationCountry": "United Kingdom"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Manchester",
+            "LocationZip": "M20 4BX",
+            "LocationCountry": "United Kingdom"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Newcastle Upon Tyne",
+            "LocationZip": "NE7 7DN",
+            "LocationCountry": "United Kingdom"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Northwood",
+            "LocationZip": "HA6 2RN",
+            "LocationCountry": "United Kingdom"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Salisbury",
+            "LocationZip": "SP2 8BJ",
+            "LocationCountry": "United Kingdom"
+          },
+          {
+            "LocationFacility": "Research Site",
+            "LocationCity": "Sutton",
+            "LocationZip": "SM2 5PT",
+            "LocationCountry": "United Kingdom"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "28958504",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Catenacci DVT, Tebbutt NC, Davidenko I, Murad AM, Al-Batran SE, Ilson DH, Tjulandin S, Gotovkin E, Karaszewska B, Bondarenko I, Tejani MA, Udrea AA, Tehfe M, De Vita F, Turkington C, Tang R, Ang A, Zhang Y, Hoang T, Sidhu R, Cunningham D. Rilotumumab plus epirubicin, cisplatin, and capecitabine as first-line therapy in advanced MET-positive gastric or gastro-oesophageal junction cancer (RILOMET-1): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Oncol. 2017 Nov;18(11):1467-1482. doi: 10.1016/S1470-2045(17)30566-1. Epub 2017 Sep 25."
+          },
+          {
+            "ReferencePMID": "25712685",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Doshi S, Gisleskog PO, Zhang Y, Zhu M, Oliner KS, Loh E, Perez Ruixo JJ. Rilotumumab exposure-response relationship in patients with advanced or metastatic gastric cancer. Clin Cancer Res. 2015 Jun 1;21(11):2453-61. doi: 10.1158/1078-0432.CCR-14-1661. Epub 2015 Feb 24."
+          }
+        ]
+      },
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "AmgenTrials clinical trials website",
+            "SeeAlsoLinkURL": "http://www.amgentrials.com"
+          }
+        ]
+      }
+    }
+  },
+  "ResultsSection": {
+    "MoreInfoModule": {}
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000000230",
+            "ConditionMeshTerm": "Adenocarcinoma"
+          },
+          {
+            "ConditionMeshId": "D000013274",
+            "ConditionMeshTerm": "Stomach Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000002277",
+            "ConditionAncestorTerm": "Carcinoma"
+          },
+          {
+            "ConditionAncestorId": "D000009375",
+            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000005770",
+            "ConditionAncestorTerm": "Gastrointestinal Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004067",
+            "ConditionAncestorTerm": "Digestive System Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000013272",
+            "ConditionAncestorTerm": "Stomach Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2737",
+            "ConditionBrowseLeafName": "Adenocarcinoma",
+            "ConditionBrowseLeafAsFound": "Adenocarcinoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M15216",
+            "ConditionBrowseLeafName": "Stomach Neoplasms",
+            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4686",
+            "ConditionBrowseLeafName": "Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11472",
+            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8038",
+            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6408",
+            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15214",
+            "ConditionBrowseLeafName": "Stomach Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T5486",
+            "ConditionBrowseLeafName": "Stomach Cancer",
+            "ConditionBrowseLeafAsFound": "Gastric Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000002945",
+            "InterventionMeshTerm": "Cisplatin"
+          },
+          {
+            "InterventionMeshId": "D000069287",
+            "InterventionMeshTerm": "Capecitabine"
+          },
+          {
+            "InterventionMeshId": "D000015251",
+            "InterventionMeshTerm": "Epirubicin"
+          },
+          {
+            "InterventionMeshId": "C000524459",
+            "InterventionMeshTerm": "Rilotumumab"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000964",
+            "InterventionAncestorTerm": "Antimetabolites, Antineoplastic"
+          },
+          {
+            "InterventionAncestorId": "D000000963",
+            "InterventionAncestorTerm": "Antimetabolites"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000903",
+            "InterventionAncestorTerm": "Antibiotics, Antineoplastic"
+          },
+          {
+            "InterventionAncestorId": "D000059005",
+            "InterventionAncestorTerm": "Topoisomerase II Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000059003",
+            "InterventionAncestorTerm": "Topoisomerase Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000074322",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Immunological"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M377",
+            "InterventionBrowseLeafName": "Capecitabine",
+            "InterventionBrowseLeafAsFound": "Saline",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M5334",
+            "InterventionBrowseLeafName": "Cisplatin",
+            "InterventionBrowseLeafAsFound": "Treating",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3382",
+            "InterventionBrowseLeafName": "Antibodies, Monoclonal",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9274",
+            "InterventionBrowseLeafName": "Immunoglobulin G",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M11052",
+            "InterventionBrowseLeafName": "Mitogens",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M18269",
+            "InterventionBrowseLeafName": "Immunoglobulins, Intravenous",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M17106",
+            "InterventionBrowseLeafName": "Epirubicin",
+            "InterventionBrowseLeafAsFound": "London",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M287515",
+            "InterventionBrowseLeafName": "Rilotumumab",
+            "InterventionBrowseLeafAsFound": "Wheat bran",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3433",
+            "InterventionBrowseLeafName": "Antimetabolites",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3374",
+            "InterventionBrowseLeafName": "Anti-Bacterial Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3376",
+            "InterventionBrowseLeafName": "Antibiotics, Antitubercular",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M1346",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Immunological",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          }
+        ]
+      }
+    }
+  }
+}

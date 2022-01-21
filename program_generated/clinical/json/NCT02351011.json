@@ -1,0 +1,378 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02351011",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MSC-001"
+      },
+      "Organization": {
+        "OrgFullName": "University Health Network, Toronto",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Human Autologous MSCs for the Treatment of Mid to Late Stage Knee OA",
+      "OfficialTitle": "Human Autologous Mesenchymal Stromal Cells for the Treatment of Mid to Late Stage Knee Osteoarthritis"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2019",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 2015"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2018",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2018",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "January 20, 2015",
+      "StudyFirstSubmitQCDate": "January 26, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 30, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "September 25, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 27, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Jas Chahal",
+        "ResponsiblePartyInvestigatorTitle": "Orthopaedic Surgeon",
+        "ResponsiblePartyInvestigatorAffiliation": "University Health Network, Toronto"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Jas Chahal",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Osteoarthritis (OA) is one of the most common forms of arthritis. It is a lasting condition in which the material that cushions the joints, called cartilage, breaks down. This causes the bones to rub against each other, causing inflammation, stiffness, pain and loss of joint movement. Currently, there are few effective treatments available for patients suffering from OA.\n\nMesenchymal stem cells (MSCs) are cells that have the ability to self-regenerate, which means they have the ability to make copies of themselves and to turn into other kinds of cells (e.g. cartilage cells). Stem cell science shows much promise for the future treatment of osteoarthritis, but much of the research is still in the early stages. In this study, researchers want to determine the safety of MSCs that a patient can tolerate without causing side effects. This will be done by starting at a low dose of MSCs and moving on to the next higher dose level provided there are no safety concerns. Researchers will also be looking at the function of the knee over time, which may give them some insight on the usefulness of MSCs as a treatment option.",
+      "DetailedDescription": "The trial is a non-randomized, open-label, dose escalation phase I/II clinical trial. A total of 12 participants will be enrolled - patients will be treated in cohorts of 3 to determine the safety and preliminary efficacy of autologous, ex-vivo expanded bone-marrow derived MSC injected into the knee joint in patients with moderate to advanced knee osteoarthritis.\n\nA minimum of three evaluable patients will be entered at each dose level until the maximum tolerated dose (MTD) is reached. Toxicity will be evaluated and graded according to the Common Terminology Criteria (CTC) for Adverse Events, as Grade 3-4. If a patient is discontinued due to a grade 3 or 4 adverse event (i.e. dose-limiting toxicity, DLT), an additional patient will be enrolled at the same dose level to ensure that a minimum of 3 patients are evaluated. If 0/3 patients experience dose-limiting (DLT) at a given dose level, then the dose will be escalated for next cohort of 3 patients. If 1/3 patients experience DLT at a given dose level, then an additional 3 patients will be treated at that dose level. If no other patient experiences a DLT, dose escalation will continue. If DLT occurs in 2/3 or 2/6 patients, dose escalation will stop and the prior dose level will be declared the MTD for the MSC cell infusions in this study."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Osteoarthritis of Knee"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Other",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "12",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Cohort 1",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "1 x 10^6 MSCs",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: 1 x 10^6 MSCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort 2",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "10 x 10^6 MSCs",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: 10 x 10^6 MSCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort 3",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "50 x 10^6 MSCs",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: 50 x 10^6 MSCs"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "1 x 10^6 MSCs",
+            "InterventionDescription": "Autologous, bone-marrow derived MSCs",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cohort 1"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Mesenchymal Stromal Cells (MSCs)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "10 x 10^6 MSCs",
+            "InterventionDescription": "Autologous, bone-marrow derived MSCs",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cohort 2"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Mesenchymal Stromal Cells (MSCs)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "50 x 10^6 MSCs",
+            "InterventionDescription": "Autologous, bone-marrow derived MSCs",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cohort 3"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Mesenchymal Stromal Cells (MSCs)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety as determined by the occurrence of local and systemic adverse events and/or serious adverse events.",
+            "PrimaryOutcomeDescription": "Safety as determined by the occurrence of local and systemic adverse events and/or serious adverse events.",
+            "PrimaryOutcomeTimeFrame": "1 to 5 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Knee Injury and Osteoarthritis Outcome Score (KOOS)",
+            "SecondaryOutcomeDescription": "Knee-joint specific function",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Marx Activity Scale (Patient-reported activity)",
+            "SecondaryOutcomeDescription": "Patient-reported activity",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Short-Form 36 (Health-related quality of life)",
+            "SecondaryOutcomeDescription": "Health-related quality of life",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Whole Organ MRI Score (WORMS), Gadolinium-enhanced MRI, T2 Mapping (To assess joint structure, inflammation, and cartilage status over time)",
+            "SecondaryOutcomeDescription": "To assess joint structure, inflammation, and cartilage status over time",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cartilage oligomeric matrix protein (COMP)",
+            "SecondaryOutcomeDescription": "Serum marker of cartilage metabolism",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Hyaluronic acid (HA)",
+            "SecondaryOutcomeDescription": "Serum pro-inflammatory marker",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "C-terminal telopeptide of type II collagen (CTXII)",
+            "SecondaryOutcomeDescription": "Urine marker of cartilage metabolism",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Types I and II collagen cleavage (C1,2C)",
+            "SecondaryOutcomeDescription": "Urine marker of cartilage metabolism",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Type II collagen cleavage (C2C)",
+            "SecondaryOutcomeDescription": "Urine marker of cartilage metabolism",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "IL-6/TNFα/IL-15",
+            "SecondaryOutcomeDescription": "Synovial fluid pro-inflammatory markers",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients between 40-65 years of age with symptomatic moderate to severe (Kellgren-Lawrence III or IV) primary osteoarthritis of the knee\nFailed conservative management including physical therapy, bracing and/or oral anti-inflammatories for a minimum of six months\nNo history of prior intra-articular cortisone, hyaluronic acid, or platelet-rich plasma injection within the previous six months\nNo history of prior arthroscopic knee surgery or open knee surgery on the ipsilateral side within the past year\nAdequate bone marrow, liver, and renal functions\nBody weight >40 kg\nBody Mass Index <30\nNegative for (HIV, HTLV1&2, Hep A, B, C, syphilis) infection as determined by approved serological testing\nNegative for pregnancy as determined by a serum pregnancy test. Females of childbearing potential will be required to practice abstinence or use an effective form of contraception for 12 months following their MSC injection.\nFluid > 1 cm within the lateral recess of the suprapatellar pouch at the level of the superior pole of the patella with the knee extended.\n\nExclusion Criteria:\n\nPatients with clinically unstable knee due to the presence of a complete anterior cruciate ligament, posterior cruciate ligament, medial collateral ligament and/or posterolateral corner tear\nPatients with varus or valgus malalignment >5 degrees as measured by 4 foot standing antero-posterior radiographs\nPatients with a history of a previous subtotal medial or lateral meniscectomy\nPatients with a history of septic arthritis in the affected joint\nPatients with a history of a prior intra-articular knee fracture\nSevere bleeding diathesis\nContraindication to bone marrow aspiration and/or biopsy\nActive infection\nBone marrow failure\nCytopenia\nPatients who have previously received radiotherapy to the pelvis\nPatients who have been on chemotherapy from within a year of the date of informed\nPatients with positive serological test for (HIV, HTLV1&2, Hep A, B, C, syphilis)\nPregnancy or risk of pregnancy (this includes participants that are not willing to practice active contraception for the duration of the study)\nPatients with unforeseen conditions that are deemed unsafe or inappropriate for the study (e.g. patients who are claustrophobic and cannot undergo an MRI) as per the discretion of the principal investigator",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "40 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jas Chahal, MD, MSc",
+            "OverallOfficialAffiliation": "Arthritis Program, Toronto Western Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Sowmya Viswanathan, PhD",
+            "OverallOfficialAffiliation": "Arthritis Program, Toronto Western Hospital & Philip S. Orsino Facility for Cell Therapy",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Toronto Western Hospital",
+            "LocationCity": "Toronto",
+            "LocationState": "Ontario",
+            "LocationZip": "M5T 2S8",
+            "LocationCountry": "Canada"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010003",
+            "ConditionMeshTerm": "Osteoarthritis"
+          },
+          {
+            "ConditionMeshId": "D000020370",
+            "ConditionMeshTerm": "Osteoarthritis, Knee"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001168",
+            "ConditionAncestorTerm": "Arthritis"
+          },
+          {
+            "ConditionAncestorId": "D000007592",
+            "ConditionAncestorTerm": "Joint Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012216",
+            "ConditionAncestorTerm": "Rheumatic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12078",
+            "ConditionBrowseLeafName": "Osteoarthritis",
+            "ConditionBrowseLeafAsFound": "Osteoarthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21321",
+            "ConditionBrowseLeafName": "Osteoarthritis, Knee",
+            "ConditionBrowseLeafAsFound": "Osteoarthritis of Knee",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3628",
+            "ConditionBrowseLeafName": "Arthritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9773",
+            "ConditionBrowseLeafName": "Joint Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14197",
+            "ConditionBrowseLeafName": "Rheumatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5475",
+            "ConditionBrowseLeafName": "Collagen Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

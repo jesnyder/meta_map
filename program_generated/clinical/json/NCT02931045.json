@@ -1,0 +1,1109 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02931045",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "KB/112/2016"
+      },
+      "Organization": {
+        "OrgFullName": "Medical University of Warsaw",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Antiplatelet Therapy Effect on Extracellular Vesicles in Acute Myocardial Infarction",
+      "OfficialTitle": "Antiplatelet Therapy Effect on Platelet Extracellular Vesicles in Acute Myocardial Infarction",
+      "Acronym": "AFFECT EV"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2020",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 30, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 30, 2018",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 30, 2019",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "October 10, 2016",
+      "StudyFirstSubmitQCDate": "October 11, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 12, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "ResultsFirstSubmitDate": "August 18, 2020",
+      "ResultsFirstSubmitQCDate": "November 28, 2020",
+      "ResultsFirstPostDateStruct": {
+        "ResultsFirstPostDate": "December 23, 2020",
+        "ResultsFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 28, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 23, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Aleksandra Gasecka",
+        "ResponsiblePartyInvestigatorTitle": "Medical Doctor",
+        "ResponsiblePartyInvestigatorAffiliation": "Medical University of Warsaw"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Medical University of Warsaw",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Platelet activation and aggregation leads to myocardial infarction. Platelet P2Y12 receptors are essential for platelet activation. Antagonists against the P2Y12 receptor, which are established in secondary prevention of myocardial infarction, have unexplained anti-inflammatory effects. A novel P2Y12 receptor antagonist ticagrelor reduced infection-related mortality compared to clopidogrel, previous standard treatment for patients with myocardial infarction. Activated platelets release pro-inflammatory and procoagulant platelet extracellular vesicles. The investigators assume that decrease in infection-related mortality in patients treated with ticagrelor may be explained by greater inhibition of the release of platelet vesicles by ticagrelor, compared to clopidogrel. This study is expected to identify an additional mechanism of action of ticagrelor, which might contribute to the observed clinical benefits in patients treated with ticagrelor."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Myocardial Infarction"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "extracellular vesicles",
+          "inflammation",
+          "thrombosis",
+          "antiplatelet drugs"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 4"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Basic Science",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Ticagrelor",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Ticagrelor: oral, 180 mg once (loading dose) followed by 90 mg twice daily (maintenance dose)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Ticagrelor"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Clopidogrel",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Clopidogrel: oral, 300 mg or 600 mg once (loading dose) followed by 75 mg once daily (maintenance dose)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Clopidogrel"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Ticagrelor",
+            "InterventionDescription": "Comparison of ticagrelor with another antiplatelet drug (clopidogrel)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Ticagrelor"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Brilique"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Clopidogrel",
+            "InterventionDescription": "Comparison of clopidogrel with another antiplatelet drug (ticagrelor)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Clopidogrel"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Plavix"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Concentration of Platelet Extracellular Vesicles/ml",
+            "PrimaryOutcomeDescription": "Concentration of platelet extracellular vesicles/ml measured with flow cytometry",
+            "PrimaryOutcomeTimeFrame": "6 months following the beginning of antiplatelet therapy"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Concentration of Extracellular Vesicles Exposing Fibrinogen",
+            "SecondaryOutcomeDescription": "Concentration of extracellular vesicles exposing fibrinogen/ ml measured with flow cytometry",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Concentration of Extracellular Vesicles Exposing Phosphatidylserine",
+            "SecondaryOutcomeDescription": "Concentration of extracellular vesicles exposing phosphatidylserine/ml measured with flow cytometry",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Concentration of Extracellular Vesicles From Endothelial Cells",
+            "SecondaryOutcomeDescription": "The concentrations of extracellular vesicles from endothelial cells/ ml measured with flow cytometry",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Concentration of Extracellular Vesicles From Leukocytes",
+            "SecondaryOutcomeDescription": "Concentration of extracellular vesicles from leukocytes/ ml measured with flow cytometry",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge > 18 years\nInformed consent to participate in the study\nPercutaneous coronary intervention with stent implantation due to first S T elevation myocardial infarction, or first non S T -elevation myocardial infarction\nAdministration of a loading dose of clopidogrel\n\nExclusion Criteria:\n\nKnown coagulopathy\nKnown history of bleeding disorder\nSuspicion of intracranial haemorrhage\nNeed for oral anticoagulation therapy\nAdministration of glycoprotein (GP) II b - III a antagonists\nCardiogenic shock\nSevere chronic renal failure (estimated glomerular filtration rate < 30 mL/min)\nSevere liver insufficiency\nChronic dyspnea\nIncreased risk of bradycardia\nAutoimmune disease\nInfectious disease\nNeoplasms\nPregnancy\nStudy drug intolerance\nCo-administration of ticagrelor or clopidogrel with strong CYP3A4 inhibitors\nParticipation in any previous study with ticagrelor or clopidogrel",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Aleksandra Gasecka, MD",
+            "OverallOfficialAffiliation": "1st Chair and Department of Cardiology, Medical University of Warsaw",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Laboratory of Experimental Clinical Chemistry, Academic Medical Centre of the University of Amsterdam",
+            "LocationCity": "Amsterdam",
+            "LocationCountry": "Netherlands"
+          },
+          {
+            "LocationFacility": "1st Chair and Department of Cardiology, Medical University of Warsaw",
+            "LocationCity": "Warsaw",
+            "LocationCountry": "Poland"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "29671861",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Gasecka A, Nieuwland R, van der Pol E, Hajji N, Ćwiek A, Pluta K, Konwerski M, Filipiak KJ. P2Y12 antagonist ticagrelor inhibits the release of procoagulant extracellular vesicles from activated platelets. Cardiol J. 2019;26(6):782-789. doi: 10.5603/CJ.a2018.0045. Epub 2018 Apr 19."
+          }
+        ]
+      },
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Related Info",
+            "SeeAlsoLinkURL": "https://www.ncbi.nlm.nih.gov/pubmed/29398917"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No",
+      "IPDSharingDescription": "The data will be presented in a collective form. If a particular study participant presents with an especially high or low concentration of the studied biomarker , the participant's characteristics may be described separately in a way which does not allow to identify the participant's personal data."
+    }
+  },
+  "ResultsSection": {
+    "ParticipantFlowModule": {
+      "FlowGroupList": {
+        "FlowGroup": [
+          {
+            "FlowGroupId": "FG000",
+            "FlowGroupTitle": "Ticagrelor",
+            "FlowGroupDescription": "Ticagrelor: oral, 180 mg once (loading dose) followed by 90 mg twice daily (maintenance dose)"
+          },
+          {
+            "FlowGroupId": "FG001",
+            "FlowGroupTitle": "Clopidogrel",
+            "FlowGroupDescription": "Clopidogrel: oral, 300 mg or 600 mg once (loading dose) followed by 75 mg once daily (maintenance dose)"
+          }
+        ]
+      },
+      "FlowPeriodList": {
+        "FlowPeriod": [
+          {
+            "FlowPeriodTitle": "Overall Study",
+            "FlowMilestoneList": {
+              "FlowMilestone": [
+                {
+                  "FlowMilestoneType": "STARTED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "30"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "30"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "FlowMilestoneType": "COMPLETED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "27"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "28"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "FlowMilestoneType": "NOT COMPLETED",
+                  "FlowAchievementList": {
+                    "FlowAchievement": [
+                      {
+                        "FlowAchievementGroupId": "FG000",
+                        "FlowAchievementNumSubjects": "3"
+                      },
+                      {
+                        "FlowAchievementGroupId": "FG001",
+                        "FlowAchievementNumSubjects": "2"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "BaselineCharacteristicsModule": {
+      "BaselineGroupList": {
+        "BaselineGroup": [
+          {
+            "BaselineGroupId": "BG000",
+            "BaselineGroupTitle": "Ticagrelor",
+            "BaselineGroupDescription": "Ticagrelor: oral, 180 mg once (loading dose) followed by 90 mg twice daily (maintenance dose)"
+          },
+          {
+            "BaselineGroupId": "BG001",
+            "BaselineGroupTitle": "Clopidogrel",
+            "BaselineGroupDescription": "Clopidogrel: oral, 300 mg or 600 mg once (loading dose) followed by 75 mg once daily (maintenance dose)"
+          },
+          {
+            "BaselineGroupId": "BG002",
+            "BaselineGroupTitle": "Total",
+            "BaselineGroupDescription": "Total of all reporting groups"
+          }
+        ]
+      },
+      "BaselineDenomList": {
+        "BaselineDenom": [
+          {
+            "BaselineDenomUnits": "Participants",
+            "BaselineDenomCountList": {
+              "BaselineDenomCount": [
+                {
+                  "BaselineDenomCountGroupId": "BG000",
+                  "BaselineDenomCountValue": "30"
+                },
+                {
+                  "BaselineDenomCountGroupId": "BG001",
+                  "BaselineDenomCountValue": "30"
+                },
+                {
+                  "BaselineDenomCountGroupId": "BG002",
+                  "BaselineDenomCountValue": "60"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "BaselineMeasureList": {
+        "BaselineMeasure": [
+          {
+            "BaselineMeasureTitle": "Age, Categorical",
+            "BaselineMeasureParamType": "Count of Participants",
+            "BaselineMeasureUnitOfMeasure": "Participants",
+            "BaselineClassList": {
+              "BaselineClass": [
+                {
+                  "BaselineClassDenomList": {
+                    "BaselineClassDenom": [
+                      {
+                        "BaselineClassDenomUnits": "Participants",
+                        "BaselineClassDenomCountList": {
+                          "BaselineClassDenomCount": [
+                            {
+                              "BaselineClassDenomCountGroupId": "BG000",
+                              "BaselineClassDenomCountValue": "30"
+                            },
+                            {
+                              "BaselineClassDenomCountGroupId": "BG001",
+                              "BaselineClassDenomCountValue": "30"
+                            },
+                            {
+                              "BaselineClassDenomCountGroupId": "BG002",
+                              "BaselineClassDenomCountValue": "60"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "BaselineCategoryList": {
+                    "BaselineCategory": [
+                      {
+                        "BaselineCategoryTitle": "<=18 years",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "0"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "0"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "BaselineCategoryTitle": "Between 18 and 65 years",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "19"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "16"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "35"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "BaselineCategoryTitle": ">=65 years",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "11"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "14"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "25"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "BaselineMeasureTitle": "Sex: Female, Male",
+            "BaselineMeasureParamType": "Count of Participants",
+            "BaselineMeasureUnitOfMeasure": "Participants",
+            "BaselineClassList": {
+              "BaselineClass": [
+                {
+                  "BaselineClassDenomList": {
+                    "BaselineClassDenom": [
+                      {
+                        "BaselineClassDenomUnits": "Participants",
+                        "BaselineClassDenomCountList": {
+                          "BaselineClassDenomCount": [
+                            {
+                              "BaselineClassDenomCountGroupId": "BG000",
+                              "BaselineClassDenomCountValue": "30"
+                            },
+                            {
+                              "BaselineClassDenomCountGroupId": "BG001",
+                              "BaselineClassDenomCountValue": "30"
+                            },
+                            {
+                              "BaselineClassDenomCountGroupId": "BG002",
+                              "BaselineClassDenomCountValue": "60"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "BaselineCategoryList": {
+                    "BaselineCategory": [
+                      {
+                        "BaselineCategoryTitle": "Female",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "8"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "6"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "14"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "BaselineCategoryTitle": "Male",
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "22"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "24"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "46"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "BaselineMeasureTitle": "Race and Ethnicity Not Collected",
+            "BaselineMeasurePopulationDescription": "Race and Ethnicity were not collected from any participant.",
+            "BaselineMeasureParamType": "Count of Participants",
+            "BaselineMeasureUnitOfMeasure": "Participants",
+            "BaselineClassList": {
+              "BaselineClass": [
+                {
+                  "BaselineClassDenomList": {
+                    "BaselineClassDenom": [
+                      {
+                        "BaselineClassDenomUnits": "Participants",
+                        "BaselineClassDenomCountList": {
+                          "BaselineClassDenomCount": [
+                            {
+                              "BaselineClassDenomCountGroupId": "BG000",
+                              "BaselineClassDenomCountValue": "0"
+                            },
+                            {
+                              "BaselineClassDenomCountGroupId": "BG001",
+                              "BaselineClassDenomCountValue": "0"
+                            },
+                            {
+                              "BaselineClassDenomCountGroupId": "BG002",
+                              "BaselineClassDenomCountValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "BaselineCategoryList": {
+                    "BaselineCategory": [
+                      {
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "0"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "BaselineMeasureTitle": "Region of Enrollment",
+            "BaselineMeasureParamType": "Number",
+            "BaselineMeasureUnitOfMeasure": "participants",
+            "BaselineClassList": {
+              "BaselineClass": [
+                {
+                  "BaselineClassTitle": "Poland",
+                  "BaselineClassDenomList": {
+                    "BaselineClassDenom": [
+                      {
+                        "BaselineClassDenomUnits": "Participants",
+                        "BaselineClassDenomCountList": {
+                          "BaselineClassDenomCount": [
+                            {
+                              "BaselineClassDenomCountGroupId": "BG000",
+                              "BaselineClassDenomCountValue": "30"
+                            },
+                            {
+                              "BaselineClassDenomCountGroupId": "BG001",
+                              "BaselineClassDenomCountValue": "30"
+                            },
+                            {
+                              "BaselineClassDenomCountGroupId": "BG002",
+                              "BaselineClassDenomCountValue": "60"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "BaselineCategoryList": {
+                    "BaselineCategory": [
+                      {
+                        "BaselineMeasurementList": {
+                          "BaselineMeasurement": [
+                            {
+                              "BaselineMeasurementGroupId": "BG000",
+                              "BaselineMeasurementValue": "30"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG001",
+                              "BaselineMeasurementValue": "30"
+                            },
+                            {
+                              "BaselineMeasurementGroupId": "BG002",
+                              "BaselineMeasurementValue": "60"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomeMeasuresModule": {
+      "OutcomeMeasureList": {
+        "OutcomeMeasure": [
+          {
+            "OutcomeMeasureType": "Primary",
+            "OutcomeMeasureTitle": "Concentration of Platelet Extracellular Vesicles/ml",
+            "OutcomeMeasureDescription": "Concentration of platelet extracellular vesicles/ml measured with flow cytometry",
+            "OutcomeMeasureReportingStatus": "Posted",
+            "OutcomeMeasureParamType": "Median",
+            "OutcomeMeasureDispersionType": "Inter-Quartile Range",
+            "OutcomeMeasureUnitOfMeasure": "Platelet Extracellular Vesicles/mL",
+            "OutcomeMeasureTimeFrame": "6 months following the beginning of antiplatelet therapy",
+            "OutcomeGroupList": {
+              "OutcomeGroup": [
+                {
+                  "OutcomeGroupId": "OG000",
+                  "OutcomeGroupTitle": "Ticagrelor",
+                  "OutcomeGroupDescription": "Ticagrelor: oral, 180 mg once (loading dose) followed by 90 mg twice daily (maintenance dose)\n\n27 patients"
+                },
+                {
+                  "OutcomeGroupId": "OG001",
+                  "OutcomeGroupTitle": "Clopidogrel",
+                  "OutcomeGroupDescription": "Clopidogrel: oral, 300 mg or 600 mg once (loading dose) followed by 75 mg once daily (maintenance dose)\n\n28 patients"
+                }
+              ]
+            },
+            "OutcomeDenomList": {
+              "OutcomeDenom": [
+                {
+                  "OutcomeDenomUnits": "Participants",
+                  "OutcomeDenomCountList": {
+                    "OutcomeDenomCount": [
+                      {
+                        "OutcomeDenomCountGroupId": "OG000",
+                        "OutcomeDenomCountValue": "27"
+                      },
+                      {
+                        "OutcomeDenomCountGroupId": "OG001",
+                        "OutcomeDenomCountValue": "28"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "OutcomeClassList": {
+              "OutcomeClass": [
+                {
+                  "OutcomeCategoryList": {
+                    "OutcomeCategory": [
+                      {
+                        "OutcomeMeasurementList": {
+                          "OutcomeMeasurement": [
+                            {
+                              "OutcomeMeasurementGroupId": "OG000",
+                              "OutcomeMeasurementValue": "2690000",
+                              "OutcomeMeasurementLowerLimit": "1460000",
+                              "OutcomeMeasurementUpperLimit": "4190000"
+                            },
+                            {
+                              "OutcomeMeasurementGroupId": "OG001",
+                              "OutcomeMeasurementValue": "4310000",
+                              "OutcomeMeasurementLowerLimit": "2050000",
+                              "OutcomeMeasurementUpperLimit": "6240000"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Concentration of Extracellular Vesicles Exposing Fibrinogen",
+            "OutcomeMeasureDescription": "Concentration of extracellular vesicles exposing fibrinogen/ ml measured with flow cytometry",
+            "OutcomeMeasureReportingStatus": "Not Posted",
+            "OutcomeMeasureTimeFrame": "6 months",
+            "OutcomeMeasureDenomUnitsSelected": "Participants"
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Concentration of Extracellular Vesicles Exposing Phosphatidylserine",
+            "OutcomeMeasureDescription": "Concentration of extracellular vesicles exposing phosphatidylserine/ml measured with flow cytometry",
+            "OutcomeMeasureReportingStatus": "Not Posted",
+            "OutcomeMeasureTimeFrame": "6 months",
+            "OutcomeMeasureDenomUnitsSelected": "Participants"
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Concentration of Extracellular Vesicles From Endothelial Cells",
+            "OutcomeMeasureDescription": "The concentrations of extracellular vesicles from endothelial cells/ ml measured with flow cytometry",
+            "OutcomeMeasureReportingStatus": "Not Posted",
+            "OutcomeMeasureTimeFrame": "6 months",
+            "OutcomeMeasureDenomUnitsSelected": "Participants"
+          },
+          {
+            "OutcomeMeasureType": "Secondary",
+            "OutcomeMeasureTitle": "Concentration of Extracellular Vesicles From Leukocytes",
+            "OutcomeMeasureDescription": "Concentration of extracellular vesicles from leukocytes/ ml measured with flow cytometry",
+            "OutcomeMeasureReportingStatus": "Not Posted",
+            "OutcomeMeasureTimeFrame": "6 months",
+            "OutcomeMeasureDenomUnitsSelected": "Participants"
+          }
+        ]
+      }
+    },
+    "AdverseEventsModule": {
+      "EventsFrequencyThreshold": "0",
+      "EventsTimeFrame": "6 months",
+      "EventGroupList": {
+        "EventGroup": [
+          {
+            "EventGroupId": "EG000",
+            "EventGroupTitle": "Ticagrelor",
+            "EventGroupDescription": "Ticagrelor: oral, 180 mg once (loading dose) followed by 90 mg twice daily (maintenance dose)\n\n27 patients\n\nOne major bleeding event from the gynecologic tract",
+            "EventGroupDeathsNumAffected": "0",
+            "EventGroupDeathsNumAtRisk": "30",
+            "EventGroupSeriousNumAffected": "1",
+            "EventGroupSeriousNumAtRisk": "30",
+            "EventGroupOtherNumAffected": "0",
+            "EventGroupOtherNumAtRisk": "30"
+          },
+          {
+            "EventGroupId": "EG001",
+            "EventGroupTitle": "Clopidogrel",
+            "EventGroupDescription": "Clopidogrel: oral, 300 mg or 600 mg once (loading dose) followed by 75 mg once daily (maintenance dose)\n\n28 patients\n\nOne major bleeding event from a diabetic foot ulcer",
+            "EventGroupDeathsNumAffected": "0",
+            "EventGroupDeathsNumAtRisk": "30",
+            "EventGroupSeriousNumAffected": "1",
+            "EventGroupSeriousNumAtRisk": "30",
+            "EventGroupOtherNumAffected": "0",
+            "EventGroupOtherNumAtRisk": "30"
+          }
+        ]
+      },
+      "SeriousEventList": {
+        "SeriousEvent": [
+          {
+            "SeriousEventTerm": "One major bleeding event from the gynecologic tract",
+            "SeriousEventOrganSystem": "Reproductive system and breast disorders",
+            "SeriousEventAssessmentType": "Non-systematic Assessment",
+            "SeriousEventNotes": "In a patient who was eventually diagnosed with endometrial cancer.",
+            "SeriousEventStatsList": {
+              "SeriousEventStats": [
+                {
+                  "SeriousEventStatsGroupId": "EG000",
+                  "SeriousEventStatsNumEvents": "1",
+                  "SeriousEventStatsNumAffected": "1",
+                  "SeriousEventStatsNumAtRisk": "30"
+                },
+                {
+                  "SeriousEventStatsGroupId": "EG001",
+                  "SeriousEventStatsNumEvents": "1",
+                  "SeriousEventStatsNumAffected": "1",
+                  "SeriousEventStatsNumAtRisk": "30"
+                }
+              ]
+            }
+          },
+          {
+            "SeriousEventTerm": "One major bleeding event from a diabetic foot ulcer",
+            "SeriousEventOrganSystem": "Skin and subcutaneous tissue disorders",
+            "SeriousEventAssessmentType": "Non-systematic Assessment",
+            "SeriousEventNotes": "In a male patient who had dysregulated diabetes and infection of a diabetic foot.",
+            "SeriousEventStatsList": {
+              "SeriousEventStats": [
+                {
+                  "SeriousEventStatsGroupId": "EG000",
+                  "SeriousEventStatsNumEvents": "1",
+                  "SeriousEventStatsNumAffected": "1",
+                  "SeriousEventStatsNumAtRisk": "30"
+                },
+                {
+                  "SeriousEventStatsGroupId": "EG001",
+                  "SeriousEventStatsNumEvents": "1",
+                  "SeriousEventStatsNumAffected": "1",
+                  "SeriousEventStatsNumAtRisk": "30"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "MoreInfoModule": {
+      "CertainAgreement": {
+        "AgreementPISponsorEmployee": "Yes"
+      },
+      "PointOfContact": {
+        "PointOfContactTitle": "Aleksandra Gasecka, MD, PhD",
+        "PointOfContactOrganization": "1st Chair and Department of Cardiology, Medical University of Warsaw",
+        "PointOfContactEMail": "alesandra.gasecka@wum.edu.pl",
+        "PointOfContactPhone": "+48225991951"
+      }
+    }
+  },
+  "DocumentSection": {
+    "LargeDocumentModule": {
+      "LargeDocList": {
+        "LargeDoc": [
+          {
+            "LargeDocTypeAbbrev": "Prot_SAP",
+            "LargeDocHasProtocol": "Yes",
+            "LargeDocHasSAP": "Yes",
+            "LargeDocHasICF": "No",
+            "LargeDocLabel": "Study Protocol and Statistical Analysis Plan",
+            "LargeDocDate": "December 21, 2016",
+            "LargeDocUploadDate": "11/28/2020 09:24",
+            "LargeDocFilename": "Prot_SAP_000.pdf"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009203",
+            "ConditionMeshTerm": "Myocardial Infarction"
+          },
+          {
+            "ConditionMeshId": "D000007238",
+            "ConditionMeshTerm": "Infarction"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007511",
+            "ConditionAncestorTerm": "Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000009336",
+            "ConditionAncestorTerm": "Necrosis"
+          },
+          {
+            "ConditionAncestorId": "D000017202",
+            "ConditionAncestorTerm": "Myocardial Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11307",
+            "ConditionBrowseLeafName": "Myocardial Infarction",
+            "ConditionBrowseLeafAsFound": "Myocardial Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9434",
+            "ConditionBrowseLeafName": "Infarction",
+            "ConditionBrowseLeafAsFound": "Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9445",
+            "ConditionBrowseLeafName": "Inflammation",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15838",
+            "ConditionBrowseLeafName": "Thrombosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11436",
+            "ConditionBrowseLeafName": "Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5698",
+            "ConditionBrowseLeafName": "Coronary Artery Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18658",
+            "ConditionBrowseLeafName": "Myocardial Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000077144",
+            "InterventionMeshTerm": "Clopidogrel"
+          },
+          {
+            "InterventionMeshId": "D000077486",
+            "InterventionMeshTerm": "Ticagrelor"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000010975",
+            "InterventionAncestorTerm": "Platelet Aggregation Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000058921",
+            "InterventionAncestorTerm": "Purinergic P2Y Receptor Antagonists"
+          },
+          {
+            "InterventionAncestorId": "D000058919",
+            "InterventionAncestorTerm": "Purinergic P2 Receptor Antagonists"
+          },
+          {
+            "InterventionAncestorId": "D000058914",
+            "InterventionAncestorTerm": "Purinergic Antagonists"
+          },
+          {
+            "InterventionAncestorId": "D000058905",
+            "InterventionAncestorTerm": "Purinergic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018377",
+            "InterventionAncestorTerm": "Neurotransmitter Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M1669",
+            "InterventionBrowseLeafName": "Clopidogrel",
+            "InterventionBrowseLeafAsFound": "Addition",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M13017",
+            "InterventionBrowseLeafName": "Platelet Aggregation Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M1812",
+            "InterventionBrowseLeafName": "Ticagrelor",
+            "InterventionBrowseLeafAsFound": "Aortic",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M28447",
+            "InterventionBrowseLeafName": "Purinergic P2Y Receptor Antagonists",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19657",
+            "InterventionBrowseLeafName": "Neurotransmitter Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PlAggInh",
+            "InterventionBrowseBranchName": "Platelet Aggregation Inhibitors"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

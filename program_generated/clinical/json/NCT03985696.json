@@ -1,0 +1,368 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03985696",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "87RI18_0025 (ExoReBLy)"
+      },
+      "Organization": {
+        "OrgFullName": "University Hospital, Limoges",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Exosomes and Immunotherapy in Non-Hodgkin B-cell Lymphomas",
+      "OfficialTitle": "Exosomes and Resistance to Immunotherapy in Aggressive Non-Hodgkin B-cell Lymphomas (B-NHL)",
+      "Acronym": "ExoReBLy"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 2, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 2, 2025",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 2, 2025",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 11, 2019",
+      "StudyFirstSubmitQCDate": "June 11, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 14, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 2, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 3, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Hospital, Limoges",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Diffuse large B-cell lymphomas (DLBCL) are highly aggressive and heterogeneous B-cell lymphoma that would imminently be fatal without treatment. Monoclonal anti-CD20 antibody, rituximab, in combination of CHOP chemotherapy (R-CHOP) is widely used with favourable results. Although more than half of patients achieve long-term remission, many are not cured with this immunotherapy. Suboptimal response and/or resistance to rituximab have remained a challenge in the therapy of DLBCL but also of all B-NHL. Exosomes are microvesicles released from tumor B cells that are found in plasma of patients with B-NHL. Exosomes carry therapeutic targets (as CD20, PDL-1) and could act as \"decoy-receptors\" for immunotherapy. Our objective is to precise, in aggressive B-NHL, the role of exosomes in immunotherapy escape.",
+      "DetailedDescription": "Diffuse large B-cell lymphomas (DLBCL) are highly aggressive and heterogeneous B-cell lymphoma that would imminently be fatal without treatment. Monoclonal anti-CD20 antibody, rituximab, in combination of CHOP chemotherapy (R-CHOP) is widely used with favourable results. Although more than half of patients achieve long-term remission, many are not cured with this immunotherapy. Decreased CD20 expression has been postulated to be one of the most important contributing to rituximab resistance. Moreover, R-CHOP therapies are sometimes ineffective, and new treatment strategies based notably on host immune responses modulation are being explored. Among them, programmed cell death ligand 1 (PD-L1) protein was identified as a potent predicting biomarker in DLBCL. Exosomes are small membrane vesicles secreted by several cell types during exocytic fusion of multivesicular bodies with the plasma membrane. Many cancer cells have been shown to secrete exosomes in greater amounts than normal cells. Exosome secretion may contribute to drug resistance. Indeed, exosome release from B-cell Non-Hodgkin Lymphoma (B-NHL), by the expression of CD20, has been suggest to act as decoy targets upon rituximab exposure, allowing lymphoma cells to escape from humoral immunotherapy. Finally, as exosome composition seems to be cell and tissue specific, they are highly suitable to serve as diagnostic markers.\n\nOur hypothesis is that high expression of the immunotherapeutic targets (CD20, PD-L1) on exosomes derived from aggressive or resistant B-NHL may allow tumor cells to escape therapeutic antibodies, and thus contribute in vivo to therapeutic resistance. For this objective, we will used exosomes derived from DLBCL human cells and exosomes isolated from plasma of DLBCL patients. We will analyze, on these microvesicles, CD20 and PDL-1 expression in function of DLBCL sub-types and outcome of patients. Moreover, exosome capacity to interfere with immunotherapy will be also studied from in vitro and in vivo (xenografts) models."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Lymphoma, B-cell, Aggressive Non-Hodgkin (B-NHL)"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "B cells",
+          "exosomes",
+          "immunotherapy",
+          "Lymphomas",
+          "DLBCL"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Basic Science",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "90",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "patients with DLBCL",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: blood sample"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Healthy volunteers",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: blood sample"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Other",
+            "InterventionName": "blood sample",
+            "InterventionDescription": "1 blood volume (5-7 ml EDTA)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Healthy volunteers",
+                "patients with DLBCL"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Quantification of CD20 and PDL-1 in exosomes purified from cell cultures of DLBCL human cell lines and from Healthy volunteers",
+            "PrimaryOutcomeDescription": "From D0 until the end of the inclusion period (36 months)",
+            "PrimaryOutcomeTimeFrame": "Month 36"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Evaluation if peripheral exosomes can be used as novel diagnostic biomarkers in DLBCL",
+            "SecondaryOutcomeDescription": "To analyze the prognostic value of exosomal markers on therapeutic response and patient outcome, each patient included in the study at diagnostic (D0) will be followed up until 36 months after inclusion.",
+            "SecondaryOutcomeTimeFrame": "Month 36"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria :\n\npatients over 18 years old with DLBCL at diagnostic or relapsed patients after R-CHOP therapy.\nHealthy volunteers over 18 years old\n\nExclusion Criteria:\n\nother B cell diseases",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Julie ABRAHAM, Dr",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+33 (0) 555 056 651",
+            "CentralContactEMail": "julie.abraham@chu-limoges.fr"
+          },
+          {
+            "CentralContactName": "Danielle TROUTAUD, Pr",
+            "CentralContactRole": "Contact",
+            "CentralContactEMail": "danielle.troutaud@unilim.fr"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University Hospital Limoges",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Limoges",
+            "LocationZip": "87042",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "JULIE ABRAHAM, PH",
+                  "LocationContactRole": "Contact",
+                  "LocationContactEMail": "julie.abraham@chu-limoges.fr"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008223",
+            "ConditionMeshTerm": "Lymphoma"
+          },
+          {
+            "ConditionMeshId": "D000016393",
+            "ConditionMeshTerm": "Lymphoma, B-Cell"
+          },
+          {
+            "ConditionMeshId": "D000000374",
+            "ConditionMeshTerm": "Aggression"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008232",
+            "ConditionAncestorTerm": "Lymphoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008206",
+            "ConditionAncestorTerm": "Lymphatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007160",
+            "ConditionAncestorTerm": "Immunoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000008228",
+            "ConditionAncestorTerm": "Lymphoma, Non-Hodgkin"
+          },
+          {
+            "ConditionAncestorId": "D000001526",
+            "ConditionAncestorTerm": "Behavioral Symptoms"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10372",
+            "ConditionBrowseLeafName": "Lymphoma",
+            "ConditionBrowseLeafAsFound": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17980",
+            "ConditionBrowseLeafName": "Lymphoma, B-Cell",
+            "ConditionBrowseLeafAsFound": "Lymphoma, B-Cell",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2876",
+            "ConditionBrowseLeafName": "Aggression",
+            "ConditionBrowseLeafAsFound": "Aggressive",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10377",
+            "ConditionBrowseLeafName": "Lymphoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10355",
+            "ConditionBrowseLeafName": "Lymphatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9358",
+            "ConditionBrowseLeafName": "Immunoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10374",
+            "ConditionBrowseLeafName": "Lymphoma, Non-Hodgkin",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3970",
+            "ConditionBrowseLeafName": "Behavioral Symptoms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3543",
+            "ConditionBrowseLeafName": "Lymphosarcoma",
+            "ConditionBrowseLeafAsFound": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T640",
+            "ConditionBrowseLeafName": "B-cell Lymphoma",
+            "ConditionBrowseLeafAsFound": "B-cell Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXM",
+            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

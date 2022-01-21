@@ -1,0 +1,490 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03990805",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "BSR-CTph3-JS1"
+      },
+      "Organization": {
+        "OrgFullName": "R-Bio",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "A Phase 3 Study to Evaluate the Efficacy and Safety of JointStem in Treatment of Osteoarthritis",
+      "OfficialTitle": "Multi-center, Randomized, Double-Blind, Placebo Controlled Phase 3 Clinical Trial to Evaluate Efficacy and Safty of Mesenchymal Stem Cells JointStem in Patients With Knee Osteoarthritis"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2020",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 11, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 15, 2020",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 15, 2020",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "June 13, 2019",
+      "StudyFirstSubmitQCDate": "June 17, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 19, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 28, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 29, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "R-Bio",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to investigate the efficacy and safety of autologous Adipose Tissue derived Mesenchymal stem cells (JOINTSTEM®) in patient with severe Knee Osteoarthritis.",
+      "DetailedDescription": "JOINTSTEM is injectables for an OA treatment that uses autologous adipose-derived mesenchymal stem cells. As it does not use allogenic tissues and is cultured without additional genetic modification, it is classified as 'autologous cell therapy' and is completely free of immunologic rejection.\n\nIt primarily aims to improve joint function. The intra-articular injection of JOINTSTEM is expected to stimulate the regeneration of cartilage, and to innovatively improve joint function with cartilage regeneration.\n\nThe subjects of this therapy were patients with K&L grade 3 aged 20 or older.\n\nThis study is a double-blind, randomized, placebo controlled study with two arms to evaluate JOINTSTEM as a treatment for subjects with osteoarthritis. Following a 2-week screening period, approximately 260 patients will be randomly assigned into one of the following two arms in a 1:1 ratio (1 JointStem : 1 placebo control). After each patient completes 6-month visit (Visit 5) and the data management team confirms all data have no issue, the individual database will be locked and the blinding will be open for the statistical analysis."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Degenerative Arthritis",
+          "Knee Osteoarthritis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Stem Cell",
+          "Adipose tissue derived mesenchymal stem cell",
+          "osteoarthritis",
+          "degenerative arthritis",
+          "biostar",
+          "Rbio"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "260",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "JOINTSTEM",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Autologous Adipose Tissue derived MSCs",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: JOINTSTEM"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "saline",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "saline",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: saline"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "JOINTSTEM",
+            "InterventionDescription": "JOINTSTEM Autologous Adipose Tissue derived MSCs 1x10^8cells/(saline), 1 time injection",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "JOINTSTEM"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Autologous Adipose Tissue derived MSCs"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "saline",
+            "InterventionDescription": "saline, 1 time injection",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "saline"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change of Western Ontario and McMaster Universities Osteoarthritis Index(WOMAC) scores from baseline",
+            "PrimaryOutcomeDescription": "Pain, stiffness, and physical function of the knee will be measured by the WOMAC score\n\nScore range is\n\n0-20 for Pain\n0-8 for Stiffness\n0-68 for Pysical Function\nHigher scores on the WOMAC indicate wors pain, stiffness, and functional limitations",
+            "PrimaryOutcomeTimeFrame": "12 weeks, 24 weeks"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Change of Visual Analog Scale (VAS) scores from baseline",
+            "PrimaryOutcomeDescription": "Pain of knee will be measured by the 100mm VAS\n\n-Score range is from 0-4mm(no pain) to 75-100mm(severe pain)",
+            "PrimaryOutcomeTimeFrame": "12 weeks, 24 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "WOMAC 3 subscale score",
+            "SecondaryOutcomeDescription": "Pain, stiffness, and physical function of the knee will be measured by the Western Ontario and McMaster Universities (WOMAC)",
+            "SecondaryOutcomeTimeFrame": "12 weeks, 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "VAS score",
+            "SecondaryOutcomeDescription": "Pain of knee will be measured by the 100mm Visual Analog Scale (VAS)",
+            "SecondaryOutcomeTimeFrame": "12 weeks, 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "KOOS",
+            "SecondaryOutcomeDescription": "Symptoms, pain and functionality of the knee joint will be evaluated via the Knee Injury and Osteoarthritis Outcome Score (KOOS)\n\n-Score range is from 0(extreme symptoms) to 100(no symptoms)",
+            "SecondaryOutcomeTimeFrame": "12 weeks, 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "SF-36",
+            "SecondaryOutcomeDescription": "The SF(Short Form)-36 Health Survey is a 36-item, patient-reported survey of patient health.",
+            "SecondaryOutcomeTimeFrame": "12 weeks, 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "IKDC",
+            "SecondaryOutcomeDescription": "Symptoms, sports activities, and function of the knee will be measured by the International Knee Documentation Committee (IKDC)",
+            "SecondaryOutcomeTimeFrame": "12weeks, 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Measuring of Kellgren-Lawrence grade",
+            "SecondaryOutcomeDescription": "Measuring of Kellgren-Lawrence grade through X-ray",
+            "SecondaryOutcomeTimeFrame": "12 weeks, 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Measuring of Femoro-tibial anatomical angle(FTA)",
+            "SecondaryOutcomeDescription": "Measuring of FTA through X-ray",
+            "SecondaryOutcomeTimeFrame": "12 weeks, 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Measuring of Hip-Knee-Ankle angle(HKA)",
+            "SecondaryOutcomeDescription": "Measureing of HKA through X-ray",
+            "SecondaryOutcomeTimeFrame": "12 weeks, 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Measuring of Joint Space Width",
+            "SecondaryOutcomeDescription": "measuring Joint Space Width through X-ray",
+            "SecondaryOutcomeTimeFrame": "12 weeks, 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "MRI scan",
+            "SecondaryOutcomeDescription": "MRI perform to measure Modified WORMS (Whole-Organ Magnetic Resonance Imaging Score)",
+            "SecondaryOutcomeTimeFrame": "12 weeks, 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Use of rescue medication",
+            "SecondaryOutcomeDescription": "Frequency and total amount of rescue medication administration will be measured.",
+            "SecondaryOutcomeTimeFrame": "12 weeks, 24 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge 20 and older, male and female\nPatients must consent in writing to participate in the study by signing and dating an informed consent document\nDiagnosis of degenerative arthritis of class 1-3 by ACR(American College of Rheumatology Criteria) Global functional criteria\nDiagnosis of Kellgren and Lawrence grade 3 by radiographic criteria\n\nPatients suitable for one of three conditions of 'diagnostic criteria for osteoarthritis of knee' based on ACR guideline\n\nclinical and inspectional opinion\nclinical and radiographic opinion\nclinical opinion\nPatients who has joint pain ≥ 50mm on 100mm VAS (Visual Analog Scale) at Screening\nPatient who has WOMAC score ≥ 1000 at Screening\nNo improvement with persisting knee pain at least for 12 weeks (3 months) by nonoperational therapy before Screening\n\nExclusion Criteria:\n\nPatients who have pregnancy plans within this trial period or childbearing age patients who do not agree to maintain contraception status through appropriate contraception methods\n\nAppropriate contraception method: Use of condom, contraceptive sponges, foam, diaphragm, intrauterine device etc.\nPeriodic abstinence(e.g. methods of predicting ovulation) and moderation are not considered as appropriate contraception method.\nNot allowed to use hormonal contraceptives\nChildbearing age female patients, exclude menopausal female (amenorrhea for more than 24 months after the last menstruation) or female who has no possibility of pregnency by surgical sterilization operation, can participate in this study only determined negative in pregnancy test\nPregnant women or lactating mothers\nPatients with Body Mass Index (BMI) > 35\nPatients with positive human immunodeficiency (HIV), hepatitis B (HBV), hepatitis C (HCV), syphilis at screening indicative of current of pass infection\n\nPatients with other disease including\n\nSeptic arthritis, Rheumatoid or Inflammatory joint disease, Gout, Reccurent pseudogout, Paget disease, Articular fractures, Ochronosis, Acromegaly, Hemochromatosis, Wilson's disease,Osteochondromatosis, Hereditary disorder, Genetic disorder of collagen\nPatients who are diagnosed with malignant tumor in the past or present\n\nPatients who have clinically significant diseases including\n\nCardiac disorder (Myocardial infarction, Coronary artery bypass graft, Arrhythmia and other severe Cardiac disorder etc.)\nResistant hypertension (systolic blood pressure > 160mmHg or diastolic pressure > 100mmHg at Screening)\nKidney disease (Chronic renal failure, Glomerulonephritis etc.)\nLiver disease (Hepatocirrhosis, Fatty liver, acute or chronic liver disease etc.)\nEndocrinopathy (Thyroiditis, Diabetes insipidus, Cushing disease etc.)\nPatients who have significant lab abnormalities\nPatients who have severe pain in other areas that can affect the judgement of knee joint symptom\nPatients who underwent any arthroscopic surgery on the injection site within 6 months of the screening visit date, or scheduled to perform any surgery during the clinical trial period\nPatients who received any drug by intra-articular injection(hyaluronic acid or steroid etc.) for treatment within 6 months prior to Screening\nPatients who experienced as stem cell therapy or blood product injection(PRP, Prolo injection etc.)\n\nPatients who received treatment within 14 days prior to Screening including(But, patients who had wash-out-period can participate in this study)\n\nTake medicines including composition of Glucosamine, Chondretin sulphate and Diacerhein etc.\nTake phytotherapeutic agent or Chinese medicine for osteoarthritis\nTake antiinflammatory analgesic drug, NSAIDs (prescription/nonprescription pharmaceuticals) etc. (Patients who have 3 days of wash-out-period after they took acetaminophen can participate in the study)\nTake oral steroids\nPhysical therapy or Chinese medical treatment(cupping, acupuncture, moxibustion etc.)\nPatients with penicillin hypersensitivity reactions\nPatients with skin diseases or infections in the area of the injection site\nPatients who have abnormal flail over grade 2 flail knee test of anterior to posterior and varus/valgus lesion at physical examination\nPatients who have difficulty in taking MRI because of metal materials (cardiac pacemaker or clip of cerebral artery etc.) in their body or claustrophobia -but, patients with metal materials that are not affected by magnetic field can participate in this study\nPatients who have difficulty in liposuction or local anesthesia\nPatients who have alcohol, drug abuse history\nPatients who have severe neurologic and psychiatric disorders that affect clinical trials\nPatients who had participated in other clinical trials within 12 weeks prior to this study\nPatients who the principal investigator considers inappropriate for the clinical trial due to any other reasons than those listed above",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "100 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "KANGIL KIM",
+            "OverallOfficialAffiliation": "KyungHee University Gangdong Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "WOOSUK LEE",
+            "OverallOfficialAffiliation": "Gangnam Severance Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "SUNCHUL HWANG",
+            "OverallOfficialAffiliation": "Gyeongsang National University Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "SANGJUN SONG",
+            "OverallOfficialAffiliation": "Kyunghee University Medical Center",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "KICHEOR BAE",
+            "OverallOfficialAffiliation": "Keimyung University Dongsan Medical Center",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "YOUNGWAN MOON",
+            "OverallOfficialAffiliation": "Samsung Medical Center",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "JUHONG LEE",
+            "OverallOfficialAffiliation": "Chonbuk National University Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "HANJUN LEE",
+            "OverallOfficialAffiliation": "Chunang University Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "EUISUNG CHOI",
+            "OverallOfficialAffiliation": "Chungbuk National University Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "HYUNGSUK CHOI",
+            "OverallOfficialAffiliation": "Soonchunhyang University Hospital Seoul",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "KWANKYU PARK",
+            "OverallOfficialAffiliation": "Yonsei University",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "OOGJIN SHON",
+            "OverallOfficialAffiliation": "Yeungnam University Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Chungbuk National University Hospital",
+            "LocationCity": "Cheongju-si",
+            "LocationZip": "28644",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Yeungnam University Hospital",
+            "LocationCity": "Daegu",
+            "LocationZip": "42415",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Keimyung University Dongsan Medical Center",
+            "LocationCity": "Daegu",
+            "LocationZip": "42601",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Chonbuk National University Hospital",
+            "LocationCity": "Jeonju",
+            "LocationZip": "54907",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Gyeongsang National University Hospital",
+            "LocationCity": "Jinju-si",
+            "LocationZip": "52727",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Kyunghee University Medical Center",
+            "LocationCity": "Seoul",
+            "LocationZip": "02447",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Yonsei University Health System",
+            "LocationCity": "Seoul",
+            "LocationZip": "03722",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Soonchunhyang University Hospital Seoul",
+            "LocationCity": "Seoul",
+            "LocationZip": "04401",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "KyungHee University Gangdong Hospital",
+            "LocationCity": "Seoul",
+            "LocationZip": "05278",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Gangnam Severance Hospital",
+            "LocationCity": "Seoul",
+            "LocationZip": "06273",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Samsung Medical Center",
+            "LocationCity": "Seoul",
+            "LocationZip": "06351",
+            "LocationCountry": "Korea, Republic of"
+          },
+          {
+            "LocationFacility": "Chunang University Hospital",
+            "LocationCity": "Seoul",
+            "LocationZip": "06973",
+            "LocationCountry": "Korea, Republic of"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000001168",
+            "ConditionMeshTerm": "Arthritis"
+          },
+          {
+            "ConditionMeshId": "D000010003",
+            "ConditionMeshTerm": "Osteoarthritis"
+          },
+          {
+            "ConditionMeshId": "D000020370",
+            "ConditionMeshTerm": "Osteoarthritis, Knee"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007592",
+            "ConditionAncestorTerm": "Joint Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012216",
+            "ConditionAncestorTerm": "Rheumatic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M3628",
+            "ConditionBrowseLeafName": "Arthritis",
+            "ConditionBrowseLeafAsFound": "Arthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M12078",
+            "ConditionBrowseLeafName": "Osteoarthritis",
+            "ConditionBrowseLeafAsFound": "Osteoarthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21321",
+            "ConditionBrowseLeafName": "Osteoarthritis, Knee",
+            "ConditionBrowseLeafAsFound": "Knee Osteoarthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9773",
+            "ConditionBrowseLeafName": "Joint Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14197",
+            "ConditionBrowseLeafName": "Rheumatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5475",
+            "ConditionBrowseLeafName": "Collagen Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

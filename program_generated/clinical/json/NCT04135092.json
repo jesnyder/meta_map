@@ -1,0 +1,344 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04135092",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "209950"
+      },
+      "Organization": {
+        "OrgFullName": "National Institutes of Health Clinical Center (CC)",
+        "OrgClass": "NIH"
+      },
+      "BriefTitle": "Single Patient Protocol: A Phase II Study Using the Administration of Autologous T-Cells Genetically Engineered to Express T-Cell Receptors Reactive Against Mutated Neoantigens in a Patient With Metastatic Cancer Plus the Administration of Pembrolizumab",
+      "OfficialTitle": "Single Patient Protocol: A Phase II Study Using the Administration of Autologous T-Cells Genetically Engineered to Express T-Cell Receptors Reactive Against Mutated Neoantigens in a Patient With Metastatic Cancer Plus the Administration of Pembrolizumab"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2020",
+      "OverallStatus": "No longer available",
+      "StudyFirstSubmitDate": "October 21, 2019",
+      "StudyFirstSubmitQCDate": "October 21, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 22, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 3, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 4, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "National Institutes of Health Clinical Center (CC)",
+        "LeadSponsorClass": "NIH"
+      }
+    },
+    "OversightModule": {},
+    "DescriptionModule": {
+      "BriefSummary": "Single Patient Expanded Access",
+      "DetailedDescription": "Background:\n\nPlease refer to National Cancer Institute Surgery Branch (NCI-SB) protocol 18-C-0049, Amendment F.\n\nObjective:\n\nUnder Individual Patient Expanded Access, to treat a patient with metastatic prostate cancer with autologous peripheral blood lymphocytes (PBL) that have been transduced with genes encoding T-cell receptors that recognize the mutated TP53 shared oncogene in the autologous cancer.\n\nEligibility:\n\nMust have measurable, metastatic disease as assessed per RECIST v1.1 criteria.\nMust sign the informed consent document.\nWilling to sign Durable Power of Attorney Form.\nMust have all regulatory approvals prior to start of treatment.\n\nDesign:\n\nPlease refer to NCI-SB protocol 18-C-0049, Amendment F.\nThe patient will be treated with a non-myeloablative, lymphodepleting preparative regimen of cyclophosphamide and fludarabine, followed by the infusion of autologous transduced PBL and then high-dose aldesleukin. The patient will also receive pembrolizumab on Day -2 prior to cell administration and additional doses every 3 weeks following cell infusion until the time of disease progression."
+    },
+    "DesignModule": {
+      "StudyType": "Expanded Access",
+      "ExpandedAccessTypes": {
+        "ExpAccTypeIndividual": "Yes"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Individual Patient TCR Transduced PBL",
+            "InterventionDescription": "Day 0: Cells will be infused at a dose not to exceed .5e11 in 400 mL IV on the Patient Care Unit over 20-30 minutes (2-4 days after the last dose of fludarabine)."
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cyclophosphamide",
+            "InterventionDescription": "Days -7 and -6: Cyclophosphamide 60 mg/kg/day x 2 days IV in 250 mL D5W infused simultaneously with mesna 15 mg/kg/day over 1 hour x 2 days."
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Fludarabine",
+            "InterventionDescription": "Days -7 to -3: Fludarabine 25 mg/m2 /day IVPB daily over 30 minutes for 5 days."
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Aldesleukin",
+            "InterventionDescription": "Aldesleukin 720,000 IU/kg IV (based on total body weight) over 15 minutes every eight hours (+/- 1 hour) beginning within 24 hours of cell infusion and continuing for up to 4 days (maximum 10 doses)."
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Pembrolizumab",
+            "InterventionDescription": "Pembrolizumab 2 mg /kg IV over approximately 30 minutes on Day -2 and then every 3 weeks until time of disease progression."
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMeasurable (per RECIST v1.1 criteria), metastatic prostate cancer.\nRefractory to approved standard systemic therapy.\nAbility of subject to understand and the willingness to sign a written informed consent document.\nWilling to sign a Durable Power of Attorney Form.\nWilling to practice birth control from the time of enrollment on this study and for four months after treatment.\nSubject must be co-enrolled on protocol 03-C-0277.\n\nExclusion Criteria:\n\nNot applicable.",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009362",
+            "ConditionMeshTerm": "Neoplasm Metastasis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009385",
+            "ConditionAncestorTerm": "Neoplastic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11459",
+            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+            "ConditionBrowseLeafAsFound": "Metastatic Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11482",
+            "ConditionBrowseLeafName": "Neoplastic Processes",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "C000082598",
+            "InterventionMeshTerm": "Aldesleukin"
+          },
+          {
+            "InterventionMeshId": "D000003520",
+            "InterventionMeshTerm": "Cyclophosphamide"
+          },
+          {
+            "InterventionMeshId": "C000582435",
+            "InterventionMeshTerm": "Pembrolizumab"
+          },
+          {
+            "InterventionMeshId": "C000024352",
+            "InterventionMeshTerm": "Fludarabine"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000007166",
+            "InterventionAncestorTerm": "Immunosuppressive Agents"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018906",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+          },
+          {
+            "InterventionAncestorId": "D000000477",
+            "InterventionAncestorTerm": "Alkylating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000019653",
+            "InterventionAncestorTerm": "Myeloablative Agonists"
+          },
+          {
+            "InterventionAncestorId": "D000074322",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Immunological"
+          },
+          {
+            "InterventionAncestorId": "D000019380",
+            "InterventionAncestorTerm": "Anti-HIV Agents"
+          },
+          {
+            "InterventionAncestorId": "D000044966",
+            "InterventionAncestorTerm": "Anti-Retroviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000998",
+            "InterventionAncestorTerm": "Antiviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M289070",
+            "InterventionBrowseLeafName": "Pembrolizumab",
+            "InterventionBrowseLeafAsFound": "200",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M5879",
+            "InterventionBrowseLeafName": "Cyclophosphamide",
+            "InterventionBrowseLeafAsFound": "Months",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M283219",
+            "InterventionBrowseLeafName": "Fludarabine",
+            "InterventionBrowseLeafAsFound": "Medical",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M225462",
+            "InterventionBrowseLeafName": "Aldesleukin",
+            "InterventionBrowseLeafAsFound": "Molecular",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M225481",
+            "InterventionBrowseLeafName": "Fludarabine phosphate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M16963",
+            "InterventionBrowseLeafName": "Mesna",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9364",
+            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20095",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2972",
+            "InterventionBrowseLeafName": "Alkylating Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M1346",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Immunological",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20503",
+            "InterventionBrowseLeafName": "Anti-HIV Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M24581",
+            "InterventionBrowseLeafName": "Anti-Retroviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3466",
+            "InterventionBrowseLeafName": "Antiviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          }
+        ]
+      }
+    }
+  }
+}

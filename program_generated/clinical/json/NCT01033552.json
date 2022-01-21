@@ -1,0 +1,716 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01033552",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MT2009-09"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "0911M74035",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "IRB, University of Minnesota"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Masonic Cancer Center, University of Minnesota",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Biochemical Correction of Severe EB by Allo HSCT and \"Off-the-shelf\" MSCs",
+      "OfficialTitle": "MT2009-09: Biochemical Correction of Severe Epidermolysis Bullosa by Allogeneic Stem Cell Transplantation and \"Off-the-shelf\" Mesenchymal Stem Cells"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 2010",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 14, 2009",
+      "StudyFirstSubmitQCDate": "December 14, 2009",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 16, 2009",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "May 20, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 24, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Masonic Cancer Center, University of Minnesota",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is an open-label, single institution, phase II study in patients with epidermolysis bullosa (EB). The underlying hypothesis is that the infusion of bone marrow or umbilical cord blood from a healthy unaffected donor will correct the collagen, laminin, integrin, or plakin deficiency and reduce the skin fragility characteristic of severe forms of EB. A secondary hypothesis is that mesenchymal stem cells from a healthy donor will enhance the safety and efficacy of the allogeneic hematopoietic stem cell transplant as well as serve as a source of renewable cells for the treatment of focal areas of residual blistering.",
+      "DetailedDescription": "The primary objective of this study is to estimate the event-free survival rate by 1 year post-transplant with an event defined as a death or failure to have a demonstrable increase in collagen, laminin, integrin, keratin or plakin deposition by 1 year post-transplant or other biochemical, structural or physical measure of improvement.\n\nThe secondary objectives of this study are to i) determine the incidence of transplant-related mortality (TRM) at 180 days; ii) describe the pattern of biochemical improvement as measured by an increase in protein expression (collagen, laminin, integrin, keratin or plakin) and related structural and physical changes; iii) describe health quality of life at day 365 and 730 as compared to pretreatment results; iv) describe the pattern and durability of HSC and third party MSC engraftment in the skin; v) determine the probability of survival at 1 year.\n\nPatients with severe epidermolysis bullosa will be screened to meet the eligibility requirements, related or unrelated donor marrow or UCB will be infused, and subjects will be followed for a minimum of 5 years after stem cell transplant. A target accrual of 75 subjects over 5 years will be recruited to the study."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Epidermolysis Bullosa"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "75",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Transplant in Epidermolysis Bullosa",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Cyclophosphamide",
+                "Drug: Fludarabine",
+                "Drug: Anti-thymocyte globulin",
+                "Drug: Cyclosporine A",
+                "Drug: Mycophenolate mofetil",
+                "Procedure: Mesenchymal stem cell transplantation",
+                "Radiation: Total body irradiation",
+                "Procedure: Bone marrow or umbilical cord blood (UCG) stem cell transplantation"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cyclophosphamide",
+            "InterventionDescription": "Cyclophosphamide 50 mg/kg/day IV over 2 hours x 1 day, total dose 50 mg/kg will be administered on Day -6.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Transplant in Epidermolysis Bullosa"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Cytoxan"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Fludarabine",
+            "InterventionDescription": "40 mg/m^2/day intravenously on Days -6, -5, -4, -3 and -2.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Transplant in Epidermolysis Bullosa"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Fludara"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Anti-thymocyte globulin",
+            "InterventionDescription": "30 mg/kg on Days -4, -3 and -2.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Transplant in Epidermolysis Bullosa"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "ATG"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cyclosporine A",
+            "InterventionDescription": "Days -3 to 100+ to maintain a level of >200 ng/ml; initial dose 2.5 mg/kg over 2 hours every 8-12 hours for children.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Transplant in Epidermolysis Bullosa"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "CSA"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Mycophenolate mofetil",
+            "InterventionDescription": "15 mg/kg intravenous twice per day on days -3 through 30.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Transplant in Epidermolysis Bullosa"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "CellCept(R)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Mesenchymal stem cell transplantation",
+            "InterventionDescription": "infused via intravenous drip on Day 0",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Transplant in Epidermolysis Bullosa"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "MSCT"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Radiation",
+            "InterventionName": "Total body irradiation",
+            "InterventionDescription": "300 cGY on Day -1 administered in a single fraction at a dose rate of 10-19 cGy/minute prescribed to the midplane of the patient at the level of the umbilicus.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Transplant in Epidermolysis Bullosa"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Bone marrow or umbilical cord blood (UCG) stem cell transplantation",
+            "InterventionDescription": "Bone marrow or UCB products will be infused as soon as the product arrives and within 30 minutes. The product is infused via IV drip.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Transplant in Epidermolysis Bullosa"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "UCBSCT"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Event-free survival rate",
+            "PrimaryOutcomeDescription": "Event-free survival rate, with an event defined as death or failure to have a demonstrable increase in collagen, laminin, intergrin, keratin or plakin deposition.",
+            "PrimaryOutcomeTimeFrame": "1 year and 2 Years Post-transplant"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Transplant-related mortality (TRM)",
+            "SecondaryOutcomeDescription": "Incidence of transplant-related mortality (TRM)",
+            "SecondaryOutcomeTimeFrame": "180 Days Post Transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Pattern of biochemical improvement",
+            "SecondaryOutcomeDescription": "Describe pattern of biochemical improvement as measured by an increase in protein expression (collagen, laminin, integrin, keratin, or plakin) and related structural and physical changes",
+            "SecondaryOutcomeTimeFrame": "Through 1 Year Post-Transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of Life",
+            "SecondaryOutcomeDescription": "Health quality of life questionnaire or iscorEB as compared to pretreatment results",
+            "SecondaryOutcomeTimeFrame": "Pretreatment, Day 100, 6 months, 1 and 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Durability of HSC and third party MSC engraftment in the skin",
+            "SecondaryOutcomeDescription": "Incidence of HSC and third party MSC engraftment in the skin",
+            "SecondaryOutcomeTimeFrame": "100 Days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Probability of Survival",
+            "SecondaryOutcomeDescription": "Number of surviving patients one year after engraftment",
+            "SecondaryOutcomeTimeFrame": "1 Year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of participants experiencing Acute GVHD",
+            "SecondaryOutcomeDescription": "Incidence of acute GCHD",
+            "SecondaryOutcomeTimeFrame": "100 Days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnosis of severe form of epidermolysis bullosa (EB) characterized by collagen, laminin, integrin, keratin or plakin deficiency. Assessment criteria for severe EB:\n\nDocumented collagen, laminin, integrin, keratin or plakin deficiency (by immunofluorescence staining with protein specific antibodies or Western blotting and by mutation analysis)\n\nAdequate Organ Function Criteria\n\nRenal: glomerular filtration rate within normal range for age\nHepatic: bilirubin, aspartate aminotransferase/alanine aminotransferase (AST/ALT), Alkaline phosphatase (ALP) < 5 x upper limit of normal\nPulmonary: adequate pulmonary function in the opinion of the enrolling investigator\nCardiac: left ventricular ejection fraction ≥ 45%, normal electrocardiogram (EKG) or approved by Cardiology for transplant.\n\nAvailable Healthy HSC Donor (order of preference)\n\nRelated Donor (marrow or UCB)\n\nHLA-A, B, C, DRB1 genotypic identical (sibling) donor\nHLA-A, B, C, DRB1 phenotypic identical donor\n7/8 HLA matched donor at HLA-A, B, C, DRB1\n\nUnrelated Donor\n\nMarrow\n\nHLA-A, B, C, DRB1 phenotypic identical donor\n7/8 HLA matched donor at HLA-A, B, C, DRB1\n\nUCB\n\nHLA-A, B (antigen level) and DRB1 (allele level) matched donor\n5/6 HLA matched donor at HLA-A, B, DRB1\n4/6 HLA matched donor at HLA-A, B, DRB1\nVoluntary written consent\n\nAbsence of Exclusion Criteria:\n\nActive systemic infection at time of transplantation (including active infection with Aspergillus or other mold within 30 days).\nHistory of human immunodeficiency virus (HIV) infection\nEvidence of squamous cell carcinoma\nDonor has EB\nPregnancy females of child-bearing age must have a documented negative pregnancy test and agree to use contraception as a condition for enrollment.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MaximumAge": "25 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Lisa Burke, RN",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "612-273-8482",
+            "CentralContactEMail": "lburke3@Fairview.org"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jakub Tolar, MD, PhD",
+            "OverallOfficialAffiliation": "Masonic Cancer Center, University of Minnesota",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Minnesota Masonic Cancer Center and Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Minneapolis",
+            "LocationState": "Minnesota",
+            "LocationZip": "55455",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Lisa Burke, RN",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "612-273-8482",
+                  "LocationContactEMail": "lburke3@Fairview.org"
+                },
+                {
+                  "LocationContactName": "Jakub Tolar, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000004820",
+            "ConditionMeshTerm": "Epidermolysis Bullosa"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012868",
+            "ConditionAncestorTerm": "Skin Abnormalities"
+          },
+          {
+            "ConditionAncestorId": "D000000013",
+            "ConditionAncestorTerm": "Congenital Abnormalities"
+          },
+          {
+            "ConditionAncestorId": "D000012873",
+            "ConditionAncestorTerm": "Skin Diseases, Genetic"
+          },
+          {
+            "ConditionAncestorId": "D000030342",
+            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+          },
+          {
+            "ConditionAncestorId": "D000012871",
+            "ConditionAncestorTerm": "Skin Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012872",
+            "ConditionAncestorTerm": "Skin Diseases, Vesiculobullous"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M7128",
+            "ConditionBrowseLeafName": "Epidermolysis Bullosa",
+            "ConditionBrowseLeafAsFound": "Epidermolysis Bullosa",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M12",
+            "ConditionBrowseLeafName": "Congenital Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14824",
+            "ConditionBrowseLeafName": "Skin Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14826",
+            "ConditionBrowseLeafName": "Skin Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14828",
+            "ConditionBrowseLeafName": "Skin Diseases, Genetic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22839",
+            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14827",
+            "ConditionBrowseLeafName": "Skin Diseases, Vesiculobullous",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2098",
+            "ConditionBrowseLeafName": "Epidermolysis Bullosa",
+            "ConditionBrowseLeafAsFound": "Epidermolysis Bullosa",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000016572",
+            "InterventionMeshTerm": "Cyclosporine"
+          },
+          {
+            "InterventionMeshId": "D000009173",
+            "InterventionMeshTerm": "Mycophenolic Acid"
+          },
+          {
+            "InterventionMeshId": "D000003520",
+            "InterventionMeshTerm": "Cyclophosphamide"
+          },
+          {
+            "InterventionMeshId": "C000024352",
+            "InterventionMeshTerm": "Fludarabine"
+          },
+          {
+            "InterventionMeshId": "D000003524",
+            "InterventionMeshTerm": "Cyclosporins"
+          },
+          {
+            "InterventionMeshId": "D000000961",
+            "InterventionMeshTerm": "Antilymphocyte Serum"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000007166",
+            "InterventionAncestorTerm": "Immunosuppressive Agents"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018906",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+          },
+          {
+            "InterventionAncestorId": "D000000477",
+            "InterventionAncestorTerm": "Alkylating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000019653",
+            "InterventionAncestorTerm": "Myeloablative Agonists"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000000935",
+            "InterventionAncestorTerm": "Antifungal Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          },
+          {
+            "InterventionAncestorId": "D000003879",
+            "InterventionAncestorTerm": "Dermatologic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000065095",
+            "InterventionAncestorTerm": "Calcineurin Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000000903",
+            "InterventionAncestorTerm": "Antibiotics, Antineoplastic"
+          },
+          {
+            "InterventionAncestorId": "D000000904",
+            "InterventionAncestorTerm": "Antibiotics, Antitubercular"
+          },
+          {
+            "InterventionAncestorId": "D000000995",
+            "InterventionAncestorTerm": "Antitubercular Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000900",
+            "InterventionAncestorTerm": "Anti-Bacterial Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M5879",
+            "InterventionBrowseLeafName": "Cyclophosphamide",
+            "InterventionBrowseLeafAsFound": "Months",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3431",
+            "InterventionBrowseLeafName": "Antilymphocyte Serum",
+            "InterventionBrowseLeafAsFound": "Exposed",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M11280",
+            "InterventionBrowseLeafName": "Mycophenolic Acid",
+            "InterventionBrowseLeafAsFound": "Plasma",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M18113",
+            "InterventionBrowseLeafName": "Cyclosporine",
+            "InterventionBrowseLeafAsFound": "2 weeks",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M5882",
+            "InterventionBrowseLeafName": "Cyclosporins",
+            "InterventionBrowseLeafAsFound": "2 weeks",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M283219",
+            "InterventionBrowseLeafName": "Fludarabine",
+            "InterventionBrowseLeafAsFound": "Medical",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M225481",
+            "InterventionBrowseLeafName": "Fludarabine phosphate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M4006",
+            "InterventionBrowseLeafName": "Benzocaine",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9364",
+            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20095",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2972",
+            "InterventionBrowseLeafName": "Alkylating Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M5404",
+            "InterventionBrowseLeafName": "Clotrimazole",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M10948",
+            "InterventionBrowseLeafName": "Miconazole",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3406",
+            "InterventionBrowseLeafName": "Antifungal Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M6226",
+            "InterventionBrowseLeafName": "Dermatologic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M29605",
+            "InterventionBrowseLeafName": "Calcineurin Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3374",
+            "InterventionBrowseLeafName": "Anti-Bacterial Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3376",
+            "InterventionBrowseLeafName": "Antibiotics, Antitubercular",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3463",
+            "InterventionBrowseLeafName": "Antitubercular Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "T433",
+            "InterventionBrowseLeafName": "Tannic Acid",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Derm",
+            "InterventionBrowseBranchName": "Dermatologic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "CNSDep",
+            "InterventionBrowseBranchName": "Central Nervous System Depressants"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Ot",
+            "InterventionBrowseBranchName": "Other Dietary Supplements"
+          }
+        ]
+      }
+    }
+  }
+}

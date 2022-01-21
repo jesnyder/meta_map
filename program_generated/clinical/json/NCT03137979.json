@@ -1,0 +1,413 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03137979",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "17277787D-PD"
+      },
+      "Organization": {
+        "OrgFullName": "Hebei Medical University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Gingiva Mesenchymal Stem Cells Treatment of Chronic Periodontitis",
+      "OfficialTitle": "The Safety and Efficacy Evaluation of Gingiva Mesenchymal Stem Cells Transplantation in Chronic Periodontitis Patients"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2017",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 2017"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2018",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2019",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 24, 2017",
+      "StudyFirstSubmitQCDate": "April 28, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 3, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "April 28, 2017",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 3, 2017",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Quanhai Li",
+        "ResponsiblePartyInvestigatorTitle": "Director of Cell Thearpy Center, the First Hospital of HebeiMU",
+        "ResponsiblePartyInvestigatorAffiliation": "Hebei Medical University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Hebei Medical University",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study is to evaluate the safety and efficacy of Gingiva Mesenchymal Stem Cell Therapy for Chronic Adult Periodontitis.",
+      "DetailedDescription": "Periodontitis featured by the progressive destruction loss of support tissues around the teeth has become a prevalent disease affecting the life quality of the adults. Although conventional periodontal treatment including open flap debridement and drug support therapy display reduced pocket depth and inflammation, the functional regeneration of the lost tissue and the repair of alveolar bone are insufficient. Gingiva mesenchymal stem cells (GMSCs) are multipotent cells possess the capacity of multilineage differentiation and have become an attractive optional treatment method for the regeneration of periodontal tissues and function. Therefore, GMSCs will be selected as seed cells to treat periodontitis. This study will recruit 30 patients which will be divided into three groups. 10 patients in group A will receive GMSCs seeded into collagen scaffolds at the local periodontal defects immediately after open flap debridement. 10 patients in group B will only receive collagen scaffolds devoid of GMSCs after open flap debridement. 10 patients in group C will only undergo an open flap debridement. This study will test the safety and efficacy of GMSCs implantation in chronic adult periodontitis through alveolous bone reproduction and other clinical parameters."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Periodontitis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Periodontitis",
+          "Gingiva mesenchymal stem cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Group A: GMSCs and collagen scaffolds",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients in group A will receive GMSCs seeded into collagen scaffolds at the local periodontal defects immediately after open flap debridement.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: GMSCs and collagen scaffolds"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group B: collagen scaffolds",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients in group B will receive collagen scaffolds implantation at the local periodontal defects immediately after open flap debridement.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Collagen scaffolds"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group C: comparator",
+            "ArmGroupType": "Other",
+            "ArmGroupDescription": "Patients in comparator group will only undergo an open flap debridement.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Open flap debridement"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "GMSCs and collagen scaffolds",
+            "InterventionDescription": "Patients in this group were given GMSCs and collagen scaffolds.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group A: GMSCs and collagen scaffolds"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Collagen scaffolds",
+            "InterventionDescription": "Patients in this group were given collagen scaffolds.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group B: collagen scaffolds"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Open flap debridement",
+            "InterventionDescription": "The patients in this group will only receive the treatment of open flap debridement.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group C: comparator"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "The evaluation of alveolar bone regeneration",
+            "PrimaryOutcomeDescription": "A increase in the height of alveolar bone in mm examined by computed tomography (CT)",
+            "PrimaryOutcomeTimeFrame": "Baseline and Post cell transplantation: 1,3, 6months after intervention"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Probing pocket depth (PPD)",
+            "SecondaryOutcomeDescription": "A reduced distance in mm between the gingival margin and the bottom was measured by a manual periodontal probe.",
+            "SecondaryOutcomeTimeFrame": "Baseline and Post cell transplantation: 3, 6 months after intervention."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Attachment level (AL)",
+            "SecondaryOutcomeDescription": "A reduced distance in mm from the bottom of the periodontal pocket to the dentinocemental junction was examined by a manual probe.",
+            "SecondaryOutcomeTimeFrame": "Baseline and Post cell transplantation: 3, 6 months after intervention."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Gingival index (GI)",
+            "SecondaryOutcomeDescription": "A decreased degree of GI measured by a manual periodontal probe which was divided into 4 grades: 0, 1, 2 and 3.",
+            "SecondaryOutcomeTimeFrame": "Baseline and Post cell transplantation: 3, 6 months after intervention."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Tooth mobility degree (TMD)",
+            "SecondaryOutcomeDescription": "A decrease of periotest value was measured by periotest to evaluate the tooth mobility changes.",
+            "SecondaryOutcomeTimeFrame": "Baseline and Post cell transplantation: 1,3, 6months after intervention"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Adverse reaction",
+            "OtherOutcomeDescription": "Adverse reaction include temperature changes, allergy, nausea and so on 6 months after intervention.",
+            "OtherOutcomeTimeFrame": "Post cell transplantation: 1, 3, 6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with adult periodontitis .\nThe age is from 35 to 60 years old.\nThe bleeding and coagulation function is normal.\nThe liver function is normal.\nPatients who are suitable for routine treatment of periodontal curettage and other early treatments.\nPathological lesion is stable after the routine treatments.\nPatients with the probing depth ≥6 mm and attachment loss level≥ 3 mm.\nX ray plates show no significant root furcation lesion appears in the diseased teeth and the infrabony pocket is not less than 4mm deep.\nPatients with good oral hygiene and/or in whom the plaque control is maintained excellently under the instruction of oral hygiene.\nPatients who show good compliance.\nPatients with tooth mobility of degreeⅡor less and the width of attached gingiva is considered appropriate for the existing Guided Tissue Regeneration (GTR) .\nPatients who have understand the purposes of this clinical trial and can make an independent decision to comply with trial requirements.\n\nExclusion Criteria:\n\nPatients with disease of the kidney, liver, blood and/or circulatory system.\nPatients with diabetes (the fasting plasma glucose level≥7.0mmol/l).\nPatients who are receiving treatment of hypertension and/or epilepsy.\nPatients with malignant tumour or the history of this.\nPatients with the genetic background of the periodontitis.\nPatients with bone metabolic diseases.\nPatients in need of administration of adrenal cortical steroid within 4 weeks.\nPatients with alcoholics.\nPatients who smoke more than 10 pieces of cigarettes.\nPatients who suffer from drug induced gingival hyperplasia.\nPatients with acute symptom of periodontitis.\nThe bone destruction is larger than 2/3 of the root length or the mobility tooth is investigated of more than degree Ⅱ.\nPatients who are either pregnant, possibly pregnant or breast-feeding, or who hope to become pregnant during the period of the trial.\nPatients who are participating in in other research team of clinical trial.\nPatients with mental or consciousness disorder.\nPatients with a previous history of hypersensitivity to any biological active drugs.\nPatients who have undergo periodontal treatment within six months.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "35 Years",
+      "MaximumAge": "60 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Quanhai Li, Doctor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "86-311-85917287",
+            "CentralContactEMail": "liquanh2@163.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Baoyong Yan, Doctor",
+            "OverallOfficialAffiliation": "Hebei Medical University",
+            "OverallOfficialRole": "Study Chair"
+          },
+          {
+            "OverallOfficialName": "Guangshun Liu, Master",
+            "OverallOfficialAffiliation": "The First Hospital of Hebei Medical University",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Quanhai Li, Doctor",
+            "OverallOfficialAffiliation": "The First Hospital of Hebei Medical University",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Xianyun Wang, Doctor",
+            "OverallOfficialAffiliation": "The First Hospital of Hebei Medical University",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Jinhong Zhang, Master",
+            "OverallOfficialAffiliation": "The First Hospital of Hebei Medical University",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Yao Wang, Bachelor",
+            "OverallOfficialAffiliation": "the First Hospital of Hebei Medical UniversityT",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Jun Zhang, Master",
+            "OverallOfficialAffiliation": "The First Hospital of Hebei Medical University",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Xiangwei Ren, Master",
+            "OverallOfficialAffiliation": "The First Hospital of Hebei Medical University",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Qianfeng Liu, Bachelor",
+            "OverallOfficialAffiliation": "The First Hospital of Hebei Medical University",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Yongbin Di, Master",
+            "OverallOfficialAffiliation": "The First Hospital of Hebei Medical University",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Boyu Liu, Bachelor",
+            "OverallOfficialAffiliation": "The First Hospital of Hebei Medical University",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Fan Zhang, Bachelor",
+            "OverallOfficialAffiliation": "The First Hospital of Hebei Medical University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "the First Hospital of Hebei Medical University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Shijiazhuang",
+            "LocationState": "Hebei",
+            "LocationZip": "050030",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Xianyun Wang, Doctor",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "86-311-85917384",
+                  "LocationContactEMail": "wangxianyun_mbb@126.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010518",
+            "ConditionMeshTerm": "Periodontitis"
+          },
+          {
+            "ConditionMeshId": "D000055113",
+            "ConditionMeshTerm": "Chronic Periodontitis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010510",
+            "ConditionAncestorTerm": "Periodontal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009059",
+            "ConditionAncestorTerm": "Mouth Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009057",
+            "ConditionAncestorTerm": "Stomatognathic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12579",
+            "ConditionBrowseLeafName": "Periodontitis",
+            "ConditionBrowseLeafAsFound": "Periodontitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27197",
+            "ConditionBrowseLeafName": "Chronic Periodontitis",
+            "ConditionBrowseLeafAsFound": "Chronic Periodontitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M12571",
+            "ConditionBrowseLeafName": "Periodontal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11171",
+            "ConditionBrowseLeafName": "Mouth Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11169",
+            "ConditionBrowseLeafName": "Stomatognathic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC07",
+            "ConditionBrowseBranchName": "Mouth and Tooth Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

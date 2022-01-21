@@ -1,0 +1,376 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03032913",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CHUBX 2015/26"
+      },
+      "Organization": {
+        "OrgFullName": "University Hospital, Bordeaux",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Diagnostic Accuracy of Circulating Tumor Cells (CTCs) and Onco-exosome Quantification in the Diagnosis of Pancreatic Cancer - PANC-CTC",
+      "OfficialTitle": "Diagnostic Accuracy of Circulating Tumor Cells (CTCs) and Onco-exosome Quantification in the Diagnosis of Pancreatic Cancer - PANC-CTC",
+      "Acronym": "PANC-CTC"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2018",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 15, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 13, 2017",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 13, 2017",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "December 23, 2016",
+      "StudyFirstSubmitQCDate": "January 24, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 26, 2017",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "April 9, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 10, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Hospital, Bordeaux",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The proposal aims at determining whether liquid biopsy approaches are valid in the diagnosis of pancreatic cancer. Step1 will test 3 CTC isolation methods and analyse by flow cytometry the presence of onco-exosomes in the culture media of pancreatic cell lines. Step 2 will examine the diagnostic accuracy of these blood tumor elements for the diagnosis of cancer of patients with PDAC suspicion or recent diagnosis and their value for disease monitoring.",
+      "DetailedDescription": "Pancreatic ductal adenocarcinoma (PDAC) incidence has increased with a high rate during the past few years (+4.7% per year between 2005 and 2012, source InfoCancer 2013). No cure is currently available for this deadly disease, with an overall survival <5%. Survival can reach 20% when surgery is possible, giving the best chance to the patients. If patients present locally advance disease, it is crucial to quickly establish resectability to avoid unneeded and even deleterious surgery in patients with metastatic stages. It is also important to increase the rate of true R0 resection with effective preoperative therapy. However, when the cancer is suspected, neoadjuvant chemotherapies are often delayed because the mandatory histologic proof is difficult to make with non-informative biopsies. It is necessary to find new markers to help for rapid diagnosis that could allow neoadjuvant therapies and surgery when anatomo-pathologic proof is not available. New developments in the field of liquid biopsy hold great promise in providing valuable information for diagnosis assistance. The project will be run in two steps. First, several methods will be compared for tumor cell recovery after cell spiking in blood of non-cancer patients and pancreatic cell line onco-exosomes will characterized by flow cytometry. Second the best method will be used to detect and enumerate CTCs in 20 PDAC patients and 20 non-cancer patients. In parallel GPC1+ exosomes from patients' plasmas will be quantified. Diagnosis accuracy will be established and compared. Correlations between circulating tumor elements presence and clinical and biological parameters will be evaluated at the time of the diagnosis. Patient clinical outcome will be assessed according to initial circulating element quantification."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Pancreatic Ductal Adenocarcinoma (PDAC)"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Pancreas",
+          "Pancreatic",
+          "Cancer",
+          "Circulating tumor cell (CTC)",
+          "Adenocarcinoma",
+          "Ductal",
+          "Exosome"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "52",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Pancreatic ductal adenocarcinoma patients",
+            "ArmGroupDescription": "Patients with recent diagnosis of pancreatic ductal adenocarcinoma (PDAC) or with strong suspicion PDAC",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Blood samples",
+                "Procedure: Portal vein blood sample"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Non-cancer patients",
+            "ArmGroupDescription": "Patients with no Cancer",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Blood samples"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Blood samples",
+            "InterventionDescription": "Blood samples for both group",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Non-cancer patients",
+                "Pancreatic ductal adenocarcinoma patients"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Portal vein blood sample",
+            "InterventionDescription": "Portal vein blood sample during surgery procedure for the Pancreatic Ductal Adenocarcinoma group",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Pancreatic ductal adenocarcinoma patients"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Step 1: sensitivity of CTC detection with 3 methods in cell spiking experiments",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Step 2: diagnostic accuracy of the best CTC detection method and onco-exosome quantification for pancreatic adenocarcinoma diagnosis.",
+            "PrimaryOutcomeTimeFrame": "18 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Step 1: reproducibility of CTC detection with the 3 methods",
+            "SecondaryOutcomeDescription": "Estimation with bilateral confidence interval of 95%. A mixed affect linear regression will be operated to obtain this estimation.",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Step 2: correlation between CTCs presence and numbers or onco-exosome concentration with clinical and biological parameters and with patient clinical outcome",
+            "SecondaryOutcomeTimeFrame": "18 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatient with informed consent\nPatient with health care coverage\nGroup of PDAC patients: Patient with resectable lesion with suspicion or recent diagnosis of PDAC recruited in the surgery department\nGroup of non-cancer patients: Patients in the surgery department without cancer lesion, Patients with intestine inflammatory disease, Patients with gastric bypass or sleeve gastrectomy procedure\n\nExclusion Criteria:\n\nPatients <18 or under tutelage\nPatient with recent chemotherapy or radiotherapy\nPregnant or lactating woman\nPatient with negative or non-informative biopsy\nPatient with technically unserectable disease",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "20 patients with recent diagnosis of Pancreatic Ductal Adenocarcinoma and 20 patients with no cancer",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Etienne BUSCAIL",
+            "OverallOfficialAffiliation": "University Hospital, Bordeaux",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Chu de Bordeaux",
+            "LocationCity": "Bordeaux",
+            "LocationCountry": "France"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000000230",
+            "ConditionMeshTerm": "Adenocarcinoma"
+          },
+          {
+            "ConditionMeshId": "D000009360",
+            "ConditionMeshTerm": "Neoplastic Cells, Circulating"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000002277",
+            "ConditionAncestorTerm": "Carcinoma"
+          },
+          {
+            "ConditionAncestorId": "D000009375",
+            "ConditionAncestorTerm": "Neoplasms, Glandular and Epithelial"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009362",
+            "ConditionAncestorTerm": "Neoplasm Metastasis"
+          },
+          {
+            "ConditionAncestorId": "D000009385",
+            "ConditionAncestorTerm": "Neoplastic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2737",
+            "ConditionBrowseLeafName": "Adenocarcinoma",
+            "ConditionBrowseLeafAsFound": "Adenocarcinoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M12262",
+            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11457",
+            "ConditionBrowseLeafName": "Neoplastic Cells, Circulating",
+            "ConditionBrowseLeafAsFound": "Circulating Tumor Cells",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4686",
+            "ConditionBrowseLeafName": "Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11472",
+            "ConditionBrowseLeafName": "Neoplasms, Glandular and Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11459",
+            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11482",
+            "ConditionBrowseLeafName": "Neoplastic Processes",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4387",
+            "ConditionBrowseLeafName": "Pancreatic Cancer",
+            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21707",
+            "InterventionBrowseLeafName": "Pancrelipase",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M12266",
+            "InterventionBrowseLeafName": "Pancreatin",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Gast",
+            "InterventionBrowseBranchName": "Gastrointestinal Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

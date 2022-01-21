@@ -1,0 +1,418 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03609905",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "lcsrmyy-yp1"
+      },
+      "Organization": {
+        "OrgFullName": "Liaocheng People's Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Adipose Mesenchymal Stem Cells (AMSC) for Treatment of Ulcerative Colitis",
+      "OfficialTitle": "A Phase I/II Randomized, Controlled, Clinical Trial for Assessment of the Safety and Efficacy of Allogeneic Adipose Mesenchymal Stem Cells in Moderate to Severe Ulcerative Colitis Patients",
+      "Acronym": "AMSC_UC"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 1, 2018",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 1, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 1, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 1, 2018",
+      "StudyFirstSubmitQCDate": "July 30, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 1, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 31, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 2, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "peng yan",
+        "ResponsiblePartyInvestigatorTitle": "Chief of gastroenterology",
+        "ResponsiblePartyInvestigatorAffiliation": "Liaocheng People's Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Liaocheng People's Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Ulcerative colitis is a form of inflammatory bowel disease characterized by diffuse inflammation of the colonic mucosa. It affects the rectum and extends proximally along a variable length of the colon. Ulcerative colitis is a chronic condition with a relapsing remitting course. Mesenchymal stem cells (MSCs) are a subset of adult stem cells residing in many tissues, including bone marrow (BM), adipose tissue, umbilical cord blood. Recent experimental findings have shown the ability of MSCs to home to damaged tissues and to produce paracrine factors with anti-inflammatory properties, potentially resulting in reduction of inflammation and functional recovery of the damaged tissues. The purpose of our study is to evaluate safety and efficacy of the intracolonic injection by using a colonoscope of allogeneic adipose MSCs in patients with moderate active ulcerative colitis."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Ulcerative Colitis (UC)"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "ulcerative colitis (UC)",
+          "mesenchymal stem cells(MSC)"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "50",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Intervention group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "interventions: The MSCs of 5×10*7 will be given in different sites within colonic submucosa at a total 100 ml with the use of the colonoscope. Once every week，a total of two times. Conventional drug therapy (5-amino-salicylic acid or glucocorticoid) is used",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Adipose-cord mesenchymal stromal cells (A-MSCs)",
+                "Other: Conventional drugs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "Other",
+            "ArmGroupDescription": "interventions:Conventional drug therapy (5-amino-salicylic acid or glucocorticoid) is used",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Conventional drugs"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Adipose-cord mesenchymal stromal cells (A-MSCs)",
+            "InterventionDescription": "A-MSCs 5 x 10~7 diluted on 100 mL of normal saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Intervention group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Conventional drugs",
+            "InterventionDescription": "5-amino-salicylic acid or glucocorticoid",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group",
+                "Intervention group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change From Baseline in Endoscopic Score (as Measured by Ulcerative Colitis Endoscopic Index of Severity)",
+            "PrimaryOutcomeDescription": "Ulcerative Colitis Endoscopic Index of Severity (UCEIS) is defined as Ulcerative Colitis Endoscopic Index of Severity, with higher scores indicating more severe disease",
+            "PrimaryOutcomeTimeFrame": "Baseline, 8 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change from Baseline in clinical response (CDAI points)",
+            "SecondaryOutcomeDescription": "CDAI is defined as Clinical Disease Activity Index",
+            "SecondaryOutcomeTimeFrame": "Baseline, 8 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "To evaluate the quality of life index, Short Inflammatory Bowel Disease Questionnaire (SIBDQ)",
+            "SecondaryOutcomeDescription": "The Short Inflammatory Bowel Disease Questionnaire (SIBDQ) is a health-related quality of life (HRQoL) tool measuring physical, social, and emotional status. It includes 10-item form of questions. Each question is scored on a Likert scale from 1 (worst) to 7 (best), scores from each item are summed to produce a total score, increased more than 3 scores were considered remission.",
+            "SecondaryOutcomeTimeFrame": "Baseline, 8 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Histologic Evaluation of Ulcerative Colitis",
+            "SecondaryOutcomeDescription": "A 10 to 20 centimeter (cm) biopsy sample of inflamed mucosal tissue was taken from the worst affected area and scored using the Riley Index. The Riley Index is a histologic scoring system for the assessment of the activity and severity of ulcerative colitis, ranging from 0 to 24. It consists of 6 histologic features (acute inflammatory cell infiltrate, crypt abscesses, mucin depletion, surface epithelial integrity, chronic inflammatory cell infiltrate, and crypt architectural irregularities), all scored on a 4-point scale (higher scores indicate more severe disease).",
+            "SecondaryOutcomeTimeFrame": "Baseline, 8 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Immune response in ulcerative colitis.",
+            "SecondaryOutcomeDescription": "A number of soluble mediators are detected, including proinflammatory cytokines (TNF, IFN-γ, IL-6.) and anti-inflammatory cytokines (IL-10, IL-4.).",
+            "SecondaryOutcomeTimeFrame": "Baseline, 1, 4, 8 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of Treatment Adverse.",
+            "SecondaryOutcomeDescription": "An AE was any untoward medical occurrence in a participant",
+            "SecondaryOutcomeTimeFrame": "Baseline, 1, 4, 8 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female, 18-65 years old\nDiagnosis of ulcerative colitis diagnosed at least 6 months earlier\nModerate or severe activity defined by a Mayo score\nNo serious infection, chronic diseases, diabetes and tuberculosis\nUnefficient by using 5-ASA, glucocorticoid or azathioprine\nWritten informed consents were obtained from all subjects\nCapable of good communication with researchers and follow the entire test requirements\nNegative pregnancy test for women of childbearing potential (from menarche to menopause)\n\nExclusion Criteria:\n\nPregnant or breastfeeding women or cognitively impaired adults\nHistory of malignant disease\nInfectious colitis\nPatients with known allergies to culture medium\nPatients having participated in clinical trials with any investigational drug within 1 month prior to enrolment in this study\nPatients with suspicion of Crohn's enterocolitis, indeterminate colitis, ischaemic colitis, radiation colitis, diverticular disease associated colitis, or microscopic colitis\nPatients with previous colectomy\nPositive to one or more of the infectious disease panel\nTreatment with surgery or biological treatment (infliximab or adamizumab) or Cyclosporine or tacrolimus or mycophenolate in the 8 weeks prior to inclusion in the study\nPresence of severe concomitant diseases\nPatients with clostridium difficult or cytomegalovirus infection",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Shaoda Ren, Ph.D.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "86-0635-8272202",
+            "CentralContactEMail": "zslrsd@163.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Peng Yan, MD",
+            "OverallOfficialAffiliation": "Liaocheng People's Hospital",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Liaocheng city people's hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Liaocheng",
+            "LocationState": "Shandong",
+            "LocationZip": "0635",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Shaoda Ren",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "86-0635-8272202",
+                  "LocationContactEMail": "zslrsd@163.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003092",
+            "ConditionMeshTerm": "Colitis"
+          },
+          {
+            "ConditionMeshId": "D000003093",
+            "ConditionMeshTerm": "Colitis, Ulcerative"
+          },
+          {
+            "ConditionMeshId": "D000014456",
+            "ConditionMeshTerm": "Ulcer"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000005759",
+            "ConditionAncestorTerm": "Gastroenteritis"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003108",
+            "ConditionAncestorTerm": "Colonic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007410",
+            "ConditionAncestorTerm": "Intestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000015212",
+            "ConditionAncestorTerm": "Inflammatory Bowel Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M16358",
+            "ConditionBrowseLeafName": "Ulcer",
+            "ConditionBrowseLeafAsFound": "Ulcerative",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5472",
+            "ConditionBrowseLeafName": "Colitis",
+            "ConditionBrowseLeafAsFound": "Colitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5473",
+            "ConditionBrowseLeafName": "Colitis, Ulcerative",
+            "ConditionBrowseLeafAsFound": "Ulcerative Colitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8027",
+            "ConditionBrowseLeafName": "Gastroenteritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5488",
+            "ConditionBrowseLeafName": "Colonic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9596",
+            "ConditionBrowseLeafName": "Intestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17069",
+            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M8199",
+            "InterventionBrowseLeafName": "Glucocorticoids",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21142",
+            "InterventionBrowseLeafName": "Salicylic Acid",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "T120",
+            "InterventionBrowseLeafName": "Cola",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Derm",
+            "InterventionBrowseBranchName": "Dermatologic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "HB",
+            "InterventionBrowseBranchName": "Herbal and Botanical"
+          }
+        ]
+      }
+    }
+  }
+}

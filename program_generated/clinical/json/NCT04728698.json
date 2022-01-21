@@ -1,0 +1,386 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04728698",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MSC-COV-201"
+      },
+      "Organization": {
+        "OrgFullName": "Sorrento Therapeutics, Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Study of Intravenous Administration of Allogeneic Adipose-Derived Mesenchymal Stem Cells for COVID-19-Induced Acute Respiratory Distress",
+      "OfficialTitle": "Treatment of COVID-19-Induced Acute Respiratory Distress: A Phase 2 Study of Intravenous Administration of Allogeneic Adipose-Derived Mesenchymal Stem Cells"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2021",
+      "OverallStatus": "Withdrawn",
+      "WhyStopped": "Replaced by a different protocol.",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 26, 2021",
+      "StudyFirstSubmitQCDate": "January 26, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 28, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 14, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 16, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Sorrento Therapeutics, Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a Phase 2, randomized controlled, multicenter study to assess the safety and efficacy of COVI-MSC in the setting of current standard of care (SOC) treatments for COVID-19 infection in hospitalized subjects with ARD/ARDS."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Covid19",
+          "ARDS"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "covid-19",
+          "ARDS"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "0",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "COVI-MSC",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Allogeneic culture-expanded adipose-derived mesenchymal stem cells (MSCs)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: COVI-MSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Excipient",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "COVI-MSC",
+            "InterventionDescription": "1 x 10^6 MSCs/kg or 1.5 x 10^6 MSCs/kg, depending on CRP level",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "COVI-MSC"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Equivalent volume of placebo will be administered",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Mortality at Day 28",
+            "PrimaryOutcomeDescription": "All-cause mortality at Day 28",
+            "PrimaryOutcomeTimeFrame": "Randomization through Day 28"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Mortality at Days 60 and 90",
+            "SecondaryOutcomeDescription": "All-cause mortality at Days 60 and 90",
+            "SecondaryOutcomeTimeFrame": "Randomization through Day 60 and Day 90"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of ventilator-free days",
+            "SecondaryOutcomeDescription": "Number of ventilator-free days through Day 28",
+            "SecondaryOutcomeTimeFrame": "Randomization through Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Improvement in oxygenation",
+            "SecondaryOutcomeDescription": "Improvement in oxygenation at Day 2, 4, 6, 14, and 28 compared to Baseline, as assessed by PaO2/FiO2",
+            "SecondaryOutcomeTimeFrame": "Randomization to Day 2, Day 4, Day 6, Day 14, Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "SOFA score at Day 28",
+            "SecondaryOutcomeDescription": "SOFA score at Day 28 compared to Baseline",
+            "SecondaryOutcomeTimeFrame": "Randomization to Day 28"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nProvides informed consent\nHas laboratory-confirmed SARS-CoV-2 infection as determined by polymerase chain reaction (PCR) or other commercial or public health assay in any specimen\n3. Is hospitalized with COVID-19-induced ARD or ARDS (any severity) with a PaO2/FiO2 ≤300. The PaO2/FiO2 may be estimated from pulse oximetry or determined by arterial blood gas\nRequires oxygen supplementation at screening\nIs willing to follow contraception requirements\n\nExclusion Criteria:\n\nCurrent standard of care treatments for COVID-19 appear to be working and the subject is clinically improving\nA previous MSC infusion unrelated to this trial\n\nHave any of the following medical conditions:\n\nCardio-pulmonary resuscitation within 14 days of randomization\nUncontrolled or untreated symptomatic arrhythmias. Exception: Subjects with controlled, asymptomatic atrial fibrillation during screening may enroll\nMyocardial infarction within the last 6 weeks\nCongestive heart failure (NYHA Grade 3 or 4)\nPulmonary hypertension (WHO Class III/IV)\nCurrently receiving extracorporeal life support or membrane oxygenation (ECLS/ECMO)\nAlanine aminotransferase (ALT) ≥ 5x upper limit of normal (ULN)\nRelevant renal impairment (eGFR < 50 mL/min)\nAny significant medical condition, laboratory abnormality or psychiatric illness that in the investigator's opinion would interfere or prevent the subject from safely participating in the study\nPregnant or breast feeding or planning for either during the study\nSuspected uncontrolled active bacterial, fungal, viral, or other infection (aside from infection with COVID-19)\nHistory of a splenectomy, lung transplant or lung lobectomy;\nConcurrent participation in another clinical trial involving therapeutic interventions (observational study participation is acceptable).\nExpected survival or time to withdrawal of life-sustaining treatments expected to be < 7 days.\nDo Not Intubate order;\nHome mechanical ventilation (noninvasive ventilation or via tracheotomy) except for continuous positive airway pressure or bi-level positive airway pressure (CPAP/BIPAP) used solely for sleep-disordered breathing",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Mike Royal, MD",
+            "OverallOfficialAffiliation": "Sorrento Therapeutics",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Fresno Community Hospital",
+            "LocationCity": "Fresno",
+            "LocationState": "California",
+            "LocationZip": "93710",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

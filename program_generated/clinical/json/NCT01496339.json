@@ -1,0 +1,385 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01496339",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "SEB-1213-T1DM"
+      },
+      "Organization": {
+        "OrgFullName": "S-Evans Biosciences Co., Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Human Menstrual Blood-derived Mesenchymal Stem Cells Transplantation in Treating Type 1 Diabetic Patients",
+      "OfficialTitle": "Phase 1/2 Clinical Study of MenSCs Infusion in Type 1 Diabetes"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2012",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 2012"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2013",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "May 2014",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 18, 2011",
+      "StudyFirstSubmitQCDate": "December 18, 2011",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 21, 2011",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "June 6, 2012",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 7, 2012",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "S-Evans Biosciences Co., Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Zhejiang University",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Wenzhou Medical University",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Zhenjiang First People's Hospital",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to investigate whether the treatment of human menstrual blood-derived mesenchymal stem cells which would be applied to diabetes patients is safe and effective.",
+      "DetailedDescription": "Diabetes mellitus is chronic metabolic diease caused by absent or rejection insulin from pancreatic b cells.The traditional treatment strategies for diabetes are daily injections with insulin and transplantation of islets from cadaver. However, daily injuection is very inconvenient and there is a shortage of organs and life long immunosuppression. Therefore, such therapy can be offered to a very limited number of patients only. MSC-based therapeutic intervention has become an emerging strategy for the replacement of injured tissues. MSCs also have been noted to possess immunomodulatory effects in vivo. Thus, their potential for clinical use as a cell-based therapy should be focused and observation."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Type 1 Diabetes Mellitus"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "50",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Traditional therapy control",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: exogenous indulin injection daily"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Stem cell infusion",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: MenSCs transplantation"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "MenSCs transplantation",
+            "InterventionDescription": "1×10^6/kg MenSCs are infused through pancreatic artery or intravenous infusion once a week by the 4 consecutive therapies.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Stem cell infusion"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "exogenous indulin injection daily",
+            "InterventionDescription": "traditional therapy, such as insulin injection daily, monitoring random and postprandial blood glucose.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Traditional therapy control"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Glycosylated hemoglobin (HbA1c)",
+            "PrimaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "The acute reaction and severity of adverse events related to the stem cell infusion procedure",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of severe and documented hypoglycemic events",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "C-peptide release test",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The reduction in fasting blood glucose (FBG)",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The increase in basal C-peptide",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The postprandial blood glucose",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The random glucose level",
+            "SecondaryOutcomeTimeFrame": "2 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nmale and female patients at the age of 18 to 75.\nagreement to receive written informed consent.\nvoluntary submission to the procedures of the study protocol.\nclinical diagnosis is classified to type 1 diabetes(T1DM).\nT1DM duration ≥ 1 and ≤ 20 years from the time of enrollment.\n\nExclusion Criteria:\n\nrenal dysfunction, eye disease or other organ disease.\ncardiovascular disease, existing congestive cardiac failure on physical exam and/or acute coronary syndrome in past 6 months.\npregnancy\nmental disorders\nhepatitis C, HIV, RPR,active tuberculosis or blood diseases\nany malignancy\nany other severe diseases that could potentially influence the infusion results",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Charlie Xiang, Professor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "86-571-87236436",
+            "CentralContactEMail": "cxiang@zju.edu.cn"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Charile Xiang, Professor",
+            "OverallOfficialAffiliation": "S-Evans Biosicences Co.,Ltd",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "The First Affiliated Hospital of Zhejiang University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Hangzhou",
+            "LocationState": "Zhejiang",
+            "LocationZip": "310003",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Chengjiang Li, MD",
+                  "LocationContactRole": "Contact"
+                },
+                {
+                  "LocationContactName": "Charlie Xiang, Professor",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003922",
+            "ConditionMeshTerm": "Diabetes Mellitus, Type 1"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000003920",
+            "ConditionAncestorTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionAncestorId": "D000044882",
+            "ConditionAncestorTerm": "Glucose Metabolism Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6269",
+            "ConditionBrowseLeafName": "Diabetes Mellitus, Type 1",
+            "ConditionBrowseLeafAsFound": "Type 1 Diabetes",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24556",
+            "ConditionBrowseLeafName": "Glucose Metabolism Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9517",
+            "InterventionBrowseLeafName": "Insulin",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M172956",
+            "InterventionBrowseLeafName": "Insulin, Globin Zinc",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Hypo",
+            "InterventionBrowseBranchName": "Hypoglycemic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

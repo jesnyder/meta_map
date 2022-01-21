@@ -1,0 +1,404 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04352803",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "COVID-MSCIV"
+      },
+      "Organization": {
+        "OrgFullName": "Regeneris Medical",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Adipose Mesenchymal Cells for Abatement of SARS-CoV-2 Respiratory Compromise in COVID-19 Disease",
+      "OfficialTitle": "IV Infusion of Autologous Adipose Derived Mesenchymal Cells for Abatement of Respiratory Compromise in SARS-CoV-2 Pandemic (COVID-19)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2020",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 2020",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 2024",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 2026",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 16, 2020",
+      "StudyFirstSubmitQCDate": "April 17, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 20, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "April 17, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 21, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Regeneris Medical",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The aim of this study is to evaluate the safety and efficacy of autologous adipose-derived mesenchymal cells for treating confirmed or suspected patients with SARS-CoV-2 and compromised respiratory function requiring hospitalization.\n\nThe hypothesis of the Study is autologous adipose-derived mesenchymal cells given IV to eligible patients will improve clinical outcomes of COVID 19 positive patients with severe pneumonia or ARDS by reducing or avoiding cytokine storm.",
+      "DetailedDescription": "While most patients with SARS-CoV-2 present with mild respiratory disease with the most common symptoms of fever and cough, approximately 14 % progress to severe pneumonia and ARDS.\n\nThe overall mortality rate is 2% but varies by country and age of the patient.\n\nIn COVID-19 ARDS standard supportive care and treatment for underlying illnesses remain the mainstay with limited success.\n\nNumerous antiviral medications including remdesivir, lopinavir-ritonavir or lopinavir-ritonavir and interferon Beta-1a are in clinical trials but safety and efficacy remain unclear.\n\nInflammation associated with a cytokine storm begins at a local site and spreads throughout the body via systemic circulation. The lungs and other organs are damaged with progressive inflammation.\n\nMesenchymal cells offer the potential to treat viral infection both directly and through reducing the immune response. MSCs play a role as an immunomodulator, which is safe and effective as demonstrated in numerous clinical trials.\n\nMesenchymal cells are a potential privileged cell-based therapy in SARS-CoV-2. MSCs derived extracellular vesicles have demonstrated comparable and sometimes more effective effects in ameliorating lung inflammation and injury."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Covid-19 Pneumonia",
+          "Cyotokine Storm"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Coronavirus",
+          "SARS-CoV-2",
+          "ARDS",
+          "Pandemic"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignInterventionModelDescription": "This is an Interventional, Prospective, Open label (Voluntary Assignment), single to multiple center expansion, unmatched controlled, Sequentially Interim analysis tested Trial",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "20",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Autologous Adipose Derived Mesenchymal Cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Conventional treatment plus MSC's IV",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous Adipose MSC's"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Untreated",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "Conventional treatment only"
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Autologous Adipose MSC's",
+            "InterventionDescription": "Autologous Adipose Derived Mesenchymal Cells 500,000/kg IV",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Autologous Adipose Derived Mesenchymal Cells"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety - Incidence of unexpected adverse events",
+            "PrimaryOutcomeDescription": "Incidence of unexpected adverse events within 28 days following IV administration of MSCs.",
+            "PrimaryOutcomeTimeFrame": "up to 28 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Efficacy - Frequency of progression to mechanical ventilation",
+            "PrimaryOutcomeDescription": "Changes in progression or rate of subjects progressing to mechanical ventilation",
+            "PrimaryOutcomeTimeFrame": "up to 28 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Efficacy - Changes in length of mechanical ventilation",
+            "PrimaryOutcomeDescription": "Changes in time subjects remain on mechanical ventilation",
+            "PrimaryOutcomeTimeFrame": "up to 28 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Efficacy - Changes in length of weaning of mechanical ventilation",
+            "PrimaryOutcomeDescription": "Changes in length of time subjects wean off of mechanical ventilation",
+            "PrimaryOutcomeTimeFrame": "up to 28 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Efficacy - Changes in length of hospital stay",
+            "PrimaryOutcomeDescription": "Length of Hospital Stay",
+            "PrimaryOutcomeTimeFrame": "up to 28 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Efficacy - Changes in mortality rate",
+            "PrimaryOutcomeDescription": "Mortality rate from all causes",
+            "PrimaryOutcomeTimeFrame": "up to 28 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female patients ≥ 18 years of and less than 90\nCOVID 19 diagnosis confirmed\nAbility to give informed consent\nHospitalized\n\nExclusion Criteria:\n\nMild Illness\n\nPatients with uncomplicated upper respiratory tract viral infection, may have non-specific symptoms such as fever, fatigue, cough (with or without sputum production), anorexia, malaise, muscle pain, sore throat, dyspnea, nasal congestion, or headache. Rarely, patients may also present with diarrhea, nausea and vomiting.\nThe elderly and immunosuppressed candidates may present with atypical symptoms. Symptoms due to physiologic adaptations of pregnancy or adverse pregnancy events, such as e.g. dyspnea, fever, GI-symptoms or fatigue, may overlap with COVID-19 symptoms. Still, they will be excluded, unless they progress to Inclusion Criteria within 72 hours from recruitment.\n\nPneumonia (uncomplicated):\n\na. Adults with pneumonia but no signs of severe pneumonia AND NO need for supplemental oxygen\n\nReported pregnant or positive pregnancy test\nOther chronic respiratory disorders such as COPD, emphysema, lung cancer, or cystic fibrosis\nBMI lower than 21\nSkinfold test < 3 cm at harvest area\nPatients with Do-Not-Resuscitate orders that limit mechanical ventilation assistance in place at hospital admission\nMales and females < 18 years of age\nPatients who are currently breastfeeding\nCo-Infection of HIV, tuberculosis, influenza virus, adenovirus and other respiratory infection viruses.\nHistory of systemic malignant neoplasms within the last 5 years.\nSubject is in the opinion of the Investigator or designee, unable to comply with the requirements of the study protocol or is unsuitable for the study for any reason\nParticipating in another clinical research study\nHistory of Bleeding disorder which in PI's opinion would render the patient unsuitable for the study\nPT (plasma) < 9 or >11.6 seconds and in the opinion of the PI and attending physician that lipoaspiration would be contraindicated. May be eligible for re-screening if coagulopathy improves within 72 hours of consent\nPTT < 23 or >32 seconds and in the opinion of the PI and attending physician that lipoaspiration would be contraindicated. May be eligible for re-screening if coagulopathy improves within 72 hours of consent\nPlatelets count less than 70,0000\nHistory of DVT",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "90 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Ryan Welter, MD PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "(508) 576-8325",
+            "CentralContactEMail": "r.welter@regenerismedical.com"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "32109013",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28."
+          },
+          {
+            "ReferencePMID": "22797452",
+            "ReferenceType": "background",
+            "ReferenceCitation": "ARDS Definition Task Force, Ranieri VM, Rubenfeld GD, Thompson BT, Ferguson ND, Caldwell E, Fan E, Camporota L, Slutsky AS. Acute respiratory distress syndrome: the Berlin Definition. JAMA. 2012 Jun 20;307(23):2526-33. doi: 10.1001/jama.2012.5669."
+          },
+          {
+            "ReferencePMID": "31986261",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Chan JF, Yuan S, Kok KH, To KK, Chu H, Yang J, Xing F, Liu J, Yip CC, Poon RW, Tsoi HW, Lo SK, Chan KH, Poon VK, Chan WM, Ip JD, Cai JP, Cheng VC, Chen H, Hui CK, Yuen KY. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. 2020 Feb 15;395(10223):514-523. doi: 10.1016/S0140-6736(20)30154-9. Epub 2020 Jan 24."
+          },
+          {
+            "ReferencePMID": "32081636",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Lai CC, Shih TP, Ko WC, Tang HJ, Hsueh PR. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and coronavirus disease-2019 (COVID-19): The epidemic and the challenges. Int J Antimicrob Agents. 2020 Mar;55(3):105924. doi: 10.1016/j.ijantimicag.2020.105924. Epub 2020 Feb 17."
+          },
+          {
+            "ReferencePMID": "32031570",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585. Erratum in: JAMA. 2021 Mar 16;325(11):1113."
+          },
+          {
+            "ReferencePMID": "32192578",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall RS, Manson JJ; HLH Across Speciality Collaboration, UK. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet. 2020 Mar 28;395(10229):1033-1034. doi: 10.1016/S0140-6736(20)30628-0. Epub 2020 Mar 16."
+          },
+          {
+            "ReferencePMID": "32257537",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Leng Z, Zhu R, Hou W, Feng Y, Yang Y, Han Q, Shan G, Meng F, Du D, Wang S, Fan J, Wang W, Deng L, Shi H, Li H, Hu Z, Zhang F, Gao J, Liu H, Li X, Zhao Y, Yin K, He X, Gao Z, Wang Y, Yang B, Jin R, Stambler I, Lim LW, Su H, Moskalev A, Cano A, Chakrabarti S, Min KJ, Ellison-Hughes G, Caruso C, Jin K, Zhao RC. Transplantation of ACE2(-) Mesenchymal Stem Cells Improves the Outcome of Patients with COVID-19 Pneumonia. Aging Dis. 2020 Mar 9;11(2):216-228. doi: 10.14336/AD.2020.0228. eCollection 2020 Apr."
+          },
+          {
+            "ReferencePMID": "24704622",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Mohammadzadeh A, Pourfathollah AA, Shahrokhi S, Hashemi SM, Moradi SL, Soleimani M. Immunomodulatory effects of adipose-derived mesenchymal stem cells on the gene expression of major transcription factors of T cell subsets. Int Immunopharmacol. 2014 Jun;20(2):316-21. doi: 10.1016/j.intimp.2014.03.003. Epub 2014 Apr 3."
+          },
+          {
+            "ReferencePMID": "11304456",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Zuk PA, Zhu M, Mizuno H, Huang J, Futrell JW, Katz AJ, Benhaim P, Lorenz HP, Hedrick MH. Multilineage cells from human adipose tissue: implications for cell-based therapies. Tissue Eng. 2001 Apr;7(2):211-28."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

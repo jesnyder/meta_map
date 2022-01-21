@@ -1,0 +1,260 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03994666",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "PO19059"
+      },
+      "Organization": {
+        "OrgFullName": "CHU de Reims",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Cell Therapy in Critical Limb Ischemia",
+      "OfficialTitle": "Cell Therapy in Critical Limb Ischemia by Implantation of Allogeneic Umbilical Cord-derived Mesenchymal Stem Cells",
+      "Acronym": "CLI"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2019",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 2019",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 4, 2019",
+      "StudyFirstSubmitQCDate": "June 20, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 21, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "June 20, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 21, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "CHU de Reims",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Study drug and dosage form : Umbilical cord-derived mesenchymal stem cells (HB-MSC1)\n\nDose and route of administration : 60 × 106 cells or 120 x 106 cells to be injected as 30 individual intramuscular injections, once at V0 within 48 hours to 2 weeks maximum after the revascularization procedure.\n\nComparator, dose and route of administration : Placebo, injected as 30 individual intramuscular injections, once at V2 within 48 hours to 2 weeks maximum after the revascularization procedure.\n\nStudy centers : 3 centers in France\n\nStudy objectives :\n\nPrimary: Evaluation of the feasibility and systemic and local tolerance of an implantation, via intramuscular route, of allogenic HB-MSC1, associated with a revascularization procedure, in patients suffering from critical limb ischemia (CLI).\n\nSecondary: Preliminary evaluation of efficacy and dose effect relationship of the MSC implantation in hemodynamic, anatomical and functional terms.\n\nExploratory: Constitution of a serum bank of the patients included in the study for inflammation and auto immunity biomarkers analysis\n\nStudy design : This will be a multicenter Phase IIa study, consisting in a first, open-label, ascending dose feasibility and safety stage followed by a randomized placebo-controlled feasibility, safety and preliminary efficacy stage.",
+      "DetailedDescription": "Demographics, baseline and follow-up characteristics: descriptive statistics. Primary analysis: Descriptive statistics for the rate of patients with high grade AEs (grade 2 and more), related to the cell implantation will be computed in each arm, with its two-sided 95% CIs.\n\nEach dose arm will be compared to the control arm by computing the absolute difference and the relative risk between the active dose arm and the control arm, together with their 95% two-sided CIs.\n\nThe p-values for the comparisons of the difference between the observed absolute rate to 0 and of the relative risk to 1 will be computed, but it is not expected that the study will have sufficient power to detect a significant difference on either of the two statistics (absolute difference or relative risk).\n\nPrimary efficacy analysis: The primary efficacy criterion (TcPO2) will be compared between each dose group versus the control group to test for a superiority of MSC over control.\n\nThe tested hypotheses are:\n\nNull hypothesis: mean (MSC dose i) ≤ mean (Control)\nAlternative hypothesis: mean (MSC dose i) > mean (Control) A mixed - model for repeated measures will be used to model the evolution of TcPO2 over time. The significance of the time by treatment interaction will be used to test the two hypotheses. Model adjusted means (LS means) and their differences between treatment arms will be computed at each timepoint.\n\nThe LS-Means for change from baseline to 180 days will be used as the primary efficacy endpoint.\n\nOther efficacy analyses: the same analysis model (mixed - model for repeated measures) will be used for all the other continuous efficacy endpoints."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Critical Limb Ischemia"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "simple dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: allogeneic umbilical cord-derived mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "double dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: allogeneic umbilical cord-derived mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Placebo (NaCl)"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "allogeneic umbilical cord-derived mesenchymal stem cells",
+            "InterventionDescription": "Injection of mesenchymal stem cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "double dose",
+                "simple dose"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Placebo (NaCl)",
+            "InterventionDescription": "Placebo injection",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Incidence of treatment - emergent adverse events",
+            "PrimaryOutcomeDescription": "The primary safety endpoint will be the occurrence of any high grade AEs (grade 2 and more), either serious or not, assessed as related to the cell implantation by the investigator, reported over the 360 days of the study period.\n\nAE Intensity Definition :\n\nGrade 1 : asymptomatic or mild symptoms; clinical or diagnostic observations only; intervention not indicated ; Grade 2 : minimal, local or non-invasive intervention indicated; limiting age-appropriate instrumental activities of daily living ; Grade 3 : severe or medically significant but not immediately life-threatening; hospitalization or prolongation of hospitalization indicated; disabling; limiting self-care activities of daily living ; Grade 4 : life-threatening consequences; urgent intervention indicated ; Grade 5 : death related to adverse event",
+            "PrimaryOutcomeTimeFrame": "Day 1 to day 360"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Transcutaneous oxygen pressure",
+            "SecondaryOutcomeDescription": "Primary efficacy endpoint: transcutaneous oxygen pressure (TcPO2) mesured in mm Hg",
+            "SecondaryOutcomeTimeFrame": "Day 360"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nThe patient is suffering from critical limb ischemia due to atheromatous arteriopathy, and defined as existence of chronic pain at rest or trophic disorders, with a systolic pressure inferior to 50 mm Hg at the ankle or inferior to 30 mm Hg at the toe (respectively 70 and 50 mm Hg in case of trophic disorder), or a transcutaneous measure of oxygen pressure (TcPO2) at the back of the foot in decubitus inferior to 30 mm Hg, and is being subject to a revascularization procedure, associated or not to minimally invasive surgery.\n\nInclusion confirmation will be performed after the revascularization procedure, and treatment planned within 48 hours to 2 weeks after the revascularization procedure.\n\nThe patient (or his/her legal representative(s)) is capable to understand and comply with study requirements and to provide written informed consent prior to any study procedure for participation in the study and transmission of personal \"anonymized\" data, which signifies an agreement to enter the study and comply with the restrictions and requirements listed in the informed consent form (ICF).\nMale or female patients aged ≥18 years at the time of signing the ICF.\nA female patient is eligible to participate if she is of non-childbearing potential, defined as pre-menopausal females with a documented tubal ligation or hysterectomy; or post-menopausal females defined as 12 months of spontaneous amenorrhea. Females on hormone replacement therapy (HRT) will be required to use one of the treatment methods that does not modify hemostasis parameters (eg chlormadinone acetate [Lutéran]) or must discontinue HRT to allow confirmation of post-menopausal status prior to being enrolled in the study.\nDiabetic patients with an eye fundus examination of less than 3 months excluding proliferative retinopathy\nPatient with a life expectancy >12 months\n\nExclusion Criteria:\n\nPatients presenting a failure of the revascularization procedure, with technical failure defined as the inability to perform the intended procedure, i.e.\n\nin the case where femoropopliteal bypass was intended, inability to perform the bypass for any reason\n\nin the case where endovascular procedure was intended:\n\ninability to cross the arterial lesion with a guidewire and to catheterize the target vessel\ninability to cross the arterial lesion with any endovascular treatment device such as balloons or stents\nresidual stenosis > 50%\nPatient with non atheromatous arteriopathy The patient has, or has a history of, any significant disease or disorder that would increase the risk for the patient if they were enrolled in the study or would affect study procedures or outcomes.\nThe patient is mentally or legally incapacitated.\nPatient protected by law.\nPatient who does not benefit from the national health insurance coverage.\nThe patient has been involved in a previous trial with the investigational product.\nHistory of cancer excepting basocellular epithelioma during the past 5 years.\nPatient necessitating chronic hemodialysis or creatinine clearance inferior to 30 mL/min.\nHistory of stroke or myocardial infarction of less than 3 months.\nHemostasis disorder with contra-indication of intramuscular injections.\nPatients receiving dual antiplatelet therapy that cannot be temporarily discontinued at least 4 days before and until 6 hours after cell implantation.\nPatient receiving an antiplatelet therapy with an adenosine diphosphate receptor inhibitor (ADP/P2Y12 inhibitor) that cannot be temporarily discontinued at least 4 days before and until 6 hours after cell implantation.\nPatient receiving an anticoagulant treatment that cannot be temporarily discontinued until 2 days after the study treatment injection.\nPatients subject to a below the knee femoro-popliteal bypass procedure or to a femoro-tibial bypass procedure\nPatients included in another therapeutic trial",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Ambroise DUPREY",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "03 26 78 46 60",
+            "CentralContactPhoneExt": "0033",
+            "CentralContactEMail": "aduprey@chu-reims.fr"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Damien JOLLY",
+            "LocationCity": "Reims",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Ambroise DUPREY",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "03 26 78 46 60",
+                  "LocationContactPhoneExt": "0033",
+                  "LocationContactEMail": "aduprey@chu-reims.fr"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007511",
+            "ConditionMeshTerm": "Ischemia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafAsFound": "Ischemia",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03180463",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "SCLnow-IMIMH-05"
+      },
+      "Organization": {
+        "OrgFullName": "Sclnow Biotechnology Co., Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "The Study of Early Stage Osteonecrosis of Femoral Head With Human Umbilical Cord Mesenchymal Stem Cells",
+      "OfficialTitle": "The Study of Early Stage Osteonecrosis of Femoral Head With Human Umbilical Cord Mesenchymal Stem Cells (hUC-MSC)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2020",
+      "OverallStatus": "Suspended",
+      "WhyStopped": "Others",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 6, 2017",
+      "StudyFirstSubmitQCDate": "June 6, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 8, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 21, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 23, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Sclnow Biotechnology Co., Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purposes of the study is to evaluate the safety and efficacy of human umbilical cord mesenchymal stem cells (hUC-MSC) in treating osteonecrosis of femoral head patients.",
+      "DetailedDescription": "This is a randomized,double-blind, paralleled study. Patients will be divided into two groups of experiment and control. All of them will receive core decompression of the femoral head, while experimental group patient will transplant hUC-MSC in addition. Follow-up visit will occur on 1 month, 3 months, and 6 months after operation, and Harris Hip score was applied to evaluate the symptoms change."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Osteonecrosis of Femoral Head"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Osteonecrosis of Femoral Head",
+          "umbilical cord mesenchymal stem cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Group 1",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Core decompression surgery; Allogeneic umbilical cord mesenchymal stem cells (SCLnow 19#).",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Allogeneic umbilical cord mesenchymal stem cells (SCLnow 19#)",
+                "Procedure: core decompression"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group 2",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Core decompression surgery.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: core decompression"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Allogeneic umbilical cord mesenchymal stem cells (SCLnow 19#)",
+            "InterventionDescription": "Allogeneic umbilical cord mesenchymal stem cells (SCLnow 19#) will be injected through surgery tunnel, 2*10^7 cells,",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group 1"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "core decompression",
+            "InterventionDescription": "The surgery will drill into the femoral neck (hip bone) and through the necrotic area of the bone that died from the lack of blood flow, take out partial osseous tissue.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group 1",
+                "Group 2"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "MRI imageological examination",
+            "PrimaryOutcomeDescription": "MRI imageological examination to evaluate the efficient of mesenchymal stem cells.",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Harris Hip Score",
+            "SecondaryOutcomeDescription": "Evaluate curative effects by the change of Harris hip score.",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nFicat classification is I, IIa, or IIb period\nno obvious improvement or ingravescence by conservative treatment\npatients or their statutory receive human umbilical cord mesenchymal stem cell of their own will, and signed informed consent form\n\nExclusion Criteria:\n\nFicat classification is third or fourth period\nacute, chronic infection patients\ncombined with heart, lung, kidney disease, and cannot tolerate operation\nankylosing spondylitis patient\nacetabular dysplasia patient\nwith tumor\nclinical data deficient\nHIV positive\npregnancy or breast feeding women\nunder other therapy that possibly influence MSC security or efficacy",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Bahushan",
+            "OverallOfficialAffiliation": "Inner Mongolia International Mongolian Hospital",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Lei Guo, Dr.",
+            "OverallOfficialAffiliation": "China-Japan Union Hospital, Jilin University",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Inner Mongolia International Mongolian Hospital",
+            "LocationCity": "Hohhot",
+            "LocationState": "Inner Mongolia",
+            "LocationZip": "010065",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010020",
+            "ConditionMeshTerm": "Osteonecrosis"
+          },
+          {
+            "ConditionMeshId": "D000005271",
+            "ConditionMeshTerm": "Femur Head Necrosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001847",
+            "ConditionAncestorTerm": "Bone Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009336",
+            "ConditionAncestorTerm": "Necrosis"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12095",
+            "ConditionBrowseLeafName": "Osteonecrosis",
+            "ConditionBrowseLeafAsFound": "Osteonecrosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11436",
+            "ConditionBrowseLeafName": "Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7561",
+            "ConditionBrowseLeafName": "Femur Head Necrosis",
+            "ConditionBrowseLeafAsFound": "Osteonecrosis of Femoral Head",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4278",
+            "ConditionBrowseLeafName": "Bone Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

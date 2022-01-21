@@ -1,0 +1,469 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01547091",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "Alliancells-1"
+      },
+      "Organization": {
+        "OrgFullName": "Alliancells Bioscience Corporation Limited",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Safety and Efficacy Study of Umbilical Cord-Derived Mesenchymal Stem Cells for Rheumatoid Arthritis",
+      "OfficialTitle": "Clinical Trial of Umbilical Cord-Derived Mesenchymal Stem Cells Transplantation for Rheumatoid Arthritis-Phase I/II",
+      "Acronym": "RA"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2013",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 2013"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 2014",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2014",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "February 22, 2012",
+      "StudyFirstSubmitQCDate": "March 3, 2012",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 7, 2012",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "June 26, 2013",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 27, 2013",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Alliancells Bioscience Corporation Limited",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Rheumatoid arthritis is a chronic systemic disease, which is characterized by chronic inflammation in the synovial tissue. Rheumatoid arthritis will eventually result in the destruction of cartilage, bone and ligaments and joint deformity. The underlying hypothesis is that umbilical cord-derived mesenchymal stem cell (UC-MSCs) has anti-inflammatory effects and thus potentially alleviates the progression of rheumatoid arthritis. The study is to explore the safety and efficacy of UC-MSCs transplantation in treatment of rheumatoid arthritis.",
+      "DetailedDescription": "This study was supported by the National Natural Science Foundation of China (30872618)，The Shanxi Province Social Development Public Relations Project (2012K13-02-35), and The Military Medicine and Public Health Plan (CLZ120GA23)"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Rheumatoid Arthritis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Mesenchymal Stem Cells",
+          "Rheumatoid Arthritis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "200",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "UC-MSCs Treatment",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients in UC-MSCs treatment will be infused umbilical cord-derived mesenchymal stem cells intravenously only.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Umbilical Cord-Derived Mesenchymal Stem Cells (UC-MSCs)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "DMARDS",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patients will be treated by Rheumatoid Arthritis With Disease-Modifying Drugs (DMARDs).",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Rheumatoid Arthritis With Disease-Modifying Drugs (DMARDs)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "UC-MSC+DMARDS",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patients will be treated in combination with UC-MSC and DMARDS.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: UC-MSC+DMARDS"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Umbilical Cord-Derived Mesenchymal Stem Cells (UC-MSCs)",
+            "InterventionDescription": "-The UC-MSCs will be infused intravenously(single dose, 4x10^7 cells).The interval time is 3 months, and the study lasts for 12 months with 4 times infusion.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "UC-MSCs Treatment"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Rheumatoid Arthritis With Disease-Modifying Drugs (DMARDs)",
+            "InterventionDescription": "-Patients will be treated by conventional drugs (DMARDS) for alleviating disease.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "DMARDS"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "UC-MSC+DMARDS",
+            "InterventionDescription": "The UC-MSCs will be infused intravenously(single dose, 4x10^7 cells).The interval time is 3 months, and the study lasts for 12 months with 4 times infusion.Meanwhile,patients will be treated by conventionally drugs if the disease is still not alleviated.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "UC-MSC+DMARDS"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety of MSC treatment.",
+            "PrimaryOutcomeDescription": "Adverse Events will be recorded in a patient or clinical investigation subject who administers MSC and will be evaluated a causal relationship with the treatment.",
+            "PrimaryOutcomeTimeFrame": "six months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "RA Serology",
+            "SecondaryOutcomeDescription": "Rheumatoid Factor, C-reactive protein",
+            "SecondaryOutcomeTimeFrame": "1, 3 and 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Disease Activity Score (DAS 28) Index Mean Change From Baseline",
+            "SecondaryOutcomeTimeFrame": "1, 3 and 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Patient's assessment of pain.",
+            "SecondaryOutcomeTimeFrame": "1, 3 and 6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAll patients fulfilled the classification criteria (2010) for rheumatoid arthritis, man or woman aged from 18 to 70 years old.\nPatients must be informed of the investigational nature of this study and give written informed consent in accordance with the institutional and hospital guidelines.\nWomen of reproductive potential may not participate unless they have agreed to use an effective contraceptive method while on this trial. Women of child-bearing potential must have a pregnancy test performed within 72 hours prior to initiation of treatment.\n\nExclusion Criteria:\n\nAny history of ongoing, significant or recurring infections.\nAny active inflammatory diseases other than RA.\nSignificant cardiac or pulmonary disease.\nEnd-stage renal failure.\nPregnant or nursing women may not participate due to the possibility of fetal harm or harm to nursing infants from this treatment regimen.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Mingyuan Wu, MD,PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "86-10-63188123",
+            "CentralContactEMail": "mingyuan-wu@ouhsc.edu"
+          },
+          {
+            "CentralContactName": "Haijie Ji, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "86-10-63188853",
+            "CentralContactEMail": "jihaijie82@sohu.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Mingyuan Wu, MD,PhD",
+            "OverallOfficialAffiliation": "Eastern Union Stem Cell & Gene Engineering Co.,Ltd，Alliancells Biosciences Co., Ltd",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Yongjun Liu, MD,PhD",
+            "OverallOfficialAffiliation": "Alliancells Biosciences Co., Ltd",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Liming Wang, MD",
+            "OverallOfficialAffiliation": "The 323 Hospital of Chinese People's Liberation Army",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Haijie Ji, MD",
+            "OverallOfficialAffiliation": "Alliancells Biosciences Co., Ltd.",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "The 323 Hospital of Chinese People's Liberation Army",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Xi'an",
+            "LocationState": "Shaanxi",
+            "LocationZip": "710054",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Liming Wang, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "86-29-84756502",
+                  "LocationContactEMail": "wanglm@fmmu.edu.cn"
+                },
+                {
+                  "LocationContactName": "Liming Wang, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "22138499",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Wang H, Wu M, Liu Y. Are mesenchymal stem cells major sources of safe signals in immune system? Cell Immunol. 2012;272(2):112-6. doi: 10.1016/j.cellimm.2011.10.010. Epub 2011 Oct 29. Review."
+          },
+          {
+            "ReferencePMID": "23533920",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Wang L, Ji H, Zhou J, Xie J, Zhong Z, Li M, Bai W, Li N, Zhang Z, Wang X, Zhu D, Liu Y, Wu M. Therapeutic potential of umbilical cord mesenchymal stromal cells transplantation for cerebral palsy: a case report. Case Rep Transplant. 2013;2013:146347. doi: 10.1155/2013/146347. Epub 2013 Mar 3."
+          }
+        ]
+      }
+    }
+  },
+  "AnnotationSection": {
+    "AnnotationModule": {
+      "UnpostedAnnotation": {
+        "UnpostedResponsibleParty": "Alliancells Bioscience Corporation Limited",
+        "UnpostedEventList": {
+          "UnpostedEvent": [
+            {
+              "UnpostedEventType": "Release",
+              "UnpostedEventDate": "September 4, 2013"
+            },
+            {
+              "UnpostedEventType": "Reset",
+              "UnpostedEventDate": "November 15, 2013"
+            },
+            {
+              "UnpostedEventType": "Release",
+              "UnpostedEventDate": "April 13, 2015"
+            },
+            {
+              "UnpostedEventType": "Reset",
+              "UnpostedEventDate": "April 28, 2015"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000001168",
+            "ConditionMeshTerm": "Arthritis"
+          },
+          {
+            "ConditionMeshId": "D000001172",
+            "ConditionMeshTerm": "Arthritis, Rheumatoid"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007592",
+            "ConditionAncestorTerm": "Joint Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012216",
+            "ConditionAncestorTerm": "Rheumatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003240",
+            "ConditionAncestorTerm": "Connective Tissue Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M3628",
+            "ConditionBrowseLeafName": "Arthritis",
+            "ConditionBrowseLeafAsFound": "Arthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3632",
+            "ConditionBrowseLeafName": "Arthritis, Rheumatoid",
+            "ConditionBrowseLeafAsFound": "Rheumatoid Arthritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9773",
+            "ConditionBrowseLeafName": "Joint Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14197",
+            "ConditionBrowseLeafName": "Rheumatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5475",
+            "ConditionBrowseLeafName": "Collagen Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5616",
+            "ConditionBrowseLeafName": "Connective Tissue Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000018501",
+            "InterventionMeshTerm": "Antirheumatic Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafAsFound": "Mirabegron",
+            "InterventionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

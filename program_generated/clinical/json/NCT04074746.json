@@ -1,0 +1,820 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04074746",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2018-1092"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "NCI-2019-03536",
+            "SecondaryIdType": "Registry Identifier",
+            "SecondaryIdDomain": "CTRP (Clinical Trial Reporting Program)"
+          },
+          {
+            "SecondaryId": "2018-1092",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "M D Anderson Cancer Center"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "M.D. Anderson Cancer Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Modified Immune Cells (AFM13-NK) and A Monoclonal Antibody (AFM13) in Treating Patients With Recurrent or Refractory CD30 Positive Hodgkin or Non-Hodgkin Lymphomas",
+      "OfficialTitle": "Bispecific NK Engager AFM13 Combined With NK Cells for Patients With Recurrent of Refractory CD30 Positive Hodgkin or Non-Hodgkin Lymphomas"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2021",
+      "OverallStatus": "Recruiting",
+      "StartDateStruct": {
+        "StartDate": "July 18, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 15, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 15, 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 17, 2019",
+      "StudyFirstSubmitQCDate": "August 28, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 30, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "May 31, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 3, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "M.D. Anderson Cancer Center",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This phase I trial studies the side effects and best dose of modified umbilical cord blood immune cells (natural killer [NK] cells) combined with the antibody AFM13 (AFM13-NK) and AFM13 alone in treating patients with CD30 positive Hodgkin lymphoma or non-Hodgkin lymphoma that has come back (recurrent) or does not respond to treatment (refractory). Immunotherapy with monoclonal antibodies, such as AFM13, may help the body's immune system attack the cancer, and may interfere with the ability of cancer cells to grow and spread. Giving AFM13 loaded with NK cells followed by AFM13 alone may kill more cancer cells and decrease cancer growth in patients with CD30 positive AFM13-NK Hodgkin and Non-Hodgkin lymphomas.",
+      "DetailedDescription": "PRIMARY OBJECTIVE:\n\nI. To establish the safety and recommended phase II dose of umbilical cord blood (CB)-derived natural killer (NK) cells preloaded with the bispecific antibody AFM13 (AFM13-NK), followed by intravenous anti-CD30/CD16A monoclonal antibody AFM13 (AFM13) in patients with refractory/relapsed CD30-positive lymphoid malignancies.\n\nSECONDARY OBJECTIVES:\n\nI. To assess the overall response rate (ORR), complete response (CR) rate and partial response (PR) rate.\n\nII. To evaluate the duration of response. III. To evaluate the event-free survival (EFS) rate. IV. To evaluate the overall survival (OS) time. V. To quantify the persistence of infused donor CB AFM13-NK cells in the recipient.\n\nVI. To conduct comprehensive immune reconstitution studies.\n\nOUTLINE: This is a dose-escalation study of AFM13-NK.\n\nPatients receive standard of care fludarabine intravenously (IV) over 1 hour and standard of care cyclophosphamide IV over 30-60 minutes on days -4 to -2, AFM13-NK IV over 4 hours on day 0, and then AFM13 IV over 4 hours on days 7, 14, and 21.\n\nAfter completion of study treatment, patients are followed up at 28 days, 8 weeks, 100 and 180 days and then every 3-6 months for 2 years."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Recurrent Anaplastic Large Cell Lymphoma",
+          "Recurrent B-Cell Non-Hodgkin Lymphoma",
+          "Recurrent Classic Hodgkin Lymphoma",
+          "Recurrent Mycosis Fungoides",
+          "Recurrent Peripheral T-Cell Lymphoma, Not Otherwise Specified",
+          "Refractory Anaplastic Large Cell Lymphoma",
+          "Refractory B-Cell Non-Hodgkin Lymphoma",
+          "Refractory Classic Hodgkin Lymphoma",
+          "Refractory Mycosis Fungoides",
+          "Refractory Peripheral T-Cell Lymphoma, Not Otherwise Specified"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Treatment (AFM13-NK, AFM13)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients receive two cycles of standard of care fludarabine IV over 1 hour and standard of care cyclophosphamide IV over 30-60 minutes on days -4 to -2, AFM13-NK IV over 30 minutes on day 0, and then AFM13 IV over 4 hours on days 7, 14, and 21.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Anti-CD30/CD16A Monoclonal Antibody AFM13",
+                "Drug: Cyclophosphamide",
+                "Drug: Fludarabine",
+                "Drug: Fludarabine Phosphate",
+                "Biological: Genetically Engineered Lymphocyte Therapy"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Anti-CD30/CD16A Monoclonal Antibody AFM13",
+            "InterventionDescription": "Given IV",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (AFM13-NK, AFM13)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "AFM13"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cyclophosphamide",
+            "InterventionDescription": "Given IV",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (AFM13-NK, AFM13)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "(-)-Cyclophosphamide",
+                "2H-1,3,2-Oxazaphosphorine, 2-[bis(2-chloroethyl)amino]tetrahydro-, 2-oxide, monohydrate",
+                "Carloxan",
+                "Ciclofosfamida",
+                "Ciclofosfamide",
+                "Cicloxal",
+                "Clafen",
+                "Claphene",
+                "CP monohydrate",
+                "CTX",
+                "CYCLO-cell",
+                "Cycloblastin",
+                "Cycloblastine",
+                "Cyclophospham",
+                "Cyclophosphamid monohydrate",
+                "Cyclophosphamide Monohydrate",
+                "Cyclophosphamidum",
+                "Cyclophosphan",
+                "Cyclophosphane",
+                "Cyclophosphanum",
+                "Cyclostin",
+                "Cyclostine",
+                "Cytophosphan",
+                "Cytophosphane",
+                "Cytoxan",
+                "Fosfaseron",
+                "Genoxal",
+                "Genuxal",
+                "Ledoxina",
+                "Mitoxan",
+                "Neosar",
+                "Revimmune",
+                "Syklofosfamid",
+                "WR- 138719"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Fludarabine",
+            "InterventionDescription": "Given IV",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (AFM13-NK, AFM13)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Fluradosa"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Fludarabine Phosphate",
+            "InterventionDescription": "Given IV",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (AFM13-NK, AFM13)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "2-F-ara-AMP",
+                "9H-Purin-6-amine, 2-fluoro-9-(5-O-phosphono-.beta.-D-arabinofuranosyl)-",
+                "Beneflur",
+                "Fludara",
+                "SH T 586"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Genetically Engineered Lymphocyte Therapy",
+            "InterventionDescription": "Given AFM13-NK cells IV",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (AFM13-NK, AFM13)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Incidence of adverse events",
+            "PrimaryOutcomeDescription": "Adverse events will be summarized by dose.",
+            "PrimaryOutcomeTimeFrame": "Up to 2 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Overall survival",
+            "SecondaryOutcomeDescription": "Distribution will be estimated using Kaplan-Meier method.",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Event-free survival",
+            "SecondaryOutcomeDescription": "Distribution will be estimated using Kaplan-Meier method.",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Overall response rate (ORR)",
+            "SecondaryOutcomeDescription": "Will be determined by ratio of responses over number of patients with measurable lesions. Logistic regression will be used to assess the association between ORR and disease and demographic covariates of interest.",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Complete response (CR) rate",
+            "SecondaryOutcomeDescription": "Will be determined by ratio of CRs over number of patients with measurable lesions.",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Partial response (PR) rate",
+            "SecondaryOutcomeDescription": "Will be determined by ratio of PRs over number of patients with measurable lesions.",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of response",
+            "SecondaryOutcomeTimeFrame": "Time of initial response to disease relapse/progression, assessed up to 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Persistence of infused donor AFM13-NK cells",
+            "SecondaryOutcomeDescription": "Will be summarized with descriptive statistics.",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Immune reconstitution studies",
+            "SecondaryOutcomeDescription": "Will be summarized with descriptive statistics.",
+            "SecondaryOutcomeTimeFrame": "Up to 2 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with a diagnosis of relapsed or refractory classical Hodgkin lymphoma (HL), anaplastic large cell lymphoma (ALCL), peripheral T-cell lymphoma not otherwise specified (PTCL-NOS), mycosis fungoides (MF), or B-cell non-Hodgkin lymphoma with a pre-enrollment tumor biopsy positive for CD30 by immunohistochemistry at >= 1%. Patients with HL, ALCL and MF must be refractory or intolerant to brentuximab vedotin.\nKarnofsky performance status >= 60%.\nAbsolute neutrophil count >= 500/mm^3\nPlatelet count >= 50,000/mm^3\nSerum creatinine clearance >= 50 ml/min, estimated using the Cockcroft-Gault equation.\nAlanine aminotransferase (ALT) and/or aspartate aminotransferase (AST) =< 3 x upper limit of normal (ULN).\nBilirubin =< 2 x ULN.\nAlkaline phosphatase (ALP) =< 2 x ULN.\nForced expiratory volume in 1 second (FEV1) >= 50%\nForced vital capacity (FVC) >= 50%\nCarbon monoxide diffusing capability test (DLCO) (corrected for hemoglobin [Hgb]) >= 50%\nLeft ventricular ejection fraction >= 40%.\nNo uncontrolled arrhythmias or symptomatic cardiac disease.\n\nIf female of child-bearing potential, must not be pregnant or be breastfeeding and required to have a negative urine or serum pregnancy test within 3 days prior to the first dose of study drug.\n\nNote: Urine pregnancy tests that cannot be confirmed as negative, require a confirmatory negative serum pregnancy test. In addition, females of childbearing potential must agree use of a highly effective method of contraception for the course of the study from 14 days prior to the first dose of study drug until 60 days after the last dose of study drug. Non-childbearing potential is defined as: Postmenopausal: defined as no menses for 12 months without an alternative medical cause. A high follicle-stimulating hormone (FSH) level in the postmenopausal range may be used to confirm post-menopausal state in women not using hormonal contraception or hormonal replacement therapy. In the absence of 12 months of amenorrhea, FSH measurements indicating post-menopausal status must be documented in patient's medical history. Permanently sterile: documented permanent sterilization e.g. hysterectomy, bilateral salpingectomy and bilateral oophorectomy. If male, surgically sterile or agrees to use a highly effective method of contraception, 14 days prior to the first dose of study drug until 60 days after the last dose of study drug.\n\nExclusion Criteria:\n\nMajor surgery < 4 weeks prior to first dose of study drug.\nAny other severe or uncontrolled disease or condition which might increase the risk associated with study participation.\nAny other malignancy known to be active, with the exception of treated cervical intra-epithelial neoplasia and non-melanoma skin cancer.\nGrade >= 3 non-hematologic toxicity from prior therapy that has not resolved to grade =< 2.\nActive hepatitis B, either active carrier (hepatitis B surface antigen positive [HBsAg +]) or viremic (hepatitis B virus [HBV] deoxyribonucleic acid [DNA] >= 10,000 copies/mL, or >= 2,000 IU/mL), or hepatitis C (detectable viral load by hepatitis C virus [HCV] ribonucleic acid [RNA] polymerase chain reaction [PCR]).\nActive infection requiring parenteral antibiotics.\nHuman immunodeficiency virus (HIV) infection.\nTreatment within prior 2 weeks with any anti-cancer agent, investigational or approved.\nActive central nervous system (CNS) involvement (untreated parenchymal brain metastasis or positive cytology of cerebrospinal fluid).\nLife expectancy =< 6 months.\nPrevious treatment with AFM13.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "15 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Yago L Nieto",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "713-792-8750",
+            "CentralContactEMail": "ynieto@mdanderson.org"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Yago L Nieto",
+            "OverallOfficialAffiliation": "M.D. Anderson Cancer Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "M D Anderson Cancer Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77030",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Yago L. Nieto",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "713-792-8750"
+                },
+                {
+                  "LocationContactName": "Yago L. Nieto",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "University of Texas MD Anderson Cancer Center Website",
+            "SeeAlsoLinkURL": "http://www.mdanderson.org"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009181",
+            "ConditionMeshTerm": "Mycoses"
+          },
+          {
+            "ConditionMeshId": "D000008223",
+            "ConditionMeshTerm": "Lymphoma"
+          },
+          {
+            "ConditionMeshId": "D000008228",
+            "ConditionMeshTerm": "Lymphoma, Non-Hodgkin"
+          },
+          {
+            "ConditionMeshId": "D000006689",
+            "ConditionMeshTerm": "Hodgkin Disease"
+          },
+          {
+            "ConditionMeshId": "D000016399",
+            "ConditionMeshTerm": "Lymphoma, T-Cell"
+          },
+          {
+            "ConditionMeshId": "D000009182",
+            "ConditionMeshTerm": "Mycosis Fungoides"
+          },
+          {
+            "ConditionMeshId": "D000016393",
+            "ConditionMeshTerm": "Lymphoma, B-Cell"
+          },
+          {
+            "ConditionMeshId": "D000016411",
+            "ConditionMeshTerm": "Lymphoma, T-Cell, Peripheral"
+          },
+          {
+            "ConditionMeshId": "D000017728",
+            "ConditionMeshTerm": "Lymphoma, Large-Cell, Anaplastic"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000008232",
+            "ConditionAncestorTerm": "Lymphoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008206",
+            "ConditionAncestorTerm": "Lymphatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007160",
+            "ConditionAncestorTerm": "Immunoproliferative Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001423",
+            "ConditionAncestorTerm": "Bacterial Infections and Mycoses"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000016410",
+            "ConditionAncestorTerm": "Lymphoma, T-Cell, Cutaneous"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10372",
+            "ConditionBrowseLeafName": "Lymphoma",
+            "ConditionBrowseLeafAsFound": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17980",
+            "ConditionBrowseLeafName": "Lymphoma, B-Cell",
+            "ConditionBrowseLeafAsFound": "B-Cell Non-Hodgkin Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8903",
+            "ConditionBrowseLeafName": "Hodgkin Disease",
+            "ConditionBrowseLeafAsFound": "Hodgkin Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17981",
+            "ConditionBrowseLeafName": "Lymphoma, T-Cell",
+            "ConditionBrowseLeafAsFound": "T-cell Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M17985",
+            "ConditionBrowseLeafName": "Lymphoma, T-Cell, Peripheral",
+            "ConditionBrowseLeafAsFound": "Peripheral T-Cell Lymphoma, Not Otherwise Specified",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11288",
+            "ConditionBrowseLeafName": "Mycoses",
+            "ConditionBrowseLeafAsFound": "Mycosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11289",
+            "ConditionBrowseLeafName": "Mycosis Fungoides",
+            "ConditionBrowseLeafAsFound": "Mycosis Fungoides",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19093",
+            "ConditionBrowseLeafName": "Lymphoma, Large-Cell, Anaplastic",
+            "ConditionBrowseLeafAsFound": "Anaplastic Large Cell Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10374",
+            "ConditionBrowseLeafName": "Lymphoma, Non-Hodgkin",
+            "ConditionBrowseLeafAsFound": "Non-Hodgkin's Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10377",
+            "ConditionBrowseLeafName": "Lymphoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10355",
+            "ConditionBrowseLeafName": "Lymphatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9358",
+            "ConditionBrowseLeafName": "Immunoproliferative Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3874",
+            "ConditionBrowseLeafName": "Bacterial Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3873",
+            "ConditionBrowseLeafName": "Bacterial Infections and Mycoses",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17984",
+            "ConditionBrowseLeafName": "Lymphoma, T-Cell, Cutaneous",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3543",
+            "ConditionBrowseLeafName": "Lymphosarcoma",
+            "ConditionBrowseLeafAsFound": "Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T640",
+            "ConditionBrowseLeafName": "B-cell Lymphoma",
+            "ConditionBrowseLeafAsFound": "B-Cell Non-Hodgkin Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T2817",
+            "ConditionBrowseLeafName": "Hodgkin Lymphoma",
+            "ConditionBrowseLeafAsFound": "Hodgkin Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T4496",
+            "ConditionBrowseLeafName": "Peripheral T-cell Lymphoma",
+            "ConditionBrowseLeafAsFound": "Peripheral T-cell Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T3986",
+            "ConditionBrowseLeafName": "Mycosis Fungoides",
+            "ConditionBrowseLeafAsFound": "Mycosis Fungoides",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T367",
+            "ConditionBrowseLeafName": "Anaplastic Large Cell Lymphoma",
+            "ConditionBrowseLeafAsFound": "Anaplastic Large Cell Lymphoma",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000014740",
+            "InterventionMeshTerm": "Vidarabine"
+          },
+          {
+            "InterventionMeshId": "D000003520",
+            "InterventionMeshTerm": "Cyclophosphamide"
+          },
+          {
+            "InterventionMeshId": "C000024352",
+            "InterventionMeshTerm": "Fludarabine"
+          },
+          {
+            "InterventionMeshId": "C000042382",
+            "InterventionMeshTerm": "Fludarabine phosphate"
+          },
+          {
+            "InterventionMeshId": "D000000906",
+            "InterventionMeshTerm": "Antibodies"
+          },
+          {
+            "InterventionMeshId": "D000000911",
+            "InterventionMeshTerm": "Antibodies, Monoclonal"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000007166",
+            "InterventionAncestorTerm": "Immunosuppressive Agents"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018906",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+          },
+          {
+            "InterventionAncestorId": "D000000477",
+            "InterventionAncestorTerm": "Alkylating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000019653",
+            "InterventionAncestorTerm": "Myeloablative Agonists"
+          },
+          {
+            "InterventionAncestorId": "D000000964",
+            "InterventionAncestorTerm": "Antimetabolites, Antineoplastic"
+          },
+          {
+            "InterventionAncestorId": "D000000963",
+            "InterventionAncestorTerm": "Antimetabolites"
+          },
+          {
+            "InterventionAncestorId": "D000000998",
+            "InterventionAncestorTerm": "Antiviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M5879",
+            "InterventionBrowseLeafName": "Cyclophosphamide",
+            "InterventionBrowseLeafAsFound": "Months",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafAsFound": "Controlled",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3382",
+            "InterventionBrowseLeafName": "Antibodies, Monoclonal",
+            "InterventionBrowseLeafAsFound": "Twice",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M283219",
+            "InterventionBrowseLeafName": "Fludarabine",
+            "InterventionBrowseLeafAsFound": "Medical",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M225481",
+            "InterventionBrowseLeafName": "Fludarabine phosphate",
+            "InterventionBrowseLeafAsFound": "Medical",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M16637",
+            "InterventionBrowseLeafName": "Vidarabine",
+            "InterventionBrowseLeafAsFound": "Medical",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M9364",
+            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20095",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2972",
+            "InterventionBrowseLeafName": "Alkylating Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3433",
+            "InterventionBrowseLeafName": "Antimetabolites",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3466",
+            "InterventionBrowseLeafName": "Antiviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          }
+        ]
+      }
+    }
+  }
+}

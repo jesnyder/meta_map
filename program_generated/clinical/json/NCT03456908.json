@@ -1,0 +1,362 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03456908",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "F18 17-008847"
+      },
+      "Organization": {
+        "OrgFullName": "Mayo Clinic",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "F-18 TFB-PET Studies in Cancer Patients Undergoing NIS-containing Viral Therapies",
+      "OfficialTitle": "F-18 TFB-PET Studies in Cancer Patients Undergoing NIS-containing Viral Therapies"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2020",
+      "OverallStatus": "Completed",
+      "StartDateStruct": {
+        "StartDate": "March 16, 2018",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 31, 2019",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2019",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "February 6, 2018",
+      "StudyFirstSubmitQCDate": "March 5, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 7, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 14, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 16, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Tim DeGrado",
+        "ResponsiblePartyInvestigatorTitle": "Professor of Radiology",
+        "ResponsiblePartyInvestigatorAffiliation": "Mayo Clinic"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Mayo Clinic",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The goal of this proposal is to perform first-in-man evaluation of the imaging probe F-18 tetrafluoroborate (BF4) as a PET imaging biomarker for expression of the human sodium/iodide symporter (hNIS) in tissues. .",
+      "DetailedDescription": "The goal of this proposal is to perform first-in-man evaluation of the imaging probe F-18 tetrafluoroborate (BF4) as a PET imaging biomarker for expression of the human sodium/iodide symporter (hNIS) in tissues. Imaging of functional hNIS activity in tissues with [18F]BF4 is anticipated to provide superior sensitivity and image quality to Tc-99m SPECT for monitoring hNIS transduction effected by viral therapies. The proposed work is designed to 1) evaluate the imaging feasibility in comparison with Tc-99m SPECT of hNIS expression in a) 10 myeloma patients treated with Edmonston Measles virus-NIS (MV-NIS) and b) 10 endometrial cancer patients treated with vesicular stomatitis virus engineered to express human interferon-and NIS (VSV-hINF-NIS). This data will be necessary to support future regulatory submissions."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Myeloma Before MV-NIS Treatment",
+          "Endometrial Cancer Before VSV-hINF-NIS Treatment"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Diagnostic",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "2",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "myeloma before MV-NIS treatment",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Perform [18F]BF4-PET and [99mTc]pertechnetate-SPECT imaging in 10 patients with myeloma before MV-NIS treatment, and at Day 8-9 to monitor NIS activity in the tumors. To show the correlation of positive regional uptake with tissue histopathology for NIS, biopsies will be taken, when accessible, after the day 8 scan. Patients will be selected from subjects electing to participate in IRB 06-005263 at Mayo Clinic: \"Phase I/II Trial of Systemic Administration of Edmonston Strain of Measles Virus, Genetically Engineered to Express NIS, with or without Cyclophosphamide, in Patients with Recurrent or Refractory Multiple Myeloma\",",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Combination Product: 18F-TFB-PET"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "endometrial cancer before VSV-hINF-NIS treatment",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Perform [18F]BF4-PET and [99mTc]pertechnetate-SPECT imaging in 10 patients with endometrial cancer before VSV-hINF-NIS treatment, and at Day 3-5 to monitor NIS activity in the tumors. To show the correlation of positive regional uptake with tissue histopathology for NIS, biopsies will be taken, when accessible, after the day 3-5 scan. Phase I Trial of Systemic Administration of Vesicular Stomatitis Virus Genetically Engineered to Express NIS and Human Interferon, in Patients with Metastatic and/or Incurable Endometrial and Epithelial Ovarian Cancer\", IRB 15-007000",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Combination Product: 18F-TFB-PET"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Combination Product",
+            "InterventionName": "18F-TFB-PET",
+            "InterventionDescription": "Infusion of F-18 TFB and PET / CT imaging",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "endometrial cancer before VSV-hINF-NIS treatment",
+                "myeloma before MV-NIS treatment"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Evaluate the uptake and distribution of the imaging agent 18F-TFB",
+            "PrimaryOutcomeDescription": "This is a preliminary study and all analyses will be exploratory in nature.",
+            "PrimaryOutcomeTimeFrame": "up to 10 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Imaging Sensitivities",
+            "SecondaryOutcomeDescription": "Comparisons will be made between 18F -TFB-PET/CT scans and 99mTc-SPECT/CT scans for feasibility to monitor expression of NIS in tumors following oncoviral treatments in the subjects",
+            "SecondaryOutcomeTimeFrame": "up to 10 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMyeloma Patients\n\nPatients who are currently participating in Mayo Clinic MV-NIS trial (IRB: 06-005263) and agree to enroll in additional 18F-TFB PET studies.\nSubjects are greater than 21 years of age.\nSubjects must provide written informed consent.\nAgree to provide biopsy of tumor indicated on PET for research purposes, if accessible.\n\nEndometrial Cancer Patients\n\n1 Patients who are currently participating in Mayo Clinic VSV-hINF-NIS trial (IRB 15-007000) and agree to enroll in additional 18F -TFB-PET studies.\n\n2. Subjects are greater than 21 years of age. 3. Subjects must provide written informed consent. 4. Agree to provide biopsy of tumor indicated on PET for research purposes, if accessible.\n\nExclusion Criteria:\n\nMyeloma Patients\n\nPatients with any of the following are ineligible to enroll in this study:\n\nCurrent clinically significant cardiovascular disease. Clinically significant cardiovascular disease usually includes one or more of the following:\n\nCardiac surgery or myocardial infarction within the last 6 months.\nUnstable angina.\nCoronary artery disease that required a change in medication within the last 3 months.\nDecompensated congestive heart failure.\nSignificant cardiac arrhythmia or conduction disturbance, particularly those resulting in atrial or ventricular fibrillation, or causing syncope, near syncope, or other alterations in mental status.\nSevere mitral or aortic valvular disease.\nUncontrolled high blood pressure.\nCongenital heart disease. Before enrolling a patient with any of the above conditions, the co- investigator must contact the principal investigator.\nHistory of drug or alcohol abuse within the last year, or prior prolonged history of abuse.\nClinically significant infectious disease, including AIDS or HIV infection or previous positive test for hepatitis B, hepatitis C, HIV-1, or HIV-2.\nWomen of childbearing potential must not be pregnant (negative urine β-HCG at the time of screen) or lactating over the course of the study. A commercial urine dipstick test will be performed within 48 hours prior to injection of 18F-TFB PET unless the screening urine pregnancy test falls within 48 hours of injection.\nPatients who, in the opinion of the investigator, are otherwise unsuitable for a study of this type.\nHistory of severe drug allergy or hypersensitivity.\nPatients who had received an investigational medication within the last 30 days or who have participated in a clinical trial involving medications other than the related MV-NIS or VSV-NIS viruses in the last 30 days. Additionally, the time between the last dose of the previous experimental medication and enrollment (completion of screening assessments) must be at least equal to 5 times the terminal half-life of the previous experimental medication.\nPatients with current clinically significant medical comorbidities that might pose a potential safety risk, interfere with the absorption or metabolism of the study medication, or limit interpretation of the study results. These include but are not limited to clinically significant hepatic, renal, pulmonary, metabolic or endocrine disease, cancer, HIV infection and AIDS.\nPatients who are taking drugs with narrow therapeutic windows, such as theophylline, or warfarin, heparin and other anticoagulant therapies.\n\nEndometrial Cancer Patients\n\nPatients with any of the following are ineligible to enroll in this study:\n\nCurrent clinically significant cardiovascular disease. Clinically significant cardiovascular disease usually includes one or more of the following:\n\nCardiac surgery or myocardial infarction within the last 6 months.\nUnstable angina.\nCoronary artery disease that required a change in medication within the last 3 months.\nDecompensated congestive heart failure.\nSignificant cardiac arrhythmia or conduction disturbance, particularly those resulting in atrial or ventricular fibrillation, or causing syncope, near syncope, or other alterations in mental status.\nSevere mitral or aortic valvular disease.\nUncontrolled high blood pressure.\nCongenital heart disease. Before enrolling a patient with any of the above conditions, the co- investigator must contact the principal investigator.\nHistory of drug or alcohol abuse within the last year, or prior prolonged history of abuse.\nClinically significant infectious disease, including AIDS or HIV infection or previous positive test for hepatitis B, hepatitis C, HIV-1, or HIV-2.\nWomen of childbearing potential must not be pregnant (negative urine β-HCG at the time of screen) or lactating over the course of the study. A commercial urine dipstick test will be performed within 48 hours prior to injection of 18F-TFB PET unless the screening urine pregnancy test falls within 48 hours of injection.\nPatients who, in the opinion of the investigator, are otherwise unsuitable for a study of this type.\nHistory of severe drug allergy or hypersensitivity.\nPatients who had received an investigational medication within the last 30 days or who have participated in a clinical trial with any experimental medication in the last 30 days. Additionally, the time between the last dose of the previous experimental medication and enrollment (completion of screening assessments) must be at least equal to 5 times the terminal half-life of the previous experimental medication.\nPatients with current clinically significant medical comorbidities, that might pose a potential safety risk, interfere with the absorption or metabolism of the study medication or limit interpretation of the study results. These include but are not limited to clinically significant hepatic, renal, pulmonary, metabolic or endocrine disease, cancer, HIV infection and AIDS.\nPatients who are taking drugs with narrow therapeutic windows, such as theophylline, or warfarin, heparin and other anticoagulant therapies.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "21 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Timothy R DeGrado, PhD",
+            "OverallOfficialAffiliation": "Mayo Clinic",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mayo Clinic",
+            "LocationCity": "Rochester",
+            "LocationState": "Minnesota",
+            "LocationZip": "55905",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Mayo Clinic Clinical Trials",
+            "SeeAlsoLinkURL": "https://www.mayo.edu/research/clinical-trials"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No",
+      "IPDSharingDescription": "N/A no plan to share IPD"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000016889",
+            "ConditionMeshTerm": "Endometrial Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000014594",
+            "ConditionAncestorTerm": "Uterine Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000005833",
+            "ConditionAncestorTerm": "Genital Neoplasms, Female"
+          },
+          {
+            "ConditionAncestorId": "D000014565",
+            "ConditionAncestorTerm": "Urogenital Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000014591",
+            "ConditionAncestorTerm": "Uterine Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11210",
+            "ConditionBrowseLeafName": "Multiple Myeloma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M26741",
+            "ConditionBrowseLeafName": "Neoplasms, Plasma Cell",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18387",
+            "ConditionBrowseLeafName": "Endometrial Neoplasms",
+            "ConditionBrowseLeafAsFound": "Endometrial Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16494",
+            "ConditionBrowseLeafName": "Uterine Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8097",
+            "ConditionBrowseLeafName": "Genital Neoplasms, Female",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16467",
+            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16491",
+            "ConditionBrowseLeafName": "Uterine Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3947",
+            "ConditionBrowseLeafName": "Multiple Myeloma",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M5879",
+            "InterventionBrowseLeafName": "Cyclophosphamide",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9559",
+            "InterventionBrowseLeafName": "Interferons",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M15594",
+            "InterventionBrowseLeafName": "Sodium Pertechnetate Tc 99m",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          }
+        ]
+      }
+    }
+  }
+}

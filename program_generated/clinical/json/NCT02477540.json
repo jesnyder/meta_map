@@ -1,0 +1,270 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02477540",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "Cellgram-CLI"
+      },
+      "Organization": {
+        "OrgFullName": "Pharmicell Co., Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "A Safety and Efficacy Study of Autologous Bone Marrow Derived Mesenchymal Stem Cells in Critical Limb Ischemia",
+      "OfficialTitle": "An Open Labeled, Single-center, Phase I Study Assessing the Safety and Efficacy of Autologous Bone Marrow Derived Mesenchymal Stem Cells in Critical Limb Ischemia"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2019",
+      "OverallStatus": "Withdrawn",
+      "WhyStopped": "Study was stopped by sponsers internal reason.",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 2019",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 10, 2015",
+      "StudyFirstSubmitQCDate": "June 19, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 22, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "March 21, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 22, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Pharmicell Co., Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This clinical trial to study the Safety and Efficacy of Autologous Mesenchymal stem cells in critical limb ischemia.",
+      "DetailedDescription": "If the participant voluntarily agrees to participate in the clinical trial before registration, the investigator conducts a screening test to evaluate the participant's suitability.\n\nA participant that satisfies all inclusion and exclusion criteria is assigned a test group(2-time injection group).\n\nParticipants conduct cell therapy within 30 days after bone marrow aspiration, and will re-inject autologous mesenchymal stem cells within 30 days after first injection.\n\nParticipants will make a total of 5 hospital visits after registration, and Safety and Efficacy will be evaluated based on a fixed procedure on every visit."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Critical Limb Ischemia"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "0",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "2-time injection group : Cellgram-CLI",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Within 30 days after extracting bone marrow, autologous bone marrow-derived mesenchymal stem cells is directly injected into the lesion. Then the second cell is injected within 30 days after the first cell injection.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Cellgram-CLI"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cellgram-CLI",
+            "InterventionDescription": "Appearance: White cell suspension is filled in a clear plastic syringe, and fixed with an occlude on the prefilled syringe tip\n\nMain ingredient: Autologous bone marrow-derived mesenchymal stem cells\n\nDosage: 50,000,000 cells/10ml, 2-time injection\n\nStorage: An airtight container, 20~25℃\n\nInjection Method: Intramuscular",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "2-time injection group : Cellgram-CLI"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Autologous bone marrow derived Mesenchymal Stem Cells"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Ankle Brachial Pressure Index, ABPI",
+            "PrimaryOutcomeDescription": "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference of between the two visits(Screening and 6 month post treatment) before and after treatment.",
+            "PrimaryOutcomeTimeFrame": "6 months after BM-MSC therapy"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Collateral vessel formation on digital subtraction angiography (DSA)",
+            "SecondaryOutcomeDescription": "Analyze the difference of pre and post treatment using McNemar test for homogeneity test.",
+            "SecondaryOutcomeTimeFrame": "6 months after BM-MSC therapy"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Difference of Wound size",
+            "SecondaryOutcomeDescription": "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference of pre and post treatment Healing of ulcerations (change in size of ulcers) or reduction of ulcer area in the target limb.",
+            "SecondaryOutcomeTimeFrame": "6 months after BM-MSC therapy"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Improved transcutaneous oxygen pressure (TCPO2)",
+            "SecondaryOutcomeDescription": "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference of pre and post treatment transcutaneous oxygen pressure (TCPO2).",
+            "SecondaryOutcomeTimeFrame": "6 months after BM-MSC therapy"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Pain on the Visual Analogue Scale(VAS)",
+            "SecondaryOutcomeDescription": "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference of pre and post Visual Analogue Scale(VAS).\n\nVisual Analogue Scale(VAS):\n\nUsing a ruler, the score is determined by mea-suring the distance (mm) on the 10-cm line between the \"no pain\" anchor and the patient's mark, providing a range of scores from 0-100. A higher score indicates greater pain intensity.\n\nthe following cut points on the pain VAS have been recommended: no pain (0-4 mm), mild pain(5-44 mm), moderate pain (45-74 mm), and severe pain (75-100 mm)",
+            "SecondaryOutcomeTimeFrame": "6 months after BM-MSC therapy"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Reduced limb amputation",
+            "SecondaryOutcomeDescription": "Described and define as minor amputation is below midtarsal level, major amputation is more than midtarsal level.",
+            "SecondaryOutcomeTimeFrame": "6 months after BM-MSC therapy"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Temperature change on thermography",
+            "SecondaryOutcomeDescription": "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference of pre and post thermography.",
+            "SecondaryOutcomeTimeFrame": "6 months after BM-MSC therapy"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Dose about using analgesic medicine",
+            "SecondaryOutcomeDescription": "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference between pre and post dose of the using analgesic medicine.",
+            "SecondaryOutcomeTimeFrame": "6 months after BM-MSC therapy"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Rutherford classification",
+            "SecondaryOutcomeDescription": "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference of pre and post Rutherford classification.\n\nRutherford classification: commonly used clinical staging system for describing peripheral arterial disease.\n\nStage 0 - Asymptomatic Stage 1 - Mild claudication Stage 2 - Moderate claudication - The distance that delineates mild, moderate and severe claudication is not specified in the Rutherford classification, but is mentioned in the Fontaine classification as 200 meters.\n\nStage 3 - Severe claudication Stage 4 - Rest pain Stage 5 - Ischemic ulceration not exceeding ulcer of the digits of the foot Stage 6 - Severe ischemic ulcers or frank gangrene",
+            "SecondaryOutcomeTimeFrame": "6 months after BM-MSC therapy"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Frequency about using analgesic medicine",
+            "SecondaryOutcomeDescription": "Use Student's paired t-test or Wilcoxon's signed rank test to compare the difference between pre and post frequency of the using analgesic medicine.",
+            "SecondaryOutcomeTimeFrame": "6 months after BM-MSC therapy"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "For safety analysis we will observed clinical laboratory tests, physical examinations, tumor marker tests",
+            "OtherOutcomeDescription": "Analyze using McNemar's test by making a table of changes that occurred in the test.\n\nclinical laboratory tests(Follow the unit of each institution): <Blood>\n\nWBC, RBC, Hb, Hct, Platelets count, WBC Differential count, BUN, ALT, AST, Glucose, Total bilirubin, Total Cholesterol <Urine>\nProtein, Glucose, Blood, Ketone, Billrubin, Urobillnogen\n\nphysical examinations:\n\n-Allergy, Cardiovascular, Respiratory, Gastrointestinal /Liver biliary, Metabolic / endocrine, Kidney / urinary system, Reproductive, Musculoskeletal, Skin and connective, Nervous, Psyatric, Others\n\ntumor marker tests(Follow the unit of each institution):\n\nAFP\nCEA\nCA15-3(female)\nPSA(male)",
+            "OtherOutcomeTimeFrame": "12 months after BM-MSC therapy"
+          },
+          {
+            "OtherOutcomeMeasure": "occurrence and severity of adverse events",
+            "OtherOutcomeDescription": "Analyze the adverse events by using seriousness, severity and relevance of IP.",
+            "OtherOutcomeTimeFrame": "12 months after BM-MSC therapy"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge from 20 to 80 years\nPatients with resting pain or ulceration of limb (Rutherford's class: II-4, III-5 or III-6)\nAnkle Brachial Pressure Index (ABPI) ≤ 0.6 or TCPO2 ≤ 60mmHg in the foot\nPatients who were unsuitability for percutaneous transluminal angioplasty or a bypass operation\nPatients who are not expected other treatments for at least 6 months\nPatients who can agree to participate in the clinical trial by oneself or by one's legal representative\nPatients who can conduct the clinical trial according to the protocol\n\nExclusion Criteria:\n\nBuerger's disease\nHistory of hematologic disease\nPatients who are at risk of embolism due to atrial fibrillation\nPrimary hematologic disease, including hypercoagulable states\nEntrapment syndrome\nPatients with osteomyelitis\nPatients whose blood serum AST(Aspartate transaminase)/ALT(Alanine Transaminase) rates are more than three times the normal maximum rate, or whose creatinine rates are more than 1.5 times the normal maximum rate\nPatients with history of anaphylaxis to gentamicin\nPatients with hypersensitivity of bovine-derived ingredients\nPatients with chronic heart failure, Glomerular disease and Obstructive pulmonary disease\nPatients with Stroke or transient ischemic attack within 6 months prior to registration\nPatients tested positive for HIV(Human Immunodeficiency Virus), HCV(Hepatitis C Virus), HBV(Hepatitis B Virus) and Syphilis\nPatients with history of aorta and artery bypass operation, or angioplasty within 2 months recently\nPatients in need of a immediate amputation and have a potentially life-threatening complications of critical ischemia\nPatients with history of cell therapy\nType I diabetes\nUncontrolled diabetes mellitus (HgbA1C>8%)\nUncontrolled hypertension\nHas a medical record of solid cancer, or diagnosed with solid cancer and currently receiving cancer treatment\nPositive of tumor markers test(AFP((Alpha fetoprotein), CEA(Carcinoembryonic antigen), CA15-3(Cancer antigen 15-3 for breast cancer) and PSA(Prostate-specific antigen), or have received a diagnosis of cancer based on National cancer screening program\nPregnancy, possible candidate for pregnancy or lactating women\nInfectious disease\nAdministrating of immunosuppressive agents, corticosteroid formulation and cell toxicity formulation, or requiring administration of the test period\nPatients already enrolled in another clinical trials or completed within 3 months\nPatients who cannot adapt to the protocol and follow-up observation\nPatients who has experienced drug abuse for the past 1 year\nPatients with any disease or condition which the investigator fell would interfere with trial or the safety of the subject",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "WoongChol Kang, MD, Ph.D",
+            "OverallOfficialAffiliation": "Gachon University Gil Medical Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007511",
+            "ConditionMeshTerm": "Ischemia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafAsFound": "Ischemia",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

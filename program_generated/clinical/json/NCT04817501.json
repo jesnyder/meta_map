@@ -1,0 +1,555 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04817501",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CTC Phenotyping"
+      },
+      "Organization": {
+        "OrgFullName": "Tomsk National Research Medical Center of the Russian Academy of Sciences",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Phenotypic Spectrum of CTCs in Tumors of the Female Reproductive System",
+      "OfficialTitle": "Phenotypic Spectrum of Circulating Tumor Cell Populations as Markers of Liquid Biopsy in Tumors of the Female Reproductive System",
+      "Acronym": "CTCs"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 14, 2014",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 1, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 1, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "March 23, 2021",
+      "StudyFirstSubmitQCDate": "March 23, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 26, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "March 23, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 26, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Tomsk National Research Medical Center of the Russian Academy of Sciences",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The study evaluates the level and molecular profiles of different CTC populations as markers for predicting the risk of developing hematogenous metastases and the effectiveness of treatment in patients with tumors of the female reproductive system (breast cancer, endometrial cancer, and ovarian cancer).\n\nThe primary objective are:\n\nTo assess the presence and number of different populations of CTCs at different time points (before biopsy, before surgery, and after surgery).\nTo assess the relationships of different CTCs populations prior to treatment initiation with the effects of neoadjuvant chemotherapy and the risks of recurrence and metastases.\nTo assess the molecular profiles of different CTCs populations in the blood and in ascitic fluid.\n\nThe secondary objective is to compare the multicolor flow cytometry results with data of ultrasound, CT and/or MRI, serum tumor markers, and immunohistochemical studies in patients with breast cancer, endometrial cancer and ovarian cancer",
+      "DetailedDescription": "The overall goal is to study the diagnostic and prognostic efficacy of various CTC populations as liquid biopsy markers in tumors of the female reproductive system (breast cancer, endometrial cancer, and ovarian cancer).\n\nPhase I study:\n\nDetermination of different populations of CTCs in blood and ascitic fluid (if any) prior to treatment.\n\nThe main objectives of the study:\n\nTo assess the presence and number of different CTC populations at different time points (before biopsy and before surgery) using multicolor flow cytometry.\nTo assess the relationships between different CTCs populations prior to treatment initiation with the effects of neoadjuvant chemotherapy and the risks of recurrence and metastases.\nTo assess the molecular profiles of different CTCs populations in the blood and in ascitic fluid.\n\nAdditional research tasks:\n\nTo compare the multicolor flow cytometry results with the data of ultrasound, CT and/or MRI, serum tumor markers, and immunohistochemical studies in patients with breast cancer, endometrial cancer, and ovarian cancer Methodology: Open-label, exploratory, single centre study. Blood and ascitic fluid collected from subjects (if available)"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Breast Cancer",
+          "Ovarian Cancer",
+          "Endometrial Cancer"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "breast cancer",
+          "endometrial Cancer",
+          "ovarian cancer",
+          "CTC heterogeneity",
+          "cancer stem cells",
+          "epithelial-mesenchymal transition",
+          "multicolor flow cytometry",
+          "liquid biopsy",
+          "circulating tumor cell"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Control"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "EDTA-stabilized venous blood (5 mL) EDTA-stabilized ascitic fluid (5 mL)"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "150",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Breast cancer",
+            "ArmGroupDescription": "At least eighty five subjects with breast cancer",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Taking 5 ml of venous blood at different time intervals",
+                "Other: Taking 5 ml EDTA-stabilized ascitic fluid sampled during laparoscopy if any"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Ovarian cancer",
+            "ArmGroupDescription": "At least 32 subjects with ovarian cancer",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Taking 5 ml of venous blood at different time intervals",
+                "Other: Taking 5 ml EDTA-stabilized ascitic fluid sampled during laparoscopy if any"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Endometrial Cancer",
+            "ArmGroupDescription": "At least 33 subjects with endometrial cancer",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Taking 5 ml of venous blood at different time intervals",
+                "Other: Taking 5 ml EDTA-stabilized ascitic fluid sampled during laparoscopy if any"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Healthy control",
+            "ArmGroupDescription": "30 healthy volunteers",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Taking 5 ml of venous blood at different time intervals"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Suspected malignant tumor non-verified",
+            "ArmGroupDescription": "Patients with suspected malignant tumor, which was not verified by biopsy. Nubmber of patients to be defined",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Taking 5 ml of venous blood at different time intervals",
+                "Other: Taking 5 ml EDTA-stabilized ascitic fluid sampled during laparoscopy if any"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Taking 5 ml of venous blood at different time intervals",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Breast cancer",
+                "Endometrial Cancer",
+                "Healthy control",
+                "Ovarian cancer",
+                "Suspected malignant tumor non-verified"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Taking 5 ml EDTA-stabilized ascitic fluid sampled during laparoscopy"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Taking 5 ml EDTA-stabilized ascitic fluid sampled during laparoscopy if any",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Breast cancer",
+                "Endometrial Cancer",
+                "Ovarian cancer",
+                "Suspected malignant tumor non-verified"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "CTC phenotype",
+            "PrimaryOutcomeDescription": "Different populations of CTCs are evaluated by multicolor flow cytometry and may include:\n\nСTC, ascitic tumor cells with stemness features without EMT features; CTC, ascitic tumor cells without stemness and EMT features; CTC, ascitic tumor cells without stemness features and with EMT features; CTC, ascitic tumor cells with stemness features and EMT features; Atypical/hybrid cells without stemness features; Atypical cells.",
+            "PrimaryOutcomeTimeFrame": "6 hours"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSubject is > 18 years of age A negative pregnancy test (serum beta-human chorionic gonadotropin, beta-HCG) at screening for all patients of childbearing potential.\nClinical and radiological diagnosis of breast cancer or Ovarian cancer or Endometrial Cancer General satisfactory condition (according to the ECOG scale ≤2) Subject is capable to undergo the diagnostic investigations to be performed in the study\nInformed consent\n\nExclusion Criteria:\n\nActive current autoimmune disease or history of autoimmune disease\n\nActive infection or history of severe infection within the previous 3 months (if clinically relevant at screening)\nKnown HIV positive or chronically active hepatitis B or C The subject has multiple primary malignant tumors",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "Female",
+      "GenderBased": "Yes",
+      "GenderDescription": "Gender Based: women for breast cancer, Ovarian cancer, Endometrial Cancer",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Women over 18 years of age.",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Evgeniya Kaigorodova, MD,PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+7-3822-282686",
+            "CentralContactEMail": "zlobinae@mail.ru"
+          },
+          {
+            "CentralContactName": "Nina Anfinogenova, MD,PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "89095390220",
+            "CentralContactEMail": "anfiyj@gmail.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Evgeniya Kaigorodova",
+            "OverallOfficialAffiliation": "Tomsk NRMC",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Evgeniya Kaigorodova",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Tomsk",
+            "LocationState": "Tomskaya Oblast",
+            "LocationZip": "634050",
+            "LocationCountry": "Russian Federation",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Evgeniya Kaigorodova, MD,PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+7-3822-282686",
+                  "LocationContactEMail": "zlobinae@mail.ru"
+                },
+                {
+                  "LocationContactName": "Nina Anfinogenova, MD,PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "89095390220",
+                  "LocationContactEMail": "anfiyj@gmail.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010051",
+            "ConditionMeshTerm": "Ovarian Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000016889",
+            "ConditionMeshTerm": "Endometrial Neoplasms"
+          },
+          {
+            "ConditionMeshId": "D000005833",
+            "ConditionMeshTerm": "Genital Neoplasms, Female"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004701",
+            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000010049",
+            "ConditionAncestorTerm": "Ovarian Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000000291",
+            "ConditionAncestorTerm": "Adnexal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014565",
+            "ConditionAncestorTerm": "Urogenital Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006058",
+            "ConditionAncestorTerm": "Gonadal Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000014594",
+            "ConditionAncestorTerm": "Uterine Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000014591",
+            "ConditionAncestorTerm": "Uterine Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12126",
+            "ConditionBrowseLeafName": "Ovarian Neoplasms",
+            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M1704",
+            "ConditionBrowseLeafName": "Carcinoma, Ovarian Epithelial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4372",
+            "ConditionBrowseLeafName": "Breast Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11457",
+            "ConditionBrowseLeafName": "Neoplastic Cells, Circulating",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18387",
+            "ConditionBrowseLeafName": "Endometrial Neoplasms",
+            "ConditionBrowseLeafAsFound": "Endometrial Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8097",
+            "ConditionBrowseLeafName": "Genital Neoplasms, Female",
+            "ConditionBrowseLeafAsFound": "Tumors of the Female Reproductive System",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7015",
+            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12124",
+            "ConditionBrowseLeafName": "Ovarian Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2795",
+            "ConditionBrowseLeafName": "Adnexal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16467",
+            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8315",
+            "ConditionBrowseLeafName": "Gonadal Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16494",
+            "ConditionBrowseLeafName": "Uterine Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16491",
+            "ConditionBrowseLeafName": "Uterine Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4352",
+            "ConditionBrowseLeafName": "Ovarian Cancer",
+            "ConditionBrowseLeafAsFound": "Ovarian Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T4354",
+            "ConditionBrowseLeafName": "Ovarian Epithelial Cancer",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000004492",
+            "InterventionMeshTerm": "Edetic Acid"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000925",
+            "InterventionAncestorTerm": "Anticoagulants"
+          },
+          {
+            "InterventionAncestorId": "D000065096",
+            "InterventionAncestorTerm": "Calcium Chelating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000002614",
+            "InterventionAncestorTerm": "Chelating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000064449",
+            "InterventionAncestorTerm": "Sequestering Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M6814",
+            "InterventionBrowseLeafName": "Edetic Acid",
+            "InterventionBrowseLeafAsFound": "Egyptian",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M6695",
+            "InterventionBrowseLeafName": "Pentetic Acid",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3396",
+            "InterventionBrowseLeafName": "Anticoagulants",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M4550",
+            "InterventionBrowseLeafName": "Calcium, Dietary",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M4533",
+            "InterventionBrowseLeafName": "Calcium",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M5012",
+            "InterventionBrowseLeafName": "Chelating Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "AnCoag",
+            "InterventionBrowseBranchName": "Anticoagulants"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "BDCA",
+            "InterventionBrowseBranchName": "Bone Density Conservation Agents"
+          }
+        ]
+      }
+    }
+  }
+}

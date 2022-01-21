@@ -1,0 +1,519 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04452097",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "BXU001-COVID19"
+      },
+      "Organization": {
+        "OrgFullName": "Baylx Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Use of hUC-MSC Product (BX-U001) for the Treatment of COVID-19 With ARDS",
+      "OfficialTitle": "A Phase 1/2a Study of the Safety and Efficacy of BX-U001 for the Treatment of Severe COVID-19 Pneumonia With Moderate to Severe Acute Respiratory Distress Syndrome (ARDS)."
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 1, 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 31, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 31, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 28, 2020",
+      "StudyFirstSubmitQCDate": "June 28, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 30, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "March 16, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 18, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Baylx Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a phase 1/2a study including 2 parts, phase 1 and phase 2a. The phase 1 part is an open-label, single-arm, dose-escalating study to evaluate the safety and explore the dose limiting toxicity and maximum tolerated dose of a human umbilical cord derived mesenchymal stem cell product (BX-U001) in severe COVID-19 pneumonia patients with acute respiratory distress syndrome (ARDS). Qualified subjects after the screening will be divided into low, medium, or high dose groups to receive a single intravenous infusion of BX-U001 at the dose of 0.5×10^6, 1.0×10^6, or 1.5×10^6 cells/kg of body weight, respectively. The Phase 2a part is a randomized, placebo-controlled, double-blind clinical trial examining the safety and biological effects of BX-U001 at the appropriate dose selected from phase 1 for severe COVID-19 pneumonia patients with the same inclusion/exclusion criteria as the phase 1 part."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID-19",
+          "ARDS",
+          "Acute Respiratory Distress Syndrome"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignInterventionModelDescription": "In phase 1, eligible subjects will be divided into low, medium and high-dose groups with 3 patients/group. If there is no safety concerns for each group, the dose will be escalated from lower dose to the next higher dose. In phase 2a, a total of 30 subjects will be randomized into the treatment and control groups with a ratio of 3:2.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "39",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Phase 1 Low-dose Group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Eligible subjects will receive a single infusion of hUC-MCS product at the dose of 0.5 million cells/kg in addition to standard of care treatment.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Human umbilical cord mesenchymal stem cells + best supportive care"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Phase 1 Middle-dose Group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Eligible subjects will receive a single infusion of hUC-MCS product at the dose of 1 million cells/kg in addition to standard of care treatment.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Human umbilical cord mesenchymal stem cells + best supportive care"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Phase 1 High-dose Group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Eligible subjects will receive a single infusion of hUC-MCS product at the dose of 1.5 million cells/kg in addition to standard of care treatment.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Human umbilical cord mesenchymal stem cells + best supportive care"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Phase 2a Treatment Group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Eligible subjects will receive a single infusion of hUC-MCS product at the selected dose from phase 1 in addition to standard of care treatment.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Human umbilical cord mesenchymal stem cells + best supportive care"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Phase 2a Control Group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Eligible subjects will receive a single infusion of placebo control and standard of care treatment.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo control + best supportive care"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Human umbilical cord mesenchymal stem cells + best supportive care",
+            "InterventionDescription": "hUC-MSC product will be administered intravenously in addition to the standard of care treatment.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Phase 1 High-dose Group",
+                "Phase 1 Low-dose Group",
+                "Phase 1 Middle-dose Group",
+                "Phase 2a Treatment Group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo control + best supportive care",
+            "InterventionDescription": "Placebo control will be administered intravenously in addition to the standard of care treatment.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Phase 2a Control Group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Incidence of infusion-related adverse events",
+            "PrimaryOutcomeDescription": "Safety will be defined by the incidence of infusion-related adverse events as assessed by the treating physician",
+            "PrimaryOutcomeTimeFrame": "Day 3"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of any treatment-emergent adverse events (TEAEs) and treatment emergent serious adverse events (TESAEs)",
+            "PrimaryOutcomeDescription": "Safety will be defined by the incidence of TEAEs and TESAEs as assessed by the treating physician",
+            "PrimaryOutcomeTimeFrame": "Day 28"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Selection of an appropriate dose of BX-U001 for the following Phase 2 study",
+            "SecondaryOutcomeDescription": "The dose will be selected based on the assessment of dose-limiting toxicity and maximum tolerated dose.",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "All-cause mortality",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Proportion of patients achieving clinical response by the improvement of at least 2 points on the 7-point ordinal scale.",
+            "SecondaryOutcomeDescription": "The scale is as follows: 1. Death 2. Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO) 3. Hospitalized, on non-invasive ventilation or high flow oxygen devices 4. Hospitalized, requiring low flow supplemental oxygen 5. Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise) 6. Hospitalized, not requiring supplemental oxygen - no longer required ongoing medical care 7. Not hospitalized.",
+            "SecondaryOutcomeTimeFrame": "Day 14"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of ICU stay",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of hospital stay",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in blood cytokine levels",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female, aged between 18 and 80;\nLaboratory (RT-PCR, Gene Sequencing or Antibody) confirmed cases of severe COVID-19 pneumonia with mild to moderate ARDS (Berlin definition);\nPatients are intubated;\nPatients who voluntarily adhere to the research procedures and ensure good compliance during the research period;\nPatients who fully understand the research nature of this study and sign written informed consent.\n\nExclusion Criteria:\n\nSubjects who have received investigational drug (except for Remdesivir) for the treatment of COVID-19 within 30 days before screening;\nSubjects who are pregnant, breastfeeding or whose urinary pregnancy test is positive before participation in the study; subjects who are pregnant, breastfeeding, have a birth plan, or are unwillingness to use contraception during the study period and within 12 months of infusion; except for subjects who have sterilization surgery or menopause during the study period;\nWithin 3 days before screening/randomization, subjects who have used high-dose corticosteroids that is equivalent to methylprednisolone >240 mg/day or irregular use of systemic corticosteroids to treat other diseases that could affect the efficacy evaluated by the investigator;\nSubjects receiving extracorporeal membrane oxygenation (ECMO) support.\nSubjects who are allergic to low-molecular-weight heparin calcium or human albumin;\nSubjects with ongoing malignant tumors.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Vincent Liao, MD. Ph.D.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "949-308-1952",
+            "CentralContactEMail": "baylx@baylxinc.com"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000012128",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000012127",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome, Newborn"
+          },
+          {
+            "ConditionMeshId": "D000055371",
+            "ConditionMeshTerm": "Acute Lung Injury"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007235",
+            "ConditionAncestorTerm": "Infant, Premature, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007232",
+            "ConditionAncestorTerm": "Infant, Newborn, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000055370",
+            "ConditionAncestorTerm": "Lung Injury"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27296",
+            "ConditionBrowseLeafName": "Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9431",
+            "ConditionBrowseLeafName": "Infant, Premature, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9428",
+            "ConditionBrowseLeafName": "Infant, Newborn, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

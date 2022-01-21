@@ -1,0 +1,485 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03493984",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "17.1114"
+      },
+      "Organization": {
+        "OrgFullName": "University of Louisville",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Plant Exosomes and Patients Diagnosed With Polycystic Ovary Syndrome (PCOS) 17",
+      "OfficialTitle": "A Preliminary Clinical Trial Investigating the Ability of Plant Exosomes to Mitigate Insulin Resistance and Chronic Inflammation in Patients Diagnosed With Polycystic Ovary Syndrome (PCOS)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2021",
+      "OverallStatus": "Withdrawn",
+      "WhyStopped": "Investigator left the university prior to study approval, no patients enrolled",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 2019",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "May 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "May 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "February 20, 2018",
+      "StudyFirstSubmitQCDate": "March 30, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 11, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "March 12, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 16, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University of Louisville",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to see if substances contained in ginger or aloe plants, called exosomes, will treat and improve the condition polycystic ovary syndrome"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Polycystic Ovary Syndrome"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "0",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Ginger exosomes",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Ginger exosomes"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Aloe exosomes",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Aloe exosomes"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Ginger and aloe exosomes",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Ginger exosomes",
+                "Other: Aloe exosomes"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Ginger exosomes",
+            "InterventionDescription": "Naturally occurring plant exosomes from ginger",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Ginger and aloe exosomes",
+                "Ginger exosomes"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Aloe exosomes",
+            "InterventionDescription": "Naturally occurring plant exosomes from aloe",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Aloe exosomes",
+                "Ginger and aloe exosomes"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Exosome placebo tablet",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change in glucose tolerance as measured by a glucose tolerance test",
+            "PrimaryOutcomeDescription": "A glucose challenge test will be administered after initially obtaining a fasting serum glucose(baseline), then administering a 75 gram glucose load orally, then a serum glucose will be obtained 2 hours later. Serum glucose is measured in mg/dL.",
+            "PrimaryOutcomeTimeFrame": "Baseline, twelve weeks."
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change in serum insulin levels during a glucose tolerance test",
+            "SecondaryOutcomeDescription": "Serum insulin levels in multi-international units per litre (mIU/L) will be measured at baseline and after 2 hours during a 2-hour glucose tolerance test",
+            "SecondaryOutcomeTimeFrame": "Baseline, twelve weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Serum Testosterone",
+            "SecondaryOutcomeDescription": "Serum testosterone in ng/dL Changes in serum testosterone as measured in ng/dL",
+            "SecondaryOutcomeTimeFrame": "Baseline, twelve weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Sex hormone binding globulin",
+            "SecondaryOutcomeDescription": "Changes in sex hormone binding globulin in nmol/L",
+            "SecondaryOutcomeTimeFrame": "Baseline, twelve weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Stool sample",
+            "SecondaryOutcomeDescription": "Gut microbiota",
+            "SecondaryOutcomeTimeFrame": "Baseline, twelve weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Inflammatory marker cluster of differentiation 4 (CD4)",
+            "SecondaryOutcomeDescription": "CD4",
+            "SecondaryOutcomeTimeFrame": "Baseline, twelve weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Inflammatory marker cluster of differentiation 8 (CD8)",
+            "SecondaryOutcomeDescription": "CD8",
+            "SecondaryOutcomeTimeFrame": "Baseline, twelve weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Inflammatory marker Foxp3",
+            "SecondaryOutcomeDescription": "Foxp3",
+            "SecondaryOutcomeTimeFrame": "Baseline, twelve weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Inflammatory marker cluster of differentiation 11b (CD11b)",
+            "SecondaryOutcomeDescription": "CD11b",
+            "SecondaryOutcomeTimeFrame": "Baseline, twelve weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Inflammatory marker cluster of differentiation 33 (CD33)",
+            "SecondaryOutcomeDescription": "CD33",
+            "SecondaryOutcomeTimeFrame": "Baseline, twelve weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Inflammatory marker F4/80",
+            "SecondaryOutcomeDescription": "F4/80",
+            "SecondaryOutcomeTimeFrame": "Baseline, twelve weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Inflammatory marker interleukin 10 (IL-10)",
+            "SecondaryOutcomeDescription": "IL-10",
+            "SecondaryOutcomeTimeFrame": "Baseline, twelve weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Inflammatory marker interleukin 1b (IL-1b)",
+            "SecondaryOutcomeDescription": "IL-1b",
+            "SecondaryOutcomeTimeFrame": "Baseline, twelve weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Inflammatory marker tumor necrosis factor alpha (TNF-a)",
+            "SecondaryOutcomeDescription": "TNF-a",
+            "SecondaryOutcomeTimeFrame": "Baseline, twelve weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Inflammatory marker interleukin 6 (IL-6)",
+            "SecondaryOutcomeDescription": "IL-6",
+            "SecondaryOutcomeTimeFrame": "Baseline, twelve weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge 18-40 year\nPatients must have a confirmed diagnosis of PCOS according to the Rotterdam Criteria. At least 2 of the following 3 characteristics must be present: 1. Oligo-anovulation 2. Clinical and/or biochemical signs of androgen excess and 3. Polycystic ovarian morphology (PCOM) (defined by an increased number of small antral follicles [≥12 follicles that were <10 mm in diameter] or an increased individual ovarian volume [>10 cm3] in 1 or both ovaries. Disorders mimicking PCOS must also be excluded, including thyroid dysfunction, hyperprolactinemia, late-onset congenital adrenal hyperplasia, and ovarian or adrenal androgen-producing tumors.\nOf all subjects screened patients must be informed of the investigational nature of this study and give written informed consent in accordance with institutional and federal guidelines.\nAbility to understand and willingness to sign a written informed consent document.\nAbsence of life limiting medical conditions\n\nExclusion Criteria:\n\n• Pregnancy\n\nKnown HIV\nPatients receiving immunosuppressive drugs\nPatients taking confounding medications such as sex steroids, infertility medications or insulin sensitizers or any medication deemed to alter glucose and/or insulin levels\nActive malignancy in the last 5 years\nPatients receiving any other investigational agent(s)\nGinger and/or aloe allergy",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "Female",
+      "GenderBased": "Yes",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "40 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Henry Bohler, MD",
+            "OverallOfficialAffiliation": "University of Louisville",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Louisville",
+            "LocationCity": "Louisville",
+            "LocationState": "Kentucky",
+            "LocationZip": "40202",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000011085",
+            "ConditionMeshTerm": "Polycystic Ovary Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000010048",
+            "ConditionAncestorTerm": "Ovarian Cysts"
+          },
+          {
+            "ConditionAncestorId": "D000003560",
+            "ConditionAncestorTerm": "Cysts"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000010049",
+            "ConditionAncestorTerm": "Ovarian Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000000291",
+            "ConditionAncestorTerm": "Adnexal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006058",
+            "ConditionAncestorTerm": "Gonadal Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9445",
+            "ConditionBrowseLeafName": "Inflammation",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13122",
+            "ConditionBrowseLeafName": "Polycystic Ovary Syndrome",
+            "ConditionBrowseLeafAsFound": "Polycystic Ovary Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9522",
+            "ConditionBrowseLeafName": "Insulin Resistance",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5917",
+            "ConditionBrowseLeafName": "Cysts",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12123",
+            "ConditionBrowseLeafName": "Ovarian Cysts",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12124",
+            "ConditionBrowseLeafName": "Ovarian Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2795",
+            "ConditionBrowseLeafName": "Adnexal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8315",
+            "ConditionBrowseLeafName": "Gonadal Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9517",
+            "InterventionBrowseLeafName": "Insulin",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M172956",
+            "InterventionBrowseLeafName": "Insulin, Globin Zinc",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "T166",
+            "InterventionBrowseLeafName": "Ginger",
+            "InterventionBrowseLeafAsFound": "Esophagitis",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "T51",
+            "InterventionBrowseLeafName": "Aloe",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Hypo",
+            "InterventionBrowseBranchName": "Hypoglycemic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "HB",
+            "InterventionBrowseBranchName": "Herbal and Botanical"
+          }
+        ]
+      }
+    }
+  }
+}

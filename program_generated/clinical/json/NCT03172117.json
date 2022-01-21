@@ -1,0 +1,417 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03172117",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MP-CR-010-F/U"
+      },
+      "Organization": {
+        "OrgFullName": "Medipost Co Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Follow-up Study of Safety and Efficacy in Subjects Who Completed NEUROSTEM® Phase-I/IIa Clinical Trial.",
+      "OfficialTitle": "Follow-up Study of Safety and Efficacy in Subjects Who Completed NEUROSTEM® Phase-I/IIa Clinical Trial."
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 19, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 31, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 29, 2017",
+      "StudyFirstSubmitQCDate": "May 29, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 1, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 26, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 28, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Medipost Co Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "A long-term follow-up study to obtain safety and efficacy data in subjects who completed phase 1/2a clinical trial of NEUROSTEM® (NCT02054208), comparing NEUROSTEM and placebo groups for up to 36 months after the initial administration in patients suffering from Alzheimer's disease",
+      "DetailedDescription": "The subjects will be followed up at 12-month, 24-month, and 36-month (phone call) after the initial administration of NEUROSTEM®."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Alzheimer's Disease"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "45",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "NEUROSTEM® (hUCB-MSCs)- low dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "human umbilical cord blood derived mesenchymal stem cells Low dose: 1 x 10^7cells/2mL 3 repeated intraventricular administrations via an Ommaya Reservoir at 4 week intervals",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: human umbilical cord blood derived mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "NEUROSTEM® (hUCB-MSCs) - high dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "human umbilical cord blood derived mesenchymal stem cells High dose: 3 x 10^7 cells/2mL 3 repeated intraventricular administrations via an Ommaya Reservoir at 4 week intervals",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: human umbilical cord blood derived mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "normal saline 2mL, doses separated by 4 weeks for a total of 3 doses",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Normal saline 2mL"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "human umbilical cord blood derived mesenchymal stem cells",
+            "InterventionDescription": "Low dose: 1 x 10^7cells/2mL 3 repeated intraventricular administrations via an Ommaya Reservoir at 4 week intervals\n\nHigh dose: 3 x 10^7cells/2mL 3 repeated intraventricular administrations via an Ommaya Reservoir at 4 week intervals",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "NEUROSTEM® (hUCB-MSCs) - high dose",
+                "NEUROSTEM® (hUCB-MSCs)- low dose"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "NEUROSTEM®"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Normal saline 2mL",
+            "InterventionDescription": "Normal Saline at 4 week intervals via an Ommaya Reservoir, for a total of 3 administrations",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change from the baseline in ADAS-Cog",
+            "PrimaryOutcomeDescription": "Alzheimer's Disease assessment Scale-Cognitive Subscale",
+            "PrimaryOutcomeTimeFrame": "24 month after the first dose"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change from the baseline in S-IADL",
+            "SecondaryOutcomeDescription": "Seoul Instrumental Activities of Daily Living",
+            "SecondaryOutcomeTimeFrame": "24 month after the first dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change from the baseline in K-MMSE",
+            "SecondaryOutcomeDescription": "Mini Mental State Exmination Korean version",
+            "SecondaryOutcomeTimeFrame": "24 month after the first dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change from the baseline in CGA-NPI",
+            "SecondaryOutcomeDescription": "Caregiver-administered Neuropsychiatric Inventory",
+            "SecondaryOutcomeTimeFrame": "24 month after the first dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "ADAS-Cog Response Rate",
+            "SecondaryOutcomeDescription": "the ADAS-cog score at 24 month after the first administration compared to the baseline",
+            "SecondaryOutcomeTimeFrame": "24 month after the first dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in CDR-SOB",
+            "SecondaryOutcomeDescription": "Clinical Dementia Rating-Sum of Box",
+            "SecondaryOutcomeTimeFrame": "24 month after the first dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in CIBIC-plus",
+            "SecondaryOutcomeDescription": "The Clinician's Interview Based Impression of Change-plus",
+            "SecondaryOutcomeTimeFrame": "24 month after the first dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Florbetaben-PET",
+            "SecondaryOutcomeDescription": "Florbetaben - Pittsburgh Compound B-positron emission tomography",
+            "SecondaryOutcomeTimeFrame": "24 month after the first dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in FDG-PET (CMRglc: regional cerebral metabolic rate for glucose)",
+            "SecondaryOutcomeDescription": "fluorodeoxyglucose positron emission tomography",
+            "SecondaryOutcomeTimeFrame": "24 month after the first dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change from baseline in MRI (DTI mapping)",
+            "SecondaryOutcomeDescription": "MRI Analysis",
+            "SecondaryOutcomeTimeFrame": "24 month after the first dose"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change from the baseline in CSF biomarkers",
+            "SecondaryOutcomeDescription": "biomakrer analysis",
+            "SecondaryOutcomeTimeFrame": "24 month after the first dose"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAssessment of safety and exploratory treatment efficacy in subjects who were enrolled and completed phase 1/2a clinical trial of NEUROSTEM®.\nSubjects who have been treated with either NEUROSTEM® or placebo at least 12 months ago.\nSubjects who voluntarily decided to participate and signed the consent form after receiving explanations on the clinical trial (in case it is difficult for the participant to sign, the consent of the legal representative)\n\nExclusion Criteria:\n\nSubjects who were not enrolled in phase 1/2a clinical trial of Neurostem® for assessing safety and exploratory treatment efficacy\nOther subjects, excluding those listed above, who were deemed unsuitable by the PI",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "50 Years",
+      "MaximumAge": "86 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Sujin Choi, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+82-2-3465-6770",
+            "CentralContactEMail": "sjchoi@medi-post.co.kr"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Samsung Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seoul",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Heejin Choi, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+82-2-3410-1947",
+                  "LocationContactEMail": "evekhj@gmail.com"
+                },
+                {
+                  "LocationContactName": "Duk L Na, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "34521461",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Kim HJ, Cho KR, Jang H, Lee NK, Jung YH, Kim JP, Lee JI, Chang JW, Park S, Kim ST, Moon SW, Seo SW, Choi SJ, Na DL. Intracerebroventricular injection of human umbilical cord blood mesenchymal stem cells in patients with Alzheimer's disease dementia: a phase I clinical trial. Alzheimers Res Ther. 2021 Sep 14;13(1):154. doi: 10.1186/s13195-021-00897-2."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000000544",
+            "ConditionMeshTerm": "Alzheimer Disease"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000003704",
+            "ConditionAncestorTerm": "Dementia"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000024801",
+            "ConditionAncestorTerm": "Tauopathies"
+          },
+          {
+            "ConditionAncestorId": "D000019636",
+            "ConditionAncestorTerm": "Neurodegenerative Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000019965",
+            "ConditionAncestorTerm": "Neurocognitive Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001523",
+            "ConditionAncestorTerm": "Mental Disorders"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M3037",
+            "ConditionBrowseLeafName": "Alzheimer Disease",
+            "ConditionBrowseLeafAsFound": "Alzheimer's Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6056",
+            "ConditionBrowseLeafName": "Dementia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22155",
+            "ConditionBrowseLeafName": "Tauopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20711",
+            "ConditionBrowseLeafName": "Neurodegenerative Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20989",
+            "ConditionBrowseLeafName": "Neurocognitive Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3967",
+            "ConditionBrowseLeafName": "Mental Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13625",
+            "ConditionBrowseLeafName": "Psychotic Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2192",
+            "ConditionBrowseLeafName": "Familial Alzheimer Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXM",
+            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03033277",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "Multi-cited POI Recovery"
+      },
+      "Organization": {
+        "OrgFullName": "Chinese Academy of Sciences",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Human Umbilical Cord Mesenchymal Stem Cells (HUC-MSCs) Transplantation in Women With Primary Ovarian Insufficiency (POI)",
+      "OfficialTitle": "Human Umbilical Cord Mesenchymal Stem Cells (HUC-MSCs) Transplantation in Women With Primary Ovarian Insufficiency (POI)"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2017",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 2016",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 2017",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 2018",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "January 10, 2017",
+      "StudyFirstSubmitQCDate": "January 24, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 26, 2017",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "January 24, 2017",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 26, 2017",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Hongmei Wang",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Chinese Academy of Sciences"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Chinese Academy of Sciences",
+        "LeadSponsorClass": "OTHER_GOV"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "The Third Affiliated Hospital of Guangzhou Medical University",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "There is a high incidence of women suffering from Primary Ovarian Insufficiency (POI). One of the most common treatments for POI is hormone replacement therapy (HRT), but HRT doesn't work well, and it has been shown to increase the risk of blood clots in the veins, ovarian cancer, and breast cancer. The ability of MSCs to differentiate into oocyte-like cells has been previously documented. Herein the purpose of this work is to evaluate the therapeutic potential of cell therapy in women suffering from POI."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Primary Ovarian Insufficiency"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "320",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Hormone replacement therapy, placebo transplantation.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Placebo transplantation"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Experimental group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Hormone replacement therapy,HUC-MSCs transplantation.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: HUC-MSCs transplantation"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Placebo transplantation",
+            "InterventionDescription": "Intraovarian injection of placebo through vagina under the guidance of ultrasonic.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "HUC-MSCs transplantation",
+            "InterventionDescription": "Intraovarian injection of HUC-MSCs through vagina under the guidance of ultrasonic.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Experimental group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of mature follicle",
+            "PrimaryOutcomeDescription": "The number of mature follicles developing was recorded by transvaginal ultrasound scan",
+            "PrimaryOutcomeTimeFrame": "Up to 4 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Follicle-stimulating hormone (FSH) serum level",
+            "SecondaryOutcomeDescription": "Serum FSH level was evaluated once a month after surgery",
+            "SecondaryOutcomeTimeFrame": "Up to 4 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Estradiol (E2) serum level",
+            "SecondaryOutcomeDescription": "Serum E2 level was evaluated once a month after surgery",
+            "SecondaryOutcomeTimeFrame": "Up to 4 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Anti-Mullerian hormone (AMH) serum level",
+            "SecondaryOutcomeDescription": "Serum AMH level was evaluated once a month after surgery",
+            "SecondaryOutcomeTimeFrame": "Up to 4 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of antral follicle development",
+            "SecondaryOutcomeDescription": "The number of antral follicles developing was recorded by transvaginal ultrasound scan",
+            "SecondaryOutcomeTimeFrame": "Up to 4 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Ovarian volume",
+            "SecondaryOutcomeDescription": "The ovarian volume was recorded by transvaginal ultrasound scan",
+            "SecondaryOutcomeTimeFrame": "Up to 4 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Pregnancy rate",
+            "SecondaryOutcomeDescription": "The incidence of pregnancy following transfer of embryos produced from oocytes recovered from follicles developing was assessed by Serum Human Chorionic Gonadotropin (HCG) detection.",
+            "SecondaryOutcomeTimeFrame": "Up to 12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnosed with primary ovarian insufficiency;\nWomen between 20 and 40 years;\nHave fertility requirements, husband has sperm;\nWilling to sign the Informed Consent Form.\n\nExclusion Criteria:\n\nPrimary amenorrhea;\nAbnormal karyotyping (e.g. turner syndrome, fragile X syndrome);\nThyroid dysfunction;\nSevere endometriosis;\nContraindications for pregnancy;\nPrior personal history of ovarian cancer;\nUnwilling to comply with follow-up schedule or want to take other treatment during the follow-up period;\nHistory of serious drug allergy or allergic constitution;\nAutoimmune disease, history of severe familial genetic disease;\nHIV+, hepatitis B, C;",
+      "HealthyVolunteers": "No",
+      "Gender": "Female",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "40 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Long Yan, Doctor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86-15650717331",
+            "CentralContactEMail": "yanlong@ioz.ac.cn"
+          },
+          {
+            "CentralContactName": "Jianqiao Liu, Doctor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86-18928916736",
+            "CentralContactEMail": "ljq88gz@163.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Hongmei Wang, Doctor",
+            "OverallOfficialAffiliation": "State Key Laboratory of Stem Cell and Reproductive Biology",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Institute of Zoology, Chinese Academy of Sciences.",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Beijing",
+            "LocationState": "Beijing",
+            "LocationZip": "100101",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Jianqiao Liu, Doctor",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+86-18928916736",
+                  "LocationContactEMail": "ljq88gz@163.com"
+                },
+                {
+                  "LocationContactName": "Yixuan Wu, Doctor",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+86-13430202696",
+                  "LocationContactEMail": "87295667@qq.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000016649",
+            "ConditionMeshTerm": "Primary Ovarian Insufficiency"
+          },
+          {
+            "ConditionMeshId": "D000008594",
+            "ConditionMeshTerm": "Menopause, Premature"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010049",
+            "ConditionAncestorTerm": "Ovarian Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000000291",
+            "ConditionAncestorTerm": "Adnexal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006058",
+            "ConditionAncestorTerm": "Gonadal Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M18172",
+            "ConditionBrowseLeafName": "Primary Ovarian Insufficiency",
+            "ConditionBrowseLeafAsFound": "Primary Ovarian Insufficiency",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10729",
+            "ConditionBrowseLeafName": "Menopause, Premature",
+            "ConditionBrowseLeafAsFound": "Primary Ovarian Insufficiency",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12124",
+            "ConditionBrowseLeafName": "Ovarian Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2795",
+            "ConditionBrowseLeafName": "Adnexal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8315",
+            "ConditionBrowseLeafName": "Gonadal Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T6036",
+            "ConditionBrowseLeafName": "Menopause",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M8941",
+            "InterventionBrowseLeafName": "Hormones",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

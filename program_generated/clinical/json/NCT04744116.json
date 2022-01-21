@@ -1,0 +1,492 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04744116",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2019-1122"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "NCI-2020-13889",
+            "SecondaryIdType": "Registry Identifier",
+            "SecondaryIdDomain": "CTRP (Clinical Trial Reporting Program)"
+          },
+          {
+            "SecondaryId": "2019-1122",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "M D Anderson Cancer Center"
+          },
+          {
+            "SecondaryId": "P01CA148600",
+            "SecondaryIdType": "U.S. NIH Grant/Contract",
+            "SecondaryIdLink": "https://projectreporter.nih.gov/reporterapi.cfm?PROJECTNUM=P01CA148600&Fy=all"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "M.D. Anderson Cancer Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Addition of Cord Blood Tissue-Derived Mesenchymal Stromal Cells to Ruxolitinib for the Treatment of Steroid-Refractory Acute Graft Versus Host Disease",
+      "OfficialTitle": "A Randomized Controlled Pilot Study of Two Doses of Cord Blood Tissue-Derived Mesenchymal Stromal Cells Combined With Ruxolitinib Versus Ruxolitinib Alone for Therapy of Steroid-Refractory Acute Graft Versus Host Disease"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Recruiting",
+      "StartDateStruct": {
+        "StartDate": "February 17, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 30, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 30, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "February 3, 2021",
+      "StudyFirstSubmitQCDate": "February 3, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "February 8, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 29, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 3, 2022",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "M.D. Anderson Cancer Center",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "National Cancer Institute (NCI)",
+            "CollaboratorClass": "NIH"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This early phase I trial is to find out the effect of adding cord blood tissue-derived mesenchymal stromal cells (cb-MSCs) to ruxolitinib in treating patients with acute graft versus host disease that does not respond to steroid therapy (steroid-refractory). Ruxolitinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. cb-MSCs are a type of tissue helper cell that can be removed from donated umbilical cord blood tissue and grown into many different cell types that can be used to treat cancer and other disease, such as graft versus host disease. This trial aims to learn if adding cb-MSCs to ruxolitinib may help control steroid-refractory acute graft versus host disease.",
+      "DetailedDescription": "PRIMARY OBJECTIVE:\n\nI. To estimate between-arm differences (Arm 3 versus [vs] Arm 1, and Arm 2 vs Arm 1) for each of the 28-day co-primary outcome probabilities.\n\nOUTLINE: Patients are randomized to 1 of 3 arms.\n\nARM 1: Patients receive ruxolitinib orally (PO) twice daily (BID) for at least 3 days and may consider tapering after 6 months of therapy if response occurs and therapeutic corticosteroid doses have been discontinued.\n\nARM 2: Patients receive ruxolitinib PO BID as in Arm 1. Patients also receive lower dose of cb-MSCs intravenously (IV) for up to 60 minutes twice weekly (at least 3 days apart) over 4 consecutive weeks for 8 total doses.\n\nARM 3: Patients receive ruxolitinib PO BID as in Arm 1. Patients also receive higher dose of cb-MSCs IV for up to 60 minutes twice weekly (at least 3 days apart) over 4 consecutive weeks for 8 total doses.\n\nAfter completion of study treatment, patients are followed up on day 28 and then for up to 6 months."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Hematopoietic and Lymphoid Cell Neoplasm",
+          "Steroid Refractory Graft Versus Host Disease"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Early Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "24",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Arm 1 (ruxolitinib)",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patients receive ruxolitinib PO BID for at least 3 days and may consider tapering after 6 months of therapy if response occurs and therapeutic corticosteroid doses have been discontinued.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Ruxolitinib"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Arm 2 (ruxolitinib, lower dose ds-MSCs)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients receive ruxolitinib PO BID as in Arm 1. Patients also receive lower dose of cb-MSCs IV for up to 60 minutes twice weekly (at least 3 days apart) over 4 consecutive weeks for 8 total doses.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Cellular Therapy",
+                "Drug: Ruxolitinib"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Arm 3 (ruxolitinib, higher dose ds-MSCs)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients receive ruxolitinib PO BID as in Arm 1. Patients also receive higher dose of cb-MSCs IV for up to 60 minutes twice weekly (at least 3 days apart) over 4 consecutive weeks for 8 total doses.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Cellular Therapy",
+                "Drug: Ruxolitinib"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Cellular Therapy",
+            "InterventionDescription": "Given ds-MSCs IV",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm 2 (ruxolitinib, lower dose ds-MSCs)",
+                "Arm 3 (ruxolitinib, higher dose ds-MSCs)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Cell Therapy"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Ruxolitinib",
+            "InterventionDescription": "Given PO",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Arm 1 (ruxolitinib)",
+                "Arm 2 (ruxolitinib, lower dose ds-MSCs)",
+                "Arm 3 (ruxolitinib, higher dose ds-MSCs)"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "INCB-18424",
+                "INCB18424",
+                "Jakafi",
+                "Oral JAK Inhibitor INCB18424"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Death from any cause",
+            "PrimaryOutcomeTimeFrame": "Within 28 days from the start of active study treatment"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Response",
+            "PrimaryOutcomeDescription": "Will compare the patient's 28-day graft versus host disease (GVHD) status to the patient's baseline GVHD status when steroid refractory acute GVHD was diagnosed.",
+            "PrimaryOutcomeTimeFrame": "At day 28 from start of therapy on study"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of adverse events",
+            "PrimaryOutcomeTimeFrame": "Within 28 days from the start of active study treatment"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Graft versus host disease status",
+            "SecondaryOutcomeDescription": "Will assess complete response (CR), very good partial response (VGPR), partial response (PR), stable disease (SD), and progressive disease (PD).",
+            "SecondaryOutcomeTimeFrame": "At days 7, 14, 21 and 28 post treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Proportion of response",
+            "SecondaryOutcomeDescription": "Will assess proportion of patients with CR, PR, VGPR, and no-response (NR). The event NR is defined as stable disease, mixed response, disease progression, OR initiation of additional systemic (second-line) GVHD therapies.",
+            "SecondaryOutcomeTimeFrame": "At days 7, 14, 21 and 28 post treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to complete response",
+            "SecondaryOutcomeDescription": "Will be estimated by the method of Kaplan and Meier.",
+            "SecondaryOutcomeTimeFrame": "Up to 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to very good partial response",
+            "SecondaryOutcomeDescription": "Will be estimated by the method of Kaplan and Meier.",
+            "SecondaryOutcomeTimeFrame": "Up to 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to partial response",
+            "SecondaryOutcomeDescription": "Will be estimated by the method of Kaplan and Meier.",
+            "SecondaryOutcomeTimeFrame": "Up to 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of complete response for each organ",
+            "SecondaryOutcomeTimeFrame": "Up to 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of very good partial response for each organ",
+            "SecondaryOutcomeTimeFrame": "Up to 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of partial response for each organ",
+            "SecondaryOutcomeTimeFrame": "Up to 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Durability of organ response",
+            "SecondaryOutcomeTimeFrame": "Up to 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cumulative incidence of non-relapse mortality (NRM)",
+            "SecondaryOutcomeTimeFrame": "At 6 months post treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cumulative incidence of relapse/progression of the primary disease",
+            "SecondaryOutcomeTimeFrame": "At 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Overall survival",
+            "SecondaryOutcomeTimeFrame": "From enrollment to death from any cause, assessed at 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Disease-free survival",
+            "SecondaryOutcomeTimeFrame": "From enrollment to death from any cause or relapse/progression of the primary disease, assessed at 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Graft versus host disease-free survival",
+            "SecondaryOutcomeDescription": "Patients alive, free of active acute or chronic GVHD, and without other systemic agents (or escalation of steroids to >= 2.5 mg/kg/day of prednisone [or methylprednisolone equivalent of 2 mg/kg/day]) added for treatment of GVHD will be considered successes for this endpoint",
+            "SecondaryOutcomeTimeFrame": "At 6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of chronic graft versus host disease",
+            "SecondaryOutcomeDescription": "Chronic GVHD is defined per National Institutes of Health Consensus Criteria. Diagnosis of chronic GVHD of any severity (mild, moderate, or severe) is considered an event for this endpoint. Organ involvement and maximum severity will also be described at six months.",
+            "SecondaryOutcomeTimeFrame": "At 6 months after first mesenchymal stromal cells (MSC) infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of systemic infections",
+            "SecondaryOutcomeDescription": "The incidence of grade 2 to 3 systemic infections occurring from study treatment until 28 days after last study drug will be described using standard Common Terminology Criteria for Adverse Events (CTCAE) criteria. Infections will be recorded by site of disease, date of onset, and severity.",
+            "SecondaryOutcomeTimeFrame": "28 days after last study drug"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of toxicities",
+            "SecondaryOutcomeDescription": "The incidence of grade 3-5 treatment-emergent adverse events (per CTCAE version 5.0) that occur through 28 days after completing last MSC infusion study drug will be described.",
+            "SecondaryOutcomeTimeFrame": "Up to 28 days after completing last MSC infusion study drug"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of any grade cytokine release",
+            "SecondaryOutcomeTimeFrame": "Up to 28 days after completing last MSC infusion study drug"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of any infusional toxicity",
+            "SecondaryOutcomeTimeFrame": "Within 24 hours of each cord blood-MSC infusion"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Cytokine biomarker analysis (optional)",
+            "OtherOutcomeDescription": "Will use cytokine biomarker assays to predict response to therapy.",
+            "OtherOutcomeTimeFrame": "Up to 6 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Fecal samples analysis (optional)",
+            "OtherOutcomeDescription": "Will use fecal samples to assess microbiome and potential predictor for response to therapy.",
+            "OtherOutcomeTimeFrame": "Up to 6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients between the ages of 12 years and 80 years (inclusive)\nSteroid refractory grades II-IV acute GVHD of the lower gastrointestinal (GI) tract or liver (including those developing these manifestations after previous acute GVHD of skin) secondary to allogeneic hematopoietic cell transplantation (HCT) or donor lymphocyte infusion. GVHD with: No improvement after treatment with methylprednisolone at >= 2.0 mg/kg/day or equivalent for minimum 7 days, or progressive symptoms after minimum 3 days, or a flare in acute GVHD while on doses of systemic steroids of 0.5 mg/kg/day or greater. Patients must have had a biopsy that suggests GVHD; a repeat biopsy to enroll on the study is not necessary\nEstimated creatinine clearance >= 30 mL/min\nKarnofsky/Lansky performance score of at least 30 at the time of study entry\nPatients who are women of childbearing potential, must be non-pregnant, not breast-feeding, and use adequate contraception. Male patients must use adequate contraception\nPatient (or legal representative where appropriate) must be capable of providing written informed consent, and assent if indicated\n\nExclusion Criteria:\n\nDe novo chronic GVHD\nIsolated acute GVHD of skin\nSecondary systemic therapy for acute GVHD ruxolitinib greater than 96 hours before initiation of therapy\nPrimary treatment with agents other than glucocorticoids and ruxolitinib\nPatients with uncontrolled infections will be excluded. Infections are considered controlled if appropriate therapy has been instituted and, at the time of enrollment, no signs of progression are present. Progression of infection is defined as hemodynamic instability attributable to sepsis, new symptoms, worsening physical signs or radiographic findings attributable to infection. Persisting fever without other signs or symptoms will not be interpreted as progressing infection\nPatient with significant supplemental oxygen requirement defined as > 6 L oxygen by nasal cannula\nPatient with known allergy to bovine or porcine products",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "12 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Partow Kebriaei",
+            "OverallOfficialAffiliation": "M.D. Anderson Cancer Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "M D Anderson Cancer Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77030",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Partow Kebriaei",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "713-745-0663",
+                  "LocationContactEMail": "pkebriae@mdanderson.org"
+                },
+                {
+                  "LocationContactName": "Partow Kebriaei",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "M D Anderson Cancer Center website",
+            "SeeAlsoLinkURL": "http://www.mdanderson.org"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006086",
+            "ConditionMeshTerm": "Graft vs Host Disease"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M8341",
+            "ConditionBrowseLeafName": "Graft vs Host Disease",
+            "ConditionBrowseLeafAsFound": "Graft Versus Host Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2832",
+            "ConditionBrowseLeafName": "Homologous Wasting Disease",
+            "ConditionBrowseLeafAsFound": "Graft Versus Host Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T170",
+            "ConditionBrowseLeafName": "Acute Graft Versus Host Disease",
+            "ConditionBrowseLeafAsFound": "Acute Graft Versus Host Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000075242",
+            "InterventionMeshTerm": "Janus Kinase Inhibitors"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000047428",
+            "InterventionAncestorTerm": "Protein Kinase Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M1474",
+            "InterventionBrowseLeafName": "Janus Kinase Inhibitors",
+            "InterventionBrowseLeafAsFound": "Customary",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M24973",
+            "InterventionBrowseLeafName": "Protein Kinase Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

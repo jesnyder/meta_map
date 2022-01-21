@@ -1,0 +1,778 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT00482092",
+      "NCTIdAliasList": {
+        "NCTIdAlias": [
+          "NCT00609232"
+        ]
+      },
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CRD 603"
+      },
+      "Organization": {
+        "OrgFullName": "Mesoblast, Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Evaluation of PROCHYMAL® Adult Human Stem Cells for Treatment-resistant Moderate-to-severe Crohn's Disease",
+      "OfficialTitle": "A Phase III, Multicenter, Placebo-controlled, Randomized, Double-blind Study to Evaluate the Safety and Efficacy of PROCHYMAL® (ex Vivo Cultured Adult Human Mesenchymal Stem Cells) Intravenous Infusion for the Induction of Remission in Subjects Experiencing Treatment-refractory Moderate-to-severe Crohn's Disease"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2022",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 17, 2007",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 15, 2014",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 15, 2014",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "May 30, 2007",
+      "StudyFirstSubmitQCDate": "May 31, 2007",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 4, 2007",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "DispFirstSubmitDate": "December 20, 2021",
+      "DispFirstSubmitQCDate": "December 20, 2021",
+      "DispFirstPostDateStruct": {
+        "DispFirstPostDate": "December 23, 2021",
+        "DispFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 11, 2022",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 13, 2022",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Mesoblast, Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Protocol 603 is enrolling subjects with moderate-to-severe Crohn's disease who are intolerant to, or have previously failed therapy with, at least one steroid and at least one immunosuppressant and a biologic monoclonal anti-body to tumor necrosis factor alpha. The protocol investigates the safety and efficacy of using PROCHYMAL® adult human stem cells to induce remission. PROCHYMAL is delivered through a vein in the arm four times over two weeks, for approximately an hour each time.",
+      "DetailedDescription": "A significant number of individuals with Crohn's disease do not find relief with existing steroidal, immunosuppressive, or biologic therapies, and are forced to seek surgery or other drastic measures for treatment.\n\nPROCHYMAL® adult human stem cells are manufactured from healthy, volunteer donors, extensively tested, and are stored to be available as needed. Human and animal studies have shown that the cells do not require any donor-recipient matching. The cells may have both immunosuppressive and healing benefits in Crohn's disease. The cells naturally migrate specifically to sites of inflammation, so their effects are believed to be local and self-limiting rather than systemic.\n\nProtocol 603 is enrolling subjects to evaluate the ability of PROCHYMAL to induce remission in subjects with moderate-to-severe disease (Crohn's disease activity index -- CDAI -- of between 250 and 450, inclusive) who have failed or been intolerant of at least one drug in each of the steroid, immunosuppressant, and biologic classes."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Crohn's Disease"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Crohn's disease",
+          "adult stem cell therapy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 3"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "330",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Participants will receive matching placebo administered as intravenous (IV) infusions.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Prochymal® - Low dose",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Participants will receive a total dose of Prochymal® 600 x 10^6 cells, IV infusion, on four days, once daily.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Prochymal®"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Prochymal® - High dose",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Participants will receive a total dose of Prochymal® 1200 x 10^6 cells, IV infusion, on four days, once daily.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Prochymal®"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Prochymal®",
+            "InterventionDescription": "Prochymal® IV infusion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Prochymal® - High dose",
+                "Prochymal® - Low dose"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Adult Human Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Prochymal® Placebo-matching IV infusion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Disease remission (CDAI at or below 150)",
+            "PrimaryOutcomeTimeFrame": "28 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Disease improvement (Reduction by at least 100 points in CDAI)",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Improvement in quality of life (IBDQ)",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Reduction in number of draining fistulas",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nfailed (within last 2 yr) or intolerant of at least one steroid AND at least one immunosuppressant AND at EXACTLY one biologic\nCDAI between 250 and 450, inclusive\nendoscopically or radiographically confirmed Crohn's disease of ileus or colon or both\nC-Reactive Protein Test (CRP) of at least 5 mg/l (0.5 mg/dl)*OR* CDAI of at least 300\nweight between 40 and 150 kg, inclusive\nadequate renal function\nnegative tuberculosis skin (PPD) test (or evaluated low risk of TB activation)\n\nExclusion Criteria:\n\nHIV or hepatitis infection active\nallergy to CT contrast agents, or to bovine or porcine products\nsymptomatic fibrostenotic Crohn's disease\npermanent ostomy\nbiologic therapy within past 90 d\nprednisone greater than 20 mg/d within past month\nshort-bowel syndrome\ntotal parenteral nutrition\nabnormal liver function\nmalignancy active within past 5 years (except completely resected basal or squamous cell carcinoma of skin)\nenteric pathogens, including C. difficile\nhistory of colonic mucosal dysplasia\ncurrent or prior evidence of tuberculosis (TB) (unless risk of activation or re-activation deemed low)",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Mahboob Rahman, MD",
+            "OverallOfficialAffiliation": "Mesoblast, Inc.",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Southern California University Hospital",
+            "LocationCity": "Los Angeles",
+            "LocationState": "California",
+            "LocationZip": "90033",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of California, San Francisco",
+            "LocationCity": "San Francisco",
+            "LocationState": "California",
+            "LocationZip": "94115",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Western States Clinical Research",
+            "LocationCity": "Wheat Ridge",
+            "LocationState": "Colorado",
+            "LocationZip": "80033",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Clinical Research of West Florida",
+            "LocationCity": "Clearwater",
+            "LocationState": "Florida",
+            "LocationZip": "33765",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Borland-Groover Clinic",
+            "LocationCity": "Jacksonville",
+            "LocationState": "Florida",
+            "LocationZip": "32256",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Shafran Gastroenterology Center",
+            "LocationCity": "Winter Park",
+            "LocationState": "Florida",
+            "LocationZip": "32789",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Atlanta Gastroenterology Associates",
+            "LocationCity": "Atlanta",
+            "LocationState": "Georgia",
+            "LocationZip": "30342",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Chicago Medical Center",
+            "LocationCity": "Chicago",
+            "LocationState": "Illinois",
+            "LocationZip": "60637",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Carle Clinic Association",
+            "LocationCity": "Urbana",
+            "LocationState": "Illinois",
+            "LocationZip": "61801",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Indiana University Medical Center",
+            "LocationCity": "Indianapolis",
+            "LocationState": "Indiana",
+            "LocationZip": "46202",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Cotton-O'Neil Clinical Research Center",
+            "LocationCity": "Topeka",
+            "LocationState": "Kansas",
+            "LocationZip": "66606",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Kentucky Hospital",
+            "LocationCity": "Lexington",
+            "LocationState": "Kentucky",
+            "LocationZip": "40536",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Louisville Hospital",
+            "LocationCity": "Louisville",
+            "LocationState": "Kentucky",
+            "LocationZip": "40202",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Gulf Coast Research",
+            "LocationCity": "Baton Rouge",
+            "LocationState": "Louisiana",
+            "LocationZip": "70808",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Maryland, Baltimore",
+            "LocationCity": "Baltimore",
+            "LocationState": "Maryland",
+            "LocationZip": "21201",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "National Institutes of Health",
+            "LocationCity": "Bethesda",
+            "LocationState": "Maryland",
+            "LocationZip": "20892",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Chevy Chase Clinical Research",
+            "LocationCity": "Chevy Chase",
+            "LocationState": "Maryland",
+            "LocationZip": "20815",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Massachusetts General Hospital",
+            "LocationCity": "Boston",
+            "LocationState": "Massachusetts",
+            "LocationZip": "02114",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Brigham and Womens Hospital",
+            "LocationCity": "Boston",
+            "LocationState": "Massachusetts",
+            "LocationZip": "02115",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Clinical Pharmacology Study Group",
+            "LocationCity": "Worcester",
+            "LocationState": "Massachusetts",
+            "LocationZip": "01610",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Center for Clinical Studies",
+            "LocationCity": "Dearborn",
+            "LocationState": "Michigan",
+            "LocationZip": "48124",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Center for Digestive Health",
+            "LocationCity": "Troy",
+            "LocationState": "Michigan",
+            "LocationZip": "48098",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Minnesota Hospital",
+            "LocationCity": "Minneapolis",
+            "LocationState": "Minnesota",
+            "LocationZip": "55455",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "St Louis Center for Clinical Studies",
+            "LocationCity": "Saint Louis",
+            "LocationState": "Missouri",
+            "LocationZip": "63128",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Dartmouth Hitchcock Medical Center",
+            "LocationCity": "Lebanon",
+            "LocationState": "New Hampshire",
+            "LocationZip": "03756",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Weill Cornell Medical College",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10028",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Mount Sinai School of Medicine",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10029",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Rochester Institute for Digestive Diseases",
+            "LocationCity": "Rochester",
+            "LocationState": "New York",
+            "LocationZip": "14607",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Rochester General Hospital",
+            "LocationCity": "Rochester",
+            "LocationState": "New York",
+            "LocationZip": "14621",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University Hospital and Medical Center",
+            "LocationCity": "Stony Brook",
+            "LocationState": "New York",
+            "LocationZip": "11794",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Charlotte Gastroenterology and Hepatology",
+            "LocationCity": "Charlotte",
+            "LocationState": "North Carolina",
+            "LocationZip": "28207",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Pinehurst Medical Clinic",
+            "LocationCity": "Pinehurst",
+            "LocationState": "North Carolina",
+            "LocationZip": "28734",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Wake Forest University",
+            "LocationCity": "Winston-Salem",
+            "LocationState": "North Carolina",
+            "LocationZip": "27157",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Gastroenterology United of Tulsa",
+            "LocationCity": "Tulsa",
+            "LocationState": "Oklahoma",
+            "LocationZip": "74135",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Options Health Research",
+            "LocationCity": "Tulsa",
+            "LocationState": "Oklahoma",
+            "LocationZip": "74137",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Allegheney Center for Digestive Health",
+            "LocationCity": "Pittsburgh",
+            "LocationState": "Pennsylvania",
+            "LocationZip": "15212",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Pittsburgh",
+            "LocationCity": "Pittsburgh",
+            "LocationState": "Pennsylvania",
+            "LocationZip": "15213",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Gastroenterology Center of the Midsouth",
+            "LocationCity": "Germantown",
+            "LocationState": "Tennessee",
+            "LocationZip": "37138",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Nashville GI Specialists",
+            "LocationCity": "Nashville",
+            "LocationState": "Tennessee",
+            "LocationZip": "37205",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Vanderbilt University Medical Center",
+            "LocationCity": "Nashville",
+            "LocationState": "Tennessee",
+            "LocationZip": "37232",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Baylor University Medical Center",
+            "LocationCity": "Dallas",
+            "LocationState": "Texas",
+            "LocationZip": "75246",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Texas Medical Branch",
+            "LocationCity": "Galveston",
+            "LocationState": "Texas",
+            "LocationZip": "77555",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Texas Health Science Center",
+            "LocationCity": "Houston",
+            "LocationState": "Texas",
+            "LocationZip": "77030",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Vermont",
+            "LocationCity": "Burlington",
+            "LocationState": "Vermont",
+            "LocationZip": "05401",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Digestive and Liver Disease Specialists",
+            "LocationCity": "Norfolk",
+            "LocationState": "Virginia",
+            "LocationZip": "23502",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "McGuire Research Institute",
+            "LocationCity": "Richmond",
+            "LocationState": "Virginia",
+            "LocationZip": "23249",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Seattle Gastroenterology Associates",
+            "LocationCity": "Seattle",
+            "LocationState": "Washington",
+            "LocationZip": "98133",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Royal Adelaide Hospital",
+            "LocationCity": "Adelaide",
+            "LocationState": "South Australia",
+            "LocationCountry": "Australia"
+          },
+          {
+            "LocationFacility": "Royal Melbourne Hospital",
+            "LocationCity": "Melbourne",
+            "LocationState": "Victoria",
+            "LocationCountry": "Australia"
+          },
+          {
+            "LocationFacility": "University of Calgary",
+            "LocationCity": "Calgary",
+            "LocationState": "Alberta",
+            "LocationZip": "T2N 4N1",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "University of Alberta Hospital",
+            "LocationCity": "Edmonton",
+            "LocationState": "Alberta",
+            "LocationZip": "T6G 2X8",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "Health Science Centre",
+            "LocationCity": "Winnipeg",
+            "LocationState": "Manitoba",
+            "LocationZip": "R3A 1R9",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "London Health Sciences Centre",
+            "LocationCity": "London",
+            "LocationState": "Ontario",
+            "LocationZip": "N6A 5A5",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "Mount Sinai Hospital",
+            "LocationCity": "Toronto",
+            "LocationState": "Ontario",
+            "LocationZip": "M5G 1X5",
+            "LocationCountry": "Canada"
+          },
+          {
+            "LocationFacility": "University of Otago",
+            "LocationCity": "Christchurch",
+            "LocationCountry": "New Zealand"
+          },
+          {
+            "LocationFacility": "Waikato Hospital",
+            "LocationCity": "Hamilton",
+            "LocationCountry": "New Zealand"
+          }
+        ]
+      }
+    }
+  },
+  "ResultsSection": {
+    "MoreInfoModule": {}
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003424",
+            "ConditionMeshTerm": "Crohn Disease"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000015212",
+            "ConditionAncestorTerm": "Inflammatory Bowel Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005759",
+            "ConditionAncestorTerm": "Gastroenteritis"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007410",
+            "ConditionAncestorTerm": "Intestinal Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M5790",
+            "ConditionBrowseLeafName": "Crohn Disease",
+            "ConditionBrowseLeafAsFound": "Crohn's Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9596",
+            "ConditionBrowseLeafName": "Intestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17069",
+            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8027",
+            "ConditionBrowseLeafName": "Gastroenteritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "C000711674",
+            "InterventionMeshTerm": "Remestemcel-l"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000893",
+            "InterventionAncestorTerm": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000998",
+            "InterventionAncestorTerm": "Antiviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M186752",
+            "InterventionBrowseLeafName": "Remestemcel-l",
+            "InterventionBrowseLeafAsFound": "Solution for inhalation",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3369",
+            "InterventionBrowseLeafName": "Anti-Inflammatory Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3466",
+            "InterventionBrowseLeafName": "Antiviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infl",
+            "InterventionBrowseBranchName": "Anti-Inflammatory Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

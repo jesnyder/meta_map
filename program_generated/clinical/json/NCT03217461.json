@@ -1,0 +1,353 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03217461",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2017KYPJ056"
+      },
+      "Organization": {
+        "OrgFullName": "Sun Yat-sen University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Corneal Epithelial Autograft for Limbal Dermoid",
+      "OfficialTitle": "A Non-randomized Controlled Clinical Trial of Corneal Epithelial Autograft for Limbal Dermoid"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2019",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 18, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 30, 2019",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 30, 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 12, 2017",
+      "StudyFirstSubmitQCDate": "July 12, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 14, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 17, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 19, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Chunxiao Wang",
+        "ResponsiblePartyInvestigatorTitle": "Clinical investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Sun Yat-sen University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Chunxiao Wang",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of the study is to explore whether femtosecond laser-assisted corneal epithelial autograft is more effective than femtosecond laser-assisted limbal autograft for ocular surface reconstruction after excision of limbal dermoid."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Corneal Dermoid"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Corneal epithelial autograft",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Corneal dermoid tumor resection combined with femtosecond laser assisted corneal epithelial autograft",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: CorneaL epithelial autograft",
+                "Device: Femtosecond laser"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Limbal autograft",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Corneal dermoid tumor resection combined with femtosecond laser assisted limbal autograft",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Limbal autograft",
+                "Device: Femtosecond laser"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "CorneaL epithelial autograft",
+            "InterventionDescription": "After removal of the recipient's diseased dermoid, a size-match donor epithelial tissue will be obtained from the healthy area of the same eye (corneal epithelial autograft) using femtosecond laser technology, with the goal of closure of bare stromal area by sutured corneal epithelial tissue to ensure the integrity of ocular surface. This closure may also create a microenvironment that stimulates stromal cells' regenerative capacity and regulates their epithelial-mesenchymal transition process.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Corneal epithelial autograft"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Device",
+            "InterventionName": "Femtosecond laser",
+            "InterventionDescription": "A commercial femtosecond laser to create a particular shaped graft for transplantation",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Corneal epithelial autograft"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Limbal autograft",
+            "InterventionDescription": "Simple dermoid excision will be performed, followed by closure of the bare sclera by sutured femtosecond laser-assisted limbal autograft.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Limbal autograft"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Device",
+            "InterventionName": "Femtosecond laser",
+            "InterventionDescription": "A commercial femtosecond laser to create a particular shaped graft for transplantation",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Limbal autograft"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Restoration of corneal surface",
+            "PrimaryOutcomeDescription": "Restoration of a completely epithelized, stable, and avascular corneal surface.",
+            "PrimaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Cosmetic improvement",
+            "SecondaryOutcomeDescription": "A grading system from 0 to 4 with slit-lamp photographs will be used to determine cosmetic result of each graft.",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Corneal Thickness",
+            "SecondaryOutcomeDescription": "To measure corneal thickness using anterior segment optical coherence tomography.",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Best corrected visual acuity",
+            "SecondaryOutcomeDescription": "To measure best corrected visual acuity using ETDRS chart or Teller Acuity Cards.",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Corneal power, astigmatism and aberration",
+            "SecondaryOutcomeDescription": "To measure the changes of corneal power, astigmatism and aberration using autorefractor keratometer and wavefront aberrometer respectively.",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Density of stromal nerve and stromal keratocytes",
+            "SecondaryOutcomeDescription": "To assess the stromal nerve and stromal keratocytes using in vivo confocal microscopy.",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Corneal haze",
+            "SecondaryOutcomeDescription": "To assess corneal haze using in vivo confocal microscopy.",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge between 1 to 30 years old;\nPatients with limbal dermoid, scheduled for elective surgical excision;\nSuperficial lesion ranging from 5 to 9mm, without encroaching the deep stroma layer, as indicated by anterior segment optical coherence tomography images;\nInformed consent signed by a parent or legal guardian, or having the capability of understanding and signing the informed consent;\nBeing able to comply with study assessments for the full duration of the study.\n\nExclusion Criteria:\n\nKeratoconus;\nOcular and facial active inflammation such as keratitis, trachoma, dacryocystitis, blepharitis, meibomian gland dysfunction, Sjogren's syndrome, cicatricial pemphigoid etc;\nHigh myopia with a spherical equivalent of -15.0 D or less;\nCorneal or ocular surface infection within 30 days prior to study entry;\nOcular surface malignancy;\nUncontrolled diabetes with most recent Hemoglobin A1c greater than 8.5%;\nRenal failure with creatinine clearance< 25ml/min;\nAlanine aminotransferase > 40IU/L, or aspartate aminotransferase > 40IU/L;\nPlatelet levels < 150,000 or > 450,000 per microliter;\nHemoglobin < 12.0 g/dL (male) or < 11.0 g/dL (female);\nProthrombin time > 16s and activated partial thrombin time > 35s in patients not accepting anticoagulant therapy; An international normalized ratio greater than 3 in patients accepting anticoagulant therapy;\nPregnancy (positive test) or lactation;\nParticipation in another simultaneous medical investigation or clinical trial;\nSevere cicatricial eye disease;\nOcular comorbidities that affect the prognosis of transplantation, such as advanced glaucoma or retinal diseases;\nSevere dry eye disease as determined by Schirmer's test < 2mm at least in one eye;\nAny medical or social condition that in the judgement of the investigator would interfere with or serve as a contraindication to adherence to the study protocol or ability to give informed consent;\nSigns of current infection, including fever and treatment with antibiotics;\nActive immunological diseases;\nHistory of allo-limbal transplantation, penetrating keratoplasty or anti-glaucoma filtering surgeries.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "1 Year",
+      "MaximumAge": "30 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Yingfeng Zheng, M.D.Ph.D.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+8613922286455",
+            "CentralContactEMail": "yingfeng.zheng@qq.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Yizhi Liu, M.D.Ph.D.",
+            "OverallOfficialAffiliation": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Ting Huang, M.D.Ph.D.",
+            "OverallOfficialAffiliation": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Zhongshan Ophthalmic Center, Sun Yat-sen Univerisity",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Guangzhou",
+            "LocationState": "Guangdong",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Yingfeng Zheng, M.D. Ph.D.",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003884",
+            "ConditionMeshTerm": "Dermoid Cyst"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000003560",
+            "ConditionAncestorTerm": "Cysts"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000013724",
+            "ConditionAncestorTerm": "Teratoma"
+          },
+          {
+            "ConditionAncestorId": "D000009373",
+            "ConditionAncestorTerm": "Neoplasms, Germ Cell and Embryonal"
+          },
+          {
+            "ConditionAncestorId": "D000009370",
+            "ConditionAncestorTerm": "Neoplasms by Histologic Type"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6231",
+            "ConditionBrowseLeafName": "Dermoid Cyst",
+            "ConditionBrowseLeafAsFound": "Dermoid",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5917",
+            "ConditionBrowseLeafName": "Cysts",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15646",
+            "ConditionBrowseLeafName": "Teratoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11470",
+            "ConditionBrowseLeafName": "Neoplasms, Germ Cell and Embryonal",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11467",
+            "ConditionBrowseLeafName": "Neoplasms by Histologic Type",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

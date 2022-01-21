@@ -1,0 +1,384 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04389450",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "PLX-COV-01"
+      },
+      "Organization": {
+        "OrgFullName": "Pluristem Ltd.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Double-Blind, Multicenter, Study to Evaluate the Efficacy of PLX PAD for the Treatment of COVID-19",
+      "OfficialTitle": "A Randomized, Double-Blind, Placebo-Controlled, Multicenter, Parallel-Group Phase II Study to Evaluate the Efficacy and Safety of Intramuscular Injections of PLX PAD for the Treatment of Severe COVID-19"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2022",
+      "OverallStatus": "Active, not recruiting",
+      "StartDateStruct": {
+        "StartDate": "October 1, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "May 17, 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 14, 2020",
+      "StudyFirstSubmitQCDate": "May 14, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 15, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 9, 2022",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 11, 2022",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Pluristem Ltd.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This clinical trial will examine if a new treatment of Mesenchymal-like Adherent stromal Cells (called PLX-PAD) can help patients intubated and mechanically ventilated due to COVID-19 to recover more quickly with less complications."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID",
+          "ARDS"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "66",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "PLX-PAD interval high dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "PLX-PAD will be administered via 15 IM injections (1 mL each). Each subject will be treated twice, with an interval of 1 week between treatments.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: PLX-PAD"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "PLX-PAD low dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "PLX-PAD 300, single administration, second administration of placebo after 1 week.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: PLX-PAD"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control Group A",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Placebo, two administrations, 1 week apart",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Placebo"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "PLX-PAD high dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "PLX-PAD, single administration",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: PLX-PAD"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control Group B",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Placebo, single administration",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "PLX-PAD",
+            "InterventionDescription": "PLX-PAD, allogeneic ex vivo expanded placental mesenchymal-like adherent stromal cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "PLX-PAD high dose",
+                "PLX-PAD interval high dose",
+                "PLX-PAD low dose"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Placebo solution for injection",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control Group A",
+                "Control Group B"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of ventilator free days",
+            "PrimaryOutcomeTimeFrame": "28 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "All-cause mortality",
+            "SecondaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of mechanical ventilation",
+            "SecondaryOutcomeTimeFrame": "8 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Key Inclusion Criteria:\n\nWilling and able to provide written informed consent, or with a legal representative who can provide informed consent.\nMale or non-pregnant female adult 40-80 years of age at time of enrollment.\nLaboratory-confirmed SARS-CoV-2 infection as determined by PCR, in any specimen up to 21 days prior to randomization.\nMeets definition of ARDS according to Berlin criteria.\n\nKey Exclusion Criteria:\n\nBody weight under 55 kg (121 lbs)\nSerum creatinine level of over 1.5 mg/dL at time of randomization.\nTotal Bilirubin ≥2 mg/dL at time of randomization.\nKnown allergy to any of the following: dimethyl sulfoxide (DMSO), human serum albumin, bovine serum albumin.\nStroke or acute myocardial infarction/unstable angina within 3 months prior to randomization.\nChronic Obstructive Pulmonary disease GOLD stage above II.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "40 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of California Irvine",
+            "LocationCity": "Irvine",
+            "LocationState": "California",
+            "LocationZip": "92868",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Southern California (USC) - Keck School of Medicine (KSOM)",
+            "LocationCity": "Los Angeles",
+            "LocationState": "California",
+            "LocationZip": "90033",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University Of California Davis,4860 Y Street",
+            "LocationCity": "Sacramento",
+            "LocationState": "California",
+            "LocationZip": "95817",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Baptist Health Medical Center",
+            "LocationCity": "Jacksonville",
+            "LocationState": "Florida",
+            "LocationZip": "32207",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Medical College of Georgia at Augusta University",
+            "LocationCity": "Augusta",
+            "LocationState": "Georgia",
+            "LocationZip": "30907",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Sarah Cannon Research Institute, LLC (Mercer University School of Medicine)",
+            "LocationCity": "Macon",
+            "LocationState": "Georgia",
+            "LocationZip": "31217",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Mississippi Medical Center",
+            "LocationCity": "Jackson",
+            "LocationState": "Mississippi",
+            "LocationZip": "39216",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Cooper Research Institute",
+            "LocationCity": "Camden",
+            "LocationState": "New Jersey",
+            "LocationZip": "08103",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Holy Medical Center",
+            "LocationCity": "Teaneck",
+            "LocationState": "New Jersey",
+            "LocationZip": "07666",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Montefiore Medical Center",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10467",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Maimonides Medical Center",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "11219",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Mercy Medical Center",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "11570",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Thomas Jefferson University",
+            "LocationCity": "Philadelphia",
+            "LocationState": "Pennsylvania",
+            "LocationZip": "19107",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Related Info",
+            "SeeAlsoLinkURL": "http://www.pluristem.com"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022",
+      "RemovedCountryList": {
+        "RemovedCountry": [
+          "Israel"
+        ]
+      }
+    },
+    "ConditionBrowseModule": {
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

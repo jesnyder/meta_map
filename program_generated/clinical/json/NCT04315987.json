@@ -1,0 +1,476 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04315987",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "HOPE"
+      },
+      "Organization": {
+        "OrgFullName": "Azidus Brasil",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "NestaCell® Mesenchymal Stem Cell to Treat Patients With Severe COVID-19 Pneumonia",
+      "OfficialTitle": "Exploratory Clinical Study to Assess the Efficacy of NestaCell® Mesenchymal Stem Cell to Treat Patients With Severe COVID-19 Pneumonia",
+      "Acronym": "HOPE"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2020",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 2020",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "March 18, 2020",
+      "StudyFirstSubmitQCDate": "March 18, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 20, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "June 8, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 9, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Azidus Brasil",
+        "LeadSponsorClass": "INDUSTRY"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Cellavita Pesquisa Científica Ltda",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Hospital Vera Cruz",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is phase II study to assess the efficacy of NestaCell® (mesenchymal stem cell) to treat severe COVID-19 pneumonia.",
+      "DetailedDescription": "The number of infections of COVID-19 worldwide has killed thousands and is continually rising. The novel coronavirus attacks the human body by attaching to the angiotensin-converting enzyme-2 (ACE2), a protective enzyme against lung damage. In addition, the cellular serine protease TMPRSS2 for HCoV-19 Spike protein priming is also essential for the host cell entry and spread. Coronaviruses can be deadly, in large part because they cause \"cytokine storms.\" These storms result from imbalances between pro-inflammatory and anti-inflammatory proteins called cytokines, which can cause extreme inflammation and respiratory complications. Respiratory distress kills hundreds of thousands of people each year worldwide, and hundreds of clinical trials are testing drugs to treat it.\n\nMSCs have been widely used in cell-based therapy, from basic research to clinical trials Safety and effectiveness have been clearly documented in many clinical trials, especially in the immune-mediated inflammatory diseases.\n\nNestaCell® is a mesenchymal stem cell therapy produced by Cellavita and proved to be safe in previous clinical trials.\n\nThe aim of this study is assess the efficacy of NestCell® as an add-on therapy to standard treatment to treat patients with severe COVID-19 pneumonia. .\n\nPatients included will be randomized to receive 2x10^7 cells (20 million cells) on days 1, 3, 5 and 7."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID-19 Pneumonia"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "Patients will be randomized (1:1) to receive NestaCell (n=45) or Placebo (n=45).",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "90",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "NestaCell®",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "A dose of 2x10^7 cells (20 million cells) will be administered IV on days 1, 3, 5 and 7 in all subjects.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: NestaCell®"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Matching placebo will be administered IV on days 1, 3, 5 and 7 in all subjects.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "NestaCell®",
+            "InterventionDescription": "A dose of 2x10^7 cells (20 million cells) will be administered IV on days 1, 3, 5 and 7 in all subjects.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "NestaCell®"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Mesenchymal Stem Cell"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Matching Placebo will be administered IV on days 1, 3, 5 and 7 in all subjects.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change in Clinical Condition",
+            "PrimaryOutcomeDescription": "Ordinal scale (WHO ordinal scale that measures illness severity over time)",
+            "PrimaryOutcomeTimeFrame": "10 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Rate of mortality within 10-days",
+            "SecondaryOutcomeDescription": "Evaluation of Pneumonia change",
+            "SecondaryOutcomeTimeFrame": "10 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change of Clinical symptoms - respiratory rate",
+            "SecondaryOutcomeDescription": "Evaluation of Pneumonia change",
+            "SecondaryOutcomeTimeFrame": "10 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Hypoxia",
+            "SecondaryOutcomeDescription": "oxygen saturation",
+            "SecondaryOutcomeTimeFrame": "10 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "PaO2 / FiO2 ratio",
+            "SecondaryOutcomeDescription": "oxygen saturation",
+            "SecondaryOutcomeTimeFrame": "10 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "CD4+ and CD8+ T cell count",
+            "SecondaryOutcomeDescription": "Marker of Immunological function",
+            "SecondaryOutcomeTimeFrame": "Days 1, 2, 4, 6 and 8."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes of blood oxygen",
+            "SecondaryOutcomeDescription": "PaO2 / FiO2 ratio",
+            "SecondaryOutcomeTimeFrame": "10 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Side effects in the treatment group",
+            "SecondaryOutcomeDescription": "Number of participants with treatment-related adverse events",
+            "SecondaryOutcomeTimeFrame": "10 days"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Complete blood count, cardiac, hepatic and renal profiles;",
+            "SecondaryOutcomeDescription": "Complete blood count, ALT, AST, GGT, CK, CKmB and creatinine",
+            "SecondaryOutcomeTimeFrame": "Days 1, 2, 4, 6 and 8."
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\n1. Male or female, aged ≥ 18 years 2. Present a confirmed or pending diagnosis of COVID-19, but with tomographic and clinical signs strongly suggestive of SARS-CoV-2 infection (COVID-19), with pulmonary impairment greater than or equal to 50% and: i. Oxygen saturation <95%; ii. CURB-65 rating ≥ a 4; d) Participants with a score on WHO ordinal scale that measures illness severity over time equal to 5 (Hospitalized with non-invasive ventilation or high-flow oxygen).\n\nExclusion Criteria:\n\nPatients with autoimmune diseases in the past or screening;\nThose who have serious basic diseases that affect their survival, including: malignant tumor, hematopathy, malignant fluid, active hemorrhage, severe malnutrition, etc. which have not been controlled and can not be removed due to multiple metastasis;\nKnown or self-reported HIV or syphilis infected persons;\nHave participated in stem cell clinical research;\nPregnant or lactating women or those who have fertility plans in the past year;\nThe estimated life cycle is less than 48 hours;\nOther conditions that the researcher thinks are not suitable for participating in the experiment.\nShock\nContinuous use of immunosuppressive agents or organ transplants in the past 6 months;",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Florentino de Araujo Cardoso Filho",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+55 19 991232882",
+            "CentralContactEMail": "florentino.cardoso@hospitalcare.com.br"
+          },
+          {
+            "CentralContactName": "Luciana Ferrara",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+55 19 981428814",
+            "CentralContactEMail": "luciana.ferrara@azidusbrasil.com.br"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Hospital Vera Cruz",
+            "LocationCity": "Campinas",
+            "LocationState": "São Paulo",
+            "LocationCountry": "Brazil",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Florentino de Araujo Cardoso Filho, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+55 19 991232882",
+                  "LocationContactEMail": "florentino.cardoso@hospitalcare.com.br"
+                },
+                {
+                  "LocationContactName": "Luciana Ferrara",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+55 19 981428814",
+                  "LocationContactEMail": "luciana.ferrara@azidusbrasil.com.br"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hospital de Barueri",
+            "LocationCity": "São Paulo",
+            "LocationCountry": "Brazil",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Paulo Fernando Tierno",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "IncCOR",
+            "LocationCity": "São Paulo",
+            "LocationCountry": "Brazil",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Alexandre Soeiro",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "UNIFESP",
+            "LocationCity": "São Paulo",
+            "LocationCountry": "Brazil",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Ricardo Diaz",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided",
+      "IPDSharingDescription": "It is believed that after the data analysis and presentation to the National Commission on Research Ethics, all data of the study will become public."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000011014",
+            "ConditionMeshTerm": "Pneumonia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafAsFound": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

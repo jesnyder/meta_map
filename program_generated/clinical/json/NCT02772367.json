@@ -1,0 +1,328 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02772367",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "16-025"
+      },
+      "Organization": {
+        "OrgFullName": "Memorial Sloan Kettering Cancer Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Generation of Heart Muscle Cells From Blood or Skin Cells of Breast Cancer Patients",
+      "OfficialTitle": "Generation of Induced Pluripotent Stem Cell Derived Cardiomyocytes From Patients Exposed to Trastuzumab Therapy for Breast Cancer"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 2016"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "May 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "May 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 11, 2016",
+      "StudyFirstSubmitQCDate": "May 11, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 13, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "June 1, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 2, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Icahn School of Medicine at Mount Sinai",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {},
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to investigate whether cells from a biopsy taken from the patient skin can be transformed into cardiomyocytes the changes in cardiomyocyte (heart muscle cells) when grown in a special culture medium outside of the body. The structure and function of these cells will then be studied to determine why some patients with breast cancer who are treated with chemotherapy including anthracycline (e.g. Doxorubicin) and anti-HER2 therapy (e.g. Herceptin) develop decreased heart function."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Breast Cancer"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "cardiotoxicity",
+          "16-025"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples Without DNA",
+        "BioSpecDescription": "skin tissue"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "70",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Breast Cancer Patients",
+            "ArmGroupDescription": "In study participants undergoing breast reconstruction surgery prior to breast radiation therapy, we will obtain skin tissue at the time of reconstruction surgery from the surgical specimen.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: skin punch biopsy"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "skin punch biopsy",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Breast Cancer Patients"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "derive iPSs from skin fibroblasts",
+            "PrimaryOutcomeDescription": "described by Yamanaka et al with modification using the Millipore STEMCCA excisable polycystronic lentivirus reprogramming kit.2",
+            "PrimaryOutcomeTimeFrame": "1 day"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nFemale\nAge greater than 18 years\nWilling to participate in protocol procedures with signed informed consent\nAssessment of LVEE via echocardiogram, cardiac MRI, or MUGA\n\nSubjects in the cardiotoxicity group (TOX) must meet the following criteria:\n\nHistory of HER2 positive breast cancer (stage I-IV)\nPrior/current treatment with anthracycline based chemotherapy followed by anti-HER2 directed therapy or anti-HER2 directed therapy alone\nAssessment of LVEF at baseline prior to initiation of anthracycline or anti-HER2 therapy and during anti-HER2 therapy via echocardiogram, cardiac MRI, or MUGA\nPrior confirmed diagnosis of cardiotoxicity associated with anti-HER2 based therapy, defined as a decrease in LVEF > 10% from baseline to < 53% with symptoms of heart failure (NYHA class II-IV).\n\nSubjects in the no cardiotoxicity group (NO-TOX) must meet the following criteria:\n\nHistory of HER2 positive breast cancer (stage I-IV)\nCompletion of planned anthracycline and anti-HER2 therapy, or anti-HER2 therapy alone\nNo symptoms of heart failure (NYHA class II-IV) during and at the end of anthracycline and anti-HER2 therapy\nAssessment of LVEF at baseline prior to innitiation of anthracycline or anti-HER2 therapy and during anti-HER2 therapy via echocardiogram, cardiac MRI, or MUGA\nNormal LVEF >53% at each assessment during and at the end of trastuzumab therapy.\nMaximum absolute decrease in LVEF <5% from baseline during and at the end of trastuzumab therapy.\nLVEF assessment performed at baseline and at least two time points during trastuzumab therapy.\n\nExclusion Criteria:\n\nUnwilling or unable to give skin biopsies\nContraindications to punch biopsy including but not limited to bleeding diathesis, as determined by the investigator.\n\nKnown pre-existing CV disease prior to initiation of breast cancer therapy as determined by the investigator, including\n\nObstructive coronary artery disease (stenosis >70%)\nArrhythmia - paroxysmal or persistent atrial arrhythmias, sustained ventricular tachycardia (>30 seconds), ventricular fibrillation, or cardiac arrest\nCardiomyopathy (EF <53%)\nHeart failure (NYHA class II-IV)\nValvular heart disease with equal to or greater than moderate stenosis or regurgitation",
+      "HealthyVolunteers": "No",
+      "Gender": "Female",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Potential research subjects will be identified by a member of the patient's treatment team, the protocol investigator, or research team at Memorial Sloan Kettering Cancer Center (MSKCC).",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Angel Chan, MD, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "212-639-7217",
+            "CentralContactEMail": "chana5@mskcc.org"
+          },
+          {
+            "CentralContactName": "Richard Steingart, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "212-639-8488"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Angel Chan, MD, PhD",
+            "OverallOfficialAffiliation": "Memorial Sloan Kettering Cancer Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Memorial Sloan-Kettering Cancer Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10065",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Angel Chan, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "212-639-7217"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Memorial Sloan Kettering Cancer Center",
+            "SeeAlsoLinkURL": "https://www.mskcc.org/"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000001943",
+            "ConditionMeshTerm": "Breast Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000001941",
+            "ConditionAncestorTerm": "Breast Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012871",
+            "ConditionAncestorTerm": "Skin Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M4372",
+            "ConditionBrowseLeafName": "Breast Neoplasms",
+            "ConditionBrowseLeafAsFound": "Breast Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M29823",
+            "ConditionBrowseLeafName": "Cardiotoxicity",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4370",
+            "ConditionBrowseLeafName": "Breast Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14826",
+            "ConditionBrowseLeafName": "Skin Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC25",
+            "ConditionBrowseBranchName": "Substance Related Disorders"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M325",
+            "InterventionBrowseLeafName": "Trastuzumab",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

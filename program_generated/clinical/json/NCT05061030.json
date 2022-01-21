@@ -1,0 +1,417 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05061030",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "WJMSC-P01"
+      },
+      "Organization": {
+        "OrgFullName": "Uppsala University Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "A Double-blinded, Randomized, Parallel, Placebo-controlled Trial of Wharton's Jelly-derived Allogeneic Mesenchymal Stromal Cells to Treat Type 1 Diabetes in Children and Adolescents",
+      "OfficialTitle": "A Double-blinded, Randomized, Parallel, Placebo-controlled Trial of Wharton's Jelly-derived Allogeneic Mesenchymal Stromal Cells to Treat Type 1 Diabetes in Children and Adolescents"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2028",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2028",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 20, 2021",
+      "StudyFirstSubmitQCDate": "September 20, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "September 29, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 20, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 29, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Per-Ola Carlsson",
+        "ResponsiblePartyInvestigatorTitle": "Professor, Senior consultant in Endocrinology and Diabetology",
+        "ResponsiblePartyInvestigatorAffiliation": "Uppsala University Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Uppsala University Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a combined phase 1 and 2 study in 66 subjects, male or female, between 7-21 years of age that have recently (< 6 months) been diagnosed with type 1 diabetes. The first phase 1 part of the study includes six subjects openly receiving allogeneic Wharton's jelly derived mesenchymal stromal cells as the Advanced Therapy Medicinal Product (ATMP) Protrans, three each in the age ranges 7-11 and 12-18.The second part is a randomized, double-blinded placebo-controlled phase 2 study in parallel design comparing allogeneic Wharton's jelly derived mesenchymal stromal cells treatment (as Protrans) to placebo in children and adolescent subjects (7-21 years of age) diagnosed with type 1 diabetes, The primary objectives of this study will be to investigate the safety, tolerance and efficacy after an allogieneic infusion of Wharton's jelly derived mesenchymal stromal cells."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Type1diabetes"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "66",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Wharton's jelly derived mesenchymal stromal cells (Protrans)",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Cells are dissolved in saline and given intravenously over a period of 20-40 min. 100 million cells to subjects < 50 kg and 200 million cells to subjects 50-100 kg (>100 kg is an exclusion criterion).",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: the ATMP Protrans"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Placebo (saline) is given intravenously over a period of 20-40 min.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: the ATMP Protrans"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "the ATMP Protrans",
+            "InterventionDescription": "Protrans consists of Wharton's jelly derived mesenchymal stromal cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo",
+                "Wharton's jelly derived mesenchymal stromal cells (Protrans)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety at one year evaluated as adverse events",
+            "PrimaryOutcomeDescription": "Safety parameters will be evaluated at each study visit and recorded as adverse events.",
+            "PrimaryOutcomeTimeFrame": "One year"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Safety at five years evaluated as adverse events",
+            "PrimaryOutcomeDescription": "Safety parameters will be evaluated at each study visit and recorded as adverse events.",
+            "PrimaryOutcomeTimeFrame": "Five years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Efficacy measured as change in C-peptide Area under the curve to a mixed mealtolerance test.",
+            "PrimaryOutcomeDescription": "Change in C-peptide Area under the curve (AUC) (0-120 min) for mixed meal tolerance test (MMTT) at 12 months following Protrans/Placebo infusion when compared to test performed before the start of treatment (baseline).",
+            "PrimaryOutcomeTimeFrame": "One year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Insulin independency",
+            "SecondaryOutcomeDescription": "The proportion of study participants independent of insulin at 6 months",
+            "SecondaryOutcomeTimeFrame": "One year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Insulin independency",
+            "SecondaryOutcomeDescription": "The proportion of study participants independent of insulin at 12 months",
+            "SecondaryOutcomeTimeFrame": "One year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Low insulin needs",
+            "SecondaryOutcomeDescription": "The proportion of study participants with daily insulin needs <0.25 U/kg at 6 months",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Low insulin needs",
+            "SecondaryOutcomeDescription": "The proportion of study participants with daily insulin needs <0.25 U/kg at 12 months",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Insulin needs",
+            "SecondaryOutcomeDescription": "Insulin requirement/kg body weigh at 6 months",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Insulin needs",
+            "SecondaryOutcomeDescription": "Insulin requirement/kg body weigh at 12 months",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "HbA1c",
+            "SecondaryOutcomeDescription": "HbA1c at 6 months",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "HbA1c",
+            "SecondaryOutcomeDescription": "HbA1c at 12 months",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time in target",
+            "SecondaryOutcomeDescription": "Time in target (4-8 mmol/l) as measured by flash glucose monitoring for 14 days at 6 months",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time in target",
+            "SecondaryOutcomeDescription": "Time in target (4-8 mmol/l) as measured by flash glucose monitoring for 14 days at 12 months",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time in range",
+            "SecondaryOutcomeDescription": "Time in target (3.9-10 mmol/l) as measured by flash glucose monitoring for 14 days at 6 months",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time in range",
+            "SecondaryOutcomeDescription": "Time in target (3.9-10 mmol/l) as measured by flash glucose monitoring for 14 days at 12 months",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "C-peptide",
+            "SecondaryOutcomeDescription": "Change in C-peptide Area under the curve (AUC) (0-120 min) for mixed meal tolerance test (MMTT) at 6 months following Protrans/Placebo infusion when compared to test performed before the start of treatment (baseline).",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in peak C-peptide",
+            "SecondaryOutcomeDescription": "Change in peak C-peptide concentration during the first 6 months",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in peak C-peptide",
+            "SecondaryOutcomeDescription": "Change in peak C-peptide concentration during the first 12 months",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Gender differences",
+            "OtherOutcomeDescription": "Differences in parameters of primary and secondary endpoints between genders",
+            "OtherOutcomeTimeFrame": "6 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Gender differences",
+            "OtherOutcomeDescription": "Differences in parameters of primary and secondary endpoints between genders",
+            "OtherOutcomeTimeFrame": "12 months"
+          },
+          {
+            "OtherOutcomeMeasure": "HLA class 1 genotypes",
+            "OtherOutcomeDescription": "Differences in parameters of primary and secondary endpoints between HLA class 1 genotypes",
+            "OtherOutcomeTimeFrame": "6 months"
+          },
+          {
+            "OtherOutcomeMeasure": "HLA class 1 genotypes",
+            "OtherOutcomeDescription": "Differences in parameters of primary and secondary endpoints between HLA class 1 genotypes",
+            "OtherOutcomeTimeFrame": "12 months"
+          },
+          {
+            "OtherOutcomeMeasure": "age",
+            "OtherOutcomeDescription": "Differences in parameters of primary and secondary endpoints between ages 7-11 and 12-21",
+            "OtherOutcomeTimeFrame": "6 months"
+          },
+          {
+            "OtherOutcomeMeasure": "age",
+            "OtherOutcomeDescription": "Differences in parameters of primary and secondary endpoints between ages 7-11 and 12-21",
+            "OtherOutcomeTimeFrame": "12 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Autoantibodies",
+            "OtherOutcomeDescription": "Change of levels of diabetes-related autoantibodies when compared to test before the start of treatment (baseline)",
+            "OtherOutcomeTimeFrame": "6 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Autoantibodies",
+            "OtherOutcomeDescription": "Change of levels of diabetes-related autoantibodies when compared to test before the start of treatment (baseline)",
+            "OtherOutcomeTimeFrame": "12 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Peripheral blood mononuclear cells",
+            "OtherOutcomeDescription": "Change in reactivity and cytokine production of peripheral blood mononuclear cells when compared to test before the start of treatment (baseline)",
+            "OtherOutcomeTimeFrame": "6 months"
+          },
+          {
+            "OtherOutcomeMeasure": "Peripheral blood mononuclear cells",
+            "OtherOutcomeDescription": "Change in reactivity and cytokine production of peripheral blood mononuclear cells when compared to test before the start of treatment (baseline)",
+            "OtherOutcomeTimeFrame": "12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nWritten informed consent for participation of the study (for subjects below 18 years of age also from both caregivers), given before undergoing any study-specific procedures\nClinical history compatible with type 1 diabetes diagnosed less than 6 months before enrolment\nIn the first part of the study, six subjects, three between 7-11 and three between 12-18 years of age (both groups inclusive at both ends), will be included. The sixty subjects in the second part of the study are stratified by age (12-21 and 7-11 years, respectively) and randomized to one of two treatment arms (active or placebo), with a 6-month safety delay for the younger stratum.\nMentally stable and, in the opinion of the investigator, able to comply with the procedures of the study protocol.\nFasting plasma C-peptide concentration >0.12 nmol/L.\n\nSubjects of child-bearing potential must agree to using adequate contraception until one year after the administration of WJMSC/Placebo. Adequate contraception is as follows:\n\noral (except low-dose gestagen (lynestrenol and noretisteron), injectable or implanted hormonal contraceptives.\nintrauterine device\nintrauterine system (for example progestin-releasing coil)\nvasectomized male (with appropriate postvasectomy documentation of the absence of sperm in the ejaculate)\n\nExclusion Criteria:\n\nSubjects with body weight >100 kg\nSubjects with unstable cardiovascular status incl. NYHA class III/IV or symptoms of angina pectoris.\nSubjects with uncontrolled hypertension (≥160/105 mmHg).\nSubjects with active on-going infections.\nSubjects with latent or previous as well as on-going therapy against tuberculosis, or exposed to tuberculosis or has traveled in areas with a high risk of tuberculosis or mycosis within the last 3 months.\nSubjects with serological evidence of infection with HIV, Treponema pallidum, hepatitis B antigen (subjects with serology consistent with previous vaccination and a history of vaccination are acceptable), or hepatitis C.\nSubjects with any systemic immune suppressive treatment\nSubjects with a known demyelinating disease or with symptoms or physical examination findings consistent with possible demyelinating disease.\nPregnant or nursing (lactating) women, where pregnancy is defined as the state of a female after conception and until the termination of gestation, confirmed by a positive hCG laboratory test.\nSubjects with known, or previous, malignancy.\nTaking oral anti-diabetic therapies or any other concomitant medication which may interfere with glucose regulation other than insulin.\nSubjects with GFR <60 ml/min/1.73 m2 body surface.\nSubject with any condition or any circumstance that, in the opinion of the investigator, would make it unsafe to undergo treatment with MSC.\nKnown hypersensitivity against any excipients, i.e., dimethyl sulfoxide (DMSO).",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "7 Years",
+      "MaximumAge": "21 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult"
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003920",
+            "ConditionMeshTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionMeshId": "D000003922",
+            "ConditionMeshTerm": "Diabetes Mellitus, Type 1"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000044882",
+            "ConditionAncestorTerm": "Glucose Metabolism Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafAsFound": "Diabetes",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6269",
+            "ConditionBrowseLeafName": "Diabetes Mellitus, Type 1",
+            "ConditionBrowseLeafAsFound": "Type 1 Diabetes",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24556",
+            "ConditionBrowseLeafName": "Glucose Metabolism Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

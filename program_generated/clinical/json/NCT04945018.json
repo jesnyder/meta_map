@@ -1,0 +1,404 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04945018",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "HS-001-01"
+      },
+      "Organization": {
+        "OrgFullName": "Heartseed Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "A Study of iPS Cell-derived Cardiomyocyte Spheroids (HS-001) in Patients With Heart Failure (LAPiS Study)",
+      "OfficialTitle": "A Phase I/II Study of Human Induced Pluripotent Stem (iPS) Cell-derived Cardiomyocyte Spheroids (HS-001) in Patients With Severe Heart Failure, Secondary to Ischemic Heart Disease",
+      "Acronym": "LAPiS"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2021",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 19, 2021",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 30, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "March 31, 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 22, 2021",
+      "StudyFirstSubmitQCDate": "June 22, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 30, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "June 30, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 2, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Heartseed Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this clinical study is to evaluate the safety and efficacy of HS-001 CS transplanted into severe heart failure patients with underlying ischemic heart disease for 26 weeks after transplantation.",
+      "DetailedDescription": "This is a multicenter, open-label, two-group dose-escalation, phase I/II study in 10 severe heart failure patients (five in the low-dose group and five in the high-dose group) with underlying ischemic heart disease.\n\nAfter screening period is completed, subjects undergo HS-001 CS transplantation. After transplantation, subjects take immunosuppressant and have efficacy/safety assessments."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Heart Failure",
+          "Ischemic Heart Disease"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Heart Failure",
+          "Ischemic Heart Disease"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "10",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "HS-001 Low dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "HS-001 Low dose Administration",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: HS-001 CS",
+                "Device: HS-001-D needle, HS-001-D Adaptor"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "HS-001 High dose",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "HS-001 High dose Administration",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: HS-001 CS",
+                "Device: HS-001-D needle, HS-001-D Adaptor"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "HS-001 CS",
+            "InterventionDescription": "Human (allogeneic) iPS-cell-derived cardiomyocyte spheroids suspension",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "HS-001 High dose",
+                "HS-001 Low dose"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Device",
+            "InterventionName": "HS-001-D needle, HS-001-D Adaptor",
+            "InterventionDescription": "Cardiomyocyte spheroids Dedicated Needles for Implantation and Guided Adaptors",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "HS-001 High dose",
+                "HS-001 Low dose"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety and Tolerability",
+            "PrimaryOutcomeDescription": "Adverse events and safety in the 26 weeks after HS-001 CS transplantation",
+            "PrimaryOutcomeTimeFrame": "26 weeks post-transplant"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Left Ventricular Ejection Fraction in Cardiac MRI scan & Echocardiography",
+            "SecondaryOutcomeDescription": "Left Ventricular Ejection Fraction in the 26 weeks and 52 weeks after HS-001 CS transplantation",
+            "SecondaryOutcomeTimeFrame": "26 weeks and 52 weeks post-transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Myocardial wall motion evaluation in Echocardiography",
+            "SecondaryOutcomeDescription": "Myocardial wall motion evaluation (Index of myocardial strain) in the 26 weeks and 52 weeks after HS-001 CS transplantation",
+            "SecondaryOutcomeTimeFrame": "26 weeks and 52 weeks post-transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Myocardial blood flow in SPECT",
+            "SecondaryOutcomeDescription": "Myocardial blood flow in the 26 weeks and 52 weeks after HS-001 CS transplantation",
+            "SecondaryOutcomeTimeFrame": "26 weeks and 52 weeks post-transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Myocardial viability in SPECT",
+            "SecondaryOutcomeDescription": "Myocardial viability in the 26 weeks and 52 weeks after HS-001 CS transplantation",
+            "SecondaryOutcomeTimeFrame": "26 weeks and 52 weeks post-transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "6-minute walk distance",
+            "SecondaryOutcomeDescription": "6-minute walk distance in the 26 weeks and 52 weeks after HS-001 CS transplantation",
+            "SecondaryOutcomeTimeFrame": "26 weeks and 52 weeks post-transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Kansas City Cardiomyopathy Questionnaire (KCCQ)",
+            "SecondaryOutcomeDescription": "Kansas City Cardiomyopathy Questionnaire in the 26 weeks and 52 weeks after HS-001 CS transplantation",
+            "SecondaryOutcomeTimeFrame": "26 weeks and 52 weeks post-transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "5-level EQ-5D version (EQ-5D-5L)",
+            "SecondaryOutcomeDescription": "5-level EQ-5D version (EQ-5D-5L) in the 26 weeks and 52 weeks after HS-001 CS transplantation",
+            "SecondaryOutcomeTimeFrame": "26 weeks and 52 weeks post-transplant"
+          },
+          {
+            "SecondaryOutcomeMeasure": "N-terminal Pro-brain Natriuretic Peptide (NT-proBNP)",
+            "SecondaryOutcomeDescription": "N-terminal Pro-brain Natriuretic Peptide (NT-proBNP) in the 26 weeks and 52 weeks after HS-001 CS transplantation",
+            "SecondaryOutcomeTimeFrame": "26 weeks and 52 weeks post-transplant"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with resting left ventricular ejection fraction (LVEF) ≦40% based on institutional assessment on either screening cardiac MRI or echocardiographic assessment\nNew York Heart Association (NYHA) cardiac function classification of grade II or higher at screening\nOther Criteria apply, please contact the investigator\n\nExclusion Criteria:\n\nPatients screened less than 1 month after the onset of myocardial infarction\nPatients with congenital heart disease, or cardiac sarcoidosis\nOther Criteria apply, please contact the investigator",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Heartseed Inc.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "0363801068",
+            "CentralContactEMail": "contact@heartseed.jp"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "St. Marianna University Hospital",
+            "LocationCity": "Kawasaki",
+            "LocationCountry": "Japan"
+          },
+          {
+            "LocationFacility": "Nihon University Itabashi Hospital",
+            "LocationCity": "Tokyo",
+            "LocationCountry": "Japan"
+          },
+          {
+            "LocationFacility": "The University of Tokyo Hospital",
+            "LocationCity": "Tokyo",
+            "LocationCountry": "Japan"
+          },
+          {
+            "LocationFacility": "Tokyo Medical and Dental University Medical Hospital",
+            "LocationCity": "Tokyo",
+            "LocationCountry": "Japan"
+          },
+          {
+            "LocationFacility": "Tokyo Metropolitan Geriatric Medical Center",
+            "LocationCity": "Tokyo",
+            "LocationCountry": "Japan"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006333",
+            "ConditionMeshTerm": "Heart Failure"
+          },
+          {
+            "ConditionMeshId": "D000006331",
+            "ConditionMeshTerm": "Heart Diseases"
+          },
+          {
+            "ConditionMeshId": "D000017202",
+            "ConditionMeshTerm": "Myocardial Ischemia"
+          },
+          {
+            "ConditionMeshId": "D000003324",
+            "ConditionMeshTerm": "Coronary Artery Disease"
+          },
+          {
+            "ConditionMeshId": "D000007511",
+            "ConditionMeshTerm": "Ischemia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003327",
+            "ConditionAncestorTerm": "Coronary Disease"
+          },
+          {
+            "ConditionAncestorId": "D000001161",
+            "ConditionAncestorTerm": "Arteriosclerosis"
+          },
+          {
+            "ConditionAncestorId": "D000001157",
+            "ConditionAncestorTerm": "Arterial Occlusive Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M5698",
+            "ConditionBrowseLeafName": "Coronary Artery Disease",
+            "ConditionBrowseLeafAsFound": "Ischemic Heart Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8573",
+            "ConditionBrowseLeafName": "Heart Failure",
+            "ConditionBrowseLeafAsFound": "Heart Failure",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafAsFound": "Heart Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafAsFound": "Ischemic",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18658",
+            "ConditionBrowseLeafName": "Myocardial Ischemia",
+            "ConditionBrowseLeafAsFound": "Ischemic Heart Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M11459",
+            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5701",
+            "ConditionBrowseLeafName": "Coronary Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3621",
+            "ConditionBrowseLeafName": "Arteriosclerosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3617",
+            "ConditionBrowseLeafName": "Arterial Occlusive Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          }
+        ]
+      }
+    }
+  }
+}

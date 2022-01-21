@@ -1,0 +1,329 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03943940",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "TNLS012019-TBG"
+      },
+      "Organization": {
+        "OrgFullName": "Van Hanh General Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "BM-MNCs and UC-MSCs Infusion for Type 2 Diabetes Mellitus Patients",
+      "OfficialTitle": "A Preliminary Safety and Efficacy Evaluation of Bone Marrow Mononuclear Cells (BM-MNCs) and Umbilical Cord Tissue-derived Mesenchymal Stem Cells (UC-MSC) Infusion for Type 2 Diabetes Mellitus (T2DM) Patients",
+      "Acronym": "T2DM"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2019",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 24, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 30, 2019",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 30, 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 7, 2019",
+      "StudyFirstSubmitQCDate": "May 7, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 9, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "May 8, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 10, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Van Hanh General Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The purpose of this study is to evaluate the preliminary safety and efficacy of autologous bone marrow mononuclear cells (BM-MNCs) and allogeneic umbilical cord tissue-derived mesenchymal stem cells (UC-MSCs) infusion in type 2 Diabetes Mellitus patients.",
+      "DetailedDescription": "Mononuclear cells are collected from autologous bone marrow and allogeneic mesenchymal stem cells are isolated and cultured from umbilical cord tissues.\n\n30 patients with Type 2 Diabetes Mellitus will be enrolled and received mononuclear cell and mesenchymal stem cell by intravenous infusion and followed up for 6 months. The other 30 patients with Type 2 Diabetes Mellitus will be enrolled and treated by standard medicines, which would be used as the control group.\n\nSafety is to assess the occurrence of adverse events (AEs) during either stem cells infusion or by physician assessments.\n\nThe primary endpoint is to assess the improvement of patient's C-peptid and HOMA-β, HOMA-IR, cytokines TNF-α, IL-1β, Blood glucose level, Hemoglobin A1c (HbA1c) level."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Type 2 Diabetes Mellitus"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "BM-MNC and UC-MSC",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "30 patients with Type 2 Diabetes Mellitus will be enrolled and received mononuclear cells and mesenchymal stem cells by intravenous infusion.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: BM-MNC and UC-MSC"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Stand medicines",
+            "ArmGroupType": "Other",
+            "ArmGroupDescription": "30 patients with Type 2 Diabetes Mellitus will be enrolled and treated by standard medicines.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Control"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "BM-MNC and UC-MSC",
+            "InterventionDescription": "Autologous bone marrow mononuclear cells (BM-MNCs) and allogeneic umbilical cord tissue-derived mesenchymal stem cells (UC-MSCs) under sterile conditions to treat this disease.\n\nUC-MSC: 1-2 x 10^6 cells/kg",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "BM-MNC and UC-MSC"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Control",
+            "InterventionDescription": "Standard medicine",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Stand medicines"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "The level of C-peptid and HOMA-β",
+            "PrimaryOutcomeDescription": "Assess the changes in C-peptid and HOMA-β level after transplantation",
+            "PrimaryOutcomeTimeFrame": "enrollment, 1 month, 3 months and 6 months after transplantation"
+          },
+          {
+            "PrimaryOutcomeMeasure": "The level of HOMA-IR and cytokines TNF-α, IL-1β",
+            "PrimaryOutcomeDescription": "Assess the changes in HOMA-IR and cytokines TNF-α, IL-1β level after transplantation",
+            "PrimaryOutcomeTimeFrame": "enrollment, 1 month, 3 months and 6 months after transplantation"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Blood glucose level",
+            "PrimaryOutcomeDescription": "Assess the changes in Blood glucose level after transplantation",
+            "PrimaryOutcomeTimeFrame": "enrollment, 1 month, 3 months and 6 months after transplantation"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Hemoglobin A1c (HbA1c) level",
+            "PrimaryOutcomeDescription": "Assess the changes in HbA1C level after transplantation",
+            "PrimaryOutcomeTimeFrame": "enrollment, 1 month, 3 months and 6 months after transplantation"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Adverse events",
+            "PrimaryOutcomeDescription": "Number of adverse events in both groups",
+            "PrimaryOutcomeTimeFrame": "during the course of 6 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Insulin dose and drug dosage",
+            "SecondaryOutcomeDescription": "Assess the changes in Insulin dose and drug dosage after transplantation",
+            "SecondaryOutcomeTimeFrame": "enrollment, 1 month, 3 months and 6 months after transplantation"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nWho is diagnosed with Type 2 Diabetes Mellitus according to the ADA 3 years or more\nPatients are able to read, write and understand ICF form and agree to participate in the study\nMales and females between age 18 and 70 years at the screening.\nFBG > 7 mmol/L\n8% ≤ HbA1C ≤ 11%\nFasting C-peptide > 0.6 ng/ml\nAnti GAD (-)\nThe patient is treated by two oral diabetes medications but uncontrolled blood glucose (HbA1C ≥ 8%)\n\nExclusion Criteria:\n\nPregnant women, planning to become pregnant and lactating women during the study period\nThe patient has a disease or a history of vascular disease; history of abdominal or chest aortic disease;\nPatients are diagnosed with heart failure degree IV according to NYHA or kidney failure degree IV according to KDIGO;\nPatients with severe malignancy or dysplasia within 5 years prior to the study period or who are suffering from severe malignant or dysplasia\nInfection is undergoing antibiotic treatment or antibiotics have just been discontinued within 14 days\nHematologic disease or coagulopathy\nThere are abnormalities in liver function (AST and/or ALT ≥ 2 times or bilirubin ≥ 2.0 times normal value at the time of screening);\nPatients with immunodeficiency diseases such as HIV or hepatitis B and C;\nAcute or chronic pancreatitis or a history of acute pancreatitis;\nPatients taking immunosuppressive drugs (such as azathioprine, methotrexate) within 6 months before the study time or taking immunosuppressive drugs;\nThe patient is unable to complete the study;\nThe patient is participating in another study.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Phuong Thi-Bich Le, MSc-MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "902742732",
+            "CentralContactPhoneExt": "+84",
+            "CentralContactEMail": "drbphuong@gmail.com"
+          },
+          {
+            "CentralContactName": "StemCellUnit VanHanh",
+            "CentralContactRole": "Contact",
+            "CentralContactEMail": "tebaogocvanhanh@gmail.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Phuong Thi-Bich Le, MSc-MD",
+            "OverallOfficialAffiliation": "Stem Cell Unit, Van Hanh General Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Van Hanh General Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Ho Chi Minh City",
+            "LocationState": "Ho Chi Minh",
+            "LocationZip": "700000",
+            "LocationCountry": "Vietnam",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Phuong Thi-Bich Le, MSc-MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "902742732",
+                  "LocationContactPhoneExt": "+84",
+                  "LocationContactEMail": "drbphuong@gmail.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003920",
+            "ConditionMeshTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionMeshId": "D000003924",
+            "ConditionMeshTerm": "Diabetes Mellitus, Type 2"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000044882",
+            "ConditionAncestorTerm": "Glucose Metabolism Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafAsFound": "Diabetes Mellitus",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6271",
+            "ConditionBrowseLeafName": "Diabetes Mellitus, Type 2",
+            "ConditionBrowseLeafAsFound": "Type 2 Diabetes Mellitus",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24556",
+            "ConditionBrowseLeafName": "Glucose Metabolism Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

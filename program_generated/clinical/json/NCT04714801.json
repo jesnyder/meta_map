@@ -1,0 +1,320 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04714801",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "ASC Lungtransplantation"
+      },
+      "Organization": {
+        "OrgFullName": "Rigshospitalet, Denmark",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Adipose Derived Mesenchymal Cell Treatment in Lungtransplantation",
+      "OfficialTitle": "A Danish, Single Centre, Double-blind, Randomized Study Evaluating Allogeneic Adipose Tissue Derived Mesenchymal Stromal Cell Therapy to Reduce Primary Graft Dysfunction After Lung Transplantation"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 1, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 30, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 30, 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 29, 2020",
+      "StudyFirstSubmitQCDate": "January 15, 2021",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 19, 2021",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "July 12, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 16, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "JKastrup",
+        "ResponsiblePartyInvestigatorTitle": "MD professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Rigshospitalet, Denmark"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Rigshospitalet, Denmark",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "To investigate safety of treatment with allogeneic adipose tissue-derived mesenchymal stromal cells (ASCs) in patients undergoing lung transplantation, to evaluate whether the treatment can reduce host immunological reaction towards the graft, and to reduce the ischemic reperfusion-injury after transplantation.",
+      "DetailedDescription": "The emerging field of stem cell therapy holds promise of treating a variety of diseases. Especially the mesenchymal stromal cells from bone marrow (BMSCs) or adipose tissue (ASCs) have proven their potential for regenerative therapy in patients with ischemic heart disease. Both of these cell types have putative immunomodulatory properties, as they have demonstrated to actively suppress the immune system and hereby evade recognition.\n\nThis knowledge will be transferred into studies in the ischemic reperfusion-injury/primary lung graft dysfunction in lung transplantation, and in suppressing the initial host immunological response towards the transplanted lung where a high degree of immunological and inflammatory activity is involved.\n\nWe will conduct a clinical trial in which patients receiving lung transplantation will be randomized to either placebo or treatment with allogeneic MSCs from adipose tissue. The aim is to assess the impact of MSCs on primary graft dysfunction.\n\nThe perspective is that this new information can be of pivotal importance and potentially be a paradigm shift for the clinical problems seen in the first period after lung transplantation and reduce the long-term graft rejection and dysfunction."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Lung Transplant Rejection"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "lung transplantation",
+          "Rejection",
+          "mesenchymal stromal cell",
+          "immune modulation",
+          "clinical trial",
+          "treatment"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "Double-blind placebo-controlled dose titrating study",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignMaskingDescription": "Double-blind",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Infusion of 100 million ASC",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Infusion of 100 million adipose derived mesenchymal stromal cells from healthy donors",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: adipose derived mesenchymal stromal cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Infusion of 200 million ASC",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Infusion of 200 million adipose derived mesenchymal stromal cells from healthy donors",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: adipose derived mesenchymal stromal cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Infusion of placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Infusion of saline",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Saline"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "adipose derived mesenchymal stromal cells",
+            "InterventionDescription": "Intravenous infusion of cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Infusion of 100 million ASC",
+                "Infusion of 200 million ASC"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "CSCC_ASC"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Saline",
+            "InterventionDescription": "Intravenous infusion of saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Infusion of placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Pulmonary graft dysfunction (PDG)",
+            "PrimaryOutcomeDescription": "Difference in presence or not presence of Primary graft dysfunction (PGD) after transplantation in ASC treated patients compared to controls.\n\nPrimary graft dysfunction is defined, according to the International Society for Heart and Lung Transplantation (ISHLT), as presence of both pulmonary infiltrates and hypoxemia occurring within the first 72 hours after transplantation",
+            "PrimaryOutcomeTimeFrame": "3 days after treatment"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Kidney glomerular Filtration Rate",
+            "SecondaryOutcomeDescription": "Difference in estimated Glomerular Filtration Rate (eGFR)/1,73 m2. Normal > 60 ml/min",
+            "SecondaryOutcomeTimeFrame": "12 weeks after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Inflammatory markers",
+            "SecondaryOutcomeDescription": "Differences in C-reactive protein. Normal value < 10mg/ml",
+            "SecondaryOutcomeTimeFrame": "through the 12 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale or female lung recipients 18-70 years of age undergoing primary double (including size reduction) lung transplantation.\nPatient willing and capable of giving written informed consent for study participation and anticipated to be able to participate in the study for 3 months.\n\nExclusion Criteria:\n\nRecipients of multi-organ transplant, and or previously transplanted with any solid organ, including previous lung transplantation.\nPatients scheduled for single lung transplantation.\nPatients in need of acute transplantation e.g. patients on urgent call for transplantation and patients on respirator or on extra corporal membrane oxygenation (ECMO) treatment at time of transplantation.\nPatients that based on crossmatch prior to transplantation have need for additional immunosuppressive treatment\nDonor lung cold ischemic time > 12 hours.\nPatients with platelet count < 50,000/mm3 at the evaluation before transplantation.\nPatients who are unlikely to comply with the study requirements.\nPatient unable to participate in the study for the full study period\nPatients with any past (within the past 3-5 years) or present malignancy (other than excised basal cell carcinoma).\nFemales capable of becoming pregnant must have a negative pregnancy test prior to transplantation. After inclusion, they must use contraceptives for 2 months following the given stem cell treatment. The pill, spiral, depot injection of progesterone, sub-dermal implantation, hormonal vaginal ring and transdermal patch regarded as safe contraceptives.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Jens Kastrup, MD Professor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+4535452819",
+            "CentralContactEMail": "jens.kastrup@regionh.dk"
+          },
+          {
+            "CentralContactName": "Abbas A Qayuum, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+4535452819",
+            "CentralContactEMail": "Abbas.Ali.Qayyum@regionh.dk"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jens Kastrup, MD Professor",
+            "OverallOfficialAffiliation": "Rigshospitalet, Denmark",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Michael Perch, MD",
+            "OverallOfficialAffiliation": "Rigshospitalet, Denmark",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "2014 Department of Cardiology, The Heart Centre, University Hospital Rigshospitalet",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Copenhagen",
+            "LocationZip": "2100",
+            "LocationCountry": "Denmark",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Jens Kastrup, MD DMSc",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+4535452817",
+                  "LocationContactEMail": "jens.kastrup@regionh.dk"
+                },
+                {
+                  "LocationContactName": "Jens Kastrup, MD DMSc",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "We are open for collaboration with external research groups, but have no presently plans",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Study Protocol",
+          "Informed Consent Form (ICF)"
+        ]
+      },
+      "IPDSharingTimeFrame": "When the study is finalized and published",
+      "IPDSharingAccessCriteria": "Relevant documented use of data."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M27159",
+            "ConditionBrowseLeafName": "Primary Graft Dysfunction",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

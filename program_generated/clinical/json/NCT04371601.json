@@ -1,0 +1,479 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04371601",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MSC-CoViD-2020"
+      },
+      "Organization": {
+        "OrgFullName": "Fuzhou General Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Safety and Effectiveness of Mesenchymal Stem Cells in the Treatment of Pneumonia of Coronavirus Disease 2019",
+      "OfficialTitle": "Safety and Effectiveness of Mesenchymal Stem Cells in the Treatment of Pneumonia of Coronavirus Disease 2019"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2020",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 1, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 31, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 31, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "March 25, 2020",
+      "StudyFirstSubmitQCDate": "April 30, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 1, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "April 30, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 1, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Fuzhou General Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The outbreak of coronavirus disease 2019 (COVID-19) at the end of 2019 has seen numerous patients experiencing severe acute lung injury (ALI), which developed into severe respiratory distress syndrome (ARDS). The mortality was as high as 20% -40%. Due to the lack of effective antiviral treatments, supporting treatment is the predominant therapy for COVID-19 pneumonia. Its cure is essentially dependent on the patient's immunity. While the immune system eliminates the virus, numerous inflammatory cytokines are produced and a cytokine storm occurs in severe cases.\n\nMesenchymal stem cells (MSCs) play an important role in injury repair and immune regulation, showing advantageous prospects in the treatment of COVID-19 pneumonia. MSCs prevent cytokine storms by retarding the TNF-α pathway, alleviate sepsis by modulating macrophages, neutrophils, NK cells, DC cells, T lymphocytes and B lymphocytes. After infused, MSCs aggregate in the lungs, improve the lung microenvironment, protect alveolar epithelia, and improve pulmonary fibrosis and pulmonary function.",
+      "DetailedDescription": "In vitro, Mesenchymal stem cells were revealed to inhibit the secretion of inflammatory cytokines by spleen lymphocytes and up-regulate regulatory T cells, thereby inhibiting the secretion of interferon-γ(IFN-γ) induced by lymphocytes and Tumor Necrosis Factor(TNF) induced by macrophage.\n\nAnimal models and preclinical studies have shown that mesenchymal stem cells (MSCs) were implanted into inflammatory lung tissues after infusion, which significantly improved the clinical manifestations and histopathological lesions caused by acute lung injury. Mesenchymal stem cells inhibited the effects of interleukin-1 (IL-1) through regulatory T cells (CD4 + CD25 + FOXP3 + Treg cells) and by antagonizing the expression interleukin-1 receptor (IL1-RA). Mesenchymal stem cells significantly down-regulated pro-inflammatory factors by inhibiting the expression of IL-1, TNF and IFN-γ in lung tissue, and up-regulated anti-inflammatory factor by enhancing the expression of IL -10 and regulatory T cells, respectively, thereby dampening the inflammatory response."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID-19 Pneumonia"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Early Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "Control group: conventional symptomatic treatments such as antiviral (oseltamivir), hormones, oxygen therapy, mechanical ventilation and other supportive therapies; Experimental group: On the basis of the above-mentioned conventional symptomatic treatment and supportive therapy, umbilical cord mesenchymal stem cells were given at 106 / Kg body weight / time, once every 4 days for a total of 4 times. Peripheral intravenous infusion was given within 3 days of first admission.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "conventional symptomatic treatments such as antiviral (oseltamivir), hormones, oxygen therapy, mechanical ventilation and other supportive therapies",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Oseltamivir",
+                "Drug: hormones",
+                "Device: oxygen therapy"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Experimental group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "On the basis of the above-mentioned conventional symptomatic treatment and supportive therapy, umbilical cord mesenchymal stem cells were given at 106/Kg body weight / time, once every 4 days for a total of 4 times. Peripheral intravenous infusion was given within 3 days of first admission",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Oseltamivir",
+                "Drug: hormones",
+                "Device: oxygen therapy",
+                "Procedure: mesenchymal stem cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Oseltamivir",
+            "InterventionDescription": "Oseltamivir capsules",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group",
+                "Experimental group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "hormones",
+            "InterventionDescription": "a moderate amount of hormone",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group",
+                "Experimental group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Device",
+            "InterventionName": "oxygen therapy",
+            "InterventionDescription": "oxygen therapy,mechanical ventilation and other supportive therapies",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group",
+                "Experimental group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "mesenchymal stem cells",
+            "InterventionDescription": "mesenchymal stem cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Experimental group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Changes of oxygenation index (PaO2/FiO2) ,blood gas test",
+            "PrimaryOutcomeDescription": "Improvement of pulmonary function",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Detection of TNF-α levels, IL-10 levels",
+            "SecondaryOutcomeDescription": "Cytokines level",
+            "SecondaryOutcomeTimeFrame": "1,3,6,12months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Detection of immune cells that secret cytokines, including CXCR3+, CD4+, CD8+, NK+ cells, and regulatory T cells (CD4 + CD25 + FOXP3 + Treg cells).",
+            "SecondaryOutcomeDescription": "Immunological status",
+            "SecondaryOutcomeTimeFrame": "1,3,6,12months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes of oxygenation index (PaO2/FiO2) ,blood gas test",
+            "SecondaryOutcomeDescription": "Improvement of pulmonary function",
+            "SecondaryOutcomeTimeFrame": "1,3,6months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes of c-reactive protein and calcitonin",
+            "SecondaryOutcomeDescription": "Infection biomarkers",
+            "SecondaryOutcomeTimeFrame": "1,3,6,12months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\npatients with severe COVID-19 pneumonia\nwilling to give informed consent\n\nExclusion Criteria:\n\npatients with mild COVID-19 pneumonia\nliver dysfunction\nconcomitant with other active infection\nrenal dysfunction\nHeart failure >grade 2\npregnant\nhistory of COPD",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jianming Tan Tan, M.D and Ph.D",
+            "OverallOfficialAffiliation": "Fuzhou General Hospital",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Fuzhou General Hospital",
+            "LocationCity": "Fuzhou",
+            "LocationState": "Fujian",
+            "LocationZip": "350025",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000011014",
+            "ConditionMeshTerm": "Pneumonia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "Coronavirus Disease 2019",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafAsFound": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000053139",
+            "InterventionMeshTerm": "Oseltamivir"
+          },
+          {
+            "InterventionMeshId": "D000006728",
+            "InterventionMeshTerm": "Hormones"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000006730",
+            "InterventionAncestorTerm": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000000998",
+            "InterventionAncestorTerm": "Antiviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          },
+          {
+            "InterventionAncestorId": "D000004791",
+            "InterventionAncestorTerm": "Enzyme Inhibitors"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M8941",
+            "InterventionBrowseLeafName": "Hormones",
+            "InterventionBrowseLeafAsFound": "Adolescents",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3466",
+            "InterventionBrowseLeafName": "Antiviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M26299",
+            "InterventionBrowseLeafName": "Oseltamivir",
+            "InterventionBrowseLeafAsFound": "Local anesthesia",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M8940",
+            "InterventionBrowseLeafName": "Hormone Antagonists",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          }
+        ]
+      }
+    }
+  }
+}

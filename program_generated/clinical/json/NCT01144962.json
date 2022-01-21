@@ -1,0 +1,384 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT01144962",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "P10.102"
+      },
+      "Organization": {
+        "OrgFullName": "Leiden University Medical Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Dose-escalating Therapeutic Study of Allogeneic Bone Marrow Derived Mesenchymal Stem Cells for the Treatment of Fistulas in Patients With Refractory Perianal Crohn's Disease",
+      "OfficialTitle": "Allogeneic Bone Marrow Derived Mesenchymal Stem Cells for the Treatment of Fistulas in Patients With Refractory Perianal Crohn's Disease"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2014",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 2010"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2014",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2014",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "June 14, 2010",
+      "StudyFirstSubmitQCDate": "June 15, 2010",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 16, 2010",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "December 29, 2014",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 30, 2014",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "HeinVerspaget",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Leiden University Medical Center"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Leiden University Medical Center",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "DigestScience",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "In a dose escalation study we will determine the safety and preliminary efficacy of allogeneic bone marrow mesenchymal stem cells (bmMSCs) in the induction of response for active fistulizing Crohn's Disease (CD).",
+      "DetailedDescription": "Despite the introduction of anti-TNFa (tumor necrosis factor alpha) therapy, perianal disease still accounts for a high rate of morbidity in patients diagnosed with CD. Recently, a phase II multicenter randomized study was reported showing that expanded adipose tissue derived mesenchymal stem cells (atMSCs) in combination with fibrin glue was an effective and safe treatment for complex perianal fistula. However, dose escalation of allogeneic bone marrow (bm) MSCs for the local treatment of perianal fistulas has not been studied.\n\nIn this study, three escalating doses will be tested in a total of three cohorts. MSC implantation will be preceded by surgical localization, curettage of the fistulous tract and closure of the internal opening. Per cohort, patients will be randomized in a 5:2 fashion to receive either 10x10^6 (cohort 1), 30x10^6 (cohort 2) or 90x10^6 (cohort 3) bmMSCs or no cells (control group).\n\nThe primary endpoint will be assessed at week 12: i) the number of adverse and serious adverse events and ii) a reduction in the number of draining fistulas, which is defined as absence of discharge and absence of collections of ≥2 cm directly related to the treated fistulas tracts as measured by MRI."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Crohn's Disease",
+          "Fistula"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Crohn's Disease",
+          "Fistula",
+          "Mesenchymal Stem Cell",
+          "Mesenchymal Stromal Cell",
+          "MSC",
+          "IBD"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "21",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "Sham Comparator",
+            "ArmGroupDescription": "Patients in the control group will undergo surgical localization, curettage of the fistulous tract and closure of the internal opening, without injection of MSCs.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Localization, curettage of the fistulous tract and closure of the internal opening without MSC injection."
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort 1",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "10x10^6 MSC",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Localization, curettage of the fistulous tract and closure of the internal opening with local MSC injection."
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort 2",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "30x10^6 MSC",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Localization, curettage of the fistulous tract and closure of the internal opening with local MSC injection."
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort 3",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "90x10^6 MSC",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Localization, curettage of the fistulous tract and closure of the internal opening with local MSC injection."
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Localization, curettage of the fistulous tract and closure of the internal opening without MSC injection.",
+            "InterventionDescription": "Patients will undergo surgical localization, curettage of the fistulous tract and closure of the internal opening, without injection of MSCs.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Localization, curettage of the fistulous tract and closure of the internal opening with local MSC injection.",
+            "InterventionDescription": "Patients will undergo surgical localization, curettage of the fistulous tract and closure of the internal opening, with local injection of indicated dose of MSCs",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cohort 1",
+                "Cohort 2",
+                "Cohort 3"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety and efficacy (fistula closure)",
+            "PrimaryOutcomeDescription": "i) the number of adverse and serious adverse events and ii) a reduction in the number of draining fistulas, which is defined as absence of discharge and absence of collections of ≥2 cm directly related to the treated fistulas tracts as measured by MRI (Magnetic Resonance Imaging).",
+            "PrimaryOutcomeTimeFrame": "12 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Clinical scores",
+            "SecondaryOutcomeDescription": "1. To assess changes in the Crohn's Disease Activity Index (CDAI), the Perianal Disease Activity Index (PDAI) and the adapted Vaizey fecal incontinence score before and after mesenchymal stem cell (MSC) treatment;",
+            "SecondaryOutcomeTimeFrame": "12 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Endoscopic scores",
+            "SecondaryOutcomeDescription": "2. To compare endoscopic changes before and after local bmMSC treatment using the Crohn's Disease Endoscopic Index of Severity (CDEIS) and simplified endoscopic activity score for Crohn's disease (SES-CD);",
+            "SecondaryOutcomeTimeFrame": "12 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Quality of life",
+            "SecondaryOutcomeDescription": "3. To evaluate the effect of local treatment with autologous bmMSCs on the quality of life of patients with fistulizing CD using the short Inflammatory Bowel Disease Questionnaire (sIBDQ) and Short Form (SF)-36 score;",
+            "SecondaryOutcomeTimeFrame": "12 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "C-reactive protein (CRP)",
+            "SecondaryOutcomeDescription": "4. To summarize the changes from baseline compared to 12 weeks in serum C-reactive protein (CRP).",
+            "SecondaryOutcomeTimeFrame": "12 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Safety",
+            "SecondaryOutcomeDescription": "5. To assess the incidence of surgical intervention and infections.",
+            "SecondaryOutcomeTimeFrame": "12 and 24 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMen and women > 18 years of age\nPatient must have had CD (for at least 3 months from the time of initial diagnosis). The diagnosis of CD must have been confirmed by endoscopic and histologic evidence\nCDAI score of <250 at screening and baseline\nPeri-anal fistulas must be refractory to conventional medical therapy Which means that at some time during the course of the disease, patient must have received both steroids and immunosuppressive agents (for example, azathioprine, 6-mercaptopurine (6-MP), methotrexate, or infliximab) which did not result in an adequate response to treatment\nPatients with previous surgical attempts to eradicate perianal fistulas are eligible for inclusion as are patients with setons in situ. Setons will be removed during the surgical procedure\nPatients included in the study might be receiving 5-aminosalicylic acid (5-ASA), steroids, azathioprine, 6-MP, methotrexate, or any similar drug at the time of enrolment and is allowed to have a history of infliximab treatment, provided the following conditions are fulfilled at screening:\nThe dose of 5-ASA (both oral and rectal) must have been stable for at least 4 weeks prior to enrollment\nThe dose of steroids must be stable for at least 4 weeks prior to enrollment\nThe dose of immunosuppressants (for example azathioprine, 6-MP, or methotrexate) must have been stable for at least 8 weeks prior to enrollment and the patient on therapy for at least three months prior to enrollment\nThe last dose of infliximab or other anti-TNF drug is > 8 weeks prior to enrollment\nNo need for immediate surgery (obstruction, strictures or abscess)\nIf female and of child-bearing age, patient must be non-pregnant non-breastfeeding, and use adequate contraception\nPatient is willing to participate in the study and has signed the informed consent. Consent must be obtained prior to any study procedure\n\nExclusion Criteria:\n\nPatients with evidence of acute peri-anal infection, presence of peri-anal abscesses larger than 2 cm, and anal or rectal stricture\nPatients with evidence of any infections needing antibiotic treatment\nRectovaginal fistulas, or complex peri-anal fistulas with more than two internal openings\nPatients suffering from renal- or hepatic failure\nUse of any investigational drug within 1 month prior to screening or within 5 half-lives of the investigational agent, whichever is longer\nPatient is allergic to gadolinium (MRI contrast agent)\nPatient with severe renal insufficiency defined as patients with a glomerular filtration rate (GFR) below 60 mL/min/1.73 m2. GFR = 186.3 x (serum creatinine)-1.154 x (age in years)-0.203 x 1.212 (if patient is black) x 0.742 (if female)\n\nDue to the high strength electromagnetic fields that will be used during MRI there is a risk of interference with any metallic implants in the body. The following conditions will disqualify patients from having an MRI and will be excluded from this study:\n\nElectronically, magnetically, and mechanically activated implants\nFerromagnetic or electronically operated stapedial implants\nCardiac pacemakers/carotid sinus pacemaker implant\nHemostatic clips\nMetallic splinters in the orbit\nInsulin pumps and nerve stimulators\nLead wires or similar wires\nMetal intrauterine device\n\nChange in concomitant medication:\n\nSteroids must be stable for at least 4 weeks prior to enrollment\n5-ASA should be on a stable dose > 4 weeks prior to enrollment\nImmunosuppressants (e.g. azathioprine, 6MP or methotrexate) should be on a stable dose > 8 weeks prior to enrolment\nInfliximab or other anti-TNF antibody therapy should not be administered < 8 weeks prior to enrollment\nClaustrophobia\nDocumented HIV (Human Immunodeficiency Virus) infection. Active hepatitis B, hepatitis C or TB\nPatients who currently have or who have had an opportunistic infection (e.g., herpes zoster [shingles], cytomegalovirus, Pneumocystis carinii, aspergillosis, histoplasmosis, or mycobacteria other than TB) within 6 months prior to screening\nSerious infections (such as pneumonia or pyelonephritis) in the previous 3 months. Less serious infections (such as acute upper respiratory tract infection [colds] or simple urinary tract infection) need not be considered exclusions at the discretion of the investigator\nMalignancy within the past 5 years (except for squamous or basal cell carcinoma of the skin that has been treated with no evidence of recurrence)\nHistory of lymphoproliferative disease including lymphoma\nPatient is unwilling or unable to comply with the study procedures",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Hein W Verspaget, PhD",
+            "OverallOfficialAffiliation": "Leiden University Medical Center (LUMC)",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Leiden University Medical Center (LUMC)",
+            "LocationCity": "Leiden",
+            "LocationState": "Zuid Holland",
+            "LocationZip": "2333 ZA",
+            "LocationCountry": "Netherlands"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "26116801",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Molendijk I, Bonsing BA, Roelofs H, Peeters KC, Wasser MN, Dijkstra G, van der Woude CJ, Duijvestein M, Veenendaal RA, Zwaginga JJ, Verspaget HW, Fibbe WE, van der Meulen-de Jong AE, Hommes DW. Allogeneic Bone Marrow-Derived Mesenchymal Stromal Cells Promote Healing of Refractory Perianal Fistulas in Patients With Crohn's Disease. Gastroenterology. 2015 Oct;149(4):918-27.e6. doi: 10.1053/j.gastro.2015.06.014. Epub 2015 Jun 25."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003424",
+            "ConditionMeshTerm": "Crohn Disease"
+          },
+          {
+            "ConditionMeshId": "D000005402",
+            "ConditionMeshTerm": "Fistula"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000015212",
+            "ConditionAncestorTerm": "Inflammatory Bowel Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005759",
+            "ConditionAncestorTerm": "Gastroenteritis"
+          },
+          {
+            "ConditionAncestorId": "D000005767",
+            "ConditionAncestorTerm": "Gastrointestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007410",
+            "ConditionAncestorTerm": "Intestinal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000020763",
+            "ConditionAncestorTerm": "Pathological Conditions, Anatomical"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M5790",
+            "ConditionBrowseLeafName": "Crohn Disease",
+            "ConditionBrowseLeafAsFound": "Crohn's Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7684",
+            "ConditionBrowseLeafName": "Fistula",
+            "ConditionBrowseLeafAsFound": "Fistula",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9596",
+            "ConditionBrowseLeafName": "Intestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17069",
+            "ConditionBrowseLeafName": "Inflammatory Bowel Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8027",
+            "ConditionBrowseLeafName": "Gastroenteritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21672",
+            "ConditionBrowseLeafName": "Pathological Conditions, Anatomical",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02600130",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "00-0000-01"
+      },
+      "Organization": {
+        "OrgFullName": "Longeveron Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Lomecel-B Infusion Versus Placebo in Patients With Alzheimer's Disease",
+      "OfficialTitle": "A Phase, I Prospective, Randomized, Double-Blinded, Placebo-controlled, Trial to Evaluate the Safety and Potential Efficacy of Lomecel-B Infusion Versus Placebo in Patients With Alzheimer's Disease"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 10, 2016",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2020",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2021",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "November 2, 2015",
+      "StudyFirstSubmitQCDate": "November 6, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 9, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "December 13, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 14, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Longeveron Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a Phase I, prospective, randomized, placebo-controlled, double-blinded study designed to test the safety and efficacy of LMSCs (Longeveron Mesenchymal Stem Cells) for the treatment of subjects with clinically diagnosed Alzheimer's disease.",
+      "DetailedDescription": "This is a randomized, placebo-controlled clinical trial designed to evaluate the safety and efficacy of LMSCs (Longeveron Mesenchymal Stem Cells) or placebo in subjects with Alzheimer's Disease. Following a successful Safety Run-In Phase, a total of twenty-five (25) subjects will be randomized to (2:2:1) to receive low-dose LMSCs, high-dose LMSCs or placebo. After randomization, baseline imaging, and study product infusion, subjects will be followed up at 2,4,13, 26, 39 and 52 week post study product infusion. Intention-to-treat study population will be used for the purpose of the endpoint analysis and safety evaluations."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Alzheimer's Disease"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "33",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Cohort 1",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Cohort 1 (10 subjects) Target dose 20 million Longeveron Mesenchymal Stem Cells (LMSCs) via peripheral intravenous infusion.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Longeveron Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort 2",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Cohort 2 (10 subjects) Target dose 100 million Longeveron Mesenchymal Stem Cells (LMSCs)via peripheral intravenous infusion.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Longeveron Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cohort 3",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Cohort 3 (5 subjects) Placebo (Plasmalyte A and 1% human serum albumin (HSA)) via peripheral intravenous infusion.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Longeveron Mesenchymal Stem Cells",
+            "InterventionDescription": "via peripheral intravenous infusion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cohort 1",
+                "Cohort 2"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "via peripheral intravenous infusion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cohort 3"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "To demonstrate the safety of LMSCs administered to subjects with Alzheimer's disease.",
+            "PrimaryOutcomeDescription": "Incidence of any treatment-emergent serious adverse event (TE-SAE), defined as one or more of the following untoward medical occurrences happening within the first 30 days after infusion.\n\nLife-threatening event (e.g., stroke or non-fatal pulmonary embolism).\nRequires inpatient hospitalization or prolongation of existing hospitalization.\nResults in persistent or significant disability/incapacity.\nResults in death.\nLeads to other clinically significant untoward laboratory test result(s) or medical condition(s), determined per Investigator's judgement (e.g., new clinically asymptomatic brain microhemorrhages).",
+            "PrimaryOutcomeTimeFrame": "30 days post infusion"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Preliminary efficacy will be determined by examining for changes in AD status and rate decline as assessed by the following.",
+            "SecondaryOutcomeDescription": "Neurological/neurocognitive assessments. ADAS-Cog 11 (Alzheimer's Disease Assessment Scale-cognitive subscale 11) MMSE (Mini Mental State Examination) NPI (Neuropsychiatric Inventory) UPSIT (University of Pennsylvania Smell Identification Test) GDS (Geriatric Depression Scale)\nQuality of life assessments. ADCS-ADL (Alzheimer's Disease Cooperative Study Activities of Daily Living) QOL-AD (Quality of Life-Alzheimer's Disease)\nBlood inflammatory and AD biomarkers. IL-1 IL-6 TGF-β1 TNF-α CRP D-Dimer Fibrinogen ApoE\nCerebrospinal fluid (CSF) inflammatory biomarkers. IL-1 IL-6 TGF-β1 TNF-α\nCSF biomarkers of AD. Tau. Phosphorylated tau. Beta-amyloid.\nBrain volumetry calculated using MRI, including:\n\nHippocampal volume. Ventricular volume. Whole-brain volume.",
+            "SecondaryOutcomeTimeFrame": "At Baseline, 2, 4, 13, 26, 39, and 52 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria: All subjects enrolled in this trial must:\n\nprovide written informed consent;\nbe 50 - 80 years of age at the time of signing the Informed Consent form;\nhave a body mass of 45 - 150 kg;\nat the time of enrollment, be diagnosed with AD in accordance with the NINCDS-AA criteria;\nscore between 18 and 24 on the Mini Mental State Examination (MMSE);\nhas one (or more) identified adult caregiver who is willing to provide written informed consent for his/her own participation; is able to read, understand, and speak the designated language at the study site; either lives with the subject or sees the subject for ≥2 hours/day ≥3 days/week; and agrees to accompany the subject to each study visit;\nblood oxygen saturation ≥93% determined via pulse oximetry;\nhave a brain MRI consistent with AD;\nhave a PET scan using an FDA-approved tracer (e.g., AMYViD, Vizamyl, or Neuraceq), and which indicates the presence of beta-amyloid plaques in the cerebral cortex, within 5 years of enrollment;\nhave normal levels of thyroid hormone (free T4) and thyroid-stimulating hormone (TSH);\nhave normal levels of B12 and folate;\nhave a designated study partner who will accompany the subject to all clinic visits and participate in the subject's clinical assessments; or\nbe living in the community, including in an assisted living facility, but excluding long-term care nursing facilities.\n\nExclusion Criteria: All subjects enrolled in this trial must not:\n\nbe unable to perform any of the assessments required for endpoint analysis;\nshow signs of dementia other than AD, such as from AIDS (Acquired Immunodeficiency Syndrome), CJD (Creutzfeldt-Jakob disease), LBD (Lewy Bodies dementia), CVD (Cerebrovascular dementia), PSP (Progressive Supranuclear Palsy), MCI (multiple cerebral infarctions) or NPH (normal pressure hydrocephalus);\nhave any other neurodegenerative disease;\nhave a history of a seizure disorder;\nhave clinically important abnormal screening laboratory values beyond AD;\nhave any conditions that would contraindicate an MRI, such as the presence metallic objects in the eyes, skin, or heart;\nhave any conditions that would contraindicate a PET scan;\nhave > 4 cerebral microhemorrhages (regardless of their anatomical location or diagnostic characterization as \"possible\" or \"definite\"), a single area of superficial siderosis, or evidence of a prior macrohemorrhage as assessed by MRI;\nbe currently using corticosteroids or similar powerful steroidal anti-inflammatory medication (e.g., Prednisone) on a regular basis (exceptions allowed include regular use of steroidal nasal sprays, topical steroids, and estrogen-replacement therapy);\nbe active listed (or expected to be listed) for transplant of any organ;\nbe an organ transplant recipient;\nhave a known hypersensitivity to dimethyl sulfoxide (DMSO).\nhave a condition that is projected to limited life expectancy to < 1 year.\nhave a sitting or resting systolic blood pressure >180 mm Hg or diastolic blood pressure >110 mm Hg at Screening;\nhave a history of alcohol or drug abuse within the past 5 years.\nhave been diagnosed with malignancy within the past 5 years, with the exception of curatively-treated basal cell carcinoma, squamous cell carcinoma, melanoma in situ or cervical carcinoma;\nbe a female who is pregnant, nursing, or of childbearing potential while not practicing effective contraception (female subjects must undergo a urine pregnancy test at screening and on the infusion day prior to infusion);\nhave any serious illness or any other condition that, in the opinion of the investigator, may compromise the safety or compliance of the subject or preclude successful completion of the study;\nhave any serious illness or any other condition that, in the opinion of the investigator, may compromise the validity of the study (e.g., signs of stroke, traumatic brain injury (TBI), multiple sclerosis (MS), amyotrophic lateral sclerosis (ALS), and Parkinsonism;\nhave participated in any investigational therapeutic or device trial within the past 5 years that the investigator feels would influence or affect the outcome of the study;\nbe currently participating (or participated within the previous 30 days) in an investigational therapeutic or device trial;\nbe positive for HIV, Syphilis and Hepatitis C; or\nbe positive for Hepatitis B. If the subject tests positive for anti-HBc or anti-HBs, subject must be currently receiving treatment for hHepatitis B prior to infusion and remain on treatment throughout the study.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "50 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Brain Matters Research",
+            "LocationCity": "Delray Beach",
+            "LocationState": "Florida",
+            "LocationZip": "33445",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Miami Miller School of Medicine",
+            "LocationCity": "Miami",
+            "LocationState": "Florida",
+            "LocationZip": "33136",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Miami Jewish Health",
+            "LocationCity": "Miami",
+            "LocationState": "Florida",
+            "LocationZip": "33137",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000000544",
+            "ConditionMeshTerm": "Alzheimer Disease"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000003704",
+            "ConditionAncestorTerm": "Dementia"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000024801",
+            "ConditionAncestorTerm": "Tauopathies"
+          },
+          {
+            "ConditionAncestorId": "D000019636",
+            "ConditionAncestorTerm": "Neurodegenerative Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000019965",
+            "ConditionAncestorTerm": "Neurocognitive Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001523",
+            "ConditionAncestorTerm": "Mental Disorders"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M3037",
+            "ConditionBrowseLeafName": "Alzheimer Disease",
+            "ConditionBrowseLeafAsFound": "Alzheimer's Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6056",
+            "ConditionBrowseLeafName": "Dementia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22155",
+            "ConditionBrowseLeafName": "Tauopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20711",
+            "ConditionBrowseLeafName": "Neurodegenerative Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20989",
+            "ConditionBrowseLeafName": "Neurocognitive Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3967",
+            "ConditionBrowseLeafName": "Mental Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13625",
+            "ConditionBrowseLeafName": "Psychotic Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2192",
+            "ConditionBrowseLeafName": "Familial Alzheimer Disease",
+            "ConditionBrowseLeafAsFound": "Alzheimer's Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXM",
+            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M85407",
+            "InterventionBrowseLeafName": "Plasma-lyte 148",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8814",
+            "InterventionBrowseLeafName": "Altretamine",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          }
+        ]
+      }
+    }
+  }
+}

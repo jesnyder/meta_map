@@ -1,0 +1,390 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03775447",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "ECV-003"
+      },
+      "Organization": {
+        "OrgFullName": "Michael J. Fox Foundation for Parkinson's Research",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Fox BioNet Project: ECV-003",
+      "OfficialTitle": "FoxBioNet: ECV (Extracellular Vesicle) 003"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 23, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 18, 2019",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 18, 2019",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "November 20, 2018",
+      "StudyFirstSubmitQCDate": "December 12, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 14, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 31, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 8, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Connie Marras",
+        "ResponsiblePartyInvestigatorTitle": "Neurologist at Toronto Western Hospital Movement Disorders Centre",
+        "ResponsiblePartyInvestigatorAffiliation": "University Health Network, Toronto"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Michael J. Fox Foundation for Parkinson's Research",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "University Health Network, Toronto",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Indiana University",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "University of Rochester",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The goal of this study is to optimize pre-analytical cerebrospinal fluid (CSF) extracellular vesicle isolation protocols for increasing the detection of LRRK2 activity in human CSF",
+      "DetailedDescription": "Specific aims to accomplish this objective are:\n\nPRIMARY OBJECTIVES:\n\nTo evaluate a series of extracellular vesicle isolation methods for their ability to enrich for LRRK2 and increase the detection of LRRK2 in CSF samples.\nTo compare the measurements of LRRK2, p1292 LRRK2, Rabs and pRabs from the ECVs isolated using each method.\nTo assess the inter-lab reliability of each method\n\nSECONDARY OBJECTIVES\n\nTo assess the ability of the network of sites to efficiently conduct a study involving biosample collection for PD research. Efficiency will be assessed using measures of the time taken to meet specific milestones within the study\nTo assess the ability of the network to collect high quality biospecimens adhering to agreed-upon protocols.\nTo gauge the willingness of participants to participate in subsequent Fox BioNet studies"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Parkinson Disease"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Parkinson's Disease",
+          "Biomarker",
+          "LRRK2",
+          "CSF"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Control"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Cross-Sectional"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "Cerebro-Spinal Fluids"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "38",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Parkinson's Disease Patients",
+            "ArmGroupDescription": "A diagnosis of Parkinson's disease in the opinion of the enrolling investigator\nDisease duration: any\nMale or female age 18 years or older at time of PD diagnosis.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Lumbar Puncture"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Healthy Control (HC) Subjects",
+            "ArmGroupDescription": "• Male or female age 18 years or older at Screening.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Lumbar Puncture"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Lumbar Puncture",
+            "InterventionDescription": "Lumbar Puncture for collection of Cerebrospinal Fluids",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Healthy Control (HC) Subjects",
+                "Parkinson's Disease Patients"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Biofluid Samplings: Blood"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "degree of LRRK2 enrichment achieved. The measure will vary depending on the method of LRRK2 enrichment used",
+            "PrimaryOutcomeDescription": "For methods involving immunoprecipitation: Increase in peptide spectral matches on mass spectrometry For methods amenable to antibody-based detection: increase in LRRK2 intensity on Western blotting (arbitrary units).",
+            "PrimaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Power analysis to guide future research",
+            "SecondaryOutcomeDescription": "Pilot data to enable calculations for power analysis to guide future research studies for the primary outcomes",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time from IRB submission to approval by central IRB",
+            "SecondaryOutcomeDescription": "Time from IRB submission to approval by central IRB",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time from central IRB approval to site approval",
+            "SecondaryOutcomeDescription": "Time from central IRB approval to site approval (for those sites requiring administrative review)",
+            "SecondaryOutcomeTimeFrame": "3 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time from site selection to contract full execution",
+            "SecondaryOutcomeDescription": "Time from site selection to contract full execution",
+            "SecondaryOutcomeTimeFrame": "4 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Completion of Recruitment",
+            "SecondaryOutcomeDescription": "Time from site activation to completion of recruitment.",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Proportion of samples conforming to collection",
+            "SecondaryOutcomeDescription": "Proportion of samples conforming to collection, processing and shipping protocols.",
+            "SecondaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Retention",
+            "SecondaryOutcomeDescription": "Proportion of participants agreeing to be contacted for future Fox BioNet protocols",
+            "SecondaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nParkinson's Disease Patients:\n\nA diagnosis of Parkinson's disease in the opinion of the enrolling investigator\nDisease duration: any\nMale or female age 18 years or older at time of PD diagnosis.\n\nHealthy Controls:\n\n•Male or female age 18 years or older at Screening.\n\nExclusion Criteria:\n\nParkinson's Disease Patients:\n\nInability to provide informed consent\nCurrent treatment with anticoagulants (e.g., coumadin, heparin) that might preclude safe completion of the lumbar puncture.\nCondition that precludes the safe performance of routine lumbar puncture, such as prohibitive lumbar spinal disease, bleeding diathesis, or clinically significant coagulopathy or thrombocytopenia.\nParticipation in a blinded clinical trial of any kind or an unblinded trial of an investigational product that is not currently approved for use in humans.\n\nHealthy Controls:\n\nInability to provide informed consent\nCurrent treatment with anticoagulants (e.g., coumadin, heparin) that might preclude safe completion of the lumbar puncture.\nCondition that precludes the safe performance of routine lumbar puncture, such as prohibitive lumbar spinal disease, bleeding diathesis, or clinically significant coagulopathy or thrombocytopenia.\nParticipation in a blinded clinical trial of any kind or an unblinded trial of an investigational product that is not currently approved for use in humans.\nCurrently pregnant (female participants)",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Approximately 36 subjects will be enrolled to participate in this study, a combination of Parkinson Disease (PD) (any stage) and Healthy Controls in no specified proportion.",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Northwestern University",
+            "LocationCity": "Chicago",
+            "LocationState": "Illinois",
+            "LocationZip": "60611",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Oregon Health and Sciences University",
+            "LocationCity": "Portland",
+            "LocationState": "Oregon",
+            "LocationZip": "97239",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "University of Pennsylvania",
+            "LocationCity": "Philadelphia",
+            "LocationState": "Pennsylvania",
+            "LocationZip": "19107",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010300",
+            "ConditionMeshTerm": "Parkinson Disease"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000020734",
+            "ConditionAncestorTerm": "Parkinsonian Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001480",
+            "ConditionAncestorTerm": "Basal Ganglia Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009069",
+            "ConditionAncestorTerm": "Movement Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000080874",
+            "ConditionAncestorTerm": "Synucleinopathies"
+          },
+          {
+            "ConditionAncestorId": "D000019636",
+            "ConditionAncestorTerm": "Neurodegenerative Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12365",
+            "ConditionBrowseLeafName": "Parkinson Disease",
+            "ConditionBrowseLeafAsFound": "Parkinson's Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21647",
+            "ConditionBrowseLeafName": "Parkinsonian Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24756",
+            "ConditionBrowseLeafName": "Ganglion Cysts",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15510",
+            "ConditionBrowseLeafName": "Synovial Cyst",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3926",
+            "ConditionBrowseLeafName": "Basal Ganglia Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11181",
+            "ConditionBrowseLeafName": "Movement Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2217",
+            "ConditionBrowseLeafName": "Synucleinopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20711",
+            "ConditionBrowseLeafName": "Neurodegenerative Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04494386",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "ULSC-CV-01"
+      },
+      "Organization": {
+        "OrgFullName": "Restem, LLC.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Umbilical Cord Lining Stem Cells (ULSC) in Patients With COVID-19 ARDS",
+      "OfficialTitle": "Phase 1/2a Study of Umbilical Cord Lining Stem Cells (ULSC) in Patients With ARDS Due to COVID-19",
+      "Acronym": "ULSC"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 23, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 30, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 30, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "July 24, 2020",
+      "StudyFirstSubmitQCDate": "July 29, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 31, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "March 8, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 9, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Restem, LLC.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "ULSC-CV-01 is a clinical trial that comprises both Phase 1 and Phase 2a, which will be conducted sequentially. This trial will evaluate the safety and potential efficacy of allogeneic Umbilical Cord Lining Stem Cells (ULSC), which are a type of umbilical cord tissue derived mesenchymal stem cells (MSC), with intravenous (IV) administration in hospitalized patients with acute respiratory distress syndrome (ARDS) due to COVID-19.",
+      "DetailedDescription": "The Phase 1, open-label, non-controlled trial in this study will investigate the safety of intravenous (IV) infusion of ULSC in a total of 20 patients with COVID-19-related ARDS that will include patients that are not intubated and not on a ventilator (NV) and patients that are intubated and on a ventilator (V) for respiratory support. Separate cohorts of each group (NV and V) will receive either a single dose (one infusion) or repeat dose (two infusions separated by 48-hour interval).\n\nThe Phase 2a randomized and placebo-controlled trial in this study will investigate the potential efficacy of IV infusion of ULSC in a total of 40 patients with COVID-19-related ARDS that will all be EITHER NV or V; the determination of that eligibility criterion and the ULSC dosing regimen will be based on Phase 1 data of safety and tolerability. Phase 2a will evaluate EITHER single dose (one infusion) or repeat dose (two infusions separated by 48-hour interval). The randomization will be 3:1 with 30 patients receiving investigational product (ULSC) and 10 patients receiving placebo (carrier control)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Covid19",
+          "Corona Virus Infection",
+          "SARS-CoV Infection",
+          "ARDS",
+          "Coronavirus"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "ULSC in Phase 1 Open Label",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Intravenous (IV) infusion of ULSC in 20 patients with COVID-19 ARDS:\n\nIn Phase 1, two separate cohorts per group will receive either a single dose (one infusion) or repeat dose regimen (two infusions separated by 48-hour interval). The first cohort enrolled will receive the single dose; the next cohort enrolled will be administered the repeat dose regimen.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Umbilical Cord Lining Stem Cells (ULSC)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "ULSC in Phase 2a Randomized",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Intravenous (IV) infusion of ULSC in 30 patients with COVID-19 ARDS:\n\nIn Phase 2a, 30 patients assigned ULSC will receive either a single dose (one infusion) or repeat dose regimen (two infusions separated by 48-hour interval). The ULSC dosing regimen will be chosen based on Phase 1 data of safety and tolerability.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Umbilical Cord Lining Stem Cells (ULSC)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Placebo in Phase 2a Randomized",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Intravenous (IV) infusion of carrier control in 10 patients with COVID-19 ARDS:\n\nIn Phase 2a, 10 patients assigned Placebo will receive either single dose (one infusion) or repeat dose (two infusions separated by 48-hour interval) of carrier control; the dosing regimen will correspond to that of the experimental arm.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo (carrier control)"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Umbilical Cord Lining Stem Cells (ULSC)",
+            "InterventionDescription": "IV infusion of allogeneic ULSC (100 million cells per dose) in sterile saline for injection",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "ULSC in Phase 1 Open Label",
+                "ULSC in Phase 2a Randomized"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Umbilical Cord Lining Stem Cells (ULSC), type of mesenchymal stem cells (MSC) derived from single donor umbilical cord tissue for allogeneic use"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo (carrier control)",
+            "InterventionDescription": "IV infusion of carrier control consisting of sterile saline for injection",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Placebo in Phase 2a Randomized"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Incidence of Dose Limiting Toxicity (DLT)",
+            "PrimaryOutcomeDescription": "Number of subjects with a DLT event during or within 24 hours after ULSC infusion\n\n[Dose Limiting Toxicities are treatment-emergent suspected adverse reactions graded as severe, such as severe infusion-related hypersensitivity toxicities of grade ≥3, and any treatment-emergent serious adverse event (SAE) will be investigated to determine if DLT.]",
+            "PrimaryOutcomeTimeFrame": "24 hours"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of Dose Limiting Toxicity (DLT), suspected adverse reaction (SAR), or serious adverse event (SAE)",
+            "PrimaryOutcomeDescription": "Number of subjects with a DLT event, suspected adverse reaction, or any serious adverse event (SAE) within 1 week of each ULSC infusion",
+            "PrimaryOutcomeTimeFrame": "1 week"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Treatment-emergent adverse events (AE) and serious adverse events (SAE)",
+            "PrimaryOutcomeDescription": "Treatment-emergent adverse events (AE; incidence, grade, and assessment of relatedness or causality) and serious adverse events (SAE) during the study up to 1-month follow-up",
+            "PrimaryOutcomeTimeFrame": "1 month"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Treatment-emergent adverse events (AE) and serious adverse events (SAE)",
+            "PrimaryOutcomeDescription": "Treatment-emergent adverse events (AE; incidence, grade, and assessment of relatedness or causality) and serious adverse events (SAE) during the study and up to the 12-month follow-up",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Levels of COVID-19 related ARDS as defined by the Berlin Definition of ARDS",
+            "SecondaryOutcomeDescription": "Times to transitions between levels of COVID-19 related ARDS as defined by the Berlin Definition of ARDS",
+            "SecondaryOutcomeTimeFrame": "1 month"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes from baseline pulse oximetric saturation SpO2/FiO2 ratio or arterial oxygen pressure pAO2/FiO2 ratio",
+            "SecondaryOutcomeDescription": "Changes in SpO2/FiO2 ratio or pAO2/FiO2 ratio compared to baseline, measured daily at a minimum; oxygenation index daily when on ventilator",
+            "SecondaryOutcomeTimeFrame": "1 month"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Number of ventilator-free days (VFD)",
+            "SecondaryOutcomeDescription": "Number of ventilator-free days (VFD) in period of 1 month from study treatment",
+            "SecondaryOutcomeTimeFrame": "1 month"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in Complete Blood Count (CBC) with differential from baseline",
+            "SecondaryOutcomeDescription": "Changes in CBC with differential from baseline to 1 month, 2 months, 3 months, 6 months, and 12 months after study treatment",
+            "SecondaryOutcomeTimeFrame": "1 month, 2 months, 3 months, 6 months, and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in levels of blood glucose (mg/dL) from baseline",
+            "SecondaryOutcomeDescription": "Changes in blood glucose (mg/dL) from baseline to 1 month, 2 months, 3 months, 6 months, and 12 months after study treatment",
+            "SecondaryOutcomeTimeFrame": "1 month, 2 months, 3 months, 6 months, and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in levels of sodium (mEq/L) from baseline",
+            "SecondaryOutcomeDescription": "Changes in levels of sodium (mEq/L) from baseline to 1 month, 2 months, 3 months, 6 months, and 12 months after study treatment",
+            "SecondaryOutcomeTimeFrame": "1 month, 2 months, 3 months, 6 months, and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in levels of potassium (mEq/L) from baseline",
+            "SecondaryOutcomeDescription": "Changes in levels of potassium (mEq/L) from baseline to 1 month, 2 months, 3 months, 6 months, and 12 months after study treatment",
+            "SecondaryOutcomeTimeFrame": "1 month, 2 months, 3 months, 6 months, and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in levels of blood urea nitrogen (BUN; mg/dL) from baseline",
+            "SecondaryOutcomeDescription": "Changes in levels of blood urea nitrogen (BUN; mg/dL) from baseline to 1 month, 2 months, 3 months, 6 months, and 12 months after study treatment",
+            "SecondaryOutcomeTimeFrame": "1 month, 2 months, 3 months, 6 months, and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes in levels of alanine transaminase (ALT; U/L) from baseline",
+            "SecondaryOutcomeDescription": "Changes in levels of alanine transaminase (ALT; U/L) from baseline to 1 month, 2 months, 3 months, 6 months, and 12 months after study treatment",
+            "SecondaryOutcomeTimeFrame": "1 month, 2 months, 3 months, 6 months, and 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Urinalysis (UA) from baseline",
+            "SecondaryOutcomeDescription": "Change in Urinalysis (UA) at baseline and 1 month after study treatment to assess for presence and qualitative proteinuria",
+            "SecondaryOutcomeTimeFrame": "1 month"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAdult, male or female, age ≥18 years old\nDiagnosis of the presence of the COVID-19 agent with confirmation of COVID-19 by standard reverse transcriptase polymerase chain reaction (RT-PCR) or equivalent test.\n\nPatient with diagnosis of COVID-related ARDS, classified as either:\n\nNot requiring mechanical ventilation (NV) or\nRequiring mechanical ventilation (V).\n\nAccording to Berlin Definition of Acute Respiratory Distress Syndrome (ARDS), patients will be categorized based on degrees of hypoxemia [arterial partial pressure of oxygen (PaO2)/oxygen concentration (FiO2)]:\n\nMild ARDS: 200 mm Hg < PaO2/FIO2 ≤ 300 mm Hg\nModerate ARDS: 100 mm Hg < PaO2/FIO2 ≤ 200 mm Hg\nSevere ARDS: PaO2/FIO2 ≤ 100 mm Hg\nPatient who has exhibited deterioration in condition during the past 72 hours prior to the informed consent.\nPatient receiving standard of care in-hospital therapy, including appropriate critical oxygenation, fluid, and hemodynamic support as indicated clinically.\nPatient or responsible family member or surrogate signs informed consent.\n\nExclusion Criteria\n\nHypersensitivity to study product components. History of hypersensitivity to dimethyl sulfoxide (DMSO).\nActive cancer or prior diagnosis of cancer within the past year; however, patients with basal and squamous cell cancer of skin will not be excluded.\nOrgan transplant recipient.\nChronic renal failure being treated by renal replacement therapy (dialysis) before development of COVID-19.\nAny other condition that, in the judgment of the Investigator or Sponsor, would be a contraindication to enrollment, study product administration, or follow-up.\nPregnancy or lactation; a negative pregnancy test between screening and day 1 (before administration of treatment) will be required of women with childbearing potential, and they will be advised of the requirement to use an effective means of contraception. A woman is considered to be of childbearing potential unless she is postmenopausal and without menses for 12 months or without a uterus and/or both ovaries.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Central Contact",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "951-817-7478",
+            "CentralContactEMail": "info@restem.com"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Miami Baptist Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Miami",
+            "LocationState": "Florida",
+            "LocationZip": "33176",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Guenther Koehne, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "George Nahas, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Sanford Research",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Sioux Falls",
+            "LocationState": "South Dakota",
+            "LocationZip": "57105",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "William C Spanos, MD",
+                  "LocationContactRole": "Contact"
+                },
+                {
+                  "LocationContactName": "Jason Knudtson, MD",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000007239",
+            "ConditionMeshTerm": "Infections"
+          },
+          {
+            "ConditionMeshId": "D000003141",
+            "ConditionMeshTerm": "Communicable Diseases"
+          },
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000018352",
+            "ConditionMeshTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionMeshId": "D000045169",
+            "ConditionMeshTerm": "Severe Acute Respiratory Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000020969",
+            "ConditionAncestorTerm": "Disease Attributes"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafAsFound": "Infection",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafAsFound": "Infection",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafAsFound": "Corona Virus Infection",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M24598",
+            "ConditionBrowseLeafName": "Severe Acute Respiratory Syndrome",
+            "ConditionBrowseLeafAsFound": "SARS-CoV Infection",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21853",
+            "ConditionBrowseLeafName": "Disease Attributes",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T5186",
+            "ConditionBrowseLeafName": "Severe Acute Respiratory Syndrome",
+            "ConditionBrowseLeafAsFound": "SARS-CoV Infection",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

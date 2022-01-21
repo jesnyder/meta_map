@@ -1,0 +1,437 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04055415",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "mashengjun2"
+      },
+      "Organization": {
+        "OrgFullName": "Liaocheng People's Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Clinical Study of Adipose Derived Mesenchymal Stem Cells for Treatment of Pulmonary Arterial Hypertension",
+      "OfficialTitle": "Safety and Efficacy of Transplantation of Adipose Derived Mesenchymal Stem Cells to Treat Pulmonary Arterial Hypertension"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2019",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "August 1, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 1, 2020",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "February 1, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "August 8, 2019",
+      "StudyFirstSubmitQCDate": "August 12, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 13, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 12, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 13, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Liaocheng People's Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Pulmonary arterial hypertension is a disease characterised by pathological changes in the pulmonary arteries leading to a progressive increase in pulmonary vascular resistance and pulmonary artery pressure. Right ventricular failure is the main cause of death in patients with pulmonary arterial hypertension, and the ability of the right ventricle to adapt to the progressive increase in pulmonary vascular resistance associated with changes to the pulmonary vasculature in pulmonary arterial hypertension is the main determinant of a patient's functional capacity and survival.Mesenchymal stem cells (MSCs)are a subset of adult stem cells residing in many tissues, including bone marrow(BM), adipose tissue, umbilical cord blood. Recent experimental findings have shown the ability of MSCs to home to damaged tissues and to produce paracrine factors with anti-inflammatory properties, potentially resulting in reduction of inflammation and functional recovery of the damaged tissues.It was found that MSCs can significantly improve the pulmonary hemodynamics, lung tissue gross and decrease the pulmonary artery pressure, middle artery thickness and right cardiac hypertrophy by intravenous injection."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Pulmonary Hypertension"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Pulmonary hypertension（PH）mesenchymal stem cells(MSC)"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "60",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Intervention group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "The MSCs of 1×10*6/kg will be given in Central venous catheterization for injection at a total 100 ml . Once every week#a total of two times. The Conventional drug therapy（expectorant，bronchodilator） is used.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: adipose derived mesenchymal stem cells",
+                "Drug: Conventional drug therapy（expectorant，bronchodilator）"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "Other",
+            "ArmGroupDescription": "The Conventional drug therapy（expectorant，bronchodilator） is used with the control group",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Conventional drug therapy（expectorant，bronchodilator）"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "adipose derived mesenchymal stem cells",
+            "InterventionDescription": "The MSCs of 1×10*6/kg will be given in Central venous catheterization for injection at a total 100 ml (2) the experimental group was treated with conventional drug and adipose mesenchymal stem cell injection, and adipose MSCs were treated with central venous catheterization. The injection cycle was once every week of two times.Injection dose: 1×106 /kg.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Intervention group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Conventional drug therapy（expectorant，bronchodilator）",
+            "InterventionDescription": "Conventional drug therapy（expectorant，bronchodilator）",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group",
+                "Intervention group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change in Pulmonary Vascular Resistance from Baseline",
+            "PrimaryOutcomeTimeFrame": "Baseline, 4, 12 and 24 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change from Baseline in Participant Quality of Life Using the SF-36",
+            "SecondaryOutcomeDescription": "Eight scale scores are derived from responses to the 36 items of the SF-36 questionnaire which are combined to produce the Physical Component Score and the Mental Component Score. The Physical Component Score is based on the Physical Functioning Scale (10 items), the Role-Physical Scale (4 items), the Bodily Pain Scale (2 items), and the General Health Scale (5 items). The Mental Component Score is based upon the Vitality Scale (4 items), the Social Functioning Scale (2 items), the Role-Emotional Scale (3 items) and the Mental Health Scale (5 items). Each component score is transformed into a 0-100 scale, with higher numbers indicating greater quality of life.",
+            "SecondaryOutcomeTimeFrame": "Baseline, 4, 12 and 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Plasma NT-pro-BNP levels",
+            "SecondaryOutcomeDescription": "Plasma NT-proBNP concentration is a useful biomarker for PAH as it is associated with changes in right heart morphology and function.",
+            "SecondaryOutcomeTimeFrame": "Baseline, 4, 12 and 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in the IL-1β, IL-6, PGE-2, TGF-β, TNF-α and IGF-1 (ng/ul)",
+            "SecondaryOutcomeDescription": "To assess pre-specified laboratory assessment for change over time with treatment",
+            "SecondaryOutcomeTimeFrame": "Baseline, 4, 12 and 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of Treatment Adverse",
+            "SecondaryOutcomeDescription": "An AE was any untoward medical occurrence in a participant",
+            "SecondaryOutcomeTimeFrame": "Baseline, 4, 12 and 24 weeks"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Six Minute Walk distance",
+            "SecondaryOutcomeDescription": "The 6MWD is a 6 minute walk test. This test, a measure of exercise capacity, assesses the distance that a subject can walk in a period of 6 minutes",
+            "SecondaryOutcomeTimeFrame": "Baseline, 4, 12 and 24 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\n（1）40-75years （2）Male or female （3）The patients that COPD with moderate to severe pulmonary hypertension (pulmonary systolic pressure more than 40mmHg)in relatively stable period （4）To preliminary assess the Patients'lifetime have more than 6 months （5）According to the researchers' judgment, they can abide by the research protocol or Volunteer to participate in the clinical study, understand the study procedure and sign the informed consent in person.\n\n-\n\nExclusion Criteria:\n\nPatients with acute myocardial infarction and cardiac surgery in the past 1 month\nSurgery may be required within 8 weeks\npatients with prior pneumonectomy or having acute, chronic pulmonary embolism or other serious pulmonary diseases\nHaving a history of malignant tumor\nParticipated in other clinical investigators in the last 6 months\nTo allergic to penicillin, gentamicin, aminoglycoside, human serum albumin and DMEM medium\nA woman who is planning to pregnancy, gestation, or lactation\nOther reasons caused Pulmonary hypertension and heart failure caused by other causes;Severe liver and kidney failure;Autoimmune diseases;Patients with infectious diseases\nAccording toThe researchers' judgments, there are concomitant diseases that seriously endanger the safety of the subjects or affect the completion of the study\nAccording to the researcher's judgment, this study is not suitable for other conditions -",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "40 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Shaoda Ren, Ph.D.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "86-0635-8272202",
+            "CentralContactEMail": "zslrsd@163.com"
+          },
+          {
+            "CentralContactName": "Shoudong Chai, Ph.D.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "86-0635-8272204",
+            "CentralContactEMail": "13666387867@163.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Shengjun Ma, M.D",
+            "OverallOfficialAffiliation": "Liaocheng People's Hospital",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Liaocheng city people's hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Liaocheng",
+            "LocationState": "Shandong",
+            "LocationZip": "0635",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Shaoda Ren, Ph.D.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "86-0635-8272202",
+                  "LocationContactEMail": "zslrsd@163.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000006976",
+            "ConditionMeshTerm": "Hypertension, Pulmonary"
+          },
+          {
+            "ConditionMeshId": "D000081029",
+            "ConditionMeshTerm": "Pulmonary Arterial Hypertension"
+          },
+          {
+            "ConditionMeshId": "D000006973",
+            "ConditionMeshTerm": "Hypertension"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9176",
+            "ConditionBrowseLeafName": "Hypertension",
+            "ConditionBrowseLeafAsFound": "Hypertension",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9179",
+            "ConditionBrowseLeafName": "Hypertension, Pulmonary",
+            "ConditionBrowseLeafAsFound": "Pulmonary Hypertension",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2262",
+            "ConditionBrowseLeafName": "Pulmonary Arterial Hypertension",
+            "ConditionBrowseLeafAsFound": "Pulmonary Arterial Hypertension",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4807",
+            "ConditionBrowseLeafName": "Pulmonary Arterial Hypertension",
+            "ConditionBrowseLeafAsFound": "Pulmonary Arterial Hypertension",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000001993",
+            "InterventionMeshTerm": "Bronchodilator Agents"
+          },
+          {
+            "InterventionMeshId": "D000005100",
+            "InterventionMeshTerm": "Expectorants"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000001337",
+            "InterventionAncestorTerm": "Autonomic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018373",
+            "InterventionAncestorTerm": "Peripheral Nervous System Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018927",
+            "InterventionAncestorTerm": "Anti-Asthmatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000019141",
+            "InterventionAncestorTerm": "Respiratory System Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M4421",
+            "InterventionBrowseLeafName": "Bronchodilator Agents",
+            "InterventionBrowseLeafAsFound": "Amniotic Membrane",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M7395",
+            "InterventionBrowseLeafName": "Expectorants",
+            "InterventionBrowseLeafAsFound": "Moxifloxacin hydrochloride",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M20116",
+            "InterventionBrowseLeafName": "Anti-Asthmatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20290",
+            "InterventionBrowseLeafName": "Respiratory System Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Resp",
+            "InterventionBrowseBranchName": "Respiratory System Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

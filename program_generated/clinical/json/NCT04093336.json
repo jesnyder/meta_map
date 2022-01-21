@@ -1,0 +1,539 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04093336",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2018-DFSC-002（V3）"
+      },
+      "Organization": {
+        "OrgFullName": "Shanghai East Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Effect of Mesenchymal Stem Cells(MSCs) Transplantation for Acute Cerebral Infarction Patients",
+      "OfficialTitle": "Effect of Human Umbilical Cord Mesenchymal Stem Cells(MSCs) Transplantation for on Prognosis of Acute Cerebral Infarction Patients"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 13, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 30, 2024",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 31, 2024",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 16, 2019",
+      "StudyFirstSubmitQCDate": "September 17, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "September 18, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 20, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 28, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Shanghai East Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a placebo controlled, randomized, double blinded study including Phase 1 and Phase 2. Phase I study is a safety assessment and Phase 2 study is incline to assess effectiveness of MSCs. Potential subjects must be screened and consented before enrolled.\n\nThe primary objective of this study is to determine the effects of early intravenous infusion of allogeneic human umbilical cord mesenchymal stem cells (HucMSCs or MSCs used in the following section) for patients with acute ischemic stroke. Eligible patients will receive a single dose of MSCs or placebo within 24 hours after stroke. Patients will be followed for 2 years post infusion for safety and efficacy (change in neurological symptoms and quality of life). Assessments will occur during transplantation and at 3,7, 14 days and1,3, 6, 12, 18 and 24 months after infusions of stem cells.",
+      "DetailedDescription": "In Phase 1 study, the eligible patients of acute cerebral infarction within 7 days after onset will be randomized to MSCs group or control group and receive intravenous MSCs 2 x 10^6/kg or placebo as a single dose, respectively. Each group will enroll 10 patients and patients will be followed for 2 years to observe the adverse events and evaluate the safety of MSCs for acute ischemic stroke patients.\n\nThe safety and preliminary effectiveness of MSCs in the treatment of acute cerebral infarction will be summarized after all patients of Phase 1 study were followed for 3 months post infusion, and the report will be submit to the academic committee and the ethics committee to evaluate before approval to begin the Phase 2 study.\n\nIn Phase 2 study, 100 patients with acute infarction within 24 hours after onset will be enrolled and randomized to MSCs group or control group. Patients will have baseline laboratory examinations and cerebral image (MRI or CTP). Enrolled patients will receive intravenous infusion of 2*10^6/kg MSCs or placebo for a single dose and follow for 24 months to assess the adverse events, neurological functional recovery and quality of life."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Infarction, Middle Cerebral Artery",
+          "Infarction, Anterior Cerebral Artery",
+          "Cerebral Infarction",
+          "Stroke, Ischemic",
+          "Acute Stroke",
+          "Brain Infarction",
+          "Infarction, PCA",
+          "Infarction, Posterior Circulation, Brain"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Acute cerebral infarction ,Mesenchymal Stem Cells,prognosis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "placebo controlled, randomized, double blinded",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "120",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "MSCs group",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "The people in this group will receive intravenous MSCs 2 x 10^6/kg as a single dose and standardized treatment of acute ischemic stroke.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: human umbilical cord mesenchymal stem cells",
+                "Other: standardized treatment"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "control group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "The people in this group will receive placebo and standardized treatment of acute ischemic stroke.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Placebo",
+                "Other: standardized treatment"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "human umbilical cord mesenchymal stem cells",
+            "InterventionDescription": "The MSCs was intravenous transplanted to acute cerebral infarction patients as a single dose.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSCs group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Placebo",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "control group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "standardized treatment",
+            "InterventionDescription": "standardized treatment",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSCs group",
+                "control group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "adverse events",
+            "PrimaryOutcomeDescription": "include tumorigenesis, death, pulmonary embolism, allergy, newly cerebrovascular events and other adverse events to evaluate the safety of MSCs for acute ischemic stroke patients",
+            "PrimaryOutcomeTimeFrame": "24 months post transplantation"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "the National Institutes of Health Stroke Scale (NIHSS) of 3 months",
+            "SecondaryOutcomeDescription": "The NIHSS neurologic examination includes 15 individual elements that measure motor and sensory function, language and speech production, vision, level of consciousness and attention, and neglect. The scores of each element are summed (range from 0 to 42) to evaluate the severity of neurological deficits. The more higher score means the more severe neurological dysfunction.",
+            "SecondaryOutcomeTimeFrame": "3 months post transplantation"
+          },
+          {
+            "SecondaryOutcomeMeasure": "the Barthel index (BI) of 3 months",
+            "SecondaryOutcomeDescription": "The BI (range from 0 to 100) are used to assess the difference of activities of daily living between two groups. the score ≤40 means severe dependence， score 41~60 means moderate dependence, score 61~99 means mild dependence and score 100 means independence.",
+            "SecondaryOutcomeTimeFrame": "3 months post transplantation"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAcute ischemic stroke;\nAge 18~80y;\n4≤NIHSS score≤18（including limb score≥2）and modified Rankin scale 0-1 before this cerebral ischemic stroke;\npatients and their families understand and will cooperate within the whole process of study, and sign informed consent;\nany of following items：①acute cerebral infarction confirmed by cerebral CT perfusion or non-contrast computed tomographic scan < 7 days after onset or ②acute cerebral infarction confirmed by cerebral MR image < 7 days after onset\n\nExclusion Criteria:\n\naccompanied by hematological disease, severe infection, liver dysfunction (ALT>3*ULN), kidney dysfunction (Scr >2*ULN), cardiac dysfunction (NYHA grade III or IV);\nDisturbance of consciousness, mental illness, cognitive impairment and other diseases that may affect informed consent and evaluation of study.\nMalignancy history or found to associate cancer after this stroke\nPregnant or lactating women, or women have fertility requirements within 2 years;\nAccompanied by immunodeficiency diseases or autoimmune diseases;\nLife expectancy is less than 2 years;\nParticipated in other clinical trial within 6 months;\nPatients received Chinese traditional medicine after onset of this stroke;\nPatients with allergic predisposition;\nMental implantation or other reasons cannot tolerate magnetic resonance imaging;\nCannot follow up regularly or unwilling to sign informed consent;\nOther situations not suitable for enrollment judged by the researchers;",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Gang Li, Doctor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "0086-021-38804518-22106",
+            "CentralContactEMail": "ligang@tongji.edu.cn"
+          },
+          {
+            "CentralContactName": "Lian Zuo, Doctor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "0086-021-38804518-22106",
+            "CentralContactEMail": "mizzmy@163.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Gang Li, Doctor",
+            "OverallOfficialAffiliation": "Shanghai East Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Gang Li",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Shanghai",
+            "LocationState": "Shanghai",
+            "LocationZip": "200123",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Gang Li, Doctor",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "0086-021-38804518-22106"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "26215395",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Cao W, Li P. Effectiveness and Safety of Autologous Bone Marrow Stromal Cells Transplantation After Ischemic Stroke: A Meta-Analysis. Med Sci Monit. 2015 Jul 28;21:2190-5. doi: 10.12659/MSM.895081."
+          },
+          {
+            "ReferencePMID": "25530442",
+            "ReferenceType": "result",
+            "ReferenceCitation": "GBD 2013 Mortality and Causes of Death Collaborators. Global, regional, and national age-sex specific all-cause and cause-specific mortality for 240 causes of death, 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013. Lancet. 2015 Jan 10;385(9963):117-71. doi: 10.1016/S0140-6736(14)61682-2. Epub 2014 Dec 18."
+          },
+          {
+            "ReferencePMID": "20966420",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Zhao Y, Yao Z, D'Souza W, Zhu C, Chun H, Zhuoga C, Zhang Q, Hu X, Zhou D. An epidemiological survey of stroke in Lhasa, Tibet, China. Stroke. 2010 Dec;41(12):2739-43. doi: 10.1161/STROKEAHA.110.586669. Epub 2010 Oct 21."
+          },
+          {
+            "ReferencePMID": "18468545",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Donnan GA, Fisher M, Macleod M, Davis SM. Stroke. Lancet. 2008 May 10;371(9624):1612-23. doi: 10.1016/S0140-6736(08)60694-7. Review."
+          },
+          {
+            "ReferencePMID": "23370205",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Jauch EC, Saver JL, Adams HP Jr, Bruno A, Connors JJ, Demaerschalk BM, Khatri P, McMullan PW Jr, Qureshi AI, Rosenfield K, Scott PA, Summers DR, Wang DZ, Wintermark M, Yonas H; American Heart Association Stroke Council; Council on Cardiovascular Nursing; Council on Peripheral Vascular Disease; Council on Clinical Cardiology. Guidelines for the early management of patients with acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2013 Mar;44(3):870-947. doi: 10.1161/STR.0b013e318284056a. Epub 2013 Jan 31."
+          },
+          {
+            "ReferencePMID": "25671797",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Campbell BC, Mitchell PJ, Kleinig TJ, Dewey HM, Churilov L, Yassi N, Yan B, Dowling RJ, Parsons MW, Oxley TJ, Wu TY, Brooks M, Simpson MA, Miteff F, Levi CR, Krause M, Harrington TJ, Faulder KC, Steinfort BS, Priglinger M, Ang T, Scroop R, Barber PA, McGuinness B, Wijeratne T, Phan TG, Chong W, Chandra RV, Bladin CF, Badve M, Rice H, de Villiers L, Ma H, Desmond PM, Donnan GA, Davis SM; EXTEND-IA Investigators. Endovascular therapy for ischemic stroke with perfusion-imaging selection. N Engl J Med. 2015 Mar 12;372(11):1009-18. doi: 10.1056/NEJMoa1414792. Epub 2015 Feb 11."
+          },
+          {
+            "ReferencePMID": "19570514",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Lee RH, Pulin AA, Seo MJ, Kota DJ, Ylostalo J, Larson BL, Semprun-Prieto L, Delafontaine P, Prockop DJ. Intravenous hMSCs improve myocardial infarction in mice because cells embolized in lung are activated to secrete the anti-inflammatory protein TSG-6. Cell Stem Cell. 2009 Jul 2;5(1):54-63. doi: 10.1016/j.stem.2009.05.003."
+          },
+          {
+            "ReferencePMID": "16336965",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Crigler L, Robey RC, Asawachaicharn A, Gaupp D, Phinney DG. Human mesenchymal stem cell subpopulations express a variety of neuro-regulatory molecules and promote neuronal cell survival and neuritogenesis. Exp Neurol. 2006 Mar;198(1):54-64. Epub 2005 Dec 5."
+          },
+          {
+            "ReferencePMID": "16282547",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Ikeda N, Nonoguchi N, Zhao MZ, Watanabe T, Kajimoto Y, Furutama D, Kimura F, Dezawa M, Coffin RS, Otsuki Y, Kuroiwa T, Miyatake S. Bone marrow stromal cells that enhanced fibroblast growth factor-2 secretion by herpes simplex virus vector improve neurological outcome after transient focal cerebral ischemia in rats. Stroke. 2005 Dec;36(12):2725-30. Epub 2005 Nov 10."
+          },
+          {
+            "ReferencePMID": "23197640",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Ren G, Chen X, Dong F, Li W, Ren X, Zhang Y, Shi Y. Concise review: mesenchymal stem cells and translational medicine: emerging issues. Stem Cells Transl Med. 2012 Jan;1(1):51-8. doi: 10.5966/sctm.2011-0019. Epub 2011 Dec 7. Review."
+          },
+          {
+            "ReferencePMID": "24610327",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Vu Q, Xie K, Eckert M, Zhao W, Cramer SC. Meta-analysis of preclinical studies of mesenchymal stromal cells for ischemic stroke. Neurology. 2014 Apr 8;82(14):1277-86. doi: 10.1212/WNL.0000000000000278. Epub 2014 Mar 7."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000020521",
+            "ConditionMeshTerm": "Stroke"
+          },
+          {
+            "ConditionMeshId": "D000002544",
+            "ConditionMeshTerm": "Cerebral Infarction"
+          },
+          {
+            "ConditionMeshId": "D000083242",
+            "ConditionMeshTerm": "Ischemic Stroke"
+          },
+          {
+            "ConditionMeshId": "D000020520",
+            "ConditionMeshTerm": "Brain Infarction"
+          },
+          {
+            "ConditionMeshId": "D000020244",
+            "ConditionMeshTerm": "Infarction, Middle Cerebral Artery"
+          },
+          {
+            "ConditionMeshId": "D000020243",
+            "ConditionMeshTerm": "Infarction, Anterior Cerebral Artery"
+          },
+          {
+            "ConditionMeshId": "D000020762",
+            "ConditionMeshTerm": "Infarction, Posterior Cerebral Artery"
+          },
+          {
+            "ConditionMeshId": "D000007238",
+            "ConditionMeshTerm": "Infarction"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000002561",
+            "ConditionAncestorTerm": "Cerebrovascular Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007511",
+            "ConditionAncestorTerm": "Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000009336",
+            "ConditionAncestorTerm": "Necrosis"
+          },
+          {
+            "ConditionAncestorId": "D000002545",
+            "ConditionAncestorTerm": "Brain Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000002539",
+            "ConditionAncestorTerm": "Cerebral Arterial Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000020765",
+            "ConditionAncestorTerm": "Intracranial Arterial Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9434",
+            "ConditionBrowseLeafName": "Infarction",
+            "ConditionBrowseLeafAsFound": "Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21459",
+            "ConditionBrowseLeafName": "Stroke",
+            "ConditionBrowseLeafAsFound": "Stroke",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4945",
+            "ConditionBrowseLeafName": "Cerebral Infarction",
+            "ConditionBrowseLeafAsFound": "Cerebral Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21458",
+            "ConditionBrowseLeafName": "Brain Infarction",
+            "ConditionBrowseLeafAsFound": "Brain Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21222",
+            "ConditionBrowseLeafName": "Infarction, Middle Cerebral Artery",
+            "ConditionBrowseLeafAsFound": "Infarction, Middle Cerebral Artery",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21221",
+            "ConditionBrowseLeafName": "Infarction, Anterior Cerebral Artery",
+            "ConditionBrowseLeafAsFound": "Infarction, Anterior Cerebral Artery",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2401",
+            "ConditionBrowseLeafName": "Ischemic Stroke",
+            "ConditionBrowseLeafAsFound": "Stroke, Ischemic",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21671",
+            "ConditionBrowseLeafName": "Infarction, Posterior Cerebral Artery",
+            "ConditionBrowseLeafAsFound": "Infarction, PCA",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4962",
+            "ConditionBrowseLeafName": "Cerebrovascular Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11436",
+            "ConditionBrowseLeafName": "Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4946",
+            "ConditionBrowseLeafName": "Brain Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4940",
+            "ConditionBrowseLeafName": "Cerebral Arterial Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M21674",
+            "ConditionBrowseLeafName": "Intracranial Arterial Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

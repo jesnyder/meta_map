@@ -1,0 +1,322 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04441658",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "DFSC-2020(CR)-02"
+      },
+      "Organization": {
+        "OrgFullName": "Shanghai East Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Efficacy and Safety of Umbilical Cord Mesenchymal Stem Cells Transplantation in Patients With Type 2 Diabetes Mellitus",
+      "OfficialTitle": "Efficacy and Safety of Umbilical Cord Mesenchymal Stem Cells Transplantation in Patients With Type 2 Diabetes Mellitus"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "June 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 10, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 19, 2020",
+      "StudyFirstSubmitQCDate": "June 19, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 22, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "June 19, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 22, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Shanghai East Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study is a 24-week single-center, randomized, double-blind, placebo-controlled trial. The trial includes a 3-week early screening and lifestyle education period, 6-week treatment period, and 18-week follow-up period. Chinese type 2 diabetic subjects receiving traditional hypoglycemic treatment were randomly assigned to umbilical cord mesenchymal stem cell or placebo infusion therapy to observe the efficacy and safety of umbilical cord mesenchymal stem cell infusion therapy.",
+      "DetailedDescription": "This study is a 24-week single-center, randomized, double-blind, placebo-controlled trial. The trial includes a 3-week early screening and lifestyle education period, 6-week treatment period, and 18-week follow-up period. Chinese type 2 diabetic subjects receiving traditional hypoglycemic treatment（including insulin） were randomly assigned to umbilical cord mesenchymal stem cell or placebo infusion therapy to observe the efficacy and safety of umbilical cord mesenchymal stem cell infusion therapy."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Type 2 Diabetes",
+          "Mesenchymal Stem Cells"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Umbilical Cord Mesenchymal Stem Cells",
+          "Type 2 Diabetes"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "experimental group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "The volunteers of the experimental group will be given peripheral intravenously a dose of 0.75*10^6/ kg human umbilical cord mesenchymal stem cells at 0,1,5,6 week.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Umbilical Cord Mesenchymal Stem Cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "control group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "The control group will be given the same dose of saline containing human albumin.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: saline"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Umbilical Cord Mesenchymal Stem Cells",
+            "InterventionDescription": "human umbilical cord mesenchymal stem cells were peripheral intravenous infused to experimental group",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "experimental group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "saline",
+            "InterventionDescription": "saline containing human albumin will be infused to the control group",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "control group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "The changes in HbA1C level",
+            "PrimaryOutcomeDescription": "The changes in HbA1C level after transplantation",
+            "PrimaryOutcomeTimeFrame": "24 weeks after treatment"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Reduction of insulin requirement",
+            "SecondaryOutcomeDescription": "Reduction of insulin requirement after transplantation",
+            "SecondaryOutcomeTimeFrame": "24 weeks after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The changes in blood glucose level",
+            "SecondaryOutcomeDescription": "The changes in blood glucose level after transplantation",
+            "SecondaryOutcomeTimeFrame": "24 weeks after treatment"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nType 2 diabetes；\nThe course of diabetes is 5-15 years;\n20kg/m2≤body mass index (BMI)≤30 kg /m2；\n7.5% ≤HbA1c≤10%；\nInsulin dose and other oral antidiabetic drugs doses should be stable over the 3 months prior to randomization.\n\nExclusion Criteria:\n\nHeavy allergic constitution or an allergy to any component used in cell culture.\nBeing treated with drug (Glucocorticoids，Tricyclic Antidepressive Agents,etc.) affect the metabolism of glucose in the past 1 month;\nother causes of diabetes;\nAll kinds of acute complications such as diabetic ketoacidosis and non-ketohyperosmotic syndrome were screened in the past 6 months;\nHaving evidence of ongoing or frequent/severe hypoglycemia in the past 6 months;\nSevere cardiovascular and cerebral events：occurrence of heart failure NYHA Classification III or IV, myocardial infarction, cerebral infarction, cerebral hemorrhage within 6 months before the observation period;\nPatients with abnormal liver and kidney function: AST and ALT exceeding 2.5 times of the normal upper limit, and serum creatinine exceeding 1.5 mg/dl for men, exceeding 1.4 mg/dl for women;\nPositive results of HbsAg、Anti-HCV、HIV or syphilis;\nPatients suffering from other serious systemic diseases (such as malignancy, central nervous system,cardiovascular system, blood system, digestive system,endocrine system,respiratory system, genitourinary system, immune system and);\nOngoing pregnancy or absence of effective contraception in women with childbearing potential;\nPatients who had received other stem cell therapy before screening.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "30 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "wang congrong, doctor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86-021-38804518",
+            "CentralContactEMail": "wcr601@163.com"
+          },
+          {
+            "CentralContactName": "liu zhongmin, doctor",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+86-021-38804518",
+            "CentralContactEMail": "liu.zhongmin@tongji.edu.cn"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "wang congrong, doctor",
+            "OverallOfficialAffiliation": "Shanghai East Hospital. China.",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Shanghai East Hospital, Shanghai Tongji University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Shanghai",
+            "LocationState": "Shanghai",
+            "LocationZip": "200120",
+            "LocationCountry": "China",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "wang congrong, doctor",
+                  "LocationContactRole": "Contact"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003920",
+            "ConditionMeshTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionMeshId": "D000003924",
+            "ConditionMeshTerm": "Diabetes Mellitus, Type 2"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000044882",
+            "ConditionAncestorTerm": "Glucose Metabolism Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafAsFound": "Diabetes",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6271",
+            "ConditionBrowseLeafName": "Diabetes Mellitus, Type 2",
+            "ConditionBrowseLeafAsFound": "Type 2 Diabetes",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24556",
+            "ConditionBrowseLeafName": "Glucose Metabolism Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

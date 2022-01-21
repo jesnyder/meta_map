@@ -1,0 +1,318 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04432467",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "IBCE_MSC(Fertility)"
+      },
+      "Organization": {
+        "OrgFullName": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Fertility Restoration Using Autologous Mesenchymal Stem Cells",
+      "OfficialTitle": "Fertility Restoration Using Autologous Adipose Tissue Derived Mesenchymal Stem Cells"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 1, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 30, 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 30, 2021",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "June 11, 2020",
+      "StudyFirstSubmitQCDate": "June 11, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 16, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 9, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 10, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus",
+        "LeadSponsorClass": "OTHER_GOV"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Belarusian Medical Academy of Post-Graduate Education",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Treatment of the patients with scarring and adhesions in the uterus resulting from caesarean section or chronic inflammation in the mucosa of the uterus and fallopian tubes and preventing the occurrence of these effects in the future",
+      "DetailedDescription": "The aim of the project is to develop a biomedical cell product based on autologous adipose tissue derived mesenchymal stem cells and a biodegradable carrier for highly effective treatment and prevention of scarring and adhesions in the uterus acquired as a result of cesarean section or chronic inflammatory processes in the uterine mucosa and fallopian tubes; to conduct the clinical trials of the biomedical cell product in the treatment of uterus scarring and infertility in women."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Chronic Endometritis",
+          "Uterus; Scar",
+          "Uterine Synechiae",
+          "Fallopian Tube Obstruction"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Fertility restoration",
+          "Mesenchymal stem cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "10",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "mesenchymal stem cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients with impending caesarean section or with chronic inflammation in the mucosa of the uterus and fallopian tubes receiving standard treatment and mesenchymal stem cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Autologous mesenchymal stem cells",
+                "Other: standard treatment"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "control",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patients with impending caesarean section or with chronic inflammation in the mucosa of the uterus and fallopian tubes receiving standard treatment",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: standard treatment"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Autologous mesenchymal stem cells",
+            "InterventionDescription": "Autologous adipose tissue-derived mesenchymal stem cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "standard treatment",
+            "InterventionDescription": "standard treatment according to clinical protocols",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "control",
+                "mesenchymal stem cells"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of cured patients",
+            "PrimaryOutcomeDescription": "Number of patients cured",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of patients with treatment-related adverse events",
+            "PrimaryOutcomeDescription": "MSC application related adverse events assessed by blood count, liver and function tests",
+            "PrimaryOutcomeTimeFrame": "4 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nchronic endometritis\npostoperative uterus scars\nuterine synechia\nfallopian tube obstruction\nabsence of acute inflammation in the uterus\n\nExclusion Criteria:\n\nPatients with genetic diseases of muscle and connective tissue;\nPatients with malformations of the uterus;\nAcute and chronic infectious diseases: HIV, mycoplasma infection, hepatitis B and C, syphilis; autoimmune diseases; oncological diseases; continuous hormonal therapy with cytostatics corticosteroids; acute noncommunicable diseases;\nmental disorders;\nDrug or alcohol addiction;\nBenign tumors of uterus and appendages;\nHypersensitivity to any component of the studied biomedical cell product.",
+      "HealthyVolunteers": "No",
+      "Gender": "Female",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "45 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Igor D Volotovski, Dr",
+            "OverallOfficialAffiliation": "Head of the Lab of Institute of Biophysics and Cell Engineering",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus",
+            "LocationCity": "Minsk",
+            "LocationZip": "220072",
+            "LocationCountry": "Belarus"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000004716",
+            "ConditionMeshTerm": "Endometritis"
+          },
+          {
+            "ConditionMeshId": "D000006175",
+            "ConditionMeshTerm": "Gynatresia"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000000292",
+            "ConditionAncestorTerm": "Pelvic Inflammatory Disease"
+          },
+          {
+            "ConditionAncestorId": "D000000291",
+            "ConditionAncestorTerm": "Adnexal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014591",
+            "ConditionAncestorTerm": "Uterine Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M5312",
+            "ConditionBrowseLeafName": "Cicatrix",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7030",
+            "ConditionBrowseLeafName": "Endometritis",
+            "ConditionBrowseLeafAsFound": "Endometritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8421",
+            "ConditionBrowseLeafName": "Gynatresia",
+            "ConditionBrowseLeafAsFound": "Uterine Synechiae",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M23551",
+            "ConditionBrowseLeafName": "Pelvic Infection",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2796",
+            "ConditionBrowseLeafName": "Pelvic Inflammatory Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2795",
+            "ConditionBrowseLeafName": "Adnexal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16491",
+            "ConditionBrowseLeafName": "Uterine Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T509",
+            "ConditionBrowseLeafName": "Asherman's Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

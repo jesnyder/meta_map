@@ -1,0 +1,356 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03458156",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "DalianMU_JL_002"
+      },
+      "Organization": {
+        "OrgFullName": "The First Affiliated Hospital of Dalian Medical University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Umbilical Cord Mesenchymal Stem Cell Transplantation for Lupus Nephritis",
+      "OfficialTitle": "Clinical Study of Umbilical Cord Mesenchymal Stem Cell Transplantation for Lupus Nephritis"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "March 2018",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 2017"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2019",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2020",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "February 7, 2018",
+      "StudyFirstSubmitQCDate": "March 1, 2018",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 8, 2018",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "March 8, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 12, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Liu Jing",
+        "ResponsiblePartyInvestigatorTitle": "Chief Physician",
+        "ResponsiblePartyInvestigatorAffiliation": "The First Affiliated Hospital of Dalian Medical University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "The First Affiliated Hospital of Dalian Medical University",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "To investigate the safety and efficacy of umbilical cord mesenchymal stem cell transplantation in patients with systemic lupus erythematosus (SLE) and lupus nephritis (LN).",
+      "DetailedDescription": "Systemic lupus erythematosus (SLE) is a multisystem autoimmune disease. Lupus nephritis (LN) is one of the most serious complications of SLE. The current clinical treatments of LN mainly include steroids and immunosuppressive drugs, but drug side effects are obvious."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Lupus Nephritis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "SLE group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "The patients will be assigned to systemic lupus erythematosus (SLE) group, receiving umbilical cord mesenchymal stem cell transplantation.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: SLE group"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "LN group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "The patients will be assigned to lupus nephritis (LN) group, receiving umbilical cord mesenchymal stem cell transplantation.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: LN group"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "the control group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "The patients will be assigned to the control group.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: the control group"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "SLE group",
+            "InterventionDescription": "The patients will be assigned to systemic lupus erythematosus (SLE) group, receiving umbilical cord mesenchymal stem cell transplantation.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "SLE group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "LN group",
+            "InterventionDescription": "The patients will be assigned to lupus nephritis (LN) group, receiving umbilical cord mesenchymal stem cell transplantation.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "LN group"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "the control group",
+            "InterventionDescription": "The patients will be assigned to the control group.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "the control group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "SLEDAI-2000 score",
+            "PrimaryOutcomeDescription": "The SLEDAI 2000 is a novel index that measures ≥ 50% in each of the 24 descriptors of SLEDAI-2K and generates a total score reflecting disease activity overall.",
+            "PrimaryOutcomeTimeFrame": "changes of month 3, month 6, month 9 and month 12 after treatment"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "BILAG-2004 score",
+            "SecondaryOutcomeDescription": "The BILAG-2004 is a comprehensive composite clinical index that has been recently validated for the assessment of systemic lupus erythematosus (SLE) disease activity. This index is based on the Classic BILAG index and has many similarities with its predecessor: it is based on the principle of the physician's intention to treat, has transitional property that captures changing severity of clinical manifestations and has a similar ordinal scale scoring system. However, it has nine systems and many of the changes (from the Classic BILAG index) are in the items, glossary and scoring scheme. As with the Classic BILAG index, the individual system scores were not intended to be summated into a global score.",
+            "SecondaryOutcomeTimeFrame": "changes of month 3, month 6, month 9 and month 12 after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Health Assessment Questionnaire (HAQ) score",
+            "SecondaryOutcomeDescription": "The Health Assessment Questionnaire (HAQ) has played an influential role in establishing health outcome assessment as a quantifiable set of reliable, valid and responsive hard data points. The HAQ is based on five patient-centered dimensions: disability, pain, medication effects, costs of care, and mortality. It has been validated by mail, in the office, by telephone, and by comparison with paraprofessional and physician judgments as a reliable instrument, and has been significantly correlated with other PRO instruments. Typically, one of two HAQ versions is used: the Full HAQ, which assesses all five dimensions, and the Short or 2-page HAQ, which contains only the HAQ disability index (HAQ-DI) and the HAQ's patient global and pain visual analog scales (VAS).",
+            "SecondaryOutcomeTimeFrame": "changes of month 3, month 6, month 9 and month 12 after treatment"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMeeting the 1997 American College of Rheumatology (ACR) classification criteria of SLE.\nage 18-60 years.\nof either sex and of any ethnicity.\nLupus nephritis (LN) group: (1) Receiving more than 6 months of regular treatment, 24-hour urine protein ≥ 1.0 g, serum creatinine ≥1.5 mg/dL; (2) renal biopsy: class III, IV or V LN included, and class VI excluded.\nAfter conventional treatment (glucocorticoid therapy and immunosuppressive drugs) prior to grouping, SLEDAI scores ≥ 10.\nReceiving 12 months of treatment while using birth control.\nProvision of informed consent.\n\nExclusion Criteria:\n\nPoor blood pressure control by drug treatment (≥ 160/100 mmHg)\nAbnormal hepatic function (a 3-fold increase in alanine aminotransferase level relative to normal liver).\nRenal failure (glomerular filtration rate < 15 mL/min/1.73 m2).\nSevere heart and lung failure, or injury to other important organs\nUncontrollable infection.\nHaving not taken biological agents for 6 months.\nPregnant or lactating women, or those women who are trying to get pregnant or those men who are trying to make their partners pregnant.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "60 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Liu Jing, Ph.D",
+            "OverallOfficialAffiliation": "The First Affiliated Hospital of Dalian Medical University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009393",
+            "ConditionMeshTerm": "Nephritis"
+          },
+          {
+            "ConditionMeshId": "D000008181",
+            "ConditionMeshTerm": "Lupus Nephritis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007674",
+            "ConditionAncestorTerm": "Kidney Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000005921",
+            "ConditionAncestorTerm": "Glomerulonephritis"
+          },
+          {
+            "ConditionAncestorId": "D000008180",
+            "ConditionAncestorTerm": "Lupus Erythematosus, Systemic"
+          },
+          {
+            "ConditionAncestorId": "D000003240",
+            "ConditionAncestorTerm": "Connective Tissue Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11490",
+            "ConditionBrowseLeafName": "Nephritis",
+            "ConditionBrowseLeafAsFound": "Nephritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10330",
+            "ConditionBrowseLeafName": "Lupus Nephritis",
+            "ConditionBrowseLeafAsFound": "Lupus Nephritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9850",
+            "ConditionBrowseLeafName": "Kidney Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8183",
+            "ConditionBrowseLeafName": "Glomerulonephritis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10329",
+            "ConditionBrowseLeafName": "Lupus Erythematosus, Systemic",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5616",
+            "ConditionBrowseLeafName": "Connective Tissue Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3523",
+            "ConditionBrowseLeafName": "Lupus Nephritis",
+            "ConditionBrowseLeafAsFound": "Lupus Nephritis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T2525",
+            "ConditionBrowseLeafName": "Glomerulonephritis",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

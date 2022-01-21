@@ -1,0 +1,499 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04061746",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "00085542"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "R01DK118529-01A1",
+            "SecondaryIdType": "U.S. NIH Grant/Contract",
+            "SecondaryIdLink": "https://projectreporter.nih.gov/reporterapi.cfm?PROJECTNUM=R01DK118529-01A1&Fy=all"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Medical University of South Carolina",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Cellular Therapy for Type 1 Diabetes Using Mesenchymal Stem Cells",
+      "OfficialTitle": "Cellular Therapy for Type 1 Diabetes Using Mesenchymal Stem Cells"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 13, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 1, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 1, 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "August 16, 2019",
+      "StudyFirstSubmitQCDate": "August 16, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "August 20, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 29, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 30, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Hongjun Wang",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Medical University of South Carolina"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Medical University of South Carolina",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+            "CollaboratorClass": "NIH"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The goal of this study is to determine the safety and efficacy of fresh metabolically active allogeneic umbilical cord-derived mesenchymal stromal cells (UC-MSCs) for the treatment of new-onset type 1 diabetes (T1D) and to understand the mechanisms of protection. If proven effective, such a strategy can be used as a therapeutic option for T1D patients and potentially other autoimmune disorders.",
+      "DetailedDescription": "This study seeks to find and enroll participants with new onset Type 1 diabetes (T1D) within 3 months of the first dose of insulin. T1D is an autoimmune disease in which T cells attack and destroy insulin-secreting pancreatic β cells leading to insulin deficiency and hyperglycemia in patients. Life-long insulin therapy is the major treatment option. However, insulin therapy is not a cure and a safer and more effective therapy is needed.\n\nMesenchymal Stromal Cells (MSCs) have emerged as a novel biopharmaceutical approach for many disorders. MSCs are a cellular product that can be derived from a patient's own body (autologous) or from a donor (allogeneic). This study will obtain MSCs from umbilical cords at the time of delivery from normal women who have been extensively screened for infectious diseases. These cells produced at the MUSC Center for Cellular therapy will be used within 3 passages after collection.\n\nEvidence from animal models and clinical trials suggests that MSC infusion suppresses autoimmune and inflammatory diseases such as T1D. One clear message from these trials is that MSCs are effective at suppressing autoimmunity and seem generally safe. This study will measure safety and efficacy of MSCs over the course of 1 year."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Diabetes Mellitus, Type 1"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "mesenchymal stem cells",
+          "diabetes",
+          "autoantibodies",
+          "C-peptide",
+          "Type 1 diabetes mellitus"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "50",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Group A Treatment",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "2.5 x 10^6 MSC per kg will be infused intravenously on Day 1",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Mesenchymal Stem Cells (MSCs)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Group B Placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Plasmalyte with 0.5% Human Serum Albumin will be infused intravenously on Day 1",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo Infusion (Plasmalyte A with 0.5% human serum albumin)"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Mesenchymal Stem Cells (MSCs)",
+            "InterventionDescription": "Patients in Group A will receive a single MSCs infusion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group A Treatment"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo Infusion (Plasmalyte A with 0.5% human serum albumin)",
+            "InterventionDescription": "Patients in Group B will receive a single infusion of placebo (Plasmalyte A with 0.5% human serum albumin)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Group B Placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "12 month Change in C-peptide area under the curve after a 2-hour MMTT",
+            "PrimaryOutcomeDescription": "Change in beta cell function",
+            "PrimaryOutcomeTimeFrame": "1 year (plus or minus 30 days) after infusion"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "6 Month Change in C-Peptide area under the curve after a 2-hour MMTT",
+            "SecondaryOutcomeDescription": "Change in beta cell function",
+            "SecondaryOutcomeTimeFrame": "6 months (plus or minus 14 days) after infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "6 Month peak C-peptide after a 2-hour MMTT",
+            "SecondaryOutcomeDescription": "Change in beta cell function",
+            "SecondaryOutcomeTimeFrame": "6 months (plus or minus 14 days) after infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "1 year peak C-peptide after a 2-hour MMTT",
+            "SecondaryOutcomeDescription": "Change in beta cell function",
+            "SecondaryOutcomeTimeFrame": "1 year (plus or minus 30 days) after infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in 24-hour insulin dose per kilogram between baseline and 1 year measurements",
+            "SecondaryOutcomeDescription": "Change in beta cell function",
+            "SecondaryOutcomeTimeFrame": "1 year (plus or minus 30 days) after infusion"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Fasting and postprandial blood glucose levels after MSC infusion",
+            "OtherOutcomeDescription": "Change in beta cell function",
+            "OtherOutcomeTimeFrame": "0 - 72 Hours"
+          },
+          {
+            "OtherOutcomeMeasure": "Changes in basal C-peptide and hemoglobin A1c",
+            "OtherOutcomeDescription": "Change in beta cell function",
+            "OtherOutcomeTimeFrame": "Over the course of 1 year (0, 1, 3, 6, 12 months)"
+          },
+          {
+            "OtherOutcomeMeasure": "Change in serum glucagon levels",
+            "OtherOutcomeDescription": "Change in alpha cell function",
+            "OtherOutcomeTimeFrame": "Over the course of 1 year (0, 1, 3, 6, 12 months)"
+          },
+          {
+            "OtherOutcomeMeasure": "Insulin secretion rate",
+            "OtherOutcomeDescription": "Change in beta cell function",
+            "OtherOutcomeTimeFrame": "Over the course of 1 year (0, 1, 3, 6, 12 months)"
+          },
+          {
+            "OtherOutcomeMeasure": "Changes in islet autoanitbodies",
+            "OtherOutcomeDescription": "Change in autoantibody presence or titer",
+            "OtherOutcomeTimeFrame": "Over the course of 1 year (0, 1, 3, 6, 12 months)"
+          },
+          {
+            "OtherOutcomeMeasure": "Change in beta cell death measurements",
+            "OtherOutcomeDescription": "Determination of the mechanism of action",
+            "OtherOutcomeTimeFrame": "Over the course of 1 year (0, 1, 3, 6, 12 months)"
+          },
+          {
+            "OtherOutcomeMeasure": "Change in blood T-reg number and function",
+            "OtherOutcomeDescription": "Determination of the mechanism of action",
+            "OtherOutcomeTimeFrame": "Over the course of 1 year (0, 1, 3, 6, 12 months)"
+          },
+          {
+            "OtherOutcomeMeasure": "Change in autoantigen specific T-cell response",
+            "OtherOutcomeDescription": "Determination of the mechanism of action",
+            "OtherOutcomeTimeFrame": "Over the course of 1 year (0, 1, 3, 6, 12 months)"
+          },
+          {
+            "OtherOutcomeMeasure": "Change in blood autoreactive B cell number, B cell survival, and function",
+            "OtherOutcomeDescription": "Determination of the mechanism of action",
+            "OtherOutcomeTimeFrame": "Over the course of 1 year (0, 1, 3, 6, 12 months)"
+          },
+          {
+            "OtherOutcomeMeasure": "Changes in mRNA expression in peripheral blood mononuclear cells after treatment",
+            "OtherOutcomeDescription": "Determination of the mechanism of action",
+            "OtherOutcomeTimeFrame": "Over the course of 1 year (0, 1, 3, 6, 12 months)"
+          },
+          {
+            "OtherOutcomeMeasure": "Changes in serum cytokine levels after treatment",
+            "OtherOutcomeDescription": "Determination of the mechanism of action",
+            "OtherOutcomeTimeFrame": "Over the course of 1 year (0, 1, 3, 6, 12 months)"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion criteria:\n\nA new diagnosis of T1D based on the ADA criteria within 3 months of randomization.\nMale and female between the ages of 12 and 30\nMentally stable and able to comply with the procedures of the study protocol\nPositivity for at least one T1D-associated autoantibody, such as GAD, IA-2 or ZnT8 autoantibodies\nAt screening, patients must have residual β cell function with a stimulated peak C-peptide >0.2 nmol/l during a 2 hour MMTT\nMust be willing to comply with \"intensive diabetes management\" (* See diabetes management at MUSC below) as directed by the participant's clinician with the goal of maintaining blood glucose as close to normal as possible\nSubject must be willing to comply with the schedule of study visits and protocol requirements\nSubject with normal laboratory values of: White blood cell counts: between 4,500 to 11,000 per microliter; Platelet counts: 140,000 to 450,000 platelets per microliter of blood; Serum creatinine range is 0.6-1.3 mg/dL, Hepatic function: ALT 5 to 55 units per liter (U/L), AST 5 to 48 U/L.\n\nExclusion criteria:\n\nEvidence of retinopathy at baseline based on ophthalmologic examination or medical record review.\nBody Mass Index < 14 or >35\nPresence of malignancy\nSubject has abnormally high lipid levels that exceeds > 3 times the upper limit of normal for LDL cholesterol or triglycerides\nSubject has blood pressure greater than 160 mmHg systolic or 100 mmHg diastolic at time of consent\nSubject is being treated for severe active infection of any type\nA female subject who is breast-feeding, pregnant, or intends to become pregnant during the study.\nSubject with clinically relevant uncontrolled medical condition not associated with diabetes (e.g. severe psychiatric, hematologic, renal, hepatic, neurologic, cardiac, or respiratory disorder)\nSubjects with HgbA1c >12%, and/or fasting blood glucose >270 mg/dL and/or frequent episodes of hypoglycemia (>2 episodes per week of blood glucose levels <60 mg/dL).",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "12 Years",
+      "MaximumAge": "30 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Meghan Blalock",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "843-792-2813",
+            "CentralContactEMail": "schneidm@musc.edu"
+          },
+          {
+            "CentralContactName": "Susan Norton",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "843-792-6280",
+            "CentralContactEMail": "nortons@musc.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Hongjun Wang, PhD",
+            "OverallOfficialAffiliation": "Medical University of South Carolina",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Medical University of South Carolina",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Charleston",
+            "LocationState": "South Carolina",
+            "LocationZip": "29425",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Meghan Blalock",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "843-792-2813",
+                  "LocationContactEMail": "schneidm@musc.edu"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003920",
+            "ConditionMeshTerm": "Diabetes Mellitus"
+          },
+          {
+            "ConditionMeshId": "D000003922",
+            "ConditionMeshTerm": "Diabetes Mellitus, Type 1"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000044882",
+            "ConditionAncestorTerm": "Glucose Metabolism Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001327",
+            "ConditionAncestorTerm": "Autoimmune Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M6267",
+            "ConditionBrowseLeafName": "Diabetes Mellitus",
+            "ConditionBrowseLeafAsFound": "Diabetes",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6269",
+            "ConditionBrowseLeafName": "Diabetes Mellitus, Type 1",
+            "ConditionBrowseLeafAsFound": "Diabetes Mellitus, Type 1",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24556",
+            "ConditionBrowseLeafName": "Glucose Metabolism Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3781",
+            "ConditionBrowseLeafName": "Autoimmune Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "C000012499",
+            "InterventionMeshTerm": "Plasma-lyte 148"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000009883",
+            "InterventionAncestorTerm": "Ophthalmic Solutions"
+          },
+          {
+            "InterventionAncestorId": "D000019999",
+            "InterventionAncestorTerm": "Pharmaceutical Solutions"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3777",
+            "InterventionBrowseLeafName": "Autoantibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M85407",
+            "InterventionBrowseLeafName": "Plasma-lyte 148",
+            "InterventionBrowseLeafAsFound": "Fluorescein",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M11966",
+            "InterventionBrowseLeafName": "Ophthalmic Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT00658073",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "MSC-K-2"
+      },
+      "Organization": {
+        "OrgFullName": "Fuzhou General Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Induction Therapy With Autologous Mesenchymal Stem Cells for Kidney Allografts",
+      "OfficialTitle": "Autologous Bone Marrow Mesenchymal Stem Cell Transplantation in Recipients of Living Kidney Allografts"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "February 2011",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "March 2008"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2010",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 2010",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "April 8, 2008",
+      "StudyFirstSubmitQCDate": "April 11, 2008",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 14, 2008",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "March 7, 2011",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 8, 2011",
+        "LastUpdatePostDateType": "Estimate"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyOldNameTitle": "Jianming Tan M.D and Ph.D",
+        "ResponsiblePartyOldOrganization": "Fuzhou General Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Fuzhou General Hospital",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The goal of this study is to evaluate autologous MSCs as an alternative for antibody induction therapy in renal transplantation.",
+      "DetailedDescription": "Renal transplantation is the most common and successful type of organ transplantation. Induction therapy with antibody plus the maintenance immunosuppressive agents have greatly improved graft survival in renal transplantation. Since mesenchymal stem cells(MSCs)have been used successfully to treat graft versus host disease and show immune modulation function both in vitro and in vivo and may help in repairing damaged tissue(s), we evaluate autologous MSCs as an alternative for antibody induction therapy. Moreover, we examine if MSCs could improve the recovery of early function in transplanted kidney."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Renal Transplant Rejection"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Kidney transplant",
+          "Mesenchymal stem cell (MSC)"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "165",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "A",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patients in Group A will receive MSCs instead of anti-interleukin 2 receptor antibody for induction therapy. The first MSCs infusion intravenously will be right at releasing renal artery clamp to establish allograft blood flow and the second infusion of MSCs will be performed two weeks after transplantation. Patients will receive standard regular immunosuppressive agents including calcineurin inhibitor, glucocorticoid, and MMF.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Kidney transplantation with MSCs infusion"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "B",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patients in Group B will receive MSCs instead of anti-interleukin 2 receptor antibody for induction therapy. The first MSCs infusion intravenously will be right at releasing renal artery clamp to establish allograft blood flow and the second infusion of MSCs will be performed two weeks after transplantation. Patients will receive 80% less of calcineurin inhibitor than in Group A. Other immunosuppressive agents such as glucocorticoid and MMF remained the same doses as in Group A.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Kidney transplantation with MSCs infusion"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "C",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patients in Group C will receive anti-interleukin 2 receptor antibody (Basiliximab)for induction therapy. Patients will receive the same doses of regular immunosuppressive agents including calcineurin inhibitor, glucocorticoid, and MMF as in Group A.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: kidney transplantation without MSC infusion"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Kidney transplantation with MSCs infusion",
+            "InterventionDescription": "Patients in Group A will receive the first MSCs infusion intravenously within 24 hours after kidney transplant operation , and the second infusion of MSCs will be performed two weeks later.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "A",
+                "B"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "MSCs induction plus a standard or a lower dose of CNI"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "kidney transplantation without MSC infusion",
+            "InterventionDescription": "kidney transplantation with standard immunosuppressive treatment regime",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "C"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Anti-IL2R induction therapy with standard dose of CNI"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Incidence rate of biopsy-proven acute rejection and early renal function recovery",
+            "PrimaryOutcomeTimeFrame": "At 1 year post-transplant"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Patient and graft survival and prevalence of adverse events",
+            "SecondaryOutcomeTimeFrame": "At 1 year post-transplant"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients must be between the ages of 18 and 60 years and meet the institution's criteria for renal transplantation for end-stage renal failure\nPatient is receiving the first renal transplant\nPatient is receiving a renal transplant only\nWomen who are of child bearing potential must have a negative pregnancy test (urine test is acceptable) and agree to use reliable contraception for 1 year following transplant\nWilling to comply with the study visits\nBe able to sign informed consent document.\n\nNote: The subjects do not need to be local residents in order to be eligible for this trial, but must be willing to reside in the area, or within a four hour drive, for the first three months of the protocol so that we can monitor them closely in the early post transplant period.\n\nExclusion Criteria:\n\nPreviously received or is receiving an organ transplant other than a kidney\nSignificant liver disease, defined as having continuously elevated AST (SGOT) or ALT (SGPT) levels greater than 3 times the upper value of the normal range within 28 days prior to study entry\nHIV infection.\nSurface antigen positive for HBV.\nAntibody positive for hepatitis C virus\nRecipient or donor is positive for tuberculosis (TB), under treatment for suspected TB, or previously exposed to TB\nCurrently receiving an investigational drug or received an investigational drug within 30 days prior to transplant.\nCurrently receiving any immunosuppressive agent.\nClinically active bacterial, fungal, viral or parasitic infection\nEvidence for immunologic memory against donor.\nRecipients need antibody induction treatment before the operation.\nCurrent cancer or a history of cancer within the 5 years prior to study entry.\nSerious heart and lung diseases.\nPatients who's RPR is positive\nPregnancy or breastfeeding.\nHave no ability to communicate.\nAny form of substance abuse, psychiatric disorder, or other condition that, in opinion of the investigator, may interfere with the study",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "60 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Jianming Tan, M.D and Ph.D",
+            "OverallOfficialAffiliation": "Fuzhou General Hospital",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Stem cell therapy center,Fuzhou General Hospital",
+            "LocationCity": "Fuzhou",
+            "LocationState": "Fujian",
+            "LocationZip": "350025",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "22436957",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Tan J, Wu W, Xu X, Liao L, Zheng F, Messinger S, Sun X, Chen J, Yang S, Cai J, Gao X, Pileggi A, Ricordi C. Induction therapy with autologous mesenchymal stem cells in living-related kidney transplants: a randomized controlled trial. JAMA. 2012 Mar 21;307(11):1169-77. doi: 10.1001/jama.2012.316."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3377",
+            "InterventionBrowseLeafName": "Antibodies",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9336",
+            "InterventionBrowseLeafName": "Immunoglobulins",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8199",
+            "InterventionBrowseLeafName": "Glucocorticoids",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9563",
+            "InterventionBrowseLeafName": "Interleukin-2",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M1830",
+            "InterventionBrowseLeafName": "Basiliximab",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9364",
+            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M29605",
+            "InterventionBrowseLeafName": "Calcineurin Inhibitors",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Analg",
+            "InterventionBrowseBranchName": "Analgesics"
+          }
+        ]
+      }
+    }
+  }
+}

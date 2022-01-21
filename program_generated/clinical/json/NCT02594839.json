@@ -1,0 +1,380 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02594839",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "ILD-01"
+      },
+      "Organization": {
+        "OrgFullName": "Federal Research Clinical Center of Federal Medical & Biological Agency, Russia",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Safety and Efficacy of Allogeneic Mesenchymal Stem Cells in Patients With Rapidly Progressive Interstitial Lung Disease",
+      "OfficialTitle": "A Phase I-II Study to Evaluate Safety and Efficacy of Allogeneic Bone-Marrow Mesenchymal Stem Cells in Patients With Rapidly Progressive Interstitial Lung Disease"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2018",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "February 2013"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2018",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2018",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "November 1, 2015",
+      "StudyFirstSubmitQCDate": "November 2, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 3, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "January 8, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 9, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Federal Research Clinical Center of Federal Medical & Biological Agency, Russia",
+        "LeadSponsorClass": "OTHER_GOV"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The study evaluates the safety and the efficacy of the addition of intravenous transplantation of donor bone marrow mesenchymal stem cells in patients with idiopathic interstitial pneumonia or connective tissue disease associated with interstitial lung disease, which have actively progressing disease with rapid loss of pulmonary function on the background of routine treatment.",
+      "DetailedDescription": "Despite significant progress in the treatment of interstitial lung disease, achieved thanks to new drugs, such as pirfenidone and nintedanib, there are many patients for whom these drugs are not available or poorly tolerated. In addition significant evidence of their effectiveness and safety is valid only for idiopathic pulmonary fibrosis. The transplantation of allogeneic stem cells is a promising direction in the modern medicine with the proven safety for different diseases. But the effectiveness of this therapy is still under research. We believe that in most severe cases of a rapidly progressive interstitial lung disease the transplantation of mesenchymal stem cells may be an effective technology due to their immunomodulatory properties."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Idiopathic Interstitial Pneumonia",
+          "Interstitial Lung Disease",
+          "Idiopathic Pulmonary Fibrosis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "interstitial lung disease",
+          "idiopathic interstitial pneumonia",
+          "idiopathic pulmonary fibrosis",
+          "stem cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "20",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "MSCs",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "2 intravenous infusions of suspension of 200 000 000 MSCs each at interval of 7 days. Infusions will be repeated every 3 months for 1 year.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Bone marrow mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "placebo",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "2 intravenous infusions of 400 mL saline each at interval of 7 days. Infusions will be repeated every 3 months for 1 year.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Bone marrow mesenchymal stem cells",
+            "InterventionDescription": "Bone marrow will be harvested in healthy donors followed by separation and cultivation of MSCs. Before infusion cells will be suspended in 400 mL saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "MSCs"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "intravenous infusion of 400 mL saline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "placebo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Safety: Number of serious adverse events",
+            "PrimaryOutcomeDescription": "registration of adverse events related to infusion and 12 months follow-up",
+            "PrimaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "DLCO changes from baseline",
+            "SecondaryOutcomeDescription": "Assessment of the diffusing lung capacity at 3, 6, 9, 12 months of treatment",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "FVC changes from baseline",
+            "SecondaryOutcomeDescription": "Assessment of spirometry at 3, 6, 9, 12 months of treatment",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "exercise capacity changes",
+            "SecondaryOutcomeDescription": "Assessment of 6MWD at 3, 6, 9, 12 months of treatment",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMale and female patients 20-80 years old\n\nDiagnosis of idiopathic interstitial pneumonia or secondary to connective tissue diseases interstitial lung disease, based on:\n\nClinical symptoms > 12 months duration,\nHistologically diagnosed or diagnostic chest HRCT features of interstitial pneumonia\nForced Vital Capacity (FVC) ≥ 40% predicted and Diffusing Lung Capacity (DLCO) ≥20%\nLoss more than 10% of FVC (L) and DLCO during the last 12 months\nSigned informed consent.\n\nExclusion Criteria:\n\nDiagnosis of an interstitial lung disease other than idiopathic interstitial pneumonia or connective tissue disease associated with interstitial lung disease (sarcoidosis, pulmonary alveolar proteinosis, lymphangioleiomyomatosis, pulmonary amyloidosis, exposure-related lung disease etc)\nObstructive lung disease: FEV1/FVC < 0.70\nClinically significant medical condition, in the opinion of the investigator, may compromise the results of the study\nEvidence of active infection within 4 week prior to enrollment\nHistory of malignancy < 5 years prior to enrollment\nUnable to cooperate with any study procedures\nPregnant or breast-feeding\nTreatment with antiinflammatory or antifibrotic drugs including oral steroids, cytostatic drugs, pirfenidone, D penicillamine, colchicine, tumor necrosis factor α blockers, imatinib, interferon γ, monoclonal antibodies < 6 months prior to randomization.\nActive listing for transplant of any organ.\nKnown history of alcohol abuse within 1 year prior to enrollment\nParticipation in another clinical trial",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "80 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Federal Research Clinical Center FMBA of Russia",
+            "LocationCity": "Moscow",
+            "LocationZip": "115682",
+            "LocationCountry": "Russian Federation"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000011014",
+            "ConditionMeshTerm": "Pneumonia"
+          },
+          {
+            "ConditionMeshId": "D000008171",
+            "ConditionMeshTerm": "Lung Diseases"
+          },
+          {
+            "ConditionMeshId": "D000011658",
+            "ConditionMeshTerm": "Pulmonary Fibrosis"
+          },
+          {
+            "ConditionMeshId": "D000054990",
+            "ConditionMeshTerm": "Idiopathic Pulmonary Fibrosis"
+          },
+          {
+            "ConditionMeshId": "D000017563",
+            "ConditionMeshTerm": "Lung Diseases, Interstitial"
+          },
+          {
+            "ConditionMeshId": "D000054988",
+            "ConditionMeshTerm": "Idiopathic Interstitial Pneumonias"
+          },
+          {
+            "ConditionMeshId": "D000080203",
+            "ConditionMeshTerm": "Hamman-Rich Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000005355",
+            "ConditionMeshTerm": "Fibrosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M7637",
+            "ConditionBrowseLeafName": "Fibrosis",
+            "ConditionBrowseLeafAsFound": "Fibrosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafAsFound": "Lung Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafAsFound": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13664",
+            "ConditionBrowseLeafName": "Pulmonary Fibrosis",
+            "ConditionBrowseLeafAsFound": "Pulmonary Fibrosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27142",
+            "ConditionBrowseLeafName": "Idiopathic Pulmonary Fibrosis",
+            "ConditionBrowseLeafAsFound": "Idiopathic Pulmonary Fibrosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18965",
+            "ConditionBrowseLeafName": "Lung Diseases, Interstitial",
+            "ConditionBrowseLeafAsFound": "Interstitial Lung Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27140",
+            "ConditionBrowseLeafName": "Idiopathic Interstitial Pneumonias",
+            "ConditionBrowseLeafAsFound": "Idiopathic Interstitial Pneumonias",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2127",
+            "ConditionBrowseLeafName": "Hamman-Rich Syndrome",
+            "ConditionBrowseLeafAsFound": "Idiopathic Interstitial Pneumonias",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3003",
+            "ConditionBrowseLeafName": "Idiopathic Pulmonary Fibrosis",
+            "ConditionBrowseLeafAsFound": "Idiopathic Pulmonary Fibrosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T173",
+            "ConditionBrowseLeafName": "Acute Interstitial Pneumonia",
+            "ConditionBrowseLeafAsFound": "Idiopathic Interstitial Pneumonias",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,662 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04615429",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "COVID-AT"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2020-002193-27",
+            "SecondaryIdType": "EudraCT Number"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "Puerta de Hierro University Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Clinical Trial to Assess the Efficacy of MSC in Patients With ARDS Due to COVID-19",
+      "OfficialTitle": "Double-blind, Randomized, Controlled, Clinical Trial to Assess the Efficacy of Allogenic Mesenchymal Stromal Cells in Patients With Acute Respiratory Distress Syndrome Due to COVID-19"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 15, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "February 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 25, 2020",
+      "StudyFirstSubmitQCDate": "November 2, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "November 4, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 9, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 10, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Cristina Avendaño Solá",
+        "ResponsiblePartyInvestigatorTitle": "Head of Clinical Pharmacology Deptarment",
+        "ResponsiblePartyInvestigatorAffiliation": "Puerta de Hierro University Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Cristina Avendaño Solá",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "A double-blind, randomized, controlled, clinical trial to evaluate the efficacy and safety of MSC (mesenchymal stromal cells) intravenous administration in patients with COVID-induced ARDS compared to a control arm.",
+      "DetailedDescription": "A double-blind, randomized, controlled, clinical trial to evaluate the efficacy and safety of MSC (mesenchymal stromal cells) intravenous administration in patients with COVID-induced ARDS compared to a control arm.\n\nAll trial participants will receive SOC*.\n\nRandomization will be 1:1 between:\n\nTreatment arm: allogenic MSC.\n\nControl arm: Placebo (solution with the same composition as the experimental treatment, without the MSC).\n\nSOC can include any medicines that are being used in clinical practice (e.g. lopinavir/ritonavir; hydroxy/chloroquine, tocilizumab, etc.)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Acute Respiratory Distress Syndrome",
+          "COVID-19 Pneumonia"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Acute Respiratory Distress Syndrome",
+          "COVID-19 Pneumonia",
+          "Mesenchymal stromal cells",
+          "Coronavirus",
+          "SARS-CoV-2"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "20",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Mesenchymal Stromal cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Approximately 1x10E6 MSC/kg",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Mesenchymal stromal cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control group",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Solution identical to experimental treatment, without the MSC",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Mesenchymal stromal cells",
+            "InterventionDescription": "Administration of one single dose of allogenic Mesenchymal stromal cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Mesenchymal Stromal cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Administration of placebo (solution identical to experimental treatment, without the MSC)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change in the PaO2/FiO2* ratio from baseline to day 7 of treatment administration",
+            "PrimaryOutcomeDescription": "Primary endpoint",
+            "PrimaryOutcomeTimeFrame": "7 days"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "All-cause mortality",
+            "SecondaryOutcomeDescription": "Secondary endpoint",
+            "SecondaryOutcomeTimeFrame": "Days 7, 14, and 28 after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Time to PaO2/FiO2 ratio greater than 200 mmHg",
+            "SecondaryOutcomeDescription": "Secondary endpoint",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Clinical status on the World Health Organization ordinal scale",
+            "SecondaryOutcomeDescription": "Secondary endpoint.\n\nCategories:\n\nNot hospitalized, no limitations on activities.\nNot hospitalized, limitation on activities.\nHospitalized, not requiring supplemental oxygen.\nHospitalized, requiring supplemental oxygen.\nHospitalized, on non-invasive ventilation or high flow oxygen devices.\nHospitalized, on invasive mechanical ventilation or ECMO .\nDeath.",
+            "SecondaryOutcomeTimeFrame": "Baseline, daily until day 14, and on day 28 after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "PaO2/FiO2 ratio",
+            "SecondaryOutcomeDescription": "Secondary endpoint",
+            "SecondaryOutcomeTimeFrame": "Baseline and days 2, 4, 14 and 28 after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "SOFA score",
+            "SecondaryOutcomeDescription": "Secondary endpoint Sequential Organ Failure Assessment score (0-24)",
+            "SecondaryOutcomeTimeFrame": "Baseline and days 2, 4, 7, 14 and 28 after treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Oxygen therapy-free days",
+            "SecondaryOutcomeDescription": "Secondary endpoint",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of hospitalization",
+            "SecondaryOutcomeDescription": "Secondary endpoint",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of ICU admission",
+            "SecondaryOutcomeDescription": "Secondary endpoint",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of non-invasive ventilation",
+            "SecondaryOutcomeDescription": "Secondary endpoint Proportion of patients with non-invasive ventilation",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Incidence of invasive mechanical ventilation",
+            "SecondaryOutcomeDescription": "Secondary endpoint Proportion of patients with invasive mechanical ventilation",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of non-invasive ventilation",
+            "SecondaryOutcomeDescription": "Secondary endpoint (number of days)",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of invasive mechanical ventilation",
+            "SecondaryOutcomeDescription": "Secondary endpoint (number of days)",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Mechanical ventilation-free days",
+            "SecondaryOutcomeDescription": "Secondary endpoint",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Survival rate",
+            "SecondaryOutcomeDescription": "Secondary endpoint",
+            "SecondaryOutcomeTimeFrame": "3 and 12 months."
+          },
+          {
+            "SecondaryOutcomeMeasure": "Cumulative incidence SAEs, Grade 3 and 4 AEs, ADR and AEs of special interest.",
+            "SecondaryOutcomeDescription": "Secondary endpoint",
+            "SecondaryOutcomeTimeFrame": "12 months"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Analytical endpoints",
+            "OtherOutcomeDescription": "Exploratory endpoint Analytical markers (e.g., neutrophil and lymphocyte counts). Changes from baseline to set time points will be calculated.",
+            "OtherOutcomeTimeFrame": "Baseline and days 2, 4, 7, 14 and 28 after treatment"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nInformed consent prior to performing study procedures (witnessed oral consent with written consent by representatives will be accepted to avoid paper handling). Written consent by patient or representatives will be obtained whenever possible.\nAdult patients ≥18 years of age at the time of enrolment.\nLaboratory-confirmed SARS-CoV-2 infection as determined by PCR, in oropharyngeal swabs or any other relevant specimen obtained during the course of the disease. Alternative tests (e.g., rapid antigenic tests) are also acceptable as laboratory confirmation if their specificity has been accepted by the Sponsor.\nModerate to severe ARDS (PaO2/FiO2 ratio equal or less than 200 mmHg) for less than 96 hours at the time of randomization.\nPatients requiring invasive ventilation are eligible within 72 hours from intubation.\nEligible for ICU admission, according to the clinical team.\n\nExclusion Criteria:\n\nImminent and unavoidable progression to death within 24 hours, irrespective of the provision of treatments (in the opinion of the clinical team).\n\"Do Not Attempt Resuscitation\" order in place.\nAny end-stage organ disease or condition, which in the investigator's opinion, makes the patient an unsuitable candidate for treatment.\nHistory of a moderate/severe lung disorder requiring home-based oxygen therapy.\nPatient requiring ECMO, hemodialysis or hemofiltration at the time of treatment administration.\nCurrent diagnosis of pulmonary embolism.\nActive neoplasm, except carcinoma in situ or basalioma.\nKnown allergy to the products involved in the allogenic MSC production process.\nCurrent pregnancy or lactation (women with childbearing potential should have a negative pregnancy test result at the time of study enrollment).\nCurrent participation in a clinical trial with an experimental treatment for COVID-19 (the use of any off-label medicine according to local treatment protocols is not an exclusion criteria).\nAny circumstances that in the investigator's opinion compromises the patient's ability to participate in the clinical trial.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Cristina Avendano-Sola, MD, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+34911916479",
+            "CentralContactEMail": "cavendano@salud.madrid.org"
+          },
+          {
+            "CentralContactName": "Maria C Payares, MD, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactEMail": "concepcion.payares@salud.madrid.org"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Rafael F Duarte, MD, PhD",
+            "OverallOfficialAffiliation": "Hematology Department. Hospital Universitario Puerta de Hierro",
+            "OverallOfficialRole": "Study Chair"
+          },
+          {
+            "OverallOfficialName": "Cristina Avedano-Sola, MD, PhD",
+            "OverallOfficialAffiliation": "Clinical Pharmacology Department. Hospital Universitario Puerta de Hierro",
+            "OverallOfficialRole": "Study Chair"
+          },
+          {
+            "OverallOfficialName": "Juan J Rubio, MD, PhD",
+            "OverallOfficialAffiliation": "ICU. Hospital Universitario Puerta de Hierro",
+            "OverallOfficialRole": "Principal Investigator"
+          },
+          {
+            "OverallOfficialName": "Rosa Malo, MD",
+            "OverallOfficialAffiliation": "Respiratory Medicine Department",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Hospital Universitario Puerta de Hierro-Majadahonda",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Majadahonda",
+            "LocationState": "Madrid",
+            "LocationZip": "28222",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Rafael F Duarte, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+34911916662",
+                  "LocationContactEMail": "rduarte.work@gmail.com"
+                },
+                {
+                  "LocationContactName": "Rafael F Duarte, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Juan J Rubio, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Rosa Malo, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "33407777",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Payares-Herrera C, Martínez-Muñoz ME, Vallhonrat IL, de Molina RM, Torres MP, Trisan A, de Diego IS, Alonso R, Zafra R, Donaire T, Sánchez R, Rubio JJ, Duarte Palomino RF, Solá CA. Double-blind, randomized, controlled, trial to assess the efficacy of allogenic mesenchymal stromal cells in patients with acute respiratory distress syndrome due to COVID-19 (COVID-AT): A structured summary of a study protocol for a randomised controlled trial. Trials. 2021 Jan 6;22(1):9. doi: 10.1186/s13063-020-04964-1."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000011014",
+            "ConditionMeshTerm": "Pneumonia"
+          },
+          {
+            "ConditionMeshId": "D000012128",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000012127",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome, Newborn"
+          },
+          {
+            "ConditionMeshId": "D000055371",
+            "ConditionMeshTerm": "Acute Lung Injury"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007235",
+            "ConditionAncestorTerm": "Infant, Premature, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007232",
+            "ConditionAncestorTerm": "Infant, Newborn, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000055370",
+            "ConditionAncestorTerm": "Lung Injury"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafAsFound": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27296",
+            "ConditionBrowseLeafName": "Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9431",
+            "ConditionBrowseLeafName": "Infant, Premature, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9428",
+            "ConditionBrowseLeafName": "Infant, Newborn, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M21013",
+            "InterventionBrowseLeafName": "Pharmaceutical Solutions",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

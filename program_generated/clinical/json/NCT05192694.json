@@ -1,0 +1,359 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT05192694",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "HUS/2997/2021"
+      },
+      "Organization": {
+        "OrgFullName": "Helsinki University Central Hospital",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Evaluation of Fapi-pet in Prostate Cancer.",
+      "OfficialTitle": "Evaluation of Fapi-pet in Prostate Cancer",
+      "Acronym": "FAPIPETPCA"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "January 2022",
+      "OverallStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 15, 2022",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 15, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 15, 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 7, 2021",
+      "StudyFirstSubmitQCDate": "January 13, 2022",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "January 14, 2022",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "January 13, 2022",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "January 14, 2022",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Antti Rannikko",
+        "ResponsiblePartyInvestigatorTitle": "Assistant professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Helsinki University Central Hospital"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Helsinki University Central Hospital",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "University of Helsinki",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No",
+      "IsUSExport": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The investigators explore the biodistribution of FAPI-PET expression in primary high-risk prostate cancer in men undergoing RALP and eLND and in men with metastatic PCa about to start next generation antiandrogen.",
+      "DetailedDescription": "This is an exploratory cohort study comprised of men with clinically localized or locally advanced high-risk prostate cancer (GG 3-5, cT2-cT3, Nx, M0) managed by RALP and eLND and men with metastatic (mHSPC or mCRPC) prostate cancer scheduled to start NHT along clinical care pathway (e.g., apalutamide, enzalutamide) at HUS Helsinki University Hospital and Helsinki University, Finland.\n\nMen identified along routine clinical care as candidates for the study will be asked to consent.\n\nOnce consented, patients will undergo PSMA-PET imaging instead of conventional imaging (CT and bone scan) and experimental FAPI-PET imaging. Furthermore, biomarker samples will be obtained before and after treatment (surgery or novel antiandrogen) and surgical specimen will be processed for routine pathological evaluation and multiplex IHC studies. Serum samples will be tested for PCa biomarkers (e.g., PSA, NSE, CgA) and cfDNA. Urine will be processed and extracellular vesicles (exosomes) isolated and markers of reactive stroma will be sought for.\n\nRadical prostatectomy and novel hormonal treatment will be done according to current recommendations and guidelines in Finland.\n\nPostoperatively, patients will be followed with PSA every six months. Biochemical recurrence will be set at PSA of 0.2 ug/l or higher."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Prostate Cancer"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "PET",
+          "PSMA",
+          "FAP",
+          "radical prostatectomy",
+          "novel antiandrogen",
+          "enzalutamide",
+          "apalutamide",
+          "FAPi",
+          "exosome"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignInterventionModelDescription": "Exploratory prospective cohort study.",
+        "DesignPrimaryPurpose": "Basic Science",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "FAPI PET",
+            "ArmGroupType": "Other",
+            "ArmGroupDescription": "Prospective single arm cohort",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Computed tomography"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Computed tomography",
+            "InterventionDescription": "Positron Emission Tomography",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "FAPI PET"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "68-Ga-FAPI-4 PET/CT"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Positive predictive value on a lesion level",
+            "PrimaryOutcomeDescription": "Positive predictive value of FAPI-PET on a lesion level using histopathology or confirmatory imaging as ground truth",
+            "PrimaryOutcomeTimeFrame": "through study completion, an average of 1 year"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Positive predictive value on a patient level",
+            "SecondaryOutcomeDescription": "Positive predictive value of FAPI-PET on a patient level using histopathology or confirmatory imaging as ground truth",
+            "SecondaryOutcomeTimeFrame": "through study completion, an average of 1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "To assess the biodistribution of FAPI PET signal in comparison to PSMA-PET signal",
+            "SecondaryOutcomeDescription": "To explore and compare the biodistribution and signal level of FAPI-PET and PSMA-PET",
+            "SecondaryOutcomeTimeFrame": "through study completion, an average of 1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "To assess the biodistribution of FAPI and PSMA PET signal in comparison to histology",
+            "SecondaryOutcomeDescription": "To explore the biodistribution and signal level of FAP-PET and PSMA-PET in correlation to reference histology (lesion volume and grade in radical prostatectomy specimen and lymphadenectomy specimen)",
+            "SecondaryOutcomeTimeFrame": "through study completion, an average of 1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "To assess the biodistribution of FAPI and PSMA PET signal in comparison to immunohistochemistry",
+            "SecondaryOutcomeDescription": "To explore the biodistribution and signal level of FAPI-PET and PSMA-PET in correlation to tissue protein levels of:\n\nFAP and PSMA\nMarkers of reactive stroma and CAFs\nNeuregulin-1\nAndrogen receptor signalling pathway",
+            "SecondaryOutcomeTimeFrame": "through study completion, an average of 1 year"
+          },
+          {
+            "SecondaryOutcomeMeasure": "To assess the biodistribution of FAPI and PSMA PET signal in comparison to biomarkers in \"wet\" samples",
+            "SecondaryOutcomeDescription": "To correlate FAPI-PET and PSMA-PET biodistribution and signal level to:\n\nPostoperative serum biomarker levels (e.g., PSA, afos)\ncfDNA/RNA levels in peripheral blood\nUrinary exosome status for markers of reactive stroma\nBiochemical recurrence",
+            "SecondaryOutcomeTimeFrame": "through study completion, an average of 1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMen scheduled for radical prostatectomy\n\nAge over 18 years\nGG 3-5, cT2-cT3, Nx, M0 prostate cancer\nno contraindication to PSMA - or FAPI-PET\nwilling to undergo study related procedures (imaging and laboratory tests) Men scheduled for novel antiandrogen\nAge over 18 years\nGG2-5, cT2-4, N0-1, M1\nhormone sensitive or castration resistant prostate cancer\n\nExclusion Criteria:\n\nNot willing or capable to undergo study related procedures",
+      "HealthyVolunteers": "No",
+      "Gender": "Male",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "100 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Antti S Rannikko, MD, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+358405470208",
+            "CentralContactEMail": "antti.rannikko@hus.fi"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Antti S Rannikko, MD, PhD",
+            "OverallOfficialAffiliation": "Helsinki University Central Hospital",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Helsinki University Hospital",
+            "LocationCity": "Helsinki",
+            "LocationState": "Uusimaa",
+            "LocationZip": "00029",
+            "LocationCountry": "Finland"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "study group website",
+            "SeeAlsoLinkURL": "http://www.hucc.fi"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "Study protocol",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Study Protocol"
+        ]
+      },
+      "IPDSharingTimeFrame": "during the study",
+      "IPDSharingAccessCriteria": "publically available at the study group web site once study starts.",
+      "IPDSharingURL": "http://hucc.fi"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000011471",
+            "ConditionMeshTerm": "Prostatic Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000005834",
+            "ConditionAncestorTerm": "Genital Neoplasms, Male"
+          },
+          {
+            "ConditionAncestorId": "D000014565",
+            "ConditionAncestorTerm": "Urogenital Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000011469",
+            "ConditionAncestorTerm": "Prostatic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M13487",
+            "ConditionBrowseLeafName": "Prostatic Neoplasms",
+            "ConditionBrowseLeafAsFound": "Prostate Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8098",
+            "ConditionBrowseLeafName": "Genital Neoplasms, Male",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16467",
+            "ConditionBrowseLeafName": "Urogenital Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13485",
+            "ConditionBrowseLeafName": "Prostatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3209",
+            "InterventionBrowseLeafName": "Androgen Antagonists",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

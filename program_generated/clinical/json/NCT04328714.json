@@ -1,0 +1,480 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04328714",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "IRB00105305"
+      },
+      "Organization": {
+        "OrgFullName": "Emory University",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Interferon γ-Primed Mesenchymal Stromal Cells as Prophylaxis for Acute Graft v Host Disease",
+      "OfficialTitle": "Interferon γ-Primed Mesenchymal Stromal Cells as Prophylaxis for Acute Graft v Host Disease After Allogeneic Hematopoietic Cell Transplantation for Patients With Hematologic Malignancies and Myelodysplasia"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 2, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "March 30, 2020",
+      "StudyFirstSubmitQCDate": "March 30, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 31, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 2, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 6, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Edwin Horwitz",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Emory University"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Edwin Horwitz",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The protocol is a phase I open label study evaluating the safety and feasibility of peri-transplant infusion of freshly expanded interferon gamma primed MSCs in adult and pediatric patients undergoing HCT for acute leukemia and myelodysplastic syndrome (MDS).",
+      "DetailedDescription": "Hematopoietic cell transplantation (HCT) is an established therapeutic modality for high risk hematological malignancies in adults and children. The primary cause of morbidity and mortality after HCT is graft versus host disease (GVHD), affecting up to 70% of patients even with current prophylaxis and directly accounting for approximately a third of regimen-related death. Currently, pharmacologic prophylaxis consists of a calcineurin inhibitor and methotrexate, a drug combination introduced around 40 years ago. Despite this regimen being recognized as the standard of care, it is only partially effective, increases the risk of infection and disease relapse and imparts drug-related, short- and long-term adverse effects. Mesenchymal stromal cells (MSCs) have potent immune modulatory activity which is markedly enhanced by exposure to interferon γ. In murine models, interferon γ (IFNγ) primed MSCs (γMSCs) potently suppress GVHD without untoward adverse effects suggesting this cell therapy may markedly reduce the regimen related toxicity of HCT; however γMSCs have never been infused into patients.\n\nThis protocol is designed to test the hypothesis that freshly expanded γMSCs can be reliably produced and safely infused into patients undergoing HCT as GVHD prophylaxis.\n\nThis is an investigator-initiated Phase I study using a rolling 6, dose escalation design with two independently accruing expansion cohorts: adults and pediatrics. Accrual to the pediatric tier will commence after the maximum tolerated dose (MTD) has been determined in adults. A successful outcome of this study will lay the foundation for a future Phase II study to demonstrate efficacy and support a Phase III randomized trial.\n\nThe researchers plan to enroll a minimum of 4 and maximum of 45 subjects who are greater than 1 year old. Participants will be followed for up to 2 years after the HCT. The study will be conducted at Emory University and will recruit participants from the Winship Cancer Institute and Children's Hospital in Atlanta at Egleston."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Acute Leukemia",
+          "Myelodysplastic Syndromes"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Interferon Gamma (IFN γ)",
+          "Graft versus Host Disease (GVHD)",
+          "Allogeneic Hematopoietic Cell Transplantation"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Sequential Assignment",
+        "DesignInterventionModelDescription": "This study uses a rolling 6 dose escalation design with two independently accruing expansion cohorts: adults and pediatrics. Accrual in the pediatric tier will commence after the maximum dose tolerated has been determined in adults.",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "45",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Adult Population",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Study participants aged 18 or older who are having an allogeneic blood and marrow transplant (BMT), to treat leukemia, lymphoma or other cancer of the blood will receive an infusion of mesenchymal stromal cells (MSCs).",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Interferon gamma (IFNγ)-primed human bone marrow-derived mesenchymal stromal cells"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Pediatric Population",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Study participants under 18 years of age who are having an allogeneic blood and marrow transplant (BMT), to treat leukemia, lymphoma or other cancer of the blood will receive an infusion of mesenchymal stromal cells (MSCs).",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Interferon gamma (IFNγ)-primed human bone marrow-derived mesenchymal stromal cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Interferon gamma (IFNγ)-primed human bone marrow-derived mesenchymal stromal cells",
+            "InterventionDescription": "To determine the maximal dose, initially adult subjects will receive a single infusion of third party, freshly ex vivo expanded, IFNγ-primed MSCs at a dose of 2 x 106 cells/kg of ideal body weight on Day +1 (the day after infusion of the hematopoietic cell graft). The dose will be escalated to 5 x 106 and then 10 x 106 cells/kg. In absence of any dose limiting toxicity, 10 x 106 cells/kg will be accepted as the maximal dose.\n\nSubsequent participants in the adult and pediatric cohorts will receive the maximal dose as determined by the initial adult participants.\n\nParticipants will receive the infusion in an inpatient setting. MSCs will be intravenously infused through a central line or a large bore peripheral IV using standard blood product tubing within 4 hours of release. The product will be infused by IV push or syringe pump over 5 -15 minutes.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Adult Population",
+                "Pediatric Population"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of successful preparations and deliveries of investigational product",
+            "PrimaryOutcomeDescription": "Feasibility will be documented by successful γMSC preparation and delivery to the bedside. If an adverse event precludes initiation or completion of the infusion, this MSC preparation/infusion will, nonetheless, be considered feasible. Processing scored as a not feasible will consist of a cell preparation does not meet release criteria.",
+            "PrimaryOutcomeTimeFrame": "Day 1 (day of infusion)"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Number of adverse events attributed to the investigational product",
+            "PrimaryOutcomeDescription": "Safety will be assessed by toxicity grading according to the Common Terminology Criteria for Adverse Events, version 4 (CTCAEv4). All recorded adverse events and serious adverse events will be documented and recorded. Their attribution to γMSCs will be determined. Dose limiting toxicity definition: For this study, dose limiting toxicities (DLTs) will be defined as any grade ≥3 adverse reaction AND attributable to γMSCs (attribution listed as at least probable), occurring from γMSC infusion through the day of hematopoietic engraftment or 21 days of transplant, whichever is later.",
+            "PrimaryOutcomeTimeFrame": "Day 2 (day after infusion)"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Maximal Tolerated Dose",
+            "PrimaryOutcomeDescription": "The maximal tolerated dose will be the dose at which 0 of 3 or 1 of 6 subjects demonstrates a DLT. If a dose of 10 x 106 γMSCs/kg is determined to be safe, then we will not determine the true MTD and accept 10 x 106 γMSCs/kg as the maximal dose.",
+            "PrimaryOutcomeTimeFrame": "Day 2 (day after infusion)"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Primary graft failure",
+            "SecondaryOutcomeDescription": "This endpoint will be defined as lack of neutrophil recovery (defined as ANC > 500/μL for three consecutive days) by 42 days post-transplant or neutrophil recovery with lack of myeloid donor chimerism. Relapse and death prior to neutrophil engraftment are considered competing risks for the endpoint of primary graft failure.",
+            "SecondaryOutcomeTimeFrame": "Up to Year 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Secondary graft failure",
+            "SecondaryOutcomeDescription": "Secondary graft failure is defined as initial donor-derived neutrophil engraftment followed by subsequent decline in ANC to < 500/μL for fourteen consecutive measurements on different days, and unresponsive to growth factor therapy, with loss of donor chimerism to < 50%.",
+            "SecondaryOutcomeTimeFrame": "Up to Year 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Platelet engraftment",
+            "SecondaryOutcomeDescription": "Platelet engraftment is defined as the first day of a minimum of three consecutive measurements on different days such that the patient has achieved a platelet count > 20,000/μL and > 50,000/μL with no platelet transfusions in the preceding seven days. The first day of the three measurements will be designated as the day of platelet engraftment.",
+            "SecondaryOutcomeTimeFrame": "Up to Year 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Non-relapse mortality (NRM)",
+            "SecondaryOutcomeDescription": "The event is death in continuous remission treating relapse as the competing risk. Patients alive and in remission at the time of last observation will be censored.",
+            "SecondaryOutcomeTimeFrame": "Up to Year 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Acute graft-versus-host disease (aGvHD) Incidence",
+            "SecondaryOutcomeDescription": "Incidences of grade II-IV and III-IV acute GvHD will be measured according to Revised Glucksberg criteria.",
+            "SecondaryOutcomeTimeFrame": "Day 30, Day 100"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Chronic graft-versus-host disease (cGvHD) Incidence",
+            "SecondaryOutcomeDescription": "Incidence of chronic GvHD will be scored according to the recent NIH scoring.",
+            "SecondaryOutcomeTimeFrame": "Day 30, Day 100, Day 180, Day 365"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Disease-free survival (DFS)",
+            "SecondaryOutcomeDescription": "Disease-free survival is defined as the minimum time interval from transplant to relapse/recurrence of disease, to death or to last follow-up.",
+            "SecondaryOutcomeTimeFrame": "Up to Year 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Primary cause of death",
+            "SecondaryOutcomeDescription": "Primary cause of death will be classified as:\n\nRelapse/Primary disease: If the patient relapsed/progressed after day 0 prior to death, the primary cause of death is relapse/progression, even if they subsequently developed GvHD, organ toxicities or infections that may have contributed to subsequent death. GvHD: Death from acute or chronic GvHD, in the absence of relapse or disease progression.\n\nInfection: Death from documented viral, bacterial or fungal infections in the absence of GvHD or relapse/disease progression.\n\nOrgan toxicity: Death from major organ toxicities not attributable to acute myeloid leukemia (AML)/MDS, infection or GvHD.\n\nOther: Any other causes of death.",
+            "SecondaryOutcomeTimeFrame": "Up to Year 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Relapse",
+            "SecondaryOutcomeDescription": "Testing for recurrent malignancy in the blood, marrow or other sites will be used to assess relapse after transplantation. For the purpose of this study, relapse is defined by either morphological or cytogenetic evidence of AML, acute lymphoblastic leukemia (ALL) or MDS and including minimal residual disease (MRD) in ALL consistent with pre-transplant features. The event for this endpoint is the time interval from transplant to relapse/recurrence of disease or to last follow-up. Death in remission is considered a competing risk.",
+            "SecondaryOutcomeTimeFrame": "Up to Year 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Early discontinuation",
+            "SecondaryOutcomeDescription": "If a patient is enrolled on the study but does not start protocol treatment, a study exit form must be submitted documenting the reason for not starting protocol treatment. Such a subject will not be considered evaluable.",
+            "SecondaryOutcomeTimeFrame": "Up to Year 2"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Viral activation",
+            "SecondaryOutcomeDescription": "Viral activations of cytomegalovirus (CMV) and Epstein-Barr virus (EBV) will be documented. For the purpose of the study viral activation is defined as any polymerase chain reaction (PCR) assay result considered positive by Laboratory Medicine which may or may not lead to the initiation of antiviral therapy as per institutional guidelines.",
+            "SecondaryOutcomeTimeFrame": "Up to Day 100"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAll transplant patients who undergo HCT with a myeloablative (MA) or Fludarabine/Melphalan (RIC) conditioning regimen and a HLA A- B- C- DR-matched unrelated donor as treatment for hematologic malignancy or MDS.\nAge ≥ 1 year at the time that the informed consent document is signed.\nPatients with acute leukemia must be in complete remission (defined as an M1 marrow -<5% blasts- no evidence of extramedullary disease, and an absolute neutrophil count ≥1.0 x 109/L. Cases where the absolute neutrophil count (ANC) is < 1.0 x 109/L and rising will also be considered. The PI will need to approve such cases for enrollment complete remissions without platelet recovery (CRp) will be considered remissions.\nPlanned GVHD prophylaxis with a calcineurin inhibitor and methotrexate per institutional standards.\nSubject or parent/guardian must sign an informed consent document, and if appropriate, children must sign an assent document.\n\nExclusion Criteria:\n\nPatients who are to receive a non-myeloablative conditioning regimen.\nPatients receiving another investigational drug for acute GVHD prevention during the conditioning regimen or a planned investigational drug for the first year after transplant (there are no restrictions on GVHD treatment).\nAny medical or psychological condition or situation deemed by the Investigators to put the patient at increased risk of complications or non-compliance.\nPatient with a secondary malignancy who would be otherwise eligible for study, but for whom remission from the primary disease cannot be conclusively confirmed or for whom the chance of relapse of the primary disease is significant.\nPregnancy (positive serum b-HCG) or breastfeeding.\nEstimated glomerular filtration rate (GFR) of < 50 mL/min/1.73m2.\nCardiac ejection fraction < 50 (using M-Mode if assessment is done by Echocardiogram)\nT bilirubin > 2 × upper limit of normal or alanine aminotransferase (ALT) > 4 × upper limit of normal or aspartate aminotransferase (AST) > 4 x upper limit of normal unresolved veno-occlusive disease\nPulmonary disease with forced vital capacity (FVC), forced expiratory volume (FEV1) or diffusing capacity for carbon monoxide (DLCO) parameters <45% predicted (corrected for hemoglobin) or requiring supplemental oxygen. Children who are developmentally unable to perform pulmonary function testing will be assessed solely on their need for supplemental oxygen.\nKarnofsky performance score or Lansky Play-Performance Scale score <80\nHuman leukocyte antigen (HLA) antibody screen positive for HLA antibodies specific against all available MSC products.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "1 Year",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Muna Qayed, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "404-785-1441",
+            "CentralContactEMail": "mqayed@emory.edu"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Muna Qayed, MD",
+            "OverallOfficialAffiliation": "Emory University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Children's Healthcare of Atlanta at Egleston",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Atlanta",
+            "LocationState": "Georgia",
+            "LocationZip": "30322",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Emory University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Atlanta",
+            "LocationState": "Georgia",
+            "LocationZip": "30322",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Winship Cancer Institute of Emory University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Atlanta",
+            "LocationState": "Georgia",
+            "LocationZip": "30322",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "Individual participant data that underlie the results reported in the published article will be made available for sharing. T cell repertoire data will be submitted to a public data base.",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Study Protocol"
+        ]
+      },
+      "IPDSharingTimeFrame": "Data will be made available upon publication of the article and sharing will end 36 months after publication.",
+      "IPDSharingAccessCriteria": "Data will be available to anyone upon written(email) request to the study sponsor. Requestors will need to sign a data access agreement and will be prohibited from passing it on to a third party."
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009190",
+            "ConditionMeshTerm": "Myelodysplastic Syndromes"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001855",
+            "ConditionAncestorTerm": "Bone Marrow Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000006402",
+            "ConditionAncestorTerm": "Hematologic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10097",
+            "ConditionBrowseLeafName": "Leukemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20467",
+            "ConditionBrowseLeafName": "Hematologic Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8341",
+            "ConditionBrowseLeafName": "Graft vs Host Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11297",
+            "ConditionBrowseLeafName": "Myelodysplastic Syndromes",
+            "ConditionBrowseLeafAsFound": "Myelodysplastic Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13316",
+            "ConditionBrowseLeafName": "Preleukemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4286",
+            "ConditionBrowseLeafName": "Bone Marrow Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8642",
+            "ConditionBrowseLeafName": "Hematologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2832",
+            "ConditionBrowseLeafName": "Homologous Wasting Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3993",
+            "ConditionBrowseLeafName": "Myelodysplastic Syndromes",
+            "ConditionBrowseLeafAsFound": "Myelodysplastic Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC15",
+            "ConditionBrowseBranchName": "Blood and Lymph Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000007372",
+            "InterventionMeshTerm": "Interferons"
+          },
+          {
+            "InterventionMeshId": "D000007371",
+            "InterventionMeshTerm": "Interferon-gamma"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000998",
+            "InterventionAncestorTerm": "Antiviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9559",
+            "InterventionBrowseLeafName": "Interferons",
+            "InterventionBrowseLeafAsFound": "Positive",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M9558",
+            "InterventionBrowseLeafName": "Interferon-gamma",
+            "InterventionBrowseLeafAsFound": "SCI",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3466",
+            "InterventionBrowseLeafName": "Antiviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

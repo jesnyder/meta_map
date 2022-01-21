@@ -1,0 +1,388 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02923466",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "VYR-VSV2-101"
+      },
+      "Organization": {
+        "OrgFullName": "Vyriad, Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Ph1 Administration of VSV-IFNβ-NIS Monotherapy and in Combination With Avelumab in Pts With Refractory Solid Tumors",
+      "OfficialTitle": "Phase 1 Trial of Vesicular Stomatitis Virus Genetically Engineered to Express NIS and Human Interferon Beta (VSV-IFNβ-NIS) Monotherapy and in Combination With Avelumab, in Patients With Refractory Solid Tumors"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "July 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "April 17, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "February 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 30, 2016",
+      "StudyFirstSubmitQCDate": "October 3, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 4, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "July 6, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "July 7, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Vyriad, Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a three-part open label phase 1 study designed to determine the safety profile, MTD, PK and tumor and biomarker response after IT or IV administration of a single dose of VSV-IFNβ-NIS, or combined IT followed by IV VSV-IFNβ-NIS, with or without IV avelumab every two weeks, in patients with refractory advanced/metastatic solid tumors.",
+      "DetailedDescription": "The study consists of three parts: a single ascending dose escalation of IT VSV-IFNβ-NIS monotherapy, a monotherapy IV regimen selection phase and an expansion phase, designed to explore the safety and efficacy of the chosen monotherapy regimen alone or in combination with avelumab in patients with metastatic colorectal cancer. Monotherapy will also be explored in patients with pheochromocytoma and NET.\n\nPatients are required to have at least 1 measurable lesion per RECIST 1.1, and in the IT-containing arms this lesion should be amenable for a one-time IT injection of VSV-IFNβ-NIS. At least one patient per IT cohort is required to have at least 2 measurable lesions per RECIST 1.1, one for a one-time IT injection of VSV-IFNβ-NIS and one to be used as a control. Priority enrollment in the IT-containing arms will be granted to patients with 2 measurable lesions per RECIST 1.1. At least one patient per dose level should have metastatic colorectal cancer. In order to fulfil these requirements, at least 3 or 4 patients will be required per escalation dose cohort. Other tumor types of particular interest based on prior experience with VSV or oncolytic viruses include malignant melanoma and endometrial cancer. When more than one cohort is open simultaneously, slot assignment will be determined by the sponsor in consultation with the PIs."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Malignant Solid Tumour"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "refractory solid tumor"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "76",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "VSV-IFNβ-NIS",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "VSV-IFNβ-NIS will be administered intratumorally as a single dose on day 1.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: VSV-IFNβ-NIS"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Selection of VSV-IFNβ-NIS Monotherapy",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "VSV-IFNβ-NIS will be administered either intratumorally, intravenously or with a combination of intratumorally and intravenously as a single dose on day 1.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: VSV-IFNβ-NIS"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "VSV-IFNβ-NIS and avelumab",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "VSV-IFNβ-NIS will be administered as determined in arm 2 as a single dose on day 1.\n\nAvelumab will be administered intravenously every 2 weeks starting on day 1.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: VSV-IFNβ-NIS and avelumab"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "VSV-IFNβ-NIS",
+            "InterventionDescription": "Intratumoral injection of a single dose of VSV-IFNβ-NIS",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Selection of VSV-IFNβ-NIS Monotherapy",
+                "VSV-IFNβ-NIS"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "VSV-IFNβ-NIS and avelumab",
+            "InterventionDescription": "Intratumoral injection of a single dose of VSV-IFNβ-NIS and intravenous infusion of avelumab",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "VSV-IFNβ-NIS and avelumab"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Maximum Tolerated Dose (MTD) of VSV-IFNβ-NIS Monotherapy and Combination Therapy",
+            "PrimaryOutcomeTimeFrame": "21 days after VSV-IFNβ-NIS Monotherapy or Combination Therapy for each dose cohort"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nBe > 18 years of age on day of signing informed consent.\nHave a histologically confirmed diagnosis of an advanced and/or metastatic solid tumor that is relapsed and/or refractory to standard therapy, as defined as progression on at least one prior line of therapy in the relapsed/metastatic setting and no existing options are felt to provide clinical benefit.\nEastern Cooperative Oncology Group (ECOG) Performance Status (PS) 0 or 1.\nAdequate hematological, liver and kidney function.\nMust be willing to implement contraception throughout study and for 120 days after receiving the study drug.\n\nExclusion Criteria:\n\nHas been receiving: radiotherapy, chemotherapy, or molecularly-targeted agents or tyrosine kinase inhibitors within 2 weeks or 5 half-lives (whichever is longer) of the start of study treatment; immunotherapy/monoclonal antibodies within 3 weeks of the start of study treatment; nitrosoureas, antibody-drug conjugates, or radioactive isotopes within 6 weeks of the start of study treatment.\nHas a history of a bone marrow or solid organ transplant.\nIs pregnant or breastfeeding, or expecting to conceive or father children within the projected duration of the trial, starting with the pre-screening or screening visit through 120 days after the last dose of trial treatment.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Alice Bexon, MD",
+            "OverallOfficialAffiliation": "CMO",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "University of Miami",
+            "LocationCity": "Miami",
+            "LocationState": "Florida",
+            "LocationZip": "33136",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Masonic Cancer Center, University of Minnesota",
+            "LocationCity": "Minneapolis",
+            "LocationState": "Minnesota",
+            "LocationZip": "55455",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Nationwide Children's Hospital",
+            "LocationCity": "Columbus",
+            "LocationState": "Ohio",
+            "LocationZip": "43205/2664",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Sanford Cancer Center",
+            "LocationCity": "Sioux Falls",
+            "LocationState": "South Dakota",
+            "LocationZip": "57104",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Sarah Cannon Research Institute",
+            "LocationCity": "Nashville",
+            "LocationState": "Tennessee",
+            "LocationZip": "37203",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Mary Crowley Cancer Research Center",
+            "LocationCity": "Dallas",
+            "LocationState": "Texas",
+            "LocationZip": "75230",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009369",
+            "ConditionMeshTerm": "Neoplasms"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15222",
+            "ConditionBrowseLeafName": "Stomatitis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M26749",
+            "ConditionBrowseLeafName": "Vesicular Stomatitis",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC07",
+            "ConditionBrowseBranchName": "Mouth and Tooth Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000016899",
+            "InterventionMeshTerm": "Interferon-beta"
+          },
+          {
+            "InterventionMeshId": "C000609138",
+            "InterventionMeshTerm": "Avelumab"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000074322",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Immunological"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000998",
+            "InterventionAncestorTerm": "Antiviral Agents"
+          },
+          {
+            "InterventionAncestorId": "D000000890",
+            "InterventionAncestorTerm": "Anti-Infective Agents"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9559",
+            "InterventionBrowseLeafName": "Interferons",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M18396",
+            "InterventionBrowseLeafName": "Interferon-beta",
+            "InterventionBrowseLeafAsFound": "Phthalates",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M344547",
+            "InterventionBrowseLeafName": "Avelumab",
+            "InterventionBrowseLeafAsFound": "Hernia",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M1346",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Immunological",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3466",
+            "InterventionBrowseLeafName": "Antiviral Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M3366",
+            "InterventionBrowseLeafName": "Anti-Infective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Infe",
+            "InterventionBrowseBranchName": "Anti-Infective Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

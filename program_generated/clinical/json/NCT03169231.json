@@ -1,0 +1,321 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03169231",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "001-03"
+      },
+      "Organization": {
+        "OrgFullName": "Longeveron Inc.",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Phase IIb Trial to Evaluate Longeveron Mesenchymal Stem Cells to Treat Aging Frailty",
+      "OfficialTitle": "A Phase 2b, Randomized, Blinded and Placebo-Controlled Trial to Evaluate the Safety and Efficacy of Longeveron Allogenic Human Mesenchymal Stem Cells Infusion in Patients With Aging Frailty"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Active, not recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 6, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 30, 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 24, 2017",
+      "StudyFirstSubmitQCDate": "May 25, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 30, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 12, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 16, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Longeveron Inc.",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a randomized, placebo-controlled, double-blind, parallel arm, multi-center Phase 2b study.",
+      "DetailedDescription": "The objectives of this study are to assess safety and efficacy of Longeveron Mesenchymal Stem Cells (LMSCs) compared to placebo on 1) functional mobility and exercise tolerance, 2) patient-reported physical function, and 3) the inflammatory cytokine biomarker tumor necrosis factor (TNF-alpha)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Aging Frailty"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Triple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "150",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Study Group A",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Single peripheral IV infusion of 25 million Longeveron Mesenchymal Stem Cells (LMSCs)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Longeveron Mesenchymal Stem Cells (LMSCs)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Study Group B",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Single peripheral IV infusion of 50 million Longeveron Mesenchymal Stem Cells (LMSCs)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Longeveron Mesenchymal Stem Cells (LMSCs)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Study Group C",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Single peripheral IV infusion of 100 million Longeveron Mesenchymal Stem Cells (LMSCs)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Longeveron Mesenchymal Stem Cells (LMSCs)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Study Group D",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Single peripheral IV infusion of 200 million Longeveron Mesenchymal Stem Cells (LMSCs)",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Longeveron Mesenchymal Stem Cells (LMSCs)"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Study Group E",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Single peripheral IV infusion of placebo.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Longeveron Mesenchymal Stem Cells (LMSCs)",
+            "InterventionDescription": "Intravenously delivered",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Study Group A",
+                "Study Group B",
+                "Study Group C",
+                "Study Group D"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Intravenously delivered",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Study Group E"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Change from baseline in 6 Minute Walk Test (6MWT) compared to placebo",
+            "PrimaryOutcomeDescription": "Change from baseline in 6MWT compared to placebo at 180 days post-infusion",
+            "PrimaryOutcomeTimeFrame": "Baseline and 180 days post-infusion"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change in patient reported outcome of overall physical function capacity using the PROMIS-Physical Function-Short Form 20a compared to placebo",
+            "SecondaryOutcomeDescription": "Change from baseline in physical function will be measured to assess Patient-Reported Outcome Measurement compared to placebo at 180 days post infusion.",
+            "SecondaryOutcomeTimeFrame": "180 days post-infusion"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in TNF-alpha compared to placebo",
+            "SecondaryOutcomeDescription": "Change in serum TNF-alpha compared to placebo",
+            "SecondaryOutcomeTimeFrame": "180 days post-infusion"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nBe willing and able to provide written informed consent and comply with all procedures required by the Protocol.\nBe >70 and < 85 years of age at the time of signing the Informed Consent Form.\nHave a Canadian Study on Health and Aging (CSHA) Clinical Frailty Scale score of 5 \"mildly frail\" or 6 \"moderately frail\".\nHave a 6 minute walk distance of > 200m and < 400 m. Distances of two 6MWTs are to be within 15% of each other.\nHave a serum TNF-alpha level > 2.5 pg/mL\n\nExclusion Criteria:\n\nBe unwilling or unable to perform any of the assessments required by the protocol.\nHave a diagnosis of any disabling neurologic disorder, including, but not limited to, Parkinson's disease, Amyotrophic Lateral Sclerosis, multiple sclerosis, cerebrovascular accident with residual deficits (e.g., muscle weakness or gait disorder), or diagnosis of dementia.\nHave a score of 24 or lower on the Mini Mental State Examination (MMSE)\nHave poorly controlled blood glucose levels (HbA1c >8.0%).\nHave a clinical history of malignancy within 2.5 years (i.e., subjects with prior malignancy must be cancer free for 2.5 years) except curatively-treated basal cell carcinoma, melanoma in situ or cervical carcinoma.\nHave any condition that in the opinion of the Principal Investigator limits lifespan to < 1 year.\nHave autoimmune disease (e.g. rheumatoid arthritis, systemic lupus erythematosus).\nBe using chronic immunosuppressant therapy such as high-dose corticosteroids or TNF-alpha antagonists (prednisone use at doses of < 5 mg daily is allowed).\n\nTest positive for hepatitis B virus\n\na. If the subject tests positive for anti-hepatitis B core antigen (HBc) or anti-HBs, they must be currently receiving treatment for Hepatitis B prior to infusion and remain on treatment throughout the study.\n\nTest positive for verimic Hepatitis C virus, HIV1/2, or syphilis\nHave a resting blood oxygen saturation of <93% (measured by pulse oximetry).\nKnown or suspected alcohol or drug abuse within three years preceding Screening\nHave a known hypersensitivity to dimethyl sulfoxide (DMSO).\nBe an organ transplant recipient (other than transplantation for corneal, bone, skin, ligament, or tendon).\nBe actively listed (or expected future listing) for transplant of any organ (other than corneal transplant).\n\nHave any clinically important abnormal screening laboratory values, including, but not limited to:\n\nHemoglobin <10.0 g/dL,\nWhite blood cell <2,500/ul, or platelet count <100,000/ul\nLiver dysfunction evidenced by enzymes (AST and ALT) > 3 times the upper limit of normal (ULN)\nCoagulopathy (INR>1.3) not due to a reversible cause (e.g. warfarin and/or Factor Xa inhibitors).\nUncontrolled hypertension (resting systolic blood pressure >180 mm Hg or diastolic blood pressure of > 110 mm Hg at Screening)\nHave unstable angina pectoris, uncontrolled or severe peripheral artery disease within the previous 3 months.\nHave congestive heart failure defined by NYHS (New York Heart Association) Class III or IV, or an ejection fraction of <25%.\nHave a coronary artery bypass surgery, angioplasty, or peripheral vascular disease revasculation or a myocardial infarction within previous 3 months.\nHave severe pulmonary dysfunction: acute exacerbation of chronic obstructive lung disease stage III or IV (Gold classification), and/or PaO2 levels <60 mmHg.\nHave a partial ileal gastric bypass, or other significant intestinal malabsorption.\nHave advanced liver or renal disease\nHave cognitive or language barriers that prohibit obtaining informed consent or any study elements.\nBe currently hospitalized, or living in an assisted living facility or a long-term care facility.\nBe currently participating (or participated within the previous 30 days of consent) in an investigational therapeutic or device trial.\nHave a history or current evidence of any condition, therapy, laboratory abnormality, or other circumstance that might confound the results of the study, or interfere with the patient's participation for the full duration of the study.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "70 Years",
+      "MaximumAge": "85 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Soffer Health Institute",
+            "LocationCity": "Aventura",
+            "LocationState": "Florida",
+            "LocationZip": "33180",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Clinical Research of South Florida",
+            "LocationCity": "Coral Gables",
+            "LocationState": "Florida",
+            "LocationZip": "33134",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Clinical Physiology Associates",
+            "LocationCity": "Fort Myers",
+            "LocationState": "Florida",
+            "LocationZip": "33912",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Panax Clinical Research",
+            "LocationCity": "Miami Lakes",
+            "LocationState": "Florida",
+            "LocationZip": "33014",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Miami VA Healthcare System",
+            "LocationCity": "Miami",
+            "LocationState": "Florida",
+            "LocationZip": "33125",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Vista Health Research",
+            "LocationCity": "Miami",
+            "LocationState": "Florida",
+            "LocationZip": "33176",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "Advanced Research for Health Improvement, LLC",
+            "LocationCity": "Naples",
+            "LocationState": "Florida",
+            "LocationZip": "34102",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000073496",
+            "ConditionMeshTerm": "Frailty"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M1175",
+            "ConditionBrowseLeafName": "Frailty",
+            "ConditionBrowseLeafAsFound": "Frailty",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

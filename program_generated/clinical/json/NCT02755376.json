@@ -1,0 +1,320 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02755376",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "SMC 2013-07-117-002"
+      },
+      "Organization": {
+        "OrgFullName": "Samsung Medical Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Development of Novel Strategy for Treatment of Anterior Cruciate Ligament (ACL) Injury Using Stem Cell",
+      "OfficialTitle": "A Randomized, Single Center, Investigator Initiated Clinical Trial to Evaluate Enhancement of Healing Between Bone Tunnel and Graft in Anterior Cruciate Ligament (ACL) Injury Using Human Umbilical Cord Blood Derived Mesenchymal Stem Cell"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2018",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 1, 2014",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "April 28, 2016",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 1, 2018",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "February 22, 2015",
+      "StudyFirstSubmitQCDate": "April 25, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 28, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "April 8, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 10, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Samsung Medical Center",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Purpose:Development of novel strategy for treatment of anterior cruciate ligament (ACL) injury using stem cell.",
+      "DetailedDescription": "Purpose: Development of novel strategy for treatment of anterior cruciate ligament (ACL) injury using stem cell.\n\nSubject: Anterior cruciate ligament (ACL) injury 30 patients\n\nACL reconstruction: 10\nACL reconstruction + Human cord blood derived mesenchymal stem cells and hyaluronic acid (Cartistem (TM)): 10\nACL reconstruction + hyaluronic acid: 10\nHypothesis: Human Cord blood derived mesenchymal stem cells can enhance healing between bone tunnel and graft in ACL reconstruction."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Deficiency of Anterior Cruciate Ligament"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "ACL reconstruction only",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "only ACL reconstruction without any injection",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: ACL reconstruction only"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "ACL reconstruction + Cartistem(TM)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "ACL reconstruction and concomitant Cartistem(TM) injection which is human cord blood derived mesenchymal stem cell under arthroscopy.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Cartistem(TM)",
+                "Procedure: ACL reconstruction only"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "ACL reconstruction + Hyaluronic acid",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "ACL reconstruction and concomitant hyaluronic acid injection under arthroscopy",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: hyaluronic acid",
+                "Procedure: ACL reconstruction only"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Cartistem(TM)",
+            "InterventionDescription": "ACL reconstruction and injection of Cartstem(TM), human cord blood derived mesenchymal stem cell under arthroscopy.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "ACL reconstruction + Cartistem(TM)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "hyaluronic acid",
+            "InterventionDescription": "ACL reconstruction and injection of hyaluronic acid under arthroscopy.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "ACL reconstruction + Hyaluronic acid"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "ACL reconstruction only",
+            "InterventionDescription": "ACL reconstruction only without any injection under arthroscopy",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "ACL reconstruction + Cartistem(TM)",
+                "ACL reconstruction + Hyaluronic acid",
+                "ACL reconstruction only"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Bone formation on interface between bone tunnel and graft",
+            "PrimaryOutcomeTimeFrame": "Changes at 12 week, 24 week, 48 week after surgery"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Arthroscopic grading of graft",
+            "SecondaryOutcomeTimeFrame": "48 week after surgery"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Telos stress X-ray",
+            "SecondaryOutcomeTimeFrame": "Changes at 12 week, 24 week, 48 week after surgery"
+          },
+          {
+            "SecondaryOutcomeMeasure": "KT-2000",
+            "SecondaryOutcomeTimeFrame": "Changes at 12 week, 24 week, 48 week after surgery"
+          },
+          {
+            "SecondaryOutcomeMeasure": "clinical knee scoring",
+            "SecondaryOutcomeTimeFrame": "Changes at 12 week, 24 week, 48 week after surgery"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Instability assessing with physical examination",
+            "SecondaryOutcomeTimeFrame": "Changes at 12 week, 24 week, 48 week after surgery"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Tunnel enlargement after anterior cruciate ligament reconstruction",
+            "SecondaryOutcomeTimeFrame": "Changes at 12 week, 24 week, 48 week after surgery"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge 20~50\nLachman test grade II,III or Pivot shift test grade I,II,III or ACL rupture in MRI\nprothrombin time (PT) (INR) <1.5, activated partial thromboplastin time (aPTT) <1.5 x control\nCreatinine ≤2.0 ㎎/㎗, protein uria(dipstick) ≤ trace\nBilirubin ≤2.0 ㎎/㎗, aspartate aminotransferase (AST) /Alanine Aminotransferase (ALT) ≤100 IU/L\nNo surgery and radiation therapy in recent 6 weeks\nNo pregnancy\nNo combine ligament instability ≥ grade II in physical examination (grade 0: none, grade I: 0~5mm, grade II: 5~10mm, grade III: >10mm)\nvoluntary singed a consent form\n\nExclusion Criteria:\n\nDegenerative osteoarthritis in knee\nRevision or other surgery history (stem cell treatment)\nChronic inflammatory joint disease like rheumatoid arthritis\nInfectious disease need to administration of parenteral antibiotics\nAutoimmune disease\nMyocardial infarction, congestive heart failure, other serious heart disease\nUncontrolled hypertension\nSerious medical disease\nPregnancy and breast-feeding\npsychiatric disorder and epilepsy\nAlcohol overuse\nSmoking overuse\nAdministration of immunosuppressive agents like Cyclosporin A or Azathioprine in recent 6 weeks prior screening test\nPatient participating in other clinical trials in recent 4 weeks\nCombined ligament instability ≥ grade II in physical test.\nNo allergy history to gentamicin antibiotics\nHypersensitivity patient to bovine protein, hyaluronic acid, and anesthetic agent\nInappropriate patient judged by researcher.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "50 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Joon Ho Wang, MD, Ph D",
+            "OverallOfficialAffiliation": "Samsung Medical Center",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Samsung Medical Center",
+            "LocationCity": "Seoul",
+            "LocationZip": "06351",
+            "LocationCountry": "Korea, Republic of"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided",
+      "IPDSharingDescription": "age, physical exam, lab, etc will be shared"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000006820",
+            "InterventionMeshTerm": "Hyaluronic Acid"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000276",
+            "InterventionAncestorTerm": "Adjuvants, Immunologic"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000055675",
+            "InterventionAncestorTerm": "Viscosupplements"
+          },
+          {
+            "InterventionAncestorId": "D000020011",
+            "InterventionAncestorTerm": "Protective Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M9030",
+            "InterventionBrowseLeafName": "Hyaluronic Acid",
+            "InterventionBrowseLeafAsFound": "Ophthalmic",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M2780",
+            "InterventionBrowseLeafName": "Adjuvants, Immunologic",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M27448",
+            "InterventionBrowseLeafName": "Viscosupplements",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M21022",
+            "InterventionBrowseLeafName": "Protective Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

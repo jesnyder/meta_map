@@ -1,0 +1,454 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02980302",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "38RC14.181"
+      },
+      "Organization": {
+        "OrgFullName": "University Hospital, Grenoble",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Development of the Tool \" iPSC \" for the Functional Study of Mutations Responsible for Mental Retardation",
+      "OfficialTitle": "Development of the Tool \" iPSC \" (Induced Pluripotent Stem Cells) for the Functional Study of Mutations Responsible for Mental Retardation - Application to Familial Study of MYT1L Gene Mutations",
+      "Acronym": "Rementips"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2018",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 2015",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 2017",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2017",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "July 28, 2016",
+      "StudyFirstSubmitQCDate": "November 29, 2016",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 2, 2016",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "October 9, 2018",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 12, 2018",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Hospital, Grenoble",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "According to the World Health Organization (WHO), mental retardation (MR) is defined by an intelligence quotient (IQ) < 70 and touches between 1 to 3 % of the general population. Profound mental retardation (QI <25), severe (IQ: 25-40) and moderate (QI : 40-50) have a prevalence of 0,3-0,5% while the prevalence of mild MR, defined by an IQ between 50 and 70 is evaluated to about 1,5 %.\n\nThe origin of MR can be infectious, toxic, traumatic, genetic or environmental. genetic causes of MR gather the number and structure anomalies of the chromosomes, the genomic microreorganization, monogenic diseases and more rarely other non Mendelian-inherited anomalies like print or epigenetic anomalies, mutations of the mitochondrial genome etc... Genetic causes represents 50% of moderate to severe, whereas environmental factors (malnutrition, cultural deprivation,...) plays an important role in mild MR.\n\nThe main goal of this study is to get an innovative tool (neuronal distinction of iPSC) that wil allow to study the functionnal impact of mutations uppon genes probably involved in MR like MYT1L. The main criteria associated to characterisation of the tool by the trial is the study of the pluripotency of iPSC obtained and to highlight the mutation of the gene MYT1L in the iPSC.\n\nNeurons from the iPSC of the patient and his father du patient wille also be morphologically characterised, but also thanks to the expression of specifically neurals genes.\n\nCharacteristics of iPSC and neurons from d'iPSC with MYT1L mutation will be compared among the patient and his father, in relation with the same cells coming from the two witnesses."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Intellectual Deficiency",
+          "Asymptomatic Carrier of the Mutation of the Gene MYT1L",
+          "Healthy Volunteers"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Mental retardation MR",
+          "IQ",
+          "Mutation",
+          "Gene MYT1L"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Other",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "4",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Patient",
+            "ArmGroupType": "Other",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Cutaneous biopsy"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Asymptomatic carrier",
+            "ArmGroupType": "Other",
+            "ArmGroupDescription": "Father of the patient : asymptomatic carrier of the same mutation",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Cutaneous biopsy"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Two control patients",
+            "ArmGroupType": "Other",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Cutaneous biopsy"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Cutaneous biopsy",
+            "InterventionDescription": "Under local anesthesia",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Asymptomatic carrier",
+                "Patient",
+                "Two control patients"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "iPSC caracterization from human fibroblast with MYT1L mutation",
+            "PrimaryOutcomeDescription": "Skin sampling under local anesthesia. Evaluation of iPSC gene expression for their pluripotency.",
+            "PrimaryOutcomeTimeFrame": "Half an hour"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria :\n\nPatient with an intellectual deficiency and/or associated signs that received a chromosomic analysis by CGH-array revealing a variant of unknown signification involvingone or more genes candidates for mental retardation.\nCertificate of genetic genetic counselling and signed consent.\nUnder 18 persons may be necessary because intellectual deficiency is often diagnosed before the adult age.\nNumber of cases is very limited in this preliminary study and only one patient showing a rare mutation of MYT1L gene and his father ( asymptomatic carrier of the same mutation) will be study.\nAffiliation to a social security system\n\nExclusion Criteria :\n\nPersons mentionned L1121-5 to L1121-8 of CSP (all protected persons)\nPersons suffering from acute infections for the practice of cutaneous biopsy under local anesthesia.\nPersons showing an hemostasis disorder acquired or induced\nPersons sous traitement antiagrégant anticoagulant\nPersons with a mutation in th gene MYT1L",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Pierre Simon Jouk, Professor",
+            "OverallOfficialAffiliation": "Grenoble Hospital University",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "UniversityHospitalGrenoble",
+            "LocationCity": "La Tronche",
+            "LocationZip": "38700",
+            "LocationCountry": "France"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "19449417",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Bonnet C, Leheup B, Béri M, Philippe C, Grégoire MJ, Jonveaux P. Aberrant GRIA3 transcripts with multi-exon duplications in a family with X-linked mental retardation. Am J Med Genet A. 2009 Jun;149A(6):1280-9. doi: 10.1002/ajmg.a.32858."
+          },
+          {
+            "ReferencePMID": "16520451",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Brosco JP, Mattingly M, Sanders LM. Impact of specific medical interventions on reducing the prevalence of mental retardation. Arch Pediatr Adolesc Med. 2006 Mar;160(3):302-9. Review."
+          },
+          {
+            "ReferencePMID": "19252484",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Chambers SM, Fasano CA, Papapetrou EP, Tomishima M, Sadelain M, Studer L. Highly efficient neural conversion of human ES and iPS cells by dual inhibition of SMAD signaling. Nat Biotechnol. 2009 Mar;27(3):275-80. doi: 10.1038/nbt.1529. Epub 2009 Mar 1. Erratum in: Nat Biotechnol. 2009 May;27(5):485."
+          },
+          {
+            "ReferencePMID": "24046374",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Chanda S, Marro S, Wernig M, Südhof TC. Neurons generated by direct conversion of fibroblasts reproduce synaptic phenotype caused by autism-associated neuroligin-3 mutation. Proc Natl Acad Sci U S A. 2013 Oct 8;110(41):16622-7. doi: 10.1073/pnas.1316240110. Epub 2013 Sep 17."
+          },
+          {
+            "ReferencePMID": "18197188",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Chiurazzi P, Schwartz CE, Gecz J, Neri G. XLMR genes: update 2007. Eur J Hum Genet. 2008 Apr;16(4):422-34. doi: 10.1038/sj.ejhg.5201994. Epub 2008 Jan 16. Review."
+          },
+          {
+            "ReferencePMID": "17568425",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Chiyonobu T, Hayashi S, Kobayashi K, Morimoto M, Miyanomae Y, Nishimura A, Nishimoto A, Ito C, Imoto I, Sugimoto T, Jia Z, Inazawa J, Toda T. Partial tandem duplication of GRIA3 in a male with mental retardation. Am J Med Genet A. 2007 Jul 1;143A(13):1448-55."
+          },
+          {
+            "ReferencePMID": "19764021",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Cohn DM, Pagon RA, Hudgins L, Schwartz CE, Stevenson RE, Friez MJ. Partial ATRX gene duplication causes ATR-X syndrome. Am J Med Genet A. 2009 Oct;149A(10):2317-20. doi: 10.1002/ajmg.a.33006."
+          },
+          {
+            "ReferencePMID": "24129437",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Doco-Fenzy M, Leroy C, Schneider A, Petit F, Delrue MA, Andrieux J, Perrin-Sabourin L, Landais E, Aboura A, Puechberty J, Girard M, Tournaire M, Sanchez E, Rooryck C, Ameil A, Goossens M, Jonveaux P, Lefort G, Taine L, Cailley D, Gaillard D, Leheup B, Sarda P, Geneviève D. Early-onset obesity and paternal 2pter deletion encompassing the ACP1, TMEM18, and MYT1L genes. Eur J Hum Genet. 2014 Apr;22(4):471-9. doi: 10.1038/ejhg.2013.189. Epub 2013 Oct 16."
+          },
+          {
+            "ReferencePMID": "22840365",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Froyen G, Belet S, Martinez F, Santos-Rebouças CB, Declercq M, Verbeeck J, Donckers L, Berland S, Mayo S, Rosello M, Pimentel MM, Fintelman-Rodrigues N, Hovland R, Rodrigues dos Santos S, Raymond FL, Bose T, Corbett MA, Sheffield L, van Ravenswaaij-Arts CM, Dijkhuizen T, Coutton C, Satre V, Siu V, Marynen P. Copy-number gains of HUWE1 due to replication- and recombination-based rearrangements. Am J Hum Genet. 2012 Aug 10;91(2):252-64. doi: 10.1016/j.ajhg.2012.06.010. Epub 2012 Jul 26."
+          },
+          {
+            "ReferencePMID": "21681106",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Kearney HM, Thorland EC, Brown KK, Quintero-Rivera F, South ST; Working Group of the American College of Medical Genetics Laboratory Quality Assurance Committee. American College of Medical Genetics standards and guidelines for interpretation and reporting of postnatal constitutional copy number variants. Genet Med. 2011 Jul;13(7):680-5. doi: 10.1097/GIM.0b013e3182217a3a."
+          },
+          {
+            "ReferencePMID": "15549674",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Kleinjan DA, van Heyningen V. Long-range control of gene expression: emerging mechanisms and disruption in disease. Am J Hum Genet. 2005 Jan;76(1):8-32. Epub 2004 Nov 17. Review."
+          },
+          {
+            "ReferencePMID": "11408960",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Larson SA, Lakin KC, Anderson L, Kwak N, Lee JH, Anderson D. Prevalence of mental retardation and developmental disabilities: estimates from the 1994/1995 National Health Interview Survey Disability Supplements. Am J Ment Retard. 2001 May;106(3):231-52."
+          },
+          {
+            "ReferencePMID": "17597782",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Lee C, Iafrate AJ, Brothman AR. Copy number variations and clinical cytogenetic diagnosis of constitutional disorders. Nat Genet. 2007 Jul;39(7 Suppl):S48-54. Review."
+          },
+          {
+            "ReferencePMID": "22308465",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Lujan E, Chanda S, Ahlenius H, Südhof TC, Wernig M. Direct conversion of mouse fibroblasts to self-renewing, tripotent neural precursor cells. Proc Natl Acad Sci U S A. 2012 Feb 14;109(7):2527-32. doi: 10.1073/pnas.1121003109. Epub 2012 Jan 30."
+          },
+          {
+            "ReferencePMID": "3322329",
+            "ReferenceType": "background",
+            "ReferenceCitation": "McLaren J, Bryson SE. Review of recent epidemiological studies of mental retardation: prevalence, associated disorders, and etiology. Am J Ment Retard. 1987 Nov;92(3):243-54. Review."
+          },
+          {
+            "ReferencePMID": "10982177",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Raff ML, Craigen WJ, Smith LT, Keene DR, Byers PH. Partial COL1A2 gene duplication produces features of osteogenesis imperfecta and Ehlers-Danlos syndrome type VII. Hum Genet. 2000 Jan;106(1):19-28."
+          },
+          {
+            "ReferencePMID": "21617644",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Pang ZP, Yang N, Vierbuchen T, Ostermeier A, Fuentes DR, Yang TQ, Citri A, Sebastiano V, Marro S, Südhof TC, Wernig M. Induction of human neuronal cells by defined transcription factors. Nature. 2011 May 26;476(7359):220-3. doi: 10.1038/nature10202."
+          },
+          {
+            "ReferencePMID": "17873648",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Rodriguez-Revenga L, Mila M, Rosenberg C, Lamb A, Lee C. Structural variation in the human genome: the impact of copy number variants on clinical diagnosis. Genet Med. 2007 Sep;9(9):600-6. Review."
+          },
+          {
+            "ReferenceType": "background",
+            "ReferenceCitation": "Rooryck Thambo C. Analyse de réarrangements génomiques chez des patients atteints d'anomalies du développement embryonnaire. Retard mental et malformations multiples congénitales ; Spectre oculo-auriculo-vertébral. 2009. Thèse de science n°1675. Ecole doctorale des sciences de la vie et de la santé, université Bordeaux 2."
+          },
+          {
+            "ReferencePMID": "22695888",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Shimojima K, Inoue T, Imai Y, Arai Y, Komoike Y, Sugawara M, Fujita T, Ideguchi H, Yasumoto S, Kanno H, Hirose S, Yamamoto T. Reduced PLP1 expression in induced pluripotent stem cells derived from a Pelizaeus-Merzbacher disease patient with a partial PLP1 duplication. J Hum Genet. 2012 Sep;57(9):580-6. doi: 10.1038/jhg.2012.71. Epub 2012 Jun 14."
+          },
+          {
+            "ReferencePMID": "17467974",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Stankiewicz P, Beaudet AL. Use of array CGH in the evaluation of dysmorphology, malformations, developmental delay, and idiopathic mental retardation. Curr Opin Genet Dev. 2007 Jun;17(3):182-92. Epub 2007 Apr 30. Review."
+          },
+          {
+            "ReferencePMID": "23340515",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Stasia MJ, Mollin M, Martel C, Satre V, Coutton C, Amblard F, Vieville G, van Montfrans JM, Boelens JJ, Veenstra-Knol HE, van Leeuwen K, de Boer M, Brion JP, Roos D. Functional and genetic characterization of two extremely rare cases of Williams-Beuren syndrome associated with chronic granulomatous disease. Eur J Hum Genet. 2013 Oct;21(10):1079-84. doi: 10.1038/ejhg.2012.310. Epub 2013 Jan 23."
+          },
+          {
+            "ReferenceType": "background",
+            "ReferenceCitation": "Stevenson, R. E., Schwartz, C. E. & Schroer, R. J. X-Linked Mental Retardation. 2000. Oxford Univ. Press"
+          },
+          {
+            "ReferencePMID": "16904174",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Takahashi K, Yamanaka S. Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors. Cell. 2006 Aug 25;126(4):663-76. Epub 2006 Aug 10."
+          },
+          {
+            "ReferencePMID": "17579672",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Thienpont B, de Ravel T, Van Esch H, Van Schoubroeck D, Moerman P, Vermeesch JR, Fryns JP, Froyen G, Lacoste C, Badens C, Devriendt K. Partial duplications of the ATRX gene cause the ATR-X syndrome. Eur J Hum Genet. 2007 Oct;15(10):1094-7. Epub 2007 Jun 20."
+          },
+          {
+            "ReferencePMID": "24243019",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Wapinski OL, Vierbuchen T, Qu K, Lee QY, Chanda S, Fuentes DR, Giresi PG, Ng YH, Marro S, Neff NF, Drechsel D, Martynoga B, Castro DS, Webb AE, Südhof TC, Brunet A, Guillemot F, Chang HY, Wernig M. Hierarchical mechanisms for direct reprogramming of fibroblasts to neurons. Cell. 2013 Oct 24;155(3):621-35. doi: 10.1016/j.cell.2013.09.028. Epub 2013 Oct 24."
+          },
+          {
+            "ReferencePMID": "17941949",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Yanaba K, Nakagawa H, Takeda Y, Koyama N, Sugano K. Muir-Torre syndrome caused by partial duplication of MSH2 gene by Alu-mediated nonhomologous recombination. Br J Dermatol. 2008 Jan;158(1):150-6. Epub 2007 Oct 17."
+          },
+          {
+            "ReferencePMID": "22136927",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Yang N, Ng YH, Pang ZP, Südhof TC, Wernig M. Induced neuronal cells: how to make and define a neuron. Cell Stem Cell. 2011 Dec 2;9(6):517-25. doi: 10.1016/j.stem.2011.11.015. Review."
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008607",
+            "ConditionMeshTerm": "Intellectual Disability"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000019954",
+            "ConditionAncestorTerm": "Neurobehavioral Manifestations"
+          },
+          {
+            "ConditionAncestorId": "D000009461",
+            "ConditionAncestorTerm": "Neurologic Manifestations"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000065886",
+            "ConditionAncestorTerm": "Neurodevelopmental Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001523",
+            "ConditionAncestorTerm": "Mental Disorders"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10741",
+            "ConditionBrowseLeafName": "Intellectual Disability",
+            "ConditionBrowseLeafAsFound": "Mental Retardation",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M20979",
+            "ConditionBrowseLeafName": "Neurobehavioral Manifestations",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11556",
+            "ConditionBrowseLeafName": "Neurologic Manifestations",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M29797",
+            "ConditionBrowseLeafName": "Neurodevelopmental Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3967",
+            "ConditionBrowseLeafName": "Mental Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13625",
+            "ConditionBrowseLeafName": "Psychotic Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXM",
+            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3259",
+            "InterventionBrowseLeafName": "Anesthetics",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "CNSDep",
+            "InterventionBrowseBranchName": "Central Nervous System Depressants"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

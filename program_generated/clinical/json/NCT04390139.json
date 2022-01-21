@@ -1,0 +1,771 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04390139",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "BST-COVID-01"
+      },
+      "Organization": {
+        "OrgFullName": "Banc de Sang i Teixits",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Efficacy and Safety Evaluation of Mesenchymal Stem Cells for the Treatment of Patients With Respiratory Distress Due to COVID-19",
+      "OfficialTitle": "A Prospective, Double-blind, Randomized, Parallel, Placebo-controlled Pilot Clinical Trial for the Evaluation of the Efficacy and Safety of Two Doses of WJ-MSC in Patients With Acute Respiratory Distress Syndrome Secondary to Infection by COVID-19",
+      "Acronym": "COVIDMES"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 13, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 7, 2020",
+      "StudyFirstSubmitQCDate": "May 13, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 15, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "April 7, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 8, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Banc de Sang i Teixits",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Randomized, double-blind, parallel, two-arms clinical trial to assess the efficacy and safety of 2 infusions of Wharton-Jelly mesenchymal stromal cells (day 1 and day 3, endovenously at 1E6cells/Kg per dose) in patients with moderate acute respiratory distress syndrome (ARDS) secondary to SARS-CoV-2 infection. Follow-up will be established on days 3, 5, 7, 14, 21, and 28. Long term follow-up will be performed at 3, 6 and 12 months.",
+      "DetailedDescription": "This is a prospective, double-blind, randomized, parallel, placebo-controlled pilot clinical trial to assess the efficacy and safety of two infusions of Wharton Jelly mesenchymal stromal cells (WJ-MSC) in patients with moderate acute respiratory distress syndrome (ARDS) secondary to SARS-CoV-2 infection. The study will enroll 30 patients who after signing the informed consent will be checked for inclusion and exclusion criteria. Patients will then be randomized (1:1) to one of the 2 treatment arms: Treatment A WJ-MSC/WJ-MSC; Treatment B Placebo/ Placebo. The 2 infusions will be administered endovenously on day 1 (D1) and on D3. Thereafter, patients will be followed-up on days 3, 5, 7, 14, 21, and 28 Once the study is completed, controls will be established at 3 months, 6 months and 12 months as long-term follow-up.\n\nThe study treatments (A or B) will be added on top of the Standard of Care treatment prescribed by the attending physician. Each dose of MSC-WJ will consist of the intravenous administration of 1E6cells/Kg.\n\nRecruitment will be competitive for the centers participating in the study. A Data Safety and Monitoring Board (DSMB) will be established to review safety and efficacy along the trial."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID-19",
+          "SARS-CoV 2",
+          "Adult Respiratory Distress Syndrome"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "ARDS"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "30",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Treatment A",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Wharton-Jelly mesenchymal stromal cells on D1 and D3",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: XCEL-UMC-BETA"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Treatment B",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Placebo on D1 and D3",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "XCEL-UMC-BETA",
+            "InterventionDescription": "Administration on top of the standard administered treatment",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment A"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "WJ-MSC"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "Administration on top of the standard administered treatment",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment B"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "All-cause mortality at day 28",
+            "PrimaryOutcomeDescription": "Number of patients who died, by treatment group",
+            "PrimaryOutcomeTimeFrame": "Day 28"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Safety of WJ-MSC",
+            "SecondaryOutcomeDescription": "Number of patients with treatment-emergent adverse events, by treatment group",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Need for treatment with rescue medication",
+            "SecondaryOutcomeDescription": "Number of patients who, after the start of treatment, required rescue medication, by treatment group",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Need and duration of mechanical ventilation",
+            "SecondaryOutcomeDescription": "Number of days that the patient requires invasive mechanical ventilation from the start of treatment to day +28, by treatment group",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Ventilator free days",
+            "SecondaryOutcomeDescription": "Days after treatment in which the patient remains alive and free of invasive mechanical ventilation, per treatment group.",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Evolution of PaO2 / FiO2 ratio",
+            "SecondaryOutcomeDescription": "Variation of the oxygenation index (PaO2 / FiO2) with respect to the baseline value, by treatment group.",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Evolution of the SOFA index",
+            "SecondaryOutcomeDescription": "Variation of the score of the Sequential Organ Failure Assessment (SOFA) Index with respect to the baseline value, by treatment group.",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Evolution of the APACHE II score",
+            "SecondaryOutcomeDescription": "Variation of Acute Physiology and Chronic Health disease Classification System II (APACHE II) score, by treatment group.",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Duration of hospitalization",
+            "SecondaryOutcomeDescription": "Days of stay in the ICU from the day of admission until discharge to day 28, or date of death if earlier, by treatment group.",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Evolution of markers of immune response (leucocyte count, neutrophils)",
+            "SecondaryOutcomeDescription": "Variation in the count and percentage of leukocytes and neutrophils, by treatment group.",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Feasibility of WJ-MSC administration",
+            "SecondaryOutcomeDescription": "Feasibility will be evaluated by the time elapsed from the request of the treatment by the hospital center until the delivery date",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Feasibility of WJ-MSC administration",
+            "SecondaryOutcomeDescription": "Feasibility will be evaluated by the number of patients treated within 2 days of the request for treatment.",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Evolution of disease biomarker: polymerase chain reaction (RT-PCR)",
+            "SecondaryOutcomeDescription": "Variation in the values of the biomarker, by treatment group.",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Evolution of disease biomarker: lactate dehydrogenase (LDH)",
+            "SecondaryOutcomeDescription": "Variation in the values of the biomarker, by treatment group.",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Evolution of disease biomarker: D-dimer",
+            "SecondaryOutcomeDescription": "Variation in the values of the biomarker, by treatment group.",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Evolution of disease biomarker: Ferritin",
+            "SecondaryOutcomeDescription": "Variation in the values of the biomarker, by treatment group.",
+            "SecondaryOutcomeTimeFrame": "Day 28"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Analysis of subpopulations of lymphocytes and immunoglobulins",
+            "OtherOutcomeDescription": "Blood sample analysis",
+            "OtherOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "OtherOutcomeMeasure": "Evaluation of the in vitro response of the receptor lymphocytes",
+            "OtherOutcomeDescription": "In vitro response will be assessed using commercial viral antigens (Miltenyi Biotech)",
+            "OtherOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "OtherOutcomeMeasure": "Study of reactivity against SARS-CoV-2 peptides",
+            "OtherOutcomeDescription": "Reactivity will be assessed using ELISPOT",
+            "OtherOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "OtherOutcomeMeasure": "Immunophenotypic study of memory cells in response to SARS-CoV-2 peptides",
+            "OtherOutcomeDescription": "Blood sample analysis",
+            "OtherOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "OtherOutcomeMeasure": "Genetic variability of patient's genotype in response to treatment",
+            "OtherOutcomeDescription": "Blood sample analysis for the patient's genomic sequencing",
+            "OtherOutcomeTimeFrame": "Day 28"
+          },
+          {
+            "OtherOutcomeMeasure": "Genetic variability of the SARS-CoV-2 genotype in response to treatment",
+            "OtherOutcomeDescription": "Genomic sequencing of the SARS-CoV-2 in a nasopharyngeal sample",
+            "OtherOutcomeTimeFrame": "Day 28"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPositive PCR fpr SARS-CoV-2\nIntensive Care Unit admission for less than 3 days\nModerate acute respiratory distress (Berlin criteria definition with 100 mmHg < PaO2/FiO2 ≤ 200 mmHg)\nMale or female, aged 18 to 70 years old\nSigned informed consent by the patient or by a legal representative (in this case, can be obtained by phone, although it must be confirmed in writing later, accepted by email)\n\nExclusion Criteria:\n\nExpected survival less than 3 days\nTreatment with immunosuppressive drugs (tocilizumab, sarilumab) with corticosteroids being allowed\nNeoplastic disease either active or without complete remission\nImmunosuppressed patients (except treatment with corticosteroids for respiratory distress)\nPregnant or lactating women\nParticipation in another clinical trial with an experimental drug in the last 30 days\nOther pathologies that, in medical judgment, contraindicate participation in the study",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Ruth Coll, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "34935570500",
+            "CentralContactPhoneExt": "6707",
+            "CentralContactEMail": "rucoll@bst.cat"
+          },
+          {
+            "CentralContactName": "Joaquin Delgadillo, MD, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactEMail": "jadelgadillo@bst.cat"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Antoni Torres, MD, PhD",
+            "OverallOfficialAffiliation": "Hospital Clinic of Barcelona",
+            "OverallOfficialRole": "Study Chair"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Hospital de Bellvitge",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Hospitalet de Llobregat",
+            "LocationState": "Barcelona",
+            "LocationZip": "08907",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Rafael Mañez, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+34932607646",
+                  "LocationContactEMail": "rmanez@bellvitgehospital.cat"
+                },
+                {
+                  "LocationContactName": "Rafael Mañez, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Victor Daniel Gumucio, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Gabriel Moreno Gonzalez, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Gemma Via, MD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Mútua de Terrassa",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Terrassa",
+            "LocationState": "Barcelona",
+            "LocationZip": "08221",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Josep Trenado, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+34937365050",
+                  "LocationContactPhoneExt": "18050",
+                  "LocationContactEMail": "jtrenado@mutuaterrassa.es"
+                },
+                {
+                  "LocationContactName": "Josep Trenado, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hospital del Mar",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Barcelona",
+            "LocationZip": "08003",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Judith Marin-Corral, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+34 932483000",
+                  "LocationContactEMail": "jmarincorral@gmail.com"
+                },
+                {
+                  "LocationContactName": "Judith Marin-Corral, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Ramon Adalia, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hospital Vall d'Hebron",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Barcelona",
+            "LocationZip": "08035",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Ricard Ferrer, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+34 932746209",
+                  "LocationContactEMail": "r.ferrer@vhebron.net"
+                },
+                {
+                  "LocationContactName": "Ricard Ferrer, MD. PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Hospital Clínic de Barcelona",
+            "LocationStatus": "Not yet recruiting",
+            "LocationCity": "Barcelona",
+            "LocationZip": "08036",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Antoni torres, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+34 932275549",
+                  "LocationContactEMail": "ATORRES@clinic.cat"
+                },
+                {
+                  "LocationContactName": "Antoni Torres, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Pedro Castro, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Blood and Tissue Bank of Catalonia",
+            "SeeAlsoLinkURL": "http://www.bancsang.net"
+          },
+          {
+            "SeeAlsoLinkLabel": "Hospital Clínic de Barcelona",
+            "SeeAlsoLinkURL": "http://www.clinicbarcelona.org"
+          },
+          {
+            "SeeAlsoLinkLabel": "Hospital Vall d'Hebron",
+            "SeeAlsoLinkURL": "http://www.vallhebron.com"
+          },
+          {
+            "SeeAlsoLinkLabel": "Hospital del Mar",
+            "SeeAlsoLinkURL": "http://www.parcdesalutmar.cat"
+          },
+          {
+            "SeeAlsoLinkLabel": "Mútua de Terrassa",
+            "SeeAlsoLinkURL": "http://www.mutuaterrassa.com"
+          },
+          {
+            "SeeAlsoLinkLabel": "Hospital de Bellvitge",
+            "SeeAlsoLinkURL": "http://bellvitgehospital.cat"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000012128",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000012127",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome, Newborn"
+          },
+          {
+            "ConditionMeshId": "D000055371",
+            "ConditionMeshTerm": "Acute Lung Injury"
+          },
+          {
+            "ConditionMeshId": "D000013577",
+            "ConditionMeshTerm": "Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004194",
+            "ConditionAncestorTerm": "Disease"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000011024",
+            "ConditionAncestorTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000011014",
+            "ConditionAncestorTerm": "Pneumonia"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007235",
+            "ConditionAncestorTerm": "Infant, Premature, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007232",
+            "ConditionAncestorTerm": "Infant, Newborn, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000055370",
+            "ConditionAncestorTerm": "Lung Injury"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafAsFound": "Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M27297",
+            "ConditionBrowseLeafName": "Acute Lung Injury",
+            "ConditionBrowseLeafAsFound": "Adult Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11459",
+            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27296",
+            "ConditionBrowseLeafName": "Lung Injury",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9431",
+            "ConditionBrowseLeafName": "Infant, Premature, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9428",
+            "ConditionBrowseLeafName": "Infant, Newborn, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC26",
+            "ConditionBrowseBranchName": "Wounds and Injuries"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

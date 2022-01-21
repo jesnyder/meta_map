@@ -1,0 +1,420 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04603326",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "ECV-004"
+      },
+      "Organization": {
+        "OrgFullName": "Michael J. Fox Foundation for Parkinson's Research",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "FoxBioNet: ECV (Extracellular Vesicle) 004",
+      "OfficialTitle": "FoxBioNet: ECV (Extracellular Vesicle) 004"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 6, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 23, 2020",
+      "StudyFirstSubmitQCDate": "October 23, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 26, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 31, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 8, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Connie Marras",
+        "ResponsiblePartyInvestigatorTitle": "Associate Professor at University Health Network, University of Toronto",
+        "ResponsiblePartyInvestigatorAffiliation": "University Health Network, Toronto"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Michael J. Fox Foundation for Parkinson's Research",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Indiana University",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "University of Rochester",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "University Health Network, Toronto",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The goal of this study is to identify reliable markers of LRRK2 activity in human CSF.",
+      "DetailedDescription": "Specific aims of this project are:\n\nPrimary Objectives:\n\nTo evaluate each assay performance for its ability to detect LRRK2, its activity and/or the detection and activity of the pathways it impacts using a variety of different approaches (quantitative western blot, immunoassays and LC-MS). Assay performance will be assessed and those demonstrating high sensitivity and consistency will be considered for further development.\n\nSecondary Objectives:\n\nTo assess the ability of the assay or a combination of assays to differentiate pathogenic LRRK2 variant manifesting and non-manifesting carriers, idiopathic PD and healthy non-carriers."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Parkinson Disease"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Parkinson's Disease",
+          "Biomarker",
+          "LRRK2",
+          "CSF"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Control"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Cross-Sectional"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "Cerebro-Spinal Fluids Immune Cell Collection from Whole Blood"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "140",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Non-manifesting LRRK2 mutation carriers",
+            "ArmGroupDescription": "Patients must have confirmed LRRK2 G2019S mutation Age 30 years or older at date of informed consent.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Lumbar Puncture"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "LRRK2 Parkinson Disease (PD) Participants:",
+            "ArmGroupDescription": "Patients must have confirmed LRRK2 G2019S mutation Patients must meet the MDS criteria for Parkinson's disease Disease duration: any Age 30 years or older at time of PD diagnosis.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Lumbar Puncture"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Idiopathic PD (iPD) Particpants:",
+            "ArmGroupDescription": "Patients must meet the MDS criteria for Parkinson's disease. Disease duration: any Age 30 years or older at time of PD diagnosis.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Lumbar Puncture"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Control (C) Participants:",
+            "ArmGroupDescription": "Age 30 years or older at date of informed consent.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: Lumbar Puncture"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "Lumbar Puncture",
+            "InterventionDescription": "Lumbar Puncture for collection of Cerebrospinal Fluids",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Control (C) Participants:",
+                "Idiopathic PD (iPD) Particpants:",
+                "LRRK2 Parkinson Disease (PD) Participants:",
+                "Non-manifesting LRRK2 mutation carriers"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Whole Blood Collection"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Assay Evaluation",
+            "PrimaryOutcomeDescription": "Evaluate each assay performance for ability to detect LRRK2, its activity and/or the detection and activity of the pathways it impacts using a variety of different approaches (quantitative western blot, immunoassays and LC-MS).",
+            "PrimaryOutcomeTimeFrame": "1 year"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Non-manifesting LRRK2 mutation carriers\n\nInclusion:\n\nAbility to provide informed consent\nConfirmed LRRK2 G2019S mutation\nAge 30 years or older at date of informed consent.\n\nExclusion:\n\nInability to provide informed consent\nKnown GBA mutation carrier\nParticipation in a blinded clinical trial of any kind or an unblinded trial of an investigational product that is not currently approved for use in humans. Participants that have had a 6 - month washout period between ending participation in a clinical trial with an investigational agent and enrollment into the ECV-004 study are eligible.\nThe presence of rest tremor, bradykinesia or rigidity.\nThe presence of any other neurological sign that in the opinion of the site investigator raises suspicion for an atypical parkinsonian syndrome (e.g. supranuclear gaze palsy)\nTreatment for cancer in the last 5 years or cancer patient receiving immunotherapy or targeted therapy. Individuals with cancers that have not been treated with systemic chemotherapy, immunotherapy, targeted therapies or radiation therapy are eligible to enroll in the study.\nDiagnosis of an autoimmune disorder\nCurrent treatment with anticoagulants that might preclude safe completion of the lumbar puncture and that cannot be safely paused in the opinion of the site investigator.\nAny condition that, in the investigator's opinion, precludes the safe performance of routine lumbar puncture, such as prohibitive lumbar spinal disease, bleeding diathesis, or clinically significant coagulopathy or thrombocytopenia.\nDiagnosis of dementia\nPregnant females, if fluoroscopy is needed to obtain the spinal fluid sample\n\nLRRK2 Parkinson Disease (PD) Participants:\n\nInclusion:\n\nAbility to provide informed consent\nConfirmed LRRK2 G2019S mutation\nMeet the MDS criteria for Parkinson's disease\nDisease duration: any\nAge 30 years or older at time of PD diagnosis.\n\nExclusion:\n\nKnown GBA mutation carrier\nParticipation in a blinded clinical trial of any kind or an unblinded trial of an investigational product that is not currently approved for use in humans. Participants that have had a 6 - month washout period between ending participation in a clinical trial with an investigational agent and enrollment into the ECV-004 study are eligible.\nTreatment for cancer in the last 5 years or cancer patient receiving immunotherapy or targeted therapy. Individuals with cancers that have not been treated with systemic chemotherapy, immunotherapy, targeted therapies or radiation therapy are eligible to enroll in the study.\nDiagnosis of an autoimmune disorder\nCurrent treatment with anticoagulants that might preclude safe completion of the lumbar puncture and that cannot be safely paused in the opinion of the site investigator.\nAny condition that, in the investigator's opinion, precludes the safe performance of routine lumbar puncture, such as prohibitive lumbar spinal disease, bleeding diathesis, or clinically significant coagulopathy or thrombocytopenia.\nDiagnosis of dementia\nPregnant females, if fluoroscopy is needed to obtain the spinal fluid sample\n\nIdiopathic PD (iPD) Particpants:\n\nInclusion:\n\nAbility to provide informed consent\nMeet the MDS criteria for Parkinson's disease.\nDisease duration: any\nAge 30 years or older at time of PD diagnosis.\n\nExclusion:\n\nKnown LRRK2 G2019S and/or GBA mutation carrier\nParticipation in a blinded clinical trial of any kind or an unblinded trial of an investigational product that is not currently approved for use in humans. Participants that have had a 6 - month washout period between ending participation in a clinical trial with an investigational agent and enrollment into the ECV-004 study are eligible.\nTreatment for cancer in the last 5 years or cancer patient receiving immunotherapy or targeted therapy. Individuals with cancers that have not been treated with systemic chemotherapy, immunotherapy, targeted therapies or radiation therapy are eligible to enroll in the study.\nDiagnosis of an autoimmune disorder\nCurrent treatment with anticoagulants that might preclude safe completion of the lumbar puncture and that cannot be safely paused in the opinion of the site investigator.\nAny condition that, in the investigator's opinion, precludes the safe performance of routine lumbar puncture, such as prohibitive lumbar spinal disease, bleeding diathesis, or clinically significant coagulopathy or thrombocytopenia.\nDiagnosis of dementia\nPregnant females, if fluoroscopy is needed to obtain the spinal fluid sample\n\nControl (C) Participants:\n\nInclusion:\n\nAbility to provide informed consent\nAge 30 years or older at date of informed consent.\n\nExclusion:\n\nKnown GBA mutation carrier\nIn the absence of prior genetic testing for LRRK2 G2019S mutations: Family history of Parkinson's disease is an exclusion criterion. If genetic testing for LRRK2 G2019S mutations has been performed and is negative, individuals with a family history of PD may be enrolled.\nThe presence of rest tremor, bradykinesia or rigidity.\nThe presence of any other neurological sign that in the opinion of the site investigator raises suspicion for an atypical parkinsonian syndrome (e.g. supranuclear gaze palsy)\nTreatment for cancer in the last 5 years or cancer patient receiving immunotherapy or targeted therapy. Individuals with cancers that have not been treated with systemic chemotherapy, immunotherapy, targeted therapies or radiation therapy are eligible to enroll in the study.\nDiagnosis of an autoimmune disorder.\nCurrent treatment with anticoagulants that might preclude safe completion of the lumbar puncture and that cannot be safely paused in the opinion of the site investigator.\nAny condition that, in the investigator's opinion, precludes the safe performance of routine lumbar puncture, such as prohibitive lumbar spinal disease, bleeding diathesis, or clinically significant coagulopathy or thrombocytopenia.\nDiagnosis of dementia\nPregnant females, if fluoroscopy is needed to obtain the spinal fluid sample",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "30 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Approximately 140 participants will be enrolled to participate in this study, with a goal of enrolling 30 non-manifesting LRRK2 carriers, 30 LRRK2 Parkinson's Disease (PD), 40 idiopathic PD, and 40 healthy controls.",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Northwestern University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Chicago",
+            "LocationState": "Illinois",
+            "LocationZip": "60611",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Karen Williams",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "312-503-5645",
+                  "LocationContactEMail": "k-williams8@northwestern.edu"
+                },
+                {
+                  "LocationContactName": "Tanya Simuni, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "The Trustees of Columbia University",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10032",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Alexander Haimovich",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "212-305-4233",
+                  "LocationContactEMail": "Ah3912@cumc.columbia.edu"
+                },
+                {
+                  "LocationContactName": "Roy Alcalay, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "Oregon Health Sciences Univeristy",
+            "LocationStatus": "Active, not recruiting",
+            "LocationCity": "Portland",
+            "LocationState": "Oregon",
+            "LocationZip": "97239",
+            "LocationCountry": "United States"
+          },
+          {
+            "LocationFacility": "The Trustees of the University of Pennsylvania",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Philadelphia",
+            "LocationState": "Pennsylvania",
+            "LocationZip": "19107",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Whitney Hartstone, DO, MPH",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "215-829-6500",
+                  "LocationContactEMail": "Whitney.Hartstone@Pennmedicine.upenn.edu"
+                },
+                {
+                  "LocationContactName": "Thomas Tropea, DO, MPH, MSTR",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010300",
+            "ConditionMeshTerm": "Parkinson Disease"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000020734",
+            "ConditionAncestorTerm": "Parkinsonian Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001480",
+            "ConditionAncestorTerm": "Basal Ganglia Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009069",
+            "ConditionAncestorTerm": "Movement Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000080874",
+            "ConditionAncestorTerm": "Synucleinopathies"
+          },
+          {
+            "ConditionAncestorId": "D000019636",
+            "ConditionAncestorTerm": "Neurodegenerative Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12365",
+            "ConditionBrowseLeafName": "Parkinson Disease",
+            "ConditionBrowseLeafAsFound": "Parkinson's Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M21647",
+            "ConditionBrowseLeafName": "Parkinsonian Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M24756",
+            "ConditionBrowseLeafName": "Ganglion Cysts",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15510",
+            "ConditionBrowseLeafName": "Synovial Cyst",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3926",
+            "ConditionBrowseLeafName": "Basal Ganglia Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11181",
+            "ConditionBrowseLeafName": "Movement Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2217",
+            "ConditionBrowseLeafName": "Synucleinopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20711",
+            "ConditionBrowseLeafName": "Neurodegenerative Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

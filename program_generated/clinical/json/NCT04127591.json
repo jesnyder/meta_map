@@ -1,0 +1,306 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04127591",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "XH-19-010"
+      },
+      "Organization": {
+        "OrgFullName": "Xinhua Hospital, Shanghai Jiao Tong University School of Medicine",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Differential Expression and Analysis of Peripheral Plasma Exosome miRNA in Patients With Myocardial Infarction",
+      "OfficialTitle": "Differential Expression and Analysis of Peripheral Plasma Exosome miRNA in Patients With Myocardial Infarction"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2019",
+      "OverallStatus": "Unknown status",
+      "LastKnownStatus": "Not yet recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 20, 2019",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 30, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 30, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 14, 2019",
+      "StudyFirstSubmitQCDate": "October 14, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 15, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 14, 2019",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 15, 2019",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Bin He",
+        "ResponsiblePartyInvestigatorTitle": "M.D./Ph.D.",
+        "ResponsiblePartyInvestigatorAffiliation": "Xinhua Hospital, Shanghai Jiao Tong University School of Medicine"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Xinhua Hospital, Shanghai Jiao Tong University School of Medicine",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The aim of this study is to determine the miRNA expression profile in peripheral blood exosomes of patients with myocardial infarction and to investigate its relationship with myocardial infarction.",
+      "DetailedDescription": "Collect exosomes in peripheral blood of patients with myocardial infarction, compare the expression of miRNA with healthy volunteers, find out the miRNAs with significant differences, and explore its relationship with the development of myocardial infarction."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Myocardial Infarction"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Only"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "10",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "myocardial infarction group",
+            "ArmGroupDescription": "Patients admitted with the diagnosis of myocardial infarction.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: exosome"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Blank control group",
+            "ArmGroupDescription": "Patients admitted without the diagnosis of myocardial infarction.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: exosome"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Other",
+            "InterventionName": "exosome",
+            "InterventionDescription": "Collect exosomes in peripheral blood of patients and extract miRNAs from them.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Blank control group",
+                "myocardial infarction group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Determination of differential expression of miRNA by second-generation sequencing technology",
+            "PrimaryOutcomeTimeFrame": "Day 7"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Diagnostic value of the differential microRNAs evaluate by qPCR in patients of myocardial infarction",
+            "SecondaryOutcomeTimeFrame": "Day 7"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nAge > 18 years ST elevation by ECG diagnostic of STEMI Evidency of coronary occlusion in coronariography Signed informed consent\n\nExclusion Criteria:\n\nPatients who will undergo immediate PCI Pregnant and lactating women Patients with mental disorders Patients are using other experimental drugs; Refusal to provide informed.",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "100 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Patients of myocardial infarction",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Bin He",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "021-25077828",
+            "CentralContactEMail": "hebinicu@139.com"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Ethics Committee of Xinhua Hospital",
+            "LocationCity": "Shanghai",
+            "LocationState": "Shanghai",
+            "LocationZip": "200092",
+            "LocationCountry": "China"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000009203",
+            "ConditionMeshTerm": "Myocardial Infarction"
+          },
+          {
+            "ConditionMeshId": "D000007238",
+            "ConditionMeshTerm": "Infarction"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007511",
+            "ConditionAncestorTerm": "Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000009336",
+            "ConditionAncestorTerm": "Necrosis"
+          },
+          {
+            "ConditionAncestorId": "D000017202",
+            "ConditionAncestorTerm": "Myocardial Ischemia"
+          },
+          {
+            "ConditionAncestorId": "D000006331",
+            "ConditionAncestorTerm": "Heart Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002318",
+            "ConditionAncestorTerm": "Cardiovascular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014652",
+            "ConditionAncestorTerm": "Vascular Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M11307",
+            "ConditionBrowseLeafName": "Myocardial Infarction",
+            "ConditionBrowseLeafAsFound": "Myocardial Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9434",
+            "ConditionBrowseLeafName": "Infarction",
+            "ConditionBrowseLeafAsFound": "Infarction",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9695",
+            "ConditionBrowseLeafName": "Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11436",
+            "ConditionBrowseLeafName": "Necrosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5698",
+            "ConditionBrowseLeafName": "Coronary Artery Disease",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18658",
+            "ConditionBrowseLeafName": "Myocardial Ischemia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8571",
+            "ConditionBrowseLeafName": "Heart Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16552",
+            "ConditionBrowseLeafName": "Vascular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC14",
+            "ConditionBrowseBranchName": "Heart and Blood Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

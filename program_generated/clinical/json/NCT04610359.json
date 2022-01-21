@@ -1,0 +1,315 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04610359",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2019-1451"
+      },
+      "Organization": {
+        "OrgFullName": "Asan Medical Center",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Safety of Human Embryonic Stem Cell (hESC)-Derived Mesenchymal Stem Cells in Interstitial Cystitis",
+      "OfficialTitle": "Safety of Human Embryonic Stem Cell (hESC)-Derived Mesenchymal Stem Cells in Interstitial Cystitis; Open-labelled, Single Center, Phase 1 Study"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 20, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 19, 2020",
+      "StudyFirstSubmitQCDate": "October 26, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 30, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 26, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 30, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Myung-Soo Choo",
+        "ResponsiblePartyInvestigatorTitle": "Professor",
+        "ResponsiblePartyInvestigatorAffiliation": "Asan Medical Center"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Asan Medical Center",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "MIRAE CELL BIO",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study primarily aimed to evaluate the safety of human embryonic stem cell (hESC)-derived mesenchyma stem cells in interstitial cystitis."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Interstitial Cystitis",
+          "Stem Cell Transplant",
+          "Mesenchymal Stem Cell"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "3",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Stem cell group",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Interstitial cystitis patients who receive submucosal injection of hESC-MSCs",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: MR-MC-01"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "MR-MC-01",
+            "InterventionDescription": "Submucosal injection of 2.0 x 10,000,000/5ml (1mL * 5 sites)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Stem cell group"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Incidence of Treatment-Emergent Adverse Events (TEAEs)",
+            "PrimaryOutcomeDescription": "Any TEAEs reported by patients or assessed by laboratory and image work up",
+            "PrimaryOutcomeTimeFrame": "One month after stem cell injection"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of Treatment-Emergent Adverse Events",
+            "PrimaryOutcomeDescription": "Any TEAEs reported by patients or assessed by laboratory and image work up",
+            "PrimaryOutcomeTimeFrame": "Three months after stem cell injection"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of Treatment-Emergent Adverse Events",
+            "PrimaryOutcomeDescription": "Any TEAEs reported by patients or assessed by laboratory and image work up",
+            "PrimaryOutcomeTimeFrame": "Six months after stem cell injection"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of Treatment-Emergent Adverse Events",
+            "PrimaryOutcomeDescription": "Any TEAEs reported by patients or assessed by laboratory and image work up",
+            "PrimaryOutcomeTimeFrame": "Nine months after stem cell injection"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Incidence of Treatment-Emergent Adverse Events",
+            "PrimaryOutcomeDescription": "Any TEAEs reported by patients or assessed by laboratory and image work up",
+            "PrimaryOutcomeTimeFrame": "Twelve months after stem cell injection"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Changes of pain after stem cell injection",
+            "SecondaryOutcomeDescription": "Assessed by VAS (Visual Analog Scale)",
+            "SecondaryOutcomeTimeFrame": "Changes of Pain from baseline, 1, 3, 6, and 12 months after stem cell injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes of PUF (Pelvic Pain and Urgency/Frequency) scores after stem cell injection",
+            "SecondaryOutcomeDescription": "Assessed by PUF questionnaire",
+            "SecondaryOutcomeTimeFrame": "Changes of PUF score from baseline, 1, 3, 6, 12 months after stem cell injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes of ICQ (O'Leary-Sant interstitial cystitis symptom index/problem index) scores after stem cell injection",
+            "SecondaryOutcomeDescription": "Assessed by ICQ questionnaire",
+            "SecondaryOutcomeTimeFrame": "Changes of ICQ scores from baseline, 1, 3, 6, 12 months after stem cell injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes of voiding profiles after stem cell injection",
+            "SecondaryOutcomeDescription": "Assessed by voiding diary (frequency, nocturia, urgency, urge incontinence and mean voided volume)",
+            "SecondaryOutcomeTimeFrame": "Changes of voiding profiles from baseline, 1, 3, 6, 12 months after stem cell injection"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Changes of Hunner lesion after stem cell injection",
+            "SecondaryOutcomeDescription": "Assessed by cystoscopy (number, sized, location)",
+            "SecondaryOutcomeTimeFrame": "Changes of Hunner lesion from baseline, 1, 3, 6, 12 months after stem cell injection"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nFemale, aged >= 20 years\nInterstitial cystitis symptom duration more than 6 months\nPresence of Hunner lesions in outpatient cystoscopy (within one months of screening), with size < 2cm, number <= 2\nVAS (Visual pain analogue scale) >=4 in screening symptom questionnaire\n\nThose who are suitable for stem cell transplantation\n\nnormal laboratory findings (hematological, chemical)\nno history of drug abuse\nnegative HIV, HBV, HCV serology tests\nNo history of malignancies\nwilling to contraception\nno plan for blood, tissue donation\nWho can understand consent form and willing to participate in the study\n\nExclusion Criteria:\n\nrecurrent urinary tract infection ( more than twice per past six months or more than three times per past one year) or active urinary tract infection\nany active or past history of tuberculosis or systemic infection\nAnatomical abnormality of lower urinary tract\n\nHistory of following procedures\n\nstem cell transplantation In past 6 months,\ntransurethral resection/fulguration of Hunner lesion or hydrodistension of bladder\nintravesical instillation of ialuril\nhysterectomy, anti-incontinence surgery, transvaginal surgery, pelvic organ prolapse repair, vagina delivery or C/sec\nany neurological conditions including cerebrovascular disease, multiple sclerosis, spinal cord injury, Parkinson disease\nindwelling Foley catheter or intermittent catheterization\nany plans for electrostimulation, neuromodulation, physiotherapy or operation for other organs\nany history of malignancy\nhistory of myocardiac infarction in past 12 months\nUncontrolled diabetes (HbAlc >= 7.2%) or diabetes requiring insulin injection\nUncontrolled hypertension (systolic >170mmHg or <90mmHg, diastolic >100mmHg or <50mmHg)\nImmunodeficiency\nPositive HBV, HCV, HIV, syphilis\npregnant or on breast feeding\nany history of drug, alcohol abuse. mis-use\nAny significant signs, symptoms or previous diagnosis of psychological disorder\nImpossible to follow scheduled visits\nCurrently participating or participated in other clinical studies within past 3 months\nAllergic to protein products (serum), antibiotics (gentamicin), DMSO (Dimethyl sulfoxide)\nAny circumstances that is not suitable for participating or continuing clinical study or participants who clinical investigator considers not suitable for participation",
+      "HealthyVolunteers": "No",
+      "Gender": "Female",
+      "MinimumAge": "20 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Myung-Soo Choo, M.D, Ph.D",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+82230103735",
+            "CentralContactEMail": "mschoo@amc.seoul.kr"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Myung-Soo Choo, M.D, Ph.D",
+            "OverallOfficialAffiliation": "Professor, Asan Medical Center",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Department of Urology, Asan Medical Center",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seoul",
+            "LocationZip": "138-736",
+            "LocationCountry": "Korea, Republic of",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Myung-Soo Choo, professor",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "82-2-3010-3735",
+                  "LocationContactEMail": "mschoo@amc.seoul.kr"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003556",
+            "ConditionMeshTerm": "Cystitis"
+          },
+          {
+            "ConditionMeshId": "D000018856",
+            "ConditionMeshTerm": "Cystitis, Interstitial"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001745",
+            "ConditionAncestorTerm": "Urinary Bladder Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000014570",
+            "ConditionAncestorTerm": "Urologic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M5913",
+            "ConditionBrowseLeafName": "Cystitis",
+            "ConditionBrowseLeafAsFound": "Cystitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M20056",
+            "ConditionBrowseLeafName": "Cystitis, Interstitial",
+            "ConditionBrowseLeafAsFound": "Interstitial Cystitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4178",
+            "ConditionBrowseLeafName": "Urinary Bladder Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16471",
+            "ConditionBrowseLeafName": "Urologic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

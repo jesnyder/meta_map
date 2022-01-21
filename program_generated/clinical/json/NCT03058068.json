@@ -1,0 +1,468 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03058068",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "20160140"
+      },
+      "Organization": {
+        "OrgFullName": "University of Miami",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Human MesenchymAl Stem Cells Infusion in Patients With Cystic Fibrosis",
+      "OfficialTitle": "A Phase I, Randomized and Placebo-controlled Trial to Evaluate the Safety, Tolerability, and Potential Efficacy of Allogeneic Human MesenchymAl Stem Cells Infusion in Patients With Cystic Fibrosis - HAPI",
+      "Acronym": "HAPI"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2020",
+      "OverallStatus": "Withdrawn",
+      "WhyStopped": "PI left the institution",
+      "StartDateStruct": {
+        "StartDate": "December 2020",
+        "StartDateType": "Anticipated"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2027",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2028",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "February 6, 2017",
+      "StudyFirstSubmitQCDate": "February 15, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "February 20, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "May 11, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "May 13, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor-Investigator",
+        "ResponsiblePartyInvestigatorFullName": "Joshua M Hare",
+        "ResponsiblePartyInvestigatorTitle": "Sponsor",
+        "ResponsiblePartyInvestigatorAffiliation": "University of Miami"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Joshua M Hare",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "A Safety Run-In will be followed by a Double-Blinded Randomized Phase. All subjects shall meet the inclusion/exclusion criteria, and will be evaluated prior to the scheduled infusion to establish baseline.\n\nThere will be 3 subjects in the safety run-in phase and 15 subjects in the double-blinded phase.",
+      "DetailedDescription": "Primary objective is to demonstrate the safety of Mesenchymal Stem Cells (MSCs) intravenously administered to subjects with cystic fibrosis.\n\nSecondary Objective is to explore if MSCs can improve the symptoms of cystic fibrosis, including lung function, the rate of pulmonary exacerbation, systemic and local inflammation and symptom-related quality of life.\n\nThe Safety Run-In will be performed to evaluate the safety of MSC infusion into subjects with cystic fibrosis. 3 subjects will participate and they will receive a single administration of allogeneic MSCs given through intravenous infusion.\n\nIn the randomized phase the subjects will be randomized at a ratio of 1:1:1 into 3 cohorts to receive infusions. There will be a total of 15 subjects in 3 cohorts.\n\nThe total duration for each subject after infusion is 12 months, plus up to an additional 2 months for the Screening and Baseline Visits. Approximately 9 visits in total."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Cystic Fibrosis"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignInterventionModelDescription": "Safety run-in phase will have 3 subjects with 2 treatment groups\nRandomized phase will have 15 subjects with 3 treatment groups",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Double",
+          "DesignMaskingDescription": "Masking will apply to the randomized phase.",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "0",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Safety Run-In: Treatment 1 Allo-hMSCs",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Treatment 1: 1 subject will receive a single administration of allogeneic MSCs: 20 x 10^6 MSCs (20 million) cells delivered via peripheral intravenous infusion.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Allo-hMSCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Safety Run-In: Treatment 2 Allo-hMSCs",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "2 subjects will receive a single administration of allogeneic MSCs: 100 x 10^6 MSCs (100 million) cells delivered via peripheral intravenous infusion.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Allo-hMSCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Randomized: Cohort 1 Allo-hMSCs",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Cohort 1 (5 subjects): 20 million MSCs A single peripheral intravenous infusion of 20 x 10^6 MSCs (20 million cells) will be administered to each subject.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Allo-hMSCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Randomized: Cohort 2 Allo-hMSCs",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Cohort 2 (5 subjects): 100 million MSCs A single peripheral intravenous infusion of 100 x 10^6 MSCs (100 million cells) will be administered to each subject.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Allo-hMSCs"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Randomized: Cohort 3 Allo-hMSCs",
+            "ArmGroupType": "Placebo Comparator",
+            "ArmGroupDescription": "Cohort 3 (5 subjects): Placebo A single peripheral intravenous infusion of placebo (PlasmaLyte A containing 1% HSA) will be administered to each subject.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Placebo"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Allo-hMSCs",
+            "InterventionDescription": "1 peripheral intravenous infusion of allogeneic human mesenchymal stem cells (hMSCs)",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Randomized: Cohort 1 Allo-hMSCs",
+                "Randomized: Cohort 2 Allo-hMSCs",
+                "Safety Run-In: Treatment 1 Allo-hMSCs",
+                "Safety Run-In: Treatment 2 Allo-hMSCs"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Stem cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Placebo",
+            "InterventionDescription": "1 peripheral intravenous infusion",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Randomized: Cohort 3 Allo-hMSCs"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Incidence of any treatment-emergent serious adverse event (TE-SAE)",
+            "PrimaryOutcomeDescription": "Incidence of any treatment-emergent serious adverse event (TE-SAE), defined as one or more of the following untoward medical occurrences happening within the first 30 days after infusion.",
+            "PrimaryOutcomeTimeFrame": "30 days after infusion"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Change in Symptoms for pulmonary function test",
+            "SecondaryOutcomeDescription": "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\n• Resting pulmonary function tests (PFTs) assessed via spirometry: forced vital capacity (FVC), forced expiratory volume in 1 second (FEV1), FEV1 to FVC ratio, and forced expiratory flow between 25 - 75% of VC (FEF25-75) measured in adherence to American Thoracic Society/European Respiratory Society guidelines.",
+            "SecondaryOutcomeTimeFrame": "baseline to 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Symptoms 6-minute walk test",
+            "SecondaryOutcomeDescription": "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\n• 6-minute walk test (6MWT).",
+            "SecondaryOutcomeTimeFrame": "baseline to 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Symptoms of body mass index",
+            "SecondaryOutcomeDescription": "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\n• Changes in body mass index",
+            "SecondaryOutcomeTimeFrame": "baseline to 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Rate of pulmonary exacerbations",
+            "SecondaryOutcomeDescription": "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\nIncidence of investigator-defined pulmonary exacerbation: events meeting the modified Fuchs' criteria (at least 4 of 12 signs and symptoms with or without intravenous or oral antibiotic treatment).\nSemi-quantitative sputum cultures (change in colony forming units)\nProcalcitonin serum levels",
+            "SecondaryOutcomeTimeFrame": "baseline to 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Local and Systemic Inflammation in inflammatory markers",
+            "SecondaryOutcomeDescription": "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\n• Serum Inflammatory markers (CBC with differential, TNFα, C-reactive protein, Interleukin-1, Interleukin-6, D-dimer, Fibrinogen).",
+            "SecondaryOutcomeTimeFrame": "baseline to 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Local and Systemic Inflammation for sputum inflammatory markers",
+            "SecondaryOutcomeDescription": "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\n• Sputum inflammatory markers",
+            "SecondaryOutcomeTimeFrame": "baseline to 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Local and Systemic Inflammation related to quality of life",
+            "SecondaryOutcomeDescription": "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\n• Symptom Related Quality of Life",
+            "SecondaryOutcomeTimeFrame": "baseline to 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Local and Systemic Inflammation via the short form-36",
+            "SecondaryOutcomeDescription": "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of:\n\n• Physical activity via the short form-36 questionnaires.",
+            "SecondaryOutcomeTimeFrame": "baseline to 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Local and Systemic Inflammation via the PHQ-9 Questionnaire",
+            "SecondaryOutcomeDescription": "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of: • Subject quality of life (QOL) assessments via:\n\n- Patient Health Questionnaire-9 (PHQ-9) for depression screening",
+            "SecondaryOutcomeTimeFrame": "baseline to 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Local and Systemic Inflammation via the CFQ-R Questionnaire",
+            "SecondaryOutcomeDescription": "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of: • Subject quality of life (QOL) assessments via:\n\n- Cystic Fibrosis Questionnaire-Revised (CFQ-R)",
+            "SecondaryOutcomeTimeFrame": "baseline to 12 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Change in Local and Systemic Inflammation via the GAD-7 Questionnaire",
+            "SecondaryOutcomeDescription": "examining post-infusion changes from baseline between the MSC and Placebo Cohorts in terms of: • Subject quality of life (QOL) assessments via:\n\n- Generalized anxiety disorder 7 (GAD-7)",
+            "SecondaryOutcomeTimeFrame": "baseline to 12 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nProvide written informed consent.\nBe 20 - 45 years of age at the time of signing the Informed Consent Form.\nHave a confirmed diagnosis of cystic fibrosis as defined by two or more clinical features of cystic fibrosis (CF), including by the 1997 CF\n\nConsensus criteria (NIH Consensus Statement, 1997):\n\nOne or more accompanying clinical features consistent with Cystic fibrosis, and at least one of the following:\n\nDocumented sweat chloride test ≥ 60 mEq/L by quantitative pilocarpine iontophoresis or,\nAbnormal nasal transepithelial potential difference (NPD) test or,\n\nTwo well-characterized, disease-causing genetic mutations in the CF transmembrane conductance regulator (CFTR) gene on different alleles\n\nFEV1 at screening visit between 25% and 80% of predicted values for age, sex, and height taken 4 hours or more after last dose of short-acting bronchodilators (β-agonists and/or anticholinergics). The predicted values will be calculated according to National Health and Nutrition Examination Survey (NHANES).\nTotal bilirubin below 1.9 mg/dL.\nNon-smoker for the past 60 days (2 months) prior to screening Visit 1 and less than a 5 pack-year lifetime history of smoking\nStable regimen of CF medications and chest physiotherapy for the 28 days prior to screening, and no anticipated need for changes during the study period for the immediate future, at least 4 weeks post infusion.\nClinically stable for at least 4 weeks with no evidence of new or acute respiratory symptoms, excluding symptoms of allergic (perennial or seasonal) or non-allergic rhinitis.\n\nPatients should be on a stable medication regimen as determined by their Cystic fibrosis physician. Allowable medications include:\n\nInhaled medications (bronchodilators, steroids, pulmozyme, hypertonic saline and inhaled antibiotics to suppress chronic infections including tobramycin, amikacin, colistin, aztreonam lysine)\nChronic azithromycin use (three times weekly)\nVitamin supplementation\nPancreatic enzymes\nCFTR potentiator and/or corrector (ivacaftor and lumacaftor)\n\nExclusion Criteria:\n\nAll subjects enrolled in this trial must not:\n\nBe unable to perform any of the assessments required for endpoint analysis.\nUse systemic corticosteroids (≥5 mg of prednisone per day).\nHave been on intravenous or oral antibiotics within the last 4 weeks\nHave a clinical history of malignancy within 5 years (i.e., subjects with prior malignancy must be disease free for 5 years), except curatively- treated basal cell carcinoma, squamous cell carcinoma, melanoma in situ or cervical carcinoma, if recurrence occurs.\nHave congestive heart failure (NYHA Class III or IV).\nHave severe pulmonary hypertension with a right ventricle systolic pressure (RVSP) >50 mmHg as estimated by echocardiography\nHave chronic kidney disease Stage 4 or 5.\nHave a non-pulmonary condition that limits lifespan to ≤1 year.\nHave clinically significant autoimmune disease (e.g., rheumatoid arthritis, systemic lupus erythematosus (SLE), or inflammatory bowel disease).\nHave HIV, AIDS, or other immunodeficiency.\nTest positive for hepatitis B HsAg, viremic hepatitis C, HIV1, HIV2, HTLV-I, HTLV-II, syphilis, and West Nile Virus.\nHave a resting blood oxygen saturation of <93% (measured by pulse oximetry).\nHave documented current substance and/or alcohol abuse.\nBe a current user of tobacco products.\nHave a known hypersensitivity to dimethyl sulfoxide (DMSO).\nHave had a recent (within prior 3 months) trauma or surgery.\nBe an organ transplant recipient.\nBe actively listed (or expected to be listed) for transplant of any organ other than for a lung transplant.\n\nHave any clinically important abnormal screening laboratory values, including but not limited to:\n\nhemoglobin <12.1 g/dL (females) or <13.6 g/dL (males).\nwhite blood cell count < 3000/mm3.\nplatelets < 150,000/mm3.\nInternational normalized ratio (INR) ˃ 1.5 not due to a reversible cause (i.e. Coumadin).\naspartate transaminase, alanine transaminase, or alkaline phosphatase ˃ 2 times upper limit of normal.\nHave a sitting or resting systolic blood pressure >180 mm Hg or diastolic blood pressure >110 mm Hg at Screening.\nHave any serious comorbid illness or any other condition that, in the opinion of the Investigator, may compromise the safety or compliance of the patient or preclude successful completion of the study, or that may compromise the validity of the study.\nBe a female who is pregnant, nursing, or of childbearing potential while not practicing effective contraception (female patients must undergo a blood or urine pregnancy test at screening and prior to infusion). Females who are in childbearing age must agree to practice a highly effective form of contraception throughout the study. Highly effective forms of contraception with a low failure rate include barrier methods, oral contraception or depot contraceptives (unless on Orkambi), an intrauterine device, implantable devices.\nBe currently participating in an investigational therapeutic or device trial, or have participated in an investigational therapeutic or device trial within the previous 30 days, or participate in any other clinical trial for the duration of the time that the subject actively participates in this trial.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "20 Years",
+      "MaximumAge": "45 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Matthias A Salathe, MD",
+            "OverallOfficialAffiliation": "ISCI / University of Miami / Division of Pulmonary",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Interdisciplinary stem cell institute (ISCI) at the University of Miami",
+            "SeeAlsoLinkURL": "http://isci.med.miami.edu"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022",
+      "RemovedCountryList": {
+        "RemovedCountry": [
+          "United States"
+        ]
+      }
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000003550",
+            "ConditionMeshTerm": "Cystic Fibrosis"
+          },
+          {
+            "ConditionMeshId": "D000005355",
+            "ConditionMeshTerm": "Fibrosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000010335",
+            "ConditionAncestorTerm": "Pathologic Processes"
+          },
+          {
+            "ConditionAncestorId": "D000010182",
+            "ConditionAncestorTerm": "Pancreatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000030342",
+            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+          },
+          {
+            "ConditionAncestorId": "D000007232",
+            "ConditionAncestorTerm": "Infant, Newborn, Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M5907",
+            "ConditionBrowseLeafName": "Cystic Fibrosis",
+            "ConditionBrowseLeafAsFound": "Cystic Fibrosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M7637",
+            "ConditionBrowseLeafName": "Fibrosis",
+            "ConditionBrowseLeafAsFound": "Fibrosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M12254",
+            "ConditionBrowseLeafName": "Pancreatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22839",
+            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9428",
+            "ConditionBrowseLeafName": "Infant, Newborn, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T1710",
+            "ConditionBrowseLeafName": "Cystic Fibrosis",
+            "ConditionBrowseLeafAsFound": "Cystic Fibrosis",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M85407",
+            "InterventionBrowseLeafName": "Plasma-lyte 148",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M8814",
+            "InterventionBrowseLeafName": "Altretamine",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "PhSol",
+            "InterventionBrowseBranchName": "Pharmaceutical Solutions"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          }
+        ]
+      }
+    }
+  }
+}

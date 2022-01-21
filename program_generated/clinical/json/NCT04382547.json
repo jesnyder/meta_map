@@ -1,0 +1,397 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04382547",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "IBCE_MSC2(Covid)"
+      },
+      "Organization": {
+        "OrgFullName": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Treatment of Covid-19 Associated Pneumonia With Allogenic Pooled Olfactory Mucosa-derived Mesenchymal Stem Cells",
+      "OfficialTitle": "Treatment of Covid-19 Associated Pneumonia With Allogenic Pooled Olfactory Mucosa-derived Mesenchymal Stem Cells"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 11, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 30, 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 30, 2021",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "May 8, 2020",
+      "StudyFirstSubmitQCDate": "May 8, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 11, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 20, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 23, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus",
+        "LeadSponsorClass": "OTHER_GOV"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Belarusian State Medical University",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Treatment of patients with Covid-19 associated pneumonia using intravenous injection of allogenic pooled olfactory mucosa-derived mesenchymal stem cells",
+      "DetailedDescription": "During the implementation of the project, it is planned to develop a method for the treatment of severe covid-19 associated interstitial pneumonia using allogeneic mesenchymal stem cells. The positive outlook for the effectiveness of MSCs is due to the following:\n\nknowledge of the leading role of immunopathogenetic mechanisms in the development of acute interstitial lung diseases and the pronounced immunomodulating properties of MSCs;\nhigh tropism of MSCs to lung tissue when administered intravenously;\nthe ability of MSCs to stimulate tissue regeneration and the effective use of MSCs in the treatment of acute damage to the myocardium and kidneys, which will contribute to the treatment of multiple organ failure;\npositive results of preclinical studies of the method of treatment of viral pneumonia in animals, and the first clinical studies in patients."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID",
+          "Covid-19",
+          "Coronavirus",
+          "Pneumonia",
+          "Pneumonia, Viral",
+          "Pneumonia, Interstitial",
+          "Sars-CoV2"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "pneumonia",
+          "Sars-COV2",
+          "Covid-19"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "32",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "mesenchymal stem cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients with Covid-19 associated pneumonia receiving standard treatment and allogenic pooled olfactory mucosa-derived mesenchymal stem cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Allogenic pooled olfactory mucosa-derived mesenchymal stem cells",
+                "Other: Standard treatment according to the Clinical protocols"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "control",
+            "ArmGroupType": "Active Comparator",
+            "ArmGroupDescription": "Patients with Covid-19 associated pneumonia receiving standard treatment",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Other: Standard treatment according to the Clinical protocols"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Allogenic pooled olfactory mucosa-derived mesenchymal stem cells",
+            "InterventionDescription": "Allogenic pooled olfactory mucosa-derived mesenchymal stem cells",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "mesenchymal stem cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Standard treatment according to the Clinical protocols",
+            "InterventionDescription": "Standard treatment according to the Clinical protocols",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "control",
+                "mesenchymal stem cells"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of cured patients",
+            "PrimaryOutcomeDescription": "Number of patients cured, assessed by PCR in addition to chest CT scan",
+            "PrimaryOutcomeTimeFrame": "3 weeks"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Number of patients with treatment-related adverse events",
+            "SecondaryOutcomeDescription": "MSC infusion related adverse events assessed by blood count, liver and function tests",
+            "SecondaryOutcomeTimeFrame": "3 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPCR-confirmed Covid-19 pneumonia\nrespiratory failure\n\nExclusion Criteria:\n\ndiagnosed cancer",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "70 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Andrei Y Hancharou, Dr.",
+            "OverallOfficialAffiliation": "Director, the Institute of Biophysics and Cell Engineering of NAS of Belarus",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Eduard A Dotsenko, Dr., prof.",
+            "OverallOfficialAffiliation": "Head of the chair, Belarusian State Medical University",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Natalia G Antonevich, Dr.",
+            "OverallOfficialAffiliation": "Head of the Lab of Institute of Biophysics and Cell Engineering of NAS",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus",
+            "LocationCity": "Minsk",
+            "LocationZip": "220072",
+            "LocationCountry": "Belarus"
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000086382",
+            "ConditionMeshTerm": "COVID-19"
+          },
+          {
+            "ConditionMeshId": "D000011014",
+            "ConditionMeshTerm": "Pneumonia"
+          },
+          {
+            "ConditionMeshId": "D000011024",
+            "ConditionMeshTerm": "Pneumonia, Viral"
+          },
+          {
+            "ConditionMeshId": "D000017563",
+            "ConditionMeshTerm": "Lung Diseases, Interstitial"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000018352",
+            "ConditionAncestorTerm": "Coronavirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003333",
+            "ConditionAncestorTerm": "Coronaviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000030341",
+            "ConditionAncestorTerm": "Nidovirales Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafAsFound": "COVID-19",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M13056",
+            "ConditionBrowseLeafName": "Pneumonia",
+            "ConditionBrowseLeafAsFound": "Pneumonia",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M19643",
+            "ConditionBrowseLeafName": "Coronavirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13066",
+            "ConditionBrowseLeafName": "Pneumonia, Viral",
+            "ConditionBrowseLeafAsFound": "Pneumonia, Viral",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18965",
+            "ConditionBrowseLeafName": "Lung Diseases, Interstitial",
+            "ConditionBrowseLeafAsFound": "Pneumonia, Interstitial",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5707",
+            "ConditionBrowseLeafName": "Coronaviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22838",
+            "ConditionBrowseLeafName": "Nidovirales Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    }
+  }
+}

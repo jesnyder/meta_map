@@ -1,0 +1,457 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04433104",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "VinmecISC1916"
+      },
+      "Organization": {
+        "OrgFullName": "Vinmec Research Institute of Stem Cell and Gene Technology",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Umbilical Cord Mesenchymal Stem Cells Transplantation in the Treatment of Chronic Obstructive Pulmonary Disease",
+      "OfficialTitle": "Allogeneic Human Umbilical Cord-derived Mesenchymal Stem/Stromal Cells for Chronic Obstructive Pulmonary Disease (COPD): Study Protocol for a Matched Case-control, Phase I/II Trial"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "June 9, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "July 30, 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 25, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "June 9, 2020",
+      "StudyFirstSubmitQCDate": "June 11, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "June 16, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "April 19, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 21, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Vinmec Research Institute of Stem Cell and Gene Technology",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This trial is to investigate the safety and potential therapeutic efficacy of allogeneic administration of umbilical cord-derived MSCs (UC-MSCs) as a supplementary intervention in combination with standard COPD medication treatments in patients with moderate-to-severe COPD based on the Global Initiative for Chronic Obstructive Lung Disease (GOLD) 2019 and Vietnam Ministry of Health's guidelines",
+      "DetailedDescription": "The aim of this trial is to investigate the safety and potential therapeutic efficacy of allogeneic administration of umbilical cord-derived MSCs (UC-MSCs) as a supplementary intervention in combination with standard COPD medication treatments in patients with moderate-to-severe COPD based on the Global Initiative for Chronic Obstructive Lung Disease (GOLD) 2019 and Vietnam Ministry of Health's guidelines. This matched case-control phase I/II trial is conducted at Vinmec Times City International Hospital, Hanoi, Vietnam between June 2020 and December 2021. In this study, 40 patients will be enrolled and assigned into two age-, gender- and COPD condition-matched groups, including a UC-MSC group and a control group. Both groups will receive standard COPD medication treatment based on the GOLD 2019 guidelines and the Vietnam Ministry of Health protocol. The UC-MSC group will receive two doses of thawed UC-MSC product with an intervention interval of 3 months. The primary outcome measures will include the incidence of prespecified administrationassociated adverse events (AEs) and serious adverse events (SAEs). The efficacy will be evaluated based on the absolute changes in the number of admissions, arterial blood gas analysis, lung function and lung fibrosis via CT scan and chest X-ray. The clinical evaluation will be conducted at baseline and 3, 6, and 12 months post"
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COPD"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "COPD",
+          "umbilical cord mesenchymal stem cells"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1",
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Single",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "40",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Treatment (UC-MSC trasnplatation)",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "1 x 10^6 umbilical Cord Mesenchymal Stem Cells per body kg will transplant via the intravenous at baseline, and the second transplantation will be performed 3 months after the first transplantation and combination with Vietnames MOH procedure",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Umbilical Cord Mesenchymal Stem Cells transplantation",
+                "Drug: drug therapy according to Vietnamese MOHS procedure"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "control arm",
+            "ArmGroupType": "Other",
+            "ArmGroupDescription": "drug therapy according to Vietnamese MOHS procedure",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: drug therapy according to Vietnamese MOHS procedure"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Umbilical Cord Mesenchymal Stem Cells transplantation",
+            "InterventionDescription": "Patients assigned to UC-MSC administration groups will receive two administrations at a dose of 1 million cells/kg patient body weight via the IV route with a 3-month intervening interval",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (UC-MSC trasnplatation)"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "drug therapy according to Vietnamese MOHS procedure",
+            "InterventionDescription": "Salbutamol, Terbutaline",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment (UC-MSC trasnplatation)",
+                "control arm"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Adverse events and serious adverse events",
+            "PrimaryOutcomeDescription": "To assess safety, the number of AEs or SAEs during stem cell administration (72 h) at 3 months, 6 months, and 12 months after discharge will be evaluated",
+            "PrimaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Quality of Life using Georges Respiratory Questionnaire",
+            "SecondaryOutcomeDescription": "Georges Respiratory Questionnaire has scores range from 0 to 100, with higher scores indicating more limitations",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Chest CT",
+            "SecondaryOutcomeDescription": "Changes of the lung fibrosis on chest CT at 6 months, and 12 months compared with baseline",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "arterial blood gas analysis (pH)",
+            "SecondaryOutcomeDescription": "arterial blood gas analysis (pH)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "arterial blood gas analysis (PaO2)",
+            "SecondaryOutcomeDescription": "arterial blood gas analysis (PaO2)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "arterial blood gas analysis (PaCO2)",
+            "SecondaryOutcomeDescription": "arterial blood gas analysis (PaCO2)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "arterial blood gas analysis (BE)",
+            "SecondaryOutcomeDescription": "arterial blood gas analysis (BE)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "arterial blood gas analysis (HCO3-)",
+            "SecondaryOutcomeDescription": "arterial blood gas analysis (HCO3-)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Respiratory functions (FEV1)",
+            "SecondaryOutcomeDescription": "Respiratory functions (FEV1)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Respiratory functions (FEV1/FVC)",
+            "SecondaryOutcomeDescription": "Respiratory functions (FEV1/FVC)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Respiratory functions (VC)",
+            "SecondaryOutcomeDescription": "Respiratory functions (VC)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Respiratory functions (TLC)",
+            "SecondaryOutcomeDescription": "Respiratory functions (TLC)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Respiratory functions (RV)",
+            "SecondaryOutcomeDescription": "Respiratory functions (RV)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Respiratory functions (DLCO)",
+            "SecondaryOutcomeDescription": "Respiratory functions (DLCO)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Respiratory functions (DLNO/DLCO)",
+            "SecondaryOutcomeDescription": "Respiratory functions (DLNO/DLCO)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "inflammatory response (CRP)",
+            "SecondaryOutcomeDescription": "inflammatory response (CRP)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "inflammatory response (Pro-BNP)",
+            "SecondaryOutcomeDescription": "inflammatory response (Pro-BNP)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "inflammatory response (Troponin-T)",
+            "SecondaryOutcomeDescription": "inflammatory response (Troponin-T)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "cytokine analysis from patients' plasma",
+            "SecondaryOutcomeDescription": "cytokine analysis from patients' plasma",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          },
+          {
+            "SecondaryOutcomeMeasure": "modified medical research council",
+            "SecondaryOutcomeDescription": "modified medical research council (mMRC)",
+            "SecondaryOutcomeTimeFrame": "up to the 12-month period following treatment"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nDiagnosed with COPD with stage B, C, or D according to GOLD 2019.\nAge between 40-75 years old.\nBoth genders.\n\nExclusion Criteria:\n\nSmoker or less than 6 months of smoking cessation time.\nAsthma and other pulmonary-related diseases and injuries (including lung tuberculosis, restrictive lung disease, idiopathic pulmonary fibrosis, or lung cancer).\nAcute and/or active infection.\nCancer.\nPatients with complex cardiovascular diseases (including valvular heart disease, cardiomyopathy, arrhythmia, congenital heart disease, hypertrophy syndrome).\nLiver and kidney failure.\nPregnancy.\nPatients with life expectancy less than 6 months due to concomitant illness.\nUnder immunosuppressive treatment within 8 weeks of the first screening visit.\nPatient diagnosed diabetes with HbA1C>7%",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "40 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Duc Minh Hoang, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "(+84) 909 743 101",
+            "CentralContactEMail": "v.duchm3@vinmec.com"
+          },
+          {
+            "CentralContactName": "Anh Hai Nguyen, MD., PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "(+84)968863668",
+            "CentralContactEMail": "haianhnguyenbm@gmail.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Duc Minh Hoang, PhD",
+            "OverallOfficialAffiliation": "Vinmec Research Institute of Stem Cell and Gene Technology",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Vinmec International Hospital Times City",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Hà Nội",
+            "LocationState": "Hanoi",
+            "LocationZip": "100000",
+            "LocationCountry": "Vietnam",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Anh Hai Nguyen, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "(+84)968863668",
+                  "LocationContactEMail": "haianhnguyenbm@gmail.com"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "21311694",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Ribeiro-Paes JT, Bilaqui A, Greco OT, Ruiz MA, Marcelino MY, Stessuk T, de Faria CA, Lago MR. Unicentric study of cell therapy in chronic obstructive pulmonary disease/pulmonary emphysema. Int J Chron Obstruct Pulmon Dis. 2011 Jan 1;6:63-71. doi: 10.2147/COPD.S15292."
+          },
+          {
+            "ReferencePMID": "24255620",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Stessuk T, Ruiz MA, Greco OT, Bilaqui A, Ribeiro-Paes MJ, Ribeiro-Paes JT. Phase I clinical trial of cell therapy in patients with advanced chronic obstructive pulmonary disease: follow-up of up to 3 years. Rev Bras Hematol Hemoter. 2013;35(5):352-7. doi: 10.5581/1516-8484.20130113."
+          },
+          {
+            "ReferencePMID": "26819296",
+            "ReferenceType": "result",
+            "ReferenceCitation": "Stolk J, Broekman W, Mauad T, Zwaginga JJ, Roelofs H, Fibbe WE, Oostendorp J, Bajema I, Versteegh MI, Taube C, Hiemstra PS. A phase I study for intravenous autologous mesenchymal stromal cell administration to patients with severe emphysema. QJM. 2016 May;109(5):331-6. doi: 10.1093/qjmed/hcw001. Epub 2016 Jan 27."
+          },
+          {
+            "ReferencePMID": "33986057",
+            "ReferenceType": "derived",
+            "ReferenceCitation": "Hoang DM, Nguyen KT, Nguyen AH, Nguyen BN, Nguyen LT. Allogeneic human umbilical cord-derived mesenchymal stem/stromal cells for chronic obstructive pulmonary disease (COPD): study protocol for a matched case-control, phase I/II trial. BMJ Open. 2021 May 13;11(5):e045788. doi: 10.1136/bmjopen-2020-045788."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000008173",
+            "ConditionMeshTerm": "Lung Diseases, Obstructive"
+          },
+          {
+            "ConditionMeshId": "D000029424",
+            "ConditionMeshTerm": "Pulmonary Disease, Chronic Obstructive"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10322",
+            "ConditionBrowseLeafName": "Lung Diseases, Obstructive",
+            "ConditionBrowseLeafAsFound": "Obstructive Pulmonary Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M22602",
+            "ConditionBrowseLeafName": "Pulmonary Disease, Chronic Obstructive",
+            "ConditionBrowseLeafAsFound": "Chronic Obstructive Pulmonary Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M15648",
+            "InterventionBrowseLeafName": "Terbutaline",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2919",
+            "InterventionBrowseLeafName": "Albuterol",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "Repr",
+            "InterventionBrowseBranchName": "Reproductive Control Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "Resp",
+            "InterventionBrowseBranchName": "Respiratory System Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

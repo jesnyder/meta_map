@@ -1,0 +1,492 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04122742",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "CHUBX 2019/19"
+      },
+      "Organization": {
+        "OrgFullName": "University Hospital, Bordeaux",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Diagnosis of RSTS: Identification of the Acetylation Profiles as Epigenetic Markers for Assessing Causality of CREBBP and EP300 Variants.",
+      "OfficialTitle": "Diagnosis of RSTS: Identification of the Acetylation Profiles as Epigenetic Markers for Assessing Causality of CREBBP and EP300 Variants.",
+      "Acronym": "GENEPI"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 8, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "October 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "October 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 9, 2019",
+      "StudyFirstSubmitQCDate": "October 9, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "October 10, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "October 7, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 8, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Hospital, Bordeaux",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Rubinstein-Taybi syndrome (RSTS) is a rare and severe congenital developmental disorder characterized by congenital anomalies and intellectual disability with a long term memory deficit. The main challenge is to improve the intellectual and memory efficiency of these patients. CREBBP and EP300 are the two genes known to cause RSTS. Both paralogs play a major role in chromatin remodeling and encode for transcriptional co-activators interacting with many proteins.\n\nThe aim of this pilot study is to characterize the histone acetylation profiles in order to identify specific acetylation markers during normal and pathological neuronal differentiation of cortical and pyramidal neurons in RSTS.",
+      "DetailedDescription": "CREBBP and EP300 are the two paralog genes associated with RSTS determinism and code for CBP and p300, respectively. These proteins are transcriptional coactivators that possess a catalytic lysine acetyl transferase (KAT) domain involved in the acetylation of lysine residues of histones but also other proteins. CBP and p300 promote transcription by creating a chromatin environment that is favorable for gene expression and by linking different transcription factors to each other. They thus orchestrate the regulation of the transcription machinery, from the basal promoter to the enhancers of the target genes.\n\nRSTS is considered a genetic model of neurodevelopmental anomaly with an epigenetic component.\n\nHistone acetylation is one of the major post-translational modifications (PTMs) of these proteins that provide for the formation and control of chromatin structure. When differentiating embryonic cells, this modification plays a key role in transcriptional activation.\n\nThe mouse models of RSTS have made the link between the modulation of histone acetylation and the formation of memory by showing their key role in neuronal plasticity. However no data exists on the acetylation of histones in the neurons of RSTS patients. Furthermore, in humans, the molecular pathways impacted by these alterations during neurodevelopment are not specified, especially in the pyramidal neurons which are the precursors of hippocampal neurons involved in the encoding and storage of memory.\n\nIn RSTS a loss of CBP function results in a deficit in KAT activity, which is responsible for altering histone acetylation, leading to inappropriate changes in chromatin structure. The consequence of a mutation is a result of a deregulation of the activity of genes involved in development. No neuronal level studies are currently available on the functional link between histone acetylation and deregulated genes in the RSTS.\n\nIn this project, investigators will identify target genes whose epigenetic regulation is mediated by histone acetylation. More specifically, the study will focus on chromatin dynamics during normal and pathological neuronal differentiation of cortical and pyramidal neurons. Investigators will determine among the CBP-dependent histone markers, those that are modified in RSTS patients cells and the loci they control. In parallel, investigators will define genes whose neuronal expression is altered in RSTS patients.\n\nThe integration of all these data will allow us to specify which genes are deregulated during neuronal differentiation as a consequence of CBP lysine acetyltransferase function loss."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Rubinstein-Taybi Syndrome"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Epigenetics",
+          "Acetylation",
+          "Diagnostic",
+          "Induced pluripotent stem cells",
+          "Rubinstein-Taybi syndrome"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Only"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "skin biopsy and whole blood sample"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "154",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Patients with RSTS",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Procedure: skin biopsy for the primary fibroblast culture and a 15 ml blood sample (3 unnamed samples of 5ml) in each of the 4 SRT patients included.",
+                "Other: Generation of Induced Pluripotent Stem Cells (iPSC) from fibroblasts obtained by skin biopsy",
+                "Other: Histone acetylation profiles of cells of SRT patients with CREBBP mutations",
+                "Other: Functional involvement of identified epigenetic alterations",
+                "Biological: Culture of lymphoblastoid line from blood sample"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "skin biopsy for the primary fibroblast culture and a 15 ml blood sample (3 unnamed samples of 5ml) in each of the 4 SRT patients included.",
+            "InterventionDescription": "Performed with a 3 mm diameter punch under local anesthesia. The procedure can be done in a consultation office respecting a strict asepsis.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Patients with RSTS"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Generation of Induced Pluripotent Stem Cells (iPSC) from fibroblasts obtained by skin biopsy",
+            "InterventionDescription": "induced Pluripotent Stem Cells (iPSC) production of patients with CREBBP mutation and differentiation into cortical neurons and pyramidal neurons",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Patients with RSTS"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Histone acetylation profiles of cells of SRT patients with CREBBP mutations",
+            "InterventionDescription": "Study of acetylome by liquid chromatography coupled with tandem mass spectrometry (LC-MS / MS) Validation of specific acetylation targets by ChIP-Sequencing",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Patients with RSTS"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Other",
+            "InterventionName": "Functional involvement of identified epigenetic alterations",
+            "InterventionDescription": "Transcriptome analysis with RNA-Seq Generation of isogenic iPSC clones by correction of CREBBP mutations in SRT patients by CrispR-Cas9.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Patients with RSTS"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Culture of lymphoblastoid line from blood sample",
+            "InterventionDescription": "Achievement of a ficoll Culture of lymphoblasts and conservation Establishment of lymphoblastoid line and conservation",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Patients with RSTS"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Identification of a specific acetylation profile of RSTS",
+            "PrimaryOutcomeDescription": "From skin biopsy sample collected at inclusion visit :\n\nNo assumptions about the number of histone marks needed to define the profile\nWill be retained as the specific mark of the disease if it is 100% present in the cases and 100% absent in the controls\nThe specific profile can be defined in one or more stages of cell differentiation: iPSC - neuronal progenitor - cortical and pyramidal neurons",
+            "PrimaryOutcomeTimeFrame": "Inclusion visit"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Identification of different target genes between SRT patients and controls",
+            "SecondaryOutcomeDescription": "SRT patients will be compared to 4 control cell cultures from healthy volunteers matched for age and sex already available",
+            "SecondaryOutcomeTimeFrame": "Inclusion visit"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Evidence of a significantly different level of expression for common target genes for RSTS patients and controls",
+            "SecondaryOutcomeTimeFrame": "Inclusion visit"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatient with a clinical and molecular diagnosis of RSTS\nPatients carrying the CREBBP or EP300 variants\nPatients older than 6 years\nAffiliated patients or beneficiaries of a social security scheme.\nFree, informed and signed consent by the parents or holder of parental authority for minor patients\nFree, informed and signed consent by the patient representative for the major patients under guardianship\nFree, informed and signed consent by the patient for major patients\n\nExclusion Criteria:\n\nPatients having:\n\na history of allergy to any product or device that may be used before, during, and after the biopsy;\ncutaneous disease of the areas where the biopsy is to be performed\nunderwent physical treatment (radiotherapy, ...) on the area to be biopsied, during the last 6 months\nhereditary or acquired disorders of hemostasis\n\nPatients under treatment:\n\nlikely to act on the haemostasis (anticoagulants, platelet antiaggregants, ...) in the month preceding the inclusion and during the study\nby histone deacetylase inhibitor (sodium valproate) likely to interfere with the interpretation of the results.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "6 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Patient with a clinical and molecular diagnosis of RSTS having a specialized consultation in CHU de Bordeaux",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Julien VAN-GILS",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+33 5 57 82 03 53",
+            "CentralContactEMail": "julien.van-gils@chu-bordeaux.fr"
+          },
+          {
+            "CentralContactName": "Noémie BRONNEC",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+335 57 82 03 45",
+            "CentralContactEMail": "noemie.bronnec@chu-bordeaux.fr"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Centre Hospitalier Universitaire de Bordeaux",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Talence",
+            "LocationZip": "33400",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Julien VAN-GILS",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+33 5 57 82 03 53",
+                  "LocationContactEMail": "julien.van-gils@chu-bordeaux.fr"
+                },
+                {
+                  "LocationContactName": "Noémie BRONNEC",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+335 57 82 03 45",
+                  "LocationContactEMail": "noemie.bronnec@chu-bordeaux.fr"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012415",
+            "ConditionMeshTerm": "Rubinstein-Taybi Syndrome"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004413",
+            "ConditionAncestorTerm": "Dysostoses"
+          },
+          {
+            "ConditionAncestorId": "D000001848",
+            "ConditionAncestorTerm": "Bone Diseases, Developmental"
+          },
+          {
+            "ConditionAncestorId": "D000001847",
+            "ConditionAncestorTerm": "Bone Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009140",
+            "ConditionAncestorTerm": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000019465",
+            "ConditionAncestorTerm": "Craniofacial Abnormalities"
+          },
+          {
+            "ConditionAncestorId": "D000009139",
+            "ConditionAncestorTerm": "Musculoskeletal Abnormalities"
+          },
+          {
+            "ConditionAncestorId": "D000008607",
+            "ConditionAncestorTerm": "Intellectual Disability"
+          },
+          {
+            "ConditionAncestorId": "D000019954",
+            "ConditionAncestorTerm": "Neurobehavioral Manifestations"
+          },
+          {
+            "ConditionAncestorId": "D000009461",
+            "ConditionAncestorTerm": "Neurologic Manifestations"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000000015",
+            "ConditionAncestorTerm": "Abnormalities, Multiple"
+          },
+          {
+            "ConditionAncestorId": "D000000013",
+            "ConditionAncestorTerm": "Congenital Abnormalities"
+          },
+          {
+            "ConditionAncestorId": "D000025063",
+            "ConditionAncestorTerm": "Chromosome Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000030342",
+            "ConditionAncestorTerm": "Genetic Diseases, Inborn"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14387",
+            "ConditionBrowseLeafName": "Rubinstein-Taybi Syndrome",
+            "ConditionBrowseLeafAsFound": "Rubinstein-Taybi Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6739",
+            "ConditionBrowseLeafName": "Dysostoses",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4278",
+            "ConditionBrowseLeafName": "Bone Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4279",
+            "ConditionBrowseLeafName": "Bone Diseases, Developmental",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11249",
+            "ConditionBrowseLeafName": "Musculoskeletal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12",
+            "ConditionBrowseLeafName": "Congenital Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20573",
+            "ConditionBrowseLeafName": "Craniofacial Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11248",
+            "ConditionBrowseLeafName": "Musculoskeletal Abnormalities",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10741",
+            "ConditionBrowseLeafName": "Intellectual Disability",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20979",
+            "ConditionBrowseLeafName": "Neurobehavioral Manifestations",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11556",
+            "ConditionBrowseLeafName": "Neurologic Manifestations",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14",
+            "ConditionBrowseLeafName": "Abnormalities, Multiple",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22176",
+            "ConditionBrowseLeafName": "Chromosome Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22839",
+            "ConditionBrowseLeafName": "Genetic Diseases, Inborn",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T5074",
+            "ConditionBrowseLeafName": "Rubinstein-Taybi Syndrome",
+            "ConditionBrowseLeafAsFound": "Rubinstein-Taybi Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T4344",
+            "ConditionBrowseLeafName": "Oto-palato-digital Syndrome Type 1",
+            "ConditionBrowseLeafAsFound": "Taybi Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T4343",
+            "ConditionBrowseLeafName": "Oto-Palatal-digital Syndrome",
+            "ConditionBrowseLeafAsFound": "Taybi Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC05",
+            "ConditionBrowseBranchName": "Musculoskeletal Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXM",
+            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3259",
+            "InterventionBrowseLeafName": "Anesthetics",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "CNSDep",
+            "InterventionBrowseBranchName": "Central Nervous System Depressants"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

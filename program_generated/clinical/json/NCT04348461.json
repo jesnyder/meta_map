@@ -1,0 +1,348 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04348461",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "BALMYS-19"
+      },
+      "Organization": {
+        "OrgFullName": "Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "BAttLe Against COVID-19 Using MesenchYmal Stromal Cells",
+      "OfficialTitle": "Two-treatment,Randomized, Controlled, Multicenter Clinical Trial to Assess the Safety and Efficacy of Intravenous Administration of Expanded Allogeneic Adipose Tissue Adult Mesenchymal Stromal Cells in Critically Ill Patients COVID-19"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "May 2020",
+      "OverallStatus": "Suspended",
+      "WhyStopped": "lack of financial support",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "May 6, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 15, 2020",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 30, 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "April 10, 2020",
+      "StudyFirstSubmitQCDate": "April 14, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "April 16, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "March 15, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "March 17, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Instituto de Investigación Sanitaria y Biomédica de Alicante",
+            "CollaboratorClass": "UNKNOWN"
+          },
+          {
+            "CollaboratorName": "Hospital General Universitario Gregorio Marañon",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Clinica Universidad de Navarra, Universidad de Navarra",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "University of Salamanca",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Hospital General Universitario de Alicante",
+            "CollaboratorClass": "OTHER"
+          },
+          {
+            "CollaboratorName": "Hospital Clínico Universitario Virgen de la Arrixaca",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The investigational medicinal product consists of expanded allogeneic mesenchymal stromal cells derived from adipose tissue and administered intravenously.\n\nThe objective of this project is to evaluate the safety and efficacy of the administration of expanded allogeneic adipose tissue adult mesenchymal stem cells, in patients infected with SARS-COV-2 with COVID-19 type complications."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "COVID",
+          "Respiratory Distress Syndrome"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "Quadruple",
+          "DesignWhoMaskedList": {
+            "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+            ]
+          }
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "100",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Control",
+            "ArmGroupType": "No Intervention",
+            "ArmGroupDescription": "Patients receiving regular respiratory distress treatment"
+          },
+          {
+            "ArmGroupLabel": "Treatment",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Patients receiving two serial doses of allogeneic and expanded adipose tissue-derived mesenchymal stromal cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Allogeneic and expanded adipose tissue-derived mesenchymal stromal cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Allogeneic and expanded adipose tissue-derived mesenchymal stromal cells",
+            "InterventionDescription": "Two serial doses of 1.5 million adipose-tissue derived mesenchymal stem cells per kg",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Treatment"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Efficacy of the administration of allogeneic mesenchymal stem cells derived from adipose tissue assessed by Survival Rate)",
+            "PrimaryOutcomeTimeFrame": "28 days"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Safety of the administration of allogeneic mesenchymal stem cells derived from adipose tissue assessed by Adverse Event Rate",
+            "PrimaryOutcomeTimeFrame": "6 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients of both sexes.\nOver 18 years.\nConfirmation of SARS-COV-2 infection by RT-PCR in respiratory sample.\nRespiratory failure requiring intubation and connection to mechanical ventilation, secondary to SARS-CoV-2 infection.\nCriteria for acute respiratory distress: acute bilateral alveolar-interstitial infiltrate not compatible with left ventricular failure (demonstrated with ultrasound or hemodynamic parameters), sudden onset, and blood gas compromise with a PaO2 / FiO2 ratio <200 mm-Hg.\nWomen of childbearing potential should have a negative urine pregnancy test performed at the time of study enrollment.\nWritten or verbal informed consent from the patient, family member or legal representative.\n\nExclusion Criteria:\n\nAny other cause of acute respiratory distress not attributable to SARS-Cov-2.\nRT-PCR of SARS-Cov-2 negative.\nMulti-organ failure (more than three organs)\nSevere respiratory failure requiring extracorporeal support (ECMO) Grave Moderate severe COPD requiring chronic home oxygen therapy, need for prior home oxygen therapy for any reason.\nPregnancy, lactation and women of childbearing age but who do not take effective contraceptive measures.\nActive tumor disease.\nPrevious immunosuppressive treatment.\nAllergy or hypersensitivity to the administered products.\nHistory of deep vein thrombosis or pulmonary embolism in the last 3 years.\nParticipation in other clinical trials during the 3 months prior to the initial visit.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Fundacion Jimenez Diaz",
+            "LocationCity": "Madrid",
+            "LocationZip": "28002",
+            "LocationCountry": "Spain"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000012128",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome"
+          },
+          {
+            "ConditionMeshId": "D000012127",
+            "ConditionMeshTerm": "Respiratory Distress Syndrome, Newborn"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012120",
+            "ConditionAncestorTerm": "Respiration Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000007235",
+            "ConditionAncestorTerm": "Infant, Premature, Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007232",
+            "ConditionAncestorTerm": "Infant, Newborn, Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M2562",
+            "ConditionBrowseLeafName": "COVID-19",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14117",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M14116",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Newborn",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M18162",
+            "ConditionBrowseLeafName": "Critical Illness",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14109",
+            "ConditionBrowseLeafName": "Respiration Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M25022",
+            "ConditionBrowseLeafName": "Premature Birth",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9431",
+            "ConditionBrowseLeafName": "Infant, Premature, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9428",
+            "ConditionBrowseLeafName": "Infant, Newborn, Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4927",
+            "ConditionBrowseLeafName": "Respiratory Distress Syndrome, Infant",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "T192",
+            "ConditionBrowseLeafName": "Acute Respiratory Distress Syndrome",
+            "ConditionBrowseLeafAsFound": "Respiratory Distress Syndrome",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC16",
+            "ConditionBrowseBranchName": "Diseases and Abnormalities at or Before Birth"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

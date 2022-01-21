@@ -1,0 +1,357 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02492516",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "Royan-Nerve-008"
+      },
+      "Organization": {
+        "OrgFullName": "Royan Institute",
+        "OrgClass": "OTHER_GOV"
+      },
+      "BriefTitle": "Intravenous Injection of Adipose Derived Mesenchymal Stem Cell for ALS",
+      "OfficialTitle": "Evaluation the Safety of Intravenous Injection of Adipose Derived Mesenchymal Stem Cell in Patients With ALS"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "April 2017",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 2014",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "March 2017",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "April 2017",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "June 24, 2015",
+      "StudyFirstSubmitQCDate": "July 7, 2015",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 8, 2015",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "April 26, 2017",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "April 28, 2017",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Royan Institute",
+        "LeadSponsorClass": "OTHER_GOV"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Amyotrophic lateral sclerosis (ALS) is a lethal degenerative disorder that upper motor and lower motor neurons are destroyed in brain stem and spinal cord. Riluzole is the only therapeutic option now. Recently several studies have shown that stem cell transplantation is safe and can be effective in reduction of disease progression and increase of quality of life.",
+      "DetailedDescription": "the study is perform with 8 patients who has sporadic form of ALS with(ALS-Functional Rating Test) ALS-FRS> 24 and (Forced Vital Capacity) FVC>40% . The adipose sample is provide from healthy donors with abdominal lipoaspiration. After isolation and culture of mesenchymal stem cells, the cells are injected intravenously (2 million cells/kg). All the patients will be followed for 12 months at 72hours, 2months, 4 months, 6 months and 12 months after transplantation to find the adverse events. During follow up the assessments including: ALS-FRS, FVC and electromyography and serologic tests."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Amyotrophic Lateral Sclerosis"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "adipose tissue mesenchymal stem cell intravenous injection ALS"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "19",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Stem cell",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "The patients with diagnosis of ALS who receive adipose derived mesenchymal stem cell.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: mesenchymal stem cells"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "mesenchymal stem cells",
+            "InterventionDescription": "mesenchymal stem cells injection via peripheral vein.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Stem cell"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "fever",
+            "PrimaryOutcomeDescription": "The increase of body temperature that is defined as fever, within 72 hours after injection.",
+            "PrimaryOutcomeTimeFrame": "72hours"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Unconsciousness",
+            "PrimaryOutcomeDescription": "Evaluation the consciousness state of patients within 72 hours after stem cell injection with clinical examination and GCS score.",
+            "PrimaryOutcomeTimeFrame": "72hours"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "The Amyotrophic Lateral Sclerosis Functional Rating Scale (ALSFRS)",
+            "SecondaryOutcomeDescription": "Evaluation the improvement of ALS functional rating scale ( ALS-FRS) by ALS-FRS questionnare, 2 months after cell injection.",
+            "SecondaryOutcomeTimeFrame": "2 months"
+          },
+          {
+            "SecondaryOutcomeMeasure": "FVC",
+            "SecondaryOutcomeDescription": "Evaluation the improvement of FVC by spirometry, 2 months after cell injection.",
+            "SecondaryOutcomeTimeFrame": "2 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nBoth gender\nAge: 18-55\nSporadic form of disease\nALS-FRS> = 24\nFVC >= 40%\n\nExclusion Criteria:\n\nFamilial form of ALS\nMalignancy\nAutoimmune disease\nDiagnosis of other motor neuron diseases",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "55 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Hamid Gourabi, PhD",
+            "OverallOfficialAffiliation": "Head of Royan Institute",
+            "OverallOfficialRole": "Study Chair"
+          },
+          {
+            "OverallOfficialName": "Nasser Aghdami, MD,PhD",
+            "OverallOfficialAffiliation": "Head of department of Regenerative Medicine,Royasn Institute",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Masood Nabavi, MD",
+            "OverallOfficialAffiliation": "Professor associated of neurology, Shahed University",
+            "OverallOfficialRole": "Study Director"
+          },
+          {
+            "OverallOfficialName": "Leila Arab, MD",
+            "OverallOfficialAffiliation": "Department of Regenerative Medicine, Royan Institute",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Royan Institute",
+            "LocationCity": "Tehran",
+            "LocationCountry": "Iran, Islamic Republic of"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Related Info",
+            "SeeAlsoLinkURL": "http://royaninstitute.com"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000016472",
+            "ConditionMeshTerm": "Motor Neuron Disease"
+          },
+          {
+            "ConditionMeshId": "D000000690",
+            "ConditionMeshTerm": "Amyotrophic Lateral Sclerosis"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000019636",
+            "ConditionAncestorTerm": "Neurodegenerative Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009468",
+            "ConditionAncestorTerm": "Neuromuscular Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000013118",
+            "ConditionAncestorTerm": "Spinal Cord Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000057177",
+            "ConditionAncestorTerm": "TDP-43 Proteinopathies"
+          },
+          {
+            "ConditionAncestorId": "D000057165",
+            "ConditionAncestorTerm": "Proteostasis Deficiencies"
+          },
+          {
+            "ConditionAncestorId": "D000008659",
+            "ConditionAncestorTerm": "Metabolic Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M14567",
+            "ConditionBrowseLeafName": "Sclerosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M18031",
+            "ConditionBrowseLeafName": "Motor Neuron Disease",
+            "ConditionBrowseLeafAsFound": "Lateral Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M3176",
+            "ConditionBrowseLeafName": "Amyotrophic Lateral Sclerosis",
+            "ConditionBrowseLeafAsFound": "Amyotrophic Lateral Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M20711",
+            "ConditionBrowseLeafName": "Neurodegenerative Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11563",
+            "ConditionBrowseLeafName": "Neuromuscular Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15067",
+            "ConditionBrowseLeafName": "Spinal Cord Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27912",
+            "ConditionBrowseLeafName": "TDP-43 Proteinopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M27900",
+            "ConditionBrowseLeafName": "Proteostasis Deficiencies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10791",
+            "ConditionBrowseLeafName": "Metabolic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4699",
+            "ConditionBrowseLeafName": "Primary Lateral Sclerosis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T349",
+            "ConditionBrowseLeafName": "Amyotrophic Lateral Sclerosis",
+            "ConditionBrowseLeafAsFound": "Amyotrophic Lateral Sclerosis",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC18",
+            "ConditionBrowseBranchName": "Nutritional and Metabolic Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT02181712",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "14-000025"
+      },
+      "Organization": {
+        "OrgFullName": "Mayo Clinic",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Mesenchymal Stem Cell Therapy for Lung Rejection",
+      "OfficialTitle": "A Pilot Study to Evaluate the Safety and Feasibility of Mesenchymal Stem Cells to Induce Remission in Lung Transplant Patients Experiencing Treatment-refractory Moderate to Severe Lung Rejection"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2021",
+      "OverallStatus": "Completed",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "July 2014",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "August 12, 2021",
+        "PrimaryCompletionDateType": "Actual"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "August 12, 2021",
+        "CompletionDateType": "Actual"
+      },
+      "StudyFirstSubmitDate": "July 2, 2014",
+      "StudyFirstSubmitQCDate": "July 3, 2014",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "July 4, 2014",
+        "StudyFirstPostDateType": "Estimate"
+      },
+      "LastUpdateSubmitDate": "October 5, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "October 7, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Principal Investigator",
+        "ResponsiblePartyInvestigatorFullName": "David B. Erasmus",
+        "ResponsiblePartyInvestigatorTitle": "Principal Investigator",
+        "ResponsiblePartyInvestigatorAffiliation": "Mayo Clinic"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Mayo Clinic",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "To assess the safety and feasibility of mesenchymal stem cells therapy in patients with transplant related bronchiolitis obliteran syndrome (BOS)",
+      "DetailedDescription": "The overall clinical development strategy of this project is to conduct this Phase I dose escalation study entitled \"A pilot Study to Evaluate the Safety and Feasibility of Mesenchymal Stem Cells to Induce Remission in Lung Transplant Patients Experiencing Treatment-Refractory Moderate Lung Rejection\". This study will be performed under this current IND application and will be limited to the proposed 19 subjects (5 subjects in each of two dose escalating subject cohorts, and 5 subjects in a \"boost dose\" group who previously received MSC as part of the previous phase 1a study which included 9 patients\n\nIn this application we are proposing to evaluate safety and feasibility of allogeneic, bone marrow (BM) derived mesenchymal stem cells (MSC) to induce remission of moderate treatment refractory bronchiolitis obliterans (BO/BOS). Lung transplant patients with treatment refractory BO/BOS (grade 3) who do not qualify for a second transplant have near 100% mortality or extreme disability. MSCs are multi-potent cells that have the capacity to induce tissue repair and modulate immune response. They have been used successfully in preclinical and clinical studies to treat graft versus host disease (GVHD) and inflammatory bowel disease. Patients that progressed to moderate BO despite adequate medical treatments and who do not qualify for a second transplant will receive intravenous treatments of allogeneic MSC. The safety measure will include tolerance of MSC infusion and absence of significant cardiopulmonary compromise. The feasibility assessment will include ease of recruitment, practical issue of transporting, preparing and infusing the MSCs.\n\nThe clinical assessment from this initial safety study is intended to demonstrate safety of human MSC in subjects with BO and to evaluate the cell dose that demonstrates signs of efficacy. Pending favorable safety results and pharmacokinetic and pharamcodynamic data obtained in the current proposed study we will likely conduct additional human studies with a more directed focus on the evaluation of efficacy while collecting additional safety information."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Lung Transplant Reject",
+          "Bronchiolitis Obliterans"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Bronchiolitis obliterans",
+          "lung transplant",
+          "mesenchymal stem cell",
+          "cell therapy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "19",
+        "EnrollmentType": "Actual"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Mesenchymal Stem cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects who have never received Mesenchymal Stem Cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Mesenchymal stem cell 0.5",
+                "Biological: Mesenchymal stem cell 1.0"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Booster Mesenchymal Stem Cells",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Subjects who have previously received Mesenchymal Stem Cells",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Biological: Mesenchymal stem cell 1.0"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Mesenchymal stem cell 0.5",
+            "InterventionDescription": "0.5 million MSC per Kg will be infused intravenously. Product will be infused at the rate of 2 - 3 ml/minute during the first 15 minutes and may be adjusted up to 5ml/minutes if tolerable. It is anticipated that the infusion will be completed within approximately 3 hours.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Mesenchymal Stem cells"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Biological",
+            "InterventionName": "Mesenchymal stem cell 1.0",
+            "InterventionDescription": "1 million MSC per Kg will be infused intravenously. Product will be infused at the rate of 2 - 3 ml/minute during the first 15 minutes and may be adjusted up to 5ml/minutes if tolerable. It is anticipated that the infusion will be completed within approximately 3 hours.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Booster Mesenchymal Stem Cells",
+                "Mesenchymal Stem cells"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Number of Participants with serious and non-serious adverse events",
+            "PrimaryOutcomeDescription": "Patients will be assessed for their capacity to tolerate IV infusion of MSC without acute clinical or physiological deterioration.",
+            "PrimaryOutcomeTimeFrame": "Up to 2 weeks"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Changes in pulmonary function tests",
+            "PrimaryOutcomeDescription": "Vital signs, pulmonary function tests (FEV1 and FCV) and Borg Dyspnea Index will be evaluated. Chest Radiograph, CBC and serum chemistry will be performed.",
+            "PrimaryOutcomeTimeFrame": "Up to 2 weeks"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria\n\nAge range: 18 - 75 years\nGender: Male of female\nTarget disease or condition: Lung transplant recipients with treatment refractory moderate to severe o-CLAD. Patient must have diagnosis of treatment refractory o-CLAD Subject must have failed a standard immunosuppression regimen for lung transplant recipients. Note that subject may currently be receiving steroids or immunomodulators (see dosage requirements below) at the time of enrollment.\nThe patient has persistent symptoms of BOS despite trials of other agents such asAzythromycin, anti-reflux therapy and others.\nInformed consent form (ICF): Each patient will be required to sign an IRB approved ICF. Only subjects who have signed the ICF will be enrolled into the study. The ICF will include elements required by Mayo IRB and FDA in US 21CFR50.\nSubject must have adequate renal function; estimated glomerular filtrate rate of greater than 30 ml/min.\nSubject must be available for all specified assessments at the study site through the completion of the study.\nSubject must provide written ICF and authorization for use of and disclosure of PHI.\n\nExclusion Criteria\n\nPatients with clinically significant illness with manifestations of significant organ dysfunction which in the judgment of the PI or co-investigator would render the study subject unlikely to tolerate the MSC infusion or complete the study\nPatient should not have cancer not deemed to be in remission. (Superficial skin cancer shall not be deemed an exclusion criteria)Evidence or history of autoimmune disorders independent of o-CLAD\nPregnant or breast-feeding\nPositive screening for HIV Hepatitis B and Hepatitis C\nEvidence of liver dysfunction; Liver profile showing alkaline phosphatase higher than 345 u/L, total bilirubin greater than 1.65 mg/dL, ALT greater than 275 units/L and AST great than 240 units/L.\nEvidence of significant cardiac dysfunction\nSepticemia with high fever and hemodynamic instability\nHistory of CMV pneumonitis\nPatients who received any experimental therapy (drug or biologic) for any indication within 12 months of the study enrollment",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "75 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "David Erasmus, MD",
+            "OverallOfficialAffiliation": "Mayo Clinic",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Mayo Clinic in Florida",
+            "LocationCity": "Jacksonville",
+            "LocationState": "Florida",
+            "LocationZip": "32224",
+            "LocationCountry": "United States"
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "SeeAlsoLinkList": {
+        "SeeAlsoLink": [
+          {
+            "SeeAlsoLinkLabel": "Mayo Clinic Clinical Trials",
+            "SeeAlsoLinkURL": "https://www.mayo.edu/research/clinical-trials"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000001988",
+            "ConditionMeshTerm": "Bronchiolitis"
+          },
+          {
+            "ConditionMeshId": "D000001989",
+            "ConditionMeshTerm": "Bronchiolitis Obliterans"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000001991",
+            "ConditionAncestorTerm": "Bronchitis"
+          },
+          {
+            "ConditionAncestorId": "D000012141",
+            "ConditionAncestorTerm": "Respiratory Tract Infections"
+          },
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000001982",
+            "ConditionAncestorTerm": "Bronchial Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012140",
+            "ConditionAncestorTerm": "Respiratory Tract Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000008173",
+            "ConditionAncestorTerm": "Lung Diseases, Obstructive"
+          },
+          {
+            "ConditionAncestorId": "D000008171",
+            "ConditionAncestorTerm": "Lung Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M4416",
+            "ConditionBrowseLeafName": "Bronchiolitis",
+            "ConditionBrowseLeafAsFound": "Bronchiolitis",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4417",
+            "ConditionBrowseLeafName": "Bronchiolitis Obliterans",
+            "ConditionBrowseLeafAsFound": "Bronchiolitis Obliterans",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4419",
+            "ConditionBrowseLeafName": "Bronchitis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14130",
+            "ConditionBrowseLeafName": "Respiratory Tract Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4410",
+            "ConditionBrowseLeafName": "Bronchial Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14129",
+            "ConditionBrowseLeafName": "Respiratory Tract Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10320",
+            "ConditionBrowseLeafName": "Lung Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10322",
+            "ConditionBrowseLeafName": "Lung Diseases, Obstructive",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T871",
+            "ConditionBrowseLeafName": "Bronchiolitis Obliterans",
+            "ConditionBrowseLeafAsFound": "Bronchiolitis Obliterans",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC08",
+            "ConditionBrowseBranchName": "Respiratory Tract (Lung and Bronchial) Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    }
+  }
+}

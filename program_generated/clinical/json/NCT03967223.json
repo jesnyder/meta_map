@@ -1,0 +1,1569 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03967223",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "208467"
+      },
+      "Organization": {
+        "OrgFullName": "GlaxoSmithKline",
+        "OrgClass": "INDUSTRY"
+      },
+      "BriefTitle": "Master Protocol to Assess the Safety and Antitumor Activity of Genetically Engineered T Cells in NY-ESO-1 and/or LAGE-1a Positive Solid Tumors",
+      "OfficialTitle": "Master Protocol to Assess the Safety and Antitumor Activity of Genetically Engineered NY-ESO-1-Specific (c259) T Cells, Alone or in Combination With Other Agents, in HLA-A2+ Participants With NY-ESO-1 and/or LAGE-1a Positive Solid Tumors (IGNYTE-ESO)",
+      "Acronym": "IGNYTE-ESO"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "November 2021",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 31, 2019",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 30, 2022",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "July 31, 2026",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "May 10, 2019",
+      "StudyFirstSubmitQCDate": "May 28, 2019",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "May 30, 2019",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 16, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "November 17, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "GlaxoSmithKline",
+        "LeadSponsorClass": "INDUSTRY"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "Yes",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This trial will evaluate safety and efficacy of human engineered T-cell therapies, in participants with advanced tumors.",
+      "DetailedDescription": "New York esophageal antigen-1 (NY-ESO-1) and LAGE-1a antigens are tumor-associated proteins that have been found in several tumor types. Clinical trials using adoptively transferred T cells directed against NY-ESO-1/LAGE-1a have shown objective responses. Letetresgene autoleucel (lete-cel, GSK3377794) is the first generation of NY-ESO-1 specific T-cell receptor engineered T cells. This is a master protocol investigating T-cell therapies. It will initially consist of a core protocol with two independent substudies investigating Letetresgene autoleucel (lete-cel) in previously untreated (1L) Human Leukocyte Antigen (HLA)-A*02+ participants with NY-ESO-1+ advanced (metastatic or unresectable) synovial sarcoma (SS) or myxoid/round cell liposarcoma (MRCLS) (Substudy 1) and Letetresgene autoleucel as second line or higher (2L+) treatment in HLA-A*02+ participants with NY-ESO-1+ advanced (metastatic or unresectable) SS or MRCLS who have progressed following treatment with anthracycline based chemotherapy (Substudy 2)."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Neoplasms"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Adoptive T-cell therapy",
+          "Advanced metastatic disease",
+          "Advanced unresectable disease",
+          "Synovial sarcoma",
+          "Myxoid/round cell liposarcoma",
+          "GSK3377794",
+          "Positive solid tumors",
+          "T-cell receptors",
+          "Leukapheresis",
+          "Letetresgene autoleucel"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 2"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Parallel Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)",
+          "DesignMaskingDescription": "This will be an open-label study. Hence, there will be no masking."
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "80",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Substudy 1: lete-cel in previously untreated advanced (metastatic or unresectable) SS or MRCLS",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Eligible participants will be leukapheresed to manufacture engineered T cells. Participants will then receive letetresgene autoleucel.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Letetresgene autoleucel (lete-cel, GSK3377794)",
+                "Drug: Fludarabine",
+                "Drug: Cyclophosphamide"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Substudy 2: lete-cel in advanced (metastatic or unresectable) SS or MRCLS post anthracycline chemo",
+            "ArmGroupType": "Experimental",
+            "ArmGroupDescription": "Eligible participants will be leukapheresed to manufacture engineered T cells. Participants will then receive letetresgene autoleucel.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Letetresgene autoleucel (lete-cel, GSK3377794)",
+                "Drug: Fludarabine",
+                "Drug: Cyclophosphamide"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Letetresgene autoleucel (lete-cel, GSK3377794)",
+            "InterventionDescription": "letetresgene autoleucel will be administered.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Substudy 1: lete-cel in previously untreated advanced (metastatic or unresectable) SS or MRCLS",
+                "Substudy 2: lete-cel in advanced (metastatic or unresectable) SS or MRCLS post anthracycline chemo"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Fludarabine",
+            "InterventionDescription": "Fludarabine will be used as the lymphodepleting chemotherapy",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Substudy 1: lete-cel in previously untreated advanced (metastatic or unresectable) SS or MRCLS",
+                "Substudy 2: lete-cel in advanced (metastatic or unresectable) SS or MRCLS post anthracycline chemo"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Cyclophosphamide",
+            "InterventionDescription": "Cyclophosphamide will be used as the lymphodepleting chemotherapy.",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Substudy 1: lete-cel in previously untreated advanced (metastatic or unresectable) SS or MRCLS",
+                "Substudy 2: lete-cel in advanced (metastatic or unresectable) SS or MRCLS post anthracycline chemo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Substudy 1: Overall response rate (ORR)",
+            "PrimaryOutcomeDescription": "Overall response rate is defined as the percentage of participants with a confirmed complete response (CR) or partial response (PR) relative to the total number of participants within the analysis population at any time per Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1. as determined by the local investigators.",
+            "PrimaryOutcomeTimeFrame": "Until disease progression (up to 5 years)"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Substudy 2: Overall response rate (ORR) as assessed by central independent review",
+            "PrimaryOutcomeDescription": "Overall response rate is defined as the percentage of participants with a confirmed CR or PR relative to the total number of participants within the analysis population at any time per RECIST v1.1. as assessed by central independent review.",
+            "PrimaryOutcomeTimeFrame": "Up to 5 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Substudy 1 and 2: Time to response",
+            "SecondaryOutcomeDescription": "Time to response is defined as time from date of T-cell administration to first documented evidence of confirmed (CR or PR) as assessed by local investigators per RECIST v1.1.",
+            "SecondaryOutcomeTimeFrame": "Until disease progression (up to 5 years)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Substudy 1 and 2: Duration of response (DOR)",
+            "SecondaryOutcomeDescription": "Duration of response is defined as, in the subset of participants who show a confirmed CR or PR as assessed by local investigators, the time from first documented evidence of CR or PR until the first documented sign of disease progression or death.",
+            "SecondaryOutcomeTimeFrame": "Until disease progression (up to 5 years)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Substudy 1 and 2: Disease control rate (DCR)",
+            "SecondaryOutcomeDescription": "Disease control rate is defined as the percentage of participants with a confirmed CR, PR, or stable disease (SD) with minimal 12 weeks duration relative to the total number of participants within the analysis population at the time of primary analysis as determined by Investigators per RECIST v1.1.",
+            "SecondaryOutcomeTimeFrame": "Until disease progression (up to 5 years)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Substudy 1 and 2: Progression free survival (PFS)",
+            "SecondaryOutcomeDescription": "Progression free survival is defined as the time from the date of T-cell administration until first documented sign of disease progression per RECIST v1.1, or death.",
+            "SecondaryOutcomeTimeFrame": "Until disease progression (up to 5 years)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Substudy 1 and 2: Frequency of adverse events (AEs), serious adverse events (SAEs) and AEs of special interest (AESI) according to severity",
+            "SecondaryOutcomeDescription": "AEs, SAEs and AESIs will be collected. Severity of AEs and SAEs will be summarized using National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI-CTCAE), version 5.0.",
+            "SecondaryOutcomeTimeFrame": "Until disease progression (up to 5 years)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Substudy 1 and 2: Number of participants with replication competent lentivirus (RCL)",
+            "SecondaryOutcomeDescription": "RCL exposure will be assessed by polymerase chain reaction (PCR) based assay.",
+            "SecondaryOutcomeTimeFrame": "Until disease progression (up to 5 years)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Substudy 1 and 2: Number of participants with insertional oncogenesis (IO)",
+            "SecondaryOutcomeDescription": "Peripheral blood mononuclear cells (PBMC) samples will be collected for monitoring insertional oncogenesis by PCR for gene modified cells in the blood.",
+            "SecondaryOutcomeTimeFrame": "Until disease progression (up to 5 years)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Substudy 2: Number of participants with clinically significant changes in hematology, clinical chemistry and urinalysis parameters",
+            "SecondaryOutcomeDescription": "Blood and urine samples will be collected for assessment of hematology, clinical chemistry and urinalysis parameters.",
+            "SecondaryOutcomeTimeFrame": "Until disease progression (up to 5 years)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Substudy 1 and 2: Maximum transgene expansion (Cmax) of letetresgene autoleucel",
+            "SecondaryOutcomeDescription": "Whole blood samples will be collected at indicated time points for evaluation of Cmax.",
+            "SecondaryOutcomeTimeFrame": "Until disease progression (up to 5 years)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Substudy 1 and 2: Time to Cmax (Tmax) of letetresgene autoleucel",
+            "SecondaryOutcomeDescription": "Whole blood samples will be collected at indicated time points for evaluation of Tmax.",
+            "SecondaryOutcomeTimeFrame": "Until disease progression (up to 5 years)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Substudy 1 and 2: Area under the concentration/persistence time curve from zero to time t (AUC[0-t]) of letetresgene autoleucel",
+            "SecondaryOutcomeDescription": "Whole blood samples will be collected at indicated time points for evaluation of AUC(0-t).",
+            "SecondaryOutcomeTimeFrame": "Until disease progression (up to 5 years)"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Substudy 2: Overall response rate (ORR) as determined by the local investigators",
+            "SecondaryOutcomeDescription": "Overall response rate is defined as the percentage of participants with a confirmed CR or PR relative to the total number of participants within the analysis population at any time per RECIST v1.1. as determined by the local investigators.",
+            "SecondaryOutcomeTimeFrame": "Up to 5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Substudy 2: Overall Survival (OS)",
+            "SecondaryOutcomeDescription": "Overall Survival is defined as the interval of time between the date of T-cell infusion and the date of death.",
+            "SecondaryOutcomeTimeFrame": "Up to 5 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Substudy 2: Number of participants with positive anti-drug antibodies (ADA) and titers of ADA against letetresgene autoleucel",
+            "SecondaryOutcomeDescription": "Serum samples will be collected to analyze for the presence of ADAs using validated immunoassays.",
+            "SecondaryOutcomeTimeFrame": "Up to 36 months"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nParticipant must be greater than or equal to 10 years of age on the day of signing informed consent.\nParticipant must be positive for HLA-A*02:01, HLA-A*02:05, and/or HLA-A*02:06 alleles by a designated central laboratory\nParticipant's tumor is positive for NY-ESO-1 expression by a designated central laboratory.\nParticipant has a diagnosis of synovial sarcoma (SS) or myxoid/round cell liposarcoma (MRCLS)\nPerformance status: dependent on age - Lansky > 60, Karnofsky > 60, Eastern Cooperative Oncology Group 0-1.\nParticipant must have adequate organ function and blood cell counts, within 7 days prior to leukapheresis.\nAt time of treatment, participant has measurable disease according to RECIST v1.1.\nConsultation for prior history per protocol specifications.\n\nExclusion Criteria:\n\nCentral nervous system metastases.\nAny other prior malignancy that is not in complete remission.\nClinically significant systemic illness.\nPrior or active demyelinating disease.\nHistory of chronic or recurrent (within the last year prior to leukapheresis) severe autoimmune or immune mediated disease (e.g. Crohn's disease, systemic lupus) requiring steroids or other immunosuppressive treatments.\nPrevious treatment with genetically engineered NY-ESO-1-specific T cells.\nPrevious NY-ESO-1 vaccine or NY-ESO-1 targeting antibody.\nPrior gene therapy using an integrating vector.\nPrevious allogeneic hematopoietic stem cell transplant.\nWashout periods for prior radiotherapy and systemic chemotherapy must be followed.\nParticipant had major surgery in less than or equal to 28 days of first dose of study intervention.\nPrior radiation exceeds protocol specified limits.",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "10 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Child",
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "US GSK Clinical Trials Call Center",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "877-379-3718",
+            "CentralContactEMail": "GSKClinicalSupportHD@gsk.com"
+          },
+          {
+            "CentralContactName": "EU GSK Clinical Trials Call Center",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+44 (0) 20 89904466",
+            "CentralContactEMail": "GSKClinicalSupportHD@gsk.com"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "GSK Clinical Trials",
+            "OverallOfficialAffiliation": "GlaxoSmithKline",
+            "OverallOfficialRole": "Study Director"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Duarte",
+            "LocationState": "California",
+            "LocationZip": "91010",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Mark Agulnik",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Stanford",
+            "LocationState": "California",
+            "LocationZip": "94305",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Kristen Ganjoo",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Denver",
+            "LocationState": "Colorado",
+            "LocationZip": "80218",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Gerald Falchook",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Jacksonville",
+            "LocationState": "Florida",
+            "LocationZip": "32224",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Steven Attia",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Chicago",
+            "LocationState": "Illinois",
+            "LocationZip": "60637",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Ami V Desai",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Iowa City",
+            "LocationState": "Iowa",
+            "LocationZip": "52242-1009",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Varun V Monga",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Boston",
+            "LocationState": "Massachusetts",
+            "LocationZip": "02114",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "George D Demetri",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Boston",
+            "LocationState": "Massachusetts",
+            "LocationZip": "02114",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Edwin Choy",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Ann Arbor",
+            "LocationState": "Michigan",
+            "LocationZip": "48109",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Rashmi Chugh",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Minneapolis",
+            "LocationState": "Minnesota",
+            "LocationZip": "55455",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Emily Greengard",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Rochester",
+            "LocationState": "Minnesota",
+            "LocationZip": "55905",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Steven I Robinson",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Saint Louis",
+            "LocationState": "Missouri",
+            "LocationZip": "63110",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Brian Van Tine",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "New York",
+            "LocationState": "New York",
+            "LocationZip": "10065",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Sandra P D'Angelo",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Durham",
+            "LocationState": "North Carolina",
+            "LocationZip": "27710",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Richard Riedel",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Columbus",
+            "LocationState": "Ohio",
+            "LocationZip": "43210",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "David Liebner",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Portland",
+            "LocationState": "Oregon",
+            "LocationZip": "97239",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Lara Davis",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Pittsburgh",
+            "LocationState": "Pennsylvania",
+            "LocationZip": "15232",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Melissa Burgess",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Nashville",
+            "LocationState": "Tennessee",
+            "LocationZip": "37203",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Melissa L Johnson",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Dallas",
+            "LocationState": "Texas",
+            "LocationZip": "75390-8565",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Farrukh Awan",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Dallas",
+            "LocationState": "Texas",
+            "LocationZip": "75390-9063",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Samuel John",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Salt Lake City",
+            "LocationState": "Utah",
+            "LocationZip": "84112",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Anna Chalmers",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Richmond",
+            "LocationState": "Virginia",
+            "LocationZip": "23298",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Andrew Poklepovic",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Seattle",
+            "LocationState": "Washington",
+            "LocationZip": "98109-1024",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Michael Wagner",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Milwaukee",
+            "LocationState": "Wisconsin",
+            "LocationZip": "53226",
+            "LocationCountry": "United States",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "John A Charlson",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Toronto",
+            "LocationState": "Ontario",
+            "LocationZip": "M5G 2M9",
+            "LocationCountry": "Canada",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Albiruni Ryan Abdul Razak",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Montreal",
+            "LocationState": "Quebec",
+            "LocationZip": "H1T 2M4",
+            "LocationCountry": "Canada",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Jonathan Noujaim",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Lyon cedex 08",
+            "LocationZip": "69373",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Jean-Yves Blay",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Pessac cedex",
+            "LocationZip": "33604",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Edouard Forcade",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Milano",
+            "LocationState": "Lombardia",
+            "LocationZip": "20133",
+            "LocationCountry": "Italy",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Silvia Stacchiotti",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Rozzano (MI)",
+            "LocationState": "Lombardia",
+            "LocationZip": "20089",
+            "LocationCountry": "Italy",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Armando Santoro",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Amsterdam",
+            "LocationZip": "1066 CX",
+            "LocationCountry": "Netherlands",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "John B.A.G. Haanen",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Barcelona",
+            "LocationZip": "08025",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Antonio López Pousa",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Hospitalet de Llobregat, Barcelona",
+            "LocationZip": "08907",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Juan Jesús Martín Liberal",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Madrid",
+            "LocationZip": "28040",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Victor Moreno García",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Sevilla",
+            "LocationZip": "41013",
+            "LocationCountry": "Spain",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Pilar Sancho Márquez",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "London",
+            "LocationZip": "SW3 6JJ",
+            "LocationCountry": "United Kingdom",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Andrew Furness",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "London",
+            "LocationZip": "WC1E 6AG",
+            "LocationCountry": "United Kingdom",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Sandra Strauss",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          },
+          {
+            "LocationFacility": "GSK Investigational Site",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Manchester",
+            "LocationZip": "M20 4BX",
+            "LocationCountry": "United Kingdom",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "US GSK Clinical Trials Call Center",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "877-379-3718",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "EU GSK Clinical Trials Call Centre",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+44 (0) 20 8990 4466",
+                  "LocationContactEMail": "GSKClinicalSupportHD@gsk.com"
+                },
+                {
+                  "LocationContactName": "Fiona Thistlethwaite",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes",
+      "IPDSharingDescription": "IPD for this study will be made available via the Clinical Study Data Request site.",
+      "IPDSharingInfoTypeList": {
+        "IPDSharingInfoType": [
+          "Study Protocol",
+          "Statistical Analysis Plan (SAP)",
+          "Informed Consent Form (ICF)",
+          "Clinical Study Report (CSR)"
+        ]
+      },
+      "IPDSharingTimeFrame": "IPD will be made available within 6 months of publishing the results of the primary endpoints, key secondary endpoints and safety data of the study.",
+      "IPDSharingAccessCriteria": "Access is provided after a research proposal is submitted and has received approval from the Independent Review Panel and after a Data Sharing Agreement is in place. Access is provided for an initial period of 12 months but an extension can be granted, when justified, for up to another 12 months.",
+      "IPDSharingURL": "http://clinicalstudydatarequest.com"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M14479",
+            "ConditionBrowseLeafName": "Sarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M11459",
+            "ConditionBrowseLeafName": "Neoplasm Metastasis",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M10232",
+            "ConditionBrowseLeafName": "Liposarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15513",
+            "ConditionBrowseLeafName": "Sarcoma, Synovial",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M19506",
+            "ConditionBrowseLeafName": "Liposarcoma, Myxoid",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T5284",
+            "ConditionBrowseLeafName": "Soft Tissue Sarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T3479",
+            "ConditionBrowseLeafName": "Liposarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T5553",
+            "ConditionBrowseLeafName": "Synovial Sarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4027",
+            "ConditionBrowseLeafName": "Myxoid Liposarcoma",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000003520",
+            "InterventionMeshTerm": "Cyclophosphamide"
+          },
+          {
+            "InterventionMeshId": "C000024352",
+            "InterventionMeshTerm": "Fludarabine"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000007166",
+            "InterventionAncestorTerm": "Immunosuppressive Agents"
+          },
+          {
+            "InterventionAncestorId": "D000007155",
+            "InterventionAncestorTerm": "Immunologic Factors"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          },
+          {
+            "InterventionAncestorId": "D000018501",
+            "InterventionAncestorTerm": "Antirheumatic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000018906",
+            "InterventionAncestorTerm": "Antineoplastic Agents, Alkylating"
+          },
+          {
+            "InterventionAncestorId": "D000000477",
+            "InterventionAncestorTerm": "Alkylating Agents"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          },
+          {
+            "InterventionAncestorId": "D000019653",
+            "InterventionAncestorTerm": "Myeloablative Agonists"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M5879",
+            "InterventionBrowseLeafName": "Cyclophosphamide",
+            "InterventionBrowseLeafAsFound": "Months",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M283219",
+            "InterventionBrowseLeafName": "Fludarabine",
+            "InterventionBrowseLeafAsFound": "Medical",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M225481",
+            "InterventionBrowseLeafName": "Fludarabine phosphate",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9364",
+            "InterventionBrowseLeafName": "Immunosuppressive Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M9353",
+            "InterventionBrowseLeafName": "Immunologic Factors",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M19757",
+            "InterventionBrowseLeafName": "Antirheumatic Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M20095",
+            "InterventionBrowseLeafName": "Antineoplastic Agents, Alkylating",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M2972",
+            "InterventionBrowseLeafName": "Alkylating Agents",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "ARhu",
+            "InterventionBrowseBranchName": "Antirheumatic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

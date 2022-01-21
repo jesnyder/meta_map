@@ -1,0 +1,355 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04653740",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "OMERIC-1904"
+      },
+      "Organization": {
+        "OrgFullName": "Centre Oscar Lambret",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Omic Technologies to Track Resistance to Palbociclib in Metastatic Breast Cancer",
+      "OfficialTitle": "Omic Technologies to Track Resistance to Palbociclib in Metastatic Breast Cancer (OMERIC): A Cohort Study",
+      "Acronym": "OMERIC"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "September 8, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "September 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "September 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "September 15, 2020",
+      "StudyFirstSubmitQCDate": "November 27, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 4, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "November 27, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 4, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Centre Oscar Lambret",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "Laboratoire PRISM - Michel SALZET",
+            "CollaboratorClass": "UNKNOWN"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "Yes",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This is a monocentric cohort study, prospective and interventional with minimal risks and constraints for advanced breast cancer. The planned interventions are collection of biological samples at different times. The study will aim to do a descriptive analysis of omics profiles evolution (tumor, volatile organic components) over time, before and after disease progression under Palbociclib treatment with a clinical-biological database.",
+      "DetailedDescription": "Patients enrolled in the study will receive the following interventions:\n\nBiospecimen sample collection: before and during treatment, and at progression\nTumor biopsy before treatment and at progression\n\nThe aim of this study is to describe molecular changes associated with resistance to Palbociclib at the individual level and describe longitudinal changes in the profile of tumor, VOCs and exosomes according to treatment response.\n\nOther objectives of the study include:\n\nProportion of single or shared molecular alterations / signatures between patients at progression time\nAssociations between tumor signatures, VOCs and exosomes\nCompare molecular changes identified by proteomics with those observed by genomics / transcriptomics\nCompare the evolution of VOCs and exosomes over time with evolution of liquid biopsy markers."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Advanced Breast Cancer"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "breast cancer",
+          "omics profiles",
+          "proteomics",
+          "volatile organic compounds",
+          "exosomes"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Not Applicable"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "Non-Randomized",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Other",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "25",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Procedure",
+            "InterventionName": "specimen sample collection",
+            "InterventionDescription": "Before and during treatment, and at progression, collection of :\n\nBlood\nExhaled air\nSaliva\nSweat\nTears\nUrine"
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Intrapatient variation in molecular profiles at progression compared to baseline",
+            "PrimaryOutcomeDescription": "Variation over time in the rate of VOCs in response to treatment and in progression situations.",
+            "PrimaryOutcomeTimeFrame": "From date of inclusion until the date of first documented progression (around 2 years)"
+          },
+          {
+            "PrimaryOutcomeMeasure": "longitudinal changes in VOCs profile and exosomes according to response to treatment",
+            "PrimaryOutcomeDescription": "variation over time in exosomes count in response to treatment and in progression situations",
+            "PrimaryOutcomeTimeFrame": "From date of inclusion until the date of first documented progression, assessed up to 2 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Proportion of alterations / molecular signatures unique or shared between patients at progression",
+            "SecondaryOutcomeDescription": "Frequency of molecular alterations in the population",
+            "SecondaryOutcomeTimeFrame": "At progression time, up to 2 years"
+          },
+          {
+            "SecondaryOutcomeMeasure": "Correlation between tumor signatures, VOCs and exosomes",
+            "SecondaryOutcomeDescription": "Distribution of VOCs and exosome profiles according to the different molecular profiles of tumors that will be identified",
+            "SecondaryOutcomeTimeFrame": "At progression time, up to 2 years"
+          }
+        ]
+      },
+      "OtherOutcomeList": {
+        "OtherOutcome": [
+          {
+            "OtherOutcomeMeasure": "Concordance between molecular changes identified by proteomics and those observed by genomics/transcriptomics",
+            "OtherOutcomeDescription": "Concordance between identified proteins and expressed genes and/or detected mutations",
+            "OtherOutcomeTimeFrame": "At progression time, up to 2 years"
+          },
+          {
+            "OtherOutcomeMeasure": "Describe the evolution of VOCs and exosomes over time in relation to the evolution of liquid biopsy markers (CA15.3)",
+            "OtherOutcomeDescription": "Intra-patient variation over time in VOC rate (rate of CA15.3)",
+            "OtherOutcomeTimeFrame": "At progression time, up to 2 years"
+          },
+          {
+            "OtherOutcomeMeasure": "Describe the evolution of VOCs and exosomes over time in relation to the evolution of liquid biopsy markers (CA15.3)",
+            "OtherOutcomeDescription": "Intra-patient variation over time in exosomes count (rate of CA15.3)",
+            "OtherOutcomeTimeFrame": "At progression time, up to 2 years"
+          },
+          {
+            "OtherOutcomeMeasure": "Describe the evolution of VOCs and exosomes over time in relation to the evolution of liquid biopsy markers (CA15.3)",
+            "OtherOutcomeDescription": "Intra-patient variation over time in liquid biopsy markers (rate of CA15.3)",
+            "OtherOutcomeTimeFrame": "At progression time, up to 2 years"
+          },
+          {
+            "OtherOutcomeMeasure": "Describe the evolution of VOCs and exosomes over time in relation to the evolution of liquid biopsy markers (LDH)",
+            "OtherOutcomeDescription": "Intra-patient variation over time in VOC rate (rate of LDH)",
+            "OtherOutcomeTimeFrame": "At progression time, up to 2 years"
+          },
+          {
+            "OtherOutcomeMeasure": "Describe the evolution of VOCs and exosomes over time in relation to the evolution of liquid biopsy markers (LDH)",
+            "OtherOutcomeDescription": "Intra-patient variation over time in exosomes count (rate of LDH)",
+            "OtherOutcomeTimeFrame": "At progression time, up to 2 years"
+          },
+          {
+            "OtherOutcomeMeasure": "Describe the evolution of VOCs and exosomes over time in relation to the evolution of liquid biopsy markers (LDH)",
+            "OtherOutcomeDescription": "Intra-patient variation over time in liquid biopsy markers (rate of LDH)",
+            "OtherOutcomeTimeFrame": "At progression time, up to 2 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nWomen over 18 years old\nWith histologically proven breast cancer, positives hormones receptors and negative HER2\nAdvanced disease (metastases or non-resequable locoregional disease), from the 1st to the 4th line.\nWith an indication for hormone therapy associated with the CDK4/6 inhibitor Palbociclib\nAgree to the sampling of the study\nSigned the informed consent form\n\nExclusion Criteria:\n\nNeoadjuvant or adjuvant treatment for localized breast cancer\nMetastatic breast cancer beyond the forth line\nImpossibility to give informed consent (person deprived of liberty or under guardianship)",
+      "HealthyVolunteers": "No",
+      "Gender": "Female",
+      "GenderBased": "Yes",
+      "GenderDescription": "Female with breast cancer",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Nawale NH HAJJAJI, MD, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "0320295910",
+            "CentralContactEMail": "promotion@o-lambret.fr"
+          },
+          {
+            "CentralContactName": "Marie MV VANSEYMORTIER, MD, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "0320295910",
+            "CentralContactEMail": "promotion@o-lambret.fr"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Centre Oscar Lambret",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Lille",
+            "LocationZip": "59020",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Nawale NH HAJJAJI, MD, PhD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "0320295910",
+                  "LocationContactEMail": "promotion@o-lambret.fr"
+                },
+                {
+                  "LocationContactName": "Nawale NH Hajjaji, MD, PhD",
+                  "LocationContactRole": "Principal Investigator"
+                },
+                {
+                  "LocationContactName": "Charlotte CB Bellier, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Emilie EK Kaczmarek, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                },
+                {
+                  "LocationContactName": "Audrey AM Maillez, MD, PhD",
+                  "LocationContactRole": "Sub-Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Yes"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000001943",
+            "ConditionMeshTerm": "Breast Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000001941",
+            "ConditionAncestorTerm": "Breast Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012871",
+            "ConditionAncestorTerm": "Skin Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M4372",
+            "ConditionBrowseLeafName": "Breast Neoplasms",
+            "ConditionBrowseLeafAsFound": "Breast Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M4370",
+            "ConditionBrowseLeafName": "Breast Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14826",
+            "ConditionBrowseLeafName": "Skin Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M223855",
+            "InterventionBrowseLeafName": "Palbociclib",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

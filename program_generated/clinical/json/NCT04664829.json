@@ -1,0 +1,378 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04664829",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "BEXMET"
+      },
+      "Organization": {
+        "OrgFullName": "National Cancer Centre, Singapore",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "The Role of Bexarotene in Inducing Susceptibility to Chemotherapy in Metastatic TNBC",
+      "OfficialTitle": "Metastatic Triple-Negative Taxane-Resistant Breast Cancer: Investigating the Role of Bexarotene in Inducing Susceptibility to Chemotherapy by Differentiating Cancer Cells From a Mesenchymal-Like to an Epithelial-Like Phenotype"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "December 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "October 1, 2020",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "June 30, 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "June 30, 2023",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "November 9, 2020",
+      "StudyFirstSubmitQCDate": "December 7, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 11, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "December 7, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "December 11, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "National Cancer Centre, Singapore",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "National Medical Research Council (NMRC), Singapore",
+            "CollaboratorClass": "OTHER_GOV"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "Triple-negative breast cancer (TNBC) is biologically aggressive and has limited systemic treatment options, often compounded by treatment resistance.\n\nCell state transitions, e.g. epithelial-to-mesenchymal transition (EMT) govern cancer cell behaviour.\n\nThe investigators hypothesize that by inducing change in cell state change, TNBC cells that have manifested taxane-resistance will be more sensitized to subsequent chemotherapy."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Metastatic Triple-Negative Breast Carcinoma"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Bexarotene"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Interventional",
+      "PhaseList": {
+        "Phase": [
+          "Phase 1"
+        ]
+      },
+      "DesignInfo": {
+        "DesignAllocation": "N/A",
+        "DesignInterventionModel": "Single Group Assignment",
+        "DesignPrimaryPurpose": "Treatment",
+        "DesignMaskingInfo": {
+          "DesignMasking": "None (Open Label)"
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "12",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Bexarotene and Capecitabine",
+            "ArmGroupType": "Experimental",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Drug: Bexarotene",
+                "Drug: Capecitabine"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Bexarotene",
+            "InterventionDescription": "Administered orally once a day. Starting dosage: 200mg/m^2",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Bexarotene and Capecitabine"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Targretin"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Drug",
+            "InterventionName": "Capecitabine",
+            "InterventionDescription": "Administered orally twice a day. Dosage: 1000mg/m^2",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Bexarotene and Capecitabine"
+              ]
+            },
+            "InterventionOtherNameList": {
+              "InterventionOtherName": [
+                "Xeloda"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Tumour transcriptome by RNA sequencing",
+            "PrimaryOutcomeDescription": "To characterize the changes in tumour transcriptome upon treatment",
+            "PrimaryOutcomeTimeFrame": "From time of first biopsy before the start of treatment, to disease progression, up to 2 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Tumour protein profile by multiplex immunohistochemistry",
+            "PrimaryOutcomeDescription": "To characterize the changes in tumour protein profile upon treatment",
+            "PrimaryOutcomeTimeFrame": "From time of first biopsy before the start of study treatment, to disease progression, up to 2 years"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Incidences of treatment related adverse events",
+            "SecondaryOutcomeTimeFrame": "From time of start of study treatment, to 28 days after last dose of study treatment, up to 2 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nPatients with histologically or cytologically proven metastatic TNBC\nPatients whose TNBC has progressed after prior taxane therapy in the metastatic setting, and have not received Capecitabine or 5-fluorouracil\nFemales aged 21 years and older\nECOG performance status 0 or 1\nLife expectancy greater than three months\nPatients have normal organ and marrow function\nSite(s) of disease amenable to serial bedside biopsies before, during and after study treatment\n\nExclusion Criteria:\n\nPrevious palliative radiotherapy to potentially biopsy-able lesion\nActive symptomatic central nervous system (CNS) metastases\nSpinal cord compression not definitively treated with surgery and/or radiation\nUncontrolled pleural effusion, pericardial effusion, ascites requiring recurrent drainage procedures",
+      "HealthyVolunteers": "No",
+      "Gender": "Female",
+      "GenderBased": "Yes",
+      "MinimumAge": "21 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      }
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Elaine Lim, MD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "6436 8000",
+            "CentralContactEMail": "elaine.lim.hsuen@singhealth.com.sg"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Elaine Lim, MD",
+            "OverallOfficialAffiliation": "National Cancer Centre, Singapore",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "National Cancer Center Singapore",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Singapore",
+            "LocationZip": "169690",
+            "LocationCountry": "Singapore"
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000001943",
+            "ConditionMeshTerm": "Breast Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000001941",
+            "ConditionAncestorTerm": "Breast Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000012871",
+            "ConditionAncestorTerm": "Skin Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M4686",
+            "ConditionBrowseLeafName": "Carcinoma",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4372",
+            "ConditionBrowseLeafName": "Breast Neoplasms",
+            "ConditionBrowseLeafAsFound": "Breast Carcinoma",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6532",
+            "ConditionBrowseLeafName": "Disease Susceptibility",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4370",
+            "ConditionBrowseLeafName": "Breast Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14826",
+            "ConditionBrowseLeafName": "Skin Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC17",
+            "ConditionBrowseBranchName": "Skin and Connective Tissue Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000069287",
+            "InterventionMeshTerm": "Capecitabine"
+          },
+          {
+            "InterventionMeshId": "D000077610",
+            "InterventionMeshTerm": "Bexarotene"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000000964",
+            "InterventionAncestorTerm": "Antimetabolites, Antineoplastic"
+          },
+          {
+            "InterventionAncestorId": "D000000963",
+            "InterventionAncestorTerm": "Antimetabolites"
+          },
+          {
+            "InterventionAncestorId": "D000045504",
+            "InterventionAncestorTerm": "Molecular Mechanisms of Pharmacological Action"
+          },
+          {
+            "InterventionAncestorId": "D000000970",
+            "InterventionAncestorTerm": "Antineoplastic Agents"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M377",
+            "InterventionBrowseLeafName": "Capecitabine",
+            "InterventionBrowseLeafAsFound": "Saline",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M147727",
+            "InterventionBrowseLeafName": "Taxane",
+            "InterventionBrowseLeafRelevance": "low"
+          },
+          {
+            "InterventionBrowseLeafId": "M1866",
+            "InterventionBrowseLeafName": "Bexarotene",
+            "InterventionBrowseLeafAsFound": "Waking",
+            "InterventionBrowseLeafRelevance": "high"
+          },
+          {
+            "InterventionBrowseLeafId": "M3433",
+            "InterventionBrowseLeafName": "Antimetabolites",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "ANeo",
+            "InterventionBrowseBranchName": "Antineoplastic Agents"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04653610",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "BC-08408"
+      },
+      "Organization": {
+        "OrgFullName": "University Hospital, Ghent",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Sequential Analysis Before and After Treatment Initiation to Unravel the Role of Naturally Occurring Extracellular Vesicles in HIV Infection",
+      "OfficialTitle": "Sequential Analysis Before and After Treatment Initiation to Unravel the Role of Naturally Occurring Extracellular Vesicles in HIV Infection",
+      "Acronym": "Saturne-HIV"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "October 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "January 27, 2021",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "January 2023",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "January 2025",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "October 23, 2020",
+      "StudyFirstSubmitQCDate": "November 26, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 4, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "May 31, 2021",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "June 3, 2021",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Hospital, Ghent",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "This study aims to evaluate the role of extracellular vesicles in HIV-infection, by determining the expression profile and content of EVs before and after treatment initiation in HIV-infected patients, through extensive blood and tissue sampling (leukapheresis, stool sampling and colon biopsies). A one-time sampling (blood, stool, colon biopsies) will also be performed in HIV-seronegative healthy volunteers to confirm that results found in HIV-infected patients are related to the disease."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Hiv"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "HIV",
+          "Extracellular Vesicles"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "66",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "HIV-infected individuals"
+          },
+          {
+            "ArmGroupLabel": "HIV-seronegative healthy volunteers"
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Extracellular Vesicles analysis-NTA",
+            "PrimaryOutcomeDescription": "Extracellular vesicles (EV) will be isolated through a combination of size-exclusion chromatography (SEC) and Optiprep density gradient (ODG). Nanoparticle Tracking Analysis (NTA) will be performed to obtain the concentration and size distribution of EVs in the samples.",
+            "PrimaryOutcomeTimeFrame": "4 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Extracellular Vesicles analysis-microscopy",
+            "PrimaryOutcomeDescription": "The isolated EVs will be further visualized by (electron) microscopy.",
+            "PrimaryOutcomeTimeFrame": "4 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Extracellular Vesicles analysis-western blot",
+            "PrimaryOutcomeDescription": "The isolated EVs will be further characterized through western blot.",
+            "PrimaryOutcomeTimeFrame": "4 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Extracellular Vesicles analysis-PCR",
+            "PrimaryOutcomeDescription": "The isolated EVs will be further characterized through PCR.",
+            "PrimaryOutcomeTimeFrame": "4 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Extracellular Vesicles analysis-proteomics",
+            "PrimaryOutcomeDescription": "The isolated EVs will be further characterized through proteomic analysis.",
+            "PrimaryOutcomeTimeFrame": "4 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Extracellular Vesicles analysis-RNAsequencing",
+            "PrimaryOutcomeDescription": "The isolated EVs will be further characterized through RNA sequencing.",
+            "PrimaryOutcomeTimeFrame": "4 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Extracellular Vesicles analysis-reporter assays",
+            "PrimaryOutcomeDescription": "Reporter assays will be performed to quantitatively measure bacterial EV-associated lipopolysaccharide (LPS).",
+            "PrimaryOutcomeTimeFrame": "4 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Quantification of HIV DNA and RNA",
+            "PrimaryOutcomeDescription": "Digital PCR",
+            "PrimaryOutcomeTimeFrame": "4 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Immunological analysis-FACS",
+            "PrimaryOutcomeDescription": "Immunophenotyping by flow cytometric assays will be performed of different cells to assess the phenotype of innate immune cells, using FACS analysis.",
+            "PrimaryOutcomeTimeFrame": "4 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Immunological analysis-ELISA",
+            "PrimaryOutcomeDescription": "Immunophenotyping by flow cytometric assays will be performed of different cells to assess the phenotype of innate immune cells, using ELISA.",
+            "PrimaryOutcomeTimeFrame": "4 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Gene expression analysis/transcriptomics",
+            "PrimaryOutcomeTimeFrame": "4 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Microbiome monitoring",
+            "PrimaryOutcomeDescription": "Gut microbiome will be analyzed in stool and colon biopsies using next-generation sequencing (NGS) of rRNA gene amplicons to identify bacteria at genus/species level",
+            "PrimaryOutcomeTimeFrame": "4 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Virological analysis-FLIPS",
+            "PrimaryOutcomeDescription": "HIV will be characterized by Full Length Individual Proviral Sequencing (FLIPS).",
+            "PrimaryOutcomeTimeFrame": "4 years"
+          },
+          {
+            "PrimaryOutcomeMeasure": "Virological analysis-integration site",
+            "PrimaryOutcomeDescription": "HIV will be characterized by integration site analysis.",
+            "PrimaryOutcomeTimeFrame": "4 years"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "A. HIV-infected individuals\n\nA.1. Inclusion Criteria:\n\nDocumented untreated HIV-1 infection defined as followed: HIV-1-specific antibody+(western blot); p31+ (ELISA)\nCD4 T cell count will be determined standard of care (SOC). A minimum of 16 patients will be included with a CD4 T cell count lower than 350 cells/µl and a minimum of 16 patients with a CD4 T cell count higher than 350 cells/µl\nAble and willing to provide written informed consent\nAge ≥ 18 years and ≤ 65 years\nAbility to attend the complete schedule of assessments and patient visits as described in the schedule below\nAbility and willingness to have blood, stool and colon samples collected and stored for 20 years after finalizing the study, and used for various research purposes\n\nA.2. Exclusion Criteria:\n\nRecent HIV-infection, early diagnosis\nPrevious or current history of opportunistic infection (AIDS defining events as defined in category C of the CDC clinical classification), consisting of chronic HIV-1 infection\nEvidence of active HBV infection (Hepatitis B surface antigen positive or HBV viral load positive in the past and no evidence of subsequent seroconversion (=HBV antigen or viral load negative and positive HBV surface antibody))\nEvidence of active HCV infection: HCV antibody positive result within 60 days prior to study entry with positive HCV viral load or, if the HCV antibody result is negative, a positive HCV RNA result within 60 days prior to study entry\nCurrent or known history of cardiomyopathy or significant ischemic or cerebrovascular disease\nCurrent or known history of cancer\nPregnancy or breastfeeding\nAny conditions, including preexisting psychiatric and psychological disorders, which will in the opinion of the investigator interfere with the trial conduct or safety of the participant. An initial psychiatric assessment will be made by the treating physician. Since making a correct psychological assessment at the time of diagnosis can be difficult, a visit with a psychologist is planned for patients included in the study, for a second evaluation. This will be planned within the first month after diagnosis. In consultation with the psychologist, further sampling will be planned or the patient will be excluded from further sampling.\nPrevious participation in a trial evaluating an immune modulating agent\n\nAbnormal laboratory tests results at screening:\n\nConfirmed hemoglobin <11g/dl for women and <12 g/dl for men\nConfirmed platelet count < 100 000/µl\nConfirmed neutrophil count <1000/μl\nConfirmed AST and/or ALT > 10x ULN\nActive drug or alcohol use or dependence that, in the opinion of the site investigator, would interfere with adherence to study requirements\nAcute or serious illness, in the opinion of the site investigator, requiring systemic treatment and/or hospitalization within 60 days prior to entry\nKnown inflammatory bowel disease (Crohn's disease or ulcerative colitis)\n\nB. Healthy Volunteers\n\nB.1. Inclusion Criteria:\n\nAble and willing to provide written informed consent\nAge ≥ 18 years and ≤ 65 years\nAbility to attend the complete sampling schedule, as described below\nAbility and willingness to have blood, stool and colon samples collected and stored for 20 years and used for various research purposes\n\nB.2. Exclusion Criteria:\n\nHIV-infection\nEvidence of active HBV infection (Hepatitis B surface antigen positive or HBV viral load positive in the past and no evidence of subsequent seroconversion (=HBV antigen or viral load negative and positive HBV surface antibody))\nEvidence of active HCV infection: HCV antibody positive result within 60 days prior to study entry with positive HCV viral load or, if the HCV antibody result is negative, a positive HCV RNA result within 60 days prior to study entry\nCurrent or known history of cardiomyopathy or significant ischemic or cerebrovascular disease\nCurrent or known history of cancer\nPregnancy or breastfeeding\nAny conditions, including preexisting psychiatric and psychological disorders, which will in the opinion of the investigator interfere with the trial conduct or safety of the participant\nPrevious participation in a trial evaluating an immune modulating agent\n\nAbnormal laboratory tests results at screening:\n\nConfirmed hemoglobin <11g/dl for women and <12 g/dl for men\nConfirmed platelet count < 100 000/µl\nConfirmed neutrophil count <1000/μl\nConfirmed AST and/or ALT > 10xULN\nActive drug or alcohol use or dependence that, in the opinion of the site investigator, would interfere with adherence to study requirements\nAcute or serious illness, in the opinion of the site investigator, requiring systemic treatment and/or hospitalization within 60 days prior to entry\nKnown inflammatory bowel disease (Crohn's disease or ulcerative colitis)",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "MaximumAge": "65 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Our aim is to enroll a minimum of 32 and a maximum of 50 untreated HIV-infected patients. We aim to include a minimum of 16 patients with a CD4 T cell count lower than 350 cells/µl and a minimum of 16 patients with a CD4 T cell count higher than 350 cells/µl. Furthermore we aim to include 16 HIV-seronegative healthy donors to confirm that the results found in HIV-patients are related to the disease.",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Linos Vandekerckhove, Prof. Dr.",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "+3293323398",
+            "CentralContactEMail": "linos.vandekerckhove@ugent.be"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Linos Vandekerckhove, Prof. Dr.",
+            "OverallOfficialAffiliation": "University Hospital, Ghent",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Ghent University Hospital",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Ghent",
+            "LocationState": "Oost-Vlaanderen",
+            "LocationZip": "9000",
+            "LocationCountry": "Belgium",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Linos Vandekerckhove, Prof. Dr.",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+3293323398",
+                  "LocationContactEMail": "linos.vandekerckhove@ugent.be"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "Undecided"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 21, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000015658",
+            "ConditionMeshTerm": "HIV Infections"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000007239",
+            "ConditionAncestorTerm": "Infections"
+          },
+          {
+            "ConditionAncestorId": "D000086982",
+            "ConditionAncestorTerm": "Blood-Borne Infections"
+          },
+          {
+            "ConditionAncestorId": "D000003141",
+            "ConditionAncestorTerm": "Communicable Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000015229",
+            "ConditionAncestorTerm": "Sexually Transmitted Diseases, Viral"
+          },
+          {
+            "ConditionAncestorId": "D000012749",
+            "ConditionAncestorTerm": "Sexually Transmitted Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000016180",
+            "ConditionAncestorTerm": "Lentivirus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012192",
+            "ConditionAncestorTerm": "Retroviridae Infections"
+          },
+          {
+            "ConditionAncestorId": "D000012327",
+            "ConditionAncestorTerm": "RNA Virus Infections"
+          },
+          {
+            "ConditionAncestorId": "D000014777",
+            "ConditionAncestorTerm": "Virus Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000007153",
+            "ConditionAncestorTerm": "Immunologic Deficiency Syndromes"
+          },
+          {
+            "ConditionAncestorId": "D000007154",
+            "ConditionAncestorTerm": "Immune System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M9435",
+            "ConditionBrowseLeafName": "Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M5520",
+            "ConditionBrowseLeafName": "Communicable Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17402",
+            "ConditionBrowseLeafName": "HIV Infections",
+            "ConditionBrowseLeafAsFound": "HIV Infections",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M2674",
+            "ConditionBrowseLeafName": "Acquired Immunodeficiency Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14710",
+            "ConditionBrowseLeafName": "Sexually Transmitted Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17085",
+            "ConditionBrowseLeafName": "Sexually Transmitted Diseases, Viral",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M17792",
+            "ConditionBrowseLeafName": "Lentivirus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14178",
+            "ConditionBrowseLeafName": "Retroviridae Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M16674",
+            "ConditionBrowseLeafName": "Virus Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M14301",
+            "ConditionBrowseLeafName": "RNA Virus Infections",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M15507",
+            "ConditionBrowseLeafName": "Syndrome",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9351",
+            "ConditionBrowseLeafName": "Immunologic Deficiency Syndromes",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M9352",
+            "ConditionBrowseLeafName": "Immune System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC01",
+            "ConditionBrowseBranchName": "Infections"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC23",
+            "ConditionBrowseBranchName": "Symptoms and General Pathology"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC20",
+            "ConditionBrowseBranchName": "Immune System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXS",
+            "ConditionBrowseBranchName": "Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT04323917",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "EMT PC 1.1"
+      },
+      "Organization": {
+        "OrgFullName": "Istituto Clinico Humanitas",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Detection of High Expression Levels of EMT-Transcription Factor mRNAs in Patients With Pancreatic Cancer and Their Diagnostic Potential",
+      "OfficialTitle": "Detection of High Expression Levels of EMT-Transcription Factor mRNAs in Patients With Pancreatic Cancer and Their Diagnostic Potential"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "August 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "November 2, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "November 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "November 2022",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 20, 2019",
+      "StudyFirstSubmitQCDate": "March 24, 2020",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "March 27, 2020",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "August 7, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "August 10, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "Istituto Clinico Humanitas",
+        "LeadSponsorClass": "OTHER"
+      },
+      "CollaboratorList": {
+        "Collaborator": [
+          {
+            "CollaboratorName": "IRCCS San Raffaele",
+            "CollaboratorClass": "OTHER"
+          }
+        ]
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "The present study is aimed at detecting and measuring mRNA levels of genes involved in epithelial to mesenchymal transition (EMT) in biological samples, i.e. in peripheral blood samples of pancreatic cancer (PC) patients and healthy controls, to determine the presence of disease, its progression and risk of recurrence.",
+      "DetailedDescription": "The investigators first provided evidence that human pancreatic cancer (PC) cells can undergo EMT during local invasion, and that EMT transcription factors (i.e.Twist family basic helix-loop-helix transcription factor 1 (TWIST1)) are increased in the blood of PC patients. In addressing the relevance of EMT in the metastatic process, the prognostic role of M-like cancer cells entering into the circulation remains to be determined.\n\nCurrently, the notion that cancer disseminates via the circulation led to increased attention on the identification of circulating tumor cells (CTCs) in blood samples (\"liquid biopsy\"; LB), so far exclusively based upon epithelial (E) markers. However, an un-biased evaluation of CTCs, providing meaningful information for cancer diagnosis up to therapy, cannot exclude cells with M features. LB data show that circulating TWIST1, zinc finger E-box binding homeobox 2 (ZEB2) and E-Cadherin (CDH1) messenger ribonucleic acids (mRNA) are significantly and steadily increased in the blood of PC patients.These findings indicate that high levels of EMT players in the circulation efficiently discriminate PC patients, irrespectively of tumor resectability.\n\nThe present study is aimed at detecting and measuring mRNA levels of genes involved in epithelial to mesenchymal transition in biological samples, i.e. in peripheral blood samples of tumor patients, to determine the presence of disease, its progression and risk of recurrence.\n\nAim of the study is to depict the molecular profile of EMT-Transcription factor (EMT-TFs) variations in the blood of patients with early, intermediate or advanced PC, with respect to disease progression and delivered treatments.\n\nPrimary endpoint: to determ the stage, the remission or the progression of a pancreatic cancer in a pancreatic cancer affected subjects. This end-point comprising the step of assaying a biological sample from said subject for the presence of a panel of mRNAs encoding for transcription factors involved in epithelial to mesenchymal transition.\n\nSecondary endpoint: to identify biomarkers suitable for the selection of patients amenable of responsiveness to medical and surgical treatment."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Pancreatic Cancer"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Epithelial to Mesenchymal Transition",
+          "EMT",
+          "PC",
+          "mRNA",
+          "EMT-TF",
+          "Diagnosis",
+          "Biomarkers",
+          "Liquid biopsy"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Case-Control"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples Without DNA",
+        "BioSpecDescription": "mRNA from whole blood"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "850",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Cases",
+            "ArmGroupDescription": "Subjects affected by Pancreatic carcinoma (PC) confirmed by tissue biopsy",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Liquid biopsy"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Controls",
+            "ArmGroupDescription": "Healthy Subject enrolled following colon cancer screening via colonoscopy",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Liquid biopsy"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "Liquid biopsy",
+            "InterventionDescription": "Detection and quantification of EMT-transcription factor mRNA levels in blood",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Cases",
+                "Controls"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Assessments of diagnosis of PC by EMT-TF mRNA levels in blood",
+            "PrimaryOutcomeDescription": "To determine the stage, the remission or the progression of a pancreatic cancer in a pancreatic cancer affected subject not administered with an appropriate antitumor treatment (e.g., neo-adjuvant therapy) comprising the step of assaying a biological sample from said subject for the presence of a panel of mRNAs encoding for transcription factors involved in epithelial to mesenchymal transition.",
+            "PrimaryOutcomeTimeFrame": "Analysis at day 0: at diagnosis or before surgery for PC patients; before colonoscopy in controls"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "Prediction of prognosis of PC by EMT-TF mRNA levels in blood",
+            "SecondaryOutcomeDescription": "To identify biomarkers suitable for the selection of PC patients amenable of responsiveness to medical and surgical treatment.",
+            "SecondaryOutcomeTimeFrame": "Analysis at least: 7-15 days from surgery (T1), 30 days (T2) from surgery, 6 months (T3) from surgery, 1 year (T4) from surgery"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nMales or females over 18 years of age capable of providing informed consent.\nPancreatic carcinoma confirmed by tissue biopsy or colon mass, clinically consistent with cancer and eventually confirmed by pathology.\nSubject were enrolled following colon cancer screening via colonoscopy\n\nExclusion Criteria:\n\nPatients under the age of 18 years or over the age of 80 years.\nPatients with personal history of cancer, identification of large polyp or adenomatous pathology on previous or subsequent colonoscopy\nPatient with history of abdominal surgery within the past four months\nPatients unwilling to or unable to give informed consent.\nPatients with acute inflammatory diseases or under any emergency condition.\nPregnant women.",
+      "HealthyVolunteers": "Accepts Healthy Volunteers",
+      "Gender": "All",
+      "MinimumAge": "18 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "This is a prospective pathological and molecular study of screening for pancreatic cancer. The main objectives of the trial are:\n\nTo develop a specific and reproducible assay for the detection pancreatic cancer based on blood RNA and to amplify cancer specific molecular markers using qPCR.\nTo correlate the presence of molecular markers in the samples with the presence of pancreatic cancer or pre-cancerous lesions.\nTo add additional biomarkers to the study panel of biomarkers. presence of colon cancer or pre-cancerous lesions. To add additional biomarkers to the study panel of biomarkers.",
+      "SamplingMethod": "Non-Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Luigi AG Laghi, MD, PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "02 8224",
+            "CentralContactPhoneExt": "4572",
+            "CentralContactEMail": "luigi.laghi@humanitas.it"
+          },
+          {
+            "CentralContactName": "Luana Greco, MD, MSci",
+            "CentralContactRole": "Contact",
+            "CentralContactEMail": "luana.greco@humanitasresearch.it"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Istituto Clinico humanitas",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Milan",
+            "LocationZip": "20089",
+            "LocationCountry": "Italy",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Luigi Laghi, MD",
+                  "LocationContactRole": "Contact",
+                  "LocationContactPhone": "+390282244572",
+                  "LocationContactEMail": "luigi.laghi@humanitas.it"
+                },
+                {
+                  "LocationContactName": "Luigi Laghi, MD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "ReferencesModule": {
+      "ReferenceList": {
+        "Reference": [
+          {
+            "ReferencePMID": "23684708",
+            "ReferenceType": "background",
+            "ReferenceCitation": "Celesti G, Di Caro G, Bianchi P, Grizzi F, Basso G, Marchesi F, Doni A, Marra G, Roncalli M, Mantovani A, Malesci A, Laghi L. Presence of Twist1-positive neoplastic cells in the stroma of chromosome-unstable colorectal tumors. Gastroenterology. 2013 Sep;145(3):647-57.e15. doi: 10.1053/j.gastro.2013.05.011. Epub 2013 May 15."
+          }
+        ]
+      }
+    },
+    "IPDSharingStatementModule": {
+      "IPDSharing": "No",
+      "IPDSharingDescription": "Data patent covered. No. Patent: EP13197367.9 - December 16, 2013"
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000010190",
+            "ConditionMeshTerm": "Pancreatic Neoplasms"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000004067",
+            "ConditionAncestorTerm": "Digestive System Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000009371",
+            "ConditionAncestorTerm": "Neoplasms by Site"
+          },
+          {
+            "ConditionAncestorId": "D000009369",
+            "ConditionAncestorTerm": "Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004701",
+            "ConditionAncestorTerm": "Endocrine Gland Neoplasms"
+          },
+          {
+            "ConditionAncestorId": "D000004066",
+            "ConditionAncestorTerm": "Digestive System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000010182",
+            "ConditionAncestorTerm": "Pancreatic Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000004700",
+            "ConditionAncestorTerm": "Endocrine System Diseases"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M12262",
+            "ConditionBrowseLeafName": "Pancreatic Neoplasms",
+            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M8038",
+            "ConditionBrowseLeafName": "Gastrointestinal Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6408",
+            "ConditionBrowseLeafName": "Digestive System Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7015",
+            "ConditionBrowseLeafName": "Endocrine Gland Neoplasms",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M8035",
+            "ConditionBrowseLeafName": "Gastrointestinal Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M6407",
+            "ConditionBrowseLeafName": "Digestive System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M12254",
+            "ConditionBrowseLeafName": "Pancreatic Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M7014",
+            "ConditionBrowseLeafName": "Endocrine System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T4387",
+            "ConditionBrowseLeafName": "Pancreatic Cancer",
+            "ConditionBrowseLeafAsFound": "Pancreatic Cancer",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC04",
+            "ConditionBrowseBranchName": "Neoplasms"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC06",
+            "ConditionBrowseBranchName": "Digestive System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BC19",
+            "ConditionBrowseBranchName": "Gland and Hormone Related Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "T120",
+            "InterventionBrowseLeafName": "Cola",
+            "InterventionBrowseLeafRelevance": "low"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "HB",
+            "InterventionBrowseBranchName": "Herbal and Botanical"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}

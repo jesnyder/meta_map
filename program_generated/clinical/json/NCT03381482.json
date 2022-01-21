@@ -1,0 +1,462 @@
+{
+  "ProtocolSection": {
+    "IdentificationModule": {
+      "NCTId": "NCT03381482",
+      "OrgStudyIdInfo": {
+        "OrgStudyId": "2016_59"
+      },
+      "SecondaryIdInfoList": {
+        "SecondaryIdInfo": [
+          {
+            "SecondaryId": "2017-A01715-48",
+            "SecondaryIdType": "Other Identifier",
+            "SecondaryIdDomain": "ID-RCB number, ANSM"
+          }
+        ]
+      },
+      "Organization": {
+        "OrgFullName": "University Hospital, Lille",
+        "OrgClass": "OTHER"
+      },
+      "BriefTitle": "Ectosomes, New Biomarkers of Tau Pathology?",
+      "OfficialTitle": "Ectosomes, New Biomarkers of Tau Pathology?",
+      "Acronym": "ECTAUSOME"
+    },
+    "StatusModule": {
+      "StatusVerifiedDate": "September 2020",
+      "OverallStatus": "Recruiting",
+      "ExpandedAccessInfo": {
+        "HasExpandedAccess": "No"
+      },
+      "StartDateStruct": {
+        "StartDate": "December 20, 2017",
+        "StartDateType": "Actual"
+      },
+      "PrimaryCompletionDateStruct": {
+        "PrimaryCompletionDate": "December 2021",
+        "PrimaryCompletionDateType": "Anticipated"
+      },
+      "CompletionDateStruct": {
+        "CompletionDate": "December 2021",
+        "CompletionDateType": "Anticipated"
+      },
+      "StudyFirstSubmitDate": "December 18, 2017",
+      "StudyFirstSubmitQCDate": "December 18, 2017",
+      "StudyFirstPostDateStruct": {
+        "StudyFirstPostDate": "December 22, 2017",
+        "StudyFirstPostDateType": "Actual"
+      },
+      "LastUpdateSubmitDate": "September 8, 2020",
+      "LastUpdatePostDateStruct": {
+        "LastUpdatePostDate": "September 9, 2020",
+        "LastUpdatePostDateType": "Actual"
+      }
+    },
+    "SponsorCollaboratorsModule": {
+      "ResponsibleParty": {
+        "ResponsiblePartyType": "Sponsor"
+      },
+      "LeadSponsor": {
+        "LeadSponsorName": "University Hospital, Lille",
+        "LeadSponsorClass": "OTHER"
+      }
+    },
+    "OversightModule": {
+      "OversightHasDMC": "No",
+      "IsFDARegulatedDrug": "No",
+      "IsFDARegulatedDevice": "No"
+    },
+    "DescriptionModule": {
+      "BriefSummary": "In Alzheimer's disease (AD), neurofibrillary degeneration (NFD) is characterized by the intraneuronal aggregation of Tau proteins. The pathology progresses through a hierarchical pathway that may be associated with the intercellular transmission of pathology as demonstrated in our rat models. This transmission implies that Tau is actively secreted and may participate to the first steps of Tau pathology spreading. It is demonstrated in cell lines and animal models (rodents and non-human primates) that Tau is secreted not only in free forms but also in extracellular vesicles. If Tau is found in biological fluids before neuronal death it may represent an early marker of the NFD and will also define therapeutically targets. In this context, the aim is now to transfer this knowledge in humans and to decipher the nature of Tau secreted in plasma and cerebrospinal fluids collected from healthy controls to AD patients, and to decipher if the presence of tau inside vesicles is influenced by the pathology."
+    },
+    "ConditionsModule": {
+      "ConditionList": {
+        "Condition": [
+          "Alzheimer Disease"
+        ]
+      },
+      "KeywordList": {
+        "Keyword": [
+          "Alzheimer disease",
+          "Extracellular vesicles",
+          "Biomarker",
+          "Tau",
+          "CSF",
+          "Plasma"
+        ]
+      }
+    },
+    "DesignModule": {
+      "StudyType": "Observational",
+      "PatientRegistry": "No",
+      "DesignInfo": {
+        "DesignObservationalModelList": {
+          "DesignObservationalModel": [
+            "Cohort"
+          ]
+        },
+        "DesignTimePerspectiveList": {
+          "DesignTimePerspective": [
+            "Prospective"
+          ]
+        }
+      },
+      "BioSpec": {
+        "BioSpecRetention": "Samples With DNA",
+        "BioSpecDescription": "blood and CSF sampling"
+      },
+      "EnrollmentInfo": {
+        "EnrollmentCount": "100",
+        "EnrollmentType": "Anticipated"
+      }
+    },
+    "ArmsInterventionsModule": {
+      "ArmGroupList": {
+        "ArmGroup": [
+          {
+            "ArmGroupLabel": "Controls",
+            "ArmGroupDescription": "Group 1: the 4ml of CSF collected in the surgery context will be kept for the study, and 6x5ml of blood will be added to the usual samples.",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: CSF drawing during spinal anaesthesia",
+                "Diagnostic Test: Fasting blood sample"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Asymptomatic cases with high risk to develop AD",
+            "ArmGroupDescription": "Group 2: 10ml of CSF and 6x5ml of blood will be collected",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Fasting blood sample",
+                "Diagnostic Test: Lumbar puncture"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Cases with isolated cognitive complaint",
+            "ArmGroupDescription": "Group 3: 10ml of CSF and 6x5ml of blood will be collected",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Fasting blood sample",
+                "Diagnostic Test: Lumbar puncture"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Prodromal AD",
+            "ArmGroupDescription": "Group 4: 10ml of CSF and 6x5ml of blood will be collected",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Fasting blood sample",
+                "Diagnostic Test: Lumbar puncture"
+              ]
+            }
+          },
+          {
+            "ArmGroupLabel": "Mild to moderate probable AD-type dementia",
+            "ArmGroupDescription": "Group 5: 10ml of CSF and 6x5ml of blood will be collected",
+            "ArmGroupInterventionList": {
+              "ArmGroupInterventionName": [
+                "Diagnostic Test: Fasting blood sample",
+                "Diagnostic Test: Lumbar puncture"
+              ]
+            }
+          }
+        ]
+      },
+      "InterventionList": {
+        "Intervention": [
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "CSF drawing during spinal anaesthesia",
+            "InterventionDescription": "4mL of CSF by lumbar puncture",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Controls"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "Fasting blood sample",
+            "InterventionDescription": "6x5 mL of fasting blood sample",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Asymptomatic cases with high risk to develop AD",
+                "Cases with isolated cognitive complaint",
+                "Controls",
+                "Mild to moderate probable AD-type dementia",
+                "Prodromal AD"
+              ]
+            }
+          },
+          {
+            "InterventionType": "Diagnostic Test",
+            "InterventionName": "Lumbar puncture",
+            "InterventionDescription": "10 mL of CSF by lumbar puncture",
+            "InterventionArmGroupLabelList": {
+              "InterventionArmGroupLabel": [
+                "Asymptomatic cases with high risk to develop AD",
+                "Cases with isolated cognitive complaint",
+                "Mild to moderate probable AD-type dementia",
+                "Prodromal AD"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "OutcomesModule": {
+      "PrimaryOutcomeList": {
+        "PrimaryOutcome": [
+          {
+            "PrimaryOutcomeMeasure": "Presence of Tau in extracellular vesicles in CSF",
+            "PrimaryOutcomeDescription": "Tau will be measured by ELISA in extracellular vesicles and the presence of Tau in extracellular vesicles will considered positive if the concentration of Tau is superior to the sensitivity threshold of the antibody used.",
+            "PrimaryOutcomeTimeFrame": "Baseline"
+          }
+        ]
+      },
+      "SecondaryOutcomeList": {
+        "SecondaryOutcome": [
+          {
+            "SecondaryOutcomeMeasure": "The ratio of free Tau/vesicular Tau for all groups will be assessed with samples obtained during the visit.",
+            "SecondaryOutcomeDescription": "Tau will be measured by ELISA (concentration of Tau in pg/mL) and using the Nanosight technology (% of vesicles containing Tau). Results will be expressed either in percentage or in concentration (ie concentration of free Tau/concentration of vesicular Tau; % of free Tau/% of vesicular Tau).",
+            "SecondaryOutcomeTimeFrame": "Baseline"
+          },
+          {
+            "SecondaryOutcomeMeasure": "The presence of clusters of the epigenetic markers H3K9me3 in nuclei of peripheral blood mononuclear cells for all groups will be assessed with samples obtained during the visit.",
+            "SecondaryOutcomeDescription": "The H3K9m3 marker will be revealed by immunodetection and revealed by fluorescence. The presence of one cluster of H3K9m3 will be considered as positive. Results will be expressed in % of cells with clusters.",
+            "SecondaryOutcomeTimeFrame": "Baseline"
+          }
+        ]
+      }
+    },
+    "EligibilityModule": {
+      "EligibilityCriteria": "Inclusion Criteria:\n\nSubjects able to undergo a lumbar puncture;\nSubjects who have a partner who will be required for driving back the subject after the lumbar punction for safety reasons (not required for control subjects);\nSubjects (or the study partner for group 5) capable of and willing to comply with the protocol and to give their written informed consents after having received and understood the subject information. According to the legal protection or the mental capacities of the subject, he/she will be accompanied by him/her legally acceptable representative during this procedure;\nBlood coagulation testing\nSubjects registered with the French Social Security, in agreement with the French law on biomedical experimentation.\n\nGroup 1: controls\n\nabsence of cognitive complaint\nabsence of significant cognitive impairment: MMSE>27\nNegative ApoE4 status (ε 4-/ ε 4-) No family history of AD at first degree Group 2: asymptomatic cases with high risk to develop AD\nabsence of cognitive complaint\nabsence of significant cognitive impairment : MMSE>27\nknown ApoE4 status or family history of AD at first degree Group 3: cases with isolated cognitive complaint\npresence of a cognitive complaint\nabsence of cognitive impairment assessed by MMSE>27 and standard neuropsychological examination (performed < 1 year) Group 4: prodromal AD according to the 2007 criteria (Dubois et al., 2007)\nprogressive and significant episodic memory impairment >6 months\nAnd at least one of the following: medial temporal atrophy of brain MRI / low Ab42 and increased total and phosphorylated Tau protein in the CSF/ bilateral temporoparietal hypometabolism on brain FDG-PET/ positive amyloid brain PET if available\nexclusion of any differential diagnoses Group 5: Mild to moderate probable AD-type dementia according to the NIA 2011 criteria\nprogressive and significant cognitive decline >6 months\namnestic or any other predominant clinical presentation\nexclusion of any differential diagnoses\nMMSE between 15 and 26 (inclusive)\n\nExclusion Criteria:\n\nSubjects with dementia caused by a non-neurodegenerative disease, including patients with severe cerebrovascular risk factor load;\n\nAssociated Illnesses or conditions:\n\nSubjects with other neurodegenerative disease such as fronto-temporal dementia (FTD), Lewy body dementia and Parkinson's disease;\nSubjects with other serious neurological disorder such as brain tumour, stroke, epilepsy, hydrocephalus and any condition which contraindicates, in the investigator's judgment, entry to the study;\nSubjects with demyelinating diseases of the peripheral nervous system such as Guillain-Barre Syndrome;\n\nBiological exclusion criteria:\n\nSubjects with known active Hepatitis C Virus (HCV), Hepatitis B Virus (HBV) or Human Immunodeficiency Virus (HIV);\nSubjects with clinical or significant laboratory abnormalities, in the judgment of the investigator;\n\nOthers:\n\nSubjects with excessive alcohol intake or drug abuse, in the judgment of the investigator;\nSubjects who have contraindications to perform a lumbar puncture;\nSubjects who, in the opinion of the Investigator, have a risk of non-compliance to the study procedures or who are otherwise not appropriate to include in this clinical trial (for example, being impossible to contact in case of emergency).",
+      "HealthyVolunteers": "No",
+      "Gender": "All",
+      "MinimumAge": "40 Years",
+      "MaximumAge": "85 Years",
+      "StdAgeList": {
+        "StdAge": [
+          "Adult",
+          "Older Adult"
+        ]
+      },
+      "StudyPopulation": "Subjects intended to participate in group 1 have to undergo a lumbar puncture for other reasons than a cognitive complaint. They will be identified in the anaesthesiology department among patients who are waiting for scheduled orthopaedic surgery needing spinal anaesthesia. They will have the sample collection done with its specific procedures in the same time.\n\nif a subject is already followed at the MRRC and meets group 1 eligibility criteria, he/she could be asked to participate in the study and thus be enrolled and followed by a MRRC investigator.\n\nPatients intended to participate in groups 2 to 5 will be identified at the MRRC during their scheduled visit with the investigators specialized in neurology/geriatric medicine.",
+      "SamplingMethod": "Probability Sample"
+    },
+    "ContactsLocationsModule": {
+      "CentralContactList": {
+        "CentralContact": [
+          {
+            "CentralContactName": "Vincent DERAMECOURT, MD,PhD",
+            "CentralContactRole": "Contact",
+            "CentralContactPhone": "320446021",
+            "CentralContactPhoneExt": "+33",
+            "CentralContactEMail": "vincent.deramecourt@chru-lille.fr"
+          }
+        ]
+      },
+      "OverallOfficialList": {
+        "OverallOfficial": [
+          {
+            "OverallOfficialName": "Vincent DERAMECOURT, MD,PhD",
+            "OverallOfficialAffiliation": "University Hospital, Lille",
+            "OverallOfficialRole": "Principal Investigator"
+          }
+        ]
+      },
+      "LocationList": {
+        "Location": [
+          {
+            "LocationFacility": "Hôpital Roger Salengro, CHRU",
+            "LocationStatus": "Recruiting",
+            "LocationCity": "Lille",
+            "LocationCountry": "France",
+            "LocationContactList": {
+              "LocationContact": [
+                {
+                  "LocationContactName": "Vincent DERAMEUCOURT, MD,PhD",
+                  "LocationContactRole": "Principal Investigator"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "DerivedSection": {
+    "MiscInfoModule": {
+      "VersionHolder": "January 20, 2022"
+    },
+    "ConditionBrowseModule": {
+      "ConditionMeshList": {
+        "ConditionMesh": [
+          {
+            "ConditionMeshId": "D000000544",
+            "ConditionMeshTerm": "Alzheimer Disease"
+          }
+        ]
+      },
+      "ConditionAncestorList": {
+        "ConditionAncestor": [
+          {
+            "ConditionAncestorId": "D000003704",
+            "ConditionAncestorTerm": "Dementia"
+          },
+          {
+            "ConditionAncestorId": "D000001927",
+            "ConditionAncestorTerm": "Brain Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000002493",
+            "ConditionAncestorTerm": "Central Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000009422",
+            "ConditionAncestorTerm": "Nervous System Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000024801",
+            "ConditionAncestorTerm": "Tauopathies"
+          },
+          {
+            "ConditionAncestorId": "D000019636",
+            "ConditionAncestorTerm": "Neurodegenerative Diseases"
+          },
+          {
+            "ConditionAncestorId": "D000019965",
+            "ConditionAncestorTerm": "Neurocognitive Disorders"
+          },
+          {
+            "ConditionAncestorId": "D000001523",
+            "ConditionAncestorTerm": "Mental Disorders"
+          }
+        ]
+      },
+      "ConditionBrowseLeafList": {
+        "ConditionBrowseLeaf": [
+          {
+            "ConditionBrowseLeafId": "M3037",
+            "ConditionBrowseLeafName": "Alzheimer Disease",
+            "ConditionBrowseLeafAsFound": "Alzheimer's Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          },
+          {
+            "ConditionBrowseLeafId": "M6056",
+            "ConditionBrowseLeafName": "Dementia",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4356",
+            "ConditionBrowseLeafName": "Brain Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M4894",
+            "ConditionBrowseLeafName": "Central Nervous System Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M22155",
+            "ConditionBrowseLeafName": "Tauopathies",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20711",
+            "ConditionBrowseLeafName": "Neurodegenerative Diseases",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M20989",
+            "ConditionBrowseLeafName": "Neurocognitive Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M3967",
+            "ConditionBrowseLeafName": "Mental Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "M13625",
+            "ConditionBrowseLeafName": "Psychotic Disorders",
+            "ConditionBrowseLeafRelevance": "low"
+          },
+          {
+            "ConditionBrowseLeafId": "T2192",
+            "ConditionBrowseLeafName": "Familial Alzheimer Disease",
+            "ConditionBrowseLeafAsFound": "Alzheimer's Disease",
+            "ConditionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "ConditionBrowseBranchList": {
+        "ConditionBrowseBranch": [
+          {
+            "ConditionBrowseBranchAbbrev": "BC10",
+            "ConditionBrowseBranchName": "Nervous System Diseases"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "BXM",
+            "ConditionBrowseBranchName": "Behaviors and Mental Disorders"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "All",
+            "ConditionBrowseBranchName": "All Conditions"
+          },
+          {
+            "ConditionBrowseBranchAbbrev": "Rare",
+            "ConditionBrowseBranchName": "Rare Diseases"
+          }
+        ]
+      }
+    },
+    "InterventionBrowseModule": {
+      "InterventionMeshList": {
+        "InterventionMesh": [
+          {
+            "InterventionMeshId": "D000000777",
+            "InterventionMeshTerm": "Anesthetics"
+          }
+        ]
+      },
+      "InterventionAncestorList": {
+        "InterventionAncestor": [
+          {
+            "InterventionAncestorId": "D000002492",
+            "InterventionAncestorTerm": "Central Nervous System Depressants"
+          },
+          {
+            "InterventionAncestorId": "D000045505",
+            "InterventionAncestorTerm": "Physiological Effects of Drugs"
+          }
+        ]
+      },
+      "InterventionBrowseLeafList": {
+        "InterventionBrowseLeaf": [
+          {
+            "InterventionBrowseLeafId": "M3259",
+            "InterventionBrowseLeafName": "Anesthetics",
+            "InterventionBrowseLeafAsFound": "Imaging",
+            "InterventionBrowseLeafRelevance": "high"
+          }
+        ]
+      },
+      "InterventionBrowseBranchList": {
+        "InterventionBrowseBranch": [
+          {
+            "InterventionBrowseBranchAbbrev": "CNSDep",
+            "InterventionBrowseBranchName": "Central Nervous System Depressants"
+          },
+          {
+            "InterventionBrowseBranchAbbrev": "All",
+            "InterventionBrowseBranchName": "All Drugs and Chemicals"
+          }
+        ]
+      }
+    }
+  }
+}
