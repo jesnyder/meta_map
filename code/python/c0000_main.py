@@ -12,15 +12,12 @@ import os, json
 
 from c0001_retrieve_meta import retrieve_path
 from c0001_retrieve_meta import retrieve_datetime
-#from c0100_scrape_trials import scrape_trials
-from c0200_build_dataframe import build_dataframe
-from c0300_build_plots import build_plots
-from c0400_scrape_patents import scrape_patents
-# from c0500_scrape_gscholar import scrape_gscholar
-from c1000_create_webpage import create_webpage
+#from c1000_create_webpage import create_webpage
 
 from c0100_scrape_gscholar import scrape_gscholar
 from c0200_scrape_clinical import scrape_clinical
+
+from c1000_build_webpage import build_webpage
 
 
 def main():
@@ -34,10 +31,12 @@ def main():
 
     """
 
-    tasks = [2]
+    tasks = [10]
 
     if 1 in tasks: scrape_gscholar()
     if 2 in tasks: scrape_clinical()
+
+    if 10 in tasks: build_webpage()
 
 
 

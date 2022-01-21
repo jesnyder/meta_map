@@ -43,7 +43,7 @@ def scrape_clinical():
 
     """
 
-    tasks = [7]
+    tasks = [6]
 
     if 1 in tasks: aggregate_trials()
     if 2 in tasks: scrape_json()
