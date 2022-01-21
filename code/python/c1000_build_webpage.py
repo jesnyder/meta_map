@@ -64,13 +64,31 @@ def start_html():
     # body
     f.write('<body>' + '\n')
 
+
+    f.write('<center>' + '\n')
     f.write('<h2>' + '\n')
     f.write('A map of the clinical trials' + '\n')
     f.write('</h2>' + '\n')
 
+    f.write('<center>' + '\n')
+    f.write('<h3>' + '\n')
+    f.write('Objective: Survey Clinical Trials using an MSC Intervention' + '\n')
+    f.write('</h3>' + '\n')
+
     f.write('<p>' + '\n')
     f.write('A map of the clinical trials' + '\n')
     f.write('</p>' + '\n')
+    f.write('</center>' + '\n')
+
+    f.write('<center>' + '\n')
+    f.write('<h3>' + '\n')
+    f.write('Method: Data Scraping' + '\n')
+    f.write('</h3>' + '\n')
+
+    f.write('<p>' + '\n')
+    f.write('A map of the clinical trials' + '\n')
+    f.write('</p>' + '\n')
+    f.write('</center>' + '\n')
 
     f.write('\n')
     f.write('<div id="wrapper">')
@@ -79,6 +97,59 @@ def start_html():
     f.write('\n')
 
     f.write('</body>' + '\n')
+
+    # make a table to list trial count by country
+    for  file in os.listdir(retrieve_path('count_clinical')):
+        df = pd.read_csv(os.path.join(retrieve_path('count_clinical'), file))
+        del df['Unnamed: 0']
+        df = df[df['count'] > 10]
+        print(df)
+
+        if 'Country' not in file and 'Affiliation' not in file and 'City' not in file and 'Condition' not in file and 'Outcome Measures' not in file and 'Facility' not in file and 'Interventions' not in file and 'Locations' not in file and 'Zipcode' not in file:
+            continue
+
+        f.write('<center>' + '\n')
+        f.write('<h3>' + '\n')
+        name, ext = file.split('.')
+        f.write(name + '\n')
+        f.write('</h3>' + '\n')
+        f.write('</center>' + '\n')
+
+        f.write('<table ')
+        f.write('style="border:1px solid black;margin-left:auto;margin-right:auto;"')
+        f.write(' ">' + '\n')
+
+        # write the table header
+        f.write('<tr>' + '\n')
+        for name in df.columns:
+            f.write('<td>' + '\n')
+            f.write(name)
+            f.write('</td>' + '\n')
+
+            f.write('<td>' + '\n')
+            f.write('       ')
+            f.write('</td>' + '\n')
+
+        f.write('</tr>' + '\n')
+
+        for j in range(len(list(df.iloc[:,0]))):
+
+            f.write('<tr>' + '\n')
+
+            for name in df.columns:
+
+                f.write('<td>' + '\n')
+                f.write(str(df.loc[j][name]))
+                f.write('</td>' + '\n')
+
+                f.write('<td>' + '\n')
+                f.write('       ')
+                f.write('</td>' + '\n')
+
+            f.write('</tr>' + '\n')
+
+        f.write('</table>' + '\n')
+
     f.write('</html>' + '\n')
 
     f.close()
