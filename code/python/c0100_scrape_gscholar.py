@@ -30,7 +30,7 @@ def scrape_gscholar():
 
     """
 
-    tasks = [2, 3]
+    tasks = [1, 2, 3]
 
     # find search names and corresponding search terms
     df = pd.read_csv(os.path.join(retrieve_path('search_terms')))

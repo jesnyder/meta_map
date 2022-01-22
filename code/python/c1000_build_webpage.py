@@ -33,11 +33,83 @@ def build_webpage():
 
     print('started build_webpage')
 
-    tasks = [1]
+    tasks = [1, 2]
 
+    if 2 in tasks: chart_js()
     if 1 in tasks: start_html()
 
     print('completed build_webpage')
+
+
+def chart_js():
+    """
+
+    """
+
+    df_save = os.path.join(retrieve_path('df_clinical'), 'df_combined_v03' + '.csv')
+    df = pd.read_csv(df_save)
+
+    df = df.sort_values('Enrollment', ascending=False)
+
+    lat = list(df['lat'])
+    lon = list(df['lon'])
+    enrollment = list(df['Enrollment'])
+    title = list(df['Title'])
+
+    f = open(os.path.join(retrieve_path('js_index')), 'w')
+
+    f.write('JSC.Chart(\'chartDiv\', {')
+    f.write('\n')
+
+    #f.write('type: \'horizontal column\',')
+    chart_type = 'horizontal column'
+    chart_type = 'scatter'
+    #chart_type = 'bubble'
+    f.write('type: \'' + chart_type + '\' , ')
+    f.write('\n')
+
+    f.write('series: [')
+    f.write('\n')
+
+    f.write('{')
+    f.write('\n')
+
+    f.write('points: [')
+    f.write('\n')
+
+    for i in range(len(lat[0:10])):
+
+        f.write('\n')
+        f.write('{')
+        f.write('x: ' + '\'' + str(float(lat[i])) + '\'' + ', ')
+        f.write('y: ' + '\'' + str(float(lon[i])) + '\'' + ', ')
+        f.write('r: ' + '\'' + str(float(enrollment[i])) + '\'' )
+        f.write('}' + ' , ')
+        f.write('\n')
+
+    """
+    f.write('{x: \'Apples\', y: 50},')
+    f.write('\n')
+
+    f.write('{x: \'Oranges\', y: 42}')
+    f.write('\n')
+    """
+
+    f.write(']')
+    f.write('\n')
+
+    f.write('}')
+    f.write('\n')
+
+    f.write(']')
+    f.write('\n')
+
+    f.write('});')
+    f.write('\n')
+
+    f.close()
+
+
 
 
 def start_html():
@@ -72,7 +144,7 @@ def start_html():
 
     f.write('<center>' + '\n')
     f.write('<h3>' + '\n')
-    f.write('Objective: Survey Clinical Trials using an MSC Intervention' + '\n')
+    f.write('Objective: Survey clinical trials using an MSC intervention' + '\n')
     f.write('</h3>' + '\n')
 
     f.write('<p>' + '\n')
@@ -80,15 +152,19 @@ def start_html():
     f.write('</p>' + '\n')
     f.write('</center>' + '\n')
 
+
+    f.write('\n')
     f.write('<center>' + '\n')
     f.write('<h3>' + '\n')
     f.write('Method: Data Scraping' + '\n')
     f.write('</h3>' + '\n')
 
     f.write('<p>' + '\n')
-    f.write('A map of the clinical trials' + '\n')
+    f.write('The National Instittue of Health (NIH) and the National Library of Medicine (NLM) maintain a website that archives clinical trials. ClinicalTrials.gov (NIH) is a database of ' + '\n')
     f.write('</p>' + '\n')
     f.write('</center>' + '\n')
+    f.write('\n')
+
 
     f.write('\n')
     f.write('<div id="wrapper">')
@@ -96,6 +172,13 @@ def start_html():
     f.write('</div>')
     f.write('\n')
 
+    f.write('</body>' + '\n')
+
+    f.write('<body>' + '\n')
+    f.write('<center>' + '\n')
+    f.write('<div id="chartDiv" style="width:80%; height:300px; margin:0 auto;">')
+    f.write('</div>' + '\n')
+    f.write('</center>' + '\n')
     f.write('</body>' + '\n')
 
     # make a table to list trial count by country
@@ -113,11 +196,22 @@ def start_html():
         name, ext = file.split('.')
         f.write(name + '\n')
         f.write('</h3>' + '\n')
+
+        f.write('<p>' + '\n')
+        f.write('The search found ')
+        f.write(str(len(list(df['count']))))
+        f.write(' entries with more than 10 trials. The number of trials in the table is ')
+        f.write(str(sum(list(df['count']))))
+        f.write('.')
+        f.write('</p>' + '\n')
+
+
+
         f.write('</center>' + '\n')
 
         f.write('<table ')
         f.write('style="border:1px solid black;margin-left:auto;margin-right:auto;"')
-        f.write(' ">' + '\n')
+        f.write(' >' + '\n')
 
         # write the table header
         f.write('<tr>' + '\n')
@@ -149,6 +243,14 @@ def start_html():
             f.write('</tr>' + '\n')
 
         f.write('</table>' + '\n')
+
+    # include for javascript chart
+    # ref: https://www.freecodecamp.org/news/how-to-make-your-first-javascript-chart/
+    f.write('<script src="https://code.jscharting.com/2.9.0/jscharting.js"></script>')
+    f.write('\n')
+    js_index = retrieve_path('js_index')
+    f.write('<script src="' + js_index + '"></script>')
+    f.write('\n')
 
     f.write('</html>' + '\n')
 
